@@ -28,18 +28,27 @@
           下列的單位都是馬弓騎兵系單位
           <ul>
             <li>
-              <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
-              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-              <nuxt-link to="/units/Heavy_Cavalry_Archer"
+              <img
+                class="gg"
+                src="~assets/CavalryArcherIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/HeavyCavArcherIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >
             </li>
             <li>
-              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-              <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>(1)→
-              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-              <nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
+              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" /><nuxt-link
+                to="/units/Genitour"
+                >標槍騎兵</nuxt-link
+              >(1)→
+              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" /><nuxt-link
+                to="/units/Genitour"
+                >精銳標槍騎兵</nuxt-link
               >(1)(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>及其同盟限定)
             </li>
             <li>
@@ -129,8 +138,7 @@
                       class="gg"
                       src="~assets/Imperialskirmishericon.png"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Skirmisher"
+                    /><nuxt-link to="/units/Imperial_Skirmisher"
                       >帝王戰矛兵</nuxt-link
                     >
                     (<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
@@ -144,12 +152,14 @@
                       class="gg"
                       src="~assets/EliteSkirmisherIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
+                    /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link>
                   </li>
                   (<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
                   >及同盟限定)

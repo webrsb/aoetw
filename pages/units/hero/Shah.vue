@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>沙赫</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/hero"
-              >英雄</nuxt-link
+            <strong>沙赫</strong>是《世紀帝國 II HD:<nuxt-link to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >"遊牧民族的西遷"和戰役編輯器中找到。沙赫是根據<nuxt-link
               to="/civs/Persians"

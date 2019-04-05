@@ -283,13 +283,11 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_wall_and_gate"
+              <br /><nuxt-link to="/armor/Armor_Class_wall_and_gate"
                 >牆與門</nuxt-link
               >
             </td>

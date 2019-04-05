@@ -28,10 +28,8 @@
             >或樹木過多的封閉地形，它的價值顯得額外重要，除了<nuxt-link
               to="/civs/Huns"
               >匈奴人</nuxt-link
-            >和
-            <nuxt-link to="/civs/Turks">土耳其人</nuxt-link>之外，其它<nuxt-link
-              to="/civs"
-              >文明</nuxt-link
+            >和<nuxt-link to="/civs/Turks">土耳其人</nuxt-link
+            >之外，其它<nuxt-link to="/civs">文明</nuxt-link
             >都可以透過<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >將<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
@@ -47,8 +45,9 @@
             >的<nuxt-link to="/units/Archer_Units">遠程兵種</nuxt-link
             >(通常射程是8)，無法用拉打的方式打爆<nuxt-link to="/units/Mangonel"
               >投石車</nuxt-link
-            >，並可以藉著射程與強大的攻擊，一擊必殺
-            <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+            >，並可以藉著射程與強大的攻擊，一擊必殺<nuxt-link
+              to="/units/Elite_Skirmisher"
+              >戰矛兵</nuxt-link
             >與<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>等單位。
           </p>
         </div>
@@ -65,8 +64,8 @@
           <p>
             喜好中型投石車的玩家，應該會很喜歡使用<nuxt-link to="/civs/Koreans"
               >韓國</nuxt-link
-            >文明，因為<nuxt-link to="/techs/untech">特殊科技</nuxt-link>
-            <nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link
+            >文明，因為<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link
             >可以使投石車射程+1，亦或者與<nuxt-link to="/civs/Koreans"
               >韓國</nuxt-link
             >文明結為同盟，可以降低已方的投石車最短射程限制。
@@ -101,12 +100,12 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
-              <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
-                to="/units/Woad_Raider"
-                >菘藍武士</nuxt-link
-              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >、<nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
+              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
@@ -633,10 +632,9 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +45 vs
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-              <br />+12 vs
-              <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+              +45 vs<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              ><br />+12 vs<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
             </td>

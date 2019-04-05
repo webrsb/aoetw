@@ -94,11 +94,8 @@
             >)。
           </li>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>x4、<nuxt-link
-              to="/units/Light_Cavalry"
-              >輕騎兵</nuxt-link
-            >x1、
+            軍事單位 -<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+            >x4、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>x1、
           </li>
           <li>
             經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x7。

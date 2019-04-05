@@ -49,8 +49,9 @@
             >的攻擊。在海島的地圖上，在海岸線附近設置幾個火砲塔是一個明智的主意，消滅敵方艦隊同時為靠近海岸的玩家自己的艦隊提供一些火力支援。
           </p>
           <p>
-            在進攻方面，火砲塔也可以作前線支援，在部隊撤退時部隊可以駐紮在內並獲得治療，如果將他們放置在敵方位置附近則可以給予火力壓制。在這方面，他們比
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            在進攻方面，火砲塔也可以作前線支援，在部隊撤退時部隊可以駐紮在內並獲得治療，如果將他們放置在敵方位置附近則可以給予火力壓制。在這方面，他們比<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
             >好，因為花費更便宜，攻擊力高而且建得更快。
           </p>
           <p>
@@ -58,20 +59,19 @@
               to="/units/Infantry_Units"
               >步兵</nuxt-link
             >/<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >，也可兩擊殺死除了
-            <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>/<nuxt-link
-              to="/units/Turtle_Ship"
-              >龜甲船</nuxt-link
+            >，也可兩擊殺死除了<nuxt-link to="/units/War_Elephant"
+              >戰象</nuxt-link
+            >/<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
             >以外的單位。然而他們容易被<nuxt-link to="/units/Trebuchet"
               >巨型投石機</nuxt-link
-            >/
-            <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+            >/<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
             >/<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >從遠距離摧毀。所以碰到上述三種單位和<nuxt-link
               to="/units/Siege_Ram"
               >重型衝撞車</nuxt-link
-            >攻擊時，最好在火砲塔附近佈置些肉博單位做反制。
-            <nuxt-link to="/civs/Britons">不列顛</nuxt-link
+            >攻擊時，最好在火砲塔附近佈置些肉博單位做反制。<nuxt-link
+              to="/civs/Britons"
+              >不列顛</nuxt-link
             ><nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
             >的射程雖比火砲塔遠，但傷害太小若沒有一定數量不構成威脅。
           </p>
@@ -94,8 +94,8 @@
             >的火砲塔有額外的長射程，使得他們只能被<nuxt-link
               to="/units/Trebuchet"
               >巨型投石機</nuxt-link
-            >/
-            <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link
+            >/<nuxt-link to="/units/Elite_Cannon_Galleon"
+              >精銳火砲戰船</nuxt-link
             >/<nuxt-link to="/civs/Turks">土耳其</nuxt-link
             ><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>所威脅。
           </p>
@@ -111,16 +111,22 @@
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
+                to="/civs/Koreans"
+                >韓國</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Teutons"
+                >條頓</nuxt-link
+              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
+                to="/civs/Vietnamese"
+                >越南</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -133,27 +139,37 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
+                to="/civs/Burmese"
+                >緬甸</nuxt-link
+              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
+                to="/civs/Goths"
+                >哥德</nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+                to="/civs/Incas"
+                >印加</nuxt-link
+              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
+                to="/civs/Mayans"
+                >馬雅</nuxt-link
+              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -533,16 +549,16 @@
               >的版本中，在地圖編輯器中使用這兩個<nuxt-link to="/civs"
                 >文明</nuxt-link
               >蓋火砲塔會變成與<nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >相同的中歐風格。而到了
-              <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+              >相同的中歐風格。而到了<nuxt-link to="/games/aof"
+                >失落的帝國</nuxt-link
               >，南美文明便有了自己風格的火砲塔，即使實戰中並不可能建造。
             </li>
             <li>
               火砲塔通常一次發射一枚砲彈，但條頓的火砲塔可以駐守達10個單位，如果駐守10名<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >，那麼便有2枚砲彈，如果是10名
-              <nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >，那麼便有2枚砲彈，如果是10名<nuxt-link to="/units/Janissary"
+                >土耳其火槍兵</nuxt-link
               >就有3枚砲彈。
             </li>
             <li>
@@ -708,8 +724,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +40對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>
-              <br />+1對<nuxt-link to="/armor/Armor_Class_Camel"
+              +40對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
+              ><br />+1對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝單位</nuxt-link
               >
             </td>
@@ -750,14 +766,12 @@
               <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <br /><nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_stone_defense"
+              <br /><nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >
             </td>

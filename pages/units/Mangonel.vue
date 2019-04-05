@@ -56,8 +56,8 @@
             >的攻擊距離到達7，恰好可以投擲到<nuxt-link
               to="/building/Town_Center"
               >城鎮中心</nuxt-link
-            >(起始放箭距離為6)，所以將
-            <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
+            >(起始放箭距離為6)，所以將<nuxt-link to="/units/Mangonel"
+              >輕型投石車</nuxt-link
             >拿來拆除<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >也是個不錯的選擇，但<nuxt-link to="/elements/Hit_points"
               >生命值</nuxt-link
@@ -100,12 +100,13 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
-              <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
-                to="/units/Woad_Raider"
-                >菘藍武士</nuxt-link
-              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >、<nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
+              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -628,10 +629,9 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +35 vs
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-              <br />+12 vs
-              <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+              +35 vs<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              ><br />+12 vs<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
             </td>
@@ -709,8 +709,7 @@
                 class="gg"
                 src="~assets/Onager-research.jpg"
                 alt=""
-              />800<nuxt-link to="/resource/Food">食物</nuxt-link>
-              500黃金
+              />800<nuxt-link to="/resource/Food">食物</nuxt-link>500黃金
             </td>
           </tr>
           <tr>

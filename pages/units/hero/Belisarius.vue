@@ -8,14 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>薩瓦蘭重騎兵</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>薩瓦蘭重騎兵</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，只可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。薩瓦蘭重騎兵沒有出現在原先《世紀帝國 II HD:
-            帝王世紀》的戰役中，反而在《世紀帝國 II HD:
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            帝王世紀》的戰役中，反而在《世紀帝國 II HD:<nuxt-link
+              to="/games/aof"
+              >失落的帝國</nuxt-link
             >》的戰役中出現好幾次。薩瓦蘭重騎兵有<nuxt-link
               to="/units/Cataphract"
               >聖騎兵</nuxt-link

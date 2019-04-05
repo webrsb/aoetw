@@ -12,12 +12,11 @@
             HD：<nuxt-link to="/games/ak">非洲王國</nuxt-link
             >》的地圖編輯器中能使用的<nuxt-link to="/armor/Armor_Class_Archer"
               >射手</nuxt-link
-            >
-            <nuxt-link to="/units/hero/">英雄</nuxt-link
+            ><nuxt-link to="/units/hero/">英雄</nuxt-link
             >。史實中的他是一名熱那亞商人暨軍事領袖，在第一次十字軍東征後給予了各個十字軍國家協助。
           </p>
-          在遊戲中，他是一名數值更強的
-          <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+          在遊戲中，他是一名數值更強的<nuxt-link to="/units/Genoese_Crossbowman"
+            >熱那亞弩手</nuxt-link
           >。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
           >單位，所以無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
           >，也會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
@@ -88,8 +87,8 @@
               +10 <br />對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >
-              +7 <br />對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
-              +7 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              +7 <br />對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link
+              >+7 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               +2 <br />
@@ -128,8 +127,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
               <br />

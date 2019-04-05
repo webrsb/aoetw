@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>沙底隆的雷諾</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>沙底隆的雷諾</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。雷諾會短暫出現在<nuxt-link to="/batt/Saladina"
               >沙拉丁</nuxt-link
@@ -47,7 +47,7 @@
             <div class="col-md-5">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   width="250"
                   src="~assets/Constablerichemont.png"
                   alt=""

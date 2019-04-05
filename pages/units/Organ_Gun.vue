@@ -11,8 +11,7 @@
             <b>風琴砲</b>是<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。風琴砲是<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >部隊前方範圍傷害，對<nuxt-link to="/armor/Armor_Class_Ram"
@@ -88,11 +87,9 @@
               <nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
                 to="/units/Condottiero"
                 >傭兵</nuxt-link
-              >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>、
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>、<nuxt-link
-                to="/units/Huskarl"
-                >哥德衛隊</nuxt-link
-              >
+              >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+              >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
             </td>
           </tr>
           <tr class="tta">
@@ -371,10 +368,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高風琴砲的生產速度和
-              <nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>及<nuxt-link
-                to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+              >能夠提高風琴砲的生產速度和<nuxt-link to="/techs/Arquebus"
+                >火繩槍</nuxt-link
+              >及<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >的速度(+25%)。
             </li>
             <li>

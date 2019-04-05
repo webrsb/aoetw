@@ -11,8 +11,9 @@
             <b>大主教</b>是一個在世紀帝國II:<nuxt-link to="/games/aok"
               >帝王世紀</nuxt-link
             >中的<nuxt-link to="/units/hero">英雄</nuxt-link
-            >單位。你只有透過地圖編輯器才能找到他。他以普通（或更高職位）的基督教主教為藍本。在遊戲中大主教以
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >單位。你只有透過地圖編輯器才能找到他。他以普通（或更高職位）的基督教主教為藍本。在遊戲中大主教以<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
             >的外表出現，但是他的能力值更高。作為一個英雄單位，大主教無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
@@ -24,8 +25,9 @@
             >相關的升級和加成對大主教通通有效。如果大主教撿起了<nuxt-link
               to="/elements/Relic"
               >遺跡</nuxt-link
-            >，會出現bug使他變成一般的
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link>。
+            >，會出現bug使他變成一般的<nuxt-link to="/units/Monk"
+              >僧侶</nuxt-link
+            >。
           </p>
         </div>
       </div>

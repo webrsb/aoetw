@@ -11,8 +11,7 @@
             <b>馬扎爾驃騎兵</b>是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。馬扎爾驃騎兵是輕型快速的騎兵部隊對<nuxt-link
               to="/units/Siege_Weapons"
               >攻城器單位</nuxt-link
@@ -27,8 +26,9 @@
             >因此被稱為是垃圾兵，值得一提馬扎爾驃騎兵跟<nuxt-link
               to="/units/Knight"
               >騎士</nuxt-link
-            >是差不多威力的。馬扎爾驃騎兵可以在
-            <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >是差不多威力的。馬扎爾驃騎兵可以在<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             >升級為精銳馬扎爾驃騎兵。
           </p>
         </div>
@@ -45,8 +45,9 @@
                 >攻擊速度</nuxt-link
               >又快又有對<nuxt-link to="/units/Siege_Weapons"
                 >攻城器單位</nuxt-link
-              >加成，因此在對攻城器單位上是很理想的兵種，另外馬扎爾驃騎兵整體又跟
-              <nuxt-link to="/units/Knight">騎士</nuxt-link
+              >加成，因此在對攻城器單位上是很理想的兵種，另外馬扎爾驃騎兵整體又跟<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
               >差不多，且訓練快速因此在<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
               >多時<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(<nuxt-link
@@ -60,13 +61,13 @@
               >是一大強力組合，馬扎爾驃騎兵只需要肉(需研發<nuxt-link
                 to="/techs/Mercenaries"
                 >雇傭兵</nuxt-link
-              >)
-              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >)<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >需要黃金/<nuxt-link to="/resource/Wood">木材</nuxt-link
               >，因此在資源使用上無衝突，<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >又怕攻城器單位而馬扎爾驃騎兵又對攻城器單位有加成傷害，再者
-              <nuxt-link to="/units/Spearman">槍兵</nuxt-link
+              >又怕攻城器單位而馬扎爾驃騎兵又對攻城器單位有加成傷害，再者<nuxt-link
+                to="/units/Spearman"
+                >槍兵</nuxt-link
               >系本身又懼怕遠距離攻擊，因此這種配兵在馬扎爾裡屬於上選。
             </li>
             <li>
@@ -78,14 +79,11 @@
               ><nuxt-link to="/civs">文明</nuxt-link>裡近乎完全取代了<nuxt-link
                 to="/units/Hussar"
                 >翼騎兵</nuxt-link
-              >(匈牙利輕騎兵)，但是對
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link>上還是用<nuxt-link
-                to="/units/Hussar"
-                >翼騎兵</nuxt-link
+              >(匈牙利輕騎兵)，但是對<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >上還是用<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link
               >(匈牙利輕騎兵)來得比較好，因為<nuxt-link to="/units/Hussar"
                 >翼騎兵</nuxt-link
-              >(匈牙利輕騎兵)對
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >(匈牙利輕騎兵)對<nuxt-link to="/units/Monk">僧侶</nuxt-link
               >有強大的優勢(抗性/傷害加成)。
             </li>
           </ul>
@@ -112,16 +110,17 @@
               <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >、<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、
-              <nuxt-link to="/units/Berserk">狂戰士</nuxt-link>、<nuxt-link
-                to="/units/Genoese_Crossbowman"
+              >、<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
+                to="/units/Berserk"
+                >狂戰士</nuxt-link
+              >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>、
-              <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
                 to="/units/Camel"
                 >駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Samurai">日本武士</nuxt-link>
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>
             </td>
           </tr>
           <tr class="tta">
@@ -282,8 +281,7 @@
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(<nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
@@ -310,8 +308,7 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -454,19 +451,24 @@
                     src="~assets/ManAtArmsIcon.jpg"
                     width="22"
                     alt=""
-                  />
-                  <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
-                  <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                  /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                  <img
+                    class="gg"
+                    src="~assets/LongswordsManIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/2HandedswordsmanIcon.jpg"
                     alt=""
-                  />
-                  <nuxt-link to="/units/Two-Handed_Swordsman"
+                  /><nuxt-link to="/units/Two-Handed_Swordsman"
                     >雙手劍兵</nuxt-link
-                  >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                  >→
+                  <img
+                    class="gg"
+                    src="~assets/ChampionIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -474,20 +476,27 @@
                     src="~assets/SpearmanIcon.jpg"
                     alt=""
                   /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                  <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                  <img
+                    class="gg"
+                    src="~assets/PikemanIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                 </li>
                 <li>
                   <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                     to="/units/Berserk"
                     >狂戰士</nuxt-link
-                  >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" />
-                  <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link
+                  >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                    to="/units/Berserk"
+                    >精銳狂戰士</nuxt-link
                   >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                 </li>
                 <li>
-                  <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                  <img
+                    class="gg"
+                    src="~assets/CondottieroNewIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                   >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
                   >同盟的話)
                 </li>
@@ -516,8 +525,7 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
-              >、
-              <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
+              >、<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
               >的研究時間，以及在城堡裡訓練馬扎爾驃騎兵的速度(都快25%)。
             </li>
             <li>
@@ -728,8 +736,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

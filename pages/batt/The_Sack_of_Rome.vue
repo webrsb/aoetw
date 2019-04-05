@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>洗劫羅馬</b>隨時殺到為<nuxt-link to="/batt/Alaric"
+            <b>洗劫羅馬</b>為<nuxt-link to="/batt/Alaric"
               >阿拉里克戰役</nuxt-link
             >的第四關劇情關卡，<nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link
             >大軍已經來到羅馬城下並由東面發動攻勢，西邊則由阿陶爾夫負責，玩家將從阿拉里克身旁開始圍攻，同時得應付羅馬帝國軍團的增援，一路的殺進羅馬城。

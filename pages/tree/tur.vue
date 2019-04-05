@@ -530,9 +530,7 @@
                 width="30"
                 alt=""
               />
-              <div>
-                <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>
-              </div>
+              <div><nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
             <td class="t13 trm"></td>

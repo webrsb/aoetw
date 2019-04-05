@@ -12,8 +12,8 @@
             ><nuxt-link to="/games/ak">非洲王國</nuxt-link>資料片中<nuxt-link
               to="/civs/Berbers"
               >柏柏</nuxt-link
-            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>，能夠在
-            <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。是個對<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
@@ -40,8 +40,8 @@
                 >騎士</nuxt-link
               >和<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
               >）對付各種<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
-              >，他們也能有效殲滅
-              <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >，他們也能有效殲滅<nuxt-link to="/units/Halberdier"
+                >戟兵</nuxt-link
               >。就實用性而言，駱駝弓騎兵還能對付<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
@@ -57,40 +57,41 @@
                 >柏柏人</nuxt-link
               >的<nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link
-              >)，而且也不會受到對騎兵的攻擊(
-              <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+              >)，而且也不會受到對騎兵的攻擊(<nuxt-link to="/units/Mameluke"
+                >奴隸兵</nuxt-link
               >對他們完全沒有攻擊加成)。雖然會受到對<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >的加成攻擊但相對不痛，另外他們的護甲也會降低如<nuxt-link
                 to="/units/Genitour"
                 >標槍騎兵</nuxt-link
-              >和
-              <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
               >的攻擊效益，不過這兩個單位還是非常適合對付駱駝弓騎兵。
             </li>
             <li>
               由於<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>和<nuxt-link
                 to="/techs/Conscription"
                 >徵兵制度</nuxt-link
-              >，精銳駱駝弓騎兵訓練時間只有12.6秒，比一般的
-              <nuxt-link to="/units/Heavy_Cavalry_Archer"
+              >，精銳駱駝弓騎兵訓練時間只有12.6秒，比一般的<nuxt-link
+                to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >快得多。他們是馬弓騎兵的另一個更好選擇。
             </li>
             <li>
               值得注意的是，柏柏人缺乏<nuxt-link to="/techs/Parthian_Tactics"
                 >帕提亞戰術</nuxt-link
-              >，這使得他們的駱駝弓騎兵對大多數攻擊的抵抗力略有下降，同時對
-              <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+              >，這使得他們的駱駝弓騎兵對大多數攻擊的抵抗力略有下降，同時對<nuxt-link
+                to="/units/Spearman"
+                >長槍兵</nuxt-link
               >造成的傷害也不如完全升級的<nuxt-link
                 to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >。但是由於是<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝護甲</nuxt-link
               >和稍高的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
-              >，對於那些對騎兵有攻擊加成的單位，比如
-              <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+              >，對於那些對騎兵有攻擊加成的單位，比如<nuxt-link
+                to="/units/Heavy_Camel"
+                >重裝駱駝騎兵</nuxt-link
               >，表現通常會更好。他們較低的<nuxt-link to="/elements/Frame_delay"
                 >開火間隔</nuxt-link
               >也能有效執行打帶跑戰術。
@@ -166,8 +167,7 @@
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
-              >、
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>。
             </td>
           </tr>
@@ -418,8 +418,8 @@
                 >反駱駝騎兵</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >反馬弓騎兵</nuxt-link
-              >攻擊都+2護甲，對
-              <nuxt-link to="/armor/Armor_Class_Ram">衝撞車系</nuxt-link
+              >攻擊都+2護甲，對<nuxt-link to="/armor/Armor_Class_Ram"
+                >衝撞車系</nuxt-link
               >攻擊+2。
             </li>
             <li>
@@ -442,8 +442,7 @@
               5.7改版後駱駝弓騎兵現在有55HP(精銳是60)。移除對<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >反駱駝騎兵</nuxt-link
-              >和
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              >和<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >反馬弓騎兵</nuxt-link
               >的護甲，對<nuxt-link to="/armor/Armor_Class_Ram"
                 >衝撞車系</nuxt-link
@@ -564,8 +563,10 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、
-              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -680,13 +681,12 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >(0) <br />
-              <nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link>(0)
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              >(0) <br /><nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
+              >(0) <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

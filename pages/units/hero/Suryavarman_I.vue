@@ -30,8 +30,9 @@
         <p>
           <nuxt-link to="/units/hero/Udayadityavarman_I"
             >優陀耶迭多跋摩一世</nuxt-link
-          >被殺後，吳哥陷入混亂，因無繼承人，蘇耶跋摩一世和
-          <nuxt-link to="/units/hero/Jayaviravarman">闍耶羅跋摩</nuxt-link
+          >被殺後，吳哥陷入混亂，因無繼承人，蘇耶跋摩一世和<nuxt-link
+            to="/units/hero/Jayaviravarman"
+            >闍耶羅跋摩</nuxt-link
           >爭奪王位。蘇耶跋摩一世是<nuxt-link to="/civs/Malay">馬來</nuxt-link
           >亞裔的佛教王子。經過九年的戰爭，蘇耶跋摩一世贏得了王位。
         </p>

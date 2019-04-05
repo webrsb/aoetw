@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>匈奴王阿提拉</strong>是
-            <nuxt-link to="/civs/Huns">匈奴人</nuxt-link
+            <strong>匈奴王阿提拉</strong>是<nuxt-link to="/civs/Huns"
+              >匈奴人</nuxt-link
             >自434年至453年間的統治者。在《世紀帝國II：<nuxt-link
               to="/games/aoc"
               >征服者入侵</nuxt-link
@@ -19,13 +19,15 @@
           單位特性
           <hr />
           阿提拉是一名<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-          ><nuxt-link to="/units/hero">英雄</nuxt-link>，他以
-          <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+          ><nuxt-link to="/units/hero">英雄</nuxt-link>，他以<nuxt-link
+            to="/units/Cataphract"
+            >拜占庭聖騎兵</nuxt-link
           >的外型出現在<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link
           >和<nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link
           >這兩關<nuxt-link to="/batt">戰役</nuxt-link
-          >中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與
-          <nuxt-link to="/units/hero/Pope_Leo_I">教宗利奧一世</nuxt-link
+          >中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與<nuxt-link
+            to="/units/hero/Pope_Leo_I"
+            >教宗利奧一世</nuxt-link
           >會面才能獲勝。作為<nuxt-link to="/units/hero">英雄</nuxt-link
           >，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
           >而且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
@@ -56,8 +58,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>

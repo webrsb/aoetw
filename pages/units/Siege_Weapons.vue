@@ -86,35 +86,53 @@
           <strong>對建築物</strong>
           <ul>
             <li>
-              <img class="gg" src="~assets/BatteringRamIcon.jpg" alt="" />
-              <nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>
+              <img
+                class="gg"
+                src="~assets/BatteringRamIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/BombardCannonIcon.jpg" alt="" />
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
+              <img
+                class="gg"
+                src="~assets/BombardCannonIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/PetardIcon.jpg" alt="" />
-              <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+              <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><nuxt-link
+                to="/units/Petard"
+                >爆炸桶</nuxt-link
+              >
             </li>
             <li>
-              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt="" />
-              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>
+              <img
+                class="gg"
+                src="~assets/TrebuchetPackedIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link>
             </li>
           </ul>
           <strong>對單位</strong>
           <ul>
             <li>
-              <img class="gg" src="~assets/MangonelIcon.jpg" alt="" />
-              <nuxt-link to="/units/Mangonel">投石車</nuxt-link>
+              <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><nuxt-link
+                to="/units/Mangonel"
+                >投石車</nuxt-link
+              >
             </li>
             <li>
-              <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" />
-              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
+              <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" /><nuxt-link
+                to="/units/Scorpion"
+                >弩砲</nuxt-link
+              >
             </li>
             <li>
-              <img class="gg" src="~assets/BombardCannonIcon.jpg" alt="" />
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
+              <img
+                class="gg"
+                src="~assets/BombardCannonIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
@@ -160,8 +178,9 @@
               to="/civs/Celts"
               >塞爾特</nuxt-link
             >和<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-            >因為他們的<nuxt-link to="/civs">文明</nuxt-link>加成和
-            <nuxt-link to="/techs/untech">獨特技術</nuxt-link
+            >因為他們的<nuxt-link to="/civs">文明</nuxt-link>加成和<nuxt-link
+              to="/techs/untech"
+              >獨特技術</nuxt-link
             >擁有最好的攻城武器。<nuxt-link to="/civs/Ethiopians"
               >衣索比亞</nuxt-link
             >是唯一能夠使用<nuxt-link to="/building/Siege_Workshop"
@@ -899,7 +918,7 @@
 
             <h3>圖庫</h3>
             <div class="hrn1"></div>
-            <div class="n1">
+            <div class="row">
               <div class="col-md-4">
                 <gallery
                   ><img

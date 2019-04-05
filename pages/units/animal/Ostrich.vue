@@ -46,7 +46,7 @@
             <div class="col-md-4">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   width="200"
                   src="~assets/Ostrichhunt.png"
                   alt=""

@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>摔落的皇冠</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/ak">非洲王國</nuxt-link>》<nuxt-link
-              to="/batt/Yodita"
-              >優娣忒戰役</nuxt-link
+            <strong>摔落的皇冠</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/ak"
+              >非洲王國</nuxt-link
+            >》<nuxt-link to="/batt/Yodita">優娣忒戰役</nuxt-link
             >的第三個場景。<nuxt-link to="/batt">戰役</nuxt-link>中<nuxt-link
               to="/units/hero/Yodit"
               >優娣忒</nuxt-link

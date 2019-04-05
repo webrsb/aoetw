@@ -96,8 +96,7 @@
           <p></p>
           <h3>開場</h3>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x8、<nuxt-link to="/units/Elite_Battle_Elephant"
               >精銳矛象伕</nuxt-link
             >x11、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
@@ -114,8 +113,9 @@
             。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x18
           </p>
           <p>
-            。 <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
-            <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>x4、<nuxt-link
+            。
+            <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link>
+            -<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>x4、<nuxt-link
               to="/units/Transport_Ship"
               >運輸船</nuxt-link
             >x1、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link

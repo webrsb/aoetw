@@ -22,10 +22,10 @@
           <p>
             <b>僧侶</b>是遊戲中的一個<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
-            >，可以在
-            <nuxt-link to="/building/Monastery">修道院</nuxt-link>
-            進行訓練。雖然缺乏一切攻擊手段，他們仍然佔有一席之地，因為他們是能夠將其他單位轉換為玩家己方單位（另一個是
-            <nuxt-link to="/units/Missionary">傳教士</nuxt-link
+            >，可以在<nuxt-link to="/building/Monastery">修道院</nuxt-link
+            >進行訓練。雖然缺乏一切攻擊手段，他們仍然佔有一席之地，因為他們是能夠將其他單位轉換為玩家己方單位（另一個是<nuxt-link
+              to="/units/Missionary"
+              >傳教士</nuxt-link
             >）的唯二單位之一。
             此外，僧侶可以治癒所有同盟或自己的單位，除了<nuxt-link
               to="/units/Naval_Vessels"
@@ -55,11 +55,9 @@
             >也有獨特的技術，使他們的僧侶受益，不過需要<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
-            >才能研發，顯得特別雞肋。而
-            <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>的<nuxt-link
-              to="/techs"
-              >科技</nuxt-link
-            >減免，則是相當實用。
+            >才能研發，顯得特別雞肋。而<nuxt-link to="/civs/Burmese"
+              >緬甸</nuxt-link
+            >的<nuxt-link to="/techs">科技</nuxt-link>減免，則是相當實用。
           </p>
           <p>
             <nuxt-link to="/civs/Teutons">條頓</nuxt-link>和<nuxt-link
@@ -195,15 +193,14 @@
               </li>
             </ul>
           </div>
-          <h3><nuxt-link to="/elements/Relic">遺跡</nuxt-link></h3>
+          <h3>遺跡</h3>
           <p>
             <em
               >請見主條目：<nuxt-link to="/elements/Relic">遺跡</nuxt-link></em
             >
           </p>
           <p>
-            <nuxt-link to="/elements/Relic">遺跡</nuxt-link
-            >是一個特殊的物品，當遺跡進入修道院時，擁有它的玩家將會隨著時間的推移而收到一小筆連續不斷的黃金，大致相當於一個礦工。玩家收集的遺跡越多，生成的黃金就越多。與採礦不同，遺跡不會耗盡。最重要的是，在城堡時代以後，快速而有效地訓練僧侶在標準勝利的遊戲中變得至關重要，因為在短時間內收集並持有每個聖物是贏得遊戲的眾多方式之一。
+            遺跡是一個特殊的物品，當遺跡進入修道院時，擁有它的玩家將會隨著時間的推移而收到一小筆連續不斷的黃金，大致相當於一個礦工。玩家收集的遺跡越多，生成的黃金就越多。與採礦不同，遺跡不會耗盡。最重要的是，在城堡時代以後，快速而有效地訓練僧侶在標準勝利的遊戲中變得至關重要，因為在短時間內收集並持有每個聖物是贏得遊戲的眾多方式之一。
           </p>
           <h3>招降</h3>
           <p>
@@ -229,8 +226,9 @@
               to="/civs/Spanish"
               >西班牙</nuxt-link
             >和<nuxt-link to="/civs/Teutons">條頓</nuxt-link
-            >）甚至可以進行僧侶快攻。這極具侵略性，因為被快攻的玩家很可能沒有研發異教邪說，若用僧侶反制則需花費大量的黃金。
-            <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+            >）甚至可以進行僧侶快攻。這極具侵略性，因為被快攻的玩家很可能沒有研發異教邪說，若用僧侶反制則需花費大量的黃金。<nuxt-link
+              to="/civs/Portuguese"
+              >葡萄牙</nuxt-link
             >也可以僧侶快攻，因為他們的僧侶便宜了15％，只花費85黃金。<nuxt-link
               to="/civs/Teutons"
               >條頓</nuxt-link
@@ -258,10 +256,10 @@
           <h3>治療</h3>
           <p>
             僧侶能夠治療友方單位（每0.4秒恢復1生命
-            ）。僧侶通常搭配弓箭手，因為他們很容易控制，並且容易防守。但攻城武器對這個組合而言是一個嚴重威脅。玩家應該根據自己的部隊大小，搭配2到10名僧侶，在戰鬥中治療受傷部隊。僧侶應該盡量遠離危險，讓受傷的單位應該來到僧侶身邊，而不是讓僧侶衝向戰場，否則他們很容易成為目標。
-            <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>和<nuxt-link
-              to="/civs/Teutons"
-              >條頓</nuxt-link
+            ）。僧侶通常搭配弓箭手，因為他們很容易控制，並且容易防守。但攻城武器對這個組合而言是一個嚴重威脅。玩家應該根據自己的部隊大小，搭配2到10名僧侶，在戰鬥中治療受傷部隊。僧侶應該盡量遠離危險，讓受傷的單位應該來到僧侶身邊，而不是讓僧侶衝向戰場，否則他們很容易成為目標。<nuxt-link
+              to="/civs/Byzantines"
+              >拜占庭</nuxt-link
+            >和<nuxt-link to="/civs/Teutons">條頓</nuxt-link
             >在遊戲中分別有更快的治癒率和更長的治療範圍。<nuxt-link
               to="/civs/Spanish"
               >西班牙</nuxt-link
@@ -273,29 +271,27 @@
             >，且進入<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >後就可直接建造。這對於蓋<nuxt-link to="/building/Blacksmith"
               >兵工廠</nuxt-link
-            >和
-            <nuxt-link to="/building/Market">市集</nuxt-link
+            >和<nuxt-link to="/building/Market">市集</nuxt-link
             >用來進入城堡時代的爆經濟戰略是重要的。在達到城堡時代之後，玩家將很難走出定點，因此他們需要建造<nuxt-link
               to="/building/Barracks"
               >軍營</nuxt-link
-            >、有
-            <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+            >、有<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >和<nuxt-link to="/building/Stable">馬廄</nuxt-link
-            >，然後開始生產尚未升級的單位做防禦。相較之下，修道院可以馬上建造，僧侶可以立即生產，他們的功能齊全，搭配
-            <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
+            >，然後開始生產尚未升級的單位做防禦。相較之下，修道院可以馬上建造，僧侶可以立即生產，他們的功能齊全，搭配<nuxt-link
+              to="/building/Siege_Workshop"
+              >攻城器製造所</nuxt-link
             >的<nuxt-link to="/units/Mangonel">投石車</nuxt-link
             >，玩家將可以最小的投資對<nuxt-link to="/units/Archer_Units"
               >弓箭手</nuxt-link
-            >，
-            <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>和<nuxt-link
+            >，<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>和<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
             >的攻擊進行反制。隨著<nuxt-link to="/building/Stone_Wall"
               >城牆</nuxt-link
-            >蓋起，留給對手的侵略性選項會進一步受到限制，因為他們不能再讓
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>或<nuxt-link
-              to="/units/Scout_Cavalry"
-              >斥候</nuxt-link
+            >蓋起，留給對手的侵略性選項會進一步受到限制，因為他們不能再讓<nuxt-link
+              to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
+            >或<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
             >隨意進你的陣地。
           </p>
         </div>
@@ -316,8 +312,10 @@
             <li>每隻編一隊</li>
             <li>clone操作</li>
           </ol>
-          圈5隻僧侶對某敵兵按右鍵，這時就是5僧侶同時招1敵兵，但這時，對某中一僧侶按下ctrl+左鍵，就會取消選擇他，這時用沒有取消選擇的僧侶對另一敵兵按右鍵，這時就是4僧侶招1敵兵，被取消選擇那個就繼續招原本那敵兵。再用相同方法，取消選擇其中一僧侶，用剩下3僧侶招另一隻敵兵，如此類推。就會變成5僧侶在差不多時間招5隻敵兵了。另外，這方法也可以用於其他兵種的，不限定是僧侶，如用5
-          <nuxt-link to="/units/Scout_Cavalry">肉馬</nuxt-link>追殺敵人5僧侶。
+          圈5隻僧侶對某敵兵按右鍵，這時就是5僧侶同時招1敵兵，但這時，對某中一僧侶按下ctrl+左鍵，就會取消選擇他，這時用沒有取消選擇的僧侶對另一敵兵按右鍵，這時就是4僧侶招1敵兵，被取消選擇那個就繼續招原本那敵兵。再用相同方法，取消選擇其中一僧侶，用剩下3僧侶招另一隻敵兵，如此類推。就會變成5僧侶在差不多時間招5隻敵兵了。另外，這方法也可以用於其他兵種的，不限定是僧侶，如用5<nuxt-link
+            to="/units/Scout_Cavalry"
+            >肉馬</nuxt-link
+          >追殺敵人5僧侶。
           <p><em>操作影片教學</em></p>
           <iframe
             width="300"
@@ -367,8 +365,8 @@
                   class="gg"
                   src="~assets/EagleScoutIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Scout">鷹斥候→</nuxt-link>
-                <img
+                /><nuxt-link to="/units/Eagle_Scout">鷹斥候→</nuxt-link
+                ><img
                   class="gg"
                   src="~assets/EagleWarriorIcon.jpg"
                   alt=""
@@ -499,10 +497,9 @@
                 to="/civs/Saracens"
                 >薩拉森</nuxt-link
               >和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >都是僧侶科技全滿的文明，而
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>與<nuxt-link
-                to="/civs/Byzantines"
-                >拜占庭</nuxt-link
+              >都是僧侶科技全滿的文明，而<nuxt-link to="/civs/Teutons"
+                >條頓</nuxt-link
+              >與<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
               >都只缺乏<nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
               >。
             </li>

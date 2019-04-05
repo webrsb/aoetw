@@ -78,8 +78,8 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Karambit_Warrior">精銳爪刀勇士</nuxt-link>
-              減少 1攻擊力(原始 8)
+              /><nuxt-link to="/units/Karambit_Warrior">精銳爪刀勇士</nuxt-link
+              >減少 1攻擊力(原始 8)
             </li>
             <li>
               <img
@@ -103,16 +103,18 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />駱駝弓騎兵(包含精銳) -2裝甲 vs.
-              <nuxt-link to="/units/Camel">駱駝</nuxt-link> (2 變成 0)
+              />駱駝弓騎兵(包含精銳) -2裝甲 vs.<nuxt-link to="/units/Camel"
+                >駱駝</nuxt-link
+              >
+              (2 變成 0)
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />駱駝弓騎兵(包含精銳) -2裝甲 vs.
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              />駱駝弓騎兵(包含精銳) -2裝甲 vs.<nuxt-link
+                to="/armor/Armor_Class_Cavalry_Archer"
                 >反馬弓騎兵</nuxt-link
               >傷害 (2 變成0)
             </li>
@@ -121,8 +123,11 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />駱駝弓騎兵(包含精銳) -2 攻擊 vs.
-              <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link> (2 變成0)
+              />駱駝弓騎兵(包含精銳) -2 攻擊 vs.<nuxt-link
+                to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >
+              (2 變成0)
             </li>
             <li>
               <img
@@ -303,8 +308,7 @@
               >
             </li>
             <li>
-              戰役
-              <nuxt-link to="/batt/Draculaa">德古拉</nuxt-link
+              戰役<nuxt-link to="/batt/Draculaa">德古拉</nuxt-link
               >第四關與第五關擁有正確敵人顏色
             </li>
             <li>戰役 巴菲普斯 不會再殺死 Metin 首領而改變外交關係</li>

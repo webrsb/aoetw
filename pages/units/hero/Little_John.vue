@@ -112,8 +112,10 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Spearman"
+                >槍兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>

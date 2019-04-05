@@ -29,8 +29,8 @@
                 1,200<nuxt-link to="/resource/Wood">木材</nuxt-link
                 >／1,500<nuxt-link to="/resource/Food">食物</nuxt-link>／
                 <p>
-                  1,050<nuxt-link to="/resource/Gold">黃金</nuxt-link>／600
-                  <nuxt-link to="/resource/Stone">石礦</nuxt-link>
+                  1,050<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                  >／600<nuxt-link to="/resource/Stone">石礦</nuxt-link>
                 </p>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
@@ -86,15 +86,16 @@
 
           <h3>開場</h3>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Shotel_Warrior"
+              >彎刀勇士</nuxt-link
             >x18、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >x6、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>x1
           </p>
           。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x4
           <p>
-            。 大地之母單位 -
-            <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>x5
+            。 大地之母單位 -<nuxt-link to="/units/Battle_Elephant"
+              >矛象伕</nuxt-link
+            >x5
           </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>

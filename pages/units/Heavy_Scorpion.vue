@@ -28,8 +28,7 @@
             >等速度慢的單位非常有效，因為速度慢的單位容易被弩砲貫穿攻擊。但弩砲對於快速的步兵，如<nuxt-link
               to="/units/Woad_Raider"
               >菘藍武士</nuxt-link
-            >、
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >表現並不是很好，因為可以快速縮短距離，並貼身攻擊。而<nuxt-link
               to="/units/Huskarl"
               >哥德衛隊</nuxt-link
@@ -37,30 +36,32 @@
             >，可以抵抗弩砲的攻擊。像大多數的<nuxt-link
               to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
-            >一樣，弩砲必須派其他單位在旁邊保護，因為弩砲速度慢容易遭受攻擊。弩砲最常與
-            <nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
+            >一樣，弩砲必須派其他單位在旁邊保護，因為弩砲速度慢容易遭受攻擊。弩砲最常與<nuxt-link
+              to="/armor/Armor_Class_Spearman"
+              >長槍兵</nuxt-link
             >搭配攻擊，可以相輔相成。這個組合在<nuxt-link to="/civs/Celts"
               >塞爾特</nuxt-link
-            >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>與
-            <nuxt-link to="/civs/Khmer">高棉</nuxt-link>特別強大。
+            >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>與<nuxt-link
+              to="/civs/Khmer"
+              >高棉</nuxt-link
+            >特別強大。
           </p>
           <p>
             如果使用得當，弩砲可以非常有威脅性，一個中等規模的弩砲可以瞬間秒殺整個<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >與
-            <nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+            >與<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
             >的軍隊，甚至可以抵抗<nuxt-link to="/units/Cavalry_Units"
               >騎兵</nuxt-link
             >的攻擊，但弩砲很怕<nuxt-link to="/units/Archer_Units"
               >遠程單位</nuxt-link
-            >，如<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>或是
-            <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
+            >，如<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >或是<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
             >。當然如果對自己的控兵有信心，用<nuxt-link
               to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
-            >也可以。當然<nuxt-link to="/units/Mangonel">投石車</nuxt-link>與
-            <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >也可以。當然<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+            >與<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >永遠是弩砲的殺手。
           </p>
         </div>
@@ -74,26 +75,35 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Malay"
+                >馬來</nuxt-link
+              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >、<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
+                to="/civs/Britons"
+                >不列顛</nuxt-link
+              >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
+                to="/civs/Celts"
+                >塞爾特</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
+                to="/civs/Goths"
+                >哥德</nuxt-link
+              >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
+                to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -106,17 +116,22 @@
                   >不可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+                to="/civs/Indians"
+                >印度</nuxt-link
+              >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
+                to="/civs/Koreans"
+                >韓國</nuxt-link
+              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
+              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                to="/civs/Spanish"
+                >西班牙</nuxt-link
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
             </div>
           </div>
         </div>
@@ -141,12 +156,12 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
-              <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
-                to="/units/Mangonel"
-                >投石車</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Archer_Units"
                 >遠距離單位</nuxt-link
@@ -496,8 +511,8 @@
             </li>
             <li>
               重型弩砲受<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
-              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>和
-              <nuxt-link to="/techs/Bracer">護腕</nuxt-link
+              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">護腕</nuxt-link
               >加成影響。所以總共可以+3射程和攻擊。
             </li>
             <li>
@@ -521,8 +536,8 @@
             </li>
             <li>
               重型弩砲不再有<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
-              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>和
-              <nuxt-link to="/techs/Bracer">護腕</nuxt-link>加成影響。
+              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">護腕</nuxt-link>加成影響。
             </li>
             <li>
               <nuxt-link to="/techs/Chemistry">化學</nuxt-link>給予+1的攻擊。
@@ -785,8 +800,10 @@
           <tr>
             <td class="unit3">從升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" />
-              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
+              <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" /><nuxt-link
+                to="/units/Scorpion"
+                >弩砲</nuxt-link
+              >
             </td>
           </tr>
         </table>

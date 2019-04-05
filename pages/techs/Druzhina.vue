@@ -11,8 +11,7 @@
             <b>王家侍從</b>是<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             >對鄰近0.5格的單位有5的<nuxt-link to="/elements/Area_of_Effect"
               >踐踏傷害</nuxt-link
@@ -30,8 +29,9 @@
               >軍的基石。他給予<nuxt-link to="/units/Champion"
                 >劍兵勇士</nuxt-link
               >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-              >對鄰近敵人有踐踏傷害，這讓他們在大型戰鬥中能飛速地對殲滅敵方軍隊。然而
-              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >對鄰近敵人有踐踏傷害，這讓他們在大型戰鬥中能飛速地對殲滅敵方軍隊。然而<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
               >的技術仍然優先於王家侍從因為王家侍從是遊戲中最昂貴的特殊科技。
             </li>
           </ul>

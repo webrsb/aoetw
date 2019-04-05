@@ -13,7 +13,9 @@
         <div class="hrn1"></div>
         <div class="row n1">
           <div class="col-md-2">
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            <nuxt-link to="/games/aok"
+              ><img src="~assets/KingsIcon.png" />帝王世紀</nuxt-link
+            >
             <ul>
               <li><nuxt-link to="/maps/Arabia">阿拉伯</nuxt-link></li>
               <li><nuxt-link to="/maps/Archipelago">群島</nuxt-link></li>
@@ -32,7 +34,9 @@
             </ul>
           </div>
           <div class="col-md-2">
-            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            <nuxt-link to="/games/aoc"
+              ><img src="~assets/ConquerorsIcon.png" />征服者入侵</nuxt-link
+            >
             <ul>
               <li><nuxt-link to="/maps/Arena">圍城</nuxt-link></li>
               <li><nuxt-link to="/maps/Ghost_Lake">鬼湖</nuxt-link></li>
@@ -45,7 +49,9 @@
             </ul>
           </div>
           <div class="col-md-2">
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            <nuxt-link to="/games/aof"
+              ><img src="~assets/ForgottenIcon.png" />失落的帝國</nuxt-link
+            >
             <ul>
               <li><nuxt-link to="/maps/Acropolis">雅典衛城</nuxt-link></li>
               <li><nuxt-link to="/maps/Budapest">布達佩斯</nuxt-link></li>
@@ -61,7 +67,9 @@
             </ul>
           </div>
           <div class="col-md-2">
-            <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            <nuxt-link to="/games/ak"
+              ><img src="~assets/AfricanIcon.png" />非洲王國</nuxt-link
+            >
             <ul>
               <li>
                 <nuxt-link to="/maps/Kilimanjaro">吉力馬札羅山</nuxt-link>
@@ -73,7 +81,9 @@
             </ul>
           </div>
           <div class="col-md-2">
-            <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            <nuxt-link to="/games/aor"
+              ><img src="~assets/RajaIcon.png" />王者崛起</nuxt-link
+            >
             <ul>
               <li><nuxt-link to="/maps/Bog_Islands">沼澤</nuxt-link></li>
               <li><nuxt-link to="/maps/Mangrove_Jungle">紅樹林</nuxt-link></li>

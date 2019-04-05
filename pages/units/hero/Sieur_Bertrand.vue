@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>貝查德爵士</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>貝查德爵士</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。現實中他是百年戰爭中的老兵並和他的同伴<nuxt-link
               to="/units/hero/Sieur_de_Metz"
@@ -42,7 +42,11 @@
           <div class="row">
             <div class="col-md-5">
               <gallery
-                ><img class="hg" width="250" src="~assets/Joan1start.png" alt=""
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Joan1start.png"
+                  alt=""
               /></gallery>
               <p><em>護送聖女貞德到支農的貝查德爵士。</em></p>
             </div>

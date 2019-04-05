@@ -10,8 +10,8 @@
           <p>
             <b>聚居堡壘</b>是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後跟<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
             >同盟的<nuxt-link to="/civs">文明</nuxt-link>的<nuxt-link
               to="/building/Castle"
@@ -32,10 +32,10 @@
               >，因為它可以受益整個柏柏玩家同盟，加速城堡<nuxt-link
                 to="/units/Unique_Unit"
                 >特殊單位</nuxt-link
-              >生產速度。即使柏柏玩家或同盟不生產特殊單位，能更快速生產
-              <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>和<nuxt-link
-                to="/units/Trebuchet"
-                >巨型投石機</nuxt-link
+              >生產速度。即使柏柏玩家或同盟不生產特殊單位，能更快速生產<nuxt-link
+                to="/units/Petard"
+                >爆炸桶</nuxt-link
+              >和<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
               >也是一大利多。尤其適合那些喜歡在敵對基地旁壓城堡的玩家，讓他們能更快更有效的攻擊對方。
             </li>
             <li>
@@ -43,18 +43,18 @@
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >、<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
-              >和特殊單位變得相當有效率。甚至可讓研發
-              <nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link
+              >和特殊單位變得相當有效率。甚至可讓研發<nuxt-link
+                to="/techs/Royal_Heirs"
+                >皇族血脈</nuxt-link
               >的<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
               >生產速度再疊加。同樣地聚居堡壘也能搭配<nuxt-link to="/civs/Turks"
                 >土耳其</nuxt-link
               >的團隊加分(<nuxt-link to="/units/Gunpowder_Unit"
                 >火藥單位</nuxt-link
-              >訓練速度加快20%)，讓能生產城堡火藥單位的文明生產速度加快(如
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Portuguese"
-                >葡萄牙</nuxt-link
-              >)
+              >訓練速度加快20%)，讓能生產城堡火藥單位的文明生產速度加快(如<nuxt-link
+                to="/civs/Spanish"
+                >西班牙</nuxt-link
+              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>)
             </li>
           </ul>
         </div>

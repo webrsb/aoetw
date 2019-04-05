@@ -10,14 +10,13 @@
           <p>
             <b>鋼鐵甲</b>是<nuxt-link to="/civs/Teutons">條頓</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >近戰護甲+4。玩家要記住<nuxt-link to="/units/Battering_Ram"
               >衝撞車</nuxt-link
-            >和
-            <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
+            >和<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
             >的近戰護甲是-3和-2，有鋼鐵甲後會變成1和2。
           </p>
         </div>
@@ -40,8 +39,8 @@
               >也能輕易地摧毀衝撞車。鋼鐵甲讓攻城單位可在對方伏擊或是有幾個近戰單位突破前線接近牠們時能多存活幾秒。鋼鐵甲給的加成比<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >的多而且還能抵銷
-              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >的多而且還能抵銷<nuxt-link to="/building/Blacksmith"
+                >兵工廠</nuxt-link
               >給予近戰單位的攻擊加成。
             </li>
             <li>

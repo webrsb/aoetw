@@ -10,8 +10,8 @@
           <p>
             <b>義勇騎兵</b>是<nuxt-link to="/civs/Britons">不列顛</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >射程+1，<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >攻擊+2。(<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>)

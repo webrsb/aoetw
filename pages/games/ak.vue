@@ -102,22 +102,24 @@
         <p>一般單位</p>
         <ul>
           <li>
-            <img class="gg" src="~assets/Siegetowericon.png" alt="" />
-            <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
+            <img class="gg" src="~assets/Siegetowericon.png" alt="" /><nuxt-link
+              to="/units/Siege_Tower"
+              >攻城塔</nuxt-link
             >:能運輸步兵與<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >穿越<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
             >的<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link>具。
           </li>
           <li>
-            <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" />
-            <nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>:<nuxt-link
-              to="/techs/age/Feudal_Age"
-              >封建時代</nuxt-link
+            <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" /><nuxt-link
+              to="/units/Fire_Galley"
+              >火蒙衝</nuxt-link
+            >:<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >就能生產<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>。
           </li>
           <li>
-            <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" />
-            <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
+            <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" /><nuxt-link
+              to="/units/Demolition_Raft"
+              >自爆筏</nuxt-link
             >:封建時代就能生產的<nuxt-link to="/units/Demolition_Ship"
               >神風船</nuxt-link
             >。
@@ -208,10 +210,11 @@
           <tr>
             <td class="unit3">擴充</td>
             <td class="unit4">
-              <nuxt-link to="/games/aok">帝王世紀</nuxt-link><br />
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link><br />
-              <nuxt-link to="/games/aof">失落的帝國</nuxt-link><br />
-              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link><br /><nuxt-link
+                to="/games/aoc"
+                >征服者入侵</nuxt-link
+              ><br /><nuxt-link to="/games/aof">失落的帝國</nuxt-link
+              ><br /><nuxt-link to="/games/aor">王者崛起</nuxt-link>
             </td>
           </tr>
         </table>

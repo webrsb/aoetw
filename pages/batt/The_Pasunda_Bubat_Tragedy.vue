@@ -28,11 +28,17 @@
               </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
-                500 <nuxt-link to="/resource/Wood">木材</nuxt-link>／400
-                <nuxt-link to="/resource/Food">食物</nuxt-link>／
+                500
+                <nuxt-link to="/resource/Wood">木材</nuxt-link>／400<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >／
                 <p>
-                  450 <nuxt-link to="/resource/Gold">黃金</nuxt-link>／125
-                  <nuxt-link to="/resource/Stone">石礦</nuxt-link>
+                  450
+                  <nuxt-link to="/resource/Gold">黃金</nuxt-link>／125<nuxt-link
+                    to="/resource/Stone"
+                    >石礦</nuxt-link
+                  >
                 </p>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
@@ -90,8 +96,8 @@
           <h3>開場</h3>
           <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link>單位 - 加查·馬達</p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Two-Handed_Swordsman"
+              >雙手劍兵</nuxt-link
             >x8、<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
             >x8、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >x8、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
@@ -99,8 +105,9 @@
             >x2、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>x2
           </p>
           <p>
-            。 <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
-            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            。
+            <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link>
+            -<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >x1、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >x6、<nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>x4
           </p>

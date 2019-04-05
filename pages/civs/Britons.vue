@@ -61,12 +61,12 @@
             >馬廄</nuxt-link
           >科技是非常不完善的。另外在<nuxt-link to="/units/Naval_Vessels"
             >海軍</nuxt-link
-          >上不列顛除了
-          <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link
+          >上不列顛除了<nuxt-link to="/units/Elite_Cannon_Galleon"
+            >精銳火砲戰船</nuxt-link
           >以外科技是相當完善的，在<nuxt-link to="/units/Siege_Weapons"
             >攻城單位</nuxt-link
-          >上缺乏<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>與
-          <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+          >上缺乏<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
+          >與<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
           >相對應的給予獨特的<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
           >(要研發科技)
           <h3>戰術</h3>

@@ -15,8 +15,7 @@
             >優勢與速度而使得他格外具有威脅性，是克制<nuxt-link
               to="/units/Archer_Units"
               >遠程兵種</nuxt-link
-            >及有效擾亂對方
-            <nuxt-link to="/units/Villager">村民</nuxt-link
+            >及有效擾亂對方<nuxt-link to="/units/Villager">村民</nuxt-link
             >的明智選擇。對抵抗<nuxt-link to="/units/Monk">僧侶</nuxt-link
             ><nuxt-link to="/elements/Conversion">招降</nuxt-link
             >較佳與對<nuxt-link to="/armor/Armor_Class_Monk">僧侶類</nuxt-link
@@ -68,8 +67,8 @@
               <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>、<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >、<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link>、
-              <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
+              >、<nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >。
@@ -92,12 +91,21 @@
               <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </td>
             <td class="tta4">
-              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-              <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
-              <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
-              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
-              <img class="gg" src="~assets/HussarIcon.jpg" alt="" />
-              <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link> <br />
+              <img
+                class="gg"
+                src="~assets/ScoutCavalryIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/LightCavalryIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
+              <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+                to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >
+              <br />
               <img
                 class="gg"
                 src="~assets/Bloodlines.png"
@@ -139,8 +147,8 @@
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
               >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>和
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
             </td>
@@ -251,15 +259,15 @@
               >：斥候血量多20%(在<nuxt-link to="/games/ak">非洲王國</nuxt-link
               >資料片上線後)，研發<nuxt-link to="/techs/Chivalry"
                 >騎士精神</nuxt-link
-              >後
-              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發速度快40%
+              >後<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >研發速度快40%
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
                 to="/techs/Forging"
                 >鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>、
-              <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >、<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
               >科技，<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
               >生產便宜15%
             </li>
@@ -298,10 +306,9 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
-              >生產和升級效率快20%，
-              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>與<nuxt-link
-                to="/techs/Husbandry"
-                >畜牧培育</nuxt-link
+              >生產和升級效率快20%，<nuxt-link to="/techs/Bloodlines"
+                >品種</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>

@@ -11,8 +11,7 @@
             <b>投石手</b>是<nuxt-link to="/civs/Incas">印加</nuxt-link
             >的第二個獨特單位，可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+            >在<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >生產，是一個反<nuxt-link to="/armor/Armor_Class_Infantry"
               >步兵</nuxt-link
             >的<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
@@ -28,40 +27,43 @@
               >步兵單位</nuxt-link
             >，可以擊敗除了<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
             >與<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
-            >以外大部分的步兵，另一個潛在的敵人是
-            <nuxt-link to="/units/Samurai">日本武士</nuxt-link>，因為<nuxt-link
-              to="/units/Samurai"
+            >以外大部分的步兵，另一個潛在的敵人是<nuxt-link to="/units/Samurai"
               >日本武士</nuxt-link
+            >，因為<nuxt-link to="/units/Samurai">日本武士</nuxt-link
             >對於<nuxt-link to="/armor/Armor_Class_Unique_Unit"
               >特殊單位</nuxt-link
             >有相當高的加成。
           </p>
           <p>
-            在某些方面，它的定位相當類似於
-            <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+            在某些方面，它的定位相當類似於<nuxt-link to="/units/Hand_Cannoneer"
+              >火槍兵</nuxt-link
             >，但投石手在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >即可生產，也相當便宜，而受到
-            <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+            >即可生產，也相當便宜，而受到<nuxt-link to="/techs/Thumb_Ring"
+              >拇指環</nuxt-link
             >(僅支援靜態準度由90%提升到100%，不支援<nuxt-link
               to="/elements/Rate_of_Fire"
               >射速</nuxt-link
-            >提高)與
-            <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
+            >提高)與<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
             >的影響，他更為的精準。當 護琬<nuxt-link to="/techs">科技</nuxt-link
             >研發後，射程還比<nuxt-link to="/units/Hand_Cannoneer"
               >火槍兵</nuxt-link
             >還遠。但他的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-            >仍遠低於火槍兵，即使受益於
-            <nuxt-link to="/techs/Chemistry">化學</nuxt-link>的加成。如同
-            <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
-            >一樣，投石手有最小的攻擊範圍，但這不是一個嚴重的問題，他可以通過研發
-            <nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link>來解決。
+            >仍遠低於火槍兵，即使受益於<nuxt-link to="/techs/Chemistry"
+              >化學</nuxt-link
+            >的加成。如同<nuxt-link to="/units/Elite_Skirmisher"
+              >戰矛兵</nuxt-link
+            >一樣，投石手有最小的攻擊範圍，但這不是一個嚴重的問題，他可以通過研發<nuxt-link
+              to="/techs/Andean_Sling"
+              >安地斯彈弓</nuxt-link
+            >來解決。
           </p>
           <p>
             投石手是俗稱的<nuxt-link to="/civs/Incas">印加</nuxt-link
-            >三寶之一，還有 <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>與
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >三寶之一，還有
+            <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>與<nuxt-link
+              to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
             >，這三個單位都扮演著相當重要的腳色，<nuxt-link to="/units/Kamayuk"
               >槍隊長</nuxt-link
             >是<nuxt-link to="/armor/Armor_Class_Cavalry">反騎兵</nuxt-link
@@ -69,10 +71,10 @@
             >反<nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link
             >，而投石手是優秀的反<nuxt-link to="/armor/Armor_Class_Infantry"
               >步兵單位</nuxt-link
-            >，這種組合幾乎可以擊敗所有軍隊，但可惜的是面對
-            <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>及<nuxt-link
-              to="/units/Cataphract"
-              >聖騎兵</nuxt-link
+            >，這種組合幾乎可以擊敗所有軍隊，但可惜的是面對<nuxt-link
+              to="/units/Hand_Cannoneer"
+              >火槍兵</nuxt-link
+            >及<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
             >，他們又顯得如此渺小。
           </p>
         </div>
@@ -100,12 +102,12 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
-              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
-                to="/units/Cavalry_Units"
-                >騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>、、
-              <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>。
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Huskarl"
+                >哥德衛隊</nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+              >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -281,14 +283,13 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
+                    /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -305,8 +306,11 @@
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/HuskarlIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                   <li>
@@ -319,8 +323,11 @@
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/HuskarlIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                 </ul>
@@ -329,8 +336,11 @@
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
                   </li>
                   <li>
@@ -338,8 +348,7 @@
                       class="gg"
                       src="~assets/Imperialskirmishericon.png"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Skirmisher"
+                    /><nuxt-link to="/units/Imperial_Skirmisher"
                       >帝王戰矛兵</nuxt-link
                     >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
                     >和同盟限定)
@@ -352,20 +361,25 @@
                       class="gg"
                       src="~assets/EliteSkirmisherIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
+                    /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/SkirmisherIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/SkirmisherIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -384,12 +398,21 @@
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/KnightIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Knight">騎士</nuxt-link>→
-                    <img class="gg" src="~assets/CavalierIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
-                    <img class="gg" src="~assets/PaladinIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/KnightIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Knight">騎士</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/CavalierIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/PaladinIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -488,8 +511,7 @@
               投石手是少數幾個沒有精銳的特殊單位之一，其他是<nuxt-link
                 to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
-              >、
-              <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>。
             </li>
             <li>
@@ -618,13 +640,12 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +10對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />+10對<nuxt-link to="/armor/Armor_Class_Condottiero"
+              +10對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br />+10對<nuxt-link to="/armor/Armor_Class_Condottiero"
                 >傭兵</nuxt-link
               >
-              <br />+3對
-              <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
-              <br />+1對<nuxt-link to="/armor/Armor_Class_Spearman"
+              <br />+3對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link
+              ><br />+1對<nuxt-link to="/armor/Armor_Class_Spearman"
                 >槍兵</nuxt-link
               >
             </td>
@@ -666,8 +687,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

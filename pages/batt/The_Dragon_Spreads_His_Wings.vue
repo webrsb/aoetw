@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>火龍展翅</b>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link>》<nuxt-link
-              to="/batt/Draculaa"
-              >德古拉戰役</nuxt-link
+            <b>火龍展翅</b>是《世紀帝國 II HD:<nuxt-link to="/games/aof"
+              >失落的帝國</nuxt-link
+            >》<nuxt-link to="/batt/Draculaa">德古拉戰役</nuxt-link
             >的第一個場景。<nuxt-link to="/batt">戰役</nuxt-link
             >中弗拉德·<nuxt-link to="/batt/Draculaa">德古拉</nuxt-link
             >要收回他父親的領土，瓦拉幾亞，承諾成為<nuxt-link

@@ -86,8 +86,8 @@
           <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link>單位 - 加查‧馬達</p>
           <p></p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Shotel_Warrior"
+              >彎刀勇士</nuxt-link
             >x6、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >x6、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>x2
           </p>
@@ -95,8 +95,8 @@
             。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x6
           </p>
           <p>
-            。 大地之母單位 -
-            <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+            。 大地之母單位 -<nuxt-link to="/units/Battle_Elephant"
+              >矛象伕</nuxt-link
             >x3、<nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>x8。
           </p>
           <h2>主要任務</h2>

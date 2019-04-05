@@ -183,8 +183,7 @@
           請注意，農田的實際收集率將由於需要在農田四處走動而降低。步行時間是村民在技術上來說屬於閒置，並不收集資源的時間。考慮步行時間在內，農夫的平均收集率約是0.3003食物/秒（研發<nuxt-link
             to="/techs"
             >科技</nuxt-link
-          >
-          <nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link
+          ><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link
           >將增加13.6%的效率，約為0.34）。同時考慮到農夫需要額外的步行時間才能到達農田的聚集點（和背面），他們的淨糧食產量實際上更低(可參考測試一)。
         </p>
         <p>
@@ -480,38 +479,38 @@
           </div>
         </div>
         <p>
-          更多村民可以更快地建造建築物。如果t是一個村民建造一個建築物所需的時間，n是村民使用的數量，那麼建築時間將是3t/(n+2)。這意味著第一位村民的建築速度是其他額外村民的三倍。所以，若要建造多個建築物，讓村民分散建築更有效率，除非要快速建造一座關鍵建築（如
-          <nuxt-link to="/building/Castle">城堡</nuxt-link>或<nuxt-link
-            to="/building/Town_Center"
-            >城鎮中心</nuxt-link
-          >）。
+          更多村民可以更快地建造建築物。如果t是一個村民建造一個建築物所需的時間，n是村民使用的數量，那麼建築時間將是3t/(n+2)。這意味著第一位村民的建築速度是其他額外村民的三倍。所以，若要建造多個建築物，讓村民分散建築更有效率，除非要快速建造一座關鍵建築（如<nuxt-link
+            to="/building/Castle"
+            >城堡</nuxt-link
+          >或<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>）。
         </p>
         <h3>修復</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>
+          <div>
             村民可以修理建築物，攻城武器和<nuxt-link to="/units/Naval_Vessels"
               >船隻</nuxt-link
-            >。這樣做可以節省資源。但是修復建築物可能會比建造一個新建築慢得多。村民可以從兩格遠的地方修理單位
-            - 這主要是為了修復船隻，也可以修理一個完全被圍牆包圍的建築，例如
-            <nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>。
-          </p>
+            >。這樣做可以節省資源。但是修復建築物可能會比建造一個新建築慢得多。村民可以從兩格遠的地方修理單位，這主要是為了修復船隻，也可以修理一個完全被圍牆包圍的建築，例如<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >。
+          </div>
           <ul>
             <li>成本</li>
           </ul>
-          <p>
+          <div>
             將一幢建築物由<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
             >1修復至生命值滿需要建築成本的一半。部分維修將花費適當的費用（因此只修理一半的HP成本為原始建築成本的25％）。
-          </p>
-          <p>
+          </div>
+          <div>
             在維修過程中，費用會從資源庫存中扣除，而不是在開始時支付。如果一個玩家在維修期間耗盡資源，村民將停止維修並保持閒置狀態，直到他們被重新分配工作。
-          </p>
-          <p>
+          </div>
+          <div>
             折扣也適用，例如法蘭克玩家將只支付244石頭以完全修復<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
             >，升級建築物生命值的升級不會影響維修成本。
-          </p>
+          </div>
           <ul>
             <li>速度</li>
             對於建築物來說，第一個村民將會每分鐘修復750點生命值，而任何額外的村民將會增加375點/分鐘（只有一半的速度）。無論<nuxt-link
@@ -522,14 +521,14 @@
               <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>
             </li>
             不影響修理速度。
-            <p>
+            <div>
               在大多數情況下，新建築的建築速度要快於修復工程，儘管成本較高（例如更換損壞的牆體部分），但建造新建築的速度可能會更快。
-            </p>
-            <p>
+            </div>
+            <div>
               攻城武器和<nuxt-link to="/units/Naval_Vessels">船艦</nuxt-link
               >的修理速度是建築物速度的25％，所以第一個村民是187.5 HP
               /分鐘，任何額外的村民將加上93.75 HP /分鐘。
-            </p>
+            </div>
           </ul>
         </div>
         <h3>更多數據</h3>
@@ -547,11 +546,9 @@
               大多數<nuxt-link to="/building">建築物</nuxt-link>，<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
-              >，<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>系，
-              <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>，<nuxt-link
-                to="/units/Trebuchet"
-                >投石機</nuxt-link
-              >。
+              >，<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >系，<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+              >，<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -560,29 +557,29 @@
           </tr>
           <tr class="tta">
             <td class="tta4" colspan="2" style="text-align: center;">
-              <div class="unititle2">升級</div>
+              <div class="unititle">升級</div>
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">攜帶能力</td>
             <td class="tta4">
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Wheelbarrow.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>(+3)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Handcart.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>(+7)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Heavyplow.jpg"
@@ -590,47 +587,47 @@
                   alt=""
                 /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link
                 >(+1)(食物限定)
-              </p>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">收集速度</td>
             <td class="tta4">
               <li>木材:</li>
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Doublebitaxe.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>(+20%)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Bowsaw.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link>(+20%)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Twomansaw.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link>(+10%)
-              </p>
+              </div>
               <li>石頭:</li>
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Stonemining.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link>(+15%)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Stone_Shaft_Mining.jpg"
@@ -638,17 +635,17 @@
                   alt=""
                 /><nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link
                 >(+15%)
-              </p>
+              </div>
               <li>黃金:</li>
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Goldmining.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link>(+15%)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Goldshaftmining.jpg"
@@ -656,8 +653,8 @@
                   alt=""
                 /><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link
                 >(+15%)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/CastleAgeUnique.png"
@@ -665,21 +662,21 @@
                   alt=""
                 /><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link
                 >(+10%，<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
-              </p>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">生命值</td>
             <td class="tta4">
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Loom.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Loom">織布技術</nuxt-link>(+15)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Unique-tech.jpg"
@@ -687,7 +684,7 @@
                   alt=""
                 /><nuxt-link to="/techs/Supremacy">霸權</nuxt-link
                 >(+40，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
-              </p>
+              </div>
             </td>
           </tr>
           <tr>
@@ -695,7 +692,7 @@
               <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
             </td>
             <td class="tta4">
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Sappers.jpg"
@@ -703,8 +700,8 @@
                   alt=""
                 /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link
                 >(攻擊建築物和防禦工事造成的傷害+15)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Forging.jpg"
@@ -714,8 +711,8 @@
                   to="/civs/Incas"
                   >印加</nuxt-link
                 >限定)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Ironcasting.jpg"
@@ -723,8 +720,8 @@
                   alt=""
                 /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
                 >(+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Blastfurnace.jpg"
@@ -732,8 +729,8 @@
                   alt=""
                 /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
                 >(+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Unique-tech.jpg"
@@ -741,21 +738,21 @@
                   alt=""
                 /><nuxt-link to="/techs/Supremacy">霸權</nuxt-link
                 >(+6，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
-              </p>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Loom.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Loom">織布技術</nuxt-link>(+1/+2)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Scalemailarmor.jpg"
@@ -763,8 +760,8 @@
                   alt=""
                 /><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link
                 >(+1/+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Chainmailarmor.jpg"
@@ -772,8 +769,8 @@
                   alt=""
                 /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
                 >(+1/+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Platemailarmor.jpg"
@@ -781,8 +778,8 @@
                   alt=""
                 /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
                 >(+1/+2，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Unique-tech.jpg"
@@ -790,28 +787,28 @@
                   alt=""
                 /><nuxt-link to="/techs/Supremacy">霸權</nuxt-link
                 >(+2/+2，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
-              </p>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Wheelbarrow.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>(+10%)
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Handcart.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>(+10%)
-              </p>
+              </div>
             </td>
           </tr>
           <tr>
@@ -819,22 +816,22 @@
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
-              <p>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Faith.jpg"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              </p>
-              <p>
+              </div>
+              <div>
                 <img
                   class="gg"
                   src="~assets/Heresy.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
-              </p>
+              </div>
             </td>
           </tr>
           <tr>
@@ -1018,8 +1015,8 @@
               村民是遊戲中三個有多種3D模組的單位之一，村民有兩個3D模組(男與女)，另兩個是<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
-              >(正常與撿拾<nuxt-link to="/elements/Relic">遺跡</nuxt-link>)和
-              <nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
+              >(正常與撿拾<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+              >)和<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
               >(正常與有貨物)。
             </li>
             <li>

@@ -139,8 +139,8 @@
           <li>
             <strong>起始資源：</strong>200<nuxt-link to="/resource/Wood"
               >木頭</nuxt-link
-            >，200<nuxt-link to="/resource/Food">食物</nuxt-link>
-            <br />50<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >，200<nuxt-link to="/resource/Food">食物</nuxt-link
+            ><br />50<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >，150<nuxt-link to="/resource/Stone">石頭</nuxt-link>
           </li>
           <li><strong>人口上限：</strong>75</li>
@@ -156,24 +156,36 @@
             >
           </li>
           <li>
-            <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-            <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>*2
+            <img
+              class="gg"
+              src="~assets/ScoutCavalryIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>*2
           </li>
           <li>
-            <img class="gg" src="~assets/KnightIcon.jpg" alt="" />
-            <nuxt-link to="/units/Knight">騎士</nuxt-link>*6
+            <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >*6
           </li>
           <li>
-            <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt="" />
-            <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>*4
+            <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt="" /><nuxt-link
+              to="/units/Man-at-Arms"
+              >裝甲步兵</nuxt-link
+            >*4
           </li>
           <li>
-            <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt="" />
-            <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>*4
+            <img
+              class="gg"
+              src="~assets/CrossbowmanIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>*4
           </li>
           <li>
-            <img class="gg" src="~assets/MonkIcon.jpg" alt="" />
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link>*2
+            <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >*2
           </li>
         </ul>
       </div>
@@ -181,8 +193,11 @@
         <h3>大地之母</h3>
         <ul>
           <li>
-            <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt="" />
-            <nuxt-link to="/units/Villager">村民</nuxt-link>*6
+            <img
+              class="gg"
+              src="~assets/VillagerMaleIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Villager">村民</nuxt-link>*6
           </li>
         </ul>
       </div>

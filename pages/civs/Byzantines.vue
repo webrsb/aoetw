@@ -240,17 +240,15 @@
         拜占庭在<nuxt-link to="/batt">戰役</nuxt-link
         >中扮演相當重要的角色，尤其在<nuxt-link to="/batt/Attila_the_Huna"
           >阿提拉</nuxt-link
-        >，而在<nuxt-link to="/games/aok">帝王世紀</nuxt-link>的戰役中，在
-        <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>與<nuxt-link
-          to="/batt/Saladina"
-          >沙拉丁</nuxt-link
+        >，而在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+        >的戰役中，在<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
+        >與<nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link
         >也頻繁的出現，耶路撒冷就是拜占庭文明。<nuxt-link to="/batt/Saladina"
           >沙拉丁</nuxt-link
         >第五關<nuxt-link to="/batt/Jihad">聖戰</nuxt-link
         >的十字軍泰爾，以及<nuxt-link to="/batt/Barbarossa"
           >巴巴羅薩戰役</nuxt-link
-        >第四關
-        <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link
+        >第四關<nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link
         >中的威尼斯(實際上應該是<nuxt-link to="/civs/Italians"
           >義大利人</nuxt-link
         >)等等..不是扮演原本就是拜占庭帝國的耶路撒冷或是君士坦丁堡，就是代替當時的<nuxt-link

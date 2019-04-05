@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>腓特烈一世</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            <strong>腓特烈一世</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aof"
+              >失落的帝國</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，他只能在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中使用。腓特烈一世擁有<nuxt-link to="/units/Teutonic_Knight"
@@ -17,8 +18,7 @@
             >的外觀。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p></p>
         </div>

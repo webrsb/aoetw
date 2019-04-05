@@ -14,8 +14,7 @@
             >和軍隊使用，不過被摧毀時玩家也會失去5的人口上限(<nuxt-link
               to="/civs/Mongols"
               >蒙古</nuxt-link
-            >研發
-            <nuxt-link to="/techs/Nomads">游牧</nuxt-link
+            >研發<nuxt-link to="/techs/Nomads">游牧</nuxt-link
             >後房屋毀壞人口上限也不會掉)。
           </p>
           <p>
@@ -38,15 +37,16 @@
                   >建築物</nuxt-link
                 >。其功能是增加人口容量。在<nuxt-link to="/techs/age/Dark_Age"
                   >黑暗時代</nuxt-link
-                >，房子是玩家應該建造的第一座建築（除非他們扮演的是
-                <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>或<nuxt-link
-                  to="/civs/Chinese"
-                  >中國人</nuxt-link
+                >，房子是玩家應該建造的第一座建築（除非他們扮演的是<nuxt-link
+                  to="/civs/Huns"
+                  >匈奴人</nuxt-link
+                >或<nuxt-link to="/civs/Chinese">中國人</nuxt-link
                 >）。事實上，除了建立新的村民和收集<nuxt-link
                   to="/resource/Food"
                   >食物</nuxt-link
-                >之外，建造房屋應該是首先要做的事情。在推進至
-                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+                >之外，建造房屋應該是首先要做的事情。在推進至<nuxt-link
+                  to="/techs/age/Feudal_Age"
+                  >封建時代</nuxt-link
                 >之前，建議至少建造四座房屋。
               </li>
               <li>
@@ -54,8 +54,9 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-                >讓玩家可以在防守時使用房屋作為防禦性建築，因為他們可以讓五名村民駐守在房屋內（不過不像在
-                <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+                >讓玩家可以在防守時使用房屋作為防禦性建築，因為他們可以讓五名村民駐守在房屋內（不過不像在<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
                 >，<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
                 >或<nuxt-link to="/building/Castle">城堡</nuxt-link
                 >中進駐，駐守在房屋內的村民不能射箭）。這有助於<nuxt-link
@@ -67,8 +68,7 @@
                 房屋通常以成群的形式建成，以節省建築物和資源開采的空間。這樣可以優化單位在鎮上的路線，但是這也使得他們特別容易受到<nuxt-link
                   to="/units/Mangonel"
                   >投石車</nuxt-link
-                >等
-                <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+                >等<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
                 >的破壞。
               </li>
             </div>
@@ -89,7 +89,7 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">全部。</td>
+            <td class="tta4">全部</td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -517,9 +517,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

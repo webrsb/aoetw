@@ -11,8 +11,7 @@
             <b>火箭術</b>是<nuxt-link to="/civs/Chinese">中國</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後給予<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
             >+2攻擊、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>+4攻擊。
           </p>
@@ -26,8 +25,8 @@
               >和弩砲可以對防箭單位造成更多傷害，如:<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
-              >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>和
-              <nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
+              >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >和<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
               >。可以取代<nuxt-link to="/civs/Chinese">中國</nuxt-link
               >進攻時沒有<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link

@@ -25,13 +25,11 @@
             >文明，世紀帝國II資料片<nuxt-link to="/games/ak">非洲王國</nuxt-link
             >的所新增的文明。柏柏的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
-            >是
-            <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+            >是<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >這是歷史上真實的兵種曾經多次造成歐洲軍隊的麻煩，另外<nuxt-link
               to="/elements/Team_Bonus"
               >團隊加分</nuxt-link
-            >的
-            <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+            >的<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
             >也是歷史上出現過的真實兵種，北非部落多次度過地中海入侵歐洲還占領了伊比利亞半島因此給逾橫越地中海的柏柏人<nuxt-link
               to="/units/Naval_Vessels"
               >船隻</nuxt-link
@@ -40,8 +38,8 @@
               >村民</nuxt-link
             >移動速度上升且研發<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            ><nuxt-link to="/techs/untech">特殊科技</nuxt-link>
-            <nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>可加快<nuxt-link
+            ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>可加快<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
             >工作效率。由於長期得要在沙漠戰鬥<nuxt-link to="/units/Camel"
@@ -50,8 +48,8 @@
               >駱駝</nuxt-link
             >本身比較不需要水源因此<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >特殊科技
-            <nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
+            >特殊科技<nuxt-link to="/techs/Maghrabi_Camels"
+              >馬格拉比駱駝</nuxt-link
             >就是體現駱駝強大的沙漠優勢。
           </p>
         </div>
@@ -83,11 +81,10 @@
             <li>
               柏柏雖然貴為馬弓騎兵剋星但是<nuxt-link to="/units/Archer_Units"
                 >弓兵系</nuxt-link
-              >統裡缺<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link>/
-              <nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >統裡缺<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link
+              >/<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
               >。<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-              >系統則是欠缺
-              <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >系統則是欠缺<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >/美洲獨有<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >，因此在對抗騎兵上只能用自己最驕傲的駱駝了。
             </li>
@@ -97,8 +94,9 @@
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >在哭)，但是沒有<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-              >(聖<nuxt-link to="/units/Knight">騎士</nuxt-link>)、東南亞獨有
-              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              >(聖<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >)、東南亞獨有<nuxt-link to="/units/Battle_Elephant"
+                >矛象伕</nuxt-link
               >，也算是近乎綁定駱駝且因為帝王時代特殊科技<nuxt-link
                 to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
@@ -116,8 +114,8 @@
             <li>
               柏柏<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
               >上欠缺<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-              >/<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>，但擁有
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+              >/<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
+              >，但擁有<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >。另外沒有<nuxt-link to="/building/Bombard_Tower"
                 >火砲塔</nuxt-link
               >跟<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
@@ -127,8 +125,8 @@
             <li>
               柏柏<nuxt-link to="/armor/Armor_Class_Monk">僧侶類</nuxt-link
               >統欠缺<nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
-              >/<nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>，因此在
-              <nuxt-link to="/elements/Conversion">招降</nuxt-link
+              >/<nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link
+              >，因此在<nuxt-link to="/elements/Conversion">招降</nuxt-link
               >時危險度上升。
             </li>
             <li>

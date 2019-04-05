@@ -287,8 +287,9 @@
               >在封建/城堡/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：蓋射箭場不用
-              <nuxt-link to="/building/Barracks">軍營</nuxt-link>。
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >：蓋射箭場不用<nuxt-link to="/building/Barracks">軍營</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：射箭場便宜15%。
@@ -314,11 +315,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：同盟和自己能在城堡／帝王生產
-              <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>和<nuxt-link
-                to="/units/Genitour"
-                >精銳標槍騎兵</nuxt-link
-              >。
+              >：同盟和自己能在城堡／帝王生產<nuxt-link to="/units/Genitour"
+                >標槍騎兵</nuxt-link
+              >和<nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：訓練速度快20%。
@@ -331,8 +330,8 @@
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
               >：同盟和自己在<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              >能生產
-              <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
+              >能生產<nuxt-link to="/units/Imperial_Skirmisher"
+                >帝王戰矛兵</nuxt-link
               >。
             </li>
           </ul>
@@ -504,9 +503,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

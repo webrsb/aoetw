@@ -15,8 +15,8 @@
             ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1，<nuxt-link
               to="/units/Transport_Ship"
               >運輸船</nuxt-link
-            >運輸量+5(總共可載10個單位)。
-            <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
+            >運輸量+5(總共可載10個單位)。<nuxt-link to="/techs/Dry_Dock"
+              >旱碼頭</nuxt-link
             >是更進一步的<nuxt-link to="/techs">科技</nuxt-link>。
           </p>
         </div>

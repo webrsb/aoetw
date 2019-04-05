@@ -45,8 +45,9 @@
           <p>
             卡拉維爾戰船只比<nuxt-link to="/units/War_Galley"
               >弩砲戰船</nuxt-link
-            >貴一點，但是到城堡時代不需升級就能馬上訓練。在後期如果要同時訓練卡拉維爾戰船和弩砲戰船/
-            <nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
+            >貴一點，但是到城堡時代不需升級就能馬上訓練。在後期如果要同時訓練卡拉維爾戰船和弩砲戰船/<nuxt-link
+              to="/units/Galleon"
+              >重型弩砲戰船</nuxt-link
             >的話玩家的經濟必須相當的好才行。但如果同時有這兩種<nuxt-link
               to="/units/Naval_Vessels"
               >船隻</nuxt-link
@@ -66,9 +67,9 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
-              >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>、在岸邊的
-              <nuxt-link to="/building">建築物</nuxt-link>和近戰單位、<nuxt-link
-                to="/units/Cannon_Galleon"
+              >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+              >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
+              >和近戰單位、<nuxt-link to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
               >、群體單位。
             </td>
@@ -79,10 +80,8 @@
               <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>、<nuxt-link
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
-              >、
-              <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>、<nuxt-link
-                to="/building/Watch_Tower"
-                >箭塔</nuxt-link
+              >、<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
+              >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
               >、<nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
@@ -309,14 +308,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -777,8 +779,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

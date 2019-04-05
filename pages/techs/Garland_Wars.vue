@@ -11,8 +11,9 @@
             <b>榮冠戰爭</b>是<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
-            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>攻擊+4。
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >攻擊+4。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,8 +25,8 @@
                 >鷹勇士</nuxt-link
               >和<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
               >替代<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >成為阿茲的軍隊核心。與
-              <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+              >成為阿茲的軍隊核心。與<nuxt-link to="/units/Spearman"
+                >長槍兵</nuxt-link
               >搭配讓他們成為一支非常的危險部隊。即使<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link

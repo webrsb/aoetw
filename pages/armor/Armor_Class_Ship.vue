@@ -223,14 +223,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>

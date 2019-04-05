@@ -12,12 +12,12 @@
             >是一名只在世紀帝國II的地圖編輯器中能使用的<nuxt-link
               to="/units/Monk"
               >僧侶</nuxt-link
-            >
-            <nuxt-link to="/units/hero/">英雄</nuxt-link
+            ><nuxt-link to="/units/hero/">英雄</nuxt-link
             >。實際上他代表的是1046年-1066年統治<nuxt-link to="/civs/Vikings"
               >挪威</nuxt-link
-            >的國王<strong>無情者哈拉爾</strong>（即遊戲中的<strong>哈羅德哈左德</strong>）。哈拉爾沒辦法拾取
-            <nuxt-link to="/elements/Relic">遺跡</nuxt-link
+            >的國王<strong>無情者哈拉爾</strong>（即遊戲中的<strong>哈羅德哈左德</strong>）。哈拉爾沒辦法拾取<nuxt-link
+              to="/elements/Relic"
+              >遺跡</nuxt-link
             >，不過移動的速度是一般<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >的兩倍，<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >速度也比較快。他也會受到所有強化僧侶的<nuxt-link to="/techs"
@@ -27,8 +27,9 @@
             >、8招降範圍。但與其他僧侶不同的是，哈拉爾的單位語音使用的是軍事單位的語音。在《<nuxt-link
               to="/games/aoc"
               >征服者入侵</nuxt-link
-            >》資料片後，哈拉爾就完全從遊戲中被移除，並以
-            <nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+            >》資料片後，哈拉爾就完全從遊戲中被移除，並以<nuxt-link
+              to="/units/Berserk"
+              >狂戰士</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link
             ><nuxt-link to="/units/hero/Harald_Hardraade"
               >哈羅德哈左德</nuxt-link

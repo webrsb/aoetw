@@ -10,8 +10,8 @@
           <p>
             <b>雇傭兵</b>是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Magyar_Huszar"
               >馬扎爾驃騎兵</nuxt-link
             >不需花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>。

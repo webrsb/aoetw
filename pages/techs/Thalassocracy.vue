@@ -10,8 +10,8 @@
           <p>
             <b>海上霸主</b>是<nuxt-link to="/civs/Malay">馬來</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後讓<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >升級成有攻擊能力的<nuxt-link to="/building/Harbor">海港</nuxt-link
             >。
@@ -29,8 +29,9 @@
               >，海港比碼頭大，但有攻擊能力能保衛周邊海岸安全，同時對<nuxt-link
                 to="/armor/Armor_Class_Ship"
                 >船隻</nuxt-link
-              >有+9攻擊，可有效摧毀敵方船隻(尤其對方用
-              <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+              >有+9攻擊，可有效摧毀敵方船隻(尤其對方用<nuxt-link
+                to="/units/Transport_Ship"
+                >運輸船</nuxt-link
               >搶灘時)。海港也可作為進攻手段，蓋在敵方海岸可有效阻止敵方生產單位和捕魚。所以海上霸主能盡早研發就盡早。
             </li>
           </ul>

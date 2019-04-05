@@ -12,8 +12,7 @@
               >《世紀帝國 II HD: 王者崛起》</nuxt-link
             >中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >。他只能在<nuxt-link to="/batt">戰役</nuxt-link
-            >編輯器中使用，並擁有
-            <nuxt-link to="/units/Paladin">遊俠</nuxt-link
+            >編輯器中使用，並擁有<nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >的外觀。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link

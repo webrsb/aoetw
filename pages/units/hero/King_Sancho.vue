@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>桑喬國王</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            <strong>桑喬國王</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aoc"
+              >征服者入侵</nuxt-link
             >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，也出現在<nuxt-link to="/batt">戰役</nuxt-link
             >"兄弟鬩牆"與他的兄弟阿方索對決，他同樣能在戰役編輯器中使用。桑喬國王不能攻擊，但移動速度快而且有很大的<nuxt-link
@@ -18,8 +19,7 @@
             >範圍。由於他屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <div></div>

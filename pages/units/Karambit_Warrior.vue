@@ -71,8 +71,8 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>。
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -81,16 +81,16 @@
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Jaguar_Warrior"
                 >豹勇士</nuxt-link
-              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、
-              <nuxt-link to="/units/Conquistador">征服者</nuxt-link>、<nuxt-link
-                to="/units/Slinger"
-                >投石手</nuxt-link
-              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、
-              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
-                to="/units/Samurai"
-                >日本武士</nuxt-link
-              >、<nuxt-link to="/units/Berserk">狂戰士</nuxt-link>、
-              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
+              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
+                to="/units/Boyar"
+                >貴族鐵騎</nuxt-link
+              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
+                to="/units/Berserk"
+                >狂戰士</nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -341,8 +341,12 @@
         </div>
         以下技術可讓以下單位對爪刀勇士有額外攻擊力
         <div class="n1">
-          <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          <img
+            class="gg"
+            src="~assets/Unique-tech.jpg"
+            width="22"
+            alt=""
+          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -368,8 +372,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高爪刀勇士的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高爪刀勇士的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>
@@ -419,8 +424,10 @@
             <li>
               30HP是所有軍事單位中低的，跟<nuxt-link to="/units/Archer"
                 >弓兵</nuxt-link
-              >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>與
-              <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>並列。
+              >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>與<nuxt-link
+                to="/units/Gbeto"
+                >飛刀女獵手</nuxt-link
+              >並列。
             </li>
             <li>
               爪刀勇士與<nuxt-link to="/units/Shotel_Warrior"

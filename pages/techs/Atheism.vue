@@ -11,12 +11,11 @@
             <b>無神論</b>是<nuxt-link to="/civs/Huns">匈奴</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
             >、<nuxt-link to="/elements/Relic">遺跡</nuxt-link
-            >倒數時間增加100年，
-            <nuxt-link to="/techs/Spies">間諜/叛國者</nuxt-link
+            >倒數時間增加100年，<nuxt-link to="/techs/Spies"
+              >間諜/叛國者</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link>便宜50%。
           </p>
         </div>

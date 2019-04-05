@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>哈羅德哈左德</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            <strong>哈羅德哈左德</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aoc"
+              >征服者入侵</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，他只能在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中使用。哈羅德哈左德在現實中是1046~1066的<nuxt-link
@@ -33,8 +34,8 @@
             >的加成影響，由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。由於此英雄的獨特性(攻速奇快、跑速奇快、是步兵但攻擊卻是遠距離)，讓他成為許多戰役編輯器用戶的愛用英雄。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
+            >。由於此英雄的獨特性(攻速奇快、跑速奇快、是步兵但攻擊卻是遠距離)，讓他成為許多戰役編輯器用戶的愛用英雄。
           </p>
         </div>
         <h3>出現場景</h3>
@@ -59,7 +60,7 @@
             <div class="col-md-4">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   width="250"
                   src="~assets/Haraldhardraadebattle.png"
                   alt=""

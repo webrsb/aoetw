@@ -11,8 +11,10 @@
             <strong>羅賓漢</strong>是《世紀帝國II》中的一名<nuxt-link
               to="/units/Archer_Units"
               >射手</nuxt-link
-            ><nuxt-link to="/units/hero">英雄</nuxt-link>，他的原型是
-            <nuxt-link to="/civs/Britons">英國</nuxt-link>民間傳說中的一名俠盜。
+            ><nuxt-link to="/units/hero">英雄</nuxt-link>，他的原型是<nuxt-link
+              to="/civs/Britons"
+              >英國</nuxt-link
+            >民間傳說中的一名俠盜。
           </p>
           <p>
             遊戲中的他是<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
@@ -49,8 +51,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Archer_Units">射手</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Archer_Units">射手</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -115,8 +117,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

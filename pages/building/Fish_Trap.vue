@@ -14,8 +14,7 @@
             >之一，在建成<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >後就可以使用。漁網提供715<nuxt-link to="/resource/Food"
               >食物</nuxt-link
-            >，只有
-            <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+            >，只有<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
             >能夠建築和採集它。
           </p>
           <h3>戰術技巧</h3>
@@ -38,8 +37,8 @@
               漁網應該盡可能地擺在<nuxt-link to="/building/Dock">港口</nuxt-link
               >旁邊，這樣就能縮短<nuxt-link to="/units/Fishing_Ship"
                 >漁船</nuxt-link
-              >的移動距離，進而最大化生產力。
-              <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+              >的移動距離，進而最大化生產力。<nuxt-link to="/units/Fishing_Ship"
+                >漁船</nuxt-link
               >會自己移動到漁網的左側來工作，因此把漁網建在<nuxt-link
                 to="/building/Dock"
                 >港口</nuxt-link
@@ -49,14 +48,15 @@
             </p>
             <p>
               漁網和<nuxt-link to="/building/Farm">農田</nuxt-link
-              >的生產力大致相當，但是漁網的成本較為低廉。儘管如此，漁網是最不常被使用的建築之一。在少數情況下，例如在島上的玩家已經沒有多餘的空間，周圍也沒有魚，但仍然需要在後帝王時期收集食物時，漁網才可能被考慮。除此之外，相比
-              <nuxt-link to="/units/Villager">農夫</nuxt-link
+              >的生產力大致相當，但是漁網的成本較為低廉。儘管如此，漁網是最不常被使用的建築之一。在少數情況下，例如在島上的玩家已經沒有多餘的空間，周圍也沒有魚，但仍然需要在後帝王時期收集食物時，漁網才可能被考慮。除此之外，相比<nuxt-link
+                to="/units/Villager"
+                >農夫</nuxt-link
               >，玩家更難以保護<nuxt-link to="/units/Fishing_Ship"
                 >漁船</nuxt-link
               >。<nuxt-link to="/units/Villager">農夫</nuxt-link
               >可以躲進<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-              >或是用牆來保護，但是
-              <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+              >或是用牆來保護，但是<nuxt-link to="/units/Fishing_Ship"
+                >漁船</nuxt-link
               >會輕易地被擊沉。
             </p>
             <p>
@@ -68,13 +68,13 @@
                 <nuxt-link to="/civs/Japanese">日本</nuxt-link
                 >：更高的<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
                 >工作速度，使得<nuxt-link to="/civs/Japanese">日本</nuxt-link
-                >的漁網遠比
-                <nuxt-link to="/building/Farm">農田</nuxt-link>更有效率。
+                >的漁網遠比<nuxt-link to="/building/Farm">農田</nuxt-link
+                >更有效率。
               </li>
               <li>
                 <nuxt-link to="/civs/Malay">馬來</nuxt-link
-                >：漁網只消耗67<nuxt-link to="/resource/Wood">木頭</nuxt-link>
-                (只比<nuxt-link to="/building/Farm">農田</nuxt-link>多7)
+                >：漁網只消耗67<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >(只比<nuxt-link to="/building/Farm">農田</nuxt-link>多7)
                 而且提供無限的食物。這使得理論上的漁網效率(食物/木頭比)是無限，因此在後期遊戲中是非常不錯的選擇。
               </li>
             </ul>

@@ -12,8 +12,7 @@
             >是可在《世紀帝國II》的地圖編輯器中使用的一名<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
-            >
-            <nuxt-link to="/units/hero">英雄</nuxt-link>，他的原型是<a
+            ><nuxt-link to="/units/hero">英雄</nuxt-link>，他的原型是<a
               href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E6%9B%BC"
               target="_blank"
               ><nuxt-link to="/units/hero/Charlemagne">查理曼大帝</nuxt-link></a
@@ -54,8 +53,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>

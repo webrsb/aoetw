@@ -30,8 +30,7 @@
             <li>
               駐紮步兵數量1→移動速度0.65 (<nuxt-link to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >、
-              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >移動速度0.65)
             </li>
             <li>
@@ -63,22 +62,29 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
+              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+                to="/civs/Incas"
+                >印加</nuxt-link
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Mayans"
+                >馬雅</nuxt-link
+              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Teutons"
+                >條頓</nuxt-link
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -91,21 +97,28 @@
                   >不可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
+                to="/civs/Britons"
+                >不列顛</nuxt-link
+              >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
+                to="/civs/Franks"
+                >法蘭克</nuxt-link
+              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+                to="/civs/Indians"
+                >印度</nuxt-link
+              >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+                to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+                to="/civs/Malians"
+                >馬利</nuxt-link
+              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
             </div>
           </div>
         </div>
@@ -118,8 +131,9 @@
             >，與<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
             >相比，其傷害半徑從1.5提高至2，<nuxt-link to="/elements/Garrison"
               >駐軍</nuxt-link
-            >數量也從5增加至6。其讓對方產生的心理壓力更是可怕。更重要的是，起始移動速度從0.5提升至0.6，當駐紮數量到達當6人時(全部都放步兵)，移動速度會增加至0.9，這樣的速度可以媲美
-            <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+            >數量也從5增加至6。其讓對方產生的心理壓力更是可怕。更重要的是，起始移動速度從0.5提升至0.6，當駐紮數量到達當6人時(全部都放步兵)，移動速度會增加至0.9，這樣的速度可以媲美<nuxt-link
+              to="/units/Champion"
+              >劍兵勇士</nuxt-link
             >，你不用再為了移動速度問題，困擾是否要將步兵駐紮在<nuxt-link
               to="/units/Battering_Ram"
               >衝撞車</nuxt-link
@@ -131,16 +145,18 @@
               to="/techs/untech"
               >特殊科技</nuxt-link
             ><nuxt-link to="/techs/Drill">演習</nuxt-link
-            >，會強烈建議你將步兵放置在重型衝撞車，因為原始的重型衝撞車移動速度為0.6~0.9，當發展特殊科技「
-            <nuxt-link to="/techs/Drill">演習</nuxt-link
+            >，會強烈建議你將步兵放置在重型衝撞車，因為原始的重型衝撞車移動速度為0.6~0.9，當發展特殊科技「<nuxt-link
+              to="/techs/Drill"
+              >演習</nuxt-link
             >」之後，重型衝撞車移動速度為0.9~1.2，故駐軍後的蒙古重型衝撞車，移動速度會比研發<nuxt-link
               to="/techs/Squires"
               >護衛技術</nuxt-link
             >的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>還來的快。
           </p>
           <p>
-            塞爾特文明也非常適合研發重型衝撞車，塞爾特不只有生產快速的優勢，更有特殊科技
-            <nuxt-link to="/techs/Furor_Celtica">「塞爾特狂暴」</nuxt-link
+            塞爾特文明也非常適合研發重型衝撞車，塞爾特不只有生產快速的優勢，更有特殊科技<nuxt-link
+              to="/techs/Furor_Celtica"
+              >「塞爾特狂暴」</nuxt-link
             >，讓塞爾特重型衝撞車的生命值從原本的270強化到405，耐打程度絕對超乎你的想像。
           </p>
           <p>
@@ -170,8 +186,9 @@
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
-              >、近戰單位特別是
-              <nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>。
+              >、近戰單位特別是<nuxt-link to="/units/Magyar_Huszar"
+                >馬扎爾驃騎兵</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -214,8 +231,8 @@
               >:攻城器製造所的單位傷害範圍增加(<nuxt-link
                 to="/units/Battering_Ram"
                 >輕型衝撞車</nuxt-link
-              >和<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>除外)，
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>限定
+              >和<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
+              >除外)，<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>限定
             </td>
           </tr>
           <tr>
@@ -700,11 +717,10 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +200 vs
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              +200 vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >(每1個步兵進駐攻擊+10，最多+40) <br />+65 vs
-              <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+              >(每1個步兵進駐攻擊+10，最多+40) <br />+65 vs<nuxt-link
+                to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
             </td>
@@ -731,8 +747,8 @@
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>(+2)
+              <br /><nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link
+              >(+2)
             </td>
           </tr>
           <tr>

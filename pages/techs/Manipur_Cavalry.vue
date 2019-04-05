@@ -11,12 +11,12 @@
             <b>曼尼普爾騎兵</b>是<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
-            >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>對
-            <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+            >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>對<nuxt-link
+              to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
               >標準建築</nuxt-link
             >+3攻擊。
@@ -33,8 +33,8 @@
               ><nuxt-link to="/techs">科技</nuxt-link>和<nuxt-link
                 to="/units/Siege_Ram"
                 >重型衝撞車</nuxt-link
-              >。曼尼普爾騎兵可以增加
-              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              >。曼尼普爾騎兵可以增加<nuxt-link to="/units/Battle_Elephant"
+                >矛象伕</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
               >以補足上述缺點。
@@ -65,8 +65,7 @@
                 >建築物</nuxt-link
               >攻擊+6。5.3改版後對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >和
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >都有加成，這讓<nuxt-link to="/techs/Architecture"
                 >建築學</nuxt-link

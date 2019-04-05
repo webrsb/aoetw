@@ -87,8 +87,9 @@
           <h3>開場</h3>
           <p>
             。 <nuxt-link to="/units/hero">英雄</nuxt-link> -
-            勃印曩x1、莽應禮x1、辛格．達塔x1。 軍事單位 -
-            <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
+            勃印曩x1、莽應禮x1、辛格．達塔x1。 軍事單位 -<nuxt-link
+              to="/units/Two-Handed_Swordsman"
+              >雙手劍兵</nuxt-link
             >x44、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
             >x12、東吁勇士x5、<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
             >x28、<nuxt-link to="/units/Knight">騎士</nuxt-link>x8、<nuxt-link
@@ -96,9 +97,11 @@
               >矛象伕</nuxt-link
             >x18、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >x5、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
-            >x2、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x5。
-            <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
-            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >x2、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x5。<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍單位</nuxt-link
+            >
+            -<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >x7、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >x18、爆破船x3、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
             >x4、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>x4。

@@ -14,10 +14,10 @@
             >中被訓練。這是一艘有"火焰噴射器"的船，對其他的<nuxt-link
               to="/units/Naval_Vessels"
               >船隻</nuxt-link
-            >有攻擊加成。火戰船需要很靠近敵方船隻，並且用超級快的速度(每秒4次)。當
-            <nuxt-link to="/units/Galley">戰船</nuxt-link>升級成<nuxt-link
-              to="/units/War_Galley"
-              >弩砲戰船</nuxt-link
+            >有攻擊加成。火戰船需要很靠近敵方船隻，並且用超級快的速度(每秒4次)。當<nuxt-link
+              to="/units/Galley"
+              >戰船</nuxt-link
+            >升級成<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >的時候，<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
             >會自動升級成火戰船。
           </p>
@@ -33,10 +33,8 @@
             火戰船能夠壓制大部分的船，並且能夠造成巨大的傷害。火戰船也可以用來對付陸地單位，效果也是不錯。但是，因為火戰船需要很靠近敵人，所以<nuxt-link
               to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
-            >很大的克制噴火船。
-            <nuxt-link to="/civs/Koreans">韓國</nuxt-link>的<nuxt-link
-              to="/units/Turtle_Ship"
-              >龜甲船</nuxt-link
+            >很大的克制噴火船。<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >的<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
             >也能夠威脅到火戰船。火戰船雖然有非常快的<nuxt-link
               to="/elements/Rate_of_Fire"
               >攻擊速度</nuxt-link
@@ -48,8 +46,9 @@
             儘管火戰船對船有傷害力也有著很高的防禦力，但是城堡時代的火戰船還是比<nuxt-link
               to="/units/War_Galley"
               >弩砲戰船</nuxt-link
-            >的速度慢。所以需要適當的戰術，攻其不備。當火戰船升級成
-            <nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+            >的速度慢。所以需要適當的戰術，攻其不備。當火戰船升級成<nuxt-link
+              to="/units/Fast_Fire_Ship"
+              >快速火戰船</nuxt-link
             >後，倒是能夠輕易地追上<nuxt-link to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
             >。
@@ -70,21 +69,17 @@
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
               >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
-              >和近戰單位、
-              <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>、<nuxt-link
-                to="/units/Cannon_Galleon"
-                >火砲戰船</nuxt-link
-              >。
+              >和近戰單位、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+              >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
-              >、<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>、
-              <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>、<nuxt-link
-                to="/building/Watch_Tower"
-                >箭塔</nuxt-link
+              >、<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
+              >、<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
+              >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
               >、<nuxt-link to="/building/Castle">城堡</nuxt-link
               >、在岸邊的<nuxt-link to="/units/Siege_Weapons"
                 >攻城器單位</nuxt-link
@@ -267,14 +262,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -564,9 +562,10 @@
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：火戰船在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >訓練的速度提高15/20%
-              <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>和升級到
-              <nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+              >訓練的速度提高15/20%<nuxt-link to="/techs/Careening"
+                >傾側維修術</nuxt-link
+              >和升級到<nuxt-link to="/units/Fast_Fire_Ship"
+                >快速火戰船</nuxt-link
               >的研發速度在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代提高15%/20％。研究<nuxt-link to="/techs/Dry_Dock"
                 >旱碼頭</nuxt-link
@@ -808,8 +807,8 @@
           <tr>
             <td class="unit3">傷害加成</td>
             <td class="unit4">
-              +3對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
-              <br />+2對<nuxt-link to="/armor/Armor_Class_Turtle_Ship"
+              +3對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link
+              ><br />+2對<nuxt-link to="/armor/Armor_Class_Turtle_Ship"
                 >龜甲船</nuxt-link
               >
               <br />+2對<nuxt-link to="/armor/Armor_Class_Building"

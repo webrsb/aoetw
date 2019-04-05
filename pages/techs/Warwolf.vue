@@ -12,8 +12,7 @@
               >不列顛</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
             >有0.5格的範圍傷害，對靜止單位有100%命中率。
           </p>
@@ -29,8 +28,9 @@
               >般的範圍傷害。<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
               >的一擊可以擊殺任何一個<nuxt-link to="/elements/Hit_points"
                 >血量</nuxt-link
-              >不高的單位，有戰狼後一擊可以是多個單位，而且也能更有效地對付敵方
-              <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+              >不高的單位，有戰狼後一擊可以是多個單位，而且也能更有效地對付敵方<nuxt-link
+                to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
               >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </li>
           </ul>

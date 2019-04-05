@@ -12,7 +12,14 @@
     </div>
     <div class="row">
       <div class="col-md-3">
-        <h3><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link></h3>
+        <h3>
+          <img
+            src="~assets/Dark-age-logo-small.jpg"
+            style="bottom: 3px; position: relative;"
+            width="30"
+            alt=""
+          /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+        </h3>
         <div class="hrn1"></div>
         <ul>
           <li>
@@ -128,7 +135,16 @@
         </ul>
       </div>
       <div class="col-md-3">
-        <h3><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link></h3>
+        <h3>
+          <nuxt-link to="/techs/age/Feudal_Age"
+            ><img
+              src="~assets/Feudal-age-reseach.jpg"
+              style="bottom: 3px; position: relative;"
+              width="30"
+              alt=""
+            />封建時代</nuxt-link
+          >
+        </h3>
         <div class="hrn1"></div>
         <ul>
           <li>
@@ -198,7 +214,16 @@
         </ul>
       </div>
       <div class="col-md-3">
-        <h3><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link></h3>
+        <h3>
+          <nuxt-link to="/techs/age/Castle_Age"
+            ><img
+              src="~assets/Castle-age-reseach.jpg"
+              style="bottom: 3px; position: relative;"
+              width="30"
+              alt=""
+            />城堡時代</nuxt-link
+          >
+        </h3>
         <div class="hrn1"></div>
         <ul>
           <li>
@@ -268,7 +293,16 @@
         </ul>
       </div>
       <div class="col-md-3">
-        <h3><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></h3>
+        <h3>
+          <nuxt-link to="/techs/age/Imperial_Age"
+            ><img
+              src="~assets/Imperial-age-research.jpg"
+              style="bottom: 3px; position: relative;"
+              width="30"
+              alt=""
+            />帝王時代</nuxt-link
+          >
+        </h3>
         <div class="hrn1"></div>
         <ul>
           <li>

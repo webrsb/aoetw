@@ -25,11 +25,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 500<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，400<nuxt-link to="/resource/Food">食物</nuxt-link>，500
-                <nuxt-link to="/resource/Gold">黃金</nuxt-link>，400<nuxt-link
-                  to="/resource/Stone"
-                  >石頭</nuxt-link
-                >
+                >，400<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，500<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，400<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>

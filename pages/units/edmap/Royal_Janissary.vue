@@ -40,8 +40,8 @@
               <gallery>
                 <img src="~assets/Royal Janissary.png" alt="" />
               </gallery>
-              <em>
-                <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              <em
+                ><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
                 >與皇家衛兵</em
               >
             </div>
@@ -143,8 +143,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>、
-              <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              >、<nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >
               、<nuxt-link to="/units/Unique_Unit$">特殊單位</nuxt-link>

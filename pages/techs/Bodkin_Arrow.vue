@@ -10,12 +10,12 @@
           <p>
             <b>錐狀箭頭</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link> 研發可讓
-            <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
-              to="/building/Castle"
-              >城堡</nuxt-link
-            >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>、
-            <nuxt-link to="/units/Galley">戰船</nuxt-link>和<nuxt-link
+            >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
+            研發可讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            >、<nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >、<nuxt-link to="/units/Galley">戰船</nuxt-link>和<nuxt-link
               to="/units/Longboat"
               >維京大戰船</nuxt-link
             >+1攻擊和+1射程。<nuxt-link to="/building/Town_Center"

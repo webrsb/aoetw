@@ -138,9 +138,7 @@
                     >逐鹿迪格維傑之地</nuxt-link
                   >
                 </li>
-                <li>
-                  <nuxt-link to="/batt/The_Elopement">私奔</nuxt-link>
-                </li>
+                <li><nuxt-link to="/batt/The_Elopement">私奔</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link>
                 </li>

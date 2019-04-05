@@ -12,24 +12,25 @@
             >的經濟<nuxt-link to="/building">建築</nuxt-link>之一，<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
-            >可以將"任何"食物搜集至此。當然這裡也有關於
-            <nuxt-link to="/building/Farm">農田</nuxt-link>的<nuxt-link
-              to="/techs"
-              >科技</nuxt-link
+            >可以將"任何"食物搜集至此。當然這裡也有關於<nuxt-link
+              to="/building/Farm"
+              >農田</nuxt-link
+            >的<nuxt-link to="/techs">科技</nuxt-link
             >可以升級或是備用的<nuxt-link to="/building/Farm">農田</nuxt-link
             >排序。
           </p>
           <p>
             在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
-            >有許多重要的經濟建築，而磨坊就是其中之一，不管在遊戲的什麼時期它的位置都不可取代，因為它是
-            <nuxt-link to="/units/Villager">村民</nuxt-link>放置<nuxt-link
-              to="/resource/Food"
-              >食物</nuxt-link
+            >有許多重要的經濟建築，而磨坊就是其中之一，不管在遊戲的什麼時期它的位置都不可取代，因為它是<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >放置<nuxt-link to="/resource/Food">食物</nuxt-link
             >的地方，所以將它建在<nuxt-link to="/Berry_Bush.php"
               >果樹叢</nuxt-link
             >、<nuxt-link to="/units/animal/Deer">鹿群</nuxt-link
-            >此種食物來源的旁邊是最好的，而像是
-            <nuxt-link to="/units/animal/Wild_Boar">野豬</nuxt-link
+            >此種食物來源的旁邊是最好的，而像是<nuxt-link
+              to="/units/animal/Wild_Boar"
+              >野豬</nuxt-link
             >這種可以驅趕或引誘至<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
             >的動物就沒有必要再為了牠們而去建造。而實際上在高手對戰中，也很少為了<nuxt-link
@@ -40,11 +41,10 @@
           <p>
             在進入<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >前會需要兩種<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
-            >的建築，而磨坊的重要性使得它必定是玩家的優先所選，它甚至還是
-            <nuxt-link to="/building/Market">市集</nuxt-link>、<nuxt-link
-              to="/building/Farm"
-              >農田</nuxt-link
-            >的前置建築。
+            >的建築，而磨坊的重要性使得它必定是玩家的優先所選，它甚至還是<nuxt-link
+              to="/building/Market"
+              >市集</nuxt-link
+            >、<nuxt-link to="/building/Farm">農田</nuxt-link>的前置建築。
           </p>
           <p>
             磨坊有一項很實用的功能:備用農田，這可以大量減少玩家的時間和控制力，它的成本和建造農田是一樣的，這可以使得你的農民不會在農田荒廢後站在原地發呆，當然，如果你手頭上的<nuxt-link
@@ -133,7 +133,7 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">全部。</td>
+            <td class="tta4">全部</td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -259,8 +259,9 @@
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：<nuxt-link
                 to="/techs/Horse_Collar"
                 >馬軛</nuxt-link
-              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、
-              <nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
+              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、<nuxt-link
+                to="/techs/Crop_Rotation"
+                >輪耕</nuxt-link
               >科技全部免費。
             </li>
             <li>
@@ -293,8 +294,8 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
-              >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >速度快80%。
             </li>
           </ul>
@@ -413,8 +414,10 @@
           <tr>
             <td class="unit3">被需要</td>
             <td class="unit4">
-              <nuxt-link to="/building/Farm">農田</nuxt-link><br />
-              <nuxt-link to="/building/Market">市集</nuxt-link>
+              <nuxt-link to="/building/Farm">農田</nuxt-link><br /><nuxt-link
+                to="/building/Market"
+                >市集</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -529,9 +532,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

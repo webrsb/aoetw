@@ -89,8 +89,8 @@
             阿卜杜勒•拉赫曼•迦菲奇x1。
           </li>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
+            軍事單位 -<nuxt-link to="/units/Camel_Archer"
+              >精銳駱駝弓騎兵</nuxt-link
             >x10、<nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
             >x10、<nuxt-link to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link
@@ -105,8 +105,7 @@
             >x5、<nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link>x5。
           </li>
           <li>
-            經濟單位 -
-            <nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>x3。
+            經濟單位 -<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>x3。
           </li>
           <p></p>
           <h2>主要任務</h2>

@@ -78,17 +78,16 @@
 
           <h3>開場</h3>
           <p>
-            。 特殊單位 -
-            <nuxt-link to="/units/hero/Envoy">使者</nuxt-link>、財寶車
+            。 特殊單位 -<nuxt-link to="/units/hero/Envoy">使者</nuxt-link
+            >、財寶車
           </p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Elite_Skirmisher">精銳戰矛兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Elite_Skirmisher"
+              >精銳戰矛兵</nuxt-link
             >x2、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >x2、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x1
           </p>
-          。 大地之母單位 -
-          <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+          。 大地之母單位 -<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
           >重騎兵x1、<nuxt-link to="/units/Heavy_Cavalry_Archer"
             >重裝馬弓騎兵</nuxt-link
           >x2、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link

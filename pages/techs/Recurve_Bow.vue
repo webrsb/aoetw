@@ -11,8 +11,7 @@
             <b>反曲弓</b>是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >射程和攻擊各+1。
@@ -26,12 +25,13 @@
               有反曲弓加成的<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >擁有和<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
-              >一樣的射程，讓他們能更好地執行打帶跑。反曲弓可以看做是一種
-              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >一樣的射程，讓他們能更好地執行打帶跑。反曲弓可以看做是一種<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
               >的升級，但還是優先研發<nuxt-link to="/techs/Fletching"
                 >箭羽</nuxt-link
-              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>和
-              <nuxt-link to="/techs/Bracer">護腕</nuxt-link
+              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">護腕</nuxt-link
               >因為這三樣不僅有加成所有範圍單位、有加<nuxt-link
                 to="/elements/Attack"
                 >攻擊力</nuxt-link

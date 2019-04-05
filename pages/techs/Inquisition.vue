@@ -10,8 +10,8 @@
           <p>
             <b>異端審判</b>是<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Monk">僧侶</nuxt-link
             ><nuxt-link to="/elements/Conversion">招降</nuxt-link
             >速度更快。對單位的招降時間會減1秒，對<nuxt-link to="/building"
@@ -32,8 +32,8 @@
                 >忠誠信仰</nuxt-link
               >的效果，讓<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >的僧侶和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
-              >能更快的招降敵方軍隊(除了
-              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >能更快的招降敵方軍隊(除了<nuxt-link to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >和<nuxt-link to="/civs/Teutons">條頓人</nuxt-link>的單位以外)。
             </li>

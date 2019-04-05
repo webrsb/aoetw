@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>諾丁漢治安官</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵英雄</nuxt-link
+            <strong>諾丁漢治安官</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，只可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。諾丁漢治安官是基於<nuxt-link to="/civs/Britons"
               >英國</nuxt-link

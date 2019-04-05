@@ -109,8 +109,8 @@
             塔里克·伊本·齊亞德x1。
           </li>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
+            軍事單位 -<nuxt-link to="/units/Camel_Archer"
+              >精銳駱駝弓騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link
@@ -120,8 +120,9 @@
             >x2、<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>x2。
           </li>
           <li>
-            大地之母單位 -
-            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>x1。
+            大地之母單位 -<nuxt-link to="/units/Transport_Ship"
+              >運輸船</nuxt-link
+            >x1。
           </li>
           <p></p>
           <h2>主要任務</h2>

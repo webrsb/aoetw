@@ -13,8 +13,8 @@
           >。對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
           >有大量加成傷害的<nuxt-link to="/units/Cavalry_Units"
             >騎兵單位</nuxt-link
-          >。聖騎兵能夠在
-          <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+          >。聖騎兵能夠在<nuxt-link to="/techs/age/Imperial_Age"
+            >帝王時代</nuxt-link
           >升級成<nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link>。
         </div>
         <h3>戰術</h3>
@@ -47,13 +47,12 @@
               >僅有14，攻擊力甚至低於<nuxt-link to="/civs/Malians"
                 >馬利</nuxt-link
               >的<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >，但是+18對
-              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >，但是+18對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >加成以及大量<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >加成抵免使聖騎兵整體戰鬥能力非常優秀。此外踐踏傷害與高攻速讓聖騎兵能夠與
-              <nuxt-link to="/units/Paladin">遊俠</nuxt-link>、<nuxt-link
-                to="/units/Boyar"
-                >貴族鐵騎</nuxt-link
+              >加成抵免使聖騎兵整體戰鬥能力非常優秀。此外踐踏傷害與高攻速讓聖騎兵能夠與<nuxt-link
+                to="/units/Paladin"
+                >遊俠</nuxt-link
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
               >等重騎兵的混戰中製造大量的傷害，但最好避免這種優勢較小的戰鬥，讓聖騎兵與步兵戰鬥發揮更大的優勢。
             </li>
             <li>聖騎兵非常優秀，但造價昂貴且生產不易，一般來說不常看到。</li>
@@ -73,8 +72,9 @@
               >打聖騎兵乍聽之下很不切實際，但他仍是對抗聖騎兵的適當選擇，因為戟兵是便宜又可以大量生產的，雖然聖騎兵對各種<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
-              >都有誇張的傷害加成，並且很容易在一對一中獲勝。一名戟兵只能承受聖騎兵的三刀攻擊，而缺乏
-              <nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
+              >都有誇張的傷害加成，並且很容易在一對一中獲勝。一名戟兵只能承受聖騎兵的三刀攻擊，而缺乏<nuxt-link
+                to="/techs/Plate_Mail_Armor"
+                >步兵板甲</nuxt-link
               >的<nuxt-link to="/civs/Goths">哥德</nuxt-link>戟兵只能承受兩刀。
             </p>
             <p>
@@ -94,8 +94,8 @@
               >，重騎兵可能是反制聖騎兵最好的策略之一。就算有<nuxt-link
                 to="/techs/Logistica"
                 >踐踏</nuxt-link
-              >(<nuxt-link to="/techs/Logistica">後勤學</nuxt-link>)傷害，
-              <nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >(<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
+              >)傷害，<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >仍可以輕騎解決聖騎兵，就算是大規模作戰也一樣，而全面升級的騎兵(<nuxt-link
                 to="/civs/Berbers"
                 >柏柏</nuxt-link
@@ -107,8 +107,10 @@
             <p>
               當然其他特殊的重騎兵，<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
-              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>或是
-              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>就不用說了。
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>或是<nuxt-link
+                to="/units/War_Elephant"
+                >戰象</nuxt-link
+              >就不用說了。
             </p>
           </ul>
           <ul>
@@ -130,8 +132,7 @@
               <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>、<nuxt-link
                 to="/units/Heavy_Scorpion"
                 >重型弩砲</nuxt-link
-              >與
-              <nuxt-link to="/units/Heavy_Cavalry_Archer"
+              >與<nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >或是其他的特殊<nuxt-link to="/units/Archer_Units"
                 >射手單位</nuxt-link
@@ -172,8 +173,9 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>、
-              <nuxt-link to="/units/Infantry_Units">步兵系列</nuxt-link
+              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>、<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵系列</nuxt-link
               >、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
             </td>
@@ -182,8 +184,8 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/War_Elephant">戰象</nuxt-link
-              >、大量<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link>、
-              <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
+              >、大量<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Knight"
                 >騎士</nuxt-link
               >
@@ -331,8 +333,7 @@
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(<nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
@@ -359,8 +360,7 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -503,19 +503,24 @@
                     src="~assets/ManAtArmsIcon.jpg"
                     width="22"
                     alt=""
-                  />
-                  <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
-                  <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                  /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                  <img
+                    class="gg"
+                    src="~assets/LongswordsManIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/2HandedswordsmanIcon.jpg"
                     alt=""
-                  />
-                  <nuxt-link to="/units/Two-Handed_Swordsman"
+                  /><nuxt-link to="/units/Two-Handed_Swordsman"
                     >雙手劍兵</nuxt-link
-                  >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                  >→
+                  <img
+                    class="gg"
+                    src="~assets/ChampionIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -523,20 +528,27 @@
                     src="~assets/SpearmanIcon.jpg"
                     alt=""
                   /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                  <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                  <img
+                    class="gg"
+                    src="~assets/PikemanIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                 </li>
                 <li>
                   <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                     to="/units/Berserk"
                     >狂戰士</nuxt-link
-                  >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" />
-                  <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link
+                  >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                    to="/units/Berserk"
+                    >精銳狂戰士</nuxt-link
                   >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                 </li>
                 <li>
-                  <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                  <img
+                    class="gg"
+                    src="~assets/CondottieroNewIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                   >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
                   >同盟的話)
                 </li>
@@ -552,10 +564,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高聖騎兵的生產速度和加速
-              <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>及<nuxt-link
-                to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+              >能夠提高聖騎兵的生產速度和加速<nuxt-link to="/techs/Logistica"
+                >後勤學</nuxt-link
+              >及<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >的研發時間(快25%)
             </li>
             <li>

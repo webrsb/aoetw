@@ -9,8 +9,8 @@
         <div class="n1">
           <p>
             <b>無政府狀態</b>是<nuxt-link to="/civs/Goths">哥德</nuxt-link
-            >可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發，研發後玩家可以在<nuxt-link to="/building/Barracks"
               >軍營</nuxt-link
             >生產<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>。
@@ -47,11 +47,8 @@
                 >投石機</nuxt-link
               >，這比其他依賴城堡生產的<nuxt-link to="/units/Unique_Unit"
                 >特殊單位</nuxt-link
-              >更有優勢(比方
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>的<nuxt-link
-                to="/units/Plumed_Archer"
-                >羽毛箭射手</nuxt-link
-              >)。
+              >更有優勢(比方<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+              >的<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>)。
             </li>
           </ul>
         </div>

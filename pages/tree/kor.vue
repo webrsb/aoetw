@@ -1262,9 +1262,7 @@
             </td>
             <td class="t11 trm">
               <img class="gg" src="~assets/Redemption.jpg" width="30" alt="" />
-              <div>
-                <nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>
-              </div>
+              <div><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link></div>
             </td>
             <td class="t11 trm not">
               <img class="gg" src="~assets/Atonement.jpg" width="30" alt="" />

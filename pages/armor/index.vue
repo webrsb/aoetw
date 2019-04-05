@@ -19,22 +19,23 @@
           <p>
             攻擊加成和防禦類型都不會在遊戲中顯示，雖然<nuxt-link to="/tree/vie"
               >科技樹</nuxt-link
-            >都會寫這個單位對哪些單位有加成，可以造成額外的傷害，但他不會說這個額外傷害是多少，或者這個單位屬於哪個防禦類型。即使大多的單位你用肉眼就可以得知這個單位屬於哪些類型，例如
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >都會寫這個單位對哪些單位有加成，可以造成額外的傷害，但他不會說這個額外傷害是多少，或者這個單位屬於哪個防禦類型。即使大多的單位你用肉眼就可以得知這個單位屬於哪些類型，例如<nuxt-link
+              to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
             >你會很直覺的認為他是<nuxt-link to="/armor/Armor_Class_Infantry"
               >步兵</nuxt-link
-            >，但很多情況例外，例如前面說的
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >，但很多情況例外，例如前面說的<nuxt-link to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
             >他其實也是<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
               >『鷹勇士』類</nuxt-link
-            >，他有自己的防禦類型，
-            <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+            >，他有自己的防禦類型，<nuxt-link to="/units/Champion"
+              >劍兵勇士</nuxt-link
             >會給他很大的傷害。另一個例子是<nuxt-link to="/units/Camel"
               >駱駝騎兵</nuxt-link
             >，他不在<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵類</nuxt-link
-            >，而是在自己的
-            <nuxt-link to="/armor/Armor_Class_Camel">駱駝類</nuxt-link
+            >，而是在自己的<nuxt-link to="/armor/Armor_Class_Camel"
+              >駱駝類</nuxt-link
             >，面對<nuxt-link to="/units/Spearman">槍兵</nuxt-link
             >他受的到傷害更小。
           </p>
@@ -46,25 +47,26 @@
             簡單的說，如果一個單位有多種防禦類型，那麼攻擊他的加成就會增加，例如<nuxt-link
               to="/units/War_Elephant"
               >戰象</nuxt-link
-            >有兩個防禦類型，
-            <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+            >有兩個防禦類型，<nuxt-link to="/armor/Armor_Class_Cavalry"
+              >騎兵</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link
             >，而<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >對這兩類都有附加攻擊，分別是32和28，所以一隻
-            <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>攻擊<nuxt-link
-              to="/units/War_Elephant"
-              >戰象</nuxt-link
+            >對這兩類都有附加攻擊，分別是32和28，所以一隻<nuxt-link
+              to="/units/Halberdier"
+              >戟兵</nuxt-link
+            >攻擊<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
             >的數字就是基礎攻擊加上32+28＝60，兩個加成都算在裡面。
           </p>
           <p>
-            每個防禦類型都有一個裝甲值，大多數的單位來看，這個裝甲值都是0，只是說明這個單位在這個防禦類型中，並會受到額外的傷害，但在某些但未中，他並非是0。而是一個數字表示，他可以額外抵抗這類防禦類型的傷害，而如果是負數，則代表會增加更多傷害。例如
-            <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+            每個防禦類型都有一個裝甲值，大多數的單位來看，這個裝甲值都是0，只是說明這個單位在這個防禦類型中，並會受到額外的傷害，但在某些但未中，他並非是0。而是一個數字表示，他可以額外抵抗這類防禦類型的傷害，而如果是負數，則代表會增加更多傷害。例如<nuxt-link
+              to="/units/Cataphract"
+              >聖騎兵</nuxt-link
             >的防禦類型是<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵</nuxt-link
             >，但他的<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵裝甲</nuxt-link
-            >值是12，這代表他比其他
-            <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >值是12，這代表他比其他<nuxt-link to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
             >更不怕<nuxt-link to="/armor/Armor_Class_Cavalry">反騎兵</nuxt-link
             >的攻擊。另一方面，<nuxt-link to="/units/Ballista_Elephant"
               >弩砲象</nuxt-link

@@ -77,11 +77,10 @@
             輕型衝撞車在遊戲中顯示的近身裝甲值為0，實際上的值設定為(-3)，雖然<nuxt-link
               to="/armor"
               >遠防</nuxt-link
-            >裝甲很高，但對於近戰單位的抵抗力卻非常薄弱，因此輕型衝撞車可以承受大多數遠程攻擊單位的傷害(
-            <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
-              to="/units/Mangudai"
-              >蒙古突騎</nuxt-link
-            >除外)。
+            >裝甲很高，但對於近戰單位的抵抗力卻非常薄弱，因此輕型衝撞車可以承受大多數遠程攻擊單位的傷害(<nuxt-link
+              to="/units/Mangonel"
+              >投石車</nuxt-link
+            >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>除外)。
           </p>
           <p>
             關於衝撞車用途不單純是做為攻城武器，亦可做為步兵軍事單位的掩護物，另外對於其他攻城器製造所單位也有額外的傷害效果，故有時會拿來破敵方的衝撞車陣、弩砲陣、<nuxt-link
@@ -90,10 +89,10 @@
             >陣也是蠻常見的，可是行走速度很慢是個致命缺點，而且非常吃重木材資源，所以一般來說數量不會一次生產太多，或者是生產後先藏放在城器製造所，等到一定的數量才會搭配其他軍事單位放手一搏殺出一條血路。
           </p>
           <p>
-            如果對手出輕型衝撞車拆除你的建築物，在沒有其他任何的兵力支援下，村民上前拆除也許是個不錯的選擇，因為輕型衝撞車的近身裝甲值很低、行走的慢，所以它很怕近戰的傷害，反之，若你選擇輕型衝撞車當推進幫手，在混亂中一定要小心衝撞車的控制，只要稍不注意，很可能會被一群村民徒手拆除，當然，比較建議使用
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>或<nuxt-link
-              to="/units/Eagle_Warrior"
-              >鷹勇士</nuxt-link
+            如果對手出輕型衝撞車拆除你的建築物，在沒有其他任何的兵力支援下，村民上前拆除也許是個不錯的選擇，因為輕型衝撞車的近身裝甲值很低、行走的慢，所以它很怕近戰的傷害，反之，若你選擇輕型衝撞車當推進幫手，在混亂中一定要小心衝撞車的控制，只要稍不注意，很可能會被一群村民徒手拆除，當然，比較建議使用<nuxt-link
+              to="/units/Light_Cavalry"
+              >輕騎兵</nuxt-link
+            >或<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >這類的單位拆除會更好。
           </p>
         </div>
@@ -119,8 +118,9 @@
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
-              >、近戰單位特別是
-              <nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>。
+              >、近戰單位特別是<nuxt-link to="/units/Magyar_Huszar"
+                >馬扎爾驃騎兵</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -662,11 +662,10 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +125 vs
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              +125 vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >(每1個步兵進駐攻擊+10，最多+40) <br />+40 vs
-              <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+              >(每1個步兵進駐攻擊+10，最多+40) <br />+40 vs<nuxt-link
+                to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
             </td>
@@ -689,8 +688,7 @@
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
             </td>
           </tr>
           <tr>

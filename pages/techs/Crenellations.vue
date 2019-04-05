@@ -11,8 +11,7 @@
             <b>垛口</b>是<nuxt-link to="/civs/Teutons">條頓</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Castle">城堡</nuxt-link
             >攻擊範圍+3，<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             >駐紮可放箭。
@@ -25,8 +24,8 @@
             <li>
               一般來說只有<nuxt-link to="/units/Archer_Units">射手類</nuxt-link
               >單位和<nuxt-link to="/units/Villager">村民</nuxt-link
-              >可以讓<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>、
-              <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >可以讓<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >、<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
               >和城堡多射額外的箭，而步兵則不會。垛口可讓步兵駐紮這些<nuxt-link
                 to="/building"
                 >建築物</nuxt-link

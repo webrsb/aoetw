@@ -60,8 +60,8 @@
             <tr>
               <td class="tc6"><div class="p3">玩家3</div></td>
               <td class="tc6">
-                西徐亞人（綠色）<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
-                敵對
+                西徐亞人（綠色）<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+                >敵對
               </td>
               <td class="tc6"><div class="p2">玩家4</div></td>
               <td class="tc6">

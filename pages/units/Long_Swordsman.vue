@@ -22,23 +22,25 @@
             長劍士是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的基本步兵單位。能夠擊敗除了<nuxt-link to="/units/Knight"
               >騎士</nuxt-link
-            >和
-            <nuxt-link to="/units/Archer">弓箭手</nuxt-link
+            >和<nuxt-link to="/units/Archer">弓箭手</nuxt-link
             >外所有的城堡時代單位，長劍兵也對<nuxt-link
               to="/armor/Armor_Class_Building"
               >建築物</nuxt-link
             >有攻擊加成，但因為行動遲緩、<nuxt-link to="/elements/Hit_points"
               >血量</nuxt-link
-            >也不高，他仍不是一個良好的主力進攻單位，除非對手出了非常多的
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
+            >也不高，他仍不是一個良好的主力進攻單位，除非對手出了非常多的<nuxt-link
+              to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
+            >
           </p>
           <p>
             早期<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵》</nuxt-link
             >前的版本，長劍兵可說是一個雞肋單位，基本上沒有玩家會去生產，而到了<nuxt-link
               to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
-            >，長劍兵進一步的被強化，在現今
-            <nuxt-link to="/units/Eagle_Warrior"></nuxt-link
+            >，長劍兵進一步的被強化，在現今<nuxt-link
+              to="/units/Eagle_Warrior"
+            ></nuxt-link
             ><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >縱橫的年代，長劍兵作為一個反老鷹兵種，讓其再度浮上檯面。
           </p>
@@ -58,8 +60,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Camel"
                 >駱駝</nuxt-link
-              >、
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>。
             </td>
@@ -70,13 +71,12 @@
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、
-              <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Conquistador"
                 >征服者</nuxt-link
-              >、
-              <nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
@@ -375,8 +375,12 @@
           </div>
           技術:以下技術會給以下單位對長劍兵有額外攻擊。
           <div class="n1">
-            <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            <img
+              class="gg"
+              src="~assets/Unique-tech.jpg"
+              width="22"
+              alt=""
+            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -425,12 +429,12 @@
               >：長劍兵便宜35％並對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+1。研發
-              <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>和升級<nuxt-link
-                to="/units/Two-Handed_Swordsman"
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >和升級<nuxt-link to="/units/Two-Handed_Swordsman"
                 >雙手劍兵</nuxt-link
               >的速度快100%。
             </li>
@@ -441,8 +445,8 @@
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
-              <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：長劍兵在<nuxt-link
@@ -575,8 +579,8 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:4.8版本引進<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >科技，長劍兵對
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵單位</nuxt-link
+              >科技，長劍兵對<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
               >有+5攻擊。
             </li>
             <li>

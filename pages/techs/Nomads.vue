@@ -10,14 +10,13 @@
           <p>
             <b>游牧</b>是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/House">居住房舍</nuxt-link
             >(或是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
             >包)被摧毀後人口上限數不會下降。<nuxt-link to="/building/Castle"
               >城堡</nuxt-link
-            >和
-            <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >和<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >則不受影響，被摧毀後還是會減少總人口數。游牧也許是所有特殊科技中最便宜的了，只需300<nuxt-link
               to="/resource/Wood"
               >木材</nuxt-link

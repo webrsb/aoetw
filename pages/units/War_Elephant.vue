@@ -124,8 +124,9 @@
               <nuxt-link to="/building">建築物</nuxt-link>，<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
-              >，大部分近戰單位，
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
+              >，大部分近戰單位，<nuxt-link to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
@@ -134,11 +135,11 @@
               <nuxt-link to="/units/Spearman">槍兵</nuxt-link>系，<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
-                to="/units/Monk"
-                >僧侶</nuxt-link
-              >，<nuxt-link to="/units/Genoese_Crossbowman"
+              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，<nuxt-link
+                to="/units/Camel"
+                >駱駝騎兵</nuxt-link
+              >，<nuxt-link to="/units/Monk">僧侶</nuxt-link>，<nuxt-link
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >
             </td>
@@ -325,8 +326,7 @@
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(<nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
@@ -346,8 +346,7 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -470,8 +469,7 @@
                     src="~assets/CastleAgeUnique.png"
                     width="22"
                     alt=""
-                  />
-                  <nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
+                  /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
                   <div width="22" style="margin:12px 0px;">
                     <strong>+5攻擊</strong>(<nuxt-link to="/civs/Vikings"
                       >維京</nuxt-link
@@ -489,24 +487,25 @@
                         src="~assets/ManAtArmsIcon.jpg"
                         width="22"
                         alt=""
-                      />
-                      <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                      /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
                       <img
                         class="gg"
                         src="~assets/LongswordsManIcon.jpg"
                         alt=""
-                      />
-                      <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                      /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+                      >→
                       <img
                         class="gg"
                         src="~assets/2HandedswordsmanIcon.jpg"
                         alt=""
-                      />
-                      <nuxt-link to="/units/Two-Handed_Swordsman"
+                      /><nuxt-link to="/units/Two-Handed_Swordsman"
                         >雙手劍兵</nuxt-link
                       >→
-                      <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                      <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                      <img
+                        class="gg"
+                        src="~assets/ChampionIcon.jpg"
+                        alt=""
+                      /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                     </li>
                     <li>
                       <img
@@ -514,8 +513,11 @@
                         src="~assets/SpearmanIcon.jpg"
                         alt=""
                       /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                      <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                      <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                      <img
+                        class="gg"
+                        src="~assets/PikemanIcon.jpg"
+                        alt=""
+                      /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                     </li>
                     <li>
                       <img
@@ -523,8 +525,11 @@
                         src="~assets/VBRSK.jpg"
                         alt=""
                       /><nuxt-link to="/units/Berserk">狂戰士</nuxt-link>→
-                      <img class="gg" src="~assets/VBRSK.jpg" alt="" />
-                      <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link
+                      <img
+                        class="gg"
+                        src="~assets/VBRSK.jpg"
+                        alt=""
+                      /><nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link
                       >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                     </li>
                     <li>
@@ -532,8 +537,7 @@
                         class="gg"
                         src="~assets/CondottieroNewIcon.jpg"
                         alt=""
-                      />
-                      <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                      /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                       >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
                       >同盟的話)
                     </li>
@@ -551,8 +555,8 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高戰象的生產速度還有加快
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高戰象的生產速度還有加快<nuxt-link to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >和<nuxt-link to="/techs/Mahouts">象伕</nuxt-link
               >的研究時間(+25%)。
             </li>
@@ -617,8 +621,8 @@
             <li>
               歷史上的波斯帝國，在遊戲<nuxt-link to="/batt">戰役</nuxt-link
               >的<nuxt-link to="/units/hero/Genghis_Khan">成吉思汗</nuxt-link
-              >，<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>，以及
-              <nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link
+              >，<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
+              >，以及<nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link
               >所處的時代，皆沒有使用戰象部隊。(然而遊戲裡有，請睜隻眼閉隻眼)
             </li>
             <li>
@@ -801,11 +805,9 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

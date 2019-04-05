@@ -80,8 +80,8 @@
           <h3>開場</h3>
           <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Elite_Battle_Elephant"
+              >精銳矛象伕</nuxt-link
             >x2、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
             >x32、<nuxt-link to="/units/Halberdier">斧槍兵</nuxt-link
             >X32、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>x16
@@ -139,13 +139,16 @@
             </li>
           </ul>
           <h2>細節</h2>
-          <ul>
-            <li>大越義軍（橘色）在會戰結束後會將控制交給玩家並棄權。</li>
-            <li>明朝軍隊在峭壁上，若要攻擊其陣地必先突破前鋒。</li>
-            <li>
-              地圖不算大，我方陣地也有相當範圍的腹地。反而明軍前鋒在初期分散兩處，容易擊破。
-            </li>
-          </ul>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>大越義軍（橘色）在會戰結束後會將控制交給玩家並棄權。</li>
+              <li>明朝軍隊在峭壁上，若要攻擊其陣地必先突破前鋒。</li>
+              <li>
+                地圖不算大，我方陣地也有相當範圍的腹地。反而明軍前鋒在初期分散兩處，容易擊破。
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">

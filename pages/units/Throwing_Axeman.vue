@@ -11,8 +11,7 @@
             <b>擲斧兵</b>是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。擲斧兵是一個有範圍近戰攻擊的<nuxt-link
               to="/units/Infantry_Units"
               >步兵單位</nuxt-link
@@ -46,16 +45,16 @@
               >在他們眼中猶如不存在般。他們比一般的射手單位對<nuxt-link
                 to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >造成的傷害還要多。然而，擲斧兵較短的攻擊範圍意味著他們對於近身單位，攻城武器以及採用打帶跑戰術的射手單位都很脆弱。他們不像
-              <nuxt-link to="/units/Archer">弓箭手</nuxt-link
+              >造成的傷害還要多。然而，擲斧兵較短的攻擊範圍意味著他們對於近身單位，攻城武器以及採用打帶跑戰術的射手單位都很脆弱。他們不像<nuxt-link
+                to="/units/Archer"
+                >弓箭手</nuxt-link
               >那樣容易被<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
               >殺死（需要兩次才能被擊倒），但<nuxt-link to="/units/Mangonel"
                 >投石車</nuxt-link
               >仍然可以一擊必殺他們。然而，擲斧兵只要能夠避免被擊中並能夠縮小作戰距離，就可以通過近戰傷害輕易地摧毀這些攻城武器。重裝<nuxt-link
                 to="/units/Cavalry_Units"
                 >騎兵單位</nuxt-link
-              >(
-              <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
+              >(<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
               >除外)如<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >也能有效對付擲斧兵。
             </li>
@@ -92,11 +91,12 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
               >、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
-              >、<nuxt-link to="/building">建築物</nuxt-link>、
-              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/building">建築物</nuxt-link>、<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>和<nuxt-link
                 to="/units/Camel"
                 >駱駝騎兵</nuxt-link
@@ -109,16 +109,16 @@
               <nuxt-link to="/units/Archer">弓箭手</nuxt-link>、<nuxt-link
                 to="/units/Jaguar_Warrior"
                 >豹勇士</nuxt-link
-              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、
-              <nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
+              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
-              >、
-              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
-                to="/units/Samurai"
-                >日本武士</nuxt-link
-              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
+              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
+                to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -385,8 +385,12 @@
         </div>
         以下技術可讓以下單位對擲斧兵有額外攻擊力
         <div class="n1">
-          <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          <img
+            class="gg"
+            src="~assets/Unique-tech.jpg"
+            width="22"
+            alt=""
+          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -412,8 +416,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高擲斧兵的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高擲斧兵的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >、<nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>研究時間(快25%)。
             </li>
@@ -421,8 +426,10 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -704,9 +711,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

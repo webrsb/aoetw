@@ -16,18 +16,16 @@
             >防禦。但如果它沉沒了，你所有的<nuxt-link to="/elements/Garrison"
               >駐軍</nuxt-link
             >都會死亡。因此，最好用<nuxt-link to="/units/Galley">戰船</nuxt-link
-            >或者是
-            <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>等軍用<nuxt-link
-              to="/units/Naval_Vessels"
-              >船隻</nuxt-link
+            >或者是<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+            >等軍用<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
             >來保護運輸工具。
           </p>
           <p>
             一開始運輸船的載運量只有5，研發<nuxt-link to="/techs/Careening"
               >傾側維修術</nuxt-link
             >和<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
-            >後會分別增加到10和20的載運量。
-            <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+            >後會分別增加到10和20的載運量。<nuxt-link to="/civs/Saracens"
+              >薩拉森</nuxt-link
             >人則可以擁有額外的+5載運量(最多25)
           </p>
         </div>
@@ -47,9 +45,8 @@
             >，其中的駐軍並不會被招降，玩家必須要摧毀運輸船才可以殺死敵方單位。另一個涉及運輸船的策略是利用這個戰術，把敵人的駐軍留在裡面，因為敵人無法使用，所以導致敵人會卡人口並無人可用。
           </p>
           <p>
-            值得一提的是，搬有
-            <nuxt-link to="/elements/Relic">遺跡</nuxt-link>的
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link
+            值得一提的是，搬有<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+            >的<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >要是在運輸船中，而船被摧毀時，<nuxt-link to="/elements/Relic"
               >遺跡</nuxt-link
             >則會回到原本<nuxt-link to="/units/Monk">僧侶</nuxt-link
@@ -67,11 +64,11 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-            <td class="tta4">無。</td>
+            <td class="tta4">無</td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">任何東西。</td>
+            <td class="tta4">任何東西</td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -261,14 +258,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -553,8 +553,10 @@
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
               >提高10%/15%/20%，<nuxt-link to="/techs/Careening"
                 >傾側維修術</nuxt-link
-              >的研究速度在城堡/帝王提高15%/20％。研究
-              <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>的時間快20％。
+              >的研究速度在城堡/帝王提高15%/20％。研究<nuxt-link
+                to="/techs/Dry_Dock"
+                >旱碼頭</nuxt-link
+              >的時間快20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：運輸船有+
@@ -639,14 +641,12 @@
               運輸船現在可以裝載能被馴化的動物(<nuxt-link
                 to="/units/animal/Sheep"
                 >綿羊</nuxt-link
-              >、<nuxt-link to="/units/animal/Turkey">火雞</nuxt-link>、
-              <nuxt-link to="/units/animal/Llama">草尼馬</nuxt-link>、<nuxt-link
-                to="/units/animal/Cow"
-                >乳牛</nuxt-link
-              >、<nuxt-link to="/units/animal/Goat">山羊</nuxt-link>和<nuxt-link
-                to="/units/animal/Water_Buffalo"
-                >水牛</nuxt-link
-              >)。
+              >、<nuxt-link to="/units/animal/Turkey">火雞</nuxt-link
+              >、<nuxt-link to="/units/animal/Llama">草尼馬</nuxt-link
+              >、<nuxt-link to="/units/animal/Cow">乳牛</nuxt-link>、<nuxt-link
+                to="/units/animal/Goat"
+                >山羊</nuxt-link
+              >和<nuxt-link to="/units/animal/Water_Buffalo">水牛</nuxt-link>)。
             </li>
           </ul>
         </div>

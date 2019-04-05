@@ -141,10 +141,11 @@
                 >黑暗</nuxt-link
               >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>的
-              <nuxt-link to="/building/Castle">城堡</nuxt-link
-              >HP分別增加10%/20%/30%/40%。
-              <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費。
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >的<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >HP分別增加10%/20%/30%/40%。<nuxt-link to="/techs/Town_Watch"
+                >城鎮瞭望</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：城堡便宜25％。
@@ -205,8 +206,7 @@
               >，城堡可蓋前線，如果是快速移動的部隊則盡可能蓋自己家防守，如：<nuxt-link
                 to="/units/Plumed_Archer"
                 >馬雅羽毛箭射手</nuxt-link
-              >、
-              <nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
+              >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >、<nuxt-link to="/units/Arambai">緬甸飛鏢騎兵</nuxt-link
               >。<nuxt-link to="/civs/Chinese">中國</nuxt-link
               >高手大屌哥就曾因為城堡蓋錯位置，輸了整場比賽。當然影響建築位置的原因很多，這只是其中一點。
@@ -314,8 +314,8 @@
                   src="~assets/ArbalestIcon.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
-                <img
+                /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+                ><img
                   class="gg"
                   src="~assets/CavalryArcherIcon.jpg"
                   width="30"
@@ -366,10 +366,10 @@
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，
-              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
-                to="/units/War_Elephant"
-                >戰象</nuxt-link
+              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，<nuxt-link
+                to="/units/Huskarl"
+                >哥德衛隊</nuxt-link
+              >，<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >，<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
@@ -826,12 +826,10 @@
             <td class="unit3">護甲分類</td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>（+8）
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Castle">城堡</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Castle">城堡</nuxt-link>
             </td>
           </tr>
           <tr>

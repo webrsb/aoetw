@@ -93,8 +93,7 @@
 
           <h3>開場</h3>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x2、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
             >x3、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x4
           </p>

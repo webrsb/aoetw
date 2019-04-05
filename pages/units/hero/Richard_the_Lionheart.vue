@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>獅心王查理</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>獅心王查理</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到，在"沉睡的皇帝"、"獅子與惡魔"、"塞普勒斯(1191)"等戰役中也有它的身影。現實中的狮心王理查德是<nuxt-link
               to="/civs/Britons"

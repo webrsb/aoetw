@@ -28,12 +28,23 @@
           下列的單位都是鷹勇士系單位
           <ul>
             <li>
-              <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
-              <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
-              <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" />
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>→
-              <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="" />
-              <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>
+              <img
+                class="gg"
+                src="~assets/EagleScoutIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/EagleWarriorIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/EliteEagleWarriorIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Elite_Eagle_Warrior"
+                >精銳鷹勇士</nuxt-link
+              >
             </li>
           </ul>
         </div>
@@ -54,11 +65,14 @@
                       class="gg"
                       src="~assets/2HandedswordsmanIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Two-Handed_Swordsman"
+                    /><nuxt-link to="/units/Two-Handed_Swordsman"
                       >雙手劍兵</nuxt-link
-                    >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/ChampionIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -68,8 +82,7 @@
                       class="gg"
                       src="~assets/LongswordsManIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
+                    /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -214,12 +227,21 @@
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                    <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
-                    <img class="gg" src="~assets/HalberdierIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/SpearmanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/PikemanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HalberdierIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link

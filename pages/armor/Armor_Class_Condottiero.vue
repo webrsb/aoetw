@@ -30,8 +30,9 @@
               >步兵裝甲</nuxt-link
             >去抵消<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
             >對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
-            >+10的攻擊加成，可是這樣也讓傭兵對其它反步兵單位例如
-            <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+            >+10的攻擊加成，可是這樣也讓傭兵對其它反步兵單位例如<nuxt-link
+              to="/units/Cataphract"
+              >聖騎兵</nuxt-link
             >有減傷效果，因此在5.7版特地新增傭兵護甲這個分類，強調傭兵反火藥單位的特性同時其它對<nuxt-link
               to="/armor/Armor_Class_Infantry"
               >步兵</nuxt-link
@@ -43,8 +44,11 @@
         <div class="n1">
           <ul>
             <li>
-              <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" />
-              <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>(<nuxt-link
+              <img
+                class="gg"
+                src="~assets/CondottieroNewIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>(<nuxt-link
                 to="/civs/Italians"
                 >義大利</nuxt-link
               >和同盟限定)
@@ -86,8 +90,8 @@
                   class="gg"
                   src="~assets/JaguarWarriorIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Jaguar_Warrior">精銳豹勇士</nuxt-link>
-                (<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
+                /><nuxt-link to="/units/Jaguar_Warrior">精銳豹勇士</nuxt-link
+                >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>

@@ -11,17 +11,19 @@
             <strong>帖木兒</strong>是《世紀帝國II》中的一名<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
-            >
-            <nuxt-link to="/units/Archer_Units">射手</nuxt-link
+            ><nuxt-link to="/units/Archer_Units">射手</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link
-            >，也可在地圖編輯器中使用。史實中的他是突厥化
-            <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+            >，也可在地圖編輯器中使用。史實中的他是突厥化<nuxt-link
+              to="/civs/Mongols"
+              >蒙古</nuxt-link
             >的統治者，最著名的事蹟是在中亞建立了帖木兒王朝，企圖恢復<nuxt-link
               to="/civs/Mongols"
               >蒙古</nuxt-link
             >帝國在<nuxt-link to="/units/hero/Genghis_Khan">成吉思汗</nuxt-link
-            >時代時的輝煌。他同時也是蒙兀兒帝國開國君主，
-            <nuxt-link to="/units/hero/Babur">巴卑爾</nuxt-link>的曾祖父
+            >時代時的輝煌。他同時也是蒙兀兒帝國開國君主，<nuxt-link
+              to="/units/hero/Babur"
+              >巴卑爾</nuxt-link
+            >的曾祖父
           </p>
           <p>
             帖木兒在遊戲中以<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
@@ -60,9 +62,9 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/Archer_Units">射手</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/Archer_Units">射手</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -136,9 +138,9 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

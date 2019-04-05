@@ -10,8 +10,8 @@
           <p>
             <b>射箭孔</b>是<nuxt-link to="/civs/Japanese">日本</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >多射兩支箭。
           </p>
@@ -26,10 +26,10 @@
               >。是一個用於防守上很好的技術。結合日本的另一個可讓<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
-              >快速拆解和組裝特殊科技
-              <nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
-              >，可以創造一個強大的防禦組合。
-              <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+              >快速拆解和組裝特殊科技<nuxt-link to="/techs/Kataparuto"
+                >彈射器</nuxt-link
+              >，可以創造一個強大的防禦組合。<nuxt-link to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
               >在城堡的保護下是一個很好的防禦工具，但是再加幾個箭塔防禦會更強。雖然它們還遠不及城堡那樣的火力強大。
             </li>
           </ul>

@@ -434,8 +434,8 @@
                       class="gg"
                       src="~assets/JaguarWarriorIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Jaguar_Warrior">豹勇士→</nuxt-link>
-                    <img
+                    /><nuxt-link to="/units/Jaguar_Warrior">豹勇士→</nuxt-link
+                    ><img
                       class="gg"
                       src="~assets/JaguarWarriorIcon.jpg"
                       alt=""
@@ -744,34 +744,51 @@
               <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Militia">民兵</nuxt-link>→
+                  <img
+                    class="gg"
+                    src="~assets/MilitiaIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/ManAtArmsIcon.jpg"
                     width="22"
                     alt=""
-                  />
-                  <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
-                  <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                  /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                  <img
+                    class="gg"
+                    src="~assets/LongswordsManIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/2HandedswordsmanIcon.jpg"
                     alt=""
-                  />
-                  <nuxt-link to="/units/Two-Handed_Swordsman"
+                  /><nuxt-link to="/units/Two-Handed_Swordsman"
                     >雙手劍兵</nuxt-link
-                  >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                  >→
+                  <img
+                    class="gg"
+                    src="~assets/ChampionIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                  <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
-                  <img class="gg" src="~assets/HalberdierIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
+                  <img
+                    class="gg"
+                    src="~assets/SpearmanIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
+                  <img
+                    class="gg"
+                    src="~assets/PikemanIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
+                  <img
+                    class="gg"
+                    src="~assets/HalberdierIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -877,8 +894,8 @@
                         width="22"
                         src="~assets/LongbowmanIcon.jpg"
                         alt=""
-                      /><nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>
-                      <img
+                      /><nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
+                      ><img
                         class="gg"
                         width="22"
                         src="~assets/LongbowmanIcon.jpg"

@@ -90,15 +90,16 @@
 
           <h3>開場</h3>
           <p>
-            。 <nuxt-link to="/units/hero">英雄</nuxt-link> -
-            <nuxt-link to="/units/hero/Bayinnaung">勃印曩</nuxt-link
+            。 <nuxt-link to="/units/hero">英雄</nuxt-link> -<nuxt-link
+              to="/units/hero/Bayinnaung"
+              >勃印曩</nuxt-link
             >x1、<nuxt-link to="/units/hero/Tabinshwehti"
               >德彬瑞蒂國王</nuxt-link
             >x1、卑謬總督x1
           </p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Battle_Elephant"
+              >矛象伕</nuxt-link
             >x5、<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>x5
           </p>
           <p>

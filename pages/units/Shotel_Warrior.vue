@@ -12,8 +12,7 @@
               >衣索比亞</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。彎刀勇士是個快速、高攻擊、生產速度快但脆弱的單位。彎刀勇士可以在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
@@ -45,8 +44,8 @@
                 >遠防</nuxt-link
               >和50HP，非常脆弱。任何有基本<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
-              >的單位如:<nuxt-link to="/units/Knight">騎士</nuxt-link>、
-              <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+              >的單位如:<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
               >、一群的<nuxt-link to="/units/Archer">弓箭手</nuxt-link
               >都能輕易地帶走彎刀勇士。
             </li>
@@ -87,18 +86,17 @@
               >後）可讓他們比騎士對敵人村莊造成更大損傷。此外，<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞人</nuxt-link
-              >沒有
-              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>，<nuxt-link
-                to="/techs/Plate_Barding_Armor"
-                >騎兵板甲</nuxt-link
+              >沒有<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
+              >，<nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
               >和<nuxt-link to="/units/Paladin">遊俠</nuxt-link>等<nuxt-link
                 to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
-              >的重要升級，使得衣索比亞的騎士遠遠不及於
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>人，<nuxt-link
-                to="/civs/Huns"
-                >匈奴</nuxt-link
-              >人和<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+              >的重要升級，使得衣索比亞的騎士遠遠不及於<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >人，<nuxt-link to="/civs/Huns">匈奴</nuxt-link>人和<nuxt-link
+                to="/civs/Franks"
+                >法蘭克</nuxt-link
               >人等其他<nuxt-link to="/civs">文明</nuxt-link
               >的騎士。然而，考慮到衣索比亞經濟實力堅強，時代升級時免費的<nuxt-link
                 to="/resource/Food"
@@ -109,8 +107,8 @@
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
               ><nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
-              >，讓它們能使用彎刀或是
-              <nuxt-link to="/units/Knight">騎士</nuxt-link
+              >，讓它們能使用彎刀或是<nuxt-link to="/units/Knight"
+                >騎士</nuxt-link
               >快攻以外的快攻選擇(例如:封建/城堡小弓戰術)。
             </li>
             <li>
@@ -135,8 +133,8 @@
               <nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
-              >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、
-              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >和<nuxt-link to="/units/Monk">僧侶</nuxt-link>。
             </td>
@@ -145,8 +143,9 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
-              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
               >、重裝騎兵和<nuxt-link to="/units/Infantry_Units"
                 >步兵單位</nuxt-link
               >。
@@ -406,8 +405,12 @@
         </div>
         以下技術可讓以下單位對彎刀勇士有額外攻擊力
         <div class="n1">
-          <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          <img
+            class="gg"
+            src="~assets/Unique-tech.jpg"
+            width="22"
+            alt=""
+          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -428,8 +431,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高彎刀勇士的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高彎刀勇士的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >和<nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link
               >的研究時間(快25%)。
             </li>
@@ -437,8 +441,10 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -635,9 +641,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

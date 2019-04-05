@@ -9,10 +9,9 @@
         <div class="n1">
           <p>
             <strong>拉海爾</strong>（又名艾蒂安·德維諾勒，Etienne de
-            Vignolles）是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵英雄</nuxt-link
+            Vignolles）是《世紀帝國 II HD:<nuxt-link to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。現實中他出生於1390年 -
             1443年1月11日逝世）是百年戰爭中的<nuxt-link to="/civs/Franks"
@@ -23,8 +22,7 @@
             >加成的影響，由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <div></div>
@@ -38,7 +36,11 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="hg" width="250" src="~assets/Joan3army.png" alt=""
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Joan3army.png"
+                  alt=""
               /></gallery>
               <p>
                 <em

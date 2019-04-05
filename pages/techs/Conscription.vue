@@ -10,12 +10,12 @@
           <p>
             <b>徵兵制度</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >的<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
-            <nuxt-link to="/building/Barracks">軍營</nuxt-link>、<nuxt-link
-              to="/building/Archery_Range"
-              >射箭場</nuxt-link
-            >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>和
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/building/Barracks">軍營</nuxt-link
+            >、<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+            >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>和<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
             >的單位訓練速度快33%。
           </p>
           <p>

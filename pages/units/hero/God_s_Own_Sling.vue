@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>神之弓</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一個<nuxt-link
-              to="/units/Trebuchet"
-              >巨型投石機</nuxt-link
+            <strong>神之弓</strong>是《世紀帝國 II HD:<nuxt-link to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一個<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link>，可以在<nuxt-link
               to="/batt"
               >戰役</nuxt-link

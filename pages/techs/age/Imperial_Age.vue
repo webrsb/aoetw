@@ -12,13 +12,14 @@
             >是世界帝國的第四個時代。這個時代開始可以訓練<nuxt-link
               to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
-            >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-            <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
-              to="/civs/Incas"
-              >印加</nuxt-link
-            >和<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
-            >之外)，同時也有重裝的
-            <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+              to="/civs/Huns"
+              >匈奴</nuxt-link
+            >、<nuxt-link to="/civs/Incas">印加</nuxt-link>和<nuxt-link
+              to="/civs/Mayans"
+              >馬雅</nuxt-link
+            >之外)，同時也有重裝的<nuxt-link to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
             >讓玩家更容易進攻對方城鎮。
           </p>
           <p>
@@ -405,7 +406,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
-              >：：會射出多發箭矢的戰船。(限<nuxt-link to="/civs/Vikings"
+              >：會射出多發箭矢的戰船。(限<nuxt-link to="/civs/Vikings"
                 >維京</nuxt-link
               >)
             </li>
@@ -416,7 +417,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
-              >：：可發射砲彈的重裝戰船。(限<nuxt-link to="/civs/Koreans"
+              >：可發射砲彈的重裝戰船。(限<nuxt-link to="/civs/Koreans"
                 >韓國</nuxt-link
               >)
             </li>
@@ -427,7 +428,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
-              >：：可發射穿透攻擊的戰船。(限<nuxt-link to="/civs/Portuguese"
+              >：可發射穿透攻擊的戰船。(限<nuxt-link to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >)
             </li>
@@ -776,11 +777,12 @@
             <div class="hrn1"></div>
             <div class="n1">
               <p>
-                偉大的國王的興起和他們對帝國的追求，帶來了可以稱為帝國時代的中世紀的最後一部分。
-                <nuxt-link to="/civs/Britons">英國</nuxt-link>，<nuxt-link
-                  to="/civs/Franks"
-                  >法國</nuxt-link
-                >，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+                偉大的國王的興起和他們對帝國的追求，帶來了可以稱為帝國時代的中世紀的最後一部分。<nuxt-link
+                  to="/civs/Britons"
+                  >英國</nuxt-link
+                >，<nuxt-link to="/civs/Franks">法國</nuxt-link>，<nuxt-link
+                  to="/civs/Spanish"
+                  >西班牙</nuxt-link
                 >和斯堪的納維亞的國家領導人正在用封建制度取代封建制度。
                 貿易蓬勃發展，城市規模和實力不斷增長。
                 文藝復興正在意大利進行並遍布歐洲。 技術和學習超過了古代世界。

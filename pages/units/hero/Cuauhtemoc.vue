@@ -11,8 +11,9 @@
             <strong>庫奧赫特莫克</strong>(生卒年約1495-1525年)是《世紀帝國II
             HD：被遺忘的帝國》中登場的一名<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            ><nuxt-link to="/units/hero">英雄</nuxt-link>，他的外型是
-            <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link>，他的外型是<nuxt-link
+              to="/units/Elite_Eagle_Warrior"
+              >精銳鷹勇士</nuxt-link
             >，只能在地圖編輯器中使用。由於他屬於<nuxt-link to="/units/hero"
               >英雄</nuxt-link
             >，因此無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
@@ -28,8 +29,9 @@
           <p>
             在<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
             >的<nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
-            >這一關中，雖然沒有講明，但暗示了登場的那隻強化版
-            <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+            >這一關中，雖然沒有講明，但暗示了登場的那隻強化版<nuxt-link
+              to="/units/Jaguar_Warrior"
+              >豹勇士</nuxt-link
             >就是庫奧赫特莫克，這也是他唯一一次實際出現在遊戲中。儘管他是過場動畫中的旁白，他在遊戲中仍然只是一名「<nuxt-link
               to="/units/Jaguar_Warrior"
               >豹勇士</nuxt-link
@@ -78,8 +80,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -119,8 +121,8 @@
               +3 <br />對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >
-              +2 <br />對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
-              +2
+              +2 <br />對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link
+              >+2
             </td>
           </tr>
           <tr>
@@ -143,8 +145,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >
             </td>

@@ -24,8 +24,8 @@
             <b>騎兵單位</b>是遊戲中四類軍事單位之一，另外三種分別是<nuxt-link
               to="/units/Infantry_Units"
               >步兵單位</nuxt-link
-            >、<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link>與
-            <nuxt-link to="/units/Siege_Weapons">攻城武器單位</nuxt-link>。
+            >、<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link
+            >與<nuxt-link to="/units/Siege_Weapons">攻城武器單位</nuxt-link>。
           </p>
         </div>
         <h3>概要</h3>
@@ -64,12 +64,13 @@
             儘管騎兵部隊有很多優勢，但仍有一些缺點。反制騎兵最常用的那就是<nuxt-link
               to="/units/Spearman"
               >長槍兵</nuxt-link
-            >。每個使用騎兵的玩家遲早都會在戰場上遇見他們，
-            <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
-              to="/units/Mameluke"
-              >奴隸兵</nuxt-link
-            >，<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>和
-            <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+            >。每個使用騎兵的玩家遲早都會在戰場上遇見他們，<nuxt-link
+              to="/units/Camel"
+              >駱駝騎兵</nuxt-link
+            >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，<nuxt-link
+              to="/units/Kamayuk"
+              >槍隊長</nuxt-link
+            >和<nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
             >也對騎兵部隊非常有效。此外，騎兵單位價格昂貴，通常需要花費黃金，如果玩家過度依賴他們那當黃金用完時極有可能會輸掉該場比賽。在狹窄有懸崖或樹林等障礙物的地圖上，騎兵部隊會難以接近障礙物後的部隊而淪為敵方的獵物。
           </p>
           <p>
@@ -87,20 +88,19 @@
             <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>，<nuxt-link
               to="/civs/Franks"
               >法蘭克</nuxt-link
-            >，<nuxt-link to="/civs/Huns">匈奴</nuxt-link>，
-            <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>，<nuxt-link
-              to="/civs/Mongols"
-              >蒙古</nuxt-link
-            >和<nuxt-link to="/civs/Persians">波斯</nuxt-link
+            >，<nuxt-link to="/civs/Huns">匈奴</nuxt-link>，<nuxt-link
+              to="/civs/Magyars"
+              >馬扎爾</nuxt-link
+            >，<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>和<nuxt-link
+              to="/civs/Persians"
+              >波斯</nuxt-link
             >都是非常優秀的<nuxt-link to="/units/Cavalry_Units"
               >騎兵文明</nuxt-link
-            >，非常依靠騎兵部隊。
-            <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>，<nuxt-link
-              to="/civs/Indians"
-              >印度</nuxt-link
-            >，<nuxt-link to="/civs/Malians">馬利</nuxt-link>和<nuxt-link
-              to="/civs/Spanish"
-              >西班牙</nuxt-link
+            >，非常依靠騎兵部隊。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+            >，<nuxt-link to="/civs/Indians">印度</nuxt-link>，<nuxt-link
+              to="/civs/Malians"
+              >馬利</nuxt-link
+            >和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             >也是偉大的騎兵文明，雖然比上述文明更不依賴騎兵。
           </p>
         </div>
@@ -1230,7 +1230,7 @@
 
           <h3>圖庫</h3>
           <div class="hrn1"></div>
-          <div class="n1">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img

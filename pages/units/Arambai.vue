@@ -13,8 +13,7 @@
               to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。飛鏢騎兵是<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >部隊破壞力極高但命中低，對<nuxt-link to="/armor/Armor_Class_Ram"
@@ -30,8 +29,8 @@
               >射速</nuxt-link
             >，而且還跑的很快，也因為如此<nuxt-link to="/civs/Burmese"
               >緬甸</nuxt-link
-            >與三個南美國家並列為
-            <nuxt-link to="/civs/bestciv">四大強國</nuxt-link
+            >與三個南美國家並列為<nuxt-link to="/civs/bestciv"
+              >四大強國</nuxt-link
             >，不管在團戰還是單挑的比賽中都是常客。
           </p>
         </div>
@@ -52,8 +51,7 @@
               >上<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >完善緬甸則缺乏<nuxt-link to="/techs/Leather_Archer_Armor"
                 >弓兵皮甲</nuxt-link
-              >/
-              <nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              >/<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
               >因此防禦較低，命中也非常低，值得注意是受到<nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
@@ -62,29 +60,28 @@
             <li>
               飛鏢騎兵跟其他的<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >單位相比來講，因強大破壞力和不錯的移動速度在對付
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
-                to="/units/Archer_Units"
-                >步弓系列</nuxt-link
-              >、<nuxt-link to="/units/Infantry_Units">步兵類型</nuxt-link>/
-              <nuxt-link to="/units/Villager">村民</nuxt-link
+              >單位相比來講，因強大破壞力和不錯的移動速度在對付<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >、<nuxt-link to="/units/Archer_Units">步弓系列</nuxt-link
+              >、<nuxt-link to="/units/Infantry_Units">步兵類型</nuxt-link
+              >/<nuxt-link to="/units/Villager">村民</nuxt-link
               >等一些較為無裝甲的部隊都有著不錯的效果，即使是重裝近戰單位也可靠著一定拉打有不錯的破壞力，雖然命中率極低只有20%、30%(精銳)，但大型陣地戰或者大隊伍碰撞時也會有不錯的傷害。
             </li>
             <li>
               為了平衡遊戲設計上，給予了非常超糟的命中率(20%、30%(精銳)，可說是遊戲中命中率最低的單位，所以以最遠距離攻擊時常常會Miss尤其是對移動中的單位，相對的近距離攻擊時，可達到必殺效果(因攻擊力極高/好命中)。因緬甸的兵工廠<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              >缺少
-              <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
+              >缺少<nuxt-link to="/techs/Leather_Archer_Armor"
+                >弓兵皮甲</nuxt-link
               >和<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
-              >，因此<nuxt-link to="/units/Archer_Units">步弓系列</nuxt-link>/
-              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link
+              >，因此<nuxt-link to="/units/Archer_Units">步弓系列</nuxt-link
+              >/<nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link
               >的傷害沒法提高，另外因為要非常近距離才能達到傷害的飛鏢騎兵也懼怕<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >，雖然<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >有
-              <nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
+              >有<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
               >但在未研發時<nuxt-link to="/units/Monk">僧侶</nuxt-link
               >是一個蠻剋制飛鏢騎兵的單位。
             </li>
@@ -102,10 +99,10 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >可說是飛鏢騎兵的克制文明，首先<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >本身對馬弓騎兵有加成再加上跑速跟射速又相當的優質因此飛鏢騎兵優勢不大，再者跟
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>同盟<nuxt-link
-                to="/building/Archery_Range"
-                >射箭場</nuxt-link
+              >本身對馬弓騎兵有加成再加上跑速跟射速又相當的優質因此飛鏢騎兵優勢不大，再者跟<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >同盟<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
               >可生產<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
               >這單位是標準的<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >騎乘版，擁有跑速升上精銳時對馬弓騎兵又有加成，因而<nuxt-link
@@ -133,8 +130,9 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Infantry_Units">步兵系列</nuxt-link
-              >、<nuxt-link to="/units/Villager">村民</nuxt-link>、
-              <nuxt-link to="/units/Archer_Units">弓兵系列</nuxt-link
+              >、<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵系列</nuxt-link
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>。
             </td>
           </tr>
@@ -144,14 +142,13 @@
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>、<nuxt-link
                 to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >、
-              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
                 >奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、
-              <nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link>、<nuxt-link
-                to="/units/Eagle_Warrior"
-                >鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵系</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
@@ -184,8 +181,7 @@
                 >曼尼普爾騎兵</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >和
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >和<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊+3，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定。
             </td>
           </tr>
@@ -260,8 +256,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高飛鏢騎兵的生產速度和加速
-              <nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
+              >能夠提高飛鏢騎兵的生產速度和加速<nuxt-link
+                to="/techs/Manipur_Cavalry"
+                >曼尼普爾騎兵</nuxt-link
               >及<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >的研發時間(快25%)
             </li>
@@ -435,8 +432,10 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、
-              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -549,12 +548,11 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

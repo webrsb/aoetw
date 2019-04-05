@@ -39,8 +39,8 @@
           <p>
             緬甸的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             >從<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
-            >開始，每個時代<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
-            +1，也是一個很棒的種族加成，讓緬甸的步兵格外的強悍，不需要消耗資源研發，比起<nuxt-link
+            >開始，每個時代<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >+1，也是一個很棒的種族加成，讓緬甸的步兵格外的強悍，不需要消耗資源研發，比起<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克</nuxt-link
             >還有<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>可以研發。

@@ -14,12 +14,13 @@
             >研發。研發後可讓玩家看到敵方<nuxt-link to="/los.php"
               >視野</nuxt-link
             >。間諜是遊戲中唯一的成本變動<nuxt-link to="/techs">科技</nuxt-link
-            >，它的花費取決於所有敵方(包括中立玩家)的
-            <nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
-              to="/units/Trade_Cart"
-              >貿易車隊</nuxt-link
-            >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>和
-            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >，它的花費取決於所有敵方(包括中立玩家)的<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >、<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
+            >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>和<nuxt-link
+              to="/units/Transport_Ship"
+              >運輸船</nuxt-link
             >的數量。每個上述單位需花費200<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link
             >，花費最低200黃金最高30000黃金。

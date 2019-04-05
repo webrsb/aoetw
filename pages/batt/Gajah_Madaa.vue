@@ -129,9 +129,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4">
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>
-            </td>
+            <td class="unit4"><nuxt-link to="/civs/Malay">馬來</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">英雄</td>

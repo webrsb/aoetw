@@ -15,8 +15,9 @@
             >訓練。
           </p>
           <p>
-            漁船可以建造類似於水上<nuxt-link to="/building/Farm">農田</nuxt-link
-            >的魚網，雖然魚網需要更長的時間建設，但比較多<nuxt-link
+            漁船可以建造類似於水上農田的<nuxt-link to="/building/Fish_Trap"
+              >魚網</nuxt-link
+            >，雖然魚網需要更長的時間建設，但比較多<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link
             >。漁船捕魚的速度比從魚網捕魚還要快，大概與<nuxt-link
@@ -30,11 +31,8 @@
               >日本</nuxt-link
             >的漁船工作效率極高，而<nuxt-link to="/civs/Italians"
               >義大利</nuxt-link
-            >的漁船相當便宜，
-            <nuxt-link to="/civs/Malay">馬來</nuxt-link>的<nuxt-link
-              to="/building/Fish_Trap"
-              >漁網</nuxt-link
-            >有無限的食物採集量。
+            >的漁船相當便宜，<nuxt-link to="/civs/Malay">馬來</nuxt-link
+            >的漁網有無限的食物採集量。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -48,11 +46,11 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-            <td class="tta4">無。</td>
+            <td class="tta4">無</td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">任何東西。</td>
+            <td class="tta4">任何東西</td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -226,14 +224,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -529,8 +530,7 @@
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
               >提高10%/15%/20%，<nuxt-link to="/techs/Careening"
                 >傾側維修術</nuxt-link
-              >和
-              <nuxt-link to="/techs/Gillnets">流刺網</nuxt-link
+              >和<nuxt-link to="/techs/Gillnets">流刺網</nuxt-link
               >的研究速度在城堡/帝王提高15%/20％。研究<nuxt-link
                 to="/techs/Dry_Dock"
                 >旱碼頭</nuxt-link

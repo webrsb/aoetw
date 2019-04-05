@@ -10,8 +10,8 @@
           <p>
             <b>部落領袖</b>是<nuxt-link to="/civs/Malians">馬利</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
             >不須駐守人就可向附近敵人放箭。

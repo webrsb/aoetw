@@ -11,8 +11,7 @@
             <b>雙弩箭</b>是<nuxt-link to="/civs/Khmer">高棉</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Ballista_Elephant"
               >弩砲象</nuxt-link
             >和<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
@@ -31,8 +30,9 @@
                 >團隊加分</nuxt-link
               >:弩砲射程+1還有<nuxt-link to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
-              >的加成)對大規模
-              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>的殺傷力。
+              >的加成)對大規模<nuxt-link to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >的殺傷力。
             </li>
             <li>
               第二個投射物有一個輕微的錐形擴展，造成的傷害比第一個投射物小一點。

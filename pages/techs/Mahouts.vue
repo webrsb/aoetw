@@ -11,8 +11,7 @@
             <b>象伕</b>是<nuxt-link to="/civs/Persians">波斯</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發，研發後令<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
             >的移動速度+30%。
           </p>

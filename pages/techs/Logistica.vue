@@ -11,8 +11,7 @@
             <b>後勤學</b>是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
             >有0.5格的<nuxt-link to="/elements/Area_of_Effect"
               >踐踏傷害</nuxt-link

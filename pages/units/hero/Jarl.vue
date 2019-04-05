@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>雅爾</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            <strong>雅爾</strong>是《世紀帝國 II HD:<nuxt-link to="/games/aof"
+              >失落的帝國</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，他是以<nuxt-link to="/civs/Vikings">挪威</nuxt-link
             >或丹麥指揮官作為模板。他擁有<nuxt-link to="/units/Tarkan"
@@ -23,8 +23,7 @@
             >的加成影響。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             雅爾著名場景是在<nuxt-link to="/batt">戰役</nuxt-link

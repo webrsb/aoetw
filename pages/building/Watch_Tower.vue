@@ -17,8 +17,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            瞭望箭塔是防禦基地的重要部分之一。瞭望箭塔可以提供玩家城鎮對早期攻擊的保護。瞭望箭塔應放置在狹窄處或敵方不易進攻的位置(如懸崖或森林後面)，或是在塔的附近直接用牆圍住(封建時代沒有
-            <nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
+            瞭望箭塔是防禦基地的重要部分之一。瞭望箭塔可以提供玩家城鎮對早期攻擊的保護。瞭望箭塔應放置在狹窄處或敵方不易進攻的位置(如懸崖或森林後面)，或是在塔的附近直接用牆圍住(封建時代沒有<nuxt-link
+              to="/techs/Murder_Holes"
+              >垛孔</nuxt-link
             >)防止近戰單位接近並摧毀瞭望箭塔。
           </p>
           <p>
@@ -31,31 +32,33 @@
               >黑暗時代</nuxt-link
             >先採集<nuxt-link to="/resource/Stone">石礦</nuxt-link
             >，並在上黑暗時代前派<nuxt-link to="/units/Villager">村民</nuxt-link
-            >(至少五名)前往敵方城鎮附近，也可搭配
-            <nuxt-link to="/units/Militia">民兵</nuxt-link
+            >(至少五名)前往敵方城鎮附近，也可搭配<nuxt-link to="/units/Militia"
+              >民兵</nuxt-link
             >(通常三到四個)和<nuxt-link to="/units/Scout_Cavalry"
               >斥候騎兵</nuxt-link
-            >，一上封建就在偵查好的敵人資源附近馬上蓋塔，用
-            <nuxt-link to="/units/Militia">民兵</nuxt-link>跟<nuxt-link
-              to="/units/Scout_Cavalry"
-              >斥候</nuxt-link
-            >阻擋前來攻擊村民的敵人，建好一個後在前一個塔的射程範圍內再蓋一個，一直往敵方城鎮前進直到敵人資源枯盡投降，也可蓋
-            <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+            >，一上封建就在偵查好的敵人資源附近馬上蓋塔，用<nuxt-link
+              to="/units/Militia"
+              >民兵</nuxt-link
+            >跟<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
+            >阻擋前來攻擊村民的敵人，建好一個後在前一個塔的射程範圍內再蓋一個，一直往敵方城鎮前進直到敵人資源枯盡投降，也可蓋<nuxt-link
+              to="/building/Archery_Range"
+              >射箭場</nuxt-link
             >和<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >訓練<nuxt-link to="/units/Archer">弓兵</nuxt-link
             >增加火力還有升級<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-            >跟射程範圍。可在瞭望箭塔的附近建造
-            <nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>或<nuxt-link
-              to="/building/Palisade_Wall"
-              >木牆</nuxt-link
+            >跟射程範圍。可在瞭望箭塔的附近建造<nuxt-link
+              to="/building/Stone_Wall"
+              >石牆</nuxt-link
+            >或<nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link
             >消除塔的最小射程範圍。
           </p>
           <p>
             駐紮<nuxt-link to="/units/Archer">弓箭手</nuxt-link>和<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
-            >可增加瞭望箭塔的箭矢數量，同時增加傷害。最多可以有五名（
-            <nuxt-link to="/civs/Teutons">條頓人</nuxt-link
+            >可增加瞭望箭塔的箭矢數量，同時增加傷害。最多可以有五名（<nuxt-link
+              to="/civs/Teutons"
+              >條頓人</nuxt-link
             >可十名）的徒步單位（<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >和<nuxt-link to="/units/Archer">弓箭手</nuxt-link>，儘管<nuxt-link
@@ -89,10 +92,10 @@
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，
-              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
-                to="/units/War_Elephant"
-                >戰象</nuxt-link
+              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，<nuxt-link
+                to="/units/Huskarl"
+                >哥德衛隊</nuxt-link
+              >，<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >，<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
@@ -361,8 +364,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-              >：箭塔建造速度更快(75s其他<nuxt-link to="/civs">文明</nuxt-link>
-              80s)。箭塔科技升級免費
+              >：箭塔建造速度更快(75s其他<nuxt-link to="/civs">文明</nuxt-link
+              >80s)。箭塔科技升級免費
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：箭塔<nuxt-link
@@ -419,8 +422,8 @@
             </li>
             <li>
               <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
-              >對<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>攻擊+7因為
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >對<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >攻擊+7因為<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
               >的護甲分類是<nuxt-link to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
               >。
@@ -511,8 +514,8 @@
               >，在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
               >可研發並給<nuxt-link to="/building/Watch_Tower"
                 >瞭望箭塔</nuxt-link
-              >攻擊+2。在4.8版
-              <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
+              >攻擊+2。在4.8版<nuxt-link to="/techs/Arrowslits"
+                >箭狹槽</nuxt-link
               >移到帝王時代並給箭塔攻擊+1。
             </li>
             <li>
@@ -667,13 +670,11 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_stone_defense"
+              <br /><nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >
             </td>

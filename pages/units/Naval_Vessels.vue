@@ -60,12 +60,13 @@
             <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
               to="/civs/Byzantines"
               >拜占庭</nuxt-link
-            >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-            <nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
-              to="/civs/Portuguese"
-              >葡萄牙</nuxt-link
-            >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>和<nuxt-link
+            >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              to="/civs/Malay"
+              >馬來</nuxt-link
+            >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
+              to="/civs/Saracens"
+              >薩拉森</nuxt-link
+            >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>和<nuxt-link
               to="/civs/Vikings"
               >維京</nuxt-link
             >是最好的<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link>。
@@ -133,8 +134,9 @@
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：<nuxt-link
                 to="/units/Transport_Ship"
                 >運輸船</nuxt-link
-              >生命值加倍以及多5的載運量；
-              <nuxt-link to="/units/Galley">戰船</nuxt-link>開火速率快20%。
+              >生命值加倍以及多5的載運量；<nuxt-link to="/units/Galley"
+                >戰船</nuxt-link
+              >開火速率快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
@@ -967,7 +969,7 @@
 
           <h3>圖庫</h3>
           <div class="hrn1"></div>
-          <div class="n1">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img
@@ -1004,8 +1006,6 @@
                 <p><em>所有特殊單位船艦。</em></p>
               </div>
             </div>
-          </div>
-          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img

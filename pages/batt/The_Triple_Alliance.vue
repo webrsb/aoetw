@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>三國同盟</b>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>》<nuxt-link
-              to="/batt/Montezumaa"
-              >蒙特蘇馬戰役</nuxt-link
+            <b>三國同盟</b>是《世紀帝國 II HD:<nuxt-link to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >》<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
             >的第二個場景。
           </p>
         </div>

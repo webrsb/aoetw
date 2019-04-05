@@ -90,8 +90,7 @@
           <p></p>
           <h3>開場</h3>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+            軍事單位 -<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >x10、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
             >x10、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >x10、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
@@ -106,11 +105,8 @@
             >（槳帆戰船）x2。
           </li>
           <li>
-            經濟單位 -
-            <nuxt-link to="/units/Villager">村民</nuxt-link>x14、<nuxt-link
-              to="/units/Fishing_Ship"
-              >漁船</nuxt-link
-            >x2。
+            經濟單位 -<nuxt-link to="/units/Villager">村民</nuxt-link
+            >x14、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>x2。
           </li>
           <p></p>
           <h2>主要任務</h2>

@@ -85,17 +85,13 @@
           <p></p>
           <h3>開場</h3>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>x3、<nuxt-link
-              to="/units/Karambit_Warrior"
-              >爪刀勇士</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+            >x3、<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
             >x6。
           </p>
           <p>
-            。 大地之母單位 -
-            <nuxt-link to="/units/Villager">村民</nuxt-link>x3、<nuxt-link
-              to="/units/Galleon"
-              >重型弩砲戰船</nuxt-link
+            。 大地之母單位 -<nuxt-link to="/units/Villager">村民</nuxt-link
+            >x3、<nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
             >x3、<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>x1。
           </p>
           <h2>主要任務</h2>

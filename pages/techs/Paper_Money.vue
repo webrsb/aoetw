@@ -11,8 +11,7 @@
             <b>紙幣</b>是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後玩家和同盟立即獲得500<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link
             >。

@@ -16,10 +16,10 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/ScoutCavalryIcon.jpg" alt="" />
-              <nuxt-link to="/units/Scout_Cavalry">斥候→</nuxt-link>:<nuxt-link
-                to="/techs/age/Feudal_Age"
-                >封建時代</nuxt-link
+              <img src="~assets/ScoutCavalryIcon.jpg" alt="" /><nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
+              >:<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
               >機動最強的兵種，攻擊、<nuxt-link to="/armor">遠防</nuxt-link
               >高、殺<nuxt-link to="/units/Villager">村民</nuxt-link
               >快，克制<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link

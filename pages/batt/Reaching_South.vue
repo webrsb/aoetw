@@ -81,8 +81,7 @@
           <p></p>
           <h3>開場</h3>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x2、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
             >x2、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >x3、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>x4
@@ -155,15 +154,18 @@
             </li>
           </ul>
           <h2>細節</h2>
-          <ul>
-            <li>
-              典型的<nuxt-link to="/maps/Arena">圍城</nuxt-link
-              >打援關卡，等到黎利的大軍抵達便能發起主要攻勢。
-            </li>
-            <li>
-              琴彭（？-？）明代茶隆關太守，堅守黎利長達七個月，糧盡無援而不支城破，戰死茶隆關。
-            </li>
-          </ul>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                典型的<nuxt-link to="/maps/Arena">圍城</nuxt-link
+                >打援關卡，等到黎利的大軍抵達便能發起主要攻勢。
+              </li>
+              <li>
+                琴彭（？-？）明代茶隆關太守，堅守黎利長達七個月，糧盡無援而不支城破，戰死茶隆關。
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">

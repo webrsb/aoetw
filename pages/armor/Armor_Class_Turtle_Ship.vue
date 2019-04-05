@@ -32,8 +32,8 @@
                 class="gg"
                 src="~assets/TurtleShipIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Turtle_Ship">龜甲船→</nuxt-link>
-              <img
+              /><nuxt-link to="/units/Turtle_Ship">龜甲船→</nuxt-link
+              ><img
                 class="gg"
                 src="~assets/TurtleShipIcon.jpg"
                 alt=""

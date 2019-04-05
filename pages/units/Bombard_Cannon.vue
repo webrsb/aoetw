@@ -11,9 +11,8 @@
             <b>火砲</b>是<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
             >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >單位，<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >研發
-            <nuxt-link to="/techs/Chemistry">化學</nuxt-link>後可以在<nuxt-link
-              to="/building/Siege_Workshop"
+            >研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+            >後可以在<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >生產。
           </p>
@@ -28,25 +27,34 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
+                to="/civs/Malians"
+                >馬利</nuxt-link
+              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                to="/civs/Italians"
+                >義大利</nuxt-link
+              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+                to="/civs/Goths"
+                >哥德</nuxt-link
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+                to="/civs/Vietnamese"
+                >越南</nuxt-link
+              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
+                to="/civs/Burmese"
+                >緬甸</nuxt-link
+              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
               <h4>
                 <b
                   ><i class="fas fa-times" style="color: #d9534f;"></i
@@ -56,16 +64,22 @@
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
-              >、 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              >、 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
+                to="/civs/Huns"
+                >匈奴</nuxt-link
+              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Incas"
+                >印加</nuxt-link
+              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
+                to="/civs/Vikings"
+                >維京</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -83,8 +97,8 @@
               to="/civs/Turks"
               >土耳其</nuxt-link
             ><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-            >。一群火砲可以瞬間摧毀一個
-            <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >。一群火砲可以瞬間摧毀一個<nuxt-link to="/building/Town_Center"
+              >城鎮中心</nuxt-link
             >，但務必給予充分的保護。除了<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >的功用外，也可以拿來對付<nuxt-link to="/units/Heavy_Scorpion"
@@ -94,8 +108,9 @@
               to="/units/Naval_Vessels"
               >船隻</nuxt-link
             >。但對<nuxt-link to="/units/Knight">騎士</nuxt-link
-            >等近戰類的則是沒有抵抗能力。需注意的火砲擁有
-            <nuxt-link to="/elements/Area_of_Effect">擴散傷害</nuxt-link
+            >等近戰類的則是沒有抵抗能力。需注意的火砲擁有<nuxt-link
+              to="/elements/Area_of_Effect"
+              >擴散傷害</nuxt-link
             >，必須小心不要砸到友軍了。
           </p>
           <p>
@@ -131,8 +146,8 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
-              <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>。
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
+              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -625,8 +640,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>
-              <br /><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link>
+              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              ><br /><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -694,8 +709,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +200對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />+40對<nuxt-link to="/armor/Armor_Class_stone_defense"
+              +200對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br />+40對<nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >
               <br />+40對<nuxt-link to="/armor/Armor_Class_Ship"
@@ -752,8 +767,7 @@
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+              <br /><nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >
             </td>

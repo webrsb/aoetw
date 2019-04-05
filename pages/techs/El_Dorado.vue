@@ -11,8 +11,7 @@
             <b>黃金國</b>是<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >HP+40。
           </p>
@@ -44,8 +43,9 @@
                 to="/units/Light_Cavalry"
               ></nuxt-link
               ><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >、<nuxt-link to="/units/Knight">騎士</nuxt-link>、甚至
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Knight">騎士</nuxt-link>、甚至<nuxt-link
+                to="/units/Camel"
+                >駱駝騎兵</nuxt-link
               >的功能(有遼闊<nuxt-link to="/los.php">視野</nuxt-link
               >，對騎兵有些微攻擊加成)。
             </li>

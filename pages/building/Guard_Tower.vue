@@ -53,12 +53,12 @@
             >攻城部隊和衝撞車的攻擊，所以為了保護他們，玩家應該在他們附近配有近戰單位，或者在塔靠近岸邊的情況下準備可以對付<nuxt-link
               to="/units/Cannon_Galleon"
               >火砲戰船</nuxt-link
-            >的戰艦(如
-            <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>/<nuxt-link
-              to="/units/Demolition_Ship"
-              >神風船</nuxt-link
-            >/<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>/
-            <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>)。
+            >的戰艦(如<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+            >/<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+            >/<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>/<nuxt-link
+              to="/units/Longboat"
+              >維京大戰船</nuxt-link
+            >)。
           </p>
           <p>
             駐紮<nuxt-link to="/units/Archer">弓箭手</nuxt-link>和<nuxt-link
@@ -84,35 +84,49 @@
                   ><span style="margin-left: 2px;">可建造文明</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
+                to="/civs/Burmese"
+                >緬甸</nuxt-link
+              >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
+                to="/civs/Celts"
+                >塞爾特</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
+                to="/civs/Incas"
+                >印加</nuxt-link
+              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
+                to="/civs/Italians"
+                >義大利</nuxt-link
+              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
+                to="/civs/Khmer"
+                >高棉</nuxt-link
+              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+                to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+                to="/civs/Malians"
+                >馬利</nuxt-link
+              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
+                to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
+              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Teutons"
+                >條頓</nuxt-link
+              >。<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
+                to="/civs/Vietnamese"
+                >越南</nuxt-link
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -125,8 +139,10 @@
                   ><span style="margin-left: 2px;">不可建造文明</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+                to="/civs/Huns"
+                >匈奴</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -152,10 +168,10 @@
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，
-              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
-                to="/units/War_Elephant"
-                >戰象</nuxt-link
+              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，<nuxt-link
+                to="/units/Huskarl"
+                >哥德衛隊</nuxt-link
+              >，<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >，<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
@@ -583,8 +599,8 @@
               引入<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
               >，在城堡時代可研發並給<nuxt-link to="/building/Guard_Tower"
                 >防禦箭塔</nuxt-link
-              >攻擊+4。在4.8版
-              <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
+              >攻擊+4。在4.8版<nuxt-link to="/techs/Arrowslits"
+                >箭狹槽</nuxt-link
               >移到帝王時代並給<nuxt-link to="/building/Guard_Tower"
                 >防禦箭塔</nuxt-link
               >攻擊+2。
@@ -727,8 +743,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +9對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>
-              <br />+2對<nuxt-link to="/armor/Armor_Class_Spearman"
+              +9對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
+              ><br />+2對<nuxt-link to="/armor/Armor_Class_Spearman"
                 >長槍兵</nuxt-link
               >
               <br />+1對<nuxt-link to="/armor/Armor_Class_Camel"
@@ -769,13 +785,11 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_stone_defense"
+              <br /><nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >
             </td>

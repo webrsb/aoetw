@@ -10,8 +10,8 @@
           <p>
             <b>恰特拉傘</b>是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
             >+50 HP。
@@ -27,14 +27,14 @@
                 >越南</nuxt-link
               ><nuxt-link to="/units/Archer_Units"></nuxt-link
               ><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-              >的肉盾。一個全升級有
-              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link
+              >的肉盾。一個全升級有<nuxt-link to="/techs/Bloodlines"
+                >品種</nuxt-link
               >和恰特拉傘的<nuxt-link to="/units/Elite_Battle_Elephant"
                 >精銳矛象伕</nuxt-link
               >有350HP，僅輸給<nuxt-link to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >（620HP），並與
-              <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
+              >（620HP），並與<nuxt-link to="/units/Elephant_Archer"
+                >象弓騎兵</nuxt-link
               >（350HP）並列。
             </li>
           </ul>

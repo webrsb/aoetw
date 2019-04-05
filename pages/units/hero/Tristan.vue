@@ -81,8 +81,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +8對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link>
-              <br />+2對<nuxt-link to="/armor/Armor_Class_Ram"
+              +8對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+              ><br />+2對<nuxt-link to="/armor/Armor_Class_Ram"
                 >衝撞車</nuxt-link
               >
             </td>

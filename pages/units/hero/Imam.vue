@@ -15,8 +15,8 @@
             ><nuxt-link to="/batt">戰役</nuxt-link>中，<nuxt-link
               to="/batt/The_Enemy_of_my_Enemy"
               >我敵人的敵人</nuxt-link
-            >這一關中登場的<nuxt-link to="/units/hero">英雄</nuxt-link>
-            <nuxt-link to="/units/hero">英雄</nuxt-link>。在<nuxt-link
+            >這一關中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link>。在<nuxt-link
               to="/batt/Sundjataa"
               >松迪亞塔</nuxt-link
             >戰役的<nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link

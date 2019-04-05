@@ -57,7 +57,7 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">全部。</td>
+            <td class="tta4">全部</td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -161,8 +161,8 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
-              >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >團隊速度提高80%。
             </li>
           </ul>
@@ -261,9 +261,8 @@
           <tr>
             <td class="unit3">護甲類別</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

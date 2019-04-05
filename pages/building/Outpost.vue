@@ -217,8 +217,8 @@
                 to="/building/University"
                 >學院</nuxt-link
               >研究<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >的速度快80%。
             </li>
           </ul>
@@ -346,9 +346,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

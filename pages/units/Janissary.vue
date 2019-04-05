@@ -11,8 +11,7 @@
             <b>土耳其火槍兵</b>是<nuxt-link to="/civs/Turks">土耳其</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。是個有高攻擊和近戰裝甲的<nuxt-link
               to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
@@ -36,17 +35,16 @@
               >但非常脆弱且命中率低。不過如果是對近距離的敵人一群的火槍兵能直接殺死他們或造成嚴重損傷。他們適合對付<nuxt-link
                 to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
-              >不過
-              <nuxt-link to="/units/Hand_Cannoneer"></nuxt-link
+              >不過<nuxt-link to="/units/Hand_Cannoneer"></nuxt-link
               >火槍兵實際上做得比他們好。土耳其火槍兵不適合對抗<nuxt-link
                 to="/units/Archer_Units"
                 >弓箭手</nuxt-link
               >和<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >因為前者有遠程攻擊距離而後者速度很快，
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>跟<nuxt-link
-                to="/units/Mangonel"
-                >投石車</nuxt-link
-              >對土耳其火槍兵也是致命的威脅。不過複數的土耳其火槍兵可以在受到太多傷害之前殺死上面單位。，
+              >因為前者有遠程攻擊距離而後者速度很快，<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >跟<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >對土耳其火槍兵也是致命的威脅。不過複數的土耳其火槍兵可以在受到太多傷害之前殺死上面單位。
             </li>
             <li>
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
@@ -81,12 +79,13 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
-              <nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
-                to="/units/Huskarl"
-                >哥德衛隊</nuxt-link
-              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Samurai"
+                >日本武士</nuxt-link
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
+                to="/units/Condottiero"
+                >傭兵</nuxt-link
+              >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -167,14 +166,13 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
+                    /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -191,8 +189,11 @@
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/HuskarlIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                   <li>
@@ -215,8 +216,11 @@
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/HuskarlIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                 </ul>
@@ -225,8 +229,11 @@
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
                   </li>
                   <li>
@@ -234,8 +241,7 @@
                       class="gg"
                       src="~assets/Imperialskirmishericon.png"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Skirmisher"
+                    /><nuxt-link to="/units/Imperial_Skirmisher"
                       >帝王戰矛兵</nuxt-link
                     >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
                     >和同盟限定)
@@ -248,20 +254,25 @@
                       class="gg"
                       src="~assets/EliteSkirmisherIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
+                    /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/SkirmisherIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/SkirmisherIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -280,12 +291,21 @@
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/KnightIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Knight">騎士</nuxt-link>→
-                    <img class="gg" src="~assets/CavalierIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
-                    <img class="gg" src="~assets/PaladinIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/KnightIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Knight">騎士</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/CavalierIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/PaladinIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -310,8 +330,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高土耳其火槍兵的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高土耳其火槍兵的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>
@@ -335,8 +356,9 @@
               土耳其火槍兵有15的攻擊(精銳是18)。非精銳土耳其火槍兵對<nuxt-link
                 to="/armor/Armor_Class_Infantry"
                 >步兵單位</nuxt-link
-              >有額外+4攻擊，精銳土耳其火槍兵則對
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵單位</nuxt-link
+              >有額外+4攻擊，精銳土耳其火槍兵則對<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵單位</nuxt-link
               >有額外+8攻擊並對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >額外+3攻擊。
@@ -355,8 +377,7 @@
               土耳其火槍兵現在有17的攻擊(精銳是22)。不過移除對<nuxt-link
                 to="/armor/Armor_Class_Infantry"
                 >步兵單位</nuxt-link
-              >和
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              >和<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >額外加成攻擊。
             </li>
             <li>土耳其火槍兵%的命中率調降為50%。</li>
@@ -581,12 +602,11 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

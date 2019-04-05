@@ -10,8 +10,8 @@
           <p>
             <b>騎士精神</b>是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >工作效率快40%。
           </p>

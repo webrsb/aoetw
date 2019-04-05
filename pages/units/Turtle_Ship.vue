@@ -12,8 +12,7 @@
             >在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
             >資料片中的第二個<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
-            >，在
-            <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >，在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >可以訓練。它是一艘重裝甲的<nuxt-link to="/units/Cannon_Galleon"
               >火砲戰船</nuxt-link
@@ -47,10 +46,10 @@
             >的迷思。龜甲船還是應該跟其他<nuxt-link to="/units/Naval_Vessels"
               >船隻</nuxt-link
             >搭配，通常是<nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
-            >，防止敵方使用打帶跑，而龜甲船的任務就是吸收大量傷害同時造成巨量傷害，所以龜甲船應該都是在最前線作戰。龜甲船有非常高的護甲，即使是對船有加成的攻擊(例如
-            <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>、<nuxt-link
-              to="/building/Watch_Tower"
-              >箭塔</nuxt-link
+            >，防止敵方使用打帶跑，而龜甲船的任務就是吸收大量傷害同時造成巨量傷害，所以龜甲船應該都是在最前線作戰。龜甲船有非常高的護甲，即使是對船有加成的攻擊(例如<nuxt-link
+              to="/units/Fire_Ship"
+              >火戰船</nuxt-link
+            >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >)，龜甲船的額外防禦加成(+8/+11(精銳))可抵銷這些加成傷害，龜甲船對<nuxt-link
               to="/units/Fast_Fire_Ship"
               >快速火戰船</nuxt-link
@@ -80,8 +79,8 @@
               <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>、<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
-              >、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>、
-              <nuxt-link to="/building/Castle">城堡</nuxt-link
+              >、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+              >、<nuxt-link to="/building/Castle">城堡</nuxt-link
               >、箭塔、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
               >(淺灘處)
             </td>
@@ -270,14 +269,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -573,8 +575,10 @@
               龜甲船是四個單位之一沒有任何攻擊加成的(其他三個是<nuxt-link
                 to="/units/Militia"
                 >民兵</nuxt-link
-              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>和
-              <nuxt-link to="/units/Knight">騎士</nuxt-link>系)。
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>和<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >系)。
             </li>
             <li>
               精銳龜甲船是唯一<nuxt-link to="/armor">近防</nuxt-link
@@ -755,14 +759,14 @@
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link
-              >(+8/+11(精銳)) <br />
-              <nuxt-link to="/armor/Armor_Class_Turtle_Ship">龜甲船</nuxt-link
-              >(+1(精銳)) <br />
-              <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+              >(+8/+11(精銳)) <br /><nuxt-link
+                to="/armor/Armor_Class_Turtle_Ship"
+                >龜甲船</nuxt-link
+              >(+1(精銳)) <br /><nuxt-link
+                to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

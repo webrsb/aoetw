@@ -19,7 +19,7 @@
           >訓練，但有八個文明有第二種特殊單位，並且可以在城堡以外的地方訓練。
         </li>
         <li>
-          特殊單位大概三為三種，城堡的與非城堡的還有文明共享的，詳細可以看下方表格。
+          特殊單位大概為三種，城堡的與非城堡的還有文明共享的，詳細可以看下方表格。
         </li>
         <li>
           特殊單位提供了遊戲中更多元的打法，可以與同盟互相配合，或是搭配地圖地形選擇不同的文明兵種搭配，為遊戲增加更多的樂趣。
@@ -146,8 +146,8 @@
                 <nuxt-link to="/civs/Goths">哥德</nuxt-link>、研發<nuxt-link
                   to="/techs/Anarchy"
                   >無政府狀態</nuxt-link
-                >後可在<nuxt-link to="/building/Barracks">軍營</nuxt-link>訓練
-                <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
+                >後可在<nuxt-link to="/building/Barracks">軍營</nuxt-link
+                >訓練<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
               </li>
             </td>
           </tr>
@@ -330,8 +330,8 @@
                 <nuxt-link to="/civs/Huns">匈奴</nuxt-link>研發<nuxt-link
                   to="/techs/Marauders"
                   >掠奪者</nuxt-link
-                >後可在<nuxt-link to="/building/Stable">馬廄</nuxt-link>訓練
-                <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+                >後可在<nuxt-link to="/building/Stable">馬廄</nuxt-link
+                >訓練<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
               </li>
             </td>
           </tr>
@@ -753,7 +753,7 @@
 
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img
@@ -765,8 +765,8 @@
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:
-                  <nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >所有《世紀帝國 II HD:<nuxt-link to="/games/aok"
+                    >帝王世紀</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
@@ -783,8 +783,8 @@
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:
-                  <nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >所有《世紀帝國 II HD:<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
@@ -801,15 +801,13 @@
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:
-                  <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                  >所有《世紀帝國 II HD:<nuxt-link to="/games/aof"
+                    >失落的帝國</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
             </div>
           </div>
-        </div>
-        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img
@@ -821,8 +819,8 @@
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:
-                  <nuxt-link to="/games/ak">非洲王國</nuxt-link
+                  >所有《世紀帝國 II HD:<nuxt-link to="/games/ak"
+                    >非洲王國</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
@@ -839,8 +837,8 @@
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:
-                  <nuxt-link to="/games/aor">王者崛起</nuxt-link
+                  >所有《世紀帝國 II HD:<nuxt-link to="/games/aor"
+                    >王者崛起</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
@@ -854,7 +852,7 @@
 </template>
 <script>
 export default {
-  layout: 'foot',
+  layout: 'allunit2',
   components: {}
 }
 </script>

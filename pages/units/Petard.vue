@@ -12,8 +12,9 @@
           >，可以在<nuxt-link to="/building/Castle">城堡</nuxt-link
           >訓練，他比大多數的<nuxt-link to="/units/Siege_Weapons"
             >攻城武器</nuxt-link
-          >都還要快，對目標進行自殺性攻擊，對
-          <nuxt-link to="/building/Stone_Wall">牆</nuxt-link
+          >都還要快，對目標進行自殺性攻擊，對<nuxt-link
+            to="/building/Stone_Wall"
+            >牆</nuxt-link
           ><nuxt-link to="/building">建築物</nuxt-link
           >及攻城武器造成毀滅性的傷害，是遊戲內少數的自殺單位。
         </div>
@@ -33,8 +34,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            對於建築物和攻城武器，爆炸桶是非常適合的攻擊武器，雖然看起來爆炸桶是用爆炸來造成區域性的攻擊，但實際上並沒有，他的攻擊非常的小，與遊戲內其他有
-            <nuxt-link to="/elements/Area_of_Effect">擴散效果</nuxt-link
+            對於建築物和攻城武器，爆炸桶是非常適合的攻擊武器，雖然看起來爆炸桶是用爆炸來造成區域性的攻擊，但實際上並沒有，他的攻擊非常的小，與遊戲內其他有<nuxt-link
+              to="/elements/Area_of_Effect"
+              >擴散效果</nuxt-link
             >的單位不同。而<nuxt-link to="/units/Archer_Units"
               >遠距離兵種</nuxt-link
             >對於爆炸桶相當有威脅。
@@ -59,8 +61,7 @@
             >強太多，且速度更快，攻擊更高，也有<nuxt-link
               to="/elements/Area_of_Effect"
               >擴散效果</nuxt-link
-            >。而
-            <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+            >。而<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
             >則是價格較高，但攻擊範圍更大、速度更快。事實上，<nuxt-link
               to="/units/Demolition_Ship"
               >神風船</nuxt-link
@@ -227,8 +228,9 @@
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
-              >、近戰單位特別是
-              <nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>。
+              >、近戰單位特別是<nuxt-link to="/units/Magyar_Huszar"
+                >馬扎爾驃騎兵</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -316,8 +318,8 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速爆炸桶訓練速度和
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速爆炸桶訓練速度和<nuxt-link to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>

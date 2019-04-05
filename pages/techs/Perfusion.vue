@@ -40,8 +40,8 @@
                 >劍兵勇士</nuxt-link
               >可以快速生產，包括克制<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
-              >的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>，擁有
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >，擁有<nuxt-link to="/civs/Italians">義大利</nuxt-link
               >同盟時的<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
               >也是。(<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
               >甚至只需要3.5秒的訓練時間)

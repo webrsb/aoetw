@@ -10,12 +10,12 @@
           <p>
             <b>黑曜石之箭</b>是<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
-            ><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link>對
-            <nuxt-link to="/armor/Armor_Class_Standard_Building"
+            ><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link>對<nuxt-link
+              to="/armor/Armor_Class_Standard_Building"
               >標準建築</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_stone_defense"
               >石頭建築</nuxt-link
@@ -49,8 +49,7 @@
               >因為比較便宜仍然要優先研發，另外黑曜石之箭沒有加成到<nuxt-link
                 to="/units/Plumed_Archer"
                 >羽毛箭射手</nuxt-link
-              >。如果盟友有
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+              >。如果盟友有<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >的話弓箭手對建築物的總體攻擊會是+8(<nuxt-link to="/civs/Saracens"
                 >薩拉森</nuxt-link
               ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link

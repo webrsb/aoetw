@@ -32,23 +32,32 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
+                to="/civs/Burmese"
+                >緬甸</nuxt-link
+              >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
+                to="/civs/Celts"
+                >塞爾特</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+                to="/civs/Huns"
+                >匈奴</nuxt-link
+              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
+                to="/civs/Italians"
+                >義大利</nuxt-link
+              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+                to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -61,20 +70,28 @@
                   >不可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Britons"
+                >不列顛</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Franks"
+                >法蘭克</nuxt-link
+              >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Malay"
+                >馬來</nuxt-link
+              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
+                to="/civs/Mayans"
+                >馬雅</nuxt-link
+              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
+                to="/civs/Teutons"
+                >條頓</nuxt-link
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
+                to="/civs/Vikings"
+                >維京</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -115,9 +132,10 @@
               <nuxt-link to="/units/Spearman">槍兵</nuxt-link>系，<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
-                to="/units/Genoese_Crossbowman"
+              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，<nuxt-link
+                to="/units/Camel"
+                >駱駝騎兵</nuxt-link
+              >，<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >，大部分近戰單位
             </td>
@@ -132,12 +150,21 @@
               <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </td>
             <td class="tta4">
-              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-              <nuxt-link to="/units/Scout_Cavalry">斥候→</nuxt-link>
-              <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
-              <nuxt-link to="/units/Light_Cavalry">輕騎兵→</nuxt-link>
-              <img class="gg" src="~assets/HussarIcon.jpg" alt="" />
-              <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link> <br />
+              <img
+                class="gg"
+                src="~assets/ScoutCavalryIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Scout_Cavalry">斥候→</nuxt-link
+              ><img
+                class="gg"
+                src="~assets/LightCavalryIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Light_Cavalry">輕騎兵→</nuxt-link
+              ><img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+                to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >
+              <br />
               <img
                 class="gg"
                 src="~assets/Bloodlines.png"
@@ -279,8 +306,7 @@
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(<nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
@@ -307,8 +333,7 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -421,8 +446,7 @@
               src="~assets/CastleAgeUnique.png"
               width="22"
               alt=""
-            />
-            <nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
+            /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
             <div width="22" style="margin:12px 0px;">
               <strong>+5攻擊</strong>(<nuxt-link to="/civs/Vikings"
                 >維京</nuxt-link
@@ -440,14 +464,24 @@
                   src="~assets/ManAtArmsIcon.jpg"
                   width="22"
                   alt=""
-                />
-                <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
-                <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" />
-                <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
-                <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt="" />
-                <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
-                >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/LongswordsManIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Two-Handed_Swordsman"
+                  >雙手劍兵</nuxt-link
+                >→
+                <img
+                  class="gg"
+                  src="~assets/ChampionIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               </li>
               <li>
                 <img
@@ -455,22 +489,27 @@
                   src="~assets/SpearmanIcon.jpg"
                   alt=""
                 /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                <img
+                  class="gg"
+                  src="~assets/PikemanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </li>
               <li>
                 <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >狂戰士</nuxt-link
-                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" />
-                <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link>(<nuxt-link
-                  to="/civs/Vikings"
-                  >維京</nuxt-link
-                >限定)
+                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                  to="/units/Berserk"
+                  >精銳狂戰士</nuxt-link
+                >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
               </li>
               <li>
-                <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" />
-                <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                <img
+                  class="gg"
+                  src="~assets/CondottieroNewIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                 >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
                 >同盟的話)
               </li>
@@ -532,8 +571,8 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link
               >：匈牙利輕騎兵生產效率快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與
-              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link

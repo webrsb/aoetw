@@ -73,20 +73,15 @@
           <p></p>
           <h3>開場</h3>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>x4、<nuxt-link
-              to="/units/Light_Cavalry"
-              >輕騎兵</nuxt-link
+            軍事單位 -<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >x4、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x1、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >x4、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >（槳帆戰船）x10。
           </li>
           <li>
-            經濟單位 -
-            <nuxt-link to="/units/Villager">村民</nuxt-link>x6、<nuxt-link
-              to="/units/Fishing_Ship"
-              >漁船</nuxt-link
-            >x3。
+            經濟單位 -<nuxt-link to="/units/Villager">村民</nuxt-link
+            >x6、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>x3。
           </li>
           <p></p>
           <h2>主要任務</h2>

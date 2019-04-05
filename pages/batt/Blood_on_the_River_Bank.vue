@@ -88,8 +88,8 @@
           <p></p>
           <h3>開場</h3>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link>x1。
+            軍事單位 -<nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link
+            >x1。
           </li>
           <li>
             經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x6。

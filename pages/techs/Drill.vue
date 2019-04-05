@@ -11,8 +11,7 @@
             <b>演習</b>是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >的單位移動速度快50%。
@@ -29,8 +28,9 @@
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
               >的蒙古<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >可以移動得像輕型
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>一樣地快速。
+              >可以移動得像輕型<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >一樣地快速。
             </li>
           </ul>
         </div>

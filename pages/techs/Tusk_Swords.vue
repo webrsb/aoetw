@@ -10,8 +10,8 @@
           <p>
             <b>象牙劍</b>是<nuxt-link to="/civs/Khmer">高棉</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
             >+3攻擊。
@@ -26,10 +26,10 @@
               >的大象在象牙劍的加乘下變得除了有速度且更具殺傷力。高棉的還有全滿的<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              ><nuxt-link to="/techs">科技</nuxt-link>、
-              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>和<nuxt-link
-                to="/techs/Husbandry"
-                >畜牧培育</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link>、<nuxt-link
+                to="/techs/Bloodlines"
+                >品種</nuxt-link
+              >和<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >可以加在大象身上。如果玩家在初期想以<nuxt-link
                 to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
@@ -39,10 +39,8 @@
               >技術優先研發。但在一般情況下應該將其看作一項<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >技術並在
-              <nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和<nuxt-link
-                to="/techs/Blast_Furnace"
-                >鼓風爐</nuxt-link
+              >技術並在<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
               >研發後再研發象牙劍。
             </li>
           </ul>

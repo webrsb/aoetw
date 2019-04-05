@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>康斯塔伯理察蒙</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>康斯塔伯理察蒙</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。現實中他是被稱為“歷峰歷險記”的亞瑟·德·歷史蒙特:<nuxt-link
               to="/civs/Franks"
@@ -28,8 +28,7 @@
             >影響。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p></p>
         </div>
@@ -42,7 +41,7 @@
             <div class="col-md-4">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   width="250"
                   src="~assets/Constablerichemont.png"
                   alt=""

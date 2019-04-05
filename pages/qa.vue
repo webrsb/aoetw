@@ -46,8 +46,7 @@
                     <td>
                       <nuxt-link to="/civs/Spanish" title="西班牙帝國"
                         >西班牙</nuxt-link
-                      >，
-                      <nuxt-link
+                      >，<nuxt-link
                         to="/civs/Aztecs"
                         class="mw-redirect"
                         title="阿茲特克"
@@ -58,8 +57,7 @@
                         title="馬雅文明"
                         >馬雅</nuxt-link
                       >，<nuxt-link to="/civs/Huns" title="匈人">匈奴</nuxt-link
-                      >，
-                      <nuxt-link to="/civs/Koreans" title="李氏朝鮮"
+                      >，<nuxt-link to="/civs/Koreans" title="李氏朝鮮"
                         >韓國</nuxt-link
                       >
                     </td>
@@ -109,8 +107,7 @@
                         class="mw-redirect"
                         title="柏柏"
                         >柏柏</nuxt-link
-                      >，
-                      <nuxt-link
+                      >，<nuxt-link
                         to="/civs/Malians"
                         class="mw-redirect"
                         title="馬利"
@@ -138,16 +135,14 @@
                         class="mw-redirect"
                         title="緬甸"
                         >緬甸</nuxt-link
-                      >，
-                      <nuxt-link to="/civs/Vietnamese" title="越南"
+                      >，<nuxt-link to="/civs/Vietnamese" title="越南"
                         >越南</nuxt-link
                       >，<nuxt-link
                         to="/civs/Khmer"
                         class="mw-disambig"
                         title="高棉"
                         >高棉</nuxt-link
-                      >，
-                      <nuxt-link
+                      >，<nuxt-link
                         to="/civs/Malay"
                         class="mw-disambig"
                         title="馬來"
@@ -534,6 +529,8 @@
             </div>
           </b-collapse>
         </div>
+      </div>
+      <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.d-3 class="m-1" variant="warning"
             >4-3.為什麼斥候探路都不用Shift自動探路?</b-btn
@@ -544,6 +541,8 @@
             </div>
           </b-collapse>
         </div>
+      </div>
+      <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.d-4 class="m-1" variant="warning"
             >4-4.為什麼都不用磨坊的排隊田?</b-btn

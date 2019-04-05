@@ -11,11 +11,12 @@
             <b>信使</b>是<nuxt-link to="/civs/Incas">印加</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-            >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>護甲+1/+2。
+            >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
+              to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
+            >護甲+1/+2。
           </p>
         </div>
         <h3>戰術要點</h3>

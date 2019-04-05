@@ -92,8 +92,8 @@
             東吁勇士x6
           </p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Scout_Cavalry"
+              >斥候騎兵</nuxt-link
             >x2、<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
             >x21、<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >x6、爆破船x2、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>x2

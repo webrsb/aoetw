@@ -22,10 +22,9 @@
             >海、塔攻..之類，否則不建議在黑暗時代建造採礦營地，雖然採礦營地也是<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >的建築之一同時也只需要100木；但比起
-            <nuxt-link to="/building/Mill">磨坊</nuxt-link>和<nuxt-link
-              to="/building/Lumber_Camp"
-              >伐木場</nuxt-link
+            >的建築之一同時也只需要100木；但比起<nuxt-link to="/building/Mill"
+              >磨坊</nuxt-link
+            >和<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
             >，在前期有限的資源及人力下，採礦營地絕對不是首選。
           </p>
         </div>
@@ -98,7 +97,7 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">全部。</td>
+            <td class="tta4">全部</td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -236,8 +235,8 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
-              >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >的速度快80％。
             </li>
           </ul>
@@ -425,9 +424,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

@@ -199,7 +199,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4">全部。</td>
+              <td class="tta4">全部</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -348,8 +348,8 @@
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                   to="/techs/Masonry"
                   >磚瓦技術</nuxt-link
-                >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-                <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
+                >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >的速度快80％。
               </li>
             </ul>
@@ -402,7 +402,7 @@
               <div class="col-md-6">
                 <gallery
                   ><img
-                    class="hg"
+                    class="imgn hg"
                     width="200"
                     src="~assets/BlacksmithFeudalAgeHD.png"
                     alt=""
@@ -422,7 +422,7 @@
               <div class="col-md-6">
                 <gallery
                   ><img
-                    class="hg"
+                    class="imgn hg"
                     width="200"
                     src="~assets/Blacksmithaokaoc.png"
                     alt=""
@@ -438,7 +438,7 @@
               <div class="col-md-6">
                 <gallery
                   ><img
-                    class="hg"
+                    class="imgn hg"
                     width="200"
                     src="~assets/BlacksmithFeudalAgeDLC.png"
                     alt=""
@@ -450,7 +450,7 @@
               <div class="col-md-6">
                 <gallery
                   ><img
-                    class="hg"
+                    class="imgn hg"
                     width="200"
                     src="~assets/Blacksmith_hd.png"
                     alt=""
@@ -602,9 +602,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

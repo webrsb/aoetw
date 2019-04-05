@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>速不臺</strong>或稱<b>書部台</b>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link
+            <strong>速不臺</strong>或稱<b>書部台</b>是《世紀帝國 II
+            HD:<nuxt-link to="/games/aok">帝王世紀</nuxt-link
             >》中的一名重裝<nuxt-link to="/units/Archer_Units"
               >馬弓騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
@@ -53,9 +53,9 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>
-              <br />英雄
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              ><br />英雄
             </td>
           </tr>
           <tr>

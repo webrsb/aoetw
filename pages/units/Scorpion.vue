@@ -27,8 +27,7 @@
             >等速度慢的單位非常有效，因為速度慢的單位容易被弩砲貫穿攻擊。但弩砲對於快速的步兵，如<nuxt-link
               to="/units/Woad_Raider"
               >菘藍武士</nuxt-link
-            >、
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >表現並不是很好，因為可以快速縮短距離，並貼身攻擊。而<nuxt-link
               to="/units/Huskarl"
               >哥德衛隊</nuxt-link
@@ -36,30 +35,32 @@
             >，可以抵抗弩砲的攻擊。像大多數的<nuxt-link
               to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
-            >一樣，弩砲必須派其他單位在旁邊保護，因為弩砲速度慢容易遭受攻擊。弩砲最常與
-            <nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
+            >一樣，弩砲必須派其他單位在旁邊保護，因為弩砲速度慢容易遭受攻擊。弩砲最常與<nuxt-link
+              to="/armor/Armor_Class_Spearman"
+              >長槍兵</nuxt-link
             >搭配攻擊，可以相輔相成。這個組合在<nuxt-link to="/civs/Celts"
               >塞爾特</nuxt-link
-            >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>與
-            <nuxt-link to="/civs/Khmer">高棉</nuxt-link>特別強大。
+            >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>與<nuxt-link
+              to="/civs/Khmer"
+              >高棉</nuxt-link
+            >特別強大。
           </p>
           <p>
             如果使用得當，弩砲可以非常有威脅性，一個中等規模的弩砲可以瞬間秒殺整個<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >與
-            <nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+            >與<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
             >的軍隊，甚至可以抵抗<nuxt-link to="/units/Cavalry_Units"
               >騎兵</nuxt-link
             >的攻擊，但弩砲很怕<nuxt-link to="/units/Archer_Units"
               >遠程單位</nuxt-link
-            >，如<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>或是
-            <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
+            >，如<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >或是<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
             >。當然如果對自己的控兵有信心，用<nuxt-link
               to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
-            >也可以。當然<nuxt-link to="/units/Mangonel">投石車</nuxt-link>與
-            <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >也可以。當然<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+            >與<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >永遠是弩砲的殺手。
           </p>
         </div>
@@ -86,12 +87,12 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
-              <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
-                to="/units/Mangonel"
-                >投石車</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Archer_Units"
                 >遠距離單位</nuxt-link
@@ -432,8 +433,8 @@
             </li>
             <li>
               弩砲受<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
-              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>和
-              <nuxt-link to="/techs/Bracer">護腕</nuxt-link
+              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">護腕</nuxt-link
               >加成影響。所以總共可以+3射程和攻擊。
             </li>
             <li>
@@ -451,8 +452,8 @@
             </li>
             <li>
               弩砲不再有<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
-              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>和
-              <nuxt-link to="/techs/Bracer">護腕</nuxt-link>加成影響。
+              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">護腕</nuxt-link>加成影響。
             </li>
             <li>
               <nuxt-link to="/techs/Chemistry">化學</nuxt-link>給予+1的攻擊。
@@ -718,8 +719,11 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt="" />
-              <nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
+              <img
+                class="gg"
+                src="~assets/HeavyScorpionIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -729,8 +733,8 @@
                 class="gg"
                 src="~assets/Heavy-scorpion-research.jpg"
                 alt=""
-              />1000<nuxt-link to="/resource/Food">食物</nuxt-link>
-              1100<nuxt-link to="/resource/Wood">木材</nuxt-link>
+              />1000<nuxt-link to="/resource/Food">食物</nuxt-link
+              >1100<nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
           </tr>
           <tr>

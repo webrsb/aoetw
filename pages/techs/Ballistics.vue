@@ -12,10 +12,10 @@
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發。可讓<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
-            >、<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>、
-            <nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
-              to="/building/Watch_Tower"
-              >箭塔</nuxt-link
+            >、<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>、<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
+            >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >(包含<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
             >)和<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >對移動目標的準確率大幅上升。
@@ -170,8 +170,7 @@
               可讓弓箭手、船隻、<nuxt-link to="/building/Castle">城堡</nuxt-link
               >、箭塔(包含<nuxt-link to="/building/Bombard_Tower"
                 >火砲塔</nuxt-link
-              >)和
-              <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >)和<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
               >對移動目標的準確率大幅上升。
             </td>
           </tr>

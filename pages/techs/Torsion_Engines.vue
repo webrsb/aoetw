@@ -12,17 +12,14 @@
               >衣索比亞</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Siege_Weapons"
               >攻城單位</nuxt-link
             >的攻擊波及範圍增加。<nuxt-link to="/units/Siege_Tower"
               >攻城塔</nuxt-link
             >和<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
-            >不受影響；
-            <nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>和<nuxt-link
-              to="/units/Siege_Ram"
-              >重型衝撞車</nuxt-link
+            >不受影響；<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
+            >和<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
             >受該<nuxt-link to="/techs">科技</nuxt-link>影響。
           </p>
           <p>
@@ -39,15 +36,14 @@
           <ul>
             <li>
               扭力彈射器可讓<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-              >的波及範圍變大，彌補原本的準度不足造成的傷害下降。攻擊地面的指令可以擊中更多敵方單位，讓技術型的玩家能一擊摧毀一大群
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、<nuxt-link
-                to="/units/Archer_Units"
-                >弓箭手</nuxt-link
+              >的波及範圍變大，彌補原本的準度不足造成的傷害下降。攻擊地面的指令可以擊中更多敵方單位，讓技術型的玩家能一擊摧毀一大群<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >、<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
               >、分散的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >或是數台的<nuxt-link to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
-              >。
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+              >。<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >也受益於扭力彈射器而能更好的反制攻城武器和<nuxt-link
                 to="/units/Archer_Units"
                 >弓箭手</nuxt-link

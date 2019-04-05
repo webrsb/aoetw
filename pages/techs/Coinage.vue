@@ -13,8 +13,7 @@
             >從30%->20%。如果玩家打算將資源送給盟友，或是降低交換資源的虧損，那這項<nuxt-link
               to="/techs"
               >科技</nuxt-link
-            >會相當有用處。
-            <nuxt-link to="/techs/Banking">銀行制度</nuxt-link
+            >會相當有用處。<nuxt-link to="/techs/Banking">銀行制度</nuxt-link
             >是這項科技的下一個升級。
           </p>
         </div>

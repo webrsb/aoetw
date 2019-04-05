@@ -11,14 +11,14 @@
             <strong>斯基泰斥候</strong>是《世紀帝國II：<nuxt-link
               to="/games/aoc"
               >征服者入侵</nuxt-link
-            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-            <nuxt-link to="/units/hero">英雄</nuxt-link>，在多關<nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link>，在多關<nuxt-link
               to="/batt"
               >戰役</nuxt-link
             >中都有登場，最先登場的關卡是<nuxt-link to="/batt/Scourge_of_God"
               >上帝之鞭</nuxt-link
-            >，是有1000滴血的羅馬囚犯；在
-            <nuxt-link to="/batt/Bukhara_557">布哈拉</nuxt-link
+            >，是有1000滴血的羅馬囚犯；在<nuxt-link to="/batt/Bukhara_557"
+              >布哈拉</nuxt-link
             >戰役中則是玩家一開始就能指揮的單位。在地圖編輯器中也可以使用他。
           </p>
           <p>
@@ -77,8 +77,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -50,7 +50,10 @@
         <div class="n1">
           <ul>
             <li>
-              法蘭克是一個標準中古世紀騎兵文明，有著遊戲中最強大的騎兵(為了平衡沒有<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(舊稱血統)和便宜的城堡。
+              法蘭克是一個標準中古世紀騎兵文明，有著遊戲中最強大的騎兵(為了平衡沒有<nuxt-link
+                to="/techs/Bloodlines"
+                >品種</nuxt-link
+              >(舊稱血統)和便宜的城堡。
             </li>
             <li>
               法蘭克<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link

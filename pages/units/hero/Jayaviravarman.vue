@@ -12,8 +12,8 @@
               >步兵英雄</nuxt-link
             >，在"王者崛起"資料片的<nuxt-link to="/batt">戰役</nuxt-link
             ><nuxt-link to="/batt/Quelling_the_Rebellion">席捲入荒</nuxt-link
-            >中作為反抗
-            <nuxt-link to="/units/hero/Suryavarman_I">蘇利耶跋摩一世</nuxt-link
+            >中作為反抗<nuxt-link to="/units/hero/Suryavarman_I"
+              >蘇利耶跋摩一世</nuxt-link
             >的領導者出現，在遊戲中的外貌是<nuxt-link
               to="/units/Karambit_Warrior"
               >爪刀勇士</nuxt-link

@@ -50,7 +50,11 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="hg" width="200" src="~assets/Aoe2_goat.png" alt=""
+                ><img
+                  class="imgn hg"
+                  width="200"
+                  src="~assets/Aoe2_goat.png"
+                  alt=""
               /></gallery>
               <p><em>世紀帝國 II的山羊。</em></p>
             </div>

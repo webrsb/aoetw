@@ -84,8 +84,7 @@
           <p></p>
           <h3>開場</h3>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >x15、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
             >x2、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
             >x13、<nuxt-link to="/units/Elite_Skirmisher">精銳戰矛兵</nuxt-link
@@ -97,19 +96,18 @@
             >x3。
           </p>
           <p>
-            。 經濟單位 -
-            <nuxt-link to="/units/Villager">村民</nuxt-link>x6、<nuxt-link
-              to="/units/Fishing_Ship"
-              >漁船</nuxt-link
-            >x2。
+            。 經濟單位 -<nuxt-link to="/units/Villager">村民</nuxt-link
+            >x6、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>x2。
           </p>
           <p>
-            。 <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
-            <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>x1。
+            。
+            <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link>
+            -<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>x1。
           </p>
           <p>
-            。 大地之母單位 -
-            <nuxt-link to="/units/animal/Water_Buffalo">水牛</nuxt-link>x3。
+            。 大地之母單位 -<nuxt-link to="/units/animal/Water_Buffalo"
+              >水牛</nuxt-link
+            >x3。
           </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>

@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>洛林的約翰</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/hero"
-              >英雄</nuxt-link
+            <strong>洛林的約翰</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，可以在<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
             >第五<nuxt-link to="/batt">戰役</nuxt-link
             >"巴黎攻城戰"和戰役編輯器中找到。洛林的約翰是以馬克·吐溫的小說“聖女貞德的個人回憶”的洛林的約翰為基礎的。他被形容為“著名的砲手”，約翰二世更邀請他參與攻擊英軍的圍城行動。由於他屬於英雄單位，因此不能被<nuxt-link

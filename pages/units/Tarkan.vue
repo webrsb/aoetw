@@ -12,15 +12,15 @@
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練，當研發<nuxt-link to="/techs/untech">特殊科技</nuxt-link>
-            <nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
+            >中訓練，當研發<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
             >後則可以在<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >中生產。譯為「答剌罕騎兵」，在世紀帝國中翻成「韃靼騎兵」，是善於攻擊<nuxt-link
               to="/building"
               >建築物</nuxt-link
             >的近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-            >。韃靼騎兵可在
-            <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >。韃靼騎兵可在<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             >升級為<nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link>
           </p>
         </div>
@@ -53,13 +53,14 @@
               韃靼騎兵不善於和對方部隊接戰，尤其是像<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
-              >、<nuxt-link to="/units/Paladin">遊俠</nuxt-link>、
-              <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >、<nuxt-link to="/units/Paladin">遊俠</nuxt-link>、<nuxt-link
+                to="/units/Jaguar_Warrior"
+                >豹勇士</nuxt-link
               >等重型單位。而他們緩慢的攻擊動作（揮動火把）也讓他們在攻速上大大不如其他單位。由於<nuxt-link
                 to="/civs/Huns"
                 >匈奴人</nuxt-link
-              >有<nuxt-link to="/units/Paladin">遊俠</nuxt-link>，所以最好以
-              <nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >有<nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >，所以最好以<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >當作戰場主力。而韃靼騎兵則搭配<nuxt-link to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >使用才能發揮最大效益。
@@ -87,8 +88,7 @@
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城器單位</nuxt-link
-              >、
-              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >、<nuxt-link to="/building">建築物</nuxt-link>。
             </td>
           </tr>
@@ -96,8 +96,9 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-              >、重裝<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、
-              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+              >、重裝<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >、<nuxt-link to="/units/Genoese_Crossbowman"
+                >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
                 to="/units/Camel"
                 >駱駝騎兵</nuxt-link
@@ -267,8 +268,7 @@
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(<nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
@@ -295,8 +295,7 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -439,19 +438,24 @@
                     src="~assets/ManAtArmsIcon.jpg"
                     width="22"
                     alt=""
-                  />
-                  <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
-                  <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                  /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                  <img
+                    class="gg"
+                    src="~assets/LongswordsManIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/2HandedswordsmanIcon.jpg"
                     alt=""
-                  />
-                  <nuxt-link to="/units/Two-Handed_Swordsman"
+                  /><nuxt-link to="/units/Two-Handed_Swordsman"
                     >雙手劍兵</nuxt-link
-                  >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                  >→
+                  <img
+                    class="gg"
+                    src="~assets/ChampionIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -459,20 +463,27 @@
                     src="~assets/SpearmanIcon.jpg"
                     alt=""
                   /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                  <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                  <img
+                    class="gg"
+                    src="~assets/PikemanIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                 </li>
                 <li>
                   <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                     to="/units/Berserk"
                     >狂戰士</nuxt-link
-                  >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" />
-                  <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link
+                  >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                    to="/units/Berserk"
+                    >精銳狂戰士</nuxt-link
                   >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                 </li>
                 <li>
-                  <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" />
-                  <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                  <img
+                    class="gg"
+                    src="~assets/CondottieroNewIcon.jpg"
+                    alt=""
+                  /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                   >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
                   >同盟的話)
                 </li>
@@ -488,18 +499,17 @@
                   to="/techs/Kasbah"
                   >聚居堡壘</nuxt-link
                 >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
-                >、
-                <nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
+                >、<nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
                 >的研究時間，以及在城堡裡訓練韃靼騎兵的速度(都快25%)。
               </li>
               <li>
                 <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：在<nuxt-link
                   to="/building/Stable"
                   >馬廄</nuxt-link
-                >裡訓練的韃靼騎兵訓練時間快20%，
-                <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>與<nuxt-link
-                  to="/techs/Husbandry"
-                  >畜牧培育</nuxt-link
+                >裡訓練的韃靼騎兵訓練時間快20%，<nuxt-link
+                  to="/techs/Bloodlines"
+                  >品種</nuxt-link
+                >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
                 >研發快20%。
               </li>
               <li>
@@ -716,8 +726,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

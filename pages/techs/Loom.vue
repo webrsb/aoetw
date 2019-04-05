@@ -10,8 +10,8 @@
           <p>
             <b>織布技術</b>可於<nuxt-link to="/techs/age/Dark_Age"
               >黑暗時代</nuxt-link
-            >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
-            研發。可讓<nuxt-link to="/units/Villager">村民</nuxt-link>+15
+            >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >研發。可讓<nuxt-link to="/units/Villager">村民</nuxt-link>+15
             HP，+1/+2護甲，總共是40 HP 和+1/+2護甲。
           </p>
           <p>

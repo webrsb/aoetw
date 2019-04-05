@@ -14,8 +14,7 @@
             >，還有更多的<nuxt-link to="/techs">科技</nuxt-link>可以研發。
             玩家可以使用一系列的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >、
-            <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、<nuxt-link
               to="/units/Archer_Units"
               >弓箭手</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link
@@ -456,8 +455,8 @@
                   >，騎兵和海上文明可以開始在這個時代訓練他們的基本單位。封建時代也是軍事衝突開始發生的地方。玩家應該考慮開採<nuxt-link
                     to="/resource/Stone"
                     >石礦</nuxt-link
-                  >，準備在
-                  <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                  >，準備在<nuxt-link to="/techs/age/Castle_Age"
+                    >城堡時代</nuxt-link
                   >建造威力強大的<nuxt-link to="/building/Castle"
                     >城堡</nuxt-link
                   >。玩家也應該開始消除城鎮旁的漏洞，用圍牆或是建築搭配天然障礙物以防止其他玩家的早期攻擊。
@@ -583,8 +582,7 @@
                 src="~assets/Miningcampicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Dockicon.png"

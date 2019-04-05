@@ -10,8 +10,8 @@
           <p>
             <b>維京大戰船</b>是<nuxt-link to="/civs/Vikings">維京</nuxt-link
             >的第二個<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
-            >，在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
-            <nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >，在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >可以訓練。它是一艘會射出多重箭矢的<nuxt-link
               to="/units/Naval_Vessels"
               >戰船</nuxt-link
@@ -35,10 +35,12 @@
             >的加成而且是完整傷害，其他箭都只有1的<nuxt-link
               to="/units/Archer_Units"
               >遠程</nuxt-link
-            >傷害。維京大戰船無論精銳與否每次攻擊都是射四支箭。與
-            <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
-            >不同的維京大戰船是在同一時間發射所有箭，而不是快速連續發射。由於世界帝國II中護甲和傷害的計算後面的三發箭矢會對單位造成額外+3傷害。維京大戰船可以戰勝
-            <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+            >傷害。維京大戰船無論精銳與否每次攻擊都是射四支箭。與<nuxt-link
+              to="/units/Chu_Ko_Nu"
+              >連弩兵</nuxt-link
+            >不同的維京大戰船是在同一時間發射所有箭，而不是快速連續發射。由於世界帝國II中護甲和傷害的計算後面的三發箭矢會對單位造成額外+3傷害。維京大戰船可以戰勝<nuxt-link
+              to="/units/War_Galley"
+              >弩砲戰船</nuxt-link
             >，精銳維京大戰船可以戰勝<nuxt-link to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
             >(險勝)。維京大戰船建造速度比大多數的戰艦快，而複數數量的維京大戰船可以有效對付敵方艦隊。
@@ -47,8 +49,9 @@
             維京大戰船很怕岸邊的<nuxt-link to="/units/Mangonel"
               >投石車</nuxt-link
             >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
-            >，所以他們最好保持距離或是用速度閃過攻擊。
-            <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
+            >，所以他們最好保持距離或是用速度閃過攻擊。<nuxt-link
+              to="/units/Turtle_Ship"
+              >龜甲船</nuxt-link
             >的高護甲對維京大戰船也是個麻煩，但如果有細微的操作而且<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
@@ -116,8 +119,8 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
-              >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>、
-              <nuxt-link to="/building">建築物</nuxt-link
+              >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+              >、<nuxt-link to="/building">建築物</nuxt-link
               >、在岸邊和淺灘的陸地單位、<nuxt-link to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
               >、<nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>。
@@ -131,8 +134,7 @@
                 >龜甲船</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
               >(在淺灘處)；<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-              >、
-              <nuxt-link to="/building/Castle">城堡</nuxt-link
+              >、<nuxt-link to="/building/Castle">城堡</nuxt-link
               >、在岸邊的遠距<nuxt-link to="/units/Siege_Weapons"
                 >攻城單位</nuxt-link
               >。
@@ -360,14 +362,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -867,8 +872,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

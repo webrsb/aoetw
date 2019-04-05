@@ -41,10 +41,10 @@
               >強制徵兵</nuxt-link
             >，使得劍兵系列不用耗費<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link
-            >訓練，使得這些部隊成為後期“垃圾戰爭”中一個可行的策略，輕鬆擊敗其他垃圾單位（
-            <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>，<nuxt-link
-              to="/units/Light_Cavalry"
-              >輕騎兵</nuxt-link
+            >訓練，使得這些部隊成為後期“垃圾戰爭”中一個可行的策略，輕鬆擊敗其他垃圾單位（<nuxt-link
+              to="/units/Halberdier"
+              >戟兵</nuxt-link
+            >，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>）。
           </p>
         </div>
@@ -63,8 +63,9 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >、<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
             </td>
@@ -75,17 +76,17 @@
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、
-              <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >、
-              <nuxt-link to="/units/Conquistador">征服者</nuxt-link>、<nuxt-link
-                to="/units/Janissary"
-                >土耳其火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、
-              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
+              >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
+                to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -381,8 +382,12 @@
           </div>
           技術:以下技術會給以下單位對雙手劍兵有額外攻擊。
           <div class="n1">
-            <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            <img
+              class="gg"
+              src="~assets/Unique-tech.jpg"
+              width="22"
+              alt=""
+            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -426,11 +431,11 @@
               >：雙手劍兵便宜35％並對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+1。研發
-              <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
               >和升級劍兵勇士的速度快100%。
             </li>
             <li>
@@ -440,13 +445,14 @@
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
-              <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：雙手劍兵在帝王時代有 +3
-              <nuxt-link to="/armor">遠程護甲</nuxt-link>。
+              >：雙手劍兵在帝王時代有 +3<nuxt-link to="/armor"
+                >遠程護甲</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -572,8 +578,8 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:4.8版本引進<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >科技，雙手劍兵對
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵單位</nuxt-link
+              >科技，雙手劍兵對<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
               >有+5攻擊。
             </li>
             <li>

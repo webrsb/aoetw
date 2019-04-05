@@ -12,8 +12,7 @@
             >是《世紀帝國II：被遺忘的帝國》中的一名<nuxt-link
               to="/units/Archer_Units"
               >射手</nuxt-link
-            >
-            <nuxt-link to="/units/hero">英雄</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link
             >，在敘述他本身的<nuxt-link to="/batt">戰役</nuxt-link>，<nuxt-link
               to="/batt/Prithviraj"
               >布里斯比羅吉</nuxt-link
@@ -51,8 +50,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Archer_Units">射手</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Archer_Units">射手</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>

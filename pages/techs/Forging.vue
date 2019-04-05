@@ -10,11 +10,9 @@
           <p>
             <b>鍛造</b>可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>研發，可讓
-            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵</nuxt-link
-            >攻擊+1。
+            >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+            >研發，可讓<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>攻擊+1。
           </p>
         </div>
         <h3>文明加成</h3>

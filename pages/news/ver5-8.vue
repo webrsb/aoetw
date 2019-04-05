@@ -69,8 +69,8 @@
                 src="~assets/Karambitwarrioricon.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>
-              花費 25F 10G → 30F 15G
+              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>花費
+              25F 10G → 30F 15G
             </li>
             <li>
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
@@ -151,9 +151,9 @@
                 src="~assets/RattanarcherIcon2.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>/精銳
-              <nuxt-link to="/elements/Hit_points">血量</nuxt-link> 35/40 →
-              40/45
+              /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
+              >/精銳<nuxt-link to="/elements/Hit_points">血量</nuxt-link> 35/40
+              → 40/45
             </li>
             <li>
               <img
@@ -203,8 +203,8 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
-              >移除「騎兵」<nuxt-link to="/armor">防禦類型</nuxt-link>
-              (原本會受到 剋騎兵傷害 但有 11 防禦)，受到來自<nuxt-link
+              >移除「騎兵」<nuxt-link to="/armor">防禦類型</nuxt-link
+              >(原本會受到 剋騎兵傷害 但有 11 防禦)，受到來自<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
               >的傷害減少5點

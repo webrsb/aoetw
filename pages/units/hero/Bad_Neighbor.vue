@@ -40,8 +40,8 @@
                 href="http://tinyurl.com/yd7zm48f"
                 target="_blank"
                 >阿卡圍城戰</a
-              >中被使用，但在史實中他是由腓力二世所擁有，而不是
-              <nuxt-link to="/units/hero/Richard_the_Lionheart"
+              >中被使用，但在史實中他是由腓力二世所擁有，而不是<nuxt-link
+                to="/units/hero/Richard_the_Lionheart"
                 >獅心王查理</nuxt-link
               >。
             </li>
@@ -155,8 +155,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城器</nuxt-link>
-              (組裝前) <br />無 (組裝後)
+              <nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城器</nuxt-link
+              >(組裝前) <br />無 (組裝後)
             </td>
           </tr>
           <tr>

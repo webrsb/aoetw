@@ -11,8 +11,7 @@
             <b>槍隊長</b>是<nuxt-link to="/civs/Incas">印加</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。槍隊長是<nuxt-link to="/civs/Incas">印加</nuxt-link
             >的兩個特殊單位之一(另一個為<nuxt-link to="/units/Slinger"
               >投石手</nuxt-link
@@ -34,8 +33,9 @@
               >造成傷害且不必跑來跑去，同時可短時間內大量生產。與<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >一樣槍隊長對大象單位如
-              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>有攻擊加成。
+              >一樣槍隊長對大象單位如<nuxt-link to="/units/War_Elephant"
+                >戰象</nuxt-link
+              >有攻擊加成。
             </li>
             <li>
               槍隊長的攻擊範圍可讓他們打到<nuxt-link to="/building/Stone_Wall"
@@ -51,23 +51,23 @@
                 >步兵</nuxt-link
               >的表現也不盡人意，但他們的<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
-              >基值和開火速率都比重裝長槍兵來的高。此外，他們的+1攻擊範圍意味著他們可以對敵方步兵造成嚴重傷亡，即使對手對他們不利。槍隊長與投石手是非常好的搭配，
-              <nuxt-link to="/units/Slinger">投石手</nuxt-link
+              >基值和開火速率都比重裝長槍兵來的高。此外，他們的+1攻擊範圍意味著他們可以對敵方步兵造成嚴重傷亡，即使對手對他們不利。槍隊長與投石手是非常好的搭配，<nuxt-link
+                to="/units/Slinger"
+                >投石手</nuxt-link
               >對付敵方步兵，槍隊長則對付騎兵。也可以加進<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >反制<nuxt-link to="/armor/Armor_Class_Archer">弓箭手</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
-              >。雖然研發
-              <nuxt-link to="/techs/Couriers">信使</nuxt-link
+              >。雖然研發<nuxt-link to="/techs/Couriers">信使</nuxt-link
               >後可讓槍隊長<nuxt-link to="/armor">遠防</nuxt-link
               >+2，但還是用<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >對付弓箭手來得好。<nuxt-link to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >可輕易地擊敗槍隊長。
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >可輕易地擊敗槍隊長。<nuxt-link to="/civs/Byzantines"
+                >拜占庭</nuxt-link
               ><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>對<nuxt-link
                 to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
@@ -100,8 +100,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Cavalry_Units"
                 >騎兵單位</nuxt-link
-              >、
-              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>。
             </td>
           </tr>
@@ -109,16 +108,16 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、
-              <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
-                to="/units/Hand_Cannoneer"
-                >火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>、
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
+                to="/units/Mangonel"
+                >投石車</nuxt-link
+              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
                 to="/units/Slinger"
                 >投石手</nuxt-link
-              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、
-              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
+              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -410,8 +409,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高槍隊長的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高槍隊長的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >、<nuxt-link to="/techs/Couriers">信使</nuxt-link
               >的研究時間(快25%)。
             </li>
@@ -644,9 +644,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

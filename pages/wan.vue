@@ -53,10 +53,8 @@
             對歷史人文有興趣，去查資料後補充在頁面。例如緬甸的特殊科技<nuxt-link
               to="/techs/Manipur_Cavalry"
               >曼尼普爾騎兵</nuxt-link
-            >，實際上是位於現在的
-            <nuxt-link to="/civs/Indians">印度</nuxt-link>，且與<nuxt-link
-              to="/civs/Chinese"
-              >中國</nuxt-link
+            >，實際上是位於現在的<nuxt-link to="/civs/Indians">印度</nuxt-link
+            >，且與<nuxt-link to="/civs/Chinese">中國</nuxt-link
             >有相當大的淵源。
           </p>
           <p>
@@ -79,8 +77,10 @@
             一張圖片勝過千言萬語，為了使Aoetw更生動活潑，非常需要更多的圖片來支援。例如在<nuxt-link
               to="/units/Longbowman"
               >長弓兵</nuxt-link
-            >頁可以幫忙加入長弓兵的遊戲圖片，或是像是非洲文明的
-            <nuxt-link to="/building/Monastery">修道院</nuxt-link>其實原形來自<a
+            >頁可以幫忙加入長弓兵的遊戲圖片，或是像是非洲文明的<nuxt-link
+              to="/building/Monastery"
+              >修道院</nuxt-link
+            >其實原形來自<a
               href="https://en.wikipedia.org/wiki/Larabanga_Mosque"
               target="_blank"
               >拉拉班加清真寺</a
@@ -123,8 +123,10 @@
       <div class="hrn1"></div>
       <div class="col-md-12">
         <p>
-          版面大部分都已經設計好，參與者只需要帶入資料即可。所以即使你對網頁0基礎也是可以非常快的上手，目前全站寫超過200條目的賜齡也是0基礎，到現在已經是網頁高手。工作人員請參考：
-          <nuxt-link to="/hkbb">工作人員頁</nuxt-link>
+          版面大部分都已經設計好，參與者只需要帶入資料即可。所以即使你對網頁0基礎也是可以非常快的上手，目前全站寫超過200條目的賜齡也是0基礎，到現在已經是網頁高手。工作人員請參考：<nuxt-link
+            to="/hkbb"
+            >工作人員頁</nuxt-link
+          >
         </p>
         <p>如何編輯，可以參考下面兩部實作影片，你將會發現，非常簡單。</p>
         <div class="col-md-6">

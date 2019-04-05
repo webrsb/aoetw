@@ -11,10 +11,10 @@
             <b>修道院</b>是<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >可以蓋的<nuxt-link to="/building">建築</nuxt-link
-            >。修道院可訓練<nuxt-link to="/units/Monk">僧侶</nuxt-link>和
-            <nuxt-link to="/units/Missionary">傳教士</nuxt-link
-            >與強化他們。<nuxt-link to="/elements/Relic">遺跡</nuxt-link>
-            可放入修道院生產<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >。修道院可訓練<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+            >與強化他們。<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+            >可放入修道院生產<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >。該注意的，修道院不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
             >。
@@ -27,19 +27,19 @@
             修道院為<nuxt-link to="/units/Monk">僧侶</nuxt-link>/<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >的生產建築。由於僧侶生產很慢，但又很重要，往往用僧侶當作主力的玩家會建造至少兩座修道院。如果玩家打算在城堡時代使用僧侶快攻，他們必須有至少三個以上的修道院因為僧侶的生產速度真的很慢，移動也慢。而且必須同時研究
-            <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>和<nuxt-link
-              to="/techs/Fervor"
-              >宗教狂熱</nuxt-link
-            >
+            >的生產建築。由於僧侶生產很慢，但又很重要，往往用僧侶當作主力的玩家會建造至少兩座修道院。如果玩家打算在城堡時代使用僧侶快攻，他們必須有至少三個以上的修道院因為僧侶的生產速度真的很慢，移動也慢。而且必須同時研究<nuxt-link
+              to="/techs/Sanctity"
+              >聖潔虔誠</nuxt-link
+            >和<nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link>
             才能使進攻更有效。
           </p>
           <p>
             修道院的一些技術也有助於對付敵方僧侶或部隊（<nuxt-link
               to="/techs/Faith"
               >忠誠信仰</nuxt-link
-            >，<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>和
-            <nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+            >，<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>和<nuxt-link
+              to="/techs/Herbal_Medicine"
+              >草藥學</nuxt-link
             >），所以即使玩家不使用僧侶也建議蓋修道院。
           </p>
           <p>
@@ -345,8 +345,8 @@
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
                   to="/techs/Masonry"
                   >磚瓦技術</nuxt-link
-                >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>、
-                <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
+                >、<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >科技的時間加快80%
               </li>
             </ul>
@@ -551,9 +551,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

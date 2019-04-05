@@ -19,10 +19,10 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/MilitiaIcon.jpg" alt="" />
-              <nuxt-link to="/units/Militia">民兵→</nuxt-link>:<nuxt-link
-                to="/techs/age/Dark_Age"
-                >黑暗時代</nuxt-link
+              <img src="~assets/MilitiaIcon.jpg" alt="" /><nuxt-link
+                to="/units/Militia"
+                >民兵</nuxt-link
+              >:<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
               >唯一可以訓練的軍事單位，可有效牽制敵軍，甚至擊殺對方<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
@@ -232,9 +232,8 @@
               </div>
               <div class="col-md-4">
                 <h4>
-                  Viper vs
-                  <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>超高chip
-                  <br />標準3棒棒 <br />直城馬弓
+                  Viper vs<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+                  >超高chip <br />標準3棒棒 <br />直城馬弓
                 </h4>
                 <iframe
                   width="100%"
@@ -270,8 +269,10 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/MilitiaIcon.jpg" alt="" />
-                <nuxt-link to="/units/Militia">民兵</nuxt-link>
+                <img src="~assets/MilitiaIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Militia"
+                  >民兵</nuxt-link
+                >
               </div>
             </td>
           </tr>

@@ -103,7 +103,7 @@
           </tr>
           <tr>
             <td class="tta1">強勢(容易對抗)</td>
-            <td class="tta4">無。</td>
+            <td class="tta4">無</td>
           </tr>
           <tr>
             <td class="tta1">劣勢(不易對抗)</td>
@@ -303,9 +303,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -352,8 +351,7 @@
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                   to="/techs/Treadmill_Crane"
                   >滑輪起重機</nuxt-link
-                >，
-                <nuxt-link to="/techs/Architecture">建築學</nuxt-link
+                >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
                 >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >科技的團隊速度提高80%。
               </li>
@@ -523,7 +521,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderbritons.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wonderbritons.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -546,7 +544,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderbyzantines.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/Wonderbyzantines.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -578,7 +580,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/ROCK_OF_CASHEL_AOE2.gif" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/ROCK_OF_CASHEL_AOE2.gif"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -607,7 +613,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderchineseaoeII.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WonderchineseaoeII.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -633,7 +643,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderfranks.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wonderfranks.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -660,7 +670,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wondergoths.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wondergoths.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -684,7 +694,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderjapaneseaoeII.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WonderjapaneseaoeII.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -701,7 +715,7 @@
             <h3><span class="we">蒙古</span><strong>成吉思汗金帳</strong></h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wondermongols.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wondermongols.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -727,7 +741,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderpersianaoeII.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WonderpersianaoeII.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -757,7 +775,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wondersaracens.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wondersaracens.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -786,7 +804,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderteutons.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wonderteutons.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -815,7 +833,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderturks.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wonderturks.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -846,7 +864,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WondervikingsaoeII.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WondervikingsaoeII.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -870,7 +892,7 @@
             <div class="wimg">
               <gallery>
                 <img
-                  class="hg"
+                  class="imgn hg"
                   src="~assets/GREAT_PYRAMID_OF_TENOCHTITLAN_AOE2.gif"
                   alt=""
                 />
@@ -902,7 +924,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderhuns.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wonderhuns.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -925,7 +947,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderkorean.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wonderkorean.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -951,7 +973,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wondermayan.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wondermayan.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -971,7 +993,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderspanishaoeII.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WonderspanishaoeII.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1001,7 +1027,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderincasaoeII.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WonderincasaoeII.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1026,7 +1056,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderindiansaoeII.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WonderindiansaoeII.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1048,7 +1082,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderitalians.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wonderitalians.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1076,7 +1110,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wondermagyars.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wondermagyars.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1098,7 +1132,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Wonderslavs.jpg" alt="" />
+                <img class="imgn hg" src="~assets/Wonderslavs.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1124,7 +1158,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderBerbers.jpg" alt="" />
+                <img class="imgn hg" src="~assets/WonderBerbers.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1146,7 +1180,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderEthiopians.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WonderEthiopians.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1168,7 +1206,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderMalians.jpg" alt="" />
+                <img class="imgn hg" src="~assets/WonderMalians.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1193,7 +1231,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/WonderPortuguese.jpg" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/WonderPortuguese.jpg"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1223,7 +1265,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/ShwezigonPagoda.png" alt="" />
+                <img class="imgn hg" src="~assets/ShwezigonPagoda.png" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1249,7 +1291,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Angkorwataoe2irl.png" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/Angkorwataoe2irl.png"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1277,7 +1323,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/KalasanAOE2.jpg" alt="" />
+                <img class="imgn hg" src="~assets/KalasanAOE2.jpg" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1307,7 +1353,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="hg" src="~assets/Butthapaoe2irl.png" alt="" />
+                <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1334,7 +1380,7 @@
             <div class="wimg">
               <gallery>
                 <img
-                  class="hg"
+                  class="imgn hg"
                   src="~assets/Brihadeeswarartempleaoe2irl.png"
                   alt=""
                 />

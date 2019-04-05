@@ -294,61 +294,65 @@
           </div>
           <h2>圖庫</h2>
           <div class="hrn1"></div>
-          <div class="n1">
-            <div class="col-md-12">
+          <div class="row">
+            <div class="col-md-6">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   src="~assets/The_Old_World-01.png"
                   alt=""
                   width="100%"
               /></gallery>
               <p>
-                綠色領地的教堂旁有僧侶，可協助我方回血。<br />
-                （黃色敵軍會不定時闖入打箭塔，要小心旁邊的城鎮中心不能被破壞。）
+                <em>
+                  綠色領地的教堂旁有僧侶，可協助我方回血。<br />
+                  （黃色敵軍會不定時闖入打箭塔，要小心旁邊的城鎮中心不能被破壞。）
+                </em>
               </p>
             </div>
-            <div class="col-md-12">
+            <div class="col-md-6">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   src="~assets/The_Old_World-02.png"
                   alt=""
                   width="100%"
               /></gallery>
-              <p>阿爾巴公爵會在地圖巡邏的黃色單位之中。</p>
+              <p><em>阿爾巴公爵會在地圖巡邏的黃色單位之中。</em></p>
             </div>
-            <div class="col-md-12">
+            <div class="col-md-6">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   src="~assets/The_Old_World-03.png"
                   alt=""
                   width="100%"
               /></gallery>
               <p>
-                門多薩紅衣主教會在其中一個黃色軍營中（要留意裡面僧侶很多）。
+                <em>
+                  門多薩紅衣主教會在其中一個黃色軍營中（要留意裡面僧侶很多）。</em
+                >
               </p>
             </div>
-            <div class="col-md-12">
+            <div class="col-md-6">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   src="~assets/The_Old_World-04.png"
                   alt=""
                   width="100%"
               /></gallery>
-              <p>通往胡安勢力的橋尚未修復。</p>
+              <p><em>通往胡安勢力的橋尚未修復。</em></p>
             </div>
-            <div class="col-md-12">
+            <div class="col-md-6">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   src="~assets/The_Old_World-05.png"
                   alt=""
                   width="100%"
               /></gallery>
-              <p>灰色轉為敵對後，橋會修復，我方即可進城。</p>
+              <p><em>灰色轉為敵對後，橋會修復，我方即可進城。</em></p>
             </div>
           </div>
         </div>

@@ -279,7 +279,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4">全部。</td>
+              <td class="tta4">全部</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -436,8 +436,9 @@
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
                 >：碼頭有兩倍的HP，在封建/<nuxt-link to="/techs/age/Castle_Age"
                   >城堡</nuxt-link
-                >/帝王時代，訓練速度提高 10%/15%/20%。研發
-                <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link
+                >/帝王時代，訓練速度提高 10%/15%/20%。研發<nuxt-link
+                  to="/techs/Town_Watch"
+                  >城鎮瞭望</nuxt-link
                 >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
                 >速度在封建/<nuxt-link to="/techs/age/Castle_Age"
                   >城堡</nuxt-link
@@ -461,8 +462,8 @@
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
                   to="/techs/Masonry"
                   >磚瓦技術</nuxt-link
-                >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-                <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
+                >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >速度快80%
               </li>
               <li>
@@ -663,9 +664,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

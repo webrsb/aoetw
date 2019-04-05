@@ -12,8 +12,8 @@
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >於<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-            >研發，他給予了
-            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            >研發，他給予了<nuxt-link to="/units/Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
             >類<nuxt-link to="/armor">近防</nuxt-link>+1/<nuxt-link to="/armor"
               >遠防</nuxt-link
             >+2，額外+2或+4攻擊對<nuxt-link to="/units/Spearman"
@@ -36,16 +36,22 @@
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
+                to="/civs/Huns"
+                >匈奴</nuxt-link
+              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -58,31 +64,43 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Britons"
+                >不列顛</nuxt-link
+              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
+                to="/civs/Franks"
+                >法蘭克</nuxt-link
+              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+                to="/civs/Khmer"
+                >高棉</nuxt-link
+              >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
+                to="/civs/Teutons"
+                >條頓</nuxt-link
+              >、<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
+                to="/civs/Italians"
+                >義大利</nuxt-link
+              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
+                to="/civs/Koreans"
+                >韓國</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+                to="/civs/Malians"
+                >馬利</nuxt-link
+              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
+                to="/civs/Saracens"
+                >薩拉森</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Vietnamese"
+                >越南</nuxt-link
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -105,10 +123,16 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
-              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-              <nuxt-link to="/units/Heavy_Cavalry_Archer"
+              <img
+                class="gg"
+                src="~assets/CavalryArcherIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/HeavyCavArcherIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >
             </td>
@@ -152,8 +176,11 @@
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
-              <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-              <nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link>
+              <img
+                class="gg"
+                src="~assets/CamelArcherIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link>
             </td>
             <td class="tta2">+1/+2</td>
             <td class="tta3">+2</td>

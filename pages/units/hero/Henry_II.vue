@@ -8,18 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>亨利二世</strong>是一名可在《世紀帝國II HD：
-            <nuxt-link to="/games/ak">非洲王國</nuxt-link
+            <strong>亨利二世</strong>是一名可在《世紀帝國II HD：<nuxt-link
+              to="/games/ak"
+              >非洲王國</nuxt-link
             >》的地圖編輯器中使用的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >
-            <nuxt-link to="/units/hero">英雄</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link
             >。他的原型是<strong>英格蘭的國王亨利二世</strong>，最著名的事蹟是在百年戰爭之前奪回了<nuxt-link
               to="/civs/Britons"
               >英國</nuxt-link
             >在<nuxt-link to="/civs/Franks">法國</nuxt-link
-            >內的領地，並收回了英格蘭境內的皇家統治。在遊戲中，亨利二世以
-            <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
+            >內的領地，並收回了英格蘭境內的皇家統治。在遊戲中，亨利二世以<nuxt-link
+              to="/units/Two-Handed_Swordsman"
+              >雙手劍兵</nuxt-link
             >的外表登場。作為一個<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
@@ -54,8 +55,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>

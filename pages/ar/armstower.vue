@@ -20,8 +20,11 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/ManAtArmsIcon.jpg" width="25" alt="" />
-              <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
+              <img
+                src="~assets/ManAtArmsIcon.jpg"
+                width="25"
+                alt=""
+              /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
               >:封建初期近戰王者，不怕少量<nuxt-link to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
               >與<nuxt-link to="/units/Spearman">槍兵</nuxt-link
@@ -295,9 +298,9 @@
                 to="/civs/Japanese"
                 >日本</nuxt-link
               >
-              <br /><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
-              <br /><nuxt-link to="/civs/Incas">印加</nuxt-link>
-              <br /><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
+              <br /><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              ><br /><nuxt-link to="/civs/Incas">印加</nuxt-link
+              ><br /><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
             </td>
           </tr>
           <tr>

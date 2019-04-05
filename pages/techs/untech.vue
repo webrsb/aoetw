@@ -6,8 +6,8 @@
       <div class="col-md-12">
         <p>
           下面將列出遊戲中所有<nuxt-link to="/civs">文明</nuxt-link
-          >的<b>特殊科技</b>。F=<nuxt-link to="/resource/Food">食物</nuxt-link>
-          W=<nuxt-link to="/resource/Wood">木材</nuxt-link> G=<nuxt-link
+          >的<b>特殊科技</b>。F=<nuxt-link to="/resource/Food">食物</nuxt-link
+          >W=<nuxt-link to="/resource/Wood">木材</nuxt-link> G=<nuxt-link
             to="/resource/Gold"
             >金</nuxt-link
           >
@@ -621,8 +621,9 @@
             <td class="tunitc5">650F 400G</td>
             <td class="tunitc6">
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>對
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。

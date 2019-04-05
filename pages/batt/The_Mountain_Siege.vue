@@ -87,8 +87,7 @@
           <h3>開場</h3>
           <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x2、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >x6、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
             >x2、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>x20
@@ -152,9 +151,9 @@
               很快他們就能把山寨都包圍起來.
             </li>
             <li>
-              明朝淺藍軍以諸葛弩， 長劍士，
-              <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>，
-              <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>，
+              明朝淺藍軍以諸葛弩， 長劍士，<nuxt-link to="/units/Pikeman"
+                >重裝長槍兵</nuxt-link
+              >，<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>，
               沖車和<nuxt-link to="/units/Knight">騎士</nuxt-link>為主.
               等到明朝的援軍帶著糧草裝備殺到的話，
               他們還會把軍備都升級得更為高級， 用<nuxt-link
@@ -164,39 +163,42 @@
             </li>
           </ul>
           <h2>細節</h2>
-          <ul>
-            <li>
-              在你發展起自己的經濟與武力之前，黎來的兵馬會負擔起至靈山的主要防務。
-            </li>
-            <li>在本章節中，石礦資源一樣稀少。</li>
-            <li>
-              黎來(?-1418)以<nuxt-link to="/units/Two-Handed_Swordsman"
-                >雙手劍兵</nuxt-link
-              >形象在劇情中登場
-            </li>
-            <li>黎來將軍不會死，在一段時間後會重新出現。</li>
-            <li>
-              城門被攻破之後，會導致黎來將軍大呼小叫。但除了需要多一點點注意之外，也不到提示說的那麼可怕。
-            </li>
-            <li>
-              大越義軍(橘色)在將部隊控制權交出後就會棄權，直到你摧毀東邊的箭塔為止才會有所動作。
-            </li>
-            <li>大越義軍儘管兵敗突圍。還是會主動攻擊每個看到的敵人。</li>
-            <li>
-              不能建造攻城武器，但<nuxt-link to="/units/Mangonel"
-                >投石車</nuxt-link
-              >、弩砲不在此限。
-            </li>
-            <li>
-              至靈山位於現今清化省北部。在黎利初舉兵時，被視為重要根據地。
-            </li>
-            <li>
-              黎來(?-1418)假扮主君，幫助主君脫身的故事被視為越南版本的「紀信救主」。以民族英雄之名傳世，為越南人所紀念。歷史紀載，黎來穿上黎利的戰甲、乘其<nuxt-link
-                to="/units/War_Elephant"
-                >戰象</nuxt-link
-              >主動迎擊，遭到明軍圍攻而被俘虜後斬首。
-            </li>
-          </ul>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                在你發展起自己的經濟與武力之前，黎來的兵馬會負擔起至靈山的主要防務。
+              </li>
+              <li>在本章節中，石礦資源一樣稀少。</li>
+              <li>
+                黎來(?-1418)以<nuxt-link to="/units/Two-Handed_Swordsman"
+                  >雙手劍兵</nuxt-link
+                >形象在劇情中登場
+              </li>
+              <li>黎來將軍不會死，在一段時間後會重新出現。</li>
+              <li>
+                城門被攻破之後，會導致黎來將軍大呼小叫。但除了需要多一點點注意之外，也不到提示說的那麼可怕。
+              </li>
+              <li>
+                大越義軍(橘色)在將部隊控制權交出後就會棄權，直到你摧毀東邊的箭塔為止才會有所動作。
+              </li>
+              <li>大越義軍儘管兵敗突圍。還是會主動攻擊每個看到的敵人。</li>
+              <li>
+                不能建造攻城武器，但<nuxt-link to="/units/Mangonel"
+                  >投石車</nuxt-link
+                >、弩砲不在此限。
+              </li>
+              <li>
+                至靈山位於現今清化省北部。在黎利初舉兵時，被視為重要根據地。
+              </li>
+              <li>
+                黎來(?-1418)假扮主君，幫助主君脫身的故事被視為越南版本的「紀信救主」。以民族英雄之名傳世，為越南人所紀念。歷史紀載，黎來穿上黎利的戰甲、乘其<nuxt-link
+                  to="/units/War_Elephant"
+                  >戰象</nuxt-link
+                >主動迎擊，遭到明軍圍攻而被俘虜後斬首。
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">

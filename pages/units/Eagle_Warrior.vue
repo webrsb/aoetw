@@ -14,8 +14,8 @@
             >、 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >。 到了世紀帝國2<nuxt-link to="/games/aof">失落的帝國</nuxt-link>
-            ，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >。 到了世紀帝國2<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >便可以生產<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
             >，到了<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >可以升為 <b>鷹勇士</b> 。
@@ -30,14 +30,13 @@
             >還高，高達3，總體防禦高達5，就算在<nuxt-link
               to="/building/Town_Center"
               >城鎮中心</nuxt-link
-            >底下也可以盡情屠殺
-            <nuxt-link to="/units/Villager">村民</nuxt-link>。也是所有<nuxt-link
-              to="/units/Archer_Units"
-              >弓兵</nuxt-link
+            >底下也可以盡情屠殺<nuxt-link to="/units/Villager">村民</nuxt-link
+            >。也是所有<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >的剋星；對於近戰<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >是被克制的，但因移動速度快步兵很難打到。在
-            <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >是被克制的，但因移動速度快步兵很難打到。在<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >鷹斥侯可升為鷹勇士，鷹勇士可以說是在城堡時代最強的兵種。克制<nuxt-link
               to="/armor/Armor_Class_Archer"
               >弓兵</nuxt-link
@@ -61,30 +60,29 @@
               to="/units/Knight"
               >騎士</nuxt-link
             >，而<nuxt-link to="/units/Knight">騎士</nuxt-link
-            >量少會跟不上鷹勇士出的速度，對方也會出
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link>甚至<nuxt-link
-              to="/units/Pikeman"
-              >重裝長槍兵</nuxt-link
+            >量少會跟不上鷹勇士出的速度，對方也會出<nuxt-link to="/units/Monk"
+              >僧侶</nuxt-link
+            >甚至<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
             >反制，適時的可以配點<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
             >+ <nuxt-link to="/units/Knight">騎士</nuxt-link>，<nuxt-link
               to="/units/Scorpion"
               >弩砲</nuxt-link
             >攻擊12還有貫穿攻擊，打老鷹和<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
-            >都是不錯，重點是家裡要圍好，配合
-            <nuxt-link to="/building/Castle"></nuxt-link
+            >都是不錯，重點是家裡要圍好，配合<nuxt-link
+              to="/building/Castle"
+            ></nuxt-link
             ><nuxt-link to="/building/Castle">城堡</nuxt-link
             >與騎士，不要給鷹勇士鬧到，拖到後期，老鷹國就相對沒有城堡這麼可怕。非常不建議出<nuxt-link
               to="/units/Long_Swordsman"
               >長劍兵</nuxt-link
-            >，即使
-            <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+            >，即使<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >打鷹勇士很快，但<nuxt-link to="/units/Long_Swordsman"
               >長劍兵</nuxt-link
             >耗資源，且走的太慢，又非常怕<nuxt-link to="/units/Crossbowman"
               >弩兵</nuxt-link
-            >，對方看你這麼多
-            <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+            >，對方看你這麼多<nuxt-link to="/units/Long_Swordsman"
+              >長劍兵</nuxt-link
             >，轉<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >甚至<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
             >都可以輕易解決。
@@ -97,16 +95,14 @@
             >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>的<nuxt-link
               to="/units/Gbeto"
               >飛刀女獵手</nuxt-link
-            >、塞爾特的
-            <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link>與<nuxt-link
-              to="/civs/Ethiopians"
-              >衣索比亞</nuxt-link
-            >的<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
-            >都非常適合打鷹勇士，但說到城堡時代打鷹勇士最強的莫過於
-            <nuxt-link to="/civs/Incas">印加</nuxt-link>的<nuxt-link
-              to="/units/Slinger"
-              >投石手</nuxt-link
-            >了。
+            >、塞爾特的<nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
+            >與<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>的<nuxt-link
+              to="/units/Shotel_Warrior"
+              >彎刀勇士</nuxt-link
+            >都非常適合打鷹勇士，但說到城堡時代打鷹勇士最強的莫過於<nuxt-link
+              to="/civs/Incas"
+              >印加</nuxt-link
+            >的<nuxt-link to="/units/Slinger">投石手</nuxt-link>了。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -133,11 +129,9 @@
               <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
-              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、
-              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
-                to="/units/Slinger"
-                >投石手</nuxt-link
-              >。
+              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -294,8 +288,9 @@
         <h3>剋鷹勇士的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對鷹勇士系的額外傷害，按造傷殺力排列。一般來說，大多數的
-          <nuxt-link to="/armor/Armor_Class_Infantry">步兵單位</nuxt-link
+          以下單位擁有對鷹勇士系的額外傷害，按造傷殺力排列。一般來說，大多數的<nuxt-link
+            to="/armor/Armor_Class_Infantry"
+            >步兵單位</nuxt-link
           >都有加成。
           <div class="n1">
             <div class="row">
@@ -307,11 +302,14 @@
                       class="gg"
                       src="~assets/2HandedswordsmanIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Two-Handed_Swordsman"
+                    /><nuxt-link to="/units/Two-Handed_Swordsman"
                       >雙手劍兵</nuxt-link
-                    >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/ChampionIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -321,15 +319,18 @@
                       class="gg"
                       src="~assets/LongswordsManIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
+                    /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Crusade_avatar.png" alt="" />
-                    <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/Crusade_avatar.png"
+                      alt=""
+                    /><nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/Crusade_avatar.png"
@@ -342,8 +343,10 @@
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/WBRSK.jpg" alt="" />
-                    <nuxt-link to="/units/Woad_Raider">精銳菘藍武士</nuxt-link>
+                    <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                      to="/units/Woad_Raider"
+                      >精銳菘藍武士</nuxt-link
+                    >
                   </li>
                   <li>
                     <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
@@ -376,8 +379,7 @@
                       src="~assets/ManAtArmsIcon.jpg"
                       alt=""
                       width="22"
-                    />
-                    <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>
+                    /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
@@ -422,8 +424,7 @@
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Karambit_Warrior"
+                    /><nuxt-link to="/units/Karambit_Warrior"
                       >精銳爪刀勇士</nuxt-link
                     >
                   </li>
@@ -433,8 +434,12 @@
                       src="~assets/ShotelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
-                    >→ <img class="gg" src="~assets/ShotelIcon.png" alt="" />
-                    <nuxt-link to="/units/Shotel_Warrior"
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/ShotelIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Shotel_Warrior"
                       >精銳彎刀勇士</nuxt-link
                     >
                   </li>
@@ -456,12 +461,21 @@
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                    <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
-                    <img class="gg" src="~assets/HalberdierIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/SpearmanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/PikemanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HalberdierIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
@@ -475,8 +489,11 @@
                       src="~assets/GbetoIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>→
-                    <img class="gg" src="~assets/GbetoIcon.png" alt="" />
-                    <nuxt-link to="/units/Gbeto">精銳飛刀女獵手</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/GbetoIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Gbeto">精銳飛刀女獵手</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -551,8 +568,8 @@
               鷹勇士對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               >有+3的攻擊加成，對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
-              >和
-              <nuxt-link to="/armor/Armor_Class_Ship">船艦</nuxt-link>額外+1。
+              >和<nuxt-link to="/armor/Armor_Class_Ship">船艦</nuxt-link
+              >額外+1。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:<nuxt-link
@@ -666,9 +683,11 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link> <br />
-              <nuxt-link to="/civs/Incas">印加</nuxt-link> <br />
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link> <br /><nuxt-link
+                to="/civs/Incas"
+                >印加</nuxt-link
+              >
+              <br /><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -726,17 +745,16 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +8 vs <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>
-              <br />
+              +8 vs <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link
+              ><br />
               +3 vs<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
               <br />
-              +3 vs <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-              <br />
-              +2 vs
-              <nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link>
-              <br />
+              +3 vs <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br />
+              +2 vs<nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link
+              ><br />
               +1 vs <nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>
             </td>
           </tr>
@@ -757,9 +775,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >
             </td>

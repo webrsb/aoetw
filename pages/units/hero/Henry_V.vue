@@ -13,14 +13,13 @@
               >征服者入侵</nuxt-link
             >》的地圖編輯器中使用的<nuxt-link to="/units/Cavalry_Units"
               >騎兵</nuxt-link
-            >
-            <nuxt-link to="/units/hero">英雄</nuxt-link
-            >。他的原型是同名的英格蘭的國王亨利五世，最著名的事蹟是在
-            <nuxt-link to="/batt/Agincourt_1415">亞琴哥特（1415）</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link
+            >。他的原型是同名的英格蘭的國王亨利五世，最著名的事蹟是在<nuxt-link
+              to="/batt/Agincourt_1415"
+              >亞琴哥特（1415）</nuxt-link
             >之戰的勝利，使他幾乎成功征服<nuxt-link to="/civs/Franks"
               >法國</nuxt-link
-            >。他在遊戲中以
-            <nuxt-link to="/units/Paladin">遊俠</nuxt-link
+            >。他在遊戲中以<nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >的外表登場。作為一個<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
@@ -55,8 +54,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>

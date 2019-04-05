@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>滔天巨浪</b>為<nuxt-link to="/batt/Suryavarman_I"
               >蘇利耶跋摩一世戰役</nuxt-link
@@ -29,10 +28,9 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                600<nuxt-link to="/resource/Wood">木材</nuxt-link>／1,000
-                <nuxt-link to="/resource/Food">食物</nuxt-link>／600<nuxt-link
-                  to="/resource/Gold"
-                  >黃金</nuxt-link
+                600<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／600<nuxt-link to="/resource/Gold">黃金</nuxt-link
                 >／700<nuxt-link to="/resource/Stone">石礦</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
@@ -79,8 +77,7 @@
           <p></p>
           <h3>開場</h3>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x12、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
             >x4、<nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link
             >x1、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
@@ -93,8 +90,9 @@
             。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x5
           </p>
           <p>
-            。 <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
-            <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>x2、<nuxt-link
+            。
+            <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link>
+            -<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>x2、<nuxt-link
               to="/units/Transport_Ship"
               >運輸船</nuxt-link
             >x1、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link

@@ -215,24 +215,39 @@
         <h3>起始單位</h3>
         <ul>
           <li>
-            <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt="" />
-            <nuxt-link to="/units/Villager">村民</nuxt-link> 6
+            <img
+              class="gg"
+              src="~assets/VillagerMaleIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Villager">村民</nuxt-link> 6
           </li>
           <li>
-            <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link> 1
+            <img
+              class="gg"
+              src="~assets/LightCavalryIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link> 1
           </li>
           <li>
-            <img class="gg" src="~assets/KnightIcon.jpg" alt="" />
-            <nuxt-link to="/units/Knight">騎士</nuxt-link> 3
+            <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >
+            3
           </li>
           <li>
-            <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt="" />
-            <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link> 3
+            <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt="" /><nuxt-link
+              to="/units/Man-at-Arms"
+              >裝甲步兵</nuxt-link
+            >
+            3
           </li>
           <li>
-            <img class="gg" src="~assets/MangonelIcon.jpg" alt="" />
-            <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link> 1
+            <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><nuxt-link
+              to="/units/Mangonel"
+              >輕型投石車</nuxt-link
+            >
+            1
           </li>
         </ul>
       </div>

@@ -12,20 +12,19 @@
             >是遊戲內第一個時代，在大多數地圖開始時玩家都有三個<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
-            >(<nuxt-link to="/civs/Chinese">中國</nuxt-link>是六個、
-            <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>是四個)、一個<nuxt-link
-              to="/building/Town_Center"
+            >(<nuxt-link to="/civs/Chinese">中國</nuxt-link>是六個、<nuxt-link
+              to="/civs/Mayans"
+              >馬雅</nuxt-link
+            >是四個)、一個<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
-            >和一個<nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link>。
-            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+            >和一個<nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link
+            >。<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Mayans"
               >馬雅</nuxt-link
             >和<nuxt-link to="/civs/Incas">印加</nuxt-link
-            >因為沒有騎馬單位所以會以
-            <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>替代<nuxt-link
-              to="/units/Scout_Cavalry"
-              >斥候騎兵</nuxt-link
-            >。
+            >因為沒有騎馬單位所以會以<nuxt-link to="/units/Eagle_Scout"
+              >鷹斥候</nuxt-link
+            >替代<nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link>。
           </p>
           <p>
             斥候騎兵/<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link

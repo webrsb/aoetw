@@ -145,8 +145,11 @@
                 /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>*4
               </li>
               <li>
-                <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt="" />
-                <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>*2
+                <img
+                  class="gg"
+                  src="~assets/TrebuchetPackedIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>*2
               </li>
             </ul>
           </div>

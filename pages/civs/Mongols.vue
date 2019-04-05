@@ -26,30 +26,27 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            蒙古人最大的優勢在於
-            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>，除沒有
-            <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+            蒙古人最大的優勢在於<nuxt-link to="/units/Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >，除沒有<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
             >，他們還有完整的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            ><nuxt-link to="/techs">科技</nuxt-link>，而除了
-            <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link>，而除了<nuxt-link
+              to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
             >之外，他們也有所有的攻城武器。這意味著蒙古人在遊戲中可以使用成群的馬弓騎兵與<nuxt-link
               to="/units/Champion"
               >劍兵勇士</nuxt-link
-            >和
-            <nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>。<nuxt-link
-              to="/units/Mangudai"
-              >蒙古突騎</nuxt-link
+            >和<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
+            >。<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
             >也是相當致命兵種。總體來說，蒙古人擅長游擊與迅速的破壞，然而他們的防守也有些欠缺。因為他們的<nuxt-link
               to="/building/Watch_Tower"
               >箭塔</nuxt-link
             >只能升級一次，以及不能蓋<nuxt-link to="/building/Bombard_Tower"
               >火砲塔</nuxt-link
-            >。但蒙古人也有
-            <nuxt-link to="/units/Camel">駱駝</nuxt-link>，是除了<nuxt-link
-              to="/civs/Chinese"
-              >中國人</nuxt-link
+            >。但蒙古人也有<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >，是除了<nuxt-link to="/civs/Chinese">中國人</nuxt-link
             >與非洲中東<nuxt-link to="/civs">文明</nuxt-link
             >外，唯二有<nuxt-link to="/units/Camel">駱駝</nuxt-link>的。
           </p>
@@ -88,8 +85,8 @@
             </li>
             <li>
               <nuxt-link to="/units/Light_Cavalry"
-                ><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>與
-                <nuxt-link to="/units/Hussar"
+                ><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+                >與<nuxt-link to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 ></nuxt-link
               >+30%HP
@@ -214,8 +211,11 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />
-              <nuxt-link to="/techs/Nomads">游牧</nuxt-link> <br />
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Nomads"
+                >游牧</nuxt-link
+              >
+              <br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
                 to="/techs/Drill"
                 >演習</nuxt-link

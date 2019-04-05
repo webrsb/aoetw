@@ -10,8 +10,8 @@
           <p>
             <b>東正教</b>是<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Monk">僧侶</nuxt-link>護甲+3/+3。
           </p>
         </div>
@@ -30,8 +30,8 @@
               這很重要，因為<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
               >軍隊的三個核心部隊都是近戰部隊（<nuxt-link to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
-              >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>和
-              <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+              >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >），在很多情況下需要僧侶的支持才能在戰鬥中更加持久。諷刺的是，斯拉夫軍隊對僧侶的<nuxt-link
                 to="/elements/Conversion"
                 >招降</nuxt-link

@@ -40,7 +40,11 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="hg" width="200" src="~assets/LlamaII.png" alt=""
+                ><img
+                  class="imgn hg"
+                  width="200"
+                  src="~assets/LlamaII.png"
+                  alt=""
               /></gallery>
               <p><em>世紀帝國 II的羊駝。</em></p>
             </div>

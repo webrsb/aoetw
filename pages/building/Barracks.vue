@@ -11,8 +11,10 @@
           >，可以在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
           >被建造。同時也是<nuxt-link to="/building/Stable">馬廄</nuxt-link
           >和<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-          >的前置<nuxt-link to="/building">建築物</nuxt-link>(
-          <nuxt-link to="/civs/Khmer">高棉</nuxt-link>除外)。
+          >的前置<nuxt-link to="/building">建築物</nuxt-link>(<nuxt-link
+            to="/civs/Khmer"
+            >高棉</nuxt-link
+          >除外)。
         </div>
         <h3>可訓練的單位與技術</h3>
         <div class="hrn1"></div>
@@ -175,7 +177,7 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">全部。</td>
+            <td class="tta4">全部</td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -444,8 +446,8 @@
           <tr>
             <td class="unit3">被需要</td>
             <td class="unit4">
-              <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link><br />
-              <nuxt-link to="/building/Stable">馬廄</nuxt-link>
+              <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+              ><br /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -564,9 +566,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

@@ -147,10 +147,11 @@
           <tr>
             <td class="unit3">擴充</td>
             <td class="unit4">
-              <nuxt-link to="/games/aok">帝王世紀</nuxt-link><br />
-              <nuxt-link to="/games/aof">失落的帝國</nuxt-link><br />
-              <nuxt-link to="/games/ak">非洲王國</nuxt-link><br />
-              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link><br /><nuxt-link
+                to="/games/aof"
+                >失落的帝國</nuxt-link
+              ><br /><nuxt-link to="/games/ak">非洲王國</nuxt-link
+              ><br /><nuxt-link to="/games/aor">王者崛起</nuxt-link>
             </td>
           </tr>
         </table>
@@ -216,8 +217,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >步兵在封建時代一開始增加 25%
-              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>。
+              >步兵在封建時代一開始增加 25%<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國人</nuxt-link

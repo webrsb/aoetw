@@ -41,9 +41,8 @@
               >提供防禦，從而可以從牆後攻擊敵方單位，而不會受到來自近戰單位的攻擊。
             </li>
             <li>
-              如果玩家通過“
-              <nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>”或“
-              <nuxt-link to="/elements/Relic">遺跡</nuxt-link
+              如果玩家通過“<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >”或“<nuxt-link to="/elements/Relic">遺跡</nuxt-link
               >”尋求勝利，則垛牆將成為防禦的重要元素，因為它們將有助於阻止敵隊攻擊<nuxt-link
                 to="/building/Wonder"
                 >世界奇觀</nuxt-link
@@ -67,8 +66,7 @@
                 to="/building/Watch_Tower"
                 >箭塔</nuxt-link
               >，保護<nuxt-link to="/units/Villager">村民</nuxt-link
-              >採集資源；也可在
-              <nuxt-link to="/building/House">房屋</nuxt-link
+              >採集資源；也可在<nuxt-link to="/building/House">房屋</nuxt-link
               >旁邊圍一排牆強迫敵人走進<nuxt-link to="/building/Town_Center"
                 >城鎮中心</nuxt-link
               >的射程範圍。設置<nuxt-link to="/building/Gate">城門</nuxt-link
@@ -91,32 +89,46 @@
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
+                to="/civs/Burmese"
+                >緬甸</nuxt-link
+              >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
+                to="/civs/Celts"
+                >塞爾特</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
+                to="/civs/Incas"
+                >印加</nuxt-link
+              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
+                to="/civs/Italians"
+                >義大利</nuxt-link
+              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
+                to="/civs/Khmer"
+                >高棉</nuxt-link
+              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+                to="/civs/Malians"
+                >馬利</nuxt-link
+              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
+                to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
+                to="/civs/Saracens"
+                >薩拉森</nuxt-link
+              >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
+                to="/civs/Spanish"
+                >西班牙</nuxt-link
+              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>。<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
+                to="/civs/Vikings"
+                >維京</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -129,11 +141,13 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+                to="/civs/Huns"
+                >匈奴</nuxt-link
+              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
+                to="/civs/Malay"
+                >馬來</nuxt-link
+              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>。
             </div>
           </div>
         </div>
@@ -358,16 +372,13 @@
             <td class="unit3">護甲分類</td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>(+24)
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_stone_defense"
+              <br /><nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_wall_and_gate"
+              <br /><nuxt-link to="/armor/Armor_Class_wall_and_gate"
                 >牆與門</nuxt-link
               >
             </td>

@@ -11,11 +11,8 @@
             >帝王時代</nuxt-link
           >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
           >，對於<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
-          >較有優勢，為
-          <nuxt-link to="/civs/Indians">印度</nuxt-link>的<nuxt-link
-            to="/units/Unique_Unit"
-            >特殊單位</nuxt-link
-          >。
+          >較有優勢，為<nuxt-link to="/civs/Indians">印度</nuxt-link
+          >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
@@ -30,14 +27,14 @@
           >成為印度不可或缺的兵種之一。雖然坦度不如<nuxt-link
             to="/armor/Armor_Class_Cavalry"
             >騎兵類</nuxt-link
-          >型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊單位，卻不會受到
-          <nuxt-link to="/units/Samurai">日本武士</nuxt-link
+          >型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊單位，卻不會受到<nuxt-link
+            to="/units/Samurai"
+            >日本武士</nuxt-link
           >的攻擊加成。<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link
           >基本上你可以把他當成<nuxt-link to="/units/Paladin">遊俠</nuxt-link
           >看待。而帝王駱駝搭配<nuxt-link to="/units/Elite_Skirmisher"
             >戰矛兵</nuxt-link
-          >則是
-          <nuxt-link to="/civs/Indians">印度</nuxt-link
+          >則是<nuxt-link to="/civs/Indians">印度</nuxt-link
           >在後期簡單又威力無窮的組合。
         </div>
         <h3>更多數據</h3>
@@ -55,8 +52,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城器單位</nuxt-link
-              >、
-              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>。
             </td>
           </tr>
@@ -66,8 +62,8 @@
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
-              >、
-              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+              >、<nuxt-link to="/units/Genoese_Crossbowman"
+                >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Berserk">狂戰士</nuxt-link>。
             </td>
           </tr>
@@ -243,8 +239,7 @@
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -338,10 +333,13 @@
                       src="~assets/Watchtowericon.png"
                       width="22"
                       alt=""
-                    />
-                    <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>→
-                    <img class="gg" src="~assets/Watchtowericon.png" alt="" />
-                    <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/Watchtowericon.png"
+                      alt=""
+                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -361,8 +359,7 @@
               src="~assets/CastleAgeUnique.png"
               width="22"
               alt=""
-            />
-            <nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
+            /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
             <div width="22" style="margin:12px 0px;">
               <strong>+2攻擊</strong>(<nuxt-link to="/civs/Vikings"
                 >維京</nuxt-link
@@ -380,14 +377,24 @@
                   src="~assets/ManAtArmsIcon.jpg"
                   width="22"
                   alt=""
-                />
-                <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
-                <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" />
-                <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
-                <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt="" />
-                <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
-                >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/LongswordsManIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Two-Handed_Swordsman"
+                  >雙手劍兵</nuxt-link
+                >→
+                <img
+                  class="gg"
+                  src="~assets/ChampionIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               </li>
               <li>
                 <img
@@ -395,18 +402,20 @@
                   src="~assets/SpearmanIcon.jpg"
                   alt=""
                 /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                <img
+                  class="gg"
+                  src="~assets/PikemanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </li>
               <li>
                 <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >狂戰士</nuxt-link
-                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" />
-                <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link>(<nuxt-link
-                  to="/civs/Vikings"
-                  >維京</nuxt-link
-                >限定)
+                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                  to="/units/Berserk"
+                  >精銳狂戰士</nuxt-link
+                >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
               </li>
             </ul>
           </div>
@@ -436,8 +445,8 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link
               >：帝王駱駝騎兵生產效率快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與
-              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link
@@ -687,12 +696,12 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +18對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link>
-              <br />+9對<nuxt-link to="/armor/Armor_Class_Camel"
+              +18對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
+              ><br />+9對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝類</nuxt-link
               >
-              <br />+9對<nuxt-link to="/armor/Armor_Class_Ship">船類</nuxt-link>
-              <br />+6對<nuxt-link to="/armor/Armor_Class_Building"
+              <br />+9對<nuxt-link to="/armor/Armor_Class_Ship">船類</nuxt-link
+              ><br />+6對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >
             </td>

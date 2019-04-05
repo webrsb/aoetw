@@ -11,8 +11,7 @@
             <b>絲綢之路</b>是<nuxt-link to="/civs/Italians">義大利</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
             >、<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link>造價減半。
           </p>

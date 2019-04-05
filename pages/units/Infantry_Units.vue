@@ -11,8 +11,8 @@
             <b>步兵單位</b>是遊戲中四類軍事單位之一，另外三種分別是<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
-            >、<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link>與
-            <nuxt-link to="/units/Siege_Weapons">攻城武器單位</nuxt-link>。
+            >、<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link
+            >與<nuxt-link to="/units/Siege_Weapons">攻城武器單位</nuxt-link>。
           </p>
         </div>
         <h3>概要</h3>
@@ -38,8 +38,8 @@
               >裡面訓練，但有兩個例外，<nuxt-link to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >在研發<nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
-              >後可以在軍營訓練，而
-              <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+              >後可以在軍營訓練，而<nuxt-link to="/units/Condottiero"
+                >傭兵</nuxt-link
               >只要是<nuxt-link to="/civs/Italians">義大利</nuxt-link
               >及其同盟也可以在<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
@@ -55,8 +55,9 @@
               >。雖然大部分的步兵懼怕<nuxt-link to="/units/Archer_Units"
                 >弓兵單位</nuxt-link
               >與<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:
-              <nuxt-link to="/units/Archer">弓箭手</nuxt-link
+              >，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:<nuxt-link
+                to="/units/Archer"
+                >弓箭手</nuxt-link
               >通常可以配合<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >，而<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >則是搭配<nuxt-link to="/units/Spearman">槍兵</nuxt-link>。
@@ -85,22 +86,21 @@
             許多<nuxt-link to="/civs">文明</nuxt-link>依賴強大的步兵，<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克人</nuxt-link
-            >，<nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>，
-            <nuxt-link to="/civs/Japanese">日本人</nuxt-link>，<nuxt-link
-              to="/civs/Slavs"
-              >斯拉夫人</nuxt-link
-            >和<nuxt-link to="/civs/Vikings">維京人</nuxt-link
-            >可以說是所有文明中最強大的步兵。
-            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
-              to="/civs/Goths"
-              >哥德</nuxt-link
-            >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
-              to="/civs/Malians"
-              >馬利</nuxt-link
-            >與
-            <nuxt-link to="/civs/Teutons">條頓</nuxt-link>也是優秀的<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵文明</nuxt-link
+            >，<nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>，<nuxt-link
+              to="/civs/Japanese"
+              >日本人</nuxt-link
+            >，<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>和<nuxt-link
+              to="/civs/Vikings"
+              >維京人</nuxt-link
+            >可以說是所有文明中最強大的步兵。<nuxt-link to="/civs/Celts"
+              >塞爾特</nuxt-link
+            >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+              to="/civs/Incas"
+              >印加</nuxt-link
+            >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>與<nuxt-link
+              to="/civs/Teutons"
+              >條頓</nuxt-link
+            >也是優秀的<nuxt-link to="/units/Infantry_Units">步兵文明</nuxt-link
             >。而<nuxt-link to="/civs/Incas">印加</nuxt-link
             >是唯一有所有步兵單位和技術的文明。
           </p>
@@ -1381,7 +1381,7 @@
 
           <h3>圖庫</h3>
           <div class="hrn1"></div>
-          <div class="n1">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img

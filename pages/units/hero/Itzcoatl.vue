@@ -8,14 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>伊茲柯阿特爾</strong>是一名可在《世紀帝國II HD：
-            <nuxt-link to="/games/ak">非洲王國</nuxt-link
+            <strong>伊茲柯阿特爾</strong>是一名可在《世紀帝國II HD：<nuxt-link
+              to="/games/ak"
+              >非洲王國</nuxt-link
             >》的地圖編輯器中使用的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >
-            <nuxt-link to="/units/hero">英雄</nuxt-link
-            >。他的原型是特諾奇提特蘭的第四代統治者，在位時間為1427/1428年到1440年，此時正是墨西加人推翻特帕內克人，並最終建立
-            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link
+            >。他的原型是特諾奇提特蘭的第四代統治者，在位時間為1427/1428年到1440年，此時正是墨西加人推翻特帕內克人，並最終建立<nuxt-link
+              to="/civs/Aztecs"
+              >阿茲特克</nuxt-link
             >帝國的時期。作為一個<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
@@ -54,8 +55,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -112,8 +113,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

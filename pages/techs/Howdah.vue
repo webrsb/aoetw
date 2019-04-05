@@ -10,8 +10,8 @@
           <p>
             <b>象轎</b>是<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
             >護甲+1近戰護甲/+1<nuxt-link to="/armor">遠程護甲</nuxt-link>。
@@ -31,8 +31,8 @@
               >)，這讓矛象伕的作戰能力更上層樓。象轎研發不需要<nuxt-link
                 to="/resource/Gold"
                 >黃金</nuxt-link
-              >(不像
-              <nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              >(不像<nuxt-link to="/techs/Plate_Barding_Armor"
+                >騎兵板甲</nuxt-link
               >和<nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
               >)，所以在很多狀況下都可以優先研發。
             </li>
@@ -42,8 +42,9 @@
               >，因為他們能承受更多的炮火。另一個<nuxt-link to="/techs/untech"
                 >帝王特殊科技</nuxt-link
               ><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
-              >則讓矛象伕的每次攻擊能對
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >則讓矛象伕的每次攻擊能對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
               >有更多傷害。
             </li>
           </ul>

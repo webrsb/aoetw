@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>毀壞的石碑</b>是《世紀帝國 II HD:
-            <nuxt-link to="/games/ak">非洲王國</nuxt-link>》<nuxt-link
-              to="/batt/Yodita"
-              >優娣忒戰役</nuxt-link
+            <b>毀壞的石碑</b>是《世紀帝國 II HD:<nuxt-link to="/games/ak"
+              >非洲王國</nuxt-link
+            >》<nuxt-link to="/batt/Yodita">優娣忒戰役</nuxt-link
             >的第四個場景。<nuxt-link to="/batt">戰役</nuxt-link>中<nuxt-link
               to="/units/hero/Yodit"
               >優娣忒</nuxt-link

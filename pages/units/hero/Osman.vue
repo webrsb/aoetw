@@ -50,9 +50,9 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link>
-              <br />英雄
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+              ><br />英雄
             </td>
           </tr>
           <tr>

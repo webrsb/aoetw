@@ -10,9 +10,8 @@
           <p>
             <b>弓兵布甲</b>可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
-            研發，可讓<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
+            >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+            >研發，可讓<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
           </p>
         </div>
         <h3>文明加成</h3>

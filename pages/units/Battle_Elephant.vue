@@ -12,18 +12,17 @@
             ><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >，與<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
-            >相似但攻擊與攻擊範圍較小，不過一樣都擁有
-            <nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
+            >相似但攻擊與攻擊範圍較小，不過一樣都擁有<nuxt-link
+              to="/elements/Area_of_Effect"
+              >踐踏傷害</nuxt-link
             >的攻擊。他們移動緩慢容易受到範圍傷害的單位攻擊，也容易被<nuxt-link
               to="/units/Monk"
               >僧侶</nuxt-link
             ><nuxt-link to="/elements/Conversion">招降</nuxt-link>。
           </p>
           <p>
-            <b
-              ><i class="fas fa-check" style="color: green;"></i>可訓練文明：</b
-            >
-            <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+            <b><i class="fas fa-check" style="color: green;"></i>可訓練文明：</b
+            ><nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
               to="/civs/Vietnamese"
               >越南</nuxt-link
             >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -59,8 +58,8 @@
             >給予矛象伕+1/+1的裝甲，使他們更為耐打，且緬甸的騎兵<nuxt-link
               to="/techs"
               >科技</nuxt-link
-            >全滿。如果和有研發
-            <nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
+            >全滿。如果和有研發<nuxt-link to="/techs/Manipur_Cavalry"
+              >曼尼普爾騎兵</nuxt-link
             >的<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
             >或騎兵配合，將成為一種可怕的組合。
           </ul>
@@ -71,8 +70,9 @@
               >僧侶</nuxt-link
             >，且城堡時代的特殊科技<nuxt-link to="/techs/Tusk_Swords"
               >象牙劍</nuxt-link
-            >就可以讓矛象伕攻擊+3，攻擊達到了17，絕對是所有大象中近戰威力最強的，不過高棉沒有
-            <nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
+            >就可以讓矛象伕攻擊+3，攻擊達到了17，絕對是所有大象中近戰威力最強的，不過高棉沒有<nuxt-link
+              to="/techs/Faith"
+              >忠誠信仰</nuxt-link
             >和<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
             >。
           </ul>
@@ -82,14 +82,13 @@
             >大象便宜30%，讓他們成為城堡時代就可以大量生產大象，配合馬來的<nuxt-link
               to="/units/Crossbowman"
               >弩兵</nuxt-link
-            >與
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >與<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >可以給敵人很大的壓力，但馬來既沒有<nuxt-link to="/techs/Bloodlines"
               >品種</nuxt-link
             >也沒有<nuxt-link to="/techs/Chain_Barding_Armor"
               >騎兵鎖甲</nuxt-link
-            >，不過因為造價便宜，而且馬來有
-            <nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
+            >，不過因為造價便宜，而且馬來有<nuxt-link to="/techs/Faith"
+              >忠誠信仰</nuxt-link
             >和<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
             >，後期用矛象伕海也是一個不錯的打法。
           </ul>
@@ -99,8 +98,9 @@
             >是血量最多的矛象伕，雖然缺乏<nuxt-link to="/techs/Blast_Furnace"
               >鼓風爐</nuxt-link
             >，但有<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
-            >、防禦也全滿，可以充當肉盾來保護越南優秀的弓箭手。不過越南的矛象伕走的非常慢，因為沒有
-            <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+            >、防禦也全滿，可以充當肉盾來保護越南優秀的弓箭手。不過越南的矛象伕走的非常慢，因為沒有<nuxt-link
+              to="/techs/Husbandry"
+              >畜牧培育</nuxt-link
             >。
           </ul>
           <p>
@@ -108,13 +108,13 @@
               to="/resource/Gold"
               >黃金</nuxt-link
             >無虞下，其功能取代了<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-            >。在東南亞有象的國家出現後，世界頂尖高手團戰，自選文明時已不再只會出現
-            <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
-              to="/civs/Persians"
-              >波斯</nuxt-link
-            >和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>等<nuxt-link
-              to="/units/Paladin"
-              >遊俠</nuxt-link
+            >。在東南亞有象的國家出現後，世界頂尖高手團戰，自選文明時已不再只會出現<nuxt-link
+              to="/civs/Huns"
+              >匈奴</nuxt-link
+            >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>和<nuxt-link
+              to="/civs/Spanish"
+              >西班牙</nuxt-link
+            >等<nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >國家，而會改選東南亞文明。
           </p>
         </div>
@@ -146,8 +146,8 @@
               >、 <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
                 to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>、
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
               >、和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
@@ -206,8 +206,7 @@
                 >曼尼普爾騎兵</nuxt-link
               >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
-              >和
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定 <br />
               <img
@@ -359,8 +358,7 @@
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(<nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
@@ -380,8 +378,7 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -501,8 +498,7 @@
               src="~assets/CastleAgeUnique.png"
               width="22"
               alt=""
-            />
-            <nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
+            /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
             <div width="22" style="margin:12px 0px;">
               <strong>+5攻擊</strong>(<nuxt-link to="/civs/Vikings"
                 >維京</nuxt-link
@@ -520,14 +516,24 @@
                   src="~assets/ManAtArmsIcon.jpg"
                   width="22"
                   alt=""
-                />
-                <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
-                <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" />
-                <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
-                <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt="" />
-                <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
-                >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/LongswordsManIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Two-Handed_Swordsman"
+                  >雙手劍兵</nuxt-link
+                >→
+                <img
+                  class="gg"
+                  src="~assets/ChampionIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               </li>
               <li>
                 <img
@@ -535,22 +541,27 @@
                   src="~assets/SpearmanIcon.jpg"
                   alt=""
                 /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                <img
+                  class="gg"
+                  src="~assets/PikemanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </li>
               <li>
                 <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >狂戰士</nuxt-link
-                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" />
-                <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link>(<nuxt-link
-                  to="/civs/Vikings"
-                  >維京</nuxt-link
-                >限定)
+                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                  to="/units/Berserk"
+                  >精銳狂戰士</nuxt-link
+                >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
               </li>
               <li>
-                <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" />
-                <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                <img
+                  class="gg"
+                  src="~assets/CondottieroNewIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                 >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
                 >同盟的話)
               </li>
@@ -597,8 +608,8 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link
               >：矛象伕生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與
-              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -724,10 +735,12 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link> <br />
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link> <br />
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link> <br />
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link> <br /><nuxt-link
+                to="/civs/Khmer"
+                >高棉</nuxt-link
+              >
+              <br /><nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              <br /><nuxt-link to="/civs/Malay">馬來</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -813,8 +826,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_War_Elephant"
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_War_Elephant"
                 >戰象</nuxt-link
               >
             </td>

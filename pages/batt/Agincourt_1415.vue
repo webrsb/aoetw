@@ -268,7 +268,9 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td><nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link></td>
+            <td>
+              <nuxt-link to="/batt/Lepanto_1571">勒班陀（1571）</nuxt-link>
+            </td>
           </tr>
         </table>
 
@@ -280,29 +282,23 @@
                 <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
               </div>
               <div style="margin-left: 60px;">
-                維基百科的亞琴哥特戰役與亨利五世
-                <div style="margin-left: 10px;">
-                  <i
-                    ><b
-                      ><a
-                        href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%91%E5%BA%93%E5%B0%94%E6%88%98%E5%BD%B9"
-                        target="_blank"
-                        >亞琴哥特</a
-                      ></b
-                    ></i
-                  >
-                </div>
-                <div style="margin-left: 10px;">
-                  <i
-                    ><b
-                      ><a
-                        href="https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%94%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
-                        target="_blank"
-                        >亨利五世</a
-                      ></b
-                    ></i
-                  >
-                </div>
+                維基百科的<i
+                  ><b
+                    ><a
+                      href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%91%E5%BA%93%E5%B0%94%E6%88%98%E5%BD%B9"
+                      target="_blank"
+                      >亞琴哥特戰役</a
+                    ></b
+                  ></i
+                >與<i
+                  ><b
+                    ><a
+                      href="https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%94%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
+                      target="_blank"
+                      >亨利五世</a
+                    ></b
+                  ></i
+                >
               </div>
             </div>
           </div>

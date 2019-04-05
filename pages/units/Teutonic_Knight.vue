@@ -11,8 +11,7 @@
             <b>條頓武士</b>是<nuxt-link to="/civs/Teutons">條頓</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。條頓武士是一個移動緩慢，配有高裝甲及高<nuxt-link
               to="/elements/Attack"
               >攻擊力</nuxt-link
@@ -37,8 +36,7 @@
                 >重裝長槍兵</nuxt-link
               >更輕易地擊敗完全升級的<nuxt-link to="/units/Paladin"
                 >遊俠</nuxt-link
-              >，但
-              <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >，但<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >的CP值還是較高。
             </li>
             <li>
@@ -47,14 +45,12 @@
               >讓他們在任何1V1的戰鬥中都可輕鬆獲勝。然而在面對如<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >、
-              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              >、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
               >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
               >；或是一群對他們有攻擊加成的步兵單位如<nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
-              >或
-              <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >或<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
               >，條頓武士還是得俯首稱臣。
             </li>
             <li>
@@ -79,17 +75,16 @@
               >。他們可以支援條頓騎士面對幾乎任何威脅。<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >和
-              <nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >和<nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >攻擊弓箭手，<nuxt-link to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
               >可以提供庇護和分散敵方單位注意。<nuxt-link
                 to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
-              >也可以對付敵方遠程單位。對這個組合來說，最大的威脅也是對方的攻城武器，特別是
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>和<nuxt-link
-                to="/units/Mangonel"
-                >投石車</nuxt-link
+              >也可以對付敵方遠程單位。對這個組合來說，最大的威脅也是對方的攻城武器，特別是<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >和<nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >，因為它們能在條頓武士碰到它們前就給予部隊極大傷害。
             </li>
           </ul>
@@ -118,11 +113,12 @@
               <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
-              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
               >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
-              >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>、
-              <nuxt-link to="/units/Slinger">投石手</nuxt-link>和<nuxt-link
+              >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>和<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >。
@@ -376,8 +372,12 @@
         </div>
         以下技術可讓以下單位對條頓武士有額外攻擊力
         <div class="n1">
-          <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          <img
+            class="gg"
+            src="~assets/Unique-tech.jpg"
+            width="22"
+            alt=""
+          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -403,8 +403,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高條頓武士的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高條頓武士的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
@@ -647,9 +648,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

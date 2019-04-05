@@ -47,13 +47,21 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="hg" width="250" src="~assets/Zebrahunt.png" alt=""
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Zebrahunt.png"
+                  alt=""
               /></gallery>
               <p><em>世紀帝國II中村民正狩獵斑馬群。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
-                ><img class="hg" width="200" src="~assets/AOE2Zebra.png" alt=""
+                ><img
+                  class="imgn hg"
+                  width="200"
+                  src="~assets/AOE2Zebra.png"
+                  alt=""
               /></gallery>
               <p><em>世紀帝國II的斑馬。</em></p>
             </div>

@@ -100,8 +100,9 @@
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
-              >、近戰單位特別是
-              <nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>。
+              >、近戰單位特別是<nuxt-link to="/units/Magyar_Huszar"
+                >馬扎爾驃騎兵</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -643,11 +644,10 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +150 vs
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              +150 vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >(每1個步兵進駐攻擊+10，最多+40) <br />+50 vs
-              <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+              >(每1個步兵進駐攻擊+10，最多+40) <br />+50 vs<nuxt-link
+                to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
             </td>
@@ -674,8 +674,8 @@
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>(+1)
+              <br /><nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link
+              >(+1)
             </td>
           </tr>
           <tr>

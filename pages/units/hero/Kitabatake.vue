@@ -13,8 +13,9 @@
               to="/armor/Armor_Class_Infantry"
               >步兵</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link
-            >。他的原型是北畠親房，除了宮廷貴族的身分外，同時也是史家和著作家。雖然他的著作中含有個人的偏頗及政治動機，但卻是現存中最詳細的。在遊戲中北畠將軍是數值更強的
-            <nuxt-link to="/units/Samurai">日本武士</nuxt-link
+            >。他的原型是北畠親房，除了宮廷貴族的身分外，同時也是史家和著作家。雖然他的著作中含有個人的偏頗及政治動機，但卻是現存中最詳細的。在遊戲中北畠將軍是數值更強的<nuxt-link
+              to="/units/Samurai"
+              >日本武士</nuxt-link
             >。由於他屬於英雄單位，所以無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
@@ -104,8 +105,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
               <br />

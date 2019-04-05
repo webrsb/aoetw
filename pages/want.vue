@@ -36,8 +36,9 @@
                   href="https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html"
                   target="_blank"
                   >常見問題</a
-                >所整理，日後可不斷更新。目前架構已經完成，
-                <nuxt-link to="/qa">前往頁面</nuxt-link>。
+                >所整理，日後可不斷更新。目前架構已經完成，<nuxt-link to="/qa"
+                  >前往頁面</nuxt-link
+                >。
               </li>
               <li><strong>記錄檔區</strong>：收集世界各國好手記錄</li>
               <li><strong>戰術討論區</strong>：將會收錄ptt世紀版的高手文章</li>

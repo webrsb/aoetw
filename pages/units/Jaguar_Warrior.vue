@@ -11,8 +11,7 @@
             <b>豹勇士</b>是<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。豹勇士是一個配備高護甲和對<nuxt-link
               to="/armor/Armor_Class_Infantry"
               >步兵單位</nuxt-link
@@ -36,8 +35,8 @@
               >的戰鬥外都能輕鬆獲勝，若是一群豹勇士的話連<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
-              >都不是對手。但在對付
-              <nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
+              >都不是對手。但在對付<nuxt-link to="/units/Archer_Units"
+                >弓兵單位</nuxt-link
               >和<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >上則顯得吃力
             </li>
@@ -52,10 +51,10 @@
               >也有極佳的反制效果。豹勇士對<nuxt-link
                 to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
-              >的加成也能保護鷹勇士，兩者可說相輔相成。搭配上
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link>在<nuxt-link
-                to="/techs/age/Castle_Age"
-                >城堡時代</nuxt-link
+              >的加成也能保護鷹勇士，兩者可說相輔相成。搭配上<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
               >的阿茲軍隊是令人聞風為之喪膽的。
             </li>
             <li>
@@ -63,12 +62,11 @@
                 >火槍兵</nuxt-link
               >是在戰場上比較需要注意的，可以生產<nuxt-link to="/units/Onager"
                 >中型投石車</nuxt-link
-              >或
-              <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
+              >或<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >作反制。對上<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
               >阿茲雖然沒有<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-              >但有高攻擊的
-              <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>替代。
+              >但有高攻擊的<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >替代。
             </li>
             <li>
               豹勇士面對<nuxt-link to="/units/Samurai">日本武士</nuxt-link
@@ -110,16 +108,18 @@
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
-              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
-                to="/units/Boyar"
-                >貴族鐵騎</nuxt-link
-              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、
-              <nuxt-link to="/units/Conquistador">征服者</nuxt-link>、<nuxt-link
-                to="/units/Janissary"
-                >土耳其火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、
-              <nuxt-link to="/units/Knight">騎士</nuxt-link>。
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Cataphract"
+                >聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
+                to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -379,8 +379,12 @@
         </div>
         以下技術可讓以下單位對豹勇士有額外攻擊力
         <div class="n1">
-          <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          <img
+            class="gg"
+            src="~assets/Unique-tech.jpg"
+            width="22"
+            alt=""
+          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -416,8 +420,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高豹勇士的生產速度還有加速
-              <nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
+              >能夠提高豹勇士的生產速度還有加速<nuxt-link
+                to="/techs/Garland_Wars"
+                >榮冠戰爭</nuxt-link
               >和<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >的研究時間(快25%)。
             </li>
@@ -425,8 +430,9 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
             </li>
             <li>
@@ -629,9 +635,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

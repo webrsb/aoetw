@@ -60,11 +60,11 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-            <td class="tta4">無。</td>
+            <td class="tta4">無</td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">任何東西。</td>
+            <td class="tta4">任何東西</td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -255,14 +255,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -545,10 +548,12 @@
                 >封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
-              >提高10/15/20%，
-              <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >的研究速度在城堡/帝王提高15/20％。研究
-              <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>的速度快20％。
+              >提高10/15/20%，<nuxt-link to="/techs/Careening"
+                >傾側維修術</nuxt-link
+              >的研究速度在城堡/帝王提高15/20％。研究<nuxt-link
+                to="/techs/Dry_Dock"
+                >旱碼頭</nuxt-link
+              >的速度快20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -623,8 +628,7 @@
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >的貿易商旅當研發<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
-              >和
-              <nuxt-link to="/techs/Caravan">大商隊</nuxt-link
+              >和<nuxt-link to="/techs/Caravan">大商隊</nuxt-link
               >會是遊戲中最快的單位，移動速度達2.0547！
             </li>
           </ul>

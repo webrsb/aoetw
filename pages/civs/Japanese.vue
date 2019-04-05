@@ -352,8 +352,8 @@
                 <br />
                 京都(敵對)
                 <div class="p3"></div>
-                <br />
-                <nuxt-link to="/units/hero/Nobunaga">織田信長</nuxt-link>(友軍)
+                <br /><nuxt-link to="/units/hero/Nobunaga">織田信長</nuxt-link
+                >(友軍)
                 <div class="p4"></div>
                 <br />
                 靜岡(敵對)

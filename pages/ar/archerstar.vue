@@ -23,8 +23,9 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/ArcherIcon.jpg" alt="" />
-              <nuxt-link to="/units/Archer">弓兵→</nuxt-link
+              <img src="~assets/ArcherIcon.jpg" alt="" /><nuxt-link
+                to="/units/Archer"
+                >弓兵</nuxt-link
               >:俗稱小弓，<nuxt-link to="/techs/age/Feudal_Age"
                 >封建時代</nuxt-link
               >能有效擊殺對方<nuxt-link to="/units/Villager">村民</nuxt-link
@@ -199,8 +200,9 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="45" src="~assets/ArcherIcon.jpg" alt="" />
-                <nuxt-link to="/units/Archer"></nuxt-link>
+                <img width="45" src="~assets/ArcherIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Archer"
+                ></nuxt-link>
               </div>
             </td>
           </tr>

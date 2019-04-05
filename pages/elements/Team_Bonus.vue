@@ -168,8 +168,8 @@
               <li>
                 <nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
                 >便宜50％。<nuxt-link to="/building/Stone_Wall">石牆</nuxt-link
-                >-2石
-                <nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>-1木
+                >-2石<nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link
+                >-1木
               </li>
             </ul>
             <strong><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：</strong>

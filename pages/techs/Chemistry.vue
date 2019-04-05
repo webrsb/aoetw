@@ -11,8 +11,7 @@
             <b>化學</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
-            >研發。研發後可生產
-            <nuxt-link to="/units/Gunpowder_Unit"></nuxt-link
+            >研發。研發後可生產<nuxt-link to="/units/Gunpowder_Unit"></nuxt-link
             ><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
             >（除了<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
               to="/civs/Aztecs"
@@ -23,10 +22,8 @@
             >外）。<nuxt-link to="/units/Siege_Weapons"></nuxt-link
             ><nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >、<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
-            >和防禦建築(如
-            <nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
-              to="/building/Watch_Tower"
-              >箭塔</nuxt-link
+            >和防禦建築(如<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >、<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >)+1攻擊。
           </p>

@@ -737,8 +737,7 @@
                 bgcolor="#E0E0E0"
               >
                 <p class="unititle">
-                  <br />
-                  <nuxt-link to="/building/Farm">農田</nuxt-link
+                  <br /><nuxt-link to="/building/Farm">農田</nuxt-link
                   >可以提供穩定的食物，放置位置由玩家決定，所以易於收集且安全。<br />
                   建造後所擁有的食物是固定的，但通過<nuxt-link
                     to="/building/Mill"
@@ -803,8 +802,8 @@
                     >碼頭</nuxt-link
                   >），<nuxt-link to="/building/Dock">碼頭</nuxt-link
                   >所生產之<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-                  >可以在海上捕魚。<br />
-                  <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+                  >可以在海上捕魚。<br /><nuxt-link to="/techs/age/Dark_Age"
+                    >黑暗時代</nuxt-link
                   >即可建造<nuxt-link to="/building/Dock">碼頭</nuxt-link
                   >生產<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
                   >，消耗75<nuxt-link to="/resource/Wood">木材</nuxt-link

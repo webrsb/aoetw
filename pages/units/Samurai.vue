@@ -11,8 +11,7 @@
             <b>日本武士</b>是<nuxt-link to="/civs/Japanese">日本</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。日本武士是一個對<nuxt-link
               to="/armor/Armor_Class_Unique_Unit"
               >特殊單位</nuxt-link
@@ -33,8 +32,7 @@
               >中的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >（<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
               >的<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
-              >和帝王時代的
-              <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+              >和帝王時代的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
               >）要遜色一些，<nuxt-link to="/civs/Japanese">日本</nuxt-link
               ><nuxt-link to="/civs">文明</nuxt-link>利益對步兵的<nuxt-link
                 to="/elements/Rate_of_Fire"
@@ -48,8 +46,7 @@
               日本武士天生具有比大多數步兵更快的攻擊速度，再結合日本文明利益25％更快的攻擊速度，讓他們攻擊如閃電般的快速。然而，在面對<nuxt-link
                 to="/units/Cataphract"
                 >聖騎兵</nuxt-link
-              >、
-              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >這些特殊單位仍是十分頭痛，對<nuxt-link to="/units/Knight"
                 >騎士</nuxt-link
               >和<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
@@ -59,10 +56,8 @@
               日本武士搭配<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >可有效對付<nuxt-link to="/units/Knight">騎士</nuxt-link
               >，不過面對<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-              >還是需要
-              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>和<nuxt-link
-                to="/units/Archer_Units"
-                >遠程單位</nuxt-link
+              >還是需要<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
+              >和<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
               >協助(日本<nuxt-link to="/building/Archery_Range"
                 >射箭場</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>全滿)。
@@ -347,8 +342,12 @@
           </div>
           技術:以下技術會給以下單位對日本武士有額外攻擊。
           <div class="n1">
-            <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            <img
+              class="gg"
+              src="~assets/Unique-tech.jpg"
+              width="22"
+              alt=""
+            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -385,16 +384,19 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高日本武士的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高日本武士的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -637,9 +639,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

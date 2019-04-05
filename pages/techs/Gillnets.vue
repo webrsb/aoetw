@@ -10,8 +10,8 @@
           <p>
             <b>流刺網</b>於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >在<nuxt-link to="/building/Dock">碼頭</nuxt-link> 研發。研發後
-            <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+            >在<nuxt-link to="/building/Dock">碼頭</nuxt-link>
+            研發。研發後<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
             >工作速度+25%。這讓<nuxt-link to="/units/Fishing_Ship"
               >漁船</nuxt-link
             >捕魚和從<nuxt-link to="/building/Fish_Trap">漁網</nuxt-link

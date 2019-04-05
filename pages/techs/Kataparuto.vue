@@ -11,8 +11,7 @@
             <b>彈射器</b>是<nuxt-link to="/civs/Japanese">日本</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
             >組裝拆解(快4倍)和開火的速率(快33%)都加快。
           </p>

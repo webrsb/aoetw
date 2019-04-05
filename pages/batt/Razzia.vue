@@ -76,8 +76,7 @@
           <p></p>
           <h3>開場</h3>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+            軍事單位 -<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>x5、<nuxt-link
@@ -87,8 +86,7 @@
             >x10、<nuxt-link to="/units/Knight">騎士</nuxt-link>x2。
           </li>
           <li>
-            大地之母 -
-            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            大地之母 -<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >x1、<nuxt-link to="/units/Villager">村民</nuxt-link>x5。
           </li>
           <p></p>

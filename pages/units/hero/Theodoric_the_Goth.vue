@@ -11,13 +11,11 @@
             <strong>哥德人狄奧多利克</strong>是《世紀帝國II》中的一名<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >
-            <nuxt-link to="/units/hero">英雄</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link
             >，只能在地圖編輯器中使用。實際上他在<nuxt-link
               to="/batt/All_Roads_Lead_to_a_Besieged_City"
               >條條大路通圍城</nuxt-link
-            >和
-            <nuxt-link to="/batt/Legionaries_on_the_Horizon"
+            >和<nuxt-link to="/batt/Legionaries_on_the_Horizon"
               >羅馬軍團隨時殺到</nuxt-link
             >這兩關中出現，不過名稱被改為<nuxt-link to="/batt/Alaric"
               >阿拉里克</nuxt-link
@@ -110,8 +108,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

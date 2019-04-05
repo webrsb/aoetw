@@ -143,9 +143,10 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/ArcherIcon.jpg" />
-              <nuxt-link to="/units/Archer">弓兵</nuxt-link>
-              <i class="fas fa-arrow-down"></i>
+              <img class="gg" src="~assets/ArcherIcon.jpg" /><nuxt-link
+                to="/units/Archer"
+                >弓兵</nuxt-link
+              ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
               <img class="gg" src="~assets/SkirmisherIcon.jpg" />
@@ -162,46 +163,52 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/CrossbowmanIcon.jpg" />
-              <nuxt-link to="/units/Crossbowman">
-                <div><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link></div>
-              </nuxt-link>
-              <i class="fas fa-arrow-down"></i>
+              <img class="gg" src="~assets/CrossbowmanIcon.jpg" /><nuxt-link
+                to="/units/Crossbowman"
+              >
+                <div>
+                  <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>
+                </div> </nuxt-link
+              ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/EliteSkirmisherIcon.jpg" />
-              <nuxt-link to="/units/Elite_Skirmisher">
+              <img class="gg" src="~assets/EliteSkirmisherIcon.jpg" /><nuxt-link
+                to="/units/Elite_Skirmisher"
+              >
                 <div>
                   <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
-                </div>
-              </nuxt-link>
-              <i class="fas fa-arrow-down"></i>
+                </div> </nuxt-link
+              ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/CavalryArcherIcon.jpg" />
-              <nuxt-link to="/units/Cavalry_Archer">
+              <img class="gg" src="~assets/CavalryArcherIcon.jpg" /><nuxt-link
+                to="/units/Cavalry_Archer"
+              >
                 <div>
                   <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
-                </div>
-              </nuxt-link>
-              <i class="fas fa-arrow-down"></i>
+                </div> </nuxt-link
+              ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm not">
-              <img class="gg" src="~assets/Slingericon.png" />
-              <nuxt-link to="/units/Slinger">
+              <img class="gg" src="~assets/Slingericon.png" /><nuxt-link
+                to="/units/Slinger"
+              >
                 <div><nuxt-link to="/units/Slinger">投石手</nuxt-link></div>
               </nuxt-link>
             </td>
             <td class="t15 trm not">
-              <img class="gg" src="~assets/GenitourIcon.jpg" />
-              <nuxt-link to="/units/Genitour">
-                <div><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link></div>
-              </nuxt-link>
-              <i class="fas fa-arrow-down"></i>
+              <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+                to="/units/Genitour"
+              >
+                <div>
+                  <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
+                </div> </nuxt-link
+              ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/Thumb_Ring.png" />
-              <nuxt-link to="/techs/Thumb_Ring">
+              <img class="gg" src="~assets/Thumb_Ring.png" /><nuxt-link
+                to="/techs/Thumb_Ring"
+              >
                 <div><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link></div>
               </nuxt-link>
             </td>
@@ -211,14 +218,17 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/ArbalestIcon.jpg" />
-              <nuxt-link to="/units/Arbalest">
+              <img class="gg" src="~assets/ArbalestIcon.jpg" /><nuxt-link
+                to="/units/Arbalest"
+              >
                 <div><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link></div>
               </nuxt-link>
             </td>
             <td class="t15 trm not">
-              <img class="gg" src="~assets/Imperialskirmishericon.png" />
-              <nuxt-link to="/units/Imperial_Skirmisher">
+              <img
+                class="gg"
+                src="~assets/Imperialskirmishericon.png"
+              /><nuxt-link to="/units/Imperial_Skirmisher">
                 <div>
                   <nuxt-link to="/units/Imperial_Skirmisher"
                     >帝王戰矛兵</nuxt-link
@@ -227,8 +237,9 @@
               </nuxt-link>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" />
-              <nuxt-link to="/units/Heavy_Cavalry_Archer">
+              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" /><nuxt-link
+                to="/units/Heavy_Cavalry_Archer"
+              >
                 <div>
                   <nuxt-link to="/units/Heavy_Cavalry_Archer"
                     >重裝馬弓騎兵</nuxt-link
@@ -237,24 +248,27 @@
               </nuxt-link>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/HandCannoneerIcon.jpg" />
-              <nuxt-link to="/units/Hand_Cannoneer">
+              <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><nuxt-link
+                to="/units/Hand_Cannoneer"
+              >
                 <div>
                   <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
                 </div>
               </nuxt-link>
             </td>
             <td class="t15 trm not">
-              <img class="gg" src="~assets/GenitourIcon.jpg" />
-              <nuxt-link to="/units/Genitour">
+              <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+                to="/units/Genitour"
+              >
                 <div>
                   <nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link>
                 </div>
               </nuxt-link>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/Parthian-Tactics.jpg" />
-              <nuxt-link to="/techs/Parthian_Tactics">
+              <img class="gg" src="~assets/Parthian-Tactics.jpg" /><nuxt-link
+                to="/techs/Parthian_Tactics"
+              >
                 <div>
                   <nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
                 </div>
@@ -713,8 +727,10 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t23 trm not">
-              <img class="gg" src="~assets/Croprotation.jpg" alt="" />
-              <nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>
+              <img class="gg" src="~assets/Croprotation.jpg" alt="" /><nuxt-link
+                to="/techs/Crop_Rotation"
+                >輪耕</nuxt-link
+              >
             </td>
             <td class="t23 trm"></td>
             <td class="t23 trm"></td>

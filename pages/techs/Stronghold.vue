@@ -10,8 +10,8 @@
           <p>
             <b>堡壘</b>是<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >發。研發後<nuxt-link to="/building/Castle">城堡</nuxt-link
             >和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             ><nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>+25%。

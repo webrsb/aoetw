@@ -26,8 +26,9 @@
         <div class="n1">
           <p>
             沙拉丁在遊戲<nuxt-link to="/batt">戰役</nuxt-link
-            >中並不會出現，在直到2013年世紀帝國II HD的資料片:
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >中並不會出現，在直到2013年世紀帝國II HD的資料片:<nuxt-link
+              to="/games/aof"
+              >失落的帝國</nuxt-link
             >中新增，沙拉丁是一個<nuxt-link to="/units/Mameluke"
               >奴隸兵</nuxt-link
             ><nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
@@ -67,9 +68,7 @@
                     >耶路撒冷攻城戰</nuxt-link
                   >
                 </li>
-                <li>
-                  <nuxt-link to="/batt/Jihad">聖戰</nuxt-link>
-                </li>
+                <li><nuxt-link to="/batt/Jihad">聖戰</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/The_Lion_and_the_Demon"
                     >獅子與惡魔</nuxt-link

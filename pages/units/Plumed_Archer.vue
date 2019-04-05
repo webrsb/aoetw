@@ -13,8 +13,7 @@
               to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。是個速度快裝甲好的<nuxt-link to="/units/Archer_Units"
               >弓兵</nuxt-link
             >。其相對較高的訓練成本被<nuxt-link to="/civs/Mayans"
@@ -47,19 +46,19 @@
               >執行打帶跑戰術。羽毛弓箭兵對大多數<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
-              >有攻擊加成，除了
-              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
-                to="/units/Eagle_Warrior"
-                >鷹勇士</nuxt-link
-              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>和
-              <nuxt-link to="/units/Samurai">日本武士</nuxt-link
+              >有攻擊加成，除了<nuxt-link to="/units/Huskarl"
+                >哥德衛隊</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>和<nuxt-link
+                to="/units/Samurai"
+                >日本武士</nuxt-link
               >之外。雖然他們的<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
               >提高了，而且比大多數弓箭手還要多，然而他們還是很容易會被騎兵殲滅。如果是複數羽毛箭射手的話像<nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
-              >的弱小騎兵可以輕鬆應付；然而
-              <nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >的弱小騎兵可以輕鬆應付；然而<nuxt-link to="/units/Paladin"
+                >遊俠</nuxt-link
               >仍是一個威脅，因為他們有足夠的攻擊力可以快速殺死羽毛箭射手，而且3的<nuxt-link
                 to="/armor"
                 >遠程護甲</nuxt-link
@@ -68,19 +67,21 @@
             <li>
               在大多數情況下，羽毛箭射手都跟<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >搭配，因為兩個單位的移動速度都足夠快，可以執行突襲戰術，雙方都擁有良好的HP，並且覆蓋了彼此的主要弱點。和其他弓箭手一樣，羽毛箭射手對
-              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >搭配，因為兩個單位的移動速度都足夠快，可以執行突襲戰術，雙方都擁有良好的HP，並且覆蓋了彼此的主要弱點。和其他弓箭手一樣，羽毛箭射手對<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
               >的攻擊很脆弱，尤其是<nuxt-link to="/units/Mangonel"
                 >投石車</nuxt-link
               >，不過65HP可以讓他們承受<nuxt-link to="/units/Onager"
                 >中型投石車</nuxt-link
-              >兩次的攻擊（
-              <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
+              >兩次的攻擊（<nuxt-link to="/units/Siege_Onager"
+                >重型投石車</nuxt-link
               >還是一炮），並運用他們的速度輕鬆躲避敵人攻擊。<nuxt-link
                 to="/units/Rattan_Archer"
                 >藤甲弓兵</nuxt-link
-              >可以輕鬆擊敗羽毛弓箭手即使羽毛弓箭手本身也具有不俗的遠程護甲。
-              <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
+              >可以輕鬆擊敗羽毛弓箭手即使羽毛弓箭手本身也具有不俗的遠程護甲。<nuxt-link
+                to="/units/Imperial_Skirmisher"
+                >帝王戰矛兵</nuxt-link
               >是對付羽毛箭射手的理想單位而且非常具有經濟效益。
             </li>
           </ul>
@@ -98,8 +99,8 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
-              >、<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link>、
-              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>。
+              >、<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
+              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -108,13 +109,13 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
-              <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >、
-              <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
+              >、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
               >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>。
             </td>
           </tr>
@@ -279,14 +280,13 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
+                    /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -303,8 +303,11 @@
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/HuskarlIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                   <li>
@@ -317,8 +320,11 @@
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/HuskarlIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                 </ul>
@@ -327,8 +333,11 @@
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
                   </li>
                   <li>
@@ -336,8 +345,7 @@
                       class="gg"
                       src="~assets/Imperialskirmishericon.png"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Skirmisher"
+                    /><nuxt-link to="/units/Imperial_Skirmisher"
                       >帝王戰矛兵</nuxt-link
                     >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
                     >和同盟限定)
@@ -350,20 +358,25 @@
                       class="gg"
                       src="~assets/EliteSkirmisherIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
+                    /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/SkirmisherIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/SkirmisherIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -382,12 +395,21 @@
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/KnightIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Knight">騎士</nuxt-link>→
-                    <img class="gg" src="~assets/CavalierIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
-                    <img class="gg" src="~assets/PaladinIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
+                    <img
+                      class="gg"
+                      src="~assets/KnightIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Knight">騎士</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/CavalierIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/PaladinIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -415,8 +437,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高羽毛箭射手的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高羽毛箭射手的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>
@@ -560,8 +583,8 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" />
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              ><img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" />
             </td>
             <td class="unit4">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>40<nuxt-link
@@ -645,8 +668,8 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

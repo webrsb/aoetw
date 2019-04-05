@@ -11,9 +11,11 @@
             <b>大商隊</b>可以在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >時研究於<nuxt-link to="/building/Market">市集</nuxt-link
-            >，前置<nuxt-link to="/techs">科技</nuxt-link>為
-            <nuxt-link to="/techs/Cartography">製圖學</nuxt-link>。
-            研究之後可以使<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
+            >，前置<nuxt-link to="/techs">科技</nuxt-link>為<nuxt-link
+              to="/techs/Cartography"
+              >製圖學</nuxt-link
+            >。 研究之後可以使<nuxt-link to="/units/Trade_Cart"
+              >貿易車隊</nuxt-link
             >和<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link
             >的移動速度增加50%，變相的加速了<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link

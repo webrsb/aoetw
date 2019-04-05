@@ -38,7 +38,11 @@
           <div class="row">
             <div class="col-md-4">
               <gallery>
-                <img class="hg" src="~assets/Furiousthemonkeyboy.png" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/Furiousthemonkeyboy.png"
+                  alt=""
+                />
               </gallery>
               <em>一群狂猴</em>
             </div>

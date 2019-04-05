@@ -11,8 +11,7 @@
             <b>印度火槍</b>是<nuxt-link to="/civs/Indians">印度</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
             >+1射程。
           </p>
@@ -26,8 +25,8 @@
               >的軍隊應該要有以下兩種核心單位:<nuxt-link to="/units/Camel"
                 >駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-              >。印度火槍是讓
-              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >。印度火槍是讓<nuxt-link to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
               >生存的關鍵，所以該<nuxt-link to="/techs">科技</nuxt-link
               >通常要研發；然而印度玩家不應該為了研發印度火槍而失去事情的優先順序，還是要以建造部隊為主。
             </li>

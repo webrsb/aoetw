@@ -179,11 +179,9 @@
               <td class="tta4">
                 射程較遠的範圍單位、<nuxt-link to="/units/Tarkan"
                   >韃靼騎兵</nuxt-link
-                >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、
-                <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
-                  to="/units/Battering_Ram"
-                  >衝撞車</nuxt-link
-                >。
+                >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+                >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+                >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>。
               </td>
             </tr>
             <tr class="tta">
@@ -446,8 +444,8 @@
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>從<nuxt-link
                 to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
-              >分類移除，所以
-              <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >分類移除，所以<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
               >對他們的攻擊加乘沒有了，現在<nuxt-link to="/building/Town_Center"
                 >城鎮中心</nuxt-link
               >對他們攻擊+1。
@@ -634,8 +632,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +5對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>
-              <br />+5對<nuxt-link to="/armor/Armor_Class_Building"
+              +5對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
+              ><br />+5對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >
               <br />+1對<nuxt-link to="/armor/Armor_Class_Camel"

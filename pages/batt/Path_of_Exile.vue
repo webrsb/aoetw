@@ -236,7 +236,7 @@
                   src="~assets/yodit-eastcamp.jpg"
                   alt=""
               /></gallery>
-              <p class="text-center"><em>極大汗東邊營地。</em></p>
+              <p><em>極大汗東邊營地。</em></p>
             </div>
           </div>
           <li>
@@ -257,7 +257,7 @@
                   src="~assets/yodit-town center.jpg"
                   alt=""
               /></gallery>
-              <p class="text-center"><em>接管村莊，然後就逃吧！</em></p>
+              <p><em>接管村莊，然後就逃吧！</em></p>
             </div>
             <div class="col-md-6">
               <gallery
@@ -268,7 +268,7 @@
                   src="~assets/yodit-flag.jpg"
                   alt=""
               /></gallery>
-              <p class="text-center"><em>到達旗幟逃出阿克蘇姆國。</em></p>
+              <p><em>到達旗幟逃出阿克蘇姆國。</em></p>
             </div>
           </div>
           <li>
@@ -287,7 +287,7 @@
                   src="~assets/yodit-dock.jpg"
                   alt=""
               /></gallery>
-              <p class="text-center"><em>南邊的碼頭跟運輸船。</em></p>
+              <p><em>南邊的碼頭跟運輸船。</em></p>
             </div>
           </div>
         </ul>

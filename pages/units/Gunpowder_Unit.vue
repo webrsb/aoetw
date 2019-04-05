@@ -27,8 +27,8 @@
             >)在帝王時代的<nuxt-link to="/building/University">學院</nuxt-link
             >研發化學後可以訓練。<nuxt-link to="/units/Janissary"
               >土耳其火槍兵</nuxt-link
-            >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>、
-            <nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+            >、<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>、<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
             >這些屬於<nuxt-link to="/civs">文明</nuxt-link

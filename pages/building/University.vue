@@ -26,20 +26,17 @@
             >在現今遠距離作戰當道的情況下常是玩家優先研發的技術，以<nuxt-link
               to="/units/Crossbowman"
               >弩兵</nuxt-link
-            >或是
-            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            >或是<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >當主力的打法，學院通常會一上<nuxt-link to="/techs/age/Castle_Age"
               >城堡</nuxt-link
             >就蓋。而上了帝王後<nuxt-link to="/techs/Chemistry">化學</nuxt-link
-            >的研發可讓攻擊更具破壞力，重點是可以獲取
-            <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、<nuxt-link
-              to="/units/Bombard_Cannon"
-              >火砲</nuxt-link
-            >與
-            <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+            >的研發可讓攻擊更具破壞力，重點是可以獲取<nuxt-link
+              to="/units/Hand_Cannoneer"
+              >火槍兵</nuxt-link
+            >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >與<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
             >這種高威力<nuxt-link to="/units/Gunpowder_Unit">火藥兵種</nuxt-link
-            >。
-            <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
+            >。<nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
             >可讓<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >射程+1在後期也很有效用；而其他如<nuxt-link to="/techs/Murder_Holes"
               >垛孔</nuxt-link
@@ -177,7 +174,7 @@
               </tr>
               <tr>
                 <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-                <td class="tta4">全部。</td>
+                <td class="tta4">全部</td>
               </tr>
               <tr class="tta">
                 <td class="unit" colspan="2" style="text-align: center;">
@@ -510,9 +507,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

@@ -90,8 +90,8 @@
           <h3>開場</h3>
           <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Scout_Cavalry"
+              >斥候騎兵</nuxt-link
             >x1、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
             >x3、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
             >x4、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
@@ -101,8 +101,9 @@
             。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x7。
           </p>
           <p>
-            。 大地之母單位 -
-            <nuxt-link to="/units/animal/Water_Buffalo">水牛</nuxt-link>x4
+            。 大地之母單位 -<nuxt-link to="/units/animal/Water_Buffalo"
+              >水牛</nuxt-link
+            >x4
           </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
@@ -185,23 +186,26 @@
             </li>
           </ul>
           <h2>細節</h2>
-          <ul>
-            <li>
-              黎利（1385-1433）以<nuxt-link to="/units/Champion"
-                >劍兵勇士</nuxt-link
-              >形象在劇情中登場。
-            </li>
-            <li>此關的壓力通常是來自於保衛盟友，而非自身存亡。</li>
-            <li>
-              隱藏支線與馬來海盜的遺跡有關。
-            </li>
-            <li>
-              在本章節中，石礦資源十分稀有；即便深入敵方佔領區，也只會多找到兩礦。最佳方式是建立貿易路線，確保金流。
-            </li>
-            <li>
-              鄭家莊與阮家莊在遊戲中代表的是越南歷史上清化一帶的兩大士族。其中黎利的兩大助手「鄭可」與「阮廌」便均出自名門。
-            </li>
-          </ul>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                黎利（1385-1433）以<nuxt-link to="/units/Champion"
+                  >劍兵勇士</nuxt-link
+                >形象在劇情中登場。
+              </li>
+              <li>此關的壓力通常是來自於保衛盟友，而非自身存亡。</li>
+              <li>
+                隱藏支線與馬來海盜的遺跡有關。
+              </li>
+              <li>
+                在本章節中，石礦資源十分稀有；即便深入敵方佔領區，也只會多找到兩礦。最佳方式是建立貿易路線，確保金流。
+              </li>
+              <li>
+                鄭家莊與阮家莊在遊戲中代表的是越南歷史上清化一帶的兩大士族。其中黎利的兩大助手「鄭可」與「阮廌」便均出自名門。
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">

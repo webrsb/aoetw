@@ -40,8 +40,9 @@
             >）。它的範圍傷害可以一擊就打死大部分船隻或船隊，但由於它是一個自殺單位，若使用不當則投資報酬率會非常低。神風船和<nuxt-link
               to="/units/Heavy_Demolition_Ship"
               >重型神風船</nuxt-link
-            >是遊戲中速度最快的軍艦（特別是在研究了
-            <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
+            >是遊戲中速度最快的軍艦（特別是在研究了<nuxt-link
+              to="/techs/Dry_Dock"
+              >旱碼頭</nuxt-link
             >的情況下），比大多數<nuxt-link to="/units/Naval_Vessels"
               >海軍單位</nuxt-link
             >快得多。由於神風船幾乎所有的文明都可以使用，某些<nuxt-link
@@ -50,8 +51,9 @@
             >技術水平差的文明可能會在艦隊中加入神風船使用。神風船對戰船、<nuxt-link
               to="/units/Fire_Ship"
               >火戰船</nuxt-link
-            >和運輸船都十分有效。但是他們對重武裝的
-            <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
+            >和運輸船都十分有效。但是他們對重武裝的<nuxt-link
+              to="/units/Turtle_Ship"
+              >龜甲船</nuxt-link
             >還有維<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
             >比較無效。但是，如果數量足夠多的話，它們還是能造成足夠傷害。
           </p>
@@ -74,8 +76,10 @@
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
               >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
-              >和近戰單位、淺灘上的近戰單位、
-              <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
+              >和近戰單位、淺灘上的近戰單位、<nuxt-link
+                to="/units/Cannon_Galleon"
+                >火砲戰船</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
@@ -248,14 +252,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -535,8 +542,9 @@
               >：神風船訓練的速度在城堡/帝王提高15%/20%。研究<nuxt-link
                 to="/techs/Careening"
                 >傾側維修術</nuxt-link
-              >的速度在城堡/帝王提高15%/20％。研究
-              <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
+              >的速度在城堡/帝王提高15%/20％。研究<nuxt-link
+                to="/techs/Dry_Dock"
+                >旱碼頭</nuxt-link
               >和升級重型神風船的速度快20％。
             </li>
             <li>

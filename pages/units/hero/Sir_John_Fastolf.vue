@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>約翰霍士道夫爵士</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>約翰霍士道夫爵士</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在聖女貞德第三<nuxt-link to="/batt">戰役</nuxt-link
             >"羅亞爾河大掃蕩"和戰役編輯器中找到，在該戰役中玩家破壞一座<nuxt-link
               to="/civs/Britons"
@@ -41,7 +41,7 @@
             <div class="col-md-5">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   width="280"
                   src="~assets/Fastolfattack.png"
                   alt=""

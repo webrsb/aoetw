@@ -13,10 +13,10 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/MilitiaIcon.jpg" alt="" />
-              <nuxt-link to="/units/Militia">民兵→</nuxt-link>:<nuxt-link
-                to="/techs/age/Dark_Age"
-                >黑暗時代</nuxt-link
+              <img src="~assets/MilitiaIcon.jpg" alt="" /><nuxt-link
+                to="/units/Militia"
+                >民兵</nuxt-link
+              >:<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
               >唯一可以訓練的軍事單位，可有效牽制敵軍，甚至擊殺對方<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
@@ -159,8 +159,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/MilitiaIcon.jpg" width="45" alt="" />
-                <nuxt-link to="/units/Militia"></nuxt-link>
+                <img
+                  src="~assets/MilitiaIcon.jpg"
+                  width="45"
+                  alt=""
+                /><nuxt-link to="/units/Militia"></nuxt-link>
               </div>
             </td>
           </tr>

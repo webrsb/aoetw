@@ -213,10 +213,11 @@
           <tr>
             <td class="unit3">擴充</td>
             <td class="unit4">
-              <nuxt-link to="/games/aok">帝王世紀</nuxt-link><br />
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link><br />
-              <nuxt-link to="/games/ak">非洲王國</nuxt-link><br />
-              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link><br /><nuxt-link
+                to="/games/aoc"
+                >征服者入侵</nuxt-link
+              ><br /><nuxt-link to="/games/ak">非洲王國</nuxt-link
+              ><br /><nuxt-link to="/games/aor">王者崛起</nuxt-link>
             </td>
           </tr>
         </table>

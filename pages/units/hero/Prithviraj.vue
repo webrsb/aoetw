@@ -24,8 +24,8 @@
             <p>
               布里斯比羅吉是一名<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
-              ><nuxt-link to="/units/Archer_Units">射手</nuxt-link>
-              <nuxt-link to="/units/Hero">英雄</nuxt-link>。由於是<nuxt-link
+              ><nuxt-link to="/units/Archer_Units">射手</nuxt-link
+              ><nuxt-link to="/units/Hero">英雄</nuxt-link>。由於是<nuxt-link
                 to="/units/hero"
                 >英雄</nuxt-link
               >單位，他無法被<nuxt-link to="/elements/Conversion"
@@ -93,8 +93,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/Archer_Units">射手</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/Archer_Units">射手</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -169,9 +169,9 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >
             </td>

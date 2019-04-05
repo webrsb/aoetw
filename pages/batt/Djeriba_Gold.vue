@@ -88,8 +88,7 @@
           <p></p>
           <h3>開場</h3>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x6、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>x4
           </li>
           <li>
@@ -98,8 +97,9 @@
             >x8、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>x4。
           </li>
           <li>
-            大地之母<nuxt-link to="/building">建築</nuxt-link>單位 -
-            <nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link
+            大地之母<nuxt-link to="/building">建築</nuxt-link>單位 -<nuxt-link
+              to="/building/Watch_Tower"
+              >暸望箭塔</nuxt-link
             >x3、<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >x1、<nuxt-link to="/building/Stable">馬廄</nuxt-link>x1、<nuxt-link
               to="/units//building/Siege_Workshop"

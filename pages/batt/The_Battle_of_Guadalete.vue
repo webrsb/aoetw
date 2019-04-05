@@ -95,8 +95,8 @@
             塔里克·伊本·齊亞德x1。
           </li>
           <li>
-            軍事單位 -
-            <nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
+            軍事單位 -<nuxt-link to="/units/Camel_Archer"
+              >精銳駱駝弓騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link

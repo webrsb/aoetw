@@ -13,8 +13,7 @@
               >葡萄牙</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
             >對移動目標的命中率上升。火繩槍也會增加投射物的速度(+0.2)。
@@ -33,8 +32,9 @@
               >作為部隊主力時最需要的<nuxt-link to="/techs">科技</nuxt-link
               >。火繩槍可增加這些單位在<nuxt-link to="/units/Archer_Units"
                 >遠程</nuxt-link
-              >範圍的準確性，更有效的消滅來犯的近戰單位。火繩槍也可讓
-              <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+              >範圍的準確性，更有效的消滅來犯的近戰單位。火繩槍也可讓<nuxt-link
+                to="/building/Bombard_Tower"
+                >火砲塔</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >在防衛目標上能更有效的瞄準移動的單位。
             </li>

@@ -27,10 +27,13 @@
               </td>
               <td class="tc1" width="15%">起始資源:</td>
               <td class="tc2">
-                0 <nuxt-link to="/resource/Wood">木材</nuxt-link>，0
-                <nuxt-link to="/resource/Food">食物</nuxt-link>，0
-                <nuxt-link to="/resource/Gold">黃金</nuxt-link>，0
-                <nuxt-link to="/resource/Stone">石礦</nuxt-link>
+                0 <nuxt-link to="/resource/Wood">木材</nuxt-link>，0<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
+                  to="/resource/Stone"
+                  >石礦</nuxt-link
+                >
               </td>
               <td class="tc1" width="15%">人口上限:</td>
               <td class="tc2" width="5%">200</td>
@@ -117,8 +120,7 @@
 
         <h3>開場</h3>
         <li>
-          軍事單位 -
-          <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+          軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
           >X2(馬扎爾酋長)，<nuxt-link to="/units/Scout_Cavalry"
             >斥候騎兵</nuxt-link
           >X4，<nuxt-link to="/units/Archer">弓兵</nuxt-link>X7，<nuxt-link
@@ -347,8 +349,9 @@
             </li>
             <li>但也有很多學者認為應該來自屬於突厥的歐諾古爾（Onogur）人。</li>
             <li>
-              在匈人帝國解體後日耳曼部落統治了這裡將近100年，接踵而來的是阿瓦爾人，在他們近200年的統治下，
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+              在匈人帝國解體後日耳曼部落統治了這裡將近100年，接踵而來的是阿瓦爾人，在他們近200年的統治下，<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
               >民族開始滲入。摩拉維亞人、保加爾人、波蘭人和克羅埃西亞人都曾經企圖推翻阿瓦爾人，但直到查理曼才成功的將其擊敗。
             </li>
             <li>

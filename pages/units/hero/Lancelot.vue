@@ -69,8 +69,9 @@
               <nuxt-link to="/building">建築物</nuxt-link>，<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
-              >，大部分近戰單位，
-              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
+              >，大部分近戰單位，<nuxt-link to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
@@ -79,9 +80,10 @@
               <nuxt-link to="/units/Spearman">槍兵</nuxt-link>系，<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
-                to="/units/Genoese_Crossbowman"
+              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，<nuxt-link
+                to="/units/Camel"
+                >駱駝騎兵</nuxt-link
+              >，<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >
             </td>

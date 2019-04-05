@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>埃特爾</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵英雄</nuxt-link
+            <strong>埃特爾</strong>是《世紀帝國 II HD:<nuxt-link to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，只可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。埃特爾是以一位曾經統治現代蘇格蘭領土名叫Æthelfrith的伯尼西亞國王為基礎。該名國王值得注意的是他曾擊敗<nuxt-link
               to="/civs/Britons"
@@ -102,8 +101,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

@@ -12,8 +12,9 @@
             >是遊戲內第三個時代，來到城堡時代後，能夠生產強大的<nuxt-link
               to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
-            >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、
-            <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
             >與建造<nuxt-link to="/building/Castle">城堡</nuxt-link
             >，更強大的軍事兵種的搭配，劇烈的戰鬥將不可避免，而各<nuxt-link
               to="/civs"
@@ -866,8 +867,7 @@
                 src="~assets/Acheryrangeicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Stableicon.png"

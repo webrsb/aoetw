@@ -200,8 +200,8 @@
               <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link>
-              <br /><nuxt-link to="/batt/The_Exile_of_the_Cid"
+              <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link
+              ><br /><nuxt-link to="/batt/The_Exile_of_the_Cid"
                 >熙德的流亡歲月</nuxt-link
               >
             </td>
@@ -256,8 +256,8 @@
             <td class="tunitc4">騎兵</td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Burmese_Tigers">餓虎撲食</nuxt-link>
-              <br /><nuxt-link to="/batt/The_Final_Fortress"
+              <nuxt-link to="/batt/The_Burmese_Tigers">餓虎撲食</nuxt-link
+              ><br /><nuxt-link to="/batt/The_Final_Fortress"
                 >撒克遜起義</nuxt-link
               >
             </td>
@@ -334,8 +334,8 @@
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
-              <br /><nuxt-link to="/batt/The_Final_Fortress"
+              <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link
+              ><br /><nuxt-link to="/batt/The_Final_Fortress"
                 >撒克遜起義</nuxt-link
               >
             </td>
@@ -379,8 +379,8 @@
               <br /><nuxt-link to="/batt/Pax_Mongolia"
                 >蒙古治下的和平</nuxt-link
               >
-              <br /><nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
-              <br /><nuxt-link to="/batt/Honfoglalas_895"
+              <br /><nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
+              ><br /><nuxt-link to="/batt/Honfoglalas_895"
                 >征服家園（895）</nuxt-link
               >
             </td>
@@ -432,12 +432,12 @@
             </td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link>
-              <br /><nuxt-link to="/batt/The_Cleansing_of_the_Loire"
+              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link
+              ><br /><nuxt-link to="/batt/The_Cleansing_of_the_Loire"
                 >羅亞爾河大掃蕩</nuxt-link
               >
-              <br /><nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
-              <br /><nuxt-link to="/batt/The_Siege_of_Paris"
+              <br /><nuxt-link to="/batt/The_Rising">叛變</nuxt-link
+              ><br /><nuxt-link to="/batt/The_Siege_of_Paris"
                 >巴黎攻城戰</nuxt-link
               >
             </td>
@@ -492,8 +492,8 @@
             <td class="tunitc4">騎士</td>
             <td class="tunitc6">騎兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>
-              <br /><nuxt-link to="/batt/Emperor_of_the_West"
+              <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link
+              ><br /><nuxt-link to="/batt/Emperor_of_the_West"
                 >西域之君</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link>
@@ -596,10 +596,9 @@
             <td class="tunitc4">動物</td>
             <td class="tunitc6">狼</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
-              <br /><nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link>
-              <br />
-              <nuxt-link to="/batt/Vindlandsaga_1000"
+              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link
+              ><br /><nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
+              ><br /><nuxt-link to="/batt/Vindlandsaga_1000"
                 >芬特蘭撒格(1000)</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Burmese_Tigers"
@@ -623,8 +622,8 @@
             <td class="tunitc4">騎士</td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>
-              <br /><nuxt-link to="/batt/The_Horns_of_Hattin"
+              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link
+              ><br /><nuxt-link to="/batt/The_Horns_of_Hattin"
                 >海丁的號角</nuxt-link
               >
             </td>
@@ -804,8 +803,8 @@
               <nuxt-link to="/batt/The_Horde_Rides_West"
                 >遊牧民族的西遷</nuxt-link
               >
-              <br /><nuxt-link to="/batt/The_Promise">承諾</nuxt-link>
-              <br /><nuxt-link to="/batt/Pax_Mongolia"
+              <br /><nuxt-link to="/batt/The_Promise">承諾</nuxt-link
+              ><br /><nuxt-link to="/batt/Pax_Mongolia"
                 >蒙古治下的和平</nuxt-link
               >
             </td>
@@ -932,8 +931,8 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">拜占庭聖騎兵</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
-                  <br /><nuxt-link to="/batt/Fall_of_Rome"
+                  <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link
+                  ><br /><nuxt-link to="/batt/Fall_of_Rome"
                     >羅馬的衰落</nuxt-link
                   >
                 </td>
@@ -989,8 +988,8 @@
                   <br /><nuxt-link to="/batt/The_Enemy_of_my_Enemy"
                     >我敵人的敵人</nuxt-link
                   >
-                  <br /><nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link>
-                  <br /><nuxt-link to="/batt/King_of_Valencia"
+                  <br /><nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link
+                  ><br /><nuxt-link to="/batt/King_of_Valencia"
                     >瓦倫西亞之主</nuxt-link
                   >
                   <br /><nuxt-link to="/batt/Reconquista">勘查</nuxt-link>
@@ -1125,8 +1124,8 @@
                   <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
                 </td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Bukhara_557">布哈拉（557）</nuxt-link>
-                  <br /><nuxt-link to="/batt/Djeriba_Gold"
+                  <nuxt-link to="/batt/Bukhara_557">布哈拉（557）</nuxt-link
+                  ><br /><nuxt-link to="/batt/Djeriba_Gold"
                     >傑爾巴島的黃金</nuxt-link
                   >
                 </td>
@@ -1144,8 +1143,8 @@
                 <td class="tunitc4">步兵</td>
                 <td class="tunitc6">特殊</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
-                  <br /><nuxt-link to="/batt/The_White_Elephant"
+                  <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
+                  ><br /><nuxt-link to="/batt/The_White_Elephant"
                     >白象化身</nuxt-link
                   >
                 </td>
@@ -1235,8 +1234,8 @@
                       <nuxt-link to="/batt/An_End_and_a_Beginning"
                         >始兮終兮</nuxt-link
                       >
-                      <br /><nuxt-link to="/batt/O_Fortuna">命運女神</nuxt-link>
-                      <br /><nuxt-link to="/batt/The_Hand_of_a_Daughter"
+                      <br /><nuxt-link to="/batt/O_Fortuna">命運女神</nuxt-link
+                      ><br /><nuxt-link to="/batt/The_Hand_of_a_Daughter"
                         >于歸之喜</nuxt-link
                       >
                       <br /><nuxt-link to="/batt/The_Ambrosian_Republic"
@@ -1266,8 +1265,8 @@
                       <nuxt-link to="/batt/Tales_of_La_Canela"
                         >黃金國的傳說</nuxt-link
                       >
-                      <br /><nuxt-link to="/batt/The_Split">分離告別</nuxt-link>
-                      <br /><nuxt-link to="/batt/The_Amazones"
+                      <br /><nuxt-link to="/batt/The_Split">分離告別</nuxt-link
+                      ><br /><nuxt-link to="/batt/The_Amazones"
                         >亞馬遜族</nuxt-link
                       >
                       <br /><nuxt-link to="/batt/The_Cannibals"
@@ -1322,8 +1321,8 @@
                       <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
                     </td>
                     <td class="tunitc6">
-                      <nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
-                      <br /><nuxt-link to="/batt/Honfoglalas_895"
+                      <nuxt-link to="/batt/York_865">約克（865）</nuxt-link
+                      ><br /><nuxt-link to="/batt/Honfoglalas_895"
                         >征服家園（895）</nuxt-link
                       >
                     </td>

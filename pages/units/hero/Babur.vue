@@ -98,8 +98,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +18對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-              <br />+9對船
+              +18對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br />+9對船
             </td>
           </tr>
           <tr>

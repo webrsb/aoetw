@@ -84,8 +84,7 @@
             。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 蘇利耶跋摩一世
           </p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
             >x3、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
             >x5、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >x3、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link

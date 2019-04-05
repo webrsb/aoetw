@@ -11,14 +11,12 @@
             <b>驃悍精神</b>是<nuxt-link to="/civs/Malians">馬利</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Stable">馬廄</nuxt-link
-            >單位(<nuxt-link to="/units/Knight">騎士</nuxt-link>、
-            <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
-              to="/units/Light_Cavalry"
-              >輕騎兵</nuxt-link
-            >)攻擊+5。
+            >單位(<nuxt-link to="/units/Knight">騎士</nuxt-link>、<nuxt-link
+              to="/units/Camel"
+              >駱駝騎兵</nuxt-link
+            >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>)攻擊+5。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -30,8 +28,9 @@
               >的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >是遊戲中最具威力的之一。他們的<nuxt-link to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
-              >可以獲得遊戲中最多的14攻擊，比
-              <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
+              >可以獲得遊戲中最多的14攻擊，比<nuxt-link
+                to="/units/Imperial_Camel"
+                >帝王駱駝騎兵</nuxt-link
               >還多。馬利的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >也是遊戲中攻擊排名非特殊騎兵第二(<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
@@ -42,10 +41,10 @@
             </li>
             <li>
               如果搭配<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
-              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>或
-              <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>對抗<nuxt-link
-                to="/units/Halberdier"
-                >戟兵</nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>或<nuxt-link
+                to="/units/Champion"
+                >劍兵勇士</nuxt-link
+              >對抗<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >，馬利軍隊在戰場上可說見神殺神，佛擋殺佛。
             </li>
           </ul>

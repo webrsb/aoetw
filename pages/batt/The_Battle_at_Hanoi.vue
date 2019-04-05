@@ -77,8 +77,7 @@
           <h3>開場</h3>
           <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x7、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >x10、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >x1、帝王擲矛手x17
@@ -145,17 +144,22 @@
             </li>
           </ul>
           <h2>細節</h2>
-          <ul>
-            <li>本關沒有內政與經濟問題，將注意力專注在行軍作戰上。</li>
-            <li>叛明部隊可以稍稍提供戰力補充，但仍應該注意節省自己的軍力。</li>
-            <li>
-              雖然叛明部隊的<nuxt-link to="/civs">文明</nuxt-link
-              >是「中國」，但仍有機會從中取得<nuxt-link
-                to="/units/Ballista_Elephant"
-                >弩砲象</nuxt-link
-              >或<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>。
-            </li>
-          </ul>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>本關沒有內政與經濟問題，將注意力專注在行軍作戰上。</li>
+              <li>
+                叛明部隊可以稍稍提供戰力補充，但仍應該注意節省自己的軍力。
+              </li>
+              <li>
+                雖然叛明部隊的<nuxt-link to="/civs">文明</nuxt-link
+                >是「中國」，但仍有機會從中取得<nuxt-link
+                  to="/units/Ballista_Elephant"
+                  >弩砲象</nuxt-link
+                >或<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>。
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">

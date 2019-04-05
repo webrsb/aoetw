@@ -37,8 +37,9 @@
             </li>
             <li>
               若在科技(<nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link
-              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、
-              <nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
+              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、<nuxt-link
+                to="/techs/Crop_Rotation"
+                >輪耕</nuxt-link
               >)升級完前農田就被建好，那農田是吃不到加成的，要升級完後再蓋才有完整加成。
             </li>
             <li>
@@ -181,9 +182,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -201,9 +201,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            下面列出農田在每個時代的產量。<nuxt-link to="/units/Villager"
-              >農夫</nuxt-link
-            >種植的速度比<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+            下面列出農田在每個時代的產量。農夫種植的速度比<nuxt-link
+              to="/units/Fishing_Ship"
+              >漁船</nuxt-link
             >從魚網捕魚的速度稍微快一些，但是一直到帝王時代後期，農夫都還是比較不划算的(漁船自己消耗的木頭也算在內)，但真正的收集速率取決於在路程上(採集者跟採集點的距離)的交通。
           </p>
         </div>
@@ -327,8 +327,10 @@
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：<nuxt-link
                 to="/techs/Horse_Collar"
                 >馬軛</nuxt-link
-              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、
-              <nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>免費。
+              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、<nuxt-link
+                to="/techs/Crop_Rotation"
+                >輪耕</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：磨坊便宜50％。

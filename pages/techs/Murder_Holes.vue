@@ -10,8 +10,8 @@
           <p>
             <b>垛孔</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >在<nuxt-link to="/building/University">學院</nuxt-link>
-            研發。可移除<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            >在<nuxt-link to="/building/University">學院</nuxt-link
+            >研發。可移除<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >和<nuxt-link to="/building/Castle">城堡</nuxt-link>的最小射程限制。
           </p>
           <p>

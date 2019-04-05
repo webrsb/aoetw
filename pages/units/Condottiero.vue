@@ -16,8 +16,9 @@
             >中訓練。在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
             >資料片中<nuxt-link to="/civs/Italians">義大利</nuxt-link
             >還是要建<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >才能生產傭兵。傭兵是個可以共享的特殊單位，任何與義大利同盟的國家都能生產，可說是
-            <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+            >才能生產傭兵。傭兵是個可以共享的特殊單位，任何與義大利同盟的國家都能生產，可說是<nuxt-link
+              to="/elements/Team_Bonus"
+              >團隊加分</nuxt-link
             >。與<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的<nuxt-link
               to="/units/Genitour"
               >標槍騎兵</nuxt-link
@@ -34,8 +35,8 @@
               >有極高的攻擊加成，正因為如此，他們能夠打倒與<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >或<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>搭配的
-              <nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >或<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >搭配的<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
               >或是<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </li>
@@ -49,8 +50,8 @@
               >， <nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>和
-              <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >和<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
               >的加成攻擊。
             </li>
             <li>
@@ -74,26 +75,26 @@
               >的替代品。這情況可能發生在玩家還沒升級好<nuxt-link
                 to="/units/Champion"
                 >劍兵勇士</nuxt-link
-              >，或者玩家的<nuxt-link to="/civs">文明</nuxt-link>沒有
-              <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>（<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞人</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉人</nuxt-link>、<nuxt-link
-                to="/civs/Malay"
-                >馬來人</nuxt-link
-              >、<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link>和<nuxt-link
-                to="/civs/Persians"
-                >波斯人</nuxt-link
+              >，或者玩家的<nuxt-link to="/civs">文明</nuxt-link>沒有<nuxt-link
+                to="/units/Champion"
+                >劍兵勇士</nuxt-link
+              >（<nuxt-link to="/civs/Ethiopians">衣索比亞人</nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>、<nuxt-link
+                to="/civs/Khmer"
+                >高棉人</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來人</nuxt-link>、<nuxt-link
+                to="/civs/Mayans"
+                >馬雅人</nuxt-link
+              >和<nuxt-link to="/civs/Persians">波斯人</nuxt-link
               >）。然而<nuxt-link to="/civs/Malay">馬來</nuxt-link
-              >的話，不應該用傭兵取代
-              <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
+              >的話，不應該用傭兵取代<nuxt-link to="/units/Two-Handed_Swordsman"
+                >雙手劍兵</nuxt-link
               >，而是將傭兵作為馬來軍隊的後盾，利用傭兵的速度對付那些<nuxt-link
                 to="/units/Gunpowder_Unit"
                 >火藥</nuxt-link
               >和<nuxt-link to="/units/Archer_Units">弓箭手單位</nuxt-link
-              >(搭配<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>和
-              <nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>)。
+              >(搭配<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >和<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>)。
             </li>
             <li>
               有<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
@@ -102,8 +103,8 @@
                 >步兵單位</nuxt-link
               >的話。例如，<nuxt-link to="/civs/Malians">馬利</nuxt-link
               >的傭兵可以加上<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
-              >，利用速度突襲敵方陣營;
-              <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
+              >，利用速度突襲敵方陣營;<nuxt-link to="/units/Gbeto"
+                >飛刀女獵手</nuxt-link
               >專職輸出，而馬利傭兵的任務則是處理威脅<nuxt-link
                 to="/units/Gbeto"
                 >飛刀女獵手</nuxt-link
@@ -113,15 +114,12 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >的傭兵擁有97生命值，直逼<nuxt-link to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
-              >。其他
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-                to="/civs/Japanese"
-                >日本</nuxt-link
-              >與<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >則是以高攻擊著稱，
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>傭兵則<nuxt-link
-                to="/armor"
-                >遠防</nuxt-link
+              >。其他<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>與<nuxt-link
+                to="/civs/Burmese"
+                >緬甸</nuxt-link
+              >則是以高攻擊著稱，<nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >傭兵則<nuxt-link to="/armor">遠防</nuxt-link
               >高8，在帝王初期幾乎沒有對手。
             </li>
             <li>
@@ -148,12 +146,10 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >、
-              <nuxt-link to="/units/Conquistador">征服者</nuxt-link>、<nuxt-link
-                to="/units/Janissary"
-                >土耳其火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>、
-              <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+              >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >、<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
@@ -164,8 +160,7 @@
               >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
-              >、
-              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>。
             </td>
           </tr>
@@ -461,8 +456,12 @@
           </div>
           技術:以下技術會給以下單位對傭兵有額外攻擊。
           <div class="n1">
-            <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            <img
+              class="gg"
+              src="~assets/Unique-tech.jpg"
+              width="22"
+              alt=""
+            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -506,11 +505,12 @@
               >：傭兵便宜35%並對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+1。研發
-              <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>的速度快100%。
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >的速度快100%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：傭兵攻速快33%。
@@ -519,8 +519,8 @@
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：<nuxt-link
                 to="/techs/Forging"
                 >鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
-              <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>免費。
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>免費。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：傭兵+3<nuxt-link
@@ -608,8 +608,8 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:4.8版本引進<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >科技，傭兵對
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵單位</nuxt-link
+              >科技，傭兵對<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
               >有+5攻擊。
             </li>
             <li>
@@ -672,8 +672,8 @@
               傭兵和<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link
               >與<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
-              >一樣都是特殊部隊，但傭兵會受到
-              <nuxt-link to="/units/Samurai">日本武士</nuxt-link
+              >一樣都是特殊部隊，但傭兵會受到<nuxt-link to="/units/Samurai"
+                >日本武士</nuxt-link
               >的加成，另外兩個不會。
             </li>
             <li>
@@ -683,15 +683,15 @@
               ><nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
                 to="/units/Missionary"
                 >傳教士</nuxt-link
-              >、
-              <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
+              >、<nuxt-link to="/units/Imperial_Skirmisher"
+                >帝王戰矛兵</nuxt-link
               >與<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link>。
             </li>
             <li>
               另外兩個<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
               >的特殊共享單位分別是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >的<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>與
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>的<nuxt-link
+              >的<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >與<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>的<nuxt-link
                 to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
               >。
@@ -869,10 +869,9 @@
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>(+10)
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Condottiero">傭兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <br /><nuxt-link to="/armor/Armor_Class_Condottiero"
+                >傭兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

@@ -37,8 +37,7 @@
             >、<nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>、<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克</nuxt-link
-            >與
-            <nuxt-link to="/civs/Goths">哥德</nuxt-link
+            >與<nuxt-link to="/civs/Goths">哥德</nuxt-link
             >非常適合生產裝甲步兵來進行封建初期的關鍵打擊。
           </p>
         </div>
@@ -57,11 +56,11 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
-              >、
-              <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>、<nuxt-link
-                to="/units/Spearman"
-                >槍兵</nuxt-link
-              >、<nuxt-link to="/units/Villager">村民</nuxt-link>。
+              >、<nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
+              >、<nuxt-link to="/units/Spearman">槍兵</nuxt-link>、<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
@@ -366,8 +365,12 @@
           </div>
           技術:以下技術會給以下單位對裝甲步兵有額外攻擊。
           <div class="n1">
-            <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            <img
+              class="gg"
+              src="~assets/Unique-tech.jpg"
+              width="22"
+              alt=""
+            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -416,13 +419,12 @@
               >：裝甲步兵從封建時代開始便宜35％並對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+1。研發
-              <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>和升級<nuxt-link
-                to="/units/Long_Swordsman"
-                >長劍兵</nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >和升級<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
               >的速度快100%。
             </li>
             <li>
@@ -432,15 +434,14 @@
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
-              <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
               >：裝甲步兵在封建/<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
-              >/帝王時代有 +1/+2/+3
-              <nuxt-link to="/armor">遠程護甲</nuxt-link>。
+              >/帝王時代有 +1/+2/+3<nuxt-link to="/armor">遠程護甲</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -555,8 +556,8 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:4.8版本引進<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >科技，裝甲步兵對
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵單位</nuxt-link
+              >科技，裝甲步兵對<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
               >有+5攻擊。
             </li>
             <li>

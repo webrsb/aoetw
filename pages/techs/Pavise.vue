@@ -10,8 +10,8 @@
           <p>
             <b>巨盾</b>是<nuxt-link to="/civs/Italians">義大利</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >護甲+1/+1。
           </p>
@@ -47,8 +47,9 @@
               在非洲王池資料片中巨盾的花費減低而且<nuxt-link
                 to="/units/Crossbowman"
                 >弩兵</nuxt-link
-              >吃的到加成。所以在某些情況下可以早點研發巨盾科技；然而
-              <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
+              >吃的到加成。所以在某些情況下可以早點研發巨盾科技；然而<nuxt-link
+                to="/techs/Leather_Archer_Armor"
+                >弓兵皮甲</nuxt-link
               >還是應該比巨盾先研發因為比較便宜。
             </li>
           </ul>

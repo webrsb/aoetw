@@ -17,8 +17,8 @@
               to="/units/Infantry_Units"
               >步兵</nuxt-link
             >特別有效。<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            ><nuxt-link to="/techs/untech">特殊科技</nuxt-link>
-            <nuxt-link to="/techs/Atlatl"></nuxt-link
+            ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Atlatl"></nuxt-link
             ><nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link
             >是獵人和勇士使用的工具，將讓<nuxt-link
               to="/units/Elite_Skirmisher"
@@ -26,8 +26,7 @@
             ><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
             >將+1射程與+1攻擊，<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >的特殊科技
-            <nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
+            >的特殊科技<nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
             >，讓步兵更為強大。
           </p>
           <p>
@@ -42,8 +41,9 @@
             >。身為南美洲文明，阿茲特克沒有馬匹或<nuxt-link
               to="/units/Gunpowder_Unit"
               >火藥</nuxt-link
-            >。但有非常好用的
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
+            >。但有非常好用的<nuxt-link to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
+            >。
           </p>
           <p>
             阿茲特克是全遊戲中單挑最強的文明之一，詳見:<nuxt-link
@@ -62,10 +62,8 @@
             >，不過有遊戲中最強大的<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >。也有不錯的<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
             >，只是缺乏致命的<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
-            >，阿茲特克的
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link>只要研發一項<nuxt-link
-              to="/techs"
-              >科技</nuxt-link
+            >，阿茲特克的<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >只要研發一項<nuxt-link to="/techs">科技</nuxt-link
             >都能額外獲得5點的<nuxt-link to="/elements/Hit_points"
               >生命值</nuxt-link
             >，讓非常脆弱的僧侶變得相當耐操。他們的<nuxt-link
@@ -77,10 +75,11 @@
             >的似乎更為好用)阿茲特克的經濟非常好，讓他們在初期就可以穩定發展強大經濟。而<nuxt-link
               to="/units/Naval_Vessels"
               >海軍</nuxt-link
-            >是全遊戲中最弱的文明之一，是唯一不能升級到
-            <nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
-            >的文明。因此必須依靠
-            <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+            >是全遊戲中最弱的文明之一，是唯一不能升級到<nuxt-link
+              to="/units/Galleon"
+              >重型弩砲戰船</nuxt-link
+            >的文明。因此必須依靠<nuxt-link to="/units/Demolition_Ship"
+              >神風船</nuxt-link
             >與<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>來打海戰。
           </p>
           <h3>特殊單位</h3>
@@ -114,8 +113,7 @@
             </li>
             <li>所有軍事單位訓練快15%</li>
             <li>
-              每研發一個
-              <nuxt-link to="/building/Monastery">修道院</nuxt-link
+              每研發一個<nuxt-link to="/building/Monastery">修道院</nuxt-link
               >科技，<nuxt-link to="/units/Monk">僧侶</nuxt-link>+5HP
             </li>
             <li>遊戲初始多50黃金</li>

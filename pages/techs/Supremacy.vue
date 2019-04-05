@@ -11,8 +11,7 @@
             <b>霸權</b>是<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後給<nuxt-link to="/units/Villager">村民</nuxt-link
             >+6攻擊、護甲+2/+2、HP+40。
           </p>
@@ -52,8 +51,7 @@
                 >招降</nuxt-link
               >村民的舉動實際上跟招降<nuxt-link to="/units/Conquistador"
                 >征服者</nuxt-link
-              >和
-              <nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >和<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >等貴重單位比起來沒有什麼價值。
             </li>
             <li>

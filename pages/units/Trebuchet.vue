@@ -23,8 +23,8 @@
           <p>
             投石機高達17的射程範圍，只有<nuxt-link to="/civs/Turks"
               >土耳其</nuxt-link
-            >的<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>與
-            <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+            >的<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >與<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
             >勉強能與之抗衡。它是遊戲中攻擊最高的單位，而且對<nuxt-link
               to="/armor/Armor_Class_Building"
               >建築物</nuxt-link
@@ -35,10 +35,8 @@
             >等危險的建築，其實也可以拿來打一些難纏的<nuxt-link
               to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
-            >，如
-            <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>與<nuxt-link
-              to="/units/Bombard_Cannon"
-              >火砲</nuxt-link
+            >，如<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+            >與<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >，但投石機的準確率很低，拿來戰鬥的場面並不常見。
           </p>
           <p>
@@ -50,8 +48,9 @@
             >，研發後投石機組裝及拆裝(快4倍)和開火的速率(快33%)都加快。不過這項<nuxt-link
               to="/techs"
               >科技</nuxt-link
-            >無法影響<nuxt-link to="/units/hero">英雄</nuxt-link>單位
-            <nuxt-link to="/units/hero/God_s_Own_Sling">神之弓</nuxt-link
+            >無法影響<nuxt-link to="/units/hero">英雄</nuxt-link>單位<nuxt-link
+              to="/units/hero/God_s_Own_Sling"
+              >神之弓</nuxt-link
             >與<nuxt-link to="/units/hero/Bad_Neighbor">壞鄰居</nuxt-link
             >，可能是因為平衡的關係，但無所謂，你幾乎不會使用到它。
           </p>
@@ -90,12 +89,13 @@
             >甚至因為擴散攻擊，可以一次撞爆整排的投石機。如果真的沒有其他單位，那拿<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >來攻擊也可以，但因為速度的關係，其實不理想（
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、<nuxt-link
-              to="/units/Woad_Raider"
-              >菘藍武士</nuxt-link
-            >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>與
-            <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
+            >來攻擊也可以，但因為速度的關係，其實不理想（<nuxt-link
+              to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
+            >、<nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
+            >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>與<nuxt-link
+              to="/units/Gbeto"
+              >飛刀女獵手</nuxt-link
             >例外）。如果面對一群弓箭手，那最好將投石機拆裝，以等待救援，因為拆裝後的投石機遠防將會高很多。
           </p>
         </div>
@@ -120,8 +120,8 @@
             <td class="tta4">
               近戰單位特別是<nuxt-link to="/units/Magyar_Huszar"
                 >馬扎爾驃騎兵</nuxt-link
-              >和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Mangudai">火砲</nuxt-link>、<nuxt-link
+              >和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">火砲</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >。
@@ -460,8 +460,8 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速訓練投石機和
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速訓練投石機和<nuxt-link to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
@@ -524,9 +524,8 @@
               投石機是遊戲內射程最遠的單位，共有16的距離，加上<nuxt-link
                 to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
-              >就有17的範圍，只有
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>的<nuxt-link
-                to="/units/Elite_Cannon_Galleon"
+              >就有17的範圍，只有<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >的<nuxt-link to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
               >能與之匹敵。
             </li>

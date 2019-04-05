@@ -57,8 +57,10 @@
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
               <td class="tc6">
-                <nuxt-link to="/civs/Britons">英國</nuxt-link>
-                （紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+                <nuxt-link to="/civs/Britons">英國</nuxt-link>（紅色）<nuxt-link
+                  to="/civs/Britons"
+                  >不列顛</nuxt-link
+                >
               </td>
               <td class="tc6"><div class="p1">玩家3</div></td>
               <td class="tc6">

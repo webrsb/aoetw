@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>黑親王</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>黑親王</strong>是《世紀帝國 II HD:<nuxt-link to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，只可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。黑親王現實中是伍德斯托克的<nuxt-link
               to="/civs/Britons"

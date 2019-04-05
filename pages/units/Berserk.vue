@@ -11,8 +11,7 @@
             <b>狂戰士</b>是<nuxt-link to="/civs/Vikings">維京</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。狂戰士是一個配備高護甲和高<nuxt-link to="/elements/Attack"
               >攻擊力</nuxt-link
             >的單位，而且他們還能自我療傷，在<nuxt-link to="/games/aoc"
@@ -20,8 +19,9 @@
             >的版本中狂戰士的實用度非常低，在後面的版本修正後（增加速度與對<nuxt-link
               to="/armor/Armor_Class_Cavalry"
               >騎兵</nuxt-link
-            >的加成），實用度大大增加。狂戰士可以在
-            <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >的加成），實用度大大增加。狂戰士可以在<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             >升級為<nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link>。
           </p>
         </div>
@@ -47,8 +47,7 @@
               >（按成本計算）。他們唯一的優勢在於他們的再生能力和速度。因此，他們可以有效地執行游擊戰。儘管<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              >
-              <nuxt-link to="/techs/Chieftains">酋長</nuxt-link
+              ><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
               >給了他們一個對抗<nuxt-link to="/units/Knight">騎士</nuxt-link
               >的機會，但是這個相當不值得，應該使用<nuxt-link
                 to="/units/Spearman"
@@ -62,8 +61,9 @@
               0.15速度和以5個食物5個<nuxt-link to="/resource/Gold"
                 >黃金</nuxt-link
               >為代價換到的再生能力。劍兵勇士只多了+9
-              HP，總的來說，狂戰士還是出兵的優先選擇。劍兵勇士的唯一優勢就是對
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              HP，總的來說，狂戰士還是出兵的優先選擇。劍兵勇士的唯一優勢就是對<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >的加成。總共獲得+8攻擊，精銳狂戰士只有+3。
             </li>
             <li>
@@ -74,14 +74,15 @@
               >，但在會戰中還是不要讓他們面對一整群的<nuxt-link
                 to="/units/Archer_Units"
                 >遠程單位</nuxt-link
-              >。<nuxt-link to="/units/Slinger">投石手</nuxt-link>和
-              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >。<nuxt-link to="/units/Slinger">投石手</nuxt-link>和<nuxt-link
+                to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
               >會狠狠地打你臉。整群的<nuxt-link to="/units/Scorpion"
                 >弩砲</nuxt-link
               >也是非常可怕。<nuxt-link to="/units/Cataphract"
                 >拜占庭聖騎兵</nuxt-link
-              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>、
-              <nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
@@ -104,8 +105,9 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >、<nuxt-link to="/building">建築物</nuxt-link>和<nuxt-link
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
@@ -121,12 +123,14 @@
               >、 <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>、
-              <nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
                 to="/units/Plumed_Archer"
                 >羽毛箭射手</nuxt-link
-              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>和
-              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>和<nuxt-link
+                to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -175,8 +179,8 @@
                 alt=""
               /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
               >:步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
-              >攻擊+5，對
-              <nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link
+              >攻擊+5，對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
               >攻擊+4，<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定。
             </td>
           </tr>
@@ -264,8 +268,10 @@
             <td class="tta1" style="width:10%">其他</td>
             <td class="tta4">
               <nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link
-              >:狂戰士回血速度提升(每分鐘回20 HP變每分鐘回40 HP)，
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>限定。
+              >:狂戰士回血速度提升(每分鐘回20 HP變每分鐘回40 HP)，<nuxt-link
+                to="/civs/Vikings"
+                >維京</nuxt-link
+              >限定。
             </td>
           </tr>
         </table>
@@ -398,8 +404,12 @@
         </div>
         以下技術可讓以下單位對狂戰士有額外攻擊力
         <div class="n1">
-          <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          <img
+            class="gg"
+            src="~assets/Unique-tech.jpg"
+            width="22"
+            alt=""
+          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -433,18 +443,20 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高狂戰士的生產速度還有加速強化狂戰士的科技研究時間(
-              <nuxt-link to="/techs/Chieftains">酋長</nuxt-link>、<nuxt-link
-                to="/techs/Berserkergang"
-                >狂戰士幫</nuxt-link
+              >能夠提高狂戰士的生產速度還有加速強化狂戰士的科技研究時間(<nuxt-link
+                to="/techs/Chieftains"
+                >酋長</nuxt-link
+              >、<nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link
               >和<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >科技的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -488,8 +500,8 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:<nuxt-link
                 to="/techs/Berserkergang"
                 >狂戰士幫</nuxt-link
-              >現在需要850肉400金。引進
-              <nuxt-link to="/techs/Chieftains">酋長</nuxt-link
+              >現在需要850肉400金。引進<nuxt-link to="/techs/Chieftains"
+                >酋長</nuxt-link
               >，成本為700肉400金並給狂戰士對<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
@@ -505,16 +517,17 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:<nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >現在成本為400肉300金並給狂戰士對
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >現在成本為400肉300金並給狂戰士對<nuxt-link
+                to="/armor/Armor_Class_Cavalry"
+                >騎兵</nuxt-link
               >攻擊+5。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:4.8版本後<nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >給狂戰士對
-              <nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link
+              >給狂戰士對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
               >攻擊+2。
             </li>
           </ul>
@@ -526,8 +539,8 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:5.7版本後<nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >給狂戰士對
-              <nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link
+              >給狂戰士對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
               >攻擊+4。
             </li>
           </ul>
@@ -715,9 +728,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

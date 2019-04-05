@@ -13,8 +13,7 @@
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >對
-            <nuxt-link to="/armor/Armor_Class_Standard_Building"
+            >對<nuxt-link to="/armor/Armor_Class_Standard_Building"
               >標準建築</nuxt-link
             >傷害+2，於<nuxt-link to="/games/ak">非洲王國</nuxt-link
             >資料片後出現。

@@ -38,16 +38,20 @@
           </p>
           <h3>優勢文明</h3>
           <p>
-            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-            <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-            <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-            <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
+              to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
+              to="/civs/Vikings"
+              >維京</nuxt-link
+            >。
           </p>
           <h3>劣勢文明</h3>
           <p>
-            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-            <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-            <nuxt-link to="/civs/Incas">印加</nuxt-link>。
+            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+              to="/civs/Goths"
+              >哥德</nuxt-link
+            >、<nuxt-link to="/civs/Incas">印加</nuxt-link>。
           </p>
         </div>
       </div>

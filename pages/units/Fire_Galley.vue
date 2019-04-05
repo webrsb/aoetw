@@ -13,8 +13,9 @@
             >時可以在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >中被訓練，當把<nuxt-link to="/units/Galley">戰船</nuxt-link
             >升級成<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
-            >的時候，火蒙衝也會自動升級成
-            <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>。
+            >的時候，火蒙衝也會自動升級成<nuxt-link to="/units/Fire_Ship"
+              >火戰船</nuxt-link
+            >。
           </p>
           <p>
             火蒙衝、<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
@@ -30,8 +31,9 @@
               >文明</nuxt-link
             >中唯一不能出火蒙衝的國家，這也使得在<nuxt-link to="/games/aoc"
               >征服者入侵</nuxt-link
-            >時代的海戰強國，搖身一變成海戰初期弱勢文明，在
-            <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >時代的海戰強國，搖身一變成海戰初期弱勢文明，在<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             >遇到敵方的火蒙衝時，將顯得相當無助。
           </p>
           <p>
@@ -57,8 +59,9 @@
           <p>
             火蒙衝也很容易受到<nuxt-link to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
-            >的威脅，因為火蒙衝的攻擊距離很近，所以無法在爆炸前打沉
-            <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
+            >的威脅，因為火蒙衝的攻擊距離很近，所以無法在爆炸前打沉<nuxt-link
+              to="/units/Demolition_Raft"
+              >自爆筏</nuxt-link
             >。如果一艘<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
             >能夠打沉兩艘以上的火蒙衝就是非常划算了！
           </p>
@@ -273,14 +276,17 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    />
-                    <nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -573,9 +579,9 @@
               >：火蒙衝在封建/<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >訓練的速度提高10/15/20%
-              <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>和升級到
-              <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+              >訓練的速度提高10/15/20%<nuxt-link to="/techs/Careening"
+                >傾側維修術</nuxt-link
+              >和升級到<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
               >的研發速度在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代提高15%/20％。研究<nuxt-link to="/techs/Dry_Dock"
                 >旱碼頭</nuxt-link
@@ -749,8 +755,8 @@
           <tr>
             <td class="unit3">傷害加成</td>
             <td class="unit4">
-              +3對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
-              <br />+1對<nuxt-link to="/armor/Armor_Class_Turtle_Ship"
+              +3對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link
+              ><br />+1對<nuxt-link to="/armor/Armor_Class_Turtle_Ship"
                 >龜甲船</nuxt-link
               >
               <br />+1對<nuxt-link to="/armor/Armor_Class_Building"

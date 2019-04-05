@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>阿朗松公爵</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>阿朗松公爵</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aok"
+              >帝王世紀</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >"奧爾良的少女"和戰役編輯器中找到。現實中他是阿朗鬆的約翰二世:在百年戰爭後期的一位<nuxt-link
               to="/civs/Franks"
@@ -27,8 +27,7 @@
               >英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p></p>
         </div>
@@ -41,7 +40,7 @@
             <div class="col-md-4">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   width="200"
                   src="~assets/Constablerichemont.png"
                   alt=""
@@ -51,7 +50,7 @@
             <div class="col-md-5">
               <gallery
                 ><img
-                  class="hg"
+                  class="imgn hg"
                   width="220"
                   src="~assets/Dukeandjoan.png"
                   alt=""

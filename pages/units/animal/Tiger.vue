@@ -29,7 +29,11 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="hg" width="200" src="~assets/AOE2Tigers.png" alt=""
+                ><img
+                  class="imgn hg"
+                  width="200"
+                  src="~assets/AOE2Tigers.png"
+                  alt=""
               /></gallery>
               <p><em>世紀帝國 II的老虎。</em></p>
             </div>

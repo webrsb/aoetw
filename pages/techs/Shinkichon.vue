@@ -11,11 +11,12 @@
             <b>神機箭</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
-            >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>和
-            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>射程+1。
+            >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>和<nuxt-link
+              to="/units/Siege_Onager"
+              >重型投石車</nuxt-link
+            >射程+1。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -28,8 +29,9 @@
               >那研發神機箭可以讓他們的攻擊範圍勝過幾乎所有的弓兵及大部分的攻程單位。同時他們不會再被<nuxt-link
                 to="/units/Galleon"
                 >重型弩砲戰船</nuxt-link
-              >射爽爽，這在某些海島地圖上非常有價制。研發
-              <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
+              >射爽爽，這在某些海島地圖上非常有價制。研發<nuxt-link
+                to="/techs/Siege_Engineers"
+                >攻城工程師</nuxt-link
               >後的韓國投石車是遊戲中最可怕的<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link

@@ -11,8 +11,8 @@
             <strong>斯基泰的野女人</strong>是《世紀帝國II：<nuxt-link
               to="/games/aoc"
               >征服者入侵</nuxt-link
-            >》中的一名<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
-            <nuxt-link to="/units/hero">英雄</nuxt-link>，她在<nuxt-link
+            >》中的一名<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link>，她在<nuxt-link
               to="/batt/The_Great_Ride"
               >偉大的騎士</nuxt-link
             >和<nuxt-link to="/batt/The_White_Elephant">白象化身</nuxt-link
@@ -61,8 +61,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>

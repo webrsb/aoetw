@@ -12,8 +12,7 @@
             >資料片中<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。是個有非常高<nuxt-link to="/armor">遠程護甲</nuxt-link
             >的<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>。
           </p>
@@ -264,9 +263,11 @@
               >+1的加成被取消了。
             </li>
             <li>
-              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，藤甲弓兵/精銳
-              <nuxt-link to="/elements/Hit_points">血量</nuxt-link> 35/40 →
-              40/45。
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link
+              >後，藤甲弓兵/精銳<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >
+              35/40 → 40/45。
             </li>
           </ul>
         </div>
@@ -437,8 +438,8 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

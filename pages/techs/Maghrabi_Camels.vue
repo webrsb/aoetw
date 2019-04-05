@@ -11,8 +11,7 @@
             <b>馬格拉比駱駝</b>是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
             >/<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >每分鐘回15HP/每四秒回1HP。
@@ -29,8 +28,9 @@
               >雷同，可讓<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
               >/<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >在沒有<nuxt-link to="/units/Monk">僧侶</nuxt-link
-              >支援的情況下在戰場上支撐更久，變得更具有侵略性。但還是建議要在後方配有
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >支援的情況下在戰場上支撐更久，變得更具有侵略性。但還是建議要在後方配有<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
               >治療因為回血速度實在過慢。
             </li>
           </ul>

@@ -178,8 +178,11 @@
         <ul>
           <li>
             <strong>起始時代：</strong>
-            <img class="gg" src="~assets/Imperial-age-research.jpg" alt="" />
-            <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+            <img
+              class="gg"
+              src="~assets/Imperial-age-research.jpg"
+              alt=""
+            /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
           </li>
           <li><strong>起始資源：</strong>無</li>
           <li><strong>人口上限：</strong>72</li>
@@ -189,8 +192,11 @@
         <h3>起始單位</h3>
         <ul>
           <li>
-            <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-            <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link> 24
+            <img class="gg" src="~assets/PikemanIcon.jpg" alt="" /><nuxt-link
+              to="/units/Pikeman"
+              >重裝長槍兵</nuxt-link
+            >
+            24
           </li>
           <li>
             <img class="gg" src="~assets/Crusade_avatar.png" alt="" /><nuxt-link
@@ -200,28 +206,46 @@
             14
           </li>
           <li>
-            <img class="gg" src="~assets/PaladinIcon.jpg" alt="" />
-            <nuxt-link to="/units/Paladin">遊俠</nuxt-link> 12
+            <img class="gg" src="~assets/PaladinIcon.jpg" alt="" /><nuxt-link
+              to="/units/Paladin"
+              >遊俠</nuxt-link
+            >
+            12
           </li>
           <li>
-            <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt="" />
-            <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link> 10
+            <img
+              class="gg"
+              src="~assets/CrossbowmanIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link> 10
           </li>
           <li>
-            <img class="gg" src="~assets/MonkIcon.jpg" alt="" />
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link> 3
+            <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >
+            3
           </li>
           <li>
-            <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt="" />
-            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link> 2
+            <img
+              class="gg"
+              src="~assets/SiegeOnagerIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link> 2
           </li>
           <li>
-            <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt="" />
-            <nuxt-link to="/units/Trebuchet">投石機</nuxt-link> 3
+            <img
+              class="gg"
+              src="~assets/TrebuchetPackedIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link> 3
           </li>
           <li>
-            <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-            <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link> 2
+            <img
+              class="gg"
+              src="~assets/ScoutCavalryIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link> 2
           </li>
         </ul>
       </div>
@@ -236,25 +260,41 @@
             6
           </li>
           <li>
-            <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-            <nuxt-link to="/units/Heavy_Cavalry_Archer">重裝馬弓騎兵</nuxt-link>
-            4
+            <img
+              class="gg"
+              src="~assets/HeavyCavArcherIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Heavy_Cavalry_Archer"
+              >重裝馬弓騎兵</nuxt-link
+            >4
           </li>
           <li>
-            <img class="gg" src="~assets/TransportShipIcon.jpg" alt="" />
-            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link> 4
+            <img
+              class="gg"
+              src="~assets/TransportShipIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link> 4
           </li>
           <li>
-            <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt="" />
-            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link> 4
+            <img
+              class="gg"
+              src="~assets/SiegeOnagerIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link> 4
           </li>
           <li>
-            <img class="gg" src="~assets/MonkIcon.jpg" alt="" />
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link> 2
+            <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >
+            2
           </li>
           <li>
-            <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt="" />
-            <nuxt-link to="/units/Trebuchet">投石機</nuxt-link> 1
+            <img
+              class="gg"
+              src="~assets/TrebuchetPackedIcon.jpg"
+              alt=""
+            /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link> 1
           </li>
         </ul>
       </div>

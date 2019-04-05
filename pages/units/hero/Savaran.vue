@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>貴族首領</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link>》<nuxt-link
-              to="/batt/Bukhara_557"
-              >布哈拉戰役</nuxt-link
+            <strong>貴族首領</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aof"
+              >失落的帝國</nuxt-link
+            >》<nuxt-link to="/batt/Bukhara_557">布哈拉戰役</nuxt-link
             >中的<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/building">建築</nuxt-link
             >中以1500<nuxt-link to="/resource/Gold">黃金</nuxt-link
@@ -24,8 +24,7 @@
               >英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <h3>歷史</h3>

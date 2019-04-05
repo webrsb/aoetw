@@ -79,7 +79,7 @@
           <div class="row">
             <div class="col-md-4">
               <gallery>
-                <img src="~assets/AllKing.png" class="hg" alt="" />
+                <img src="~assets/AllKing.png" class="imgn hg" alt="" />
               </gallery>
               <em>國王們</em>
             </div>

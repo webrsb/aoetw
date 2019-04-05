@@ -87,8 +87,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +6對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
-              <br />+2對<nuxt-link to="/armor/Armor_Class_Building"
+              +6對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link
+              ><br />+2對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >
             </td>
@@ -129,9 +129,9 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
               ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link

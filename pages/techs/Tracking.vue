@@ -11,8 +11,8 @@
             <b>追蹤技術</b>於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
-            >研發。研發後所有的
-            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
             ><nuxt-link to="/los.php">視野</nuxt-link>+2。
           </p>
         </div>

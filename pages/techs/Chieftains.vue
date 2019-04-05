@@ -11,10 +11,9 @@
             <b>酋長</b>是<nuxt-link to="/civs/Vikings">維京</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
-            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>對<nuxt-link
-              to="/armor/Armor_Class_Cavalry"
-              >騎兵類</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
             >+5攻擊，對<nuxt-link to="/armor/Armor_Class_Camel"
               >駱駝騎兵類</nuxt-link
             >+4攻擊。
@@ -31,8 +30,7 @@
                 >步兵</nuxt-link
               >。研發酋長讓狂戰士也能對抗<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
-              >；然而使用
-              <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >；然而使用<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >對付騎兵還是更有效益。另外<nuxt-link to="/units/Archer"
                 >弓箭手</nuxt-link
               >對狂戰士來說仍舊是個威脅。

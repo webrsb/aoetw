@@ -8,11 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>亞歷山大·涅夫斯基</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>》<nuxt-link
-              to="/batt"
-              >戰役</nuxt-link
-            >編輯器中的一名<nuxt-link to="/units/Cavalry_Units"
+            <strong>亞歷山大·涅夫斯基</strong>是《世紀帝國 II HD:<nuxt-link
+              to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >》<nuxt-link to="/batt">戰役</nuxt-link>編輯器中的一名<nuxt-link
+              to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
             >。他是以亞歷山大·雅羅<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
             >·涅夫斯基（Alexander Yaroslavich
@@ -22,8 +22,7 @@
               >英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
-            。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             亞歷山大·涅夫斯基是擁有最強裝甲素質的英雄單位，擁有近戰防禦8，遠攻防禦6，這讓他成為了地圖編輯器玩家的愛好英雄之一。

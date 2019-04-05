@@ -18,8 +18,8 @@
             >、中東與歐洲的學者在此研究學問。為了顯示這一特點，他們的<nuxt-link
               to="/elements/Team_Bonus"
               >團隊加分</nuxt-link
-            >就是
-            <nuxt-link to="/building/University">學院</nuxt-link>研究快80%。
+            >就是<nuxt-link to="/building/University">學院</nuxt-link
+            >研究快80%。
           </p>
           <p>
             西非文化，非常重視婦女，當地的婦女甚至可以從軍。所以他們的<nuxt-link
@@ -65,10 +65,8 @@
             >開始，每升級一個時代都可以獲得額外的<nuxt-link to="/armor"
               >遠程護甲</nuxt-link
             >。讓他們的<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
-            >防禦媲美
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>與<nuxt-link
-              to="/units/Huskarl"
-              >哥德衛隊</nuxt-link
+            >防禦媲美<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >與<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
             >，使得<nuxt-link to="/units/Archer">弓箭手</nuxt-link
             >對他們的攻擊無效。
           </p>
@@ -80,15 +78,14 @@
             世界第一Viper曾經說過，馬利是單挑最強的文明，因為他有優秀的經濟加分與優秀的兵種可以使用，在前期可以有效的打擊對手，而且後期的<nuxt-link
               to="/techs"
               >科技</nuxt-link
-            >相當齊全，有
-            <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、<nuxt-link
-              to="/armor"
-              >遠防</nuxt-link
-            >高達8的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+            >相當齊全，有<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+            >、<nuxt-link to="/armor">遠防</nuxt-link>高達8的<nuxt-link
+              to="/units/Champion"
+              >劍兵勇士</nuxt-link
             >以及<nuxt-link to="/units/Siege_Onager"></nuxt-link
             ><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >，還有全遊戲最強的騎兵、
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >，還有全遊戲最強的騎兵、<nuxt-link to="/units/Light_Cavalry"
+              >輕騎兵</nuxt-link
             >。但也缺乏一些重要科技，如<nuxt-link to="/techs/Bracer"
               >護腕</nuxt-link
             >(<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
@@ -183,8 +180,10 @@
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          遠在10世紀時，西非出現一個強大的馬利帝國，該帝國當時所統治的領土，曾包括今塞內加爾、幾內亞、象牙海岸、布吉納法索與迦納等地。而馬利為當時帝國的統治中心。據說1230年馬利帝國建國之時，在一次激烈的戰爭中，其國王和太子等12人，除後來有名的國王
-          <nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link>外，其餘同時被殺。
+          遠在10世紀時，西非出現一個強大的馬利帝國，該帝國當時所統治的領土，曾包括今塞內加爾、幾內亞、象牙海岸、布吉納法索與迦納等地。而馬利為當時帝國的統治中心。據說1230年馬利帝國建國之時，在一次激烈的戰爭中，其國王和太子等12人，除後來有名的國王<nuxt-link
+            to="/batt/Sundjataa"
+            >松迪亞塔</nuxt-link
+          >外，其餘同時被殺。
         </div>
       </div>
       <div class="col-md-4">

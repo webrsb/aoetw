@@ -13,8 +13,7 @@
               to="/techs/untech"
               >特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >的單位+40% HP。

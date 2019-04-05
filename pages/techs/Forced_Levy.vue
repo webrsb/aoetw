@@ -11,8 +11,7 @@
             <b>強制徵兵</b>是<nuxt-link to="/civs/Malay">馬來</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Barracks">軍營</nuxt-link
             ><nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
             >不需花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
@@ -25,8 +24,9 @@
             <li>
               為了維持遊戲平衡，<nuxt-link to="/civs/Malay">馬來</nuxt-link
               >沒有<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
-              >。然而在強制徵兵研發而且後期黃金變的稀少，搭配全滿的
-              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >。然而在強制徵兵研發而且後期黃金變的稀少，搭配全滿的<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>，他們高CP值的<nuxt-link
                 to="/units/Two-Handed_Swordsman"
                 >雙手劍兵</nuxt-link
@@ -39,8 +39,7 @@
               >作戰。就應該盡快研發強制徵兵讓他們的步兵像<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
-              >研發
-              <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
+              >研發<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
               >後的<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
               >一樣不用黃金就能生產。
             </li>

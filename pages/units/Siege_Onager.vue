@@ -27,15 +27,20 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Celts"
+                >塞爾特</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+                to="/civs/Malians"
+                >馬利</nuxt-link
+              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
+                to="/civs/Saracens"
+                >薩拉森</nuxt-link
+              >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
+                to="/civs/Teutons"
+                >條頓</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -48,28 +53,40 @@
                   >不可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
+                to="/civs/Britons"
+                >不列顛</nuxt-link
+              >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Franks"
+                >法蘭克</nuxt-link
+              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+                to="/civs/Huns"
+                >匈奴</nuxt-link
+              >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
+                to="/civs/Indians"
+                >印度</nuxt-link
+              >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+                to="/civs/Mayans"
+                >馬雅</nuxt-link
+              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
+                to="/civs/Vikings"
+                >維京</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -90,11 +107,9 @@
             >中期，重型投石車的殺傷力將會是所有<nuxt-link
               to="/units/Archer_Units"
               >弓兵系</nuxt-link
-            >單位的惡夢，雖然
-            <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>與<nuxt-link
-              to="/"
-              >衝撞車</nuxt-link
-            >對於<nuxt-link to="/building/Siege_Workshop"
+            >單位的惡夢，雖然<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+            >與<nuxt-link to="/">衝撞車</nuxt-link>對於<nuxt-link
+              to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >單位有額外的加成效果，但只要稍有個控兵失誤，軍隊都可能在轉眼間葬送在花火之中。
           </p>
@@ -102,8 +117,7 @@
             對付成群的重型投石車，移動快速的<nuxt-link
               to="/units/Elite_Eagle_Warrior"
               >精銳鷹勇士</nuxt-link
-            >或者大量的
-            <nuxt-link to="/units/Paladin">遊俠</nuxt-link
+            >或者大量的<nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >會是個不錯的選擇，也有不少玩家會選擇用重型投石車與重型投石車對丟，運氣好可能會一臺換對方2~3臺，<nuxt-link
               to="/elements/Garrison"
               >駐軍</nuxt-link
@@ -134,12 +148,12 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
-              <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
-                to="/units/Woad_Raider"
-                >菘藍武士</nuxt-link
-              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
-              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >、<nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
+              >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
@@ -681,10 +695,9 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +60 vs
-              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-              <br />+12 vs
-              <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+              +60 vs<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              ><br />+12 vs<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
             </td>

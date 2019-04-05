@@ -11,8 +11,8 @@
             <b>皇族血脈</b>是<nuxt-link to="/civs/Ethiopians"
               >衣索比亞</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Shotel_Warrior"
               >彎刀勇士</nuxt-link
             >生產時間減半，從8秒減為4秒。

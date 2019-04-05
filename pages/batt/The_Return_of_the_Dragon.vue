@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>龍之歸來</b>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link>》<nuxt-link
-              to="/batt/Draculaa"
-              >德古拉戰役</nuxt-link
+            <b>龍之歸來</b>是《世紀帝國 II HD:<nuxt-link to="/games/aof"
+              >失落的帝國</nuxt-link
+            >》<nuxt-link to="/batt/Draculaa">德古拉戰役</nuxt-link
             >的第二個場景。<nuxt-link to="/batt">戰役</nuxt-link
             >中弗拉德·<nuxt-link to="/batt/Draculaa">德古拉</nuxt-link
             >得到了摩爾達維亞省波格丹二世對瓦拉幾亞的支持。玩家需要把德古拉，伊斯特萬，雅各和丹尼<nuxt-link

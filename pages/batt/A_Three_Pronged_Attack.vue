@@ -99,16 +99,15 @@
           <p></p>
           <h3>開場</h3>
           <p>
-            。 <nuxt-link to="/units/hero">英雄</nuxt-link> -
-            <nuxt-link to="/units/hero/Le_Trien">李篆</nuxt-link>x1、<nuxt-link
-              to="/units/hero/Bui_Bi"
-              >裴備</nuxt-link
+            。 <nuxt-link to="/units/hero">英雄</nuxt-link> -<nuxt-link
+              to="/units/hero/Le_Trien"
+              >李篆</nuxt-link
+            >x1、<nuxt-link to="/units/hero/Bui_Bi">裴備</nuxt-link
             >x1、劉仁㴬x1、<nuxt-link to="/units/hero/Dinh_Le">丁禮</nuxt-link
             >x1
           </p>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
             >x2、<nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
             >x0-9（視大越義軍的控兵而定）、<nuxt-link to="/units/Rattan_Archer"
@@ -180,49 +179,51 @@
             </li>
           </ul>
           <h2>細節</h2>
-          <ul>
-            <li>大越義軍（橘色）將控制交給玩家後就會棄權。</li>
-            <li>
-              儘管<nuxt-link to="/tree/vie">科技樹</nuxt-link
-              >上並未寫明，但在本關中乂安府（水藍）作為越南人，卻能夠訓練<nuxt-link
-                to="/units/Gunpowder_Unit"
-                >火藥單位</nuxt-link
-              >。用以呼應時代。
-            </li>
-            <li>
-              關卡類似<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
-              >第六關：<nuxt-link to="/batt/A_Perfect_Martyr"
-                >完美的烈士</nuxt-link
-              >。有大量英雄在劇情中登場，有各自的特色語音對白。
-            </li>
-            <li>哀牢為寮國的古稱。</li>
-            <li>
-              李篆（？-1427），黎利部將，作戰十分勇猛，人稱「君子劍」。在圍攻「東都（今河內市）」時中伏陣歿。以<nuxt-link
-                to="/units/Champion"
-                >劍兵勇士</nuxt-link
-              >形象在劇情中登場
-            </li>
-            <li>
-              丁禮（？-1427），黎利部將。在圍攻東都時因為救援友軍遭遇埋伏，被俘虜後斬首。以<nuxt-link
-                to="/units/Paladin"
-                >遊俠</nuxt-link
-              >形象在劇情中登場。
-            </li>
-            <li>
-              劉仁㴬（？-1433），一作劉仁澍。黎利部將。後黎開國元勛之一、在太祖死後被任命為五大輔臣之一，死於朝廷內的政治清算。以<nuxt-link
-                to="/units/Arbalest"
-                >強弩兵</nuxt-link
-              >形象在劇情中登場
-            </li>
-            <li>
-              裴備（？-？），黎利謀臣，以東方<nuxt-link to="/units/Monk"
-                >僧侶</nuxt-link
-              >形象在劇情中登場。具有普通僧侶的能力，但不受<nuxt-link
-                to="/building/Monastery"
-                >修道院</nuxt-link
-              ><nuxt-link to="/techs">科技</nuxt-link>的影響。
-            </li>
-          </ul>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>大越義軍（橘色）將控制交給玩家後就會棄權。</li>
+              <li>
+                儘管科技樹上並未寫明，但在本關中乂安府（水藍）作為越南人，卻能夠訓練<nuxt-link
+                  to="/units/Gunpowder_Unit"
+                  >火藥單位</nuxt-link
+                >。用以呼應時代。
+              </li>
+              <li>
+                關卡類似<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
+                >第六關：<nuxt-link to="/batt/A_Perfect_Martyr"
+                  >完美的烈士</nuxt-link
+                >。有大量英雄在劇情中登場，有各自的特色語音對白。
+              </li>
+              <li>哀牢為寮國的古稱。</li>
+              <li>
+                李篆（？-1427），黎利部將，作戰十分勇猛，人稱「君子劍」。在圍攻「東都（今河內市）」時中伏陣歿。以<nuxt-link
+                  to="/units/Champion"
+                  >劍兵勇士</nuxt-link
+                >形象在劇情中登場
+              </li>
+              <li>
+                丁禮（？-1427），黎利部將。在圍攻東都時因為救援友軍遭遇埋伏，被俘虜後斬首。以<nuxt-link
+                  to="/units/Paladin"
+                  >遊俠</nuxt-link
+                >形象在劇情中登場。
+              </li>
+              <li>
+                劉仁㴬（？-1433），一作劉仁澍。黎利部將。後黎開國元勛之一、在太祖死後被任命為五大輔臣之一，死於朝廷內的政治清算。以<nuxt-link
+                  to="/units/Arbalest"
+                  >強弩兵</nuxt-link
+                >形象在劇情中登場
+              </li>
+              <li>
+                裴備（？-？），黎利謀臣，以東方<nuxt-link to="/units/Monk"
+                  >僧侶</nuxt-link
+                >形象在劇情中登場。具有普通僧侶的能力，但不受<nuxt-link
+                  to="/building/Monastery"
+                  >修道院</nuxt-link
+                ><nuxt-link to="/techs">科技</nuxt-link>的影響。
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">

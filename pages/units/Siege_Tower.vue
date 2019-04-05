@@ -550,8 +550,9 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
-              >，<nuxt-link to="/techs/Chemistry">化學</nuxt-link>和
-              <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
+              >，<nuxt-link to="/techs/Chemistry">化學</nuxt-link>和<nuxt-link
+                to="/techs/Siege_Engineers"
+                >攻城工程師</nuxt-link
               >的速度快80%。
             </li>
             <strong
@@ -628,8 +629,8 @@
               >駐守在衝撞車內的速度是0.75，而<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
-              >速度為0.7，但研發
-              <nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >速度為0.7，但研發<nuxt-link to="/techs/Squires"
+                >護衛技術</nuxt-link
               >後，條頓武士速度為0.77，並沒有比較快。但如果裝在攻城塔內，速度就來到了1.3，可以更有效率的運用條頓武士。
             </li>
           </ul>
@@ -763,8 +764,7 @@
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
             </td>
           </tr>
           <tr>

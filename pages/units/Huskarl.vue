@@ -12,8 +12,9 @@
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。哥德衛隊是一個對箭矢有相當高防禦的單位。哥德衛隊可以在
-            <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >中訓練。哥德衛隊是一個對箭矢有相當高防禦的單位。哥德衛隊可以在<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             >升級為<nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link>。
           </p>
         </div>
@@ -35,13 +36,14 @@
               >殺手。一群哥德衛隊可以最小損傷摧毀一座城堡。哥德衛隊適合用來對付<nuxt-link
                 to="/armor/Armor_Class_Archer"
                 >弓箭手</nuxt-link
-              >，但是他們也是相當全面的單位，可以處理大多數的威脅，因為他們幾乎免疫炮火。他們的弱點包括
-              <nuxt-link to="/units/Knight">騎士</nuxt-link
+              >，但是他們也是相當全面的單位，可以處理大多數的威脅，因為他們幾乎免疫炮火。他們的弱點包括<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
               >，還有速度比他們快的弓箭手(如<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、
-              <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >、<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >和<nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link
               >）。因為他們可以選擇逃跑或是遠距離慢慢消耗哥德衛隊的<nuxt-link
                 to="/elements/Hit_points"
@@ -51,31 +53,28 @@
             <li>
               由於哥德衛隊缺少近戰裝甲，他們打不過<nuxt-link to="/units/Camel"
                 >駱駝騎兵</nuxt-link
-              >，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>和
-              <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >，但是他們能夠擊敗<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >。哥德衛隊非常便宜而且生產迅速，所以哥德玩家仍然可以用壓倒性的數量橫掃戰場。一般應該避免跟有高護甲（
-              <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>，<nuxt-link
-                to="/units/Teutonic_Knight"
-                >條頓武士</nuxt-link
+              >。哥德衛隊非常便宜而且生產迅速，所以哥德玩家仍然可以用壓倒性的數量橫掃戰場。一般應該避免跟有高護甲（<nuxt-link
+                to="/units/Boyar"
+                >貴族鐵騎</nuxt-link
+              >，<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >）的近戰單位，或對他們（<nuxt-link to="/units/Jaguar_Warrior"
                 >豹勇士</nuxt-link
-              >、
-              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
-                to="/units/Samurai"
-                >日本武士</nuxt-link
-              >）有攻擊加成的單位戰鬥。因為它們對哥德衛隊是致命的。
-              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
-                to="/units/Battle_Elephant"
-                >矛象伕</nuxt-link
+              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
+              >）有攻擊加成的單位戰鬥。因為它們對哥德衛隊是致命的。<nuxt-link
+                to="/units/War_Elephant"
+                >戰象</nuxt-link
+              >和<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
               >的高HP，強大的攻擊和<nuxt-link to="/elements/Area_of_Effect"
                 >擴散傷害</nuxt-link
               >可輕易摧毀哥德衛隊，但必須警惕<nuxt-link to="/units/Halberdier"
                 >戟兵</nuxt-link
               >的出現。<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
-              >如
-              <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
+              >如<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
               >，<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
               >或者<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
               >對哥德衛隊也是有效的，其中只有哥德衛隊對奴隸兵有額外傷害加成。
@@ -84,13 +83,16 @@
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >能有效用範圍傷害對付哥德衛隊，而<nuxt-link to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >因為是穿甲傷害所以無法在哥德衛隊接近它前造成大量傷害而容易被殲滅。
-              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >因為是穿甲傷害所以無法在哥德衛隊接近它前造成大量傷害而容易被殲滅。<nuxt-link
+                to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
               >可對哥德衛隊造成極大傷害，但需要<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >數量足夠而且有近戰單位保護他們遠離哥德衛隊接近，不然還是會慘死在亂刀下(精銳哥德衛隊只需兩刀就可殺死一個
-              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>)。
+              >數量足夠而且有近戰單位保護他們遠離哥德衛隊接近，不然還是會慘死在亂刀下(精銳哥德衛隊只需兩刀就可殺死一個<nuxt-link
+                to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
+              >)。
             </li>
           </ul>
         </div>
@@ -109,8 +111,8 @@
               <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
                 to="/building"
                 >建築物</nuxt-link
-              >和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
+              >和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >。
@@ -381,8 +383,12 @@
           </div>
           技術:以下技術會給以下單位對哥德衛隊有額外攻擊。
           <div class="n1">
-            <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            <img
+              class="gg"
+              src="~assets/Unique-tech.jpg"
+              width="22"
+              alt=""
+            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -422,8 +428,9 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高哥德衛隊的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高哥德衛隊的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >、<nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
               >、<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
               >的研究時間(快25%)。
@@ -671,9 +678,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
-              <br />
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

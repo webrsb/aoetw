@@ -14,15 +14,19 @@
           </p>
           <ul>
             <li>
-              <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
-              <nuxt-link to="/units/Spearman">長槍兵→</nuxt-link
+              <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" /><nuxt-link
+                to="/units/Spearman"
+                >長槍兵</nuxt-link
               >:攻擊低、<nuxt-link to="/elements/Hit_points">血量</nuxt-link
               >低但對<nuxt-link to="/units/Scout_Cavalry">肉馬</nuxt-link
               >傷害大。
             </li>
             <li>
-              <img class="gg" src="~assets/SkirmisherIcon.jpg" alt="" />
-              <nuxt-link to="/units/Skirmisher">矛兵→</nuxt-link>:<nuxt-link
+              <img
+                class="gg"
+                src="~assets/SkirmisherIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>:<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >：攻擊低、血量低，但量多仍可騷擾<nuxt-link to="/units/Villager"

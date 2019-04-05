@@ -91,18 +91,15 @@
 
           <h3>開場</h3>
           <p>
-            。 軍事單位 -
-            <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>x5、<nuxt-link
-              to="/units/Battle_Elephant"
-              >矛象伕</nuxt-link
+            。 軍事單位 -<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >x5、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
             >x2、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x1
           </p>
           <p>
-            。 <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
-            <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>x1、<nuxt-link
-              to="/units/Fire_Ship"
-              >火戰船</nuxt-link
-            >x2
+            。
+            <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link>
+            -<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+            >x1、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>x2
           </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>

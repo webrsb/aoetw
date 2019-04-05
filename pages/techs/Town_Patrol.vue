@@ -10,8 +10,8 @@
           <p>
             <b>城鎮巡邏</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
-            研發。研發後<nuxt-link to="/building">建築物</nuxt-link
+            >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >研發。研發後<nuxt-link to="/building">建築物</nuxt-link
             ><nuxt-link to="/los.php">視野</nuxt-link>+4。
           </p>
         </div>
