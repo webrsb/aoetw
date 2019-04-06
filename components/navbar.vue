@@ -17,8 +17,8 @@
         <b-nav-item to="/ar">戰術技巧</b-nav-item>
         <b-nav-item-dropdown text="遊戲元素">
           <b-dropdown-item to="/armor">防禦類型</b-dropdown-item>
-          <b-dropdown-item to="/elements//Regeneration">回血</b-dropdown-item>
-          <b-dropdown-item to="/elements//Garrison">駐軍</b-dropdown-item>
+          <b-dropdown-item to="/elements/Regeneration">回血</b-dropdown-item>
+          <b-dropdown-item to="/elements/Garrison">駐軍</b-dropdown-item>
           <b-dropdown-item to="/elements/Hit_points">血量</b-dropdown-item>
           <b-dropdown-item to="/elements/Attack">攻擊</b-dropdown-item>
           <b-dropdown-item to="/elements/Rate_of_Fire">射速</b-dropdown-item>
