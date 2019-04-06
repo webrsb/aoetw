@@ -518,7 +518,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>

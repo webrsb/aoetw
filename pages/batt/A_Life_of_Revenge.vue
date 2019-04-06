@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>復仇的人生</b>為<nuxt-link to="/batt/Genghis_Khana"
               >成吉思汗(戰役)</nuxt-link

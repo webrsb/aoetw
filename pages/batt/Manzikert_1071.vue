@@ -18,7 +18,6 @@
             11世紀塞爾柱帝國急速擴張，與東羅馬疆域相接，從地中海西岸就節節敗退的東羅馬帝國為了守住其在小亞細亞的領土，皇帝羅曼努斯四世率軍前往阻截。塞爾柱方則一樣是由一國之君阿斯蘭蘇丹帶領。
             兩軍會戰與曼孜齊克特，輕裝的塞爾柱弓騎大破東羅馬部隊。皇帝被俘虜，帝國勢力被迫退出小亞細亞。從此東羅馬兵源被限縮，此戰也被視為帝國走向衰弱的轉捩點。
           </p>
-          <p></p>
         </div>
         <h2>玩家</h2>
         <div class="hrn1"></div>
@@ -43,7 +42,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <table class="table-bordered" width="100%">
             <tr>
@@ -303,7 +301,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由Wun、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

@@ -145,7 +145,8 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />駱駝弓騎兵:攻擊間隔低、對<nuxt-link to="/units/Cavalry_Archer"
+              /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+              >：攻擊間隔低、對<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >有攻擊加成。
             </p>
@@ -157,14 +158,17 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />聚居堡壘：你和同盟城堡工作效率+25%。
+              /><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link
+              >：你和同盟城堡工作效率+25%。
             </p>
             <p>
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />馬格拉比駱駝：駱駝單位會自動回血。
+              />帝王時代-<nuxt-link to="/techs/Maghrabi_Camels"
+                >馬格拉比駱駝</nuxt-link
+              >：駱駝單位會自動回血。
             </p>
           </ul>
         </div>

@@ -37,7 +37,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <table class="table-bordered" width="100%">
             <tr>

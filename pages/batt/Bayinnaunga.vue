@@ -72,7 +72,6 @@
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p></p>
             <ul>
               <li><strong>勃印曩即位前的緬甸形勢</strong></li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link

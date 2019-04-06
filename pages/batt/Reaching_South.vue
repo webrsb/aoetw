@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>揮師南下</b>為<nuxt-link to="/batt/Le_Loi">黎利戰役</nuxt-link
             >的第四關劇情關卡，此關描述<nuxt-link to="/civs/Vietnamese"
@@ -38,7 +37,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -78,7 +76,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場</h3>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
@@ -87,7 +84,7 @@
             >x3、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>x4
           </p>
           。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x7
-          <p></p>
+
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">

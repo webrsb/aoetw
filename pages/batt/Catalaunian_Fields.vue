@@ -45,7 +45,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -291,7 +290,7 @@
         </table>
 
         <div class="thanks">感謝！此頁由裕暉、竺叡、Dennis協助編輯</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

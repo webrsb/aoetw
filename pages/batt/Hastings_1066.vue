@@ -16,7 +16,6 @@
           <p>
             雙方與黑斯汀斯交戰，最後哈羅德戰死，以諾曼人全勝告終。威廉隨即在西敏寺加冕為英格蘭國王。
           </p>
-          <p></p>
         </div>
         <h2>玩家</h2>
         <div class="hrn1"></div>
@@ -41,7 +40,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <table class="table-bordered" width="100%">
             <tr>
@@ -300,7 +298,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由Wun、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="row">
           <div class="col-md-12">
             <div class="wiki" style="margin-top: 5px;">

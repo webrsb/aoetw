@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>馬利</b>或稱<b>馬里</b>，是資料片<nuxt-link to="/games/ak"
-              >非洲王國</nuxt-link
-            >新增的<nuxt-link to="/civs">文明</nuxt-link
+            <b>馬利</b>或稱<b>馬里</b>，是《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》新增的<nuxt-link to="/civs">文明</nuxt-link
             >，他位於西非，主要是以馬利帝國為範本（Manden
             Kurufaba）。歷史上，馬利以強調教育而聞名，他是當時世界上最大的教育中心之一，許多來自<nuxt-link
               to="/civs/Chinese"
@@ -100,21 +100,21 @@
             <img class="gg" src="~assets/GbetoIcon.png" /><nuxt-link
               to="/units/Gbeto"
               >飛刀女獵手</nuxt-link
-            >:具有遠程攻擊的步兵單位，攻擊高速度快，但血很少。
+            >：具有遠程攻擊的步兵單位，攻擊高速度快，但血很少。
           </p>
           <h3>特殊科技</h3>
           <p>
             <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
               to="/techs/Tigui"
               >部落領袖</nuxt-link
-            >:<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >：<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >無須駐紮即可放箭。
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+            <img class="gg" src="~assets/Unique-tech.jpg" />帝王時代-<nuxt-link
               to="/techs/Farimba"
               >驃悍精神</nuxt-link
-            >:所有騎兵額外獲得+5攻擊。
+            >：所有騎兵額外獲得+5攻擊。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -165,6 +165,14 @@
             </li>
           </ul>
         </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          遠在10世紀時，西非出現一個強大的馬利帝國，該帝國當時所統治的領土，曾包括今塞內加爾、幾內亞、象牙海岸、布吉納法索與迦納等地。而馬利為當時帝國的統治中心。據說1230年馬利帝國建國之時，在一次激烈的戰爭中，其國王和太子等12人，除後來有名的國王<nuxt-link
+            to="/batt/Sundjataa"
+            >松迪亞塔</nuxt-link
+          >外，其餘同時被殺。
+        </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -176,14 +184,6 @@
               <p><em>馬利的世界奇觀，傑內大清真寺</em></p>
             </div>
           </div>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          遠在10世紀時，西非出現一個強大的馬利帝國，該帝國當時所統治的領土，曾包括今塞內加爾、幾內亞、象牙海岸、布吉納法索與迦納等地。而馬利為當時帝國的統治中心。據說1230年馬利帝國建國之時，在一次激烈的戰爭中，其國王和太子等12人，除後來有名的國王<nuxt-link
-            to="/batt/Sundjataa"
-            >松迪亞塔</nuxt-link
-          >外，其餘同時被殺。
         </div>
       </div>
       <div class="col-md-4">

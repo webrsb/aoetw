@@ -19,7 +19,6 @@
             >(在<nuxt-link to="/games/aoc">征服者</nuxt-link
             >資料片後它在遊戲中的樣貌跟一般的狼一模一樣) 。
           </p>
-          <p></p>
         </div>
         <h3>出現場景</h3>
         <div class="hrn1"></div>

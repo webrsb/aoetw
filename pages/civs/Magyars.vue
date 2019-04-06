@@ -8,14 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>馬扎爾</b>是<nuxt-link to="/games/aof"
+            <b>馬扎爾</b>是《<nuxt-link to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
-            >所新增的<nuxt-link to="/civs">文明</nuxt-link
+            >》所新增的<nuxt-link to="/civs">文明</nuxt-link
             >。他們是一個<nuxt-link to="/units/Cavalry_Units"
               >騎兵文明</nuxt-link
             >。馬扎爾是現在的國家匈牙利主體民族，因此常被稱之匈牙利人。他最早被認為是源自於突厥人，在九世紀中有支突厥人貴族進入了中歐。匈牙利黑軍就是指當時中世紀一支強大<nuxt-link
               to="/techs/Mercenaries"
-              >雇傭兵</nuxt-link
+              >僱傭兵</nuxt-link
             >(人數最高達到3萬人左右)有名<nuxt-link to="/batt">戰役</nuxt-link
             >:布拉德菲爾德戰役。
           </p>
@@ -71,7 +71,7 @@
               >的馬扎爾驃騎兵(需研發<nuxt-link to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
               ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
-              >雇傭兵)，對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+              >僱傭兵)，對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
               >有加成威力差不多跟<nuxt-link to="/units/Knight">騎士</nuxt-link
               >一樣，但是只需要80肉，可說是大肉馬(翼騎兵(匈牙利輕騎兵)進階版。
             </li>
@@ -109,7 +109,8 @@
                 class="gg"
                 src="~assets/Magyar_Huszar_icon.jpg"
                 alt=""
-              />馬扎爾驃騎兵:便宜的輕騎兵，對攻城器有加成。
+              /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
+              >：便宜的輕騎兵，對攻城器有加成。
             </p>
           </ul>
           <h3>特殊科技</h3>
@@ -119,14 +120,16 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />雇傭兵：生產馬扎爾驃騎兵時不需要黃金。
+              /><nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link
+              >：生產馬扎爾驃騎兵時不需要黃金。
             </p>
             <p>
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />反曲弓：馬弓騎兵攻擊與距離額外+1。
+              />帝王時代-<nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
+              >：馬弓騎兵攻擊與距離額外+1。
             </p>
           </ul>
         </div>
@@ -242,7 +245,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
                 to="/techs/Mercenaries"
-                >雇傭兵</nuxt-link
+                >僱傭兵</nuxt-link
               ><br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
                 to="/techs/Recurve_Bow"

@@ -509,8 +509,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>或稱拋石機、「
-            回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的<nuxt-link
+            <nuxt-link to="/units/Trebuchet">投石機</nuxt-link
+            >或稱拋石機、「回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的<nuxt-link
               to="/building/Stone_Wall"
               >城牆</nuxt-link
             >、城內或者兵陣內而造成破壞。
@@ -609,11 +609,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">160</td>
           </tr>
           <tr>
-            <td class="unit3">金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">135</td>
           </tr>
           <tr>

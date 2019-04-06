@@ -107,7 +107,6 @@
             <li>在整個遊戲中，速度不能改變。</li>
             <li>儘管此關是斯特林大橋之戰，同名的斯特林大橋卻缺席。</li>
           </ul>
-          <p></p>
         </div>
       </div>
       <div class="col-md-4">
@@ -179,7 +178,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由裕暉、亞諭協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

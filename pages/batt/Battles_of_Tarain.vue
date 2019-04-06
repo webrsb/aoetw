@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <strong>塔蘭村之戰</strong>為<nuxt-link
               to="/batt/Battles_of_the_Forgotten"

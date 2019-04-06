@@ -133,8 +133,8 @@
                 class="gg"
                 src="~assets/PlumedArcherIcon.jpg"
                 alt=""
-              />羽毛箭射手:重裝快速弓兵，對<nuxt-link
-                to="/armor/Armor_Class_Infantry"
+              /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
+              >：重裝快速弓兵，對<nuxt-link to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
               >有攻擊加成。
             </p>
@@ -146,8 +146,8 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />黑曜石之箭：弓兵、弩兵、勁弩兵對<nuxt-link
-                to="/armor/Armor_Class_Building"
+              /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+              >：弓兵、弩兵、勁弩兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >攻擊+6。
             </p>
@@ -156,7 +156,8 @@
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />黃金國：鷹勇士血量+40。
+              />帝王時代-<nuxt-link to="/techs/El_Dorado">黃金國</nuxt-link
+              >：鷹勇士血量+40。
             </p>
           </ul>
         </div>
@@ -213,6 +214,12 @@
             </li>
           </ul>
         </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          傳說<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
+          >在西元1000年前就開始建造宗教性建築，最早的遺跡是由一些簡單的土墳所組成，後來才進一步演化為金字塔。早期的馬雅文明似乎曾經受到更早的奧爾梅克文明的影響。奧爾梅克文明在將他們的文化傳播到今日的猶加敦半島以後，便衰敗滅亡，原因不明。
+        </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -224,12 +231,6 @@
               <p><em>大美洲豹神廟</em></p>
             </div>
           </div>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          傳說<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
-          >在西元1000年前就開始建造宗教性建築，最早的遺跡是由一些簡單的土墳所組成，後來才進一步演化為金字塔。早期的馬雅文明似乎曾經受到更早的奧爾梅克文明的影響。奧爾梅克文明在將他們的文化傳播到今日的猶加敦半島以後，便衰敗滅亡，原因不明。
         </div>
       </div>
       <div class="col-md-4">

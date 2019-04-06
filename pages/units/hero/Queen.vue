@@ -20,7 +20,6 @@
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
-          <p></p>
         </div>
         <div></div>
         <div></div>

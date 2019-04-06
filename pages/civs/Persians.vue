@@ -86,7 +86,8 @@
                 class="gg"
                 src="~assets/WarElephantIcon.jpg"
                 alt=""
-              />戰象:笨重緩慢，但是戰鬥力近乎恐怖的騎兵
+              /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >：笨重緩慢，但是戰鬥力近乎恐怖的騎兵
             </li>
           </ul>
           <h3>特殊科技</h3>
@@ -96,7 +97,8 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />沸油：城堡對於<nuxt-link to="/armor/Armor_Class_Ram"
+              /><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link
+              >：城堡對於<nuxt-link to="/armor/Armor_Class_Ram"
                 >衝撞車系</nuxt-link
               >的傷害+9
             </li>
@@ -105,7 +107,8 @@
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />帝王時代：象伕：戰象的移動速度+30%
+              />帝王時代-<nuxt-link to="/techs/Mahouts">象伕</nuxt-link
+              >：戰象的移動速度+30%
             </li>
           </ul>
         </div>
@@ -315,7 +318,6 @@
         <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p></p>
           <table class="table-bordered" width="100%">
             <tr class="tta">
               <td><nuxt-link to="/batt">戰役</nuxt-link>名稱</td>
@@ -479,6 +481,17 @@
               </li>
             </ul>
           </div>
+          <h3>歷史</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            波斯是伊朗在歐洲的古希臘語和拉丁語的舊稱譯音，是伊朗歷史的一部份。歷史上在這一西南亞地區曾建立過多個的帝國。全盛時期領土東至<nuxt-link
+              to="/civs/Indians"
+              >印度</nuxt-link
+            >河平原，西北至小亞細亞、歐洲的馬其頓、希臘半島、色雷斯，西南至埃及或葉門。波斯興起於伊朗<nuxt-link
+              to="/maps/Highland"
+              >高原</nuxt-link
+            >的西南部。
+          </div>
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -496,17 +509,6 @@
                 </p>
               </div>
             </div>
-          </div>
-          <h3>歷史</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            波斯是伊朗在歐洲的古希臘語和拉丁語的舊稱譯音，是伊朗歷史的一部份。歷史上在這一西南亞地區曾建立過多個的帝國。全盛時期領土東至<nuxt-link
-              to="/civs/Indians"
-              >印度</nuxt-link
-            >河平原，西北至小亞細亞、歐洲的馬其頓、希臘半島、色雷斯，西南至埃及或葉門。波斯興起於伊朗<nuxt-link
-              to="/maps/Highland"
-              >高原</nuxt-link
-            >的西南部。
           </div>
         </div>
       </div>
@@ -564,15 +566,16 @@
                 to="/techs/Boiling_Oil"
                 >沸油</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Mahouts"
-                >象伕</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/Unique-tech.jpg"
+              />帝王時代-<nuxt-link to="/techs/Mahouts">象伕</nuxt-link>
             </td>
           </tr>
         </table>
+
+        <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
       </div>
-      <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
     </div>
   </div>
 </template>

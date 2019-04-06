@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>揭竿而起</b>為<nuxt-link to="/batt/Suryavarman_I"
               >蘇利耶跋摩一世戰役</nuxt-link

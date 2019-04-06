@@ -37,7 +37,6 @@
             ><nuxt-link to="/techs">科技</nuxt-link
             >加成的影響，但不會受到文明加成的影響 。
           </p>
-          <p></p>
         </div>
       </div>
       <div class="col-md-4">

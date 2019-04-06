@@ -22,7 +22,6 @@
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >(在<nuxt-link to="/games/aoc">征服者</nuxt-link>資料片後) 。
           </p>
-          <p></p>
         </div>
         <div></div>
         <div></div>

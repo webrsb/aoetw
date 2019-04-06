@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>至靈山魂</b>為<nuxt-link to="/batt/Le_Loi">黎利戰役</nuxt-link
             >的第二關劇情關卡，此關描述<nuxt-link to="/civs/Vietnamese"
@@ -83,7 +82,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場</h3>
           <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
           <p>

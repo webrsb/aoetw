@@ -68,7 +68,8 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />長城：塔與<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
+              /><nuxt-link to="/techs/Great_Wall">長城</nuxt-link
+              >：塔與<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
               >+30%<nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </li>
             <li>
@@ -76,7 +77,8 @@
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />帝王時代：火箭術：連弩兵攻擊+2，弩砲攻擊+4
+              />帝王時代-<nuxt-link to="/techs/Rocketry">火箭術</nuxt-link
+              >：連弩兵攻擊+2，弩砲攻擊+4
             </li>
           </ul>
         </div>
@@ -301,7 +303,6 @@
         <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p></p>
           <table class="table-bordered" width="100%">
             <tr class="tta">
               <td><nuxt-link to="/batt">戰役</nuxt-link>名稱</td>

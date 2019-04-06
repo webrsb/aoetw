@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>馬利戰役（蠍螫）</b>為<nuxt-link to="/batt/Sundjataa"
               >松迪亞塔戰役</nuxt-link

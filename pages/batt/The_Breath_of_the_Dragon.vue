@@ -31,7 +31,6 @@
             >；諾沃賽洛供應<nuxt-link to="/resource/Food">食物</nuxt-link
             >；歐布魯西薩提供<nuxt-link to="/resource/Stone">石頭</nuxt-link>。
           </p>
-          <p></p>
         </div>
         <h3>AI</h3>
         <table class="table-bordered" width="100%">
@@ -92,7 +91,6 @@
           </tr>
         </table>
 
-        <p></p>
         <h3>主線故事和策略</h3>
         <div class="hrn1"></div>
         <div class="n1">

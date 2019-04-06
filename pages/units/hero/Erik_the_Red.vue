@@ -26,7 +26,6 @@
               >步兵</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link>加成的影響 。
           </p>
-          <p></p>
         </div>
       </div>
       <div class="col-md-4">

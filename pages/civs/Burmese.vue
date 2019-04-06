@@ -61,7 +61,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            緬甸為現今遊戲中，公認最強的國家之一(詳見:單挑最強國家)，不管是單挑還是團戰，或是任何地圖，都是高手自選<nuxt-link
+            緬甸是《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》新增的<nuxt-link to="/civs">文明</nuxt-link
+            >，為現今遊戲中，公認最強的國家之一(詳見:單挑最強國家)，不管是單挑還是團戰，或是任何地圖，都是高手自選<nuxt-link
               to="/civs"
               >文明</nuxt-link
             >時的首選文明。封建時代可以打<nuxt-link to="/ar/armstower"
@@ -103,11 +105,10 @@
           </p>
           <h3>特殊單位</h3>
           <p>
-            <img
-              class="gg"
-              src="~assets/Arambaiicon.png"
-              alt=""
-            />飛鏢騎兵:命中率不高，但殺傷力強大的馬弓<nuxt-link
+            <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+              to="/units/Arambai"
+              >飛鏢騎兵</nuxt-link
+            >：命中率不高，但殺傷力強大的馬弓<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
             >，適合集群攻擊。
@@ -118,14 +119,17 @@
               class="gg"
               src="~assets/CastleAgeUnique.png"
               alt=""
-            /><nuxt-link to="/techs/Howdah">象轎</nuxt-link>:矛象伕的近戰防禦
+            /><nuxt-link to="/techs/Howdah">象轎</nuxt-link>：矛象伕的近戰防禦
             +1，遠距離防禦 +1。
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-              to="/techs/Manipur_Cavalry"
+            <img
+              class="gg"
+              src="~assets/Unique-tech.jpg"
+              alt=""
+            />帝王時代-<nuxt-link to="/techs/Manipur_Cavalry"
               >曼尼普爾騎兵</nuxt-link
-            >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >：<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >與飛鏢騎兵對建築攻擊力+6。
           </p>
         </div>

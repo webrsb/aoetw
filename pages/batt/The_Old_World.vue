@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>舊世界</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeidaa"

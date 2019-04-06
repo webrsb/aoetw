@@ -136,10 +136,10 @@
                 >希臘之火</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Logistica"
-                >後勤學</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/Unique-tech.jpg"
+              />帝王時代-<nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             </td>
           </tr>
         </table>
@@ -151,24 +151,25 @@
     <div class="hrn1"></div>
     <div class="n1">
       <p>
-        <img class="gg" src="~assets/CataphractIcon.jpg" />聖騎兵:對<nuxt-link
-          to="/units/Infantry_Units"
-          >步兵單位</nuxt-link
+        <img class="gg" src="~assets/CataphractIcon.jpg" /><nuxt-link
+          to="/units/Cataphract"
+          >聖騎兵</nuxt-link
+        >：對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
         >有強大的傷害力
       </p>
       <h3>特殊科技</h3>
       <div class="hrn1"></div>
       <p>
-        <img
-          class="gg"
-          src="~assets/CastleAgeUnique.png"
-        />希臘之火:火戰船射程+1
+        <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+          to="/techs/Greek_Fire"
+          >希臘之火</nuxt-link
+        >：火戰船射程+1
       </p>
       <p>
-        <img
-          class="gg"
-          src="~assets/Unique-tech.jpg"
-        />後勤學:聖騎兵會對周遭單位造成傷害
+        <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+          to="/techs/Logistica"
+          >後勤學</nuxt-link
+        >：聖騎兵會對周遭單位造成傷害
       </p>
       <h3>對戰評價</h3>
       <div class="hrn1"></div>
@@ -411,6 +412,11 @@
         <li>經濟：更便宜的垃圾單位與升級帝王時代。</li>
       </ul>
     </div>
+    <h3>歷史</h3>
+    <div class="hrn1"></div>
+    <div class="n1">
+      拜占庭，也就是東羅馬帝國是一個歷史上知名的帝國。羅馬帝國自東西分治後，帝國東部羅馬政權的延續被稱為東羅馬帝國（相對於帝國西部的西羅馬帝國），16世紀以後，開始有學者稱之為拜占庭帝國。其國民在其一千多年的存在期內自稱為「羅馬帝國」（。帝國位於歐洲東部，領土曾包括歐亞非三大洲的亞洲西部和非洲北部，是古代和中世紀歐洲歷史上最悠久的君主制國家。
+    </div>
     <h3>圖庫</h3>
     <div class="hrn1"></div>
     <div class="n1">
@@ -422,11 +428,6 @@
           <p><em>拜占庭的中東式建築。</em></p>
         </div>
       </div>
-    </div>
-    <h3>歷史</h3>
-    <div class="hrn1"></div>
-    <div class="n1">
-      拜占庭，也就是東羅馬帝國是一個歷史上知名的帝國。羅馬帝國自東西分治後，帝國東部羅馬政權的延續被稱為東羅馬帝國（相對於帝國西部的西羅馬帝國），16世紀以後，開始有學者稱之為拜占庭帝國。其國民在其一千多年的存在期內自稱為「羅馬帝國」（。帝國位於歐洲東部，領土曾包括歐亞非三大洲的亞洲西部和非洲北部，是古代和中世紀歐洲歷史上最悠久的君主制國家。
     </div>
   </div>
 </template>

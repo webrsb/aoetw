@@ -434,8 +434,8 @@
                       class="gg"
                       src="~assets/JaguarWarriorIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Jaguar_Warrior">豹勇士→</nuxt-link
-                    ><img
+                    /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>→
+                    <img
                       class="gg"
                       src="~assets/JaguarWarriorIcon.jpg"
                       alt=""

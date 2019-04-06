@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>港灣大商站</b>是<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >資料片中，<nuxt-link to="/civs/Portuguese">葡萄牙人</nuxt-link
+            <b>港灣大商站</b>是《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》資料片中，<nuxt-link to="/civs/Portuguese">葡萄牙人</nuxt-link
             >於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >可以建造的特殊<nuxt-link to="/building">建築物</nuxt-link
             >。不需<nuxt-link to="/units/Villager">村民</nuxt-link
@@ -230,11 +231,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">石頭</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Stone">石頭</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>

@@ -229,7 +229,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由裕暉、亞諭協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
@@ -302,7 +302,7 @@
                 >城牆</nuxt-link
               >記得先離遠點，你還無法處理他們。
             </li>
-            <p></p>
+
             <div class="row">
               <div class="col-md-6">
                 <gallery
@@ -346,7 +346,7 @@
                 >輕型衝撞車</nuxt-link
               >，玩家只需要用城堡守護基地就好。
             </li>
-            <p></p>
+
             <div class="row">
               <div class="col-md-6">
                 <gallery
@@ -380,7 +380,7 @@
                 >裝甲衝撞車</nuxt-link
               >攻擊你的基地。留下5名騎士保衛應該足以對付他們了。如果玩家使用其他策略而沒有提早殲滅霍士道夫的城鎮，霍士道夫會在第一座城堡陷落時隨著12名騎兵和6台裝甲衝撞車朝玩家而來。一旦三座城堡陷落後就獲勝了。
             </li>
-            <p></p>
+
             <div class="row">
               <div class="col-md-6">
                 <gallery

@@ -25,8 +25,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            高棉是很有創造性與挑戰性的<nuxt-link to="/civs">文明</nuxt-link
-            >，首先其<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            高棉是《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》新增的<nuxt-link to="/civs">文明</nuxt-link
+            >。使用上具有創造性與挑戰性，首先其<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >皆與大象有關，但一般<nuxt-link to="/units/Archer_Units"
               >弓兵</nuxt-link
             >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
@@ -111,7 +112,7 @@
                   class="gg"
                   src="~assets/Ballistaelephanticon.png"
                   alt=""
-                />弩砲象:背負<nuxt-link to="/units/Siege_Weapons"
+                /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>：背負<nuxt-link to="/units/Siege_Weapons"
                   >攻城武器</nuxt-link
                 >的大象，弩砲發射時可破壞樹木。
               </li>
@@ -124,15 +125,15 @@
                   src="~assets/CastleAgeUnique.png"
                   alt=""
                 /><nuxt-link to="/techs/Tusk_Swords">象牙劍</nuxt-link
-                >:矛象伕<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>+3。
+                >：矛象伕<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>+3。
               </li>
               <li>
                 <img
                   class="gg"
                   src="~assets/Unique-tech.jpg"
                   alt=""
-                /><nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link
-                >:弩砲象和弩砲發射雙箭(第二發的傷害比起第一發較低)。
+                />帝王時代-<nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link
+                >：弩砲象和弩砲發射雙箭(第二發的傷害比起第一發較低)。
               </li>
             </ul>
           </div>
@@ -181,6 +182,11 @@
             </li>
           </ul>
         </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          9到15世紀初的吳哥王朝國力強盛，創造了舉世聞名的吳哥文明。9世紀至15世紀出現的吳哥王朝，被稱為高棉帝國，國勢鼎盛，文化燦爛，版圖包括今日柬埔寨全境以及泰、寮、越三國之部份地區。明宣德五年（1430年）暹羅入侵柬埔寨，包圍吳哥城七個月，最後攻破吳哥。因為吳哥太靠近暹羅邊境，柬埔寨放棄吳哥，遷都金邊。
+        </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -197,11 +203,6 @@
               </p>
             </div>
           </div>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          9到15世紀初的吳哥王朝國力強盛，創造了舉世聞名的吳哥文明。9世紀至15世紀出現的吳哥王朝，被稱為高棉帝國，國勢鼎盛，文化燦爛，版圖包括今日柬埔寨全境以及泰、寮、越三國之部份地區。明宣德五年（1430年）暹羅入侵柬埔寨，包圍吳哥城七個月，最後攻破吳哥。因為吳哥太靠近暹羅邊境，柬埔寨放棄吳哥，遷都金邊。
         </div>
       </div>
       <div class="col-md-4">

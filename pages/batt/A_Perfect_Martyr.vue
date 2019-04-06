@@ -113,7 +113,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由裕暉、亞諭協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>斯拉夫人</b>是<nuxt-link to="/games/aof"
+            <b>斯拉夫人</b>是《<nuxt-link to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
-            >所新增的<nuxt-link to="/civs">文明</nuxt-link
+            >》所新增的<nuxt-link to="/civs">文明</nuxt-link
             >。他們是一個<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             >和<nuxt-link to="/units/Siege_Weapons">攻城器文明</nuxt-link>。
           </p>
@@ -108,11 +108,10 @@
           </p>
           <h3>特殊單位</h3>
           <li>
-            <img
-              class="gg"
-              src="~assets/New_Boyar.png"
-            />貴族鐵騎:有強大防禦的騎士簡稱有馬的<nuxt-link
-              to="/units/Teutonic_Knight"
+            <img class="gg" src="~assets/New_Boyar.png" /><nuxt-link
+              to="/units/Boyar"
+              >貴族鐵騎</nuxt-link
+            >：有強大防禦的騎士簡稱有馬的<nuxt-link to="/units/Teutonic_Knight"
               >條頓武士</nuxt-link
             >
           </li>
@@ -121,12 +120,13 @@
             <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
               to="/techs/Orthodoxy"
               >東正教</nuxt-link
-            >:僧侶護甲各+3
+            >：僧侶護甲各+3
           </li>
           <li>
-            <img class="gg" src="~assets/Unique-tech.jpg" />王家侍從:<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵單位</nuxt-link
+            <img class="gg" src="~assets/Unique-tech.jpg" />帝王時代-<nuxt-link
+              to="/techs/Druzhina"
+              >王家侍從</nuxt-link
+            >：<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
             >會對周遭敵對單位造成傷害
           </li>
         </div>
@@ -179,6 +179,11 @@
             </li>
           </ul>
         </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          斯拉夫人發源於今波蘭東南部維斯杜拉河上游一帶，於一世紀時開始向外遷徙，六世紀前後，斯拉夫人出現在東歐平原上，那時的他們介乎於遊牧民族和農耕民族之間，有時還靠搶掠為生。六世紀的擴張使得他們的居地已經遍布歐洲中東部。近代隨著俄羅斯疆域的擴張，斯拉夫人也向西伯利亞和中亞地區遷徙。
+        </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -190,11 +195,6 @@
               <p><em>宣傳圖</em></p>
             </div>
           </div>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          斯拉夫人發源於今波蘭東南部維斯杜拉河上游一帶，於一世紀時開始向外遷徙，六世紀前後，斯拉夫人出現在東歐平原上，那時的他們介乎於遊牧民族和農耕民族之間，有時還靠搶掠為生。六世紀的擴張使得他們的居地已經遍布歐洲中東部。近代隨著俄羅斯疆域的擴張，斯拉夫人也向西伯利亞和中亞地區遷徙。
         </div>
       </div>
       <div class="col-md-4">

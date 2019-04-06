@@ -218,7 +218,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">肉</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>

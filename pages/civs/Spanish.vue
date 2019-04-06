@@ -129,14 +129,14 @@
               class="gg"
               src="~assets/ConquistadorIcon.jpg"
               alt=""
-            />征服者:命中率較低，但殺傷力強大的火槍單位，適合集群攻擊。
+            /><nuxt-link to="/units/Conquistador">征服者</nuxt-link
+            >：命中率較低，但殺傷力強大的火槍單位，適合集群攻擊。
           </li>
           <li>
-            <img
-              class="gg"
-              src="~assets/MissionaryIcon.jpg"
-              alt=""
-            />傳教士:移動速度較快研發科技後<nuxt-link to="/elements/Hit_points"
+            <img class="gg" src="~assets/MissionaryIcon.jpg" alt="" /><nuxt-link
+              to="/units/Missionary"
+              >傳教士</nuxt-link
+            >：移動速度較快研發科技後<nuxt-link to="/elements/Hit_points"
               >生命值</nuxt-link
             >較高，但招降距離較短且無法拾取<nuxt-link to="/elements/Relic"
               >遺跡</nuxt-link
@@ -148,13 +148,16 @@
               class="gg"
               src="~assets/CastleAgeUnique.png"
               alt=""
-            />異端審判:加快僧侶招降速度。
+            /><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
+            >：加快僧侶招降速度。
           </li>
           <li>
-            <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-              to="/techs/Supremacy"
-              >霸權</nuxt-link
-            >:村民具有超強作戰能力。
+            <img
+              class="gg"
+              src="~assets/Unique-tech.jpg"
+              alt=""
+            />帝王時代-<nuxt-link to="/techs/Supremacy">霸權</nuxt-link
+            >：村民具有超強作戰能力。
           </li>
         </div>
         <h3>文明加成</h3>
@@ -233,6 +236,17 @@
             </li>
           </ul>
         </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          西班牙帝國是近現代歷史上第一個全球性帝國。它也是世界歷史上規模最大的帝國之一。在16世紀，西班牙諸國和<nuxt-link
+            to="/civs/Portuguese"
+            >葡萄牙</nuxt-link
+          >是歐洲進行環球探險、殖民擴張和開拓跨洋商路的急先鋒。當時西班牙和美洲大陸之間的跨大西洋商路和途徑菲律賓的東亞與墨西哥之間的跨太平洋商路十分繁榮。西班牙征服者摧毀阿茲特克文明、<nuxt-link
+            to="/civs/Incas"
+            >印加</nuxt-link
+          >文明和實際上經已走到衰落盡頭的馬雅文明，將北美洲和南美洲的廣闊土地納入自己的版圖；又於1580年入侵葡萄牙王國，建立西葡帝國。西班牙帝國依靠其經驗豐富的海軍縱橫大洋；依靠其著名的、可怕而訓練有素的步兵——西班牙步兵大方陣在歐洲戰場上占盡優勢。在16和17世紀，西班牙文化也正處於其黃金時代。
+        </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -244,17 +258,6 @@
               <p><em>黃金塔</em></p>
             </div>
           </div>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          西班牙帝國是近現代歷史上第一個全球性帝國。它也是世界歷史上規模最大的帝國之一。在16世紀，西班牙諸國和<nuxt-link
-            to="/civs/Portuguese"
-            >葡萄牙</nuxt-link
-          >是歐洲進行環球探險、殖民擴張和開拓跨洋商路的急先鋒。當時西班牙和美洲大陸之間的跨大西洋商路和途徑菲律賓的東亞與墨西哥之間的跨太平洋商路十分繁榮。西班牙征服者摧毀阿茲特克文明、<nuxt-link
-            to="/civs/Incas"
-            >印加</nuxt-link
-          >文明和實際上經已走到衰落盡頭的馬雅文明，將北美洲和南美洲的廣闊土地納入自己的版圖；又於1580年入侵葡萄牙王國，建立西葡帝國。西班牙帝國依靠其經驗豐富的海軍縱橫大洋；依靠其著名的、可怕而訓練有素的步兵——西班牙步兵大方陣在歐洲戰場上占盡優勢。在16和17世紀，西班牙文化也正處於其黃金時代。
         </div>
       </div>
       <div class="col-md-4">

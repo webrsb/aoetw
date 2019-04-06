@@ -10,7 +10,7 @@
           <b>射箭場</b>是生產<nuxt-link to="/units/Archer">弓箭手</nuxt-link
           >與其他遠距部隊的<nuxt-link to="/building">建築</nuxt-link>。
         </div>
-        <p></p>
+
         <h3>可訓練的單位與技術</h3>
         <div class="hrn1"></div>
         <div class="row">
@@ -255,7 +255,6 @@
           </tr>
         </table>
 
-        <p></p>
         <h3>文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -415,7 +414,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">175</td>
           </tr>
           <tr>

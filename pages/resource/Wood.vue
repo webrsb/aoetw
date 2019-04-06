@@ -7,11 +7,10 @@
       </div>
       <div class="col-md-10">
         <p>
-          <b>石礦</b>是四種主要資源之一，通常主要是由<nuxt-link
+          <b>木材</b>是四種主要資源之一，通常主要是由<nuxt-link
             to="/units/Villager"
             >村民</nuxt-link
-          >採集<nuxt-link to="/resource/Wood">木材</nuxt-link
-          >，但也可以利用別的手段來獲得。
+          >採集木材，但也可以利用別的手段來獲得。
         </p>
       </div>
       <div class="col-md-2"><img src="~assets/Wood_aoe2.png" alt="" /></div>
@@ -19,7 +18,7 @@
         <h3>採集</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>通常可以在地圖上很多的木材，每棵樹有100木ㄓㄞ。</p>
+          <p>通常可以在地圖上很多的木材，每棵樹有100木材。</p>
         </div>
         <h3>市集</h3>
         <div class="hrn1"></div>

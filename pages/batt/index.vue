@@ -5,63 +5,91 @@
         <h1>戰役</h1>
         <div class="row">
           <div class="col-md-12">
-            <p></p>
             <h5><b>遊戲中有5個版本、共24關主戰役劇情。</b></h5>
             <div class="hrn1"></div>
-            <p>
-              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>戰役 ➠<nuxt-link
-                to="#a1"
-                >【威廉華勒斯】</nuxt-link
-              >、<nuxt-link to="#a2">【聖女貞德】</nuxt-link>、
-              <nuxt-link to="#a3">【沙拉丁】</nuxt-link>、<nuxt-link to="#a4"
-                >【成吉思汗】</nuxt-link
-              >、<nuxt-link to="#a5">【巴巴羅薩】</nuxt-link>
-            </p>
-            <p>
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>戰役 ➠<nuxt-link
-                to="#a6"
-                >【阿提拉】</nuxt-link
-              >、<nuxt-link to="#a7">【熙德】</nuxt-link>、<nuxt-link to="#a8"
-                >【蒙特蘇馬】</nuxt-link
-              >、<nuxt-link to="#a9">【征服者的戰役】</nuxt-link>
-            </p>
-            <p>
-              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>戰役 ➠<nuxt-link
-                to="#a10"
-                >【阿拉里克】</nuxt-link
-              >、<nuxt-link to="#a11">【德古拉】</nuxt-link>、<nuxt-link
-                to="#a12"
-                >【巴里】</nuxt-link
-              >、<nuxt-link to="#a13">【斯福爾札】</nuxt-link>、<nuxt-link
-                to="#a14"
-                >【黃金國】</nuxt-link
-              >、<nuxt-link to="#a15">【布里斯比羅吉】</nuxt-link>、<nuxt-link
-                to="#a16"
-                >【失落的帝國戰役】</nuxt-link
-              >
-            </p>
-            <p>
-              <nuxt-link to="/games/ak">非洲王國</nuxt-link>戰役 ➠<nuxt-link
-                to="#a17"
-                >【塔里克·伊本·齊亞德】</nuxt-link
-              >、<nuxt-link to="#a18">【松迪亞塔】</nuxt-link>、<nuxt-link
-                to="#a19"
-                >【法蘭西斯科·阿爾梅達】</nuxt-link
-              >、<nuxt-link to="#a20">【優娣忒】</nuxt-link>
-            </p>
-            <p>
-              <nuxt-link to="/games/aor">王者崛起</nuxt-link>戰役 ➠<nuxt-link
-                to="#a21"
-                >【加查‧馬達】</nuxt-link
-              >、<nuxt-link to="#a22">【蘇利耶跋摩一世】</nuxt-link>、<nuxt-link
-                to="#a23"
-                >【勃印曩】</nuxt-link
-              >、<nuxt-link to="#a24">【黎利】</nuxt-link>
-            </p>
+            <div class="toc float-left">
+              <p>
+                <nuxt-link to="/games/aok">帝王世紀</nuxt-link>戰役<span
+                  class="arror"
+                  >➠</span
+                >
+              </p>
+              <p>
+                <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>戰役<span
+                  class="arror"
+                  >➠</span
+                >
+              </p>
+              <p>
+                <nuxt-link to="/games/aof">失落的帝國</nuxt-link>戰役<span
+                  class="arror"
+                  >➠</span
+                >
+              </p>
+              <p>
+                <nuxt-link to="/games/ak">非洲王國</nuxt-link>戰役<span
+                  class="arror"
+                  >➠</span
+                >
+              </p>
+              <p>
+                <nuxt-link to="/games/aor">王者崛起</nuxt-link>戰役<span
+                  class="arror"
+                  >➠</span
+                >
+              </p>
+            </div>
+            <div class="toc">
+              <p>
+                <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link
+                  to="#a2"
+                  >【聖女貞德】</nuxt-link
+                >、 <nuxt-link to="#a3">【沙拉丁】</nuxt-link>、<nuxt-link
+                  to="#a4"
+                  >【成吉思汗】</nuxt-link
+                >、<nuxt-link to="#a5">【巴巴羅薩】</nuxt-link>
+              </p>
+              <p>
+                <nuxt-link to="#a6">【阿提拉】</nuxt-link>、<nuxt-link to="#a7"
+                  >【熙德】</nuxt-link
+                >、<nuxt-link to="#a8">【蒙特蘇馬】</nuxt-link>、<nuxt-link
+                  to="#a9"
+                  >【征服者的戰役】</nuxt-link
+                >
+              </p>
+              <p>
+                <nuxt-link to="#a10">【阿拉里克】</nuxt-link>、<nuxt-link
+                  to="#a11"
+                  >【德古拉】</nuxt-link
+                >、<nuxt-link to="#a12">【巴里】</nuxt-link>、<nuxt-link
+                  to="#a13"
+                  >【斯福爾札】</nuxt-link
+                >、<nuxt-link to="#a14">【黃金國】</nuxt-link>、<nuxt-link
+                  to="#a15"
+                  >【布里斯比羅吉】</nuxt-link
+                >、<nuxt-link to="#a16">【失落的帝國戰役】</nuxt-link>
+              </p>
+              <p>
+                <nuxt-link to="#a17">【塔里克·伊本·齊亞德】</nuxt-link
+                >、<nuxt-link to="#a18">【松迪亞塔】</nuxt-link>、<nuxt-link
+                  to="#a19"
+                  >【法蘭西斯科·阿爾梅達】</nuxt-link
+                >、<nuxt-link to="#a20">【優娣忒】</nuxt-link>
+              </p>
+              <p>
+                <nuxt-link to="#a21">【加查‧馬達】</nuxt-link>、<nuxt-link
+                  to="#a22"
+                  >【蘇利耶跋摩一世】</nuxt-link
+                >、<nuxt-link to="#a23">【勃印曩】</nuxt-link>、<nuxt-link
+                  to="#a24"
+                  >【黎利】</nuxt-link
+                >
+              </p>
+            </div>
           </div>
         </div>
         <div class="hrn1"></div>
-        <p></p>
+
         <h3><strong>帝王世紀戰役</strong></h3>
         <div class="row">
           <div class="col-md-4">
@@ -429,9 +457,9 @@
           </div>
         </div>
         <br />
-        <p></p>
+
         <div class="hrn1"></div>
-        <p></p>
+
         <h3><strong>征服者入侵戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
@@ -728,9 +756,9 @@
           </div>
         </div>
         <br />
-        <p></p>
+
         <div class="hrn1"></div>
-        <p></p>
+
         <h3><strong>失落的帝國戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
@@ -1157,9 +1185,9 @@
           </div>
         </div>
         <br />
-        <p></p>
+
         <div class="hrn1"></div>
-        <p></p>
+
         <h3><strong>非洲王國戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
@@ -1404,9 +1432,9 @@
           </div>
         </div>
         <br />
-        <p></p>
+
         <div class="hrn1"></div>
-        <p></p>
+
         <h3><strong>王者崛起戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
@@ -1686,4 +1714,20 @@ export default {
   components: {}
 }
 </script>
-<style></style>
+<style>
+.toc p {
+  white-space: nowrap;
+}
+
+.toc {
+  overflow-x: auto;
+}
+
+.toc.float-left {
+  float: left;
+}
+
+.arror {
+  float: right;
+}
+</style>

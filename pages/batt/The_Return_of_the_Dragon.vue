@@ -162,7 +162,7 @@
               一些建築有特殊的機關，布朗城堡(世界奇觀)會每五分鐘給德古拉遊俠，而地圖中央的碼頭客棧(交易<nuxt-link
                 to="/building/Market"
                 >市集</nuxt-link
-              >)可以<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>。
+              >)可以<nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link>。
             </li>
             <li>德古拉可以達到帝王時代。</li>
           </ul>

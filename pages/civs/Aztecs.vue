@@ -98,7 +98,7 @@
             >:矛兵額外獲得+1攻擊，+1射程
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+            <img class="gg" src="~assets/Unique-tech.jpg" />帝王時代-<nuxt-link
               to="/techs/Garland_Wars"
               >榮冠戰爭</nuxt-link
             >:所有步兵額外獲得+4攻擊

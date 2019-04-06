@@ -154,13 +154,13 @@
                 class="gg"
                 src="~assets/ScoutCavalryIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Scout_Cavalry">斥候→</nuxt-link
-              ><img
+              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
+              <img
                 class="gg"
                 src="~assets/LightCavalryIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Light_Cavalry">輕騎兵→</nuxt-link
-              ><img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+              /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
+              <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
               >

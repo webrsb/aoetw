@@ -73,12 +73,10 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/SMURI.jpg"
-                alt=""
-              />日本武士:<nuxt-link to="/elements/Rate_of_Fire"
-                >攻擊速度</nuxt-link
+              <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                to="/units/Samurai"
+                >日本武士</nuxt-link
+              >：<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
               >極快的步兵，對於所有文明的特殊單位傷害+10、12(精銳)
             </li>
           </ul>
@@ -97,7 +95,8 @@
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />帝王時代：彈射器：投石機拆裝速度四倍，且攻擊速率快33%
+              />帝王時代-<nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
+              >：投石機拆裝速度四倍，且攻擊速率快33%
             </li>
           </ul>
         </div>

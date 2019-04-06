@@ -10,8 +10,8 @@
           <p>
             <b>印度</b>是<nuxt-link to="/units/Camel">駱駝</nuxt-link
             >和<nuxt-link to="/units/Gunpowder_Unit">火藥文明</nuxt-link
-            >，<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
-            >新增的文明。印度軍隊一直以來都很依賴於大象，因此印度的<nuxt-link
+            >，《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >》新增的文明。印度軍隊一直以來都很依賴於大象，因此印度的<nuxt-link
               to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
@@ -135,16 +135,18 @@
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              />象弓騎兵:超重裝馬弓騎兵，對馬建築物/<nuxt-link
-                to="/building/Stone_Wall"
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
+              >：超重裝馬弓騎兵，對馬建築物/<nuxt-link to="/building/Stone_Wall"
                 >城牆</nuxt-link
               >有攻擊加成。
+            </li>
+            <li>
               <img
                 class="gg"
                 src="~assets/ImperialCamelIcon.jpg"
                 alt=""
-              />帝王駱駝騎兵:更強大的<nuxt-link to="/units/Camel"
-                >駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
+              >：更強大的<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
               >，對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊加成。
             </li>
@@ -156,14 +158,16 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />蘇丹：黃金收入的效率一律+10%。
+              /><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link
+              >：黃金收入的效率一律+10%。
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />印度火槍：火槍兵攻擊距離+1。
+              />帝王時代-<nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link
+              >：火槍兵攻擊距離+1。
             </li>
           </ul>
         </div>

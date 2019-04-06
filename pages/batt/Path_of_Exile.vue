@@ -19,7 +19,6 @@
               >極大汗</nuxt-link
             >的眼皮下逃到三個逃生點中的其中一個。
           </p>
-          <p></p>
         </div>
         <h3>AI</h3>
         <table class="table-bordered" width="100%">
@@ -60,7 +59,6 @@
           </tr>
         </table>
 
-        <p></p>
         <h3>主要任務</h3>
         <div class="hrn1"></div>
         <div class="n1">

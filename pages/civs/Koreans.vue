@@ -104,11 +104,10 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/WarWagonIcon.jpg"
-                alt=""
-              />馬戰車:韓國特殊單位，重裝的<nuxt-link
+              <img class="gg" src="~assets/WarWagonIcon.jpg" alt="" /><nuxt-link
+                to="/units/War_Wagon"
+                >馬戰車</nuxt-link
+              >：韓國特殊單位，重裝的<nuxt-link
                 to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >單位。
@@ -118,7 +117,8 @@
                 class="gg"
                 src="~assets/TurtleShipIcon.jpg"
                 alt=""
-              />龜甲船:慢的鐵製槳帆戰船用於摧毀近距離敵艦。
+              /><nuxt-link to="/armor/Armor_Class_Turtle_Ship">龜甲船</nuxt-link
+              >：慢的鐵製槳帆戰船用於摧毀近距離敵艦。
             </li>
           </ul>
           <h3>特殊科技</h3>
@@ -132,9 +132,11 @@
               >:龜甲船移動速度快15%。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Shinkichon"
-                >神機箭</nuxt-link
+              <img
+                class="gg"
+                src="~assets/Unique-tech.jpg"
+                alt=""
+              />帝王時代-<nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link
               >:<nuxt-link to="/units/Mangonel">投石車</nuxt-link>+1攻擊距離。
             </li>
           </ul>

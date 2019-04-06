@@ -104,11 +104,10 @@
           <h3><strong>特殊單位</strong></h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/HuskarlIcon.jpg"
-                alt=""
-              />哥德衛隊:快速的步兵，且有異常高的<nuxt-link to="/armor"
+              <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" /><nuxt-link
+                to="/units/Huskarl"
+                >哥德衛隊</nuxt-link
+              >：快速的步兵，且有異常高的<nuxt-link to="/armor"
                 >遠程護甲</nuxt-link
               >，基本上克制所有弓箭系。碰到高攻擊近戰單位會顯得吃力。
             </li>
@@ -120,14 +119,16 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />無政府狀態：軍營可以生產哥德衛隊。
+              /><nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
+              >：軍營可以生產哥德衛隊。
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />帝王時代：灌注士氣：軍營生產單位速度快100%。
+              />帝王時代-<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >：軍營生產單位速度快100%。
             </li>
           </ul>
         </div>
@@ -327,7 +328,6 @@
         </h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p></p>
           <table class="table-bordered" width="100%">
             <tr class="tta">
               <td>戰役名稱</td>

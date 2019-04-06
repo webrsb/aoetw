@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>帝國的廢墟</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeidaa"
@@ -326,9 +325,8 @@
                 只要完成劇情兩項主要任務，班圖人（橘）和桑給巴爾人（水藍）也會顯示擊敗，完成通關。
               </li>
               <li>
-                快速通關法：帶<b>穆罕默德</b>踩過四個藍色旗幟（小島上1個、本島中心3個）→<nuxt-link
-                  to="/building/Stone_Wall"
-                  >城牆</nuxt-link
+                快速通關法：帶<b>穆罕默德</b>踩過四個藍色旗幟（小島上1個、本島中心3個）→
+                <nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
                 >外利用火砲摧毀基爾瓦（紅）的城堡→搬運遺跡、發展經濟及研發<nuxt-link
                   to="/techs"
                   >科技</nuxt-link

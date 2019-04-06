@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>突襲（風捲殘雲）</b>為<nuxt-link to="/batt/Tariq_ibn_Ziyada"
               >塔里克·伊本·齊亞德(戰役)</nuxt-link
@@ -39,7 +38,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -73,7 +71,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場</h3>
           <li>
             軍事單位 -<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
@@ -89,7 +86,7 @@
             大地之母 -<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >x1、<nuxt-link to="/units/Villager">村民</nuxt-link>x5。
           </li>
-          <p></p>
+
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -274,7 +271,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由熊協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

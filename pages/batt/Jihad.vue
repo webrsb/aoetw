@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>聖戰</b>為<nuxt-link to="/batt/Saladina">沙拉丁戰役</nuxt-link
             >的第五關劇情關卡，此關為<nuxt-link to="/units/hero/Saladin"
@@ -37,7 +36,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -90,7 +88,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場：</h3>
           <p>
             3位<nuxt-link to="/units/Villager">村民</nuxt-link>、4艘<nuxt-link

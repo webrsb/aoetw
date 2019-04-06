@@ -58,7 +58,6 @@
         <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p></p>
           <table class="table-bordered" width="100%">
             <tr class="tta">
               <td>戰役名稱</td>

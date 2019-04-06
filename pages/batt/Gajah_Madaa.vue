@@ -86,7 +86,6 @@
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p></p>
             <ul>
               <li>滿者伯夷帝國：</li>
               13世紀建立於東爪哇的印度教帝國。雄踞南洋，勢力範圍遍及馬來半島南部、婆羅洲、峇厘島等地。極盛時期甚至擴張至泰國領內以及菲律賓。13世紀末，忽必烈曾經組織大軍入侵南洋，但遭到滿者伯夷擊退。於14世紀入貢大明。一直雄踞南洋直到15世紀東爪哇的淡目國崛起才走向衰亡。
@@ -144,7 +143,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由亞諭、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

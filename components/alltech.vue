@@ -239,7 +239,7 @@
                   <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>/
                   <nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>
                   (<nuxt-link to="/civs/Koreans">韓國</nuxt-link>)<br />
-                  <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>/
+                  <nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link>/
                   <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>
                   (<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>)<br />
                   <nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link>/

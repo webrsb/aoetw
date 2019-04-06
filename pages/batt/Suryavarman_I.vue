@@ -72,7 +72,6 @@
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p></p>
             <ul>
               <li>蘇利耶跋摩一世即位前的高棉形勢：</li>
               高棉王國在11世紀初期進入了發展停滯期。前任君主：闍耶跋摩五世十分勤政，對於境內的宗教、領主反叛也都相對寬厚。但唯一的問題便是死後無嗣。這導致了繼任者優陀耶迭多跋摩一世在登基後並未得到各路諸侯領主的尊敬。而蘇利耶跋摩一世，便是其中之一。
@@ -135,7 +134,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由亞諭、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

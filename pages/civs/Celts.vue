@@ -183,26 +183,28 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/WBRSK.jpg"
-                alt=""
-              />菘藍武士:快速又具破壞力的步兵
+              <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                to="/units/Woad_Raider"
+                >菘藍武士</nuxt-link
+              >：快速又具破壞力的步兵
             </li>
           </ul>
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-              />堡壘:<nuxt-link to="/building/Castle">城堡</nuxt-link
-              >和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Stronghold"
+                >堡壘</nuxt-link
+              >：<nuxt-link to="/building/Castle">城堡</nuxt-link>和<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
               >攻擊速度+20%
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Furor_Celtica"
+              <img
+                class="gg"
+                src="~assets/Unique-tech.jpg"
+              />帝王時代-<nuxt-link to="/techs/Furor_Celtica"
                 >塞爾特狂暴</nuxt-link
               >:攻城器製造所的單位血量+40%
             </li>
@@ -244,7 +246,8 @@
             </li>
             <li>
               加入<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-              >特殊科技：堡壘:城堡和箭塔攻擊速度+20%
+              >特殊科技<nuxt-link to="/techs/Stronghold">堡壘</nuxt-link
+              >:城堡和箭塔攻擊速度+20%
             </li>
           </ul>
         </div>

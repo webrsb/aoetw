@@ -708,11 +708,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>
-            <td class="unit3">石頭</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Stone">石頭</nuxt-link>
+            </td>
             <td class="unit4">125</td>
           </tr>
           <tr>

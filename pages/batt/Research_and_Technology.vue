@@ -38,7 +38,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -108,7 +107,6 @@
             </li>
             <li>在整個遊戲中，速度不能改變。</li>
           </ul>
-          <p></p>
         </div>
       </div>
       <div class="col-md-4">

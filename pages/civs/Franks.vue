@@ -134,9 +134,10 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/TAXEM.jpg" alt="" />擲斧兵:<nuxt-link
-                to="/units/Archer_Units"
-                >遠程</nuxt-link
+              <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                to="/units/Throwing_Axeman"
+                >擲斧兵</nuxt-link
+              >：<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
               >步兵，對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >攻擊有加成。
@@ -149,14 +150,14 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />騎士精神：馬廄工作效率+40%。
+              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+              >：馬廄工作效率+40%。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />倒鉤斧：擲斧兵攻擊距離+1。
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Bearded_Axe"
+                >倒鉤斧</nuxt-link
+              >：擲斧兵攻擊距離+1。
             </li>
           </ul>
         </div>
@@ -198,7 +199,10 @@
               >，但法蘭克遊俠擁有192血量，遠勝過一般遊俠的160血量，幾乎沒有天敵。但<nuxt-link
                 to="/games/aoc"
                 >征服者入侵</nuxt-link
-              >的版本帶來的兩個遊俠國與戟兵，還引入了新科技血統，讓全滿遊俠國也有180hp，讓法蘭克失色不少。
+              >的版本帶來的兩個遊俠國與戟兵，還引入了新科技<nuxt-link
+                to="/techs/Bloodlines"
+                >血統</nuxt-link
+              >，讓全滿遊俠國也有180hp，讓法蘭克失色不少。
             </li>
           </ul>
         </div>
@@ -229,7 +233,8 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />騎士精神：馬廄工作效率+40%。
+              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+              >：馬廄工作效率+40%。
             </li>
           </ul>
           <h3>
@@ -301,10 +306,10 @@
                 >騎士精神</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Bearded_Axe"
-                >倒鉤斧</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/Unique-tech.jpg"
+              />帝王時代-<nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link>
             </td>
           </tr>
         </table>

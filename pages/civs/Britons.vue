@@ -78,7 +78,8 @@
           </p>
           <h3>特殊單位</h3>
           <p>
-            長弓兵:有全遊戲裡最遠的攻擊距離的<nuxt-link to="/units/Archer_Units"
+            <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
+            >：有全遊戲裡最遠的攻擊距離的<nuxt-link to="/units/Archer_Units"
               >弓兵單位</nuxt-link
             >。
           </p>
@@ -240,7 +241,7 @@
           <tr>
             <td class="unit3">首選戰略</td>
             <td class="unit4">
-              封建<nuxt-link to="/units/Archer">弓兵</nuxt-link>
+              <nuxt-link to="/ar/archerstar">小弓開局</nuxt-link>
             </td>
           </tr>
           <tr>

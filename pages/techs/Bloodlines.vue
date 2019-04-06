@@ -222,11 +222,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">肉</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
-            <td class="unit3">金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

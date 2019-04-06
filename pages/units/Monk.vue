@@ -365,8 +365,8 @@
                   class="gg"
                   src="~assets/EagleScoutIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Scout">鷹斥候→</nuxt-link
-                ><img
+                /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
+                <img
                   class="gg"
                   src="~assets/EagleWarriorIcon.jpg"
                   alt=""
@@ -614,7 +614,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>大越義軍</b>為<nuxt-link to="/batt/Le_Loi">黎利戰役</nuxt-link
             >的第一關劇情關卡，此關描述<nuxt-link to="/civs/Vietnamese"

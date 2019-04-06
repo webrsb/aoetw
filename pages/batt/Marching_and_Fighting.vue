@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>行軍與戰鬥</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
             >的第一個劇情關卡，此關專門為那些以前從未玩過世紀帝國II系列的玩家設計。
@@ -31,7 +30,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -55,7 +53,6 @@
             </tr>
           </table>
 
-          <p></p>
           <p>開場：1位<nuxt-link to="/units/Militia">民兵</nuxt-link>。</p>
           <p>
             大地之母單位：2位民兵、1位<nuxt-link to="/units/Knight"
@@ -107,7 +104,6 @@
               在這個村莊的西北部，和這個戰役中的大多數其他任務關卡一樣，在樹林裡有一個英格蘭民兵，但是由於玩家不能生產村民砍筏森林，所以不能到達。這是為了防止英格蘭軍隊被過早打敗。
             </li>
           </ol>
-          <p></p>
         </div>
       </div>
       <div class="col-md-4">

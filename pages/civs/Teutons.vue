@@ -124,10 +124,10 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/Crusade_avatar.png"
-              />條頓武士:厚重緩慢，但是戰鬥力近乎恐怖的步兵，對<nuxt-link
+              <img class="gg" src="~assets/Crusade_avatar.png" /><nuxt-link
+                to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >：厚重緩慢，但是戰鬥力近乎恐怖的步兵，對<nuxt-link
                 to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >有加成
@@ -149,7 +149,8 @@
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />垛口：城堡攻擊距離+3、且步兵可以射箭
+              />帝王時代-<nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              >：城堡攻擊距離+3、且步兵可以射箭
             </li>
           </ul>
         </div>

@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>海港</b>是<nuxt-link to="/games/aor"
+            <b>海港</b>是《<nuxt-link to="/games/aor"
               >世界地國II:王者崛起</nuxt-link
-            >資料片中<nuxt-link to="/civs/Malay">馬來人</nuxt-link
+            >》資料片中<nuxt-link to="/civs/Malay">馬來人</nuxt-link
             >進入<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >研發完<nuxt-link to="/techs">科技</nuxt-link
             >"海上霸主"可以建造的特殊軍事經濟復合式<nuxt-link to="/building"
@@ -537,7 +537,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>

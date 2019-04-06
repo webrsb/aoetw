@@ -161,14 +161,17 @@
                 class="gg"
                 src="~assets/RattanarcherIcon2.png"
                 alt=""
-              />藤甲弓兵:重裝弓箭手，遠防極高。
+              /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
+              >：重裝弓箭手，遠防極高。
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/Imperialskirmishericon.png"
                 alt=""
-              />帝王戰矛兵
+              /><nuxt-link to="/units/Imperial_Skirmisher"
+                >帝王戰矛兵</nuxt-link
+              >
             </li>
           </ul>
           <h3>特殊科技</h3>
@@ -178,14 +181,16 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />恰特拉傘：矛象伕血量+50。
+              /><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link
+              >：矛象伕血量+50。
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />紙幣：花800食物200黃金換取盟友與自己各收到500黃金。
+              />帝王時代-<nuxt-link to="/techs/Paper_Money">紙幣</nuxt-link
+              >：花800食物200黃金換取盟友與自己各收到500黃金。
             </li>
           </ul>
         </div>

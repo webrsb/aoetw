@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>兵分三路</b>為<nuxt-link to="/batt/Le_Loi">黎利戰役</nuxt-link
             >的第五關劇情關卡，此關描述<nuxt-link to="/civs/Vietnamese"
@@ -38,7 +37,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -96,7 +94,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場</h3>
           <p>
             。 <nuxt-link to="/units/hero">英雄</nuxt-link> -<nuxt-link

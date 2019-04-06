@@ -127,13 +127,13 @@
                   class="gg"
                   src="~assets/EagleScoutIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Scout">鷹斥候→</nuxt-link
-                ><img
+                /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
+                <img
                   class="gg"
                   src="~assets/EagleWarriorIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Warrior">鷹勇士→</nuxt-link
-                ><img
+                /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>→
+                <img
                   class="gg"
                   src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""
@@ -146,17 +146,16 @@
                   class="gg"
                   src="~assets/ScoutCavalryIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Scout_Cavalry">斥候→</nuxt-link
-                ><img
+                /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
+                <img
                   class="gg"
                   src="~assets/LightCavalryIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Light_Cavalry">輕騎兵→</nuxt-link
-                ><img
-                  class="gg"
-                  src="~assets/HussarIcon.jpg"
-                  alt=""
-                /><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
+                /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
+                <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Hussar"
+                  >匈牙利輕騎兵</nuxt-link
+                >
               </li>
             </ul>
             科技

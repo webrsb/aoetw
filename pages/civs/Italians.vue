@@ -153,17 +153,17 @@
                 class="gg"
                 src="~assets/New_Genoese_Crossbowman.png"
                 alt=""
-              />熱那亞弩手:<nuxt-link to="/armor/Armor_Class_Cavalry"
-                >反騎兵</nuxt-link
+              /><nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+              >：<nuxt-link to="/armor/Armor_Class_Cavalry">反騎兵</nuxt-link
               >弓兵，對<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >有攻擊加成但射程比一般弓兵短。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/CondottieroNewIcon.jpg"
-              />僱傭兵:義大利的第二種特殊單位，能夠在帝王時代的<nuxt-link
+              <img class="gg" src="~assets/CondottieroNewIcon.jpg" /><nuxt-link
+                to="/techs/Mercenaries"
+                >僱傭兵</nuxt-link
+              >：義大利的第二種特殊單位，能夠在帝王時代的<nuxt-link
                 to="/building/Barracks"
                 >軍營</nuxt-link
               >中訓練。任何與義大利同盟的國家都能生產。
@@ -176,14 +176,16 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />巨盾：弓兵近防/遠防+1。
+              /><nuxt-link to="/techs/Pavise">巨盾</nuxt-link
+              >：弓兵近防/遠防+1。
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />絲綢之路：貿易單位便宜50%。
+              />帝王時代-<nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link
+              >：貿易單位便宜50%。
             </li>
           </ul>
         </div>

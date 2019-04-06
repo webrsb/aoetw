@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>席捲入荒</b>為<nuxt-link to="/batt/Suryavarman_I"
               >蘇利耶跋摩一世戰役</nuxt-link
@@ -39,7 +38,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -81,7 +79,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場</h3>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link

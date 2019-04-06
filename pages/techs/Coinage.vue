@@ -115,7 +115,9 @@
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit3">金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

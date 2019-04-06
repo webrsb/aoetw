@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>雇傭兵</h1>
+        <h1>僱傭兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>雇傭兵</b>是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            <b>僱傭兵</b>是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -25,10 +25,10 @@
               <nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
               >可說是比較強的<nuxt-link to="/units/Hussar"></nuxt-link
               ><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
-              >。如果馬扎爾玩家想大量使用馬扎爾驃騎兵，那應該盡快研發雇傭兵。研發後馬扎爾驃騎兵會變成所謂的"垃圾單位"，這可讓馬扎爾玩家在遊戲後期省下更多的黃金並在所謂的"垃圾戰爭"中取得更好的優勢。
+              >。如果馬扎爾玩家想大量使用馬扎爾驃騎兵，那應該盡快研發僱傭兵。研發後馬扎爾驃騎兵會變成所謂的"垃圾單位"，這可讓馬扎爾玩家在遊戲後期省下更多的黃金並在所謂的"垃圾戰爭"中取得更好的優勢。
             </li>
             <li>
-              馬扎爾驃騎兵即使沒有雇傭兵也只花費10黃金，所以要研發雇傭兵的情況只有在訓練超過30隻以上的馬扎爾驃騎兵才需要。
+              馬扎爾驃騎兵即使沒有僱傭兵也只花費10黃金，所以要研發僱傭兵的情況只有在訓練超過30隻以上的馬扎爾驃騎兵才需要。
             </li>
           </ul>
         </div>
@@ -40,7 +40,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速雇傭兵的研究時間(快25%)。
+              >能夠加速僱傭兵的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -49,7 +49,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">雇傭兵</div>
+              <div class="unititle2">僱傭兵</div>
             </td>
           </tr>
           <tr>
@@ -107,7 +107,9 @@
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

@@ -74,7 +74,6 @@
         <h3>收集資源效率</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p></p>
           <p>村民收集資源的速率有所不同，以下列出所有收集速率(降冪)</p>
         </div>
         <table class="table-bordered" width="100%">
@@ -85,36 +84,48 @@
           </tr>
           <tr>
             <td class="ttb1">塞爾特伐木工</td>
-            <td class="ttb2">木材</td>
+            <td class="ttb2">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="ttb3">0.449</td>
           </tr>
           <tr>
             <td class="tta1">伐木工</td>
-            <td class="tta2">木材</td>
+            <td class="tta2">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="tta3">0.39</td>
           </tr>
           <tr>
             <td class="ttb1">
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>礦工
             </td>
-            <td class="ttb2">黃金</td>
+            <td class="ttb2">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="ttb3">0.455</td>
           </tr>
           <tr>
             <td class="tta1">礦工</td>
-            <td class="tta2">黃金</td>
+            <td class="tta2">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="tta3">0.379</td>
           </tr>
           <tr>
             <td class="ttb1">
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>礦工
             </td>
-            <td class="ttb2">石頭</td>
+            <td class="ttb2">
+              <nuxt-link to="/resource/Stone">石頭</nuxt-link>
+            </td>
             <td class="ttb3">0.431</td>
           </tr>
           <tr>
             <td class="tta1">礦工</td>
-            <td class="tta2">石頭</td>
+            <td class="tta2">
+              <nuxt-link to="/resource/Stone">石頭</nuxt-link>
+            </td>
             <td class="tta3">0.359</td>
           </tr>
           <tr>

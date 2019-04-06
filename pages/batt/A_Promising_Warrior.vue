@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <strong>英雄出少年</strong>為<nuxt-link
               to="/batt/Battles_of_the_Forgotten"
@@ -131,7 +130,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           （依照玩家選擇不同將會有不同次要任務目標劇情）
-          <p></p>
+
           <p>A路線</p>
           <ol>
             <li>解救礦城，以便能順利修補橋樑。</li>

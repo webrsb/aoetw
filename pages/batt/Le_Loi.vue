@@ -83,7 +83,6 @@
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p></p>
             <ul>
               <li>黎利的用兵之道：</li>
               黎利善於利用越南北部的山林環境，出奇不易地伏擊實力堅強的明軍。除了善用天險，在治軍上面亦有特出之處。黎利對於「號令服從」、「軍紀常規」、「陣中和睦」這三大點十分重視。起草『軍憲十條』，以約束部將。
@@ -139,7 +138,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由亞諭、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

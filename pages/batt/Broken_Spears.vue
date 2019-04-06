@@ -14,7 +14,6 @@
             >的第六個場景。該<nuxt-link to="/batt">戰役</nuxt-link
             >玩家的敵人科爾特斯和特拉斯卡拉再度來犯，玩家必須守護特諾奇提特蘭。這次科爾特斯有兩個勢力，一個陸軍一個海軍。
           </p>
-          <p></p>
         </div>
         <h2>玩家</h2>
         <div class="hrn1"></div>
@@ -114,7 +113,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>主要任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -327,7 +325,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="row">
           <div class="col-md-12">
             <div class="wiki" style="margin-top: 5px;">

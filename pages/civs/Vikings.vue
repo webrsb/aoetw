@@ -114,7 +114,8 @@
                 src="~assets/VBRSK.jpg"
                 width="22"
                 alt=""
-              />狂戰士:擅於對付部分騎兵與步兵的特殊步兵
+              /><nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+              >：擅於對付部分騎兵與步兵的特殊步兵
             </li>
             <li>
               <img
@@ -132,7 +133,8 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />酋長:步兵對<nuxt-link to="/armor/Armor_Class_Cavalry"
+              /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
+              >：步兵對<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >有+5攻擊
             </li>
@@ -141,7 +143,9 @@
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />狂戰士幫:狂戰士自我療傷速度加快
+              />帝王時代-<nuxt-link to="/techs/Berserkergang"
+                >狂戰士幫</nuxt-link
+              >：狂戰士自我療傷速度加快
             </li>
           </ul>
         </div>
@@ -294,8 +298,14 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />酋長 <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" />狂戰士幫
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Chieftains"
+                >酋長</nuxt-link
+              ><br />
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Berserkergang"
+                >狂戰士幫</nuxt-link
+              >
             </td>
           </tr>
         </table>

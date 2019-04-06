@@ -11,7 +11,9 @@
             <b>葡萄牙</b>是歐洲的<nuxt-link to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >和<nuxt-link to="/units/Gunpowder_Unit">火藥文明</nuxt-link
-            >，扎實的後期經濟，擁有多樣的<nuxt-link to="/units/Gunpowder_Unit"
+            >，是《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》新增的文明。扎實的後期經濟，擁有多樣的<nuxt-link
+              to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
             >與強大的海軍。
           </p>
@@ -99,25 +101,24 @@
             <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
               to="/units/Organ_Gun"
               >風琴砲</nuxt-link
-            >:可射出一排子彈的<nuxt-link to="/units/Siege_Weapons"
+            >：可射出一排子彈的<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >，擅於掃射大量敵軍。
           </li>
           <li>
-            <img
-              class="gg"
-              src="~assets/CaravelIcon2.jpg"
-              alt=""
-            />卡拉維爾戰船:葡萄牙特色槳帆戰船，擅於攻擊敵軍大群艦隊，因為每一砲都能打擊多艘敵船。
+            <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+              to="/units/Caravel"
+              >卡拉維爾戰船</nuxt-link
+            >：葡萄牙特色槳帆戰船，擅於攻擊敵軍大群艦隊，因為每一砲都能打擊多艘敵船。
           </li>
           <h3>特殊建築</h3>
           <li>
-            <img
-              class="gg"
-              src="~assets/Feitoriaicon.png"
-              alt=""
-            />港灣大商站:經濟<nuxt-link to="/building">建築</nuxt-link
-            >，不需要<nuxt-link to="/units/Villager">村民</nuxt-link
+            <img class="gg" src="~assets/Feitoriaicon.png" alt="" /><nuxt-link
+              to="/building/Feitoriaicon_Feitoria"
+              >港灣大商站</nuxt-link
+            >：經濟<nuxt-link to="/building">建築</nuxt-link>，不需要<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
             >能自動產生資源的建築。需要占用20人口。
           </li>
           <h3>特殊科技</h3>
@@ -127,14 +128,15 @@
               src="~assets/CastleAgeUnique.png"
               alt=""
             /><nuxt-link to="/techs/Carrack">克拉克帆船</nuxt-link
-            >:船的盔甲與遠距裝甲值分別 +1。
+            >：船的盔甲與遠距裝甲值分別 +1。
           </li>
           <li>
             <img
               class="gg"
               src="~assets/Unique-tech.jpg"
               alt=""
-            />火繩槍:火藥單位均受益於彈道學，使火藥單位針對移動中的單位也有較好的命中率。
+            />帝王時代-<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
+            >：火藥單位均受益於彈道學，使火藥單位針對移動中的單位也有較好的命中率。
           </li>
         </div>
         <h3>文明加成</h3>

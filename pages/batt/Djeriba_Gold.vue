@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>傑爾巴島的黃金</b>為<nuxt-link to="/batt/Sundjataa"
               >松迪亞塔戰役</nuxt-link
@@ -38,7 +37,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -85,7 +83,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場</h3>
           <li>
             軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
@@ -106,7 +103,7 @@
               >攻城器製造所</nuxt-link
             >x1、<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>x1。
           </li>
-          <p></p>
+
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -326,7 +323,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由熊、天翔協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

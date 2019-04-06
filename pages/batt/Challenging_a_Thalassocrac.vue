@@ -38,7 +38,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -74,7 +73,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場</h3>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link

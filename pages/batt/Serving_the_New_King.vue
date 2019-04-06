@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>輔佐新君</b>為<nuxt-link to="/batt/Gajah_Madaa"
               >加查·馬達戰役</nuxt-link
@@ -38,7 +37,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -82,7 +80,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>開場</h3>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
@@ -103,7 +100,7 @@
             <li>摧毀望加錫人的碼頭。</li>
             <li>摧毀魯烏人的碼頭。</li>
           </div>
-          <p></p>
+
           <h2>任務提示</h2>
           <div class="hrn1"></div>
           <div class="n1">

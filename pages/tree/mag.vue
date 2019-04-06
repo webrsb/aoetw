@@ -527,7 +527,7 @@
                 width="30"
                 alt=""
               />
-              <div><nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link></div>
+              <div><nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
             <td class="t13 trm"></td>

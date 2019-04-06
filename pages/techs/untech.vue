@@ -318,7 +318,7 @@
               /><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>
+              <nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link>
             </td>
             <td class="tunitc5">200F 300G</td>
             <td class="tunitc6">

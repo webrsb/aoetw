@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>鳳凰涅槃</b>為<nuxt-link to="/batt/Bayinnaunga"
               >勃印曩戰役</nuxt-link

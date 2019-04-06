@@ -39,7 +39,7 @@
               >作戰。就應該盡快研發強制徵兵讓他們的步兵像<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
-              >研發<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
+              >研發<nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link
               >後的<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
               >一樣不用黃金就能生產。
             </li>
@@ -118,7 +118,9 @@
             <td class="unit4">1000</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">600</td>
           </tr>
           <tr>

@@ -26,7 +26,6 @@
               -遊戲中對於優娣忒戰役的介紹
             </p>
           </div>
-          <p></p>
         </div>
         <h3>英雄</h3>
         <div class="hrn1"></div>
@@ -71,7 +70,7 @@
           </div>
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
-          <div class="n1"><p></p></div>
+          <div class="n1"></div>
         </div>
       </div>
       <div class="col-md-4">

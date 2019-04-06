@@ -7,7 +7,12 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p>遊戲參酌中世紀晚期位於南美的印加帝國(1438-1572)。</p>
+          <p>
+            遊戲參酌中世紀晚期位於南美的印加帝國(1438-1572)。是《<nuxt-link
+              to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》新增的文明。
+          </p>
           <p>
             <b>印加</b
             >作為南美洲最後一個印第安王朝的統治者，曾建立了前哥倫布時期美洲最大的國家。印加人原來是生活在祕魯內庫斯科地區的小部落，他們在15世紀初組建王國，成為了中安第斯山區的主要勢力。1438年，這個國家受到了昌卡王國的入侵，因為昌卡國的統治者厭惡印加<nuxt-link
@@ -76,21 +81,17 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img
-                src="~assets/Kamayukicon.png"
-                class="gg"
-                alt=""
-              />槍隊長：<nuxt-link to="/armor/Armor_Class_Cavalry"
-                >反騎兵</nuxt-link
+              <img src="~assets/Kamayukicon.png" class="gg" alt="" /><nuxt-link
+                to="/units/Kamayuk"
+                >槍隊長</nuxt-link
+              >：<nuxt-link to="/armor/Armor_Class_Cavalry">反騎兵</nuxt-link
               >步兵。近戰射程一格的槍隊長(城堡兵)
             </li>
             <li>
-              <img
-                src="~assets/Slingericon.png"
-                class="gg"
-                alt=""
-              />投石手：反<nuxt-link to="/armor/Armor_Class_Infantry"
-                >步兵</nuxt-link
+              <img src="~assets/Slingericon.png" class="gg" alt="" /><nuxt-link
+                to="/units/Slinger"
+                >投石手</nuxt-link
+              >：反<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
               ><nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
               >。對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
               >傷害+10(<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
@@ -100,17 +101,18 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-              />安地斯彈弓:取消<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Andean_Sling"
+                >安地斯彈弓</nuxt-link
+              >：取消<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >和投石手的最小射程。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Couriers"
-                >信使</nuxt-link
-              >:槍隊長、投石手和<nuxt-link to="/units/Eagle_Warrior"
+              <img
+                class="gg"
+                src="~assets/Unique-tech.jpg"
+              />帝王時代-<nuxt-link to="/techs/Couriers">信使</nuxt-link
+              >：槍隊長、投石手和<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >的護甲+1/+2。
             </li>

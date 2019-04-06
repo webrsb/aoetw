@@ -147,7 +147,8 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              />爪刀勇士:只占半個人口的輕裝步兵，人海戰術的代表之一。
+              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+              >：只占半個人口的輕裝步兵，人海戰術的代表之一。
             </p>
           </ul>
           <h3>特殊科技</h3>
@@ -157,8 +158,8 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />海上霸主：碼頭升級成可射箭、更堅固的<nuxt-link
-                to="/building/Harbor"
+              /><nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link
+              >：碼頭升級成可射箭、更堅固的<nuxt-link to="/building/Harbor"
                 >海港</nuxt-link
               >，簡稱海上城堡。
             </p>
@@ -167,7 +168,8 @@
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />強制徵兵：民兵系列不需要黃金。
+              />帝王時代-<nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link
+              >：民兵系列不需要黃金。
             </p>
           </ul>
         </div>
@@ -175,11 +177,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <p>時代升級速度快80%</p>
-            <p>漁網成本便宜33%</p>
-            <p>漁網食物量無限</p>
-            <p>矛象伕便宜25%</p>
-            <p><strong>團隊加分:</strong>碼頭視野+100%</p>
+            <li>時代升級速度快80%</li>
+            <li>漁網成本便宜33%</li>
+            <li>漁網食物量無限</li>
+            <li>矛象伕便宜25%</li>
+            <li><strong>團隊加分:</strong>碼頭視野+100%</li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -266,7 +268,10 @@
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">封建步弓、海上控制、帝後爆兵</td>
+            <td class="unit4">
+              <nuxt-link to="/ar/archerstar">小弓開局</nuxt-link
+              >、海上控制、帝後爆兵
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>

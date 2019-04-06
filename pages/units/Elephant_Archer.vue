@@ -873,7 +873,7 @@
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
-        <div class="n1"><p></p></div>
+        <div class="n1"></div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">

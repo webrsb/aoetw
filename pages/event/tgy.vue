@@ -51,7 +51,7 @@
                 永遠禁止純粹的進貢戰術、預賽阿拉伯禁止中家偷豬，如何認定請看「賽程與對戰配置」
               </li>
             </ol>
-            <p></p>
+
             <p>
               <span
                 class="glyphicon glyphicon-hand-right"

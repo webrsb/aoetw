@@ -16,7 +16,7 @@
             >。
           </p>
         </div>
-        <p></p>
+
         <h2>玩家</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -39,7 +39,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -54,9 +53,8 @@
             </tr>
           </table>
 
-          <p></p>
           <p>開場：4位<nuxt-link to="/units/Villager">村民</nuxt-link></p>
-          <p></p>
+
           <p>大地之母單位：無</p>
           <h3>主要任務</h3>
           <div class="hrn1"></div>
@@ -87,7 +85,6 @@
             <li>在整個遊戲中，速度不能改變。</li>
             <li>此關城鎮鈴鐺沒有效果。</li>
           </ol>
-          <p></p>
         </div>
       </div>
       <div class="col-md-4">

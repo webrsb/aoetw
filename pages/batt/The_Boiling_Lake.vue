@@ -142,7 +142,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>主要任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -313,7 +312,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="row">
           <div class="col-md-12">
             <div class="wiki" style="margin-top: 5px;">

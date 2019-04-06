@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>班師勤王</b>為<nuxt-link to="/batt/Gajah_Madaa"
               >加查·馬達</nuxt-link
@@ -84,7 +83,7 @@
 
           <h3>開場</h3>
           <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link>單位 - 加查‧馬達</p>
-          <p></p>
+
           <p>
             。 軍事單位 -<nuxt-link to="/units/Shotel_Warrior"
               >彎刀勇士</nuxt-link

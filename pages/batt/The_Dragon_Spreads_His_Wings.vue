@@ -20,7 +20,6 @@
               >斯拉夫</nuxt-link
             >，伏伊伏德·雅各和伏伊伏德·伊斯特萬聯手打擊弗拉迪斯拉夫二世。
           </p>
-          <p></p>
         </div>
         <h3>AI</h3>
         <table class="table-bordered" width="100%">
@@ -81,7 +80,6 @@
           </tr>
         </table>
 
-        <p></p>
         <h3>主要任務</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -274,7 +272,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="row">
           <div class="col-md-12">
             <div class="wiki" style="margin-top: 5px;">

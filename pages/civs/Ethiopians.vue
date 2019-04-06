@@ -77,11 +77,10 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/ShotelIcon.png"
-                alt=""
-              />彎刀勇士:快速、高攻擊、生產速度快但脆弱的步兵
+              <img class="gg" src="~assets/ShotelIcon.png" alt="" /><nuxt-link
+                to="/units/Shotel_Warrior"
+                >彎刀勇士</nuxt-link
+              >：快速、高攻擊、生產速度快但脆弱的步兵
             </li>
           </ul>
           <h3>特殊科技</h3>
@@ -95,8 +94,11 @@
               >：彎刀勇士生產時間減半，從8秒減為4秒。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Torsion_Engines"
+              <img
+                class="gg"
+                src="~assets/Unique-tech.jpg"
+                alt=""
+              />帝王時代-<nuxt-link to="/techs/Torsion_Engines"
                 >扭力彈射器</nuxt-link
               >：<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
               >的攻擊範圍增加。

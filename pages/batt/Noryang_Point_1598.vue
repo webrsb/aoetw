@@ -47,7 +47,6 @@
             </tr>
           </table>
 
-          <p></p>
           <h3>AI</h3>
           <table class="table-bordered" width="100%">
             <tr>
@@ -305,7 +304,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由Wun、裕暉協助編輯。</div>
-        <p></p>
+
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

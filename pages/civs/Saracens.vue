@@ -122,7 +122,8 @@
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              />馬木留克（奴隸兵）:中距離遠程攻擊的<nuxt-link to="/units/Camel"
+              /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+              >：中距離遠程攻擊的<nuxt-link to="/units/Camel"
                 >駱駝騎兵</nuxt-link
               >，對騎兵類攻擊有極大加成。
             </li>
@@ -134,14 +135,16 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />穆斯林學墊：僧侶被殺害後會返回33%資源。
+              /><nuxt-link to="/techs/Madrasah">穆斯林學墊</nuxt-link
+              >：僧侶被殺害後會返回33%資源。
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />狂熱舉動：駱駝騎兵/馬木留克血量+30。
+              />帝王時代-<nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link
+              >：駱駝騎兵/奴隸兵血量+30。
             </li>
           </ul>
         </div>
@@ -216,6 +219,16 @@
             </li>
           </ul>
         </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            在早期的羅馬帝國時代，撒拉森只用以指稱西奈半島上的阿拉伯遊牧民族。後來的東羅馬帝國則將這個名字，套用在所有阿拉伯民族上。伊斯蘭教興起於西亞，特別在十一世紀末期的十字軍東征後，以基督教信仰為主的歐洲人，普遍用「撒拉森」來稱呼所有位於亞洲與北非的穆斯林。
+          </p>
+          <p>
+            實際上，歷史上並不存在所謂的「撒拉森帝國」。歐洲人在七世紀以後的文獻中，單方面地稱穆斯林為撒拉森人。以平等中立的觀點，現代人應將「撒拉森帝國」這種稱呼，還原為當時當地人民所使用的名詞：阿拉伯哈里發王朝、倭馬亞王朝、阿拔斯王朝。
+          </p>
+        </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -227,16 +240,6 @@
               <p><em>薩拉森建築</em></p>
             </div>
           </div>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <p>
-            在早期的羅馬帝國時代，撒拉森只用以指稱西奈半島上的阿拉伯遊牧民族。後來的東羅馬帝國則將這個名字，套用在所有阿拉伯民族上。伊斯蘭教興起於西亞，特別在十一世紀末期的十字軍東征後，以基督教信仰為主的歐洲人，普遍用「撒拉森」來稱呼所有位於亞洲與北非的穆斯林。
-          </p>
-          <p>
-            實際上，歷史上並不存在所謂的「撒拉森帝國」。歐洲人在七世紀以後的文獻中，單方面地稱穆斯林為撒拉森人。以平等中立的觀點，現代人應將「撒拉森帝國」這種稱呼，還原為當時當地人民所使用的名詞：阿拉伯哈里發王朝、倭馬亞王朝、阿拔斯王朝。
-          </p>
         </div>
       </div>
       <div class="col-md-4">
@@ -279,7 +282,10 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Saracenmamluk_icon.png" />馬木留克
+              <img class="gg" src="~assets/Saracenmamluk_icon.png" /><nuxt-link
+                to="/units/Mameluke"
+                >奴隸兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>

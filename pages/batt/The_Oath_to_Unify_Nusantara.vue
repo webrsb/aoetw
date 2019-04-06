@@ -7,7 +7,6 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p></p>
           <p>
             <b>誓統南洋</b>為<nuxt-link to="/batt/Gajah_Madaa"
               >加查·馬達戰役</nuxt-link

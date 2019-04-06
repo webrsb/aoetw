@@ -19,7 +19,7 @@
               >大陸</nuxt-link
             >地圖禁封海曾經流行過一陣子。
           </p>
-          <p></p>
+
           <p>
             <nuxt-link to="/maps/Islands">島嶼</nuxt-link>、遊牧與<nuxt-link
               to="/maps/Highland"
