@@ -2,7 +2,7 @@
   <section>
     <div class="tit">
       <p class="tt2">Aoetw</p>
-      <span class="tt">完整、準確的世紀帝國百科全書 </span>
+      <span class="tt">完整、準確的世紀帝國II百科全書 </span>
     </div>
     <div class="container" style="margin-bottom: 30px;">
       <div class="row">
@@ -251,7 +251,7 @@
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>參與Aoetw</strong></h4>
             <p>
-              Aoetw是一個內容自由、任何人都能參與的協作計劃，其目標是建立一個完整、準確的世紀帝國百科全書。
+              Aoetw是一個內容自由、任何人都能參與的協作計劃，其目標是建立一個完整、準確的世紀帝國II百科全書。
             </p>
             <p>
               Aoetw的成長依靠您的參與，無論是創建新條目、編輯現有條目，或者為條目增加插圖，您都可以為Aoetw作出貢獻。

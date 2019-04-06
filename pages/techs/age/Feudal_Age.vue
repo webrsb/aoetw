@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>封建時代</b>是世紀帝國的第二個時代。
+            <b>封建時代</b>是世紀帝國II的第二個時代。
             它允許訓練和建造更多的單位和<nuxt-link to="/building"
               >建築</nuxt-link
             >，還有更多的<nuxt-link to="/techs">科技</nuxt-link>可以研發。
@@ -616,7 +616,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
         </table>

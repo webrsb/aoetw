@@ -765,8 +765,8 @@
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:<nuxt-link to="/games/aok"
-                    >帝王世紀</nuxt-link
+                  >所有《<nuxt-link to="/games/aok"
+                    >世紀帝國II：帝王世紀</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
@@ -783,8 +783,8 @@
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:<nuxt-link to="/games/aoc"
-                    >征服者入侵</nuxt-link
+                  >所有《<nuxt-link to="/games/aoc"
+                    >世紀帝國II：征服者入侵</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
@@ -801,8 +801,8 @@
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:<nuxt-link to="/games/aof"
-                    >失落的帝國</nuxt-link
+                  >所有《<nuxt-link to="/games/aof"
+                    >世紀帝國II：失落的帝國</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
@@ -819,8 +819,8 @@
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:<nuxt-link to="/games/ak"
-                    >非洲王國</nuxt-link
+                  >所有《<nuxt-link to="/games/ak"
+                    >世紀帝國II：非洲王國</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>
@@ -837,8 +837,8 @@
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em
-                  >所有《世紀帝國 II HD:<nuxt-link to="/games/aor"
-                    >王者崛起</nuxt-link
+                  >所有《<nuxt-link to="/games/aor"
+                    >世紀帝國II：王者崛起</nuxt-link
                   >》的特殊單位。</em
                 >
               </p>

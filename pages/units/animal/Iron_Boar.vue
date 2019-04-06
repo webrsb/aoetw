@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>鐵野豬</b>在世紀帝國2中是一個特殊的單位。他比<nuxt-link
+            <b>鐵野豬</b>在世紀帝國II中是一個特殊的單位。他比<nuxt-link
               to="/units/animal/Wild_Boar"
               >野豬</nuxt-link
             >更加強壯，任何人攻擊他都會是一個艱難的挑戰。他擁有350的<nuxt-link

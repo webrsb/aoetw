@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>崔斯坦</b>是一位在世紀帝國二：<nuxt-link to="/games/ak"
-              >非洲王國</nuxt-link
-            >資料片中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
+            <b>崔斯坦</b>是一位在《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》資料片中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，你可在地圖編輯器中找到他。在歷史上，崔斯坦是一名康沃爾人，他是<nuxt-link
               to="/units/hero/King_Arthur"
               >亞瑟王</nuxt-link

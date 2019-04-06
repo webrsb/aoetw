@@ -10,9 +10,8 @@
           <p>
             <strong>匈奴王阿提拉</strong>是<nuxt-link to="/civs/Huns"
               >匈奴人</nuxt-link
-            >自434年至453年間的統治者。在《世紀帝國II：<nuxt-link
-              to="/games/aoc"
-              >征服者入侵</nuxt-link
+            >自434年至453年間的統治者。在《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》的<nuxt-link to="/batt/Attila_the_Huna">阿提拉戰役</nuxt-link
             >中正是描寫從他崛起到死亡之間的故事。
           </p>

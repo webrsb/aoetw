@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>佛列德-德古拉</strong>是<nuxt-link to="/games/aof"
-              >《世紀帝國 II HD: 失落的帝國》</nuxt-link
-            >中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
+            <strong>佛列德-德古拉</strong>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >。他一定要在每個<nuxt-link to="/batt">戰役</nuxt-link
             >中生存下來，並擁有<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
             >的外觀。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link

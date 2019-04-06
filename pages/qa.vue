@@ -3,7 +3,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Aoetw</h1>
-        <p>世紀帝國疑難雜症專區</p>
+        <p>世紀帝國II疑難雜症專區</p>
       </div>
     </div>
     <div class="container">
@@ -23,7 +23,7 @@
       <div class="row">
         <div class="col-md-12">
           <b-btn v-b-toggle.a-1 class="m-1" variant="primary"
-            >1-1.世紀帝國2目前到底有幾個資料片？</b-btn
+            >1-1.世紀帝國II目前到底有幾個資料片？</b-btn
           >
           <b-collapse id="a-1">
             <div class="well">
@@ -124,7 +124,7 @@
                   </tr>
                   <tr>
                     <td>
-                      《<nuxt-link to="/games/aor" title="世紀帝國II：王者崛起"
+                      《<nuxt-link to="/games/aor"
                         >世紀帝國II：王者崛起</nuxt-link
                       >》
                     </td>
@@ -159,7 +159,7 @@
       <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.a-2 class="m-1" variant="primary"
-            >1-2.世紀帝國2 HD版要如何購買？怎麼玩？</b-btn
+            >1-2.世紀帝國II HD版要如何購買？怎麼玩？</b-btn
           >
           <b-collapse id="a-2">
             <div class="well">
@@ -176,7 +176,7 @@
                 <a
                   href="http://store.steampowered.com/bundle/2149/"
                   target="_blank"
-                  >世紀帝國2HD全集HD+3個資料片 組合包價格1040</a
+                  >世紀帝國IIHD全集HD+3個資料片 組合包價格1040</a
                 >
               </p>
             </div>
@@ -492,7 +492,7 @@
           <b-collapse id="d-1">
             <div class="well">
               <p>
-                今天要跟大家講一個生香油錢的故事，說到世紀帝國的遺跡，就一個長得很像獎杯，遊戲開始時散落在地圖各地，只有僧侶可以搬運，而當他被放置到修道院時，他就會以每2秒1黃金的速度生產黃金所以說呢，你遺跡越多黃金就越多啦，那到底為什麼實戰中大家都不撿遺跡呢？
+                今天要跟大家講一個生香油錢的故事，說到世紀帝國II的遺跡，就一個長得很像獎杯，遊戲開始時散落在地圖各地，只有僧侶可以搬運，而當他被放置到修道院時，他就會以每2秒1黃金的速度生產黃金所以說呢，你遺跡越多黃金就越多啦，那到底為什麼實戰中大家都不撿遺跡呢？
               </p>
               <h4>成本上來說</h4>
               <p>

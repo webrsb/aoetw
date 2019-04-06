@@ -762,7 +762,7 @@
               /></gallery>
               <p>
                 <em
-                  >各種戰船(世紀帝國和<nuxt-link to="/games/aoc"
+                  >各種戰船(世紀帝國II和<nuxt-link to="/games/aoc"
                     >征服者入侵</nuxt-link
                   >資料片)。</em
                 >

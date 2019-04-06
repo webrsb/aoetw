@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>征服家園</b>為<nuxt-link to="/batt/Battles_of_the_Forgotten"
-              >失落帝國的戰役</nuxt-link
+              >失落的帝國戰役</nuxt-link
             >中編號第4的關卡，此關描述匈牙利民族於公元900年左右向西遷移的情況。
             此篇<nuxt-link to="/batt">戰役</nuxt-link
             >由許多匈牙利歷史事件組成的長篇戰役，玩家不可自行升級時代。
@@ -393,12 +393,12 @@
           <tr>
             <td class="unit3">版本</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落帝國</nuxt-link>
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4">失落帝國的戰役</td>
+            <td class="unit4">失落的帝國戰役</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
@@ -415,7 +415,7 @@
             <td class="unit3">章節</td>
             <td class="unit4">
               <nuxt-link to="/batt/Battles_of_the_Forgotten"
-                >失落帝國戰役</nuxt-link
+                >失落的帝國戰役</nuxt-link
               >第七章之四
             </td>
           </tr>

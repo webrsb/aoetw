@@ -38,7 +38,7 @@
             <li>
               波斯是西亞的<nuxt-link to="/units/Cavalry_Units"
                 >騎兵文明</nuxt-link
-              >，為世紀帝國最初種族之一。
+              >，為世紀帝國II最初種族之一。
             </li>
             <li>
               波斯有完整的騎兵科技樹，且<nuxt-link to="/elements/Team_Bonus"
@@ -430,7 +430,7 @@
             <tr>
               <td class="tta1">
                 <nuxt-link to="/batt/Battles_of_the_Forgotten"
-                  >失落帝國的戰役</nuxt-link
+                  >失落的帝國戰役</nuxt-link
                 >-<nuxt-link to="/batt/Honfoglalas_895"
                   >征服家園（895）</nuxt-link
                 >
@@ -448,7 +448,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                失落帝國的戰役-<nuxt-link to="/batt/Bukhara_557"
+                失落的帝國戰役-<nuxt-link to="/batt/Bukhara_557"
                   >布哈拉（557）</nuxt-link
                 >
               </td>

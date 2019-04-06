@@ -116,7 +116,7 @@
               <ul>
                 <li>
                   此章節與<nuxt-link to="/batt/Battles_of_the_Forgotten"
-                    >失落帝國戰役</nuxt-link
+                    >失落的帝國戰役</nuxt-link
                   >第7章一樣，都是多個單關組成的綜合章節。
                 </li>
                 <li>
@@ -134,13 +134,11 @@
                   >，英語原文Noryang Point，為翻譯錯誤，正確為露梁海戰。
                 </li>
                 <li>
-                  在世紀帝國II所有戰役章節中幾個東亞大國明顯被忽略，如：<nuxt-link
-                    to="/civs/Japanese"
-                    >日本</nuxt-link
+                  在<nuxt-link to="/civs/Japanese">世紀帝國II：日本</nuxt-link
                   >、韓國（沒有獨立篇章），<nuxt-link to="/civs/Chinese"
                     >中國</nuxt-link
                   >戰役直到2014年6月官方3.6更新<nuxt-link to="/games/aof"
-                    >失落帝國</nuxt-link
+                    >失落的帝國</nuxt-link
                   >第7章才登場，但也僅此一關。
                 </li>
               </ul>

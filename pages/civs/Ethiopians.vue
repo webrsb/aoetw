@@ -39,8 +39,8 @@
             <li>
               衣索比亞是東非的<nuxt-link to="/units/Archer_Units"
                 >弓兵文明</nuxt-link
-              >，為世紀帝國《<nuxt-link to="/games/ak">非洲王國</nuxt-link
-              >》資料片新增的四種族之一。
+              >，為《<nuxt-link to="/games/ak">世紀帝國II：非洲王國》</nuxt-link
+              >資料片新增的四種族之一。
             </li>
             <li>
               他有一個完整的<nuxt-link to="/units/Siege_Weapons"

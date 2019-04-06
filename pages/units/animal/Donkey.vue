@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>驢子</b>在<nuxt-link to="/games/aof"
-              >《世紀帝國2HD：失落的帝國》</nuxt-link
-            >中是一個玩家無法生產的單位，他只出現在地圖編輯器裡。驢子在遊戲裡被用來在<nuxt-link
+            <b>驢子</b>在《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》中是一個玩家無法生產的單位，他只出現在地圖編輯器裡。驢子在遊戲裡被用來在<nuxt-link
               to="/building/Market"
               >市集</nuxt-link
             >間搬運<nuxt-link to="/resource/Gold">黃金</nuxt-link

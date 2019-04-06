@@ -22,8 +22,9 @@
           <p>
             柏柏是非洲的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
-            >文明，世紀帝國II資料片<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >的所新增的文明。柏柏的<nuxt-link to="/units/Unique_Unit"
+            >文明，世紀帝國II資料片《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》的所新增的文明。柏柏的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >這是歷史上真實的兵種曾經多次造成歐洲軍隊的麻煩，另外<nuxt-link

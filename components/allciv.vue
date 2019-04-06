@@ -7,7 +7,7 @@
             <tr>
               <td class="unit" colspan="2" style="background-color:#274a7d;">
                 <div class="unititle">
-                  <nuxt-link to="/civs">世紀帝國文明</nuxt-link>
+                  <nuxt-link to="/civs">世紀帝國II文明</nuxt-link>
                 </div>
               </td>
             </tr>

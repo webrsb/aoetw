@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>安布羅共和國</b>是世紀帝國II HD：<nuxt-link to="/games/aof"
-              >失落的帝國</nuxt-link
+            <b>安布羅共和國</b>是<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
             >中<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link>的第四關。
           </p>
           <p>
@@ -327,7 +327,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落帝國</nuxt-link>第四章之四
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>第四章之四
             </td>
           </tr>
           <tr>

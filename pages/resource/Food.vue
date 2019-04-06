@@ -42,7 +42,7 @@
       </div>
       <div class="row" style="margin-top:20px;">
         <div class="col-md-12">
-          <table class="table-bordered" border="1" width="100%">
+          <table class="table-bordered" border="1">
             <tr>
               <td
                 style="border: 1px solid #495057;background: #005f16;color: #ffffff;"
@@ -578,7 +578,7 @@
           </table>
 
           <br />
-          <table class="table-bordered" border="1" width="100%">
+          <table class="table-bordered" border="1">
             <tr>
               <td
                 style="border: 1px solid #495057;background: #005f16;color: #ffffff;"
@@ -685,7 +685,7 @@
           </table>
 
           <br />
-          <table class="table-bordered" border="1" width="100%">
+          <table class="table-bordered" border="1">
             <tr>
               <td
                 style="border: 1px solid #495057;background: #005f16;color: #ffffff;"
@@ -737,7 +737,8 @@
                 bgcolor="#E0E0E0"
               >
                 <p class="unititle">
-                  <br /><nuxt-link to="/building/Farm">農田</nuxt-link
+                  <br />
+                  <nuxt-link to="/building/Farm">農田</nuxt-link
                   >可以提供穩定的食物，放置位置由玩家決定，所以易於收集且安全。<br />
                   建造後所擁有的食物是固定的，但通過<nuxt-link
                     to="/building/Mill"
@@ -754,7 +755,7 @@
           </table>
 
           <br />
-          <table class="table-bordered" border="1" width="100%">
+          <table class="table-bordered" border="1">
             <tr>
               <td
                 style="border: 1px solid #495057;background: #005f16;color: #ffffff;"
@@ -802,8 +803,8 @@
                     >碼頭</nuxt-link
                   >），<nuxt-link to="/building/Dock">碼頭</nuxt-link
                   >所生產之<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-                  >可以在海上捕魚。<br /><nuxt-link to="/techs/age/Dark_Age"
-                    >黑暗時代</nuxt-link
+                  >可以在海上捕魚。<br />
+                  <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
                   >即可建造<nuxt-link to="/building/Dock">碼頭</nuxt-link
                   >生產<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
                   >，消耗75<nuxt-link to="/resource/Wood">木材</nuxt-link
@@ -879,7 +880,7 @@
           </table>
 
           <br />
-          <table class="table-bordered" border="1" width="100%">
+          <table class="table-bordered" border="1">
             <tr>
               <td
                 style="border: 1px solid #495057;background: #005f16;color: #ffffff;"
@@ -957,7 +958,7 @@
           </table>
 
           <br />
-          <table width="100%" class="table-bordered">
+          <table class="table-bordered">
             <tr>
               <td colspan="4" style="border: 1px solid #FFFFFF;">
                 <p align="left">

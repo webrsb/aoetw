@@ -8,9 +8,9 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>山羊</b>在<nuxt-link to="/games/ak"
-            >《世紀帝國 II HD: 非洲王國》</nuxt-link
-          >出現，是可馴化的動物，山羊主要替代羊出現在非洲地圖上。
+          <b>山羊</b>在《<nuxt-link to="/games/ak"
+            >世紀帝國II：非洲王國</nuxt-link
+          >》出現，是可馴化的動物，山羊主要替代羊出現在非洲地圖上。
         </p>
         <p>
           初期的山羊很重要，因為還不能種田，隨著遊戲後期種田效率提昇，山羊也不那麼重要了。
@@ -56,7 +56,7 @@
                   src="~assets/Aoe2_goat.png"
                   alt=""
               /></gallery>
-              <p><em>世紀帝國 II的山羊。</em></p>
+              <p><em>世紀帝國II的山羊。</em></p>
             </div>
           </div>
         </div>

@@ -8,9 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>始兮終兮</b>是世紀帝國II<nuxt-link to="/games/aof"
-              >失落帝國</nuxt-link
-            >－<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link>的第一關。
+            <b>始兮終兮</b>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》－<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link
+            >的第一關。
           </p>
           <p>
             這場 <nuxt-link to="/batt">戰役</nuxt-link>描繪了<nuxt-link
@@ -252,7 +253,7 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">失落帝國第四章之一</td>
+            <td class="unit4">失落的帝國第四章之一</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

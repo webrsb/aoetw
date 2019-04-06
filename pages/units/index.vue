@@ -775,7 +775,7 @@
                       ><img
                         src="~assets/ForgottenIcon.png"
                         style="margin-right:5px"
-                      />失落帝國</nuxt-link
+                      />失落的帝國</nuxt-link
                     >
                   </div>
                   <hr />

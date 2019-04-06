@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>世紀帝國II：帝王世紀</b
+            <b>《世紀帝國II：帝王世紀》</b
             >，（縮寫：<b>AOE2</b>、<b>AoK</b>）是一款由全效工作室開發、微軟於1999年發行的即時戰略遊戲。
           </p>
           <p>
@@ -37,8 +37,8 @@
           </p>
           <p>
             2013年4月10日，遊戲公司與Steam合作推出《世紀帝國II》高畫質版（HD
-            Edition）版本，以《世紀帝國II：<nuxt-link to="/games/aoc"
-              >征服者入侵</nuxt-link
+            Edition）版本，以《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》為基礎，該版本主要針對遊戲效能與畫面的強化（改變懸崖圖案、<nuxt-link
               to="/building/Farm"
               >農田</nuxt-link

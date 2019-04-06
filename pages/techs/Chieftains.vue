@@ -103,8 +103,8 @@
         <div class="n1">
           <ul>
             <li>
-              酋長在<nuxt-link to="/games/ak">《世紀帝國II:非洲王國》</nuxt-link
-              >時因為bug而沒有給所有步兵單位對<nuxt-link
+              酋長在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+              >》時因為bug而沒有給所有步兵單位對<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >駱駝騎兵類</nuxt-link
               >攻擊+2。之後在4.8b改版後修正。

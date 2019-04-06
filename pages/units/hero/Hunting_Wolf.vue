@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>獵狼</strong>是《世紀帝國 II HD:<nuxt-link to="/games/aok"
-              >帝王世紀</nuxt-link
+            <strong>獵狼</strong>是《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名動物<nuxt-link to="/units/hero">英雄</nuxt-link
             >，可以在許多<nuxt-link to="/batt">戰役</nuxt-link
             >和戰役編輯器中找到。由於它屬於英雄單位，因此不能被<nuxt-link

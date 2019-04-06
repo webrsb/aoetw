@@ -86,8 +86,8 @@
                   >。
                 </li>
                 <li>
-                  海港早在《世紀帝國:<nuxt-link to="/games/aoc"
-                    >征服者入侵</nuxt-link
+                  海港早在《<nuxt-link to="/games/aoc"
+                    >世紀帝國II：征服者入侵</nuxt-link
                   >》就有了，只是當時是一個無功能不能攻擊且蓋在海邊的建築物，外觀也與碼頭一樣。
                 </li>
               </div>

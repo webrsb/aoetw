@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>奧斯曼</b>是一位在世紀帝國二：失落的帝國資料片中登場的<nuxt-link
-              to="/units/hero"
-              >英雄</nuxt-link
+            <b>奧斯曼</b>是一位在《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》資料片中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，你可以在地圖編輯器中找到他。他的原型是建立了鄂圖曼帝國的奧斯曼一世。（鄂圖曼帝國於一次世界大戰後分裂，並由凱末爾領導國民建立了現在的<nuxt-link
               to="/civs/Turks"
               >土耳其</nuxt-link

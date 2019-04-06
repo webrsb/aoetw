@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>貴族首領</strong>是《世紀帝國 II HD:<nuxt-link
-              to="/games/aof"
-              >失落的帝國</nuxt-link
+            <strong>貴族首領</strong>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
             >》<nuxt-link to="/batt/Bukhara_557">布哈拉戰役</nuxt-link
             >中的<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/building">建築</nuxt-link

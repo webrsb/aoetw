@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>純塔</b
-            >為世紀帝國非常經典的戰術之一，也叫做<b>塔攻</b>，之所以叫做純塔，顧名思義為只有<nuxt-link
+            >為世紀帝國II非常經典的戰術之一，也叫做<b>塔攻</b>，之所以叫做純塔，顧名思義為只有<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
             >去插塔，不出其他兵種，省下建造<nuxt-link to="/building/Barracks"

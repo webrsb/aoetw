@@ -156,7 +156,7 @@
             <p>布里斯比羅吉戰役的其他資訊</p>
             <ul>
               <li>
-                此戰役章節為<nuxt-link to="/games/aof">失落帝國</nuxt-link
+                此戰役章節為<nuxt-link to="/games/aof">失落的帝國</nuxt-link
                 >團隊於2014年4月25日於3.5補丁新增的劇情戰役。
               </li>
               <li>此頁面史料來源:維基百科英文版</li>

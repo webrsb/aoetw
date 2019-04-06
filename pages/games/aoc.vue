@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>世紀帝國II：征服者入侵</b>是微軟即時戰略遊戲<nuxt-link
+            <b>《世紀帝國II：征服者入侵》</b>是微軟即時戰略遊戲《<nuxt-link
               to="/games/aok"
-              >《世紀帝國II：帝王世紀》</nuxt-link
-            >的官方擴充資料片，曾榮獲2000年E3最佳戰略性遊戲資料片。
+              >世紀帝國II：帝王世紀</nuxt-link
+            >》的官方擴充資料片，曾榮獲2000年E3最佳戰略性遊戲資料片。
           </p>
           <p>
             征服者入侵除了《世紀帝國II：帝王世紀》的原有<nuxt-link to="/civs"
@@ -33,15 +33,15 @@
             >。該資料片推出後，曾發布官方唯一和最終版本的1.0c修正檔。
           </p>
           <p>
-            超過十年後，《帝王世紀》第二個官方擴充資料片──《<nuxt-link
+            超過十年後，《世紀帝國II：帝王世紀》第二個官方擴充資料片──《<nuxt-link
               to="/games/aof"
-              >失落的帝國</nuxt-link
+              >世紀帝國II：失落的帝國</nuxt-link
             >》在SteamHD版推出，於2015年秋季推出第三個官方擴充資料片──《<nuxt-link
               to="/games/ak"
-              >非洲王國</nuxt-link
+              >世紀帝國II：非洲王國</nuxt-link
             >》，於2016年年底推出第四個官方擴充資料片──《<nuxt-link
               to="/games/aor"
-              >王者崛起</nuxt-link
+              >世紀帝國II：王者崛起</nuxt-link
             >》。
           </p>
         </div>

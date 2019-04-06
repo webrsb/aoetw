@@ -8,9 +8,9 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>熊</b>是<nuxt-link to="/games/aof"
-            >《世紀帝國 II HD:失落的帝國》</nuxt-link
-          >的一種大型野生動物。牠不提供<nuxt-link to="/resource/Food"
+          <b>熊</b>是《<nuxt-link to="/games/aof"
+            >世紀帝國II：失落的帝國</nuxt-link
+          >》的一種大型野生動物。牠不提供<nuxt-link to="/resource/Food"
             >食物</nuxt-link
           >但會出現在地圖的一些區域並且會攻擊<nuxt-link to="/los.php"
             >視野</nuxt-link

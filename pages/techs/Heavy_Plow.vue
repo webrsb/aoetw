@@ -130,7 +130,9 @@
             <td class="unit4">125</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">125</td>
           </tr>
           <tr>

@@ -572,7 +572,7 @@
             <p>
               <em
                 >一群精銳鷹勇士(《<nuxt-link to="/games/aoc"
-                  >世紀帝國II:征服者入侵</nuxt-link
+                  >世紀帝國II：征服者入侵</nuxt-link
                 >》資料片)</em
               >
             </p>
@@ -584,7 +584,7 @@
             <p>
               <em
                 >一群精銳鷹勇士(《<nuxt-link to="/games/aof"
-                  >世紀帝國II:失落的帝國</nuxt-link
+                  >世紀帝國II：失落的帝國</nuxt-link
                 >》資料片)</em
               >
             </p>

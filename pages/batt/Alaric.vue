@@ -74,7 +74,7 @@
             <p>阿拉里克戰役的其他資訊</p>
             <ul>
               <li>
-                此戰役章節為<nuxt-link to="/games/aof">失落帝國</nuxt-link
+                此戰役章節為<nuxt-link to="/games/aof">失落的帝國</nuxt-link
                 >團隊於2012年12月首發的劇情戰役，2013年11月7日年正式併入HD資料片<nuxt-link
                   to="/games/aof"
                   >失落的帝國</nuxt-link

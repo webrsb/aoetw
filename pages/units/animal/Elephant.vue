@@ -8,9 +8,8 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>象</b>在<nuxt-link to="/games/ak"
-            >《世紀帝國 II HD:非洲王國》</nuxt-link
-          >首次出現，象有400的肉，但不會被馴化，必須去狩獵或是用<nuxt-link
+          <b>象</b>在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+          >》首次出現，象有400的肉，但不會被馴化，必須去狩獵或是用<nuxt-link
             to="/units/Scout_Cavalry"
             >斥候</nuxt-link
           >或是<nuxt-link to="/units/Villager">村民</nuxt-link

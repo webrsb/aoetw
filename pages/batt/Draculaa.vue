@@ -22,8 +22,8 @@
             </p>
           </div>
           <p>
-            <b>德古拉</b>是《世紀帝國 II HD:<nuxt-link to="/games/aof"
-              >失落的帝國</nuxt-link
+            <b>德古拉</b>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
             >》中的<nuxt-link to="/batt">戰役</nuxt-link
             >，以同名的弗拉德三世命名。由於沒有和德古拉完美契合的<nuxt-link
               to="/civs"

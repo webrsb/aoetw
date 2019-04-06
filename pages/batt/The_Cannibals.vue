@@ -398,7 +398,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落帝國</nuxt-link>第五章之四
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>第五章之四
             </td>
           </tr>
           <tr>

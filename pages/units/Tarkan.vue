@@ -15,7 +15,7 @@
             >中訓練，當研發<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             ><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
             >後則可以在<nuxt-link to="/building/Stable">馬廄</nuxt-link
-            >中生產。譯為「答剌罕騎兵」，在世紀帝國中翻成「韃靼騎兵」，是善於攻擊<nuxt-link
+            >中生產。譯為「答剌罕騎兵」，在世紀帝國II中翻成「韃靼騎兵」，是善於攻擊<nuxt-link
               to="/building"
               >建築物</nuxt-link
             >的近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
@@ -671,7 +671,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>

@@ -34,7 +34,7 @@
       <h3 id="a1"><strong>基礎升級</strong></h3>
       <div class="n1">
         <p>
-          升級為世紀帝國最的基礎入門，練好戰術及控兵前，最好把升級熟練到標準內。
+          升級為世紀帝國II最的基礎入門，練好戰術及控兵前，最好把升級熟練到標準內。
         </p>
       </div>
       <div class="hrn1"></div>
@@ -68,7 +68,7 @@
             <h3 id="a2"><strong>主流打法</strong></h3>
             <div class="n1">
               <p>
-                世紀帝國發展到今日，已有近20年歷史，從最早曾政承得到世界第一的雙靶場矛衝戰術到後來臺灣香港流行的城快打法，有所謂的<nuxt-link
+                世紀帝國II發展到今日，已有近20年歷史，從最早曾政承得到世界第一的雙靶場矛衝戰術到後來臺灣香港流行的城快打法，有所謂的<nuxt-link
                   to="/maps/Continental"
                   >大陸</nuxt-link
                 ><nuxt-link to="/civs/Huns">匈奴</nuxt-link

@@ -18,9 +18,9 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            <b>傭兵護甲</b>是一個在5.7版<nuxt-link to="/games/aor"
-              >《世紀帝國II:王者崛起》</nuxt-link
-            >新增的<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            <b>傭兵護甲</b>是一個在5.7版《<nuxt-link to="/games/aor"
+              >世紀帝國II：王者崛起</nuxt-link
+            >》新增的<nuxt-link to="/armor">防禦裝甲</nuxt-link
             >類別，所有在這個系列的兵種都會被剋該護甲的兵種有額外的傷害。
           </p>
           <p>

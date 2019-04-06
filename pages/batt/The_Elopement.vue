@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>私奔</b>為<nuxt-link to="/batt/Battles_of_the_Forgotten"
-              >失落帝國戰役</nuxt-link
+              >失落的帝國戰役</nuxt-link
             >中<nuxt-link to="/units/hero/Prithviraj">布里斯比羅吉</nuxt-link
             >劇情<nuxt-link to="/batt">戰役</nuxt-link>的第三關。
           </p>
@@ -259,7 +259,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落帝國</nuxt-link>第六章之三
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>第六章之三
             </td>
           </tr>
           <tr>

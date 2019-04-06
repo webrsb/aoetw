@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>亨利五世</strong>是一名可在《世紀帝國II ：<nuxt-link
-              to="/games/aoc"
-              >征服者入侵</nuxt-link
+            <strong>亨利五世</strong>是一名可在《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》的地圖編輯器中使用的<nuxt-link to="/units/Cavalry_Units"
               >騎兵</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link

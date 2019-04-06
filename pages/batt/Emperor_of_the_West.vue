@@ -203,17 +203,17 @@
                 <li>
                   水藍色的AI阿拉里克有個中型衝撞車在地圖北端當作佔位單位。在原版的<nuxt-link
                     to="/batt/Battles_of_the_Forgotten"
-                    >失落帝國戰役</nuxt-link
+                    >失落的帝國戰役</nuxt-link
                   >中，玩家開始時有個弓兵作為佔位單位，他會駐守在剛剛提到的中型衝撞車裡面。
                 </li>
                 <li>
                   在玩家用運輸船躲避拉文納的時候，偶爾會有所有敵人突然消失，然後玩家直接勝利的情形，這可能起因於一個bug。（<nuxt-link
                     to="/games/aof"
-                    >失落帝國</nuxt-link
+                    >失落的帝國</nuxt-link
                   >非正式MOD限定）
                 </li>
                 <li>
-                  失落帝國MOD裡面的大地之母是<nuxt-link to="/civs/Saracens"
+                  失落的帝國MOD裡面的大地之母是<nuxt-link to="/civs/Saracens"
                     >薩拉森</nuxt-link
                   >，而HD版本是哥德，這導致了戰船外觀上的差異。
                   <ul>
@@ -276,7 +276,7 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">失落帝國第一章之三</td>
+            <td class="unit4">失落的帝國第一章之三</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

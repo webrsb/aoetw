@@ -5,7 +5,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#1161b7;">
-              <div class="unititle" style="color: #fff;">世紀帝國的資源</div>
+              <div class="unititle" style="color: #fff;">世紀帝國II的資源</div>
             </td>
           </tr>
           <tr>

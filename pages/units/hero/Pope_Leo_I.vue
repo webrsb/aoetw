@@ -11,9 +11,10 @@
             <strong>教宗利奧一世</strong>的原型是同名的<nuxt-link
               to="/civs/Italians"
               >義大利</nuxt-link
-            >教皇，也被稱為<strong>大教宗聖良一世</strong>。他在《世紀帝國II
-            ：<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>》中<nuxt-link
-              to="/units/hero/Attila_the_Hun"
+            >教皇，也被稱為<strong>大教宗聖良一世</strong>。他在《<nuxt-link
+              to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
+            >》中<nuxt-link to="/units/hero/Attila_the_Hun"
               >匈奴王阿提拉</nuxt-link
             >的<nuxt-link to="/batt">戰役</nuxt-link>登場，在<nuxt-link
               to="/batt/Fall_of_Rome"

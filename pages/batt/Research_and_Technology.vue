@@ -10,7 +10,7 @@
           <p>
             <b>研發與科技</b>是<nuxt-link to="/batt/William_Wallacea"
               >華勒斯教學戰役</nuxt-link
-            >的第四個劇情關卡，專為那些從未玩過“世紀帝國”遊戲的玩家設計，教導玩家如何研發<nuxt-link
+            >的第四個劇情關卡，專為那些從未玩過“世紀帝國II”遊戲的玩家設計，教導玩家如何研發<nuxt-link
               to="/techs"
               >科技</nuxt-link
             >與升級時代。

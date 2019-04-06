@@ -594,7 +594,7 @@
             <p>
               登場戰役：阿提拉6-羅馬的衰落、<nuxt-link
                 to="/batt/Battles_of_the_Forgotten"
-                >失落帝國的戰役</nuxt-link
+                >失落的帝國戰役</nuxt-link
               >-<nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
             </p>
             <br />
@@ -706,7 +706,7 @@
               位於現今日本奈良，由聖武天皇於728年建立，內有奈良大佛，總共有260萬人跟東大寺的建立有關(建築工、捐獻物資等等)，而大佛則幾乎使用當時整個日本的銅器。現今的東大寺為1709年重建，而現在的東大寺只有以前的70%大小。
             </p>
             <p>
-              登場戰役：失落帝國的戰役-<nuxt-link to="/batt/Kurikara_1183"
+              登場戰役：失落的帝國戰役-<nuxt-link to="/batt/Kurikara_1183"
                 >礪波山（1183）</nuxt-link
               >
             </p>
@@ -876,7 +876,7 @@
               位於現今<nuxt-link to="/civs/Vikings">挪威</nuxt-link
               >萊達爾博爾貢，建於1180年到1250年間，為挪威28座木教堂裡保存最好的一座，現在不再是教堂，而是博物館。
             </p>
-            <p>登場戰役：失落帝國的戰役-約克（865）</p>
+            <p>登場戰役：失落的帝國戰役-約克（865）</p>
           </div>
           <div class="col-md-4">
             <h3>
@@ -908,7 +908,7 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
               >6-<nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link
-              >、失落帝國的戰役-雙柱城(648)
+              >、失落的帝國戰役-雙柱城(648)
             </p>
           </div>
           <div class="col-md-4">
@@ -980,7 +980,7 @@
             <p>
               位於現今瓜地馬拉的叢林中，蒂卡爾早在2世紀就有人類活動，而大美洲豹則是當地的神廟，傾斜70度角的高聳神廟與哥德式建築有幾分相似，因而得名叢林大教堂。
             </p>
-            <p>登場戰役：失落帝國的戰役-雙柱城(648)</p>
+            <p>登場戰役：失落的帝國戰役-雙柱城(648)</p>
           </div>
           <div class="col-md-4">
             <h3>
@@ -1092,7 +1092,7 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link
               >4-<nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link
-              >、失落帝國的戰役-塞普勒斯(1191)
+              >、失落的帝國戰役-塞普勒斯(1191)
             </p>
             <br />
             <br />

@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>聖殿騎士團首領</strong>是《世紀帝國 II HD:<nuxt-link
-              to="/games/aok"
-              >帝王世紀</nuxt-link
+            <strong>聖殿騎士團首領</strong>是《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link
             >第四<nuxt-link to="/batt">戰役</nuxt-link

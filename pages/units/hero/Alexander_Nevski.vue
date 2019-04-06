@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>亞歷山大·涅夫斯基</strong>是《世紀帝國 II HD:<nuxt-link
-              to="/games/aoc"
-              >征服者入侵</nuxt-link
+            <strong>亞歷山大·涅夫斯基</strong>是《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》<nuxt-link to="/batt">戰役</nuxt-link>編輯器中的一名<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link

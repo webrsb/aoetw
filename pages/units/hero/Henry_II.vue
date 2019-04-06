@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>亨利二世</strong>是一名可在《世紀帝國II HD：<nuxt-link
-              to="/games/ak"
-              >非洲王國</nuxt-link
+            <strong>亨利二世</strong>是一名可在《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
             >》的地圖編輯器中使用的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link

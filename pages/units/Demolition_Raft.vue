@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>自爆筏</b>是<nuxt-link to="/games/ak"
-              >《世界帝國:非洲王國》</nuxt-link
-            >資料片中首次登場，在<nuxt-link to="/techs/age/Feudal_Age"
+            <b>自爆筏</b>是《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》資料片中首次登場，在<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >可以訓練。在<nuxt-link to="/units/Galley">戰船</nuxt-link
@@ -26,8 +26,8 @@
             >，碼頭，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。
           </p>
           <p>
-            在"世界帝國:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中首次引入了“自爆筏”和“<nuxt-link to="/units/Fire_Galley"
+            在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中首次引入了“自爆筏”和“<nuxt-link to="/units/Fire_Galley"
               >火蒙衝</nuxt-link
             >”，使封建時代的海戰更加多元。在引進之前，封建時代唯一的軍艦就是戰船，所以海戰是非常無趣的。
           </p>
@@ -640,7 +640,7 @@
               /></gallery>
               <p>
                 <em
-                  >各種自爆筏(世紀帝國和<nuxt-link to="/games/aoc"
+                  >各種自爆筏(世紀帝國II和<nuxt-link to="/games/aoc"
                     >征服者入侵</nuxt-link
                   >資料片)。</em
                 >

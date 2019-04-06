@@ -8,9 +8,9 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>水牛</b>在<nuxt-link to="/games/aor"
-            >《世紀帝國 II HD:王者崛起》</nuxt-link
-          >出現，是可馴化的動物，水牛主要出現在東南亞地圖上。水牛是一種大而笨重的動物，可提供150肉，比<nuxt-link
+          <b>水牛</b>在《<nuxt-link to="/games/aor"
+            >世紀帝國II：王者崛起</nuxt-link
+          >》出現，是可馴化的動物，水牛主要出現在東南亞地圖上。水牛是一種大而笨重的動物，可提供150肉，比<nuxt-link
             to="/units/animal/Goat"
             >山羊</nuxt-link
           >和<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
@@ -48,7 +48,7 @@
                   src="~assets/AOE2WaterBuffalo.png"
                   alt=""
               /></gallery>
-              <p><em>世紀帝國 II的水牛。</em></p>
+              <p><em>世紀帝國II的水牛。</em></p>
             </div>
           </div>
         </div>

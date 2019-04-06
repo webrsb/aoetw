@@ -110,7 +110,7 @@
               <li>
                 匈牙利人在本劇情中以<nuxt-link to="/civs/Teutons"
                   >條頓人</nuxt-link
-                >代表，在2013<nuxt-link to="/games/aof">失落帝國</nuxt-link
+                >代表，在2013<nuxt-link to="/games/aof">失落的帝國</nuxt-link
                 >資料片裡會以<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
                 >人之姿現身。
               </li>

@@ -10,7 +10,7 @@
           <p>
             <b>訓練軍隊</b>是<nuxt-link to="/batt/William_Wallacea"
               >華勒斯教學戰役</nuxt-link
-            >的第三個劇情關卡，專為那些從未玩過“世紀帝國”遊戲的玩家設計，教導玩家如何生產單位和建造<nuxt-link
+            >的第三個劇情關卡，專為那些從未玩過“世紀帝國II”遊戲的玩家設計，教導玩家如何生產單位和建造<nuxt-link
               to="/building"
               >建築物</nuxt-link
             >。

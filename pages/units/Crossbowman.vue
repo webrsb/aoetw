@@ -34,7 +34,7 @@
               >步兵</nuxt-link
             >等近戰類兵種的配合，更可以凸顯<nuxt-link to="/units/Archer_Units"
               >遠程</nuxt-link
-            >弩兵的威力，由近戰提供防護，遠程提供火力掩護，一直以來是世紀帝國最好的搭配。
+            >弩兵的威力，由近戰提供防護，遠程提供火力掩護，一直以來是世紀帝國II最好的搭配。
           </p>
           <p>
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
@@ -657,7 +657,7 @@
               </li>
               <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
               <li>
-                在最初的世紀帝國裡面，<nuxt-link to="/units/Archer"
+                在最初的世紀帝國II裡面，<nuxt-link to="/units/Archer"
                   >弓箭手</nuxt-link
                 >和弩兵原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、攻擊力強，但比較慢。
               </li>

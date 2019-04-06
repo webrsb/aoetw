@@ -19,9 +19,10 @@
           </p>
           <p>
             越南是東南亞的<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
-            ><nuxt-link to="/civs">文明</nuxt-link
-            >，是世紀帝國II王者的崛起新增的文明之一。越南的<nuxt-link
-              to="/units/Unique_Unit"
+            ><nuxt-link to="/civs">文明</nuxt-link>，是《<nuxt-link
+              to="/games/aor"
+              >世紀帝國II：王者崛起</nuxt-link
+            >》新增的文明之一。越南的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
             >，這部分是取自他們有一種弓是用藤製成的，且用輕質<nuxt-link

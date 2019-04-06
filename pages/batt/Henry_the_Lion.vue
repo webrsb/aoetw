@@ -121,7 +121,7 @@
               <li>
                 在劇情中，這關是唯二有玩家從超過兩萬分起始的關卡，也就是猛獅亨利與波蘭。另外一個是<nuxt-link
                   to="/batt/Battles_of_the_Forgotten"
-                  >失落帝國戰役</nuxt-link
+                  >失落的帝國戰役</nuxt-link
                 >中約克城<nuxt-link to="/batt">戰役</nuxt-link>。
               </li>
               <li>

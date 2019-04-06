@@ -8,9 +8,9 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>獅子</b>在<nuxt-link to="/games/ak"
-            >《世紀帝國 II HD: 非洲王國》</nuxt-link
-          >回歸，牠不提供<nuxt-link to="/resource/Food">食物</nuxt-link
+          <b>獅子</b>在《<nuxt-link to="/games/ak"
+            >世紀帝國II：非洲王國</nuxt-link
+          >》回歸，牠不提供<nuxt-link to="/resource/Food">食物</nuxt-link
           >但會出現在地圖的一些區域並且會攻擊<nuxt-link to="/los.php"
             >視野</nuxt-link
           >中的<nuxt-link to="/units/Villager">村民</nuxt-link
@@ -33,7 +33,7 @@
                   src="~assets/AOE2Lion.png"
                   alt=""
               /></gallery>
-              <p><em>世紀帝國 II的獅子。</em></p>
+              <p><em>世紀帝國II的獅子。</em></p>
             </div>
           </div>
         </div>

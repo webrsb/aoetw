@@ -8,9 +8,9 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>羊駝</b>在<nuxt-link to="/games/aof"
-            >《世紀帝國 II HD: 失落的帝國》</nuxt-link
-          >中是可馴化的動物，一隻有100的肉。羊駝會出現在包括<nuxt-link
+          <b>羊駝</b>在《<nuxt-link to="/games/aof"
+            >世紀帝國II：失落的帝國</nuxt-link
+          >》中是可馴化的動物，一隻有100的肉。羊駝會出現在包括<nuxt-link
             to="/maps/Acropolis"
             >雅典衛城</nuxt-link
           >，<nuxt-link to="/maps/Cenotes">岩坑池</nuxt-link>，<nuxt-link
@@ -46,7 +46,7 @@
                   src="~assets/LlamaII.png"
                   alt=""
               /></gallery>
-              <p><em>世紀帝國 II的羊駝。</em></p>
+              <p><em>世紀帝國II的羊駝。</em></p>
             </div>
           </div>
         </div>

@@ -6,7 +6,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#7d756c;">
               <div class="unititle" style="color: #fff;">
-                <nuxt-link to="/maps">世紀帝國的地圖</nuxt-link>
+                <nuxt-link to="/maps">世紀帝國II的地圖</nuxt-link>
               </div>
             </td>
           </tr>

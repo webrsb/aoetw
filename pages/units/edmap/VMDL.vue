@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>VMDL</b>(或在HD版中標記為<b>Elephant Archer</b>）是世紀帝國
+            <b>VMDL</b>(或在HD版中標記為<b>Elephant Archer</b>）是世紀帝國II
             II中的作弊單元。這個名字代表“Villager Male Dave
             Lewis”（一個叫戴夫李維斯的男<nuxt-link to="/units/Villager"
               >村民</nuxt-link
@@ -20,7 +20,9 @@
             它們非常快速且適合探索，但無法攻擊，構建或與任何對象進行交互。然而，當他們被賦予“建築”命令時，他們可以為建築奠定基礎。他們也可以在建築物內駐紮，獲得攻擊獎勵。
           </p>
           <p>
-            在最初的非官方世紀帝國II：失落的帝國中，如果VMDL受到任何野生動物的襲擊，或者這樣的野生動物進入他的視線，他將變成一個正常的女性村民並報復或攻擊該動物。這在官方的世紀帝國II中是不會發生的
+            在最初的非官方《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》中，如果VMDL受到任何野生動物的襲擊，或者這樣的野生動物進入他的視線，他將變成一個正常的女性村民並報復或攻擊該動物。這在官方的世紀帝國II中是不會發生的
           </p>
           <p>
             無論玩家使用什麼<nuxt-link to="/civs">文明</nuxt-link

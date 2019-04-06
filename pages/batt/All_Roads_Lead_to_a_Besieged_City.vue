@@ -226,7 +226,7 @@
                   >改名而來。
                 </li>
                 <li>
-                  原版非官方的<nuxt-link to="/games/aof">失落帝國</nuxt-link
+                  原版非官方的<nuxt-link to="/games/aof">失落的帝國</nuxt-link
                   >版本裡，玩家在地圖最北方會有一個<nuxt-link
                     to="/units/Arbalest"
                     >強弩兵</nuxt-link
@@ -294,7 +294,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落帝國</nuxt-link>第一章之一
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>第一章之一
             </td>
           </tr>
           <tr>

@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>斷矛</b>是《世紀帝國 II HD:<nuxt-link to="/games/aoc"
-              >征服者入侵</nuxt-link
+            <b>斷矛</b>是《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
             >的第六個場景。該<nuxt-link to="/batt">戰役</nuxt-link
             >玩家的敵人科爾特斯和特拉斯卡拉再度來犯，玩家必須守護特諾奇提特蘭。這次科爾特斯有兩個勢力，一個陸軍一個海軍。

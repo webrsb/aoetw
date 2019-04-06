@@ -38,15 +38,18 @@
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >花費便宜10%/15%/20%。
+              >在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >時代花費便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：研究該科技的時間在封建/<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
-              >/帝王時代快10%/15%/20%。
+              >：研究該科技的時間在<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >時代快10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>：該科技免費。
@@ -127,7 +130,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">175</td>
           </tr>
           <tr>

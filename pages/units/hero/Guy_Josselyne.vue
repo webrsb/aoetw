@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>蓋佐斯爾立</strong>是《世紀帝國 II HD:<nuxt-link
-              to="/games/aok"
-              >帝王世紀</nuxt-link
+            <strong>蓋佐斯爾立</strong>是《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
             >最後<nuxt-link to="/batt">戰役</nuxt-link

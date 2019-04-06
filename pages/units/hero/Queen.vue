@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>皇后</strong>是《世紀帝國 II HD:<nuxt-link to="/games/aof"
-              >失落的帝國</nuxt-link
+            <strong>皇后</strong>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
             >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，她只能在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中使用。她與<nuxt-link to="/units/King">國王</nuxt-link

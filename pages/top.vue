@@ -17,7 +17,7 @@
       <div class="hrn1"></div>
       <div class="n1">
         <ul class="list-unstyled">
-          本頁面介紹世紀帝國界的知名玩家，單挑團戰後寫的是最高積分
+          本頁面介紹世紀帝國II界的知名玩家，單挑團戰後寫的是最高積分
           <li>
             比賽的縮寫可參考<nuxt-link to="/history">歷年比賽結果</nuxt-link
             >，2v2 的縮寫以「地圖D年份」表示

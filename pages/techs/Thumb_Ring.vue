@@ -323,8 +323,8 @@
               >則有能力拉回到他們的臉頰，增加了射擊的力量和距離，亞洲的弓箭手則製作了拇指環，讓他們能拉到耳朵或耳朵之後，當他們把非常強大的複合弓加入這個改進時，他們的武器能在戰場上有效殲滅敵人。"</em
             >
             <p style="text-align: right;margin-top: 10px;">
-              -<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵》</nuxt-link
-              >手稿。
+              -《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+              >》手稿。
             </p>
           </div>
         </div>

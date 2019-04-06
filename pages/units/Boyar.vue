@@ -545,8 +545,8 @@
               /></gallery>
               <p>
                 <em
-                  >3.6版《世紀帝國II:<nuxt-link to="/games/aof"
-                    >失落的帝國</nuxt-link
+                  >3.6版《<nuxt-link to="/games/aof"
+                    >世紀帝國II：失落的帝國</nuxt-link
                   >》的貴族鐵騎。</em
                 >
               </p>
@@ -566,9 +566,9 @@
               /></gallery>
               <p>
                 <em
-                  ><nuxt-link to="/games/aoc"
-                    >《世紀帝國II:征服者入侵》</nuxt-link
-                  >時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em
+                  >《<nuxt-link to="/games/aoc"
+                    >世紀帝國II：征服者入侵</nuxt-link
+                  >》時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em
                 >
               </p>
             </div>

@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>蛇鳥之神</b>是《世紀帝國 II HD:<nuxt-link to="/games/aoc"
-              >征服者入侵</nuxt-link
+            <b>蛇鳥之神</b>是《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
             >的第三個場景。本<nuxt-link to="/batt">戰役</nuxt-link
             >是以羽蛇神的名字做命名，因為前一章科爾特斯在抵達之後被誤認為是羽蛇神的化身。

@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>塔克修士</strong>是一名可在《世紀帝國II：<nuxt-link
-              to="/games/aok"
-              >帝王世紀</nuxt-link
+            <strong>塔克修士</strong>是一名可在《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》的地圖編輯器中使用的<nuxt-link to="/units/hero">英雄</nuxt-link
             >。他的原型是<nuxt-link to="/civs/Britons">英國</nuxt-link
             >民間故事中<nuxt-link to="/units/hero/Robin_Hood">羅賓漢</nuxt-link

@@ -10,7 +10,7 @@
           <p>
             世紀帝國1中出現的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >兵種，功能類似于世紀帝國2中的<nuxt-link to="/units/Champion"
+            >兵種，功能類似于世紀帝國II中的<nuxt-link to="/units/Champion"
               >劍兵勇士</nuxt-link
             >，只出現在游戲的地圖編輯器中<b>重劍兵</b>對戰<nuxt-link
               to="/units/Cavalry_Units"

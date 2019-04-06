@@ -6,7 +6,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#274a7d;">
               <div class="unititle" style="color: #fff;">
-                <nuxt-link to="/building">世紀帝國的建築</nuxt-link>
+                <nuxt-link to="/building">世紀帝國II的建築</nuxt-link>
               </div>
             </td>
           </tr>

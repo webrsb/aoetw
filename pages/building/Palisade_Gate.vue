@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>木門</b>是在世紀帝國:<nuxt-link to="/games/aof"
-              >失落的帝國</nuxt-link
-            >資料片中出現的防禦性<nuxt-link to="/building">建築</nuxt-link
+            <b>木門</b>是在《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》資料片中出現的防禦性<nuxt-link to="/building">建築</nuxt-link
             >，他可以建在<nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link
             >上，可以讓同盟通過同時阻擋敵人。木門在友方單位靠近時會自動開啟讓他們通過，並在門下沒有任何單位時(我方或敵方)關上。為了避免敵方單位尾隨有方單位進門後佔住<nuxt-link
               to="/building/Gate"

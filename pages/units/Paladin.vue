@@ -95,7 +95,7 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          遊俠一直以來都是世紀帝國的象徵之一，也算是全遊戲最好使用的兵種，其攻擊、防禦與<nuxt-link
+          遊俠一直以來都是世紀帝國II的象徵之一，也算是全遊戲最好使用的兵種，其攻擊、防禦與<nuxt-link
             to="/elements/Hit_points"
             >血量</nuxt-link
           >、速度都是頂尖。一隊40隻遊俠可無視任何阻礙，消滅任何準備不足的單位或是<nuxt-link

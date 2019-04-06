@@ -8,9 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>世紀帝國II：非洲王國</b>是AOE HD版繼<nuxt-link to="/games/aof"
-              >失落的帝國</nuxt-link
-            >後的第二張資料片，也是世紀帝國第三張資料片，此次主題著重於非洲大陸，四個<nuxt-link
+            <b>《世紀帝國II：非洲王國》</b>是AOE HD版繼《<nuxt-link
+              to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》後的第二張資料片，也是世紀帝國II第三張資料片，此次主題著重於非洲大陸，四個<nuxt-link
               to="/civs"
               >文明</nuxt-link
             >有三個來自於非洲。並且新增了一些遊戲功能。

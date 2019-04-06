@@ -76,8 +76,8 @@
               <li>
                 此<nuxt-link to="/batt">戰役</nuxt-link>章節為<nuxt-link
                   to="/games/aof"
-                  >失落帝國</nuxt-link
-                >團隊於2014年3月5日於3.3補丁新增的劇情戰役，原本預計為失落帝國首發的5個官方戰役之一，但直到2014年補丁才完成。
+                  >失落的帝國</nuxt-link
+                >團隊於2014年3月5日於3.3補丁新增的劇情戰役，原本預計為失落的帝國首發的5個官方戰役之一，但直到2014年補丁才完成。
               </li>
               <li>
                 此戰役於<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link

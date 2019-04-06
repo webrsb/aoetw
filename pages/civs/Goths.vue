@@ -50,7 +50,7 @@
             <li>
               哥德是中歐的<nuxt-link to="/units/Infantry_Units"
                 >步兵文明</nuxt-link
-              >，為世紀帝國最初種族之一。
+              >，為世紀帝國II最初種族之一。
             </li>
             <li>
               他有一個近乎完整的<nuxt-link to="/units/Infantry_Units"

@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>鐵鎚查理</strong>是《世紀帝國 II HD:<nuxt-link
-              to="/games/aoc"
-              >征服者入侵</nuxt-link
+            <strong>鐵鎚查理</strong>是《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >"都爾（732）"和戰役編輯器中找到。鐵鎚查理的外觀是<nuxt-link
@@ -27,8 +26,8 @@
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
-            儘管鐵鎚查理在《世紀帝國 II HD:<nuxt-link to="/games/aok"
-              >帝王世紀</nuxt-link
+            儘管鐵鎚查理在《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》以<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
             >的形貌出現，但他只能在戰役編輯器中找到。
           </p>

@@ -11,7 +11,8 @@
             <b>馬來</b>是東南亞的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
-            >，是世紀帝國II王者的崛起新增的<nuxt-link to="/civs">文明</nuxt-link
+            >，是《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》新增的<nuxt-link to="/civs">文明</nuxt-link
             >之一，馬來舊稱巫來由比大多都是指在馬來群島、東南亞那一區塊的王國，比較具代表的是馬六甲蘇丹王朝、滿者伯夷、三佛齊，但這三個國家起源都一樣是在驅除某些人後紛紛建立，因此遊戲裡馬來算是東南亞群島的王國、文明的綜合。
           </p>
           <p>

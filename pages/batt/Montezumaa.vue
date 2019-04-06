@@ -16,8 +16,8 @@
             </p>
           </div>
           <p>
-            <b>蒙特蘇馬</b>是《世紀帝國 II HD:<nuxt-link to="/games/aoc"
-              >征服者入侵</nuxt-link
+            <b>蒙特蘇馬</b>是《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》中的阿茲特克系列<nuxt-link to="/batt">戰役</nuxt-link
             >，以特諾奇提特蘭的第9位統治者蒙特蘇馬二世命名。這場戰役描繪了<nuxt-link
               to="/units/hero/Cuauhtemoc"

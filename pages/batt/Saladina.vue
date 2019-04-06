@@ -26,10 +26,9 @@
         <div class="n1">
           <p>
             沙拉丁在遊戲<nuxt-link to="/batt">戰役</nuxt-link
-            >中並不會出現，在直到2013年世紀帝國II HD的資料片:<nuxt-link
-              to="/games/aof"
-              >失落的帝國</nuxt-link
-            >中新增，沙拉丁是一個<nuxt-link to="/units/Mameluke"
+            >中並不會出現，在直到2013年《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》中新增，沙拉丁是一個<nuxt-link to="/units/Mameluke"
               >奴隸兵</nuxt-link
             ><nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，只能在地圖編輯器中找到他，他不會被<nuxt-link

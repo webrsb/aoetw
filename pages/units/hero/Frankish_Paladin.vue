@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>法蘭克聖騎士</strong>是《世紀帝國 II HD:<nuxt-link
-              to="/games/aok"
-              >帝王世紀</nuxt-link
+            <strong>法蘭克聖騎士</strong>是《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，只能在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。法蘭克聖騎士有類似<nuxt-link to="/units/Knight"

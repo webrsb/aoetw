@@ -6,7 +6,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#274a7d;">
               <div class="unititle">
-                <nuxt-link to="/batt">世紀帝國戰役</nuxt-link>
+                <nuxt-link to="/batt">世紀帝國II戰役</nuxt-link>
               </div>
             </td>
           </tr>
@@ -163,7 +163,7 @@
                   ><img
                     src="~assets/ForgottenIcon.png"
                     style="margin-right:5px"
-                  />失落帝國</nuxt-link
+                  />失落的帝國</nuxt-link
                 >
               </div>
             </td>
@@ -237,7 +237,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Battles_of_the_Forgotten">失落帝國的戰役</nuxt-link>
+              <nuxt-link to="/batt/Battles_of_the_Forgotten">失落的帝國戰役</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>·

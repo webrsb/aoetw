@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            “世紀帝國II：被遺忘的時代”中一個<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵單位</nuxt-link
+            《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >》中一個<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
             >的<b>北歐劍客</b>。它出現在幾個活動場景中，也可以在場景編輯器中找到。
           </p>
           <p>

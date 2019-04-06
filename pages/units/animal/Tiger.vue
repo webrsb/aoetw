@@ -8,9 +8,9 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>老虎</b>在<nuxt-link to="/games/aor"
-            >《世紀帝國 II HD: 王者崛起》</nuxt-link
-          >出現，是玩家可能在未探索區域會遇到的可怕掠食者之一。牠不提供<nuxt-link
+          <b>老虎</b>在《<nuxt-link to="/games/aor"
+            >世紀帝國II：王者崛起</nuxt-link
+          >》出現，是玩家可能在未探索區域會遇到的可怕掠食者之一。牠不提供<nuxt-link
             to="/resource/Food"
             >食物</nuxt-link
           >但會出現在地圖的一些區域並且會攻擊<nuxt-link to="/los.php"
@@ -35,7 +35,7 @@
                   src="~assets/AOE2Tigers.png"
                   alt=""
               /></gallery>
-              <p><em>世紀帝國 II的老虎。</em></p>
+              <p><em>世紀帝國II的老虎。</em></p>
             </div>
           </div>
         </div>

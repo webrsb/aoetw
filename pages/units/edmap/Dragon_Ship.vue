@@ -9,17 +9,16 @@
         <div class="n1">
           <p>
             <b>龍船</b
-            >是不可製造軍艦世紀帝國IIHD：被遺忘的帝國。它可以在場景編輯器中找到。它射擊一個不斷的火流，類似於噴火船。
+            >是不可製造軍艦世紀帝國II：失落的帝國。它可以在場景編輯器中找到。它射擊一個不斷的火流，類似於噴火船。
           </p>
           <p>
-            龍船的一個非常顯著的創景是在曼德勒眼鏡蛇（世紀帝國2資料片：<nuxt-link
-              to="/games/aor"
-              >王者崛起</nuxt-link
+            龍船的一個非常顯著的創景是在曼德勒眼鏡蛇（<nuxt-link to="/games/aor"
+              >世紀帝國II：王者崛起</nuxt-link
             >的拉賈斯的崛起），他們可以在<nuxt-link to="/units/edmap/Canoe"
               >獨木舟</nuxt-link
             >，皇家戰士和<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >附近找到。另一個是在狼山江<nuxt-link to="/batt">戰役</nuxt-link
-            >場景（被遺忘的帝國）中。
+            >場景（失落的帝國）中。
           </p>
         </div>
         <div class="n1">

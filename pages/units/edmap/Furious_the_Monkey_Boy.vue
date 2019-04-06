@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>狂猴</b
-            >是世紀帝國二：征服這入侵的作弊單位。此單位是一隻猴子，以四肢四處走動，
+            <b>狂猴</b>《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
+            >》的作弊單位。此單位是一隻猴子，以四肢四處走動，
             一隻手攻擊目標。可以通過僅僅幾次揮動手來摧毀<nuxt-link
               to="/building"
               >建築物</nuxt-link

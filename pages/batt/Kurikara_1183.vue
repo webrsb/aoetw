@@ -10,7 +10,7 @@
           <p>
             <b>礪波山（1183）</b>是<nuxt-link
               to="/batt/Battles_of_the_Forgotten"
-              >失落帝國的戰役</nuxt-link
+              >失落的帝國戰役</nuxt-link
             >之一，描述1183年<nuxt-link to="/civs/Japanese">日本</nuxt-link
             >源平合戰期間的俱利伽羅峠之戰，以及木曾義仲的上洛（進軍京都）。
           </p>
@@ -357,7 +357,7 @@
             <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Battles_of_the_Forgotten"
-                >失落帝國的戰役</nuxt-link
+                >失落的帝國戰役</nuxt-link
               >
             </td>
           </tr>

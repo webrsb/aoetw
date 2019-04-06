@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>法蘭切斯科·斯福爾札</strong>是《世紀帝國 II HD:<nuxt-link
-              to="/games/aof"
-              >失落的帝國</nuxt-link
+            <strong>法蘭切斯科·斯福爾札</strong>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，他是<nuxt-link to="/batt">戰役</nuxt-link
             >"斯福爾札"系列中的主角而且一定要存活，他也能在戰役編輯器中使用。法蘭切斯科·斯福爾札擁有<nuxt-link

@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>輕型衝撞車</b
-            >是世紀帝國遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從<nuxt-link
+            >是世紀帝國II遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從<nuxt-link
               to="/units//building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >製造，對一般單位的<nuxt-link to="/elements/Attack"
@@ -482,10 +482,10 @@
           <div class="n1">
             <ul>
               <li>
-                駐紮單位：世紀帝國二初期，衝撞車是沒辦法被駐紮的，到了<nuxt-link
+                駐紮單位：世紀帝國II初期，衝撞車是沒辦法被駐紮的，到了<nuxt-link
                   to="/games/aoc"
                   >征服者入侵</nuxt-link
-                >位資料片之後，衝撞車才可以<nuxt-link to="/elements/Garrison"
+                >資料片之後，衝撞車才可以<nuxt-link to="/elements/Garrison"
                   >駐軍</nuxt-link
                 >(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link to="/units/King"
                   >國王</nuxt-link

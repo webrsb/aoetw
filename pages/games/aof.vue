@@ -8,12 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>世紀帝國II：失落的帝國</b>是1999年即時戰略遊戲<nuxt-link
+            <b>《世紀帝國II：失落的帝國》</b>是1999年即時戰略遊戲《<nuxt-link
               to="/games/aok"
-              >《世紀帝國II：帝王世紀》</nuxt-link
-            >的第二個擴充資料片，距第一個擴充資料片<nuxt-link to="/games/aoc"
-              >征服者入侵</nuxt-link
-            >已超過十年。此資料片由非官方模組《Forgotten
+              >世紀帝國II：帝王世紀</nuxt-link
+            >》的第二個擴充資料片，距第一個擴充資料片《<nuxt-link
+              to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
+            >》已超過十年。此資料片由非官方模組《Forgotten
             Empires》發展而來。現由「Forgotten
             Empires」團隊持續開發，溫哥華的Skybox
             Labs提供支援。《失落的帝國》中引入五個新<nuxt-link to="/civs"
@@ -27,12 +28,13 @@
               >印加人</nuxt-link
             >、七場新<nuxt-link to="/batt">戰役</nuxt-link
             >、新單位、新<nuxt-link to="/techs">科技</nuxt-link
-            >、新遊戲模式及新地圖，並改善了人工智慧和遊戲細節。開發團隊並於2015年秋季推出第三個官方擴充資料片─<nuxt-link
+            >、新遊戲模式及新地圖，並改善了人工智慧和遊戲細節。開發團隊並於2015年秋季推出第三個官方擴充資料片─《<nuxt-link
               to="/games/ak"
-              >《非洲王國》</nuxt-link
-            >，於2016年年底推出第四個官方擴充資料片─<nuxt-link to="/games/aor"
-              >《王者崛起》</nuxt-link
-            >
+              >世紀帝國II：非洲王國</nuxt-link
+            >》，於2016年年底推出第四個官方擴充資料片─《<nuxt-link
+              to="/games/aor"
+              >世紀帝國II：王者崛起</nuxt-link
+            >》
           </p>
         </div>
         <h2>新增元素</h2>
@@ -241,7 +243,7 @@
             <li><nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link></li>
             <li>
               <nuxt-link to="/batt/Battles_of_the_Forgotten"
-                >失落帝國的戰役</nuxt-link
+                >失落的帝國戰役</nuxt-link
               >
             </li>
           </ul>

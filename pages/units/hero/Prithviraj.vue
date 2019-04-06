@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            《世紀帝國II：被遺忘的帝國》中的<strong>布里斯比羅吉</strong
+            《世紀帝國II：失落的帝國》中的<strong>布里斯比羅吉</strong
             ><nuxt-link to="/batt">戰役</nuxt-link>講述的是歷史人物
             <a
               href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"

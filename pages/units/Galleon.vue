@@ -711,7 +711,7 @@
               >。
             </li>
             <li>
-              一開始在世紀帝國資料片中重型弩砲戰船在攻擊時會發出跟弩砲一樣的"whoosh"的聲音；不過在<nuxt-link
+              一開始在世紀帝國II資料片中重型弩砲戰船在攻擊時會發出跟弩砲一樣的"whoosh"的聲音；不過在<nuxt-link
                 to="/games/aoc"
                 >征服者入侵</nuxt-link
               >資料片後因為遺失了該音源檔所以就再也聽不到這個聲音了。
@@ -751,7 +751,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/GalleonHD.jpg" alt=""
               /></gallery>
-              <p><em>各種重型弩砲戰船(世紀帝國和征服者入侵資料片)。</em></p>
+              <p><em>各種重型弩砲戰船(世紀帝國II和征服者入侵資料片)。</em></p>
             </div>
             <div class="row">
               <div class="col-md-4">

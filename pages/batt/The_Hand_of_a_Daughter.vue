@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>于歸之喜</b>是世紀帝國IIHD:<nuxt-link to="/games/aof"
-              >失落帝國</nuxt-link
-            >、<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link
+            <b>于歸之喜</b>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》、<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link
             >的第三關劇情關卡。
           </p>
           <p>
@@ -314,7 +314,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落帝國</nuxt-link>第四章之三
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>第四章之三
             </td>
           </tr>
           <tr>

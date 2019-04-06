@@ -11,7 +11,7 @@
             <b>法蘭克</b>現世國家為法國，是西歐的<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵文明</nuxt-link
-            >，世紀帝國2可使用的最初<nuxt-link to="/civs">文明</nuxt-link
+            >，世紀帝國II可使用的最初<nuxt-link to="/civs">文明</nuxt-link
             >之一。在古時候被稱為高盧，歷史上較有名的王朝分別是墨洛溫王朝、卡洛林王朝(查理大帝)，歷經這些王朝才分裂出大家常聽過的法蘭西王國、神聖羅馬帝國，比較著名的就是法蘭西王國的<nuxt-link
               to="/units/hero/Joan_of_Arc_Champion"
               >聖女貞德</nuxt-link

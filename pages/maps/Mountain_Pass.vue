@@ -10,9 +10,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <b>雪山地</b>是<nuxt-link to="/games/ak"
-              >《世紀帝國:非洲王國》</nuxt-link
-            >中唯一設定不是在非洲的地圖。地圖上有些積雪的山頭，有一些結冰的池塘和森林，但大部分是廣闊的平地。一開始開局跟<nuxt-link
+            <b>雪山地</b>是《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》中唯一設定不是在非洲的地圖。地圖上有些積雪的山頭，有一些結冰的池塘和森林，但大部分是廣闊的平地。一開始開局跟<nuxt-link
               to="/maps/Nomad"
               >游牧</nuxt-link
             >十分類似，玩家沒有<nuxt-link to="/building/Town_Center"

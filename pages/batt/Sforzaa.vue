@@ -109,11 +109,11 @@
             <ul>
               <li>
                 此戰役章節原預計為<nuxt-link to="/batt/Battles_of_the_Forgotten"
-                  >失落帝國戰役</nuxt-link
+                  >失落的帝國戰役</nuxt-link
                 >中編號第5章的戰役， 但由於當時<nuxt-link to="/batt/El_Doradoa"
                   >黃金國戰役</nuxt-link
                 >給予外包商製作未能趕上2013年HD版<nuxt-link to="/games/aof"
-                  >失落帝國</nuxt-link
+                  >失落的帝國</nuxt-link
                 >首發戰役之一，故此章編號改為第4。
               </li>
             </ul>

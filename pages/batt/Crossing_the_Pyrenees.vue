@@ -222,9 +222,9 @@
                   </li>
                   <li>阿卜杜勒•拉赫曼•迦菲奇最後在翻過山後的戰役死亡了。</li>
                   <li>
-                    圖爾戰役又稱普瓦捷戰役，世紀帝國<nuxt-link to="/games/aoc"
-                      >征服者入侵</nuxt-link
-                    >戰役的<nuxt-link to="/batt/Tours_732"
+                    圖爾戰役又稱普瓦捷戰役，《<nuxt-link to="/games/aoc"
+                      >世紀帝國II：征服者入侵</nuxt-link
+                    >》戰役的<nuxt-link to="/batt/Tours_732"
                       >都爾（732）</nuxt-link
                     >。
                   </li>

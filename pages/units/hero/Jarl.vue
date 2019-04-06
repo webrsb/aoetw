@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>雅爾</strong>是《世紀帝國 II HD:<nuxt-link to="/games/aof"
-              >失落的帝國</nuxt-link
+            <strong>雅爾</strong>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，他是以<nuxt-link to="/civs/Vikings">挪威</nuxt-link
             >或丹麥指揮官作為模板。他擁有<nuxt-link to="/units/Tarkan"

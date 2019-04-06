@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>悲傷之夜</b>是《世紀帝國 II HD:<nuxt-link to="/games/aoc"
-              >征服者入侵</nuxt-link
+            <b>悲傷之夜</b>是《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
             >的第四個場景。
           </p>

@@ -481,8 +481,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <li>
-            在<nuxt-link to="/games/aof">《世紀帝國:失落的帝國》</nuxt-link
-            >的mod版本中，熱那亞弩手使用修改過的<nuxt-link
+            在《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >》的mod版本中，熱那亞弩手使用修改過的<nuxt-link
               to="/units/Hand_Cannoneer"
               >火槍兵</nuxt-link
             >模組。然而，在零售版中，他們獲得了新的模組:攜帶著盾牌的弩手。

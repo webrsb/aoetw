@@ -9,8 +9,8 @@
         <div class="n1">
           <p>
             <strong>拉海爾</strong>（又名艾蒂安·德維諾勒，Etienne de
-            Vignolles）是《世紀帝國 II HD:<nuxt-link to="/games/aok"
-              >帝王世紀</nuxt-link
+            Vignolles）是《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。現實中他出生於1390年 -

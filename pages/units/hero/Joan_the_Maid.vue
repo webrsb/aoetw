@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>農家女貞德</strong>是《世紀帝國 II HD:<nuxt-link
-              to="/games/aok"
-              >帝王世紀</nuxt-link
+            <strong>農家女貞德</strong>是《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，可以在貞德第一<nuxt-link to="/batt">戰役</nuxt-link
             >"一個不大可能的彌賽亞"和戰役編輯器中找到。在之後的戰役貞德騎上了馬成為一個<nuxt-link
@@ -23,7 +22,7 @@
             >(在<nuxt-link to="/games/aoc">征服者</nuxt-link>資料片後)。
           </p>
           <p>
-            在《世紀帝國 II HD:<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            在《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
             >》前的資料片農家女貞德跟她的騎馬版本都會受到<nuxt-link
               to="/armor/Armor_Class_Cavalry"
               >反騎兵</nuxt-link

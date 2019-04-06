@@ -14,7 +14,7 @@
             >、 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >。 到了世紀帝國2<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >。 到了世紀帝國II<nuxt-link to="/games/aof">失落的帝國</nuxt-link
             >，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >便可以生產<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
             >，到了<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
@@ -631,9 +631,9 @@
             /></gallery>
             <p>
               <em
-                >一群鷹勇士(<nuxt-link to="/games/aoc"
-                  >《世紀帝國II:征服者入侵》</nuxt-link
-                >資料片)</em
+                >一群鷹勇士(《<nuxt-link to="/games/aoc"
+                  >世紀帝國II：征服者入侵</nuxt-link
+                >》資料片)</em
               >
             </p>
           </div>
@@ -641,7 +641,7 @@
             <gallery
               ><img class="imgn hg" src="~assets/Eaglewarrior.png" alt=""
             /></gallery>
-            <p><em>一群鷹勇士(《世紀帝國II:失落的帝國》資料片)</em></p>
+            <p><em>一群鷹勇士(《世紀帝國II：失落的帝國》資料片)</em></p>
           </div>
         </div>
         <div class="row">

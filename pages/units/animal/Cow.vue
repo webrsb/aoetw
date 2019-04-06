@@ -8,13 +8,13 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>乳牛</b>在<nuxt-link to="/games/aof"
-            >《世紀帝國 II HD:失落的帝國》</nuxt-link
-          >中是可馴化的動物，一隻有150的肉，跟<nuxt-link
+          <b>乳牛</b>在《<nuxt-link to="/games/aof"
+            >世紀帝國II：失落的帝國</nuxt-link
+          >》中是可馴化的動物，一隻有150的肉，跟<nuxt-link
             to="/units/animal/Water_Buffalo"
             >水牛</nuxt-link
-          >很類似(在<nuxt-link to="/games/ak"
-            >《世紀帝國 II HD: 非洲王國》</nuxt-link
+          >很類似(在《<nuxt-link to="/games/ak"
+            >世紀帝國II：非洲王國》</nuxt-link
           >資料片出現)。乳牛有14HP比其他五種可馴養動物的7HP多一些，這讓那些<nuxt-link
             to="/techs/age/Dark_Age"
             >黑暗時代</nuxt-link

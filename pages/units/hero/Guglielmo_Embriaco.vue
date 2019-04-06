@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>吉列爾莫‧安布裡科</strong> 是一名在《世紀帝國II
-            HD：<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            <strong>吉列爾莫‧安布裡科</strong> 是一名在《<nuxt-link
+              to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
             >》的地圖編輯器中能使用的<nuxt-link to="/armor/Armor_Class_Archer"
               >射手</nuxt-link
             ><nuxt-link to="/units/hero/">英雄</nuxt-link

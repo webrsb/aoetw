@@ -37,7 +37,7 @@
                 >【黃金國】</nuxt-link
               >、<nuxt-link to="#a15">【布里斯比羅吉】</nuxt-link>、<nuxt-link
                 to="#a16"
-                >【失落帝國的戰役】</nuxt-link
+                >【失落的帝國戰役】</nuxt-link
               >
             </p>
             <p>
@@ -731,7 +731,7 @@
         <p></p>
         <div class="hrn1"></div>
         <p></p>
-        <h3><strong>失落帝國戰役</strong></h3>
+        <h3><strong>失落的帝國戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
@@ -1065,7 +1065,7 @@
                   <div class="unititle">
                     <div id="a16">
                       <nuxt-link to="/batt/Battles_of_the_Forgotten"
-                        >失落帝國的戰役</nuxt-link
+                        >失落的帝國戰役</nuxt-link
                       >
                     </div>
                   </div>

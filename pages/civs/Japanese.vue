@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>日本</b
-            >在世紀帝國中是個相對"年輕"的民族，日本的封建制度開始於11世紀左右，相對其他遊戲種族來說更晚。
+            >在世紀帝國II中是個相對"年輕"的民族，日本的封建制度開始於11世紀左右，相對其他遊戲種族來說更晚。
           </p>
           <p>
             自古以來，<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
@@ -35,7 +35,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>日本是東亞的步兵文明，為世紀帝國最初種族之一。</li>
+            <li>日本是東亞的步兵文明，為世紀帝國II最初種族之一。</li>
             <li>
               日本的步兵很是強大，但是作為代價<nuxt-link
                 to="/units/Cavalry_Units"

@@ -10,9 +10,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <b>水上游牧</b>在<nuxt-link to="/games/aor"
-              >《世紀帝國:王者崛起》</nuxt-link
-            >版本首次出現。與王者崛起的大多數新地圖一樣，水上游牧是一個“兩棲”地圖，也是最有趣的地圖之一。地圖主要由少部分的陸地，還有許多可建造的淺灘及一些深水洞穴。樹是大片的紅樹林，有許多<nuxt-link
+            <b>水上游牧</b>在《<nuxt-link to="/games/aor"
+              >世紀帝國II：王者崛起</nuxt-link
+            >》版本首次出現。與王者崛起的大多數新地圖一樣，水上游牧是一個“兩棲”地圖，也是最有趣的地圖之一。地圖主要由少部分的陸地，還有許多可建造的淺灘及一些深水洞穴。樹是大片的紅樹林，有許多<nuxt-link
               to="/units/animal/Water_Buffalo"
               >水牛</nuxt-link
             >、活海龜和魚可供採集。玩家開始的配置與<nuxt-link to="/maps/Nomad"

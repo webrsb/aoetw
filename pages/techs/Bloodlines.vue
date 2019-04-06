@@ -160,8 +160,8 @@
               >通常擅於馬匹配種，而在中東和亞洲，類似的方法用於繁殖賽跑用的駱駝，或培養耐力好的駱駝作為長途貿易旅行載運貨品及人員使用。"</em
             >
             <p style="text-align: right;margin-top: 10px;">
-              -<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵》</nuxt-link
-              >手稿。
+              -《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+              >》手稿。
             </p>
           </div>
         </div>

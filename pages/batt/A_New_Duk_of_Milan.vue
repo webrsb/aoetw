@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>米蘭新公爵</b>是世紀帝國II HD：<nuxt-link to="/games/aof"
-              >失落的帝國</nuxt-link
+            <b>米蘭新公爵</b>是<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
             >中<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link
             >的第五關。（也是此章節的最後一關）
           </p>
@@ -305,7 +305,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落帝國</nuxt-link>第四章之五
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>第四章之五
             </td>
           </tr>
           <tr>

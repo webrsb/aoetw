@@ -10,9 +10,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <b>鹽沼地</b>可能是<nuxt-link to="/games/aor"
-              >《世紀帝國:王者崛起》</nuxt-link
-            >版本前的第一個兩棲地圖。鹽沼地半水半陸，同時有許多淺灘、<nuxt-link
+            <b>鹽沼地</b>可能是《<nuxt-link to="/games/aor"
+              >世紀帝國II：王者崛起</nuxt-link
+            >》版本前的第一個兩棲地圖。鹽沼地半水半陸，同時有許多淺灘、<nuxt-link
               to="/maps/Bog_Islands"
               >沼澤</nuxt-link
             >和可通行的水域。雖然有大量樹木跟水域提供天然的屏障，但淺灘的位置讓玩家難以限制敵人的突襲。強烈建議投資<nuxt-link

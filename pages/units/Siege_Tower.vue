@@ -120,7 +120,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:對移動目標命中率上升(只影響《世紀帝國II:失落的帝國》的攻城塔)
+              >:對移動目標命中率上升(只影響《世紀帝國II：失落的帝國》的攻城塔)
             </td>
           </tr>
           <tr>
@@ -519,7 +519,7 @@
                 >攻擊速度</nuxt-link
               >快25%。
             </li>
-            (只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)
+            (只影響《世紀帝國II：失落的帝國》的攻城塔，其他資料片的不會)
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：利於攻城塔的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
@@ -557,7 +557,7 @@
             </li>
             <strong
               >(這些<nuxt-link to="/techs">科技</nuxt-link
-              >只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)</strong
+              >只影響《世紀帝國II：失落的帝國》的攻城塔，其他資料片的不會)</strong
             >
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：攻城塔對<nuxt-link
@@ -670,7 +670,7 @@
                   alt=""
               /></gallery>
               <p>
-                <em>《世紀帝國II:失落的帝國》的攻城塔是可以射箭攻擊的</em>
+                <em>《世紀帝國II：失落的帝國》的攻城塔是可以射箭攻擊的</em>
               </p>
             </div>
           </div>

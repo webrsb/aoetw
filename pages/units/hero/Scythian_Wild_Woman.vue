@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>斯基泰的野女人</strong>是《世紀帝國II：<nuxt-link
-              to="/games/aoc"
-              >征服者入侵</nuxt-link
+            <strong>斯基泰的野女人</strong>是《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link>，她在<nuxt-link
               to="/batt/The_Great_Ride"

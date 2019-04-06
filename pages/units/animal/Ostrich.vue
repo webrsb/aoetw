@@ -8,9 +8,9 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          <b>鴕鳥</b>在<nuxt-link to="/games/ak"
-            >《世紀帝國 II HD: 非洲王國》</nuxt-link
-          >中是可獵捕的動物，通常三隻一群，一隻有140的肉，但不會被馴化，必須去狩獵或是用<nuxt-link
+          <b>鴕鳥</b>在《<nuxt-link to="/games/ak"
+            >世紀帝國II：非洲王國</nuxt-link
+          >》中是可獵捕的動物，通常三隻一群，一隻有140的肉，但不會被馴化，必須去狩獵或是用<nuxt-link
             to="/units/Scout_Cavalry"
             >斥候</nuxt-link
           >趕回<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link

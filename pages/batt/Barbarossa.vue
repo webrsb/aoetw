@@ -25,10 +25,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            巴巴羅薩也就是腓特烈大帝，從來沒有在這個系列中出現過，只有在最後一關，他做為一個屍體出現(桶裝皇帝)。巴巴羅薩後來在<nuxt-link
+            巴巴羅薩也就是腓特烈大帝，從來沒有在這個系列中出現過，只有在最後一關，他做為一個屍體出現(桶裝皇帝)。巴巴羅薩後來在《<nuxt-link
               to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
-            >中作為一個<nuxt-link to="/units/hero">英雄</nuxt-link>出現，
+            >》中作為一個<nuxt-link to="/units/hero">英雄</nuxt-link>出現，
           </p>
         </div>
         <h3>關卡</h3>

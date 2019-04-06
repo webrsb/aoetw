@@ -508,9 +508,8 @@
         <div class="n1">
           <ul>
             <li>
-              以前<nuxt-link to="/games/aoc"
-                >《世紀帝國II:征服者入侵》</nuxt-link
-              >的中文版本，把弩砲直接翻譯成蠍子。
+              以前《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+              >》的中文版本，把弩砲直接翻譯成蠍子。
             </li>
             <li>
               弩砲是遊戲中唯一只有一次升級的<nuxt-link to="/units/Siege_Weapons"

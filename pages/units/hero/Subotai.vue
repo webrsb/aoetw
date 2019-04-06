@@ -8,16 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>速不臺</strong>或稱<b>書部台</b>是《世紀帝國 II
-            HD:<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+            <strong>速不臺</strong>或稱<b>書部台</b>是《<nuxt-link
+              to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名重裝<nuxt-link to="/units/Archer_Units"
               >馬弓騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >"遊牧民族的西遷"和戰役編輯器中找到。速不臺是<nuxt-link
               to="/units/hero/Genghis_Khan"
               >成吉思汗</nuxt-link
-            >和窩闊台旗下的將軍和戰略家，他著名的事蹟是在兩天內擊敗匈牙利和波蘭軍隊，後來成為《世紀帝國
-            II HD: 帝王世紀》<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+            >和窩闊台旗下的將軍和戰略家，他著名的事蹟是在兩天內擊敗匈牙利和波蘭軍隊，後來成為《世紀帝國II
+            II: 帝王世紀》<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
             >戰役的"承諾"和"蒙古治下的和平"戰役。速不臺的外觀是<nuxt-link
               to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link

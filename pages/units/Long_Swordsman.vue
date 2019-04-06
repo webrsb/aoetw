@@ -34,8 +34,8 @@
             >
           </p>
           <p>
-            早期<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵》</nuxt-link
-            >前的版本，長劍兵可說是一個雞肋單位，基本上沒有玩家會去生產，而到了<nuxt-link
+            早期《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+            >》前的版本，長劍兵可說是一個雞肋單位，基本上沒有玩家會去生產，而到了<nuxt-link
               to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
             >，長劍兵進一步的被強化，在現今<nuxt-link

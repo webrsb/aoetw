@@ -6,7 +6,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#1161b7;">
               <div class="unititle" style="color: #fff;">
-                世紀帝國的兵種分類
+                世紀帝國II的兵種分類
               </div>
             </td>
           </tr>

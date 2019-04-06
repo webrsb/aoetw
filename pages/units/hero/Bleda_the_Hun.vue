@@ -12,8 +12,8 @@
               >匈奴</nuxt-link
             >帝國(西元390~445)的國王和<nuxt-link to="/units/hero/Attila_the_Hun"
               >阿提拉</nuxt-link
-            >的兄弟，在《世紀帝國 II HD:<nuxt-link to="/games/aoc"
-              >征服者入侵</nuxt-link
+            >的兄弟，在《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >》<nuxt-link to="/batt/Attila_the_Huna">阿提拉戰役</nuxt-link
             >系中是第二主角。由於他屬於<nuxt-link to="/units/hero"
               >英雄</nuxt-link
@@ -23,7 +23,7 @@
           </p>
           <p>
             貝里達的外貌是<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
-            >，在《世紀帝國 II HD:<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
             >》前的資料片他在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中被歸類為一般單位，所以他沒有回血能力也不能抵抗招降。直到非洲王國資料片後才分類成英雄。貝里達可以駐紮在<nuxt-link
               to="/units/Battering_Ram"
