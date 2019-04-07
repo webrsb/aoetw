@@ -753,7 +753,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-                  >：到帝王時代可獲得100金、100肉。
+                  >：到帝王時代可獲得100黃金、100食物。
                 </li>
                 <li>
                   <nuxt-link to="/civs/Italians">義大利</nuxt-link

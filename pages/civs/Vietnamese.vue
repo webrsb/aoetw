@@ -185,11 +185,9 @@
               >：矛象伕血量+50。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Paper_Money">紙幣</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Paper_Money"
+                >紙幣</nuxt-link
               >：花800食物200黃金換取盟友與自己各收到500黃金。
             </li>
           </ul>

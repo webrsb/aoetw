@@ -23,7 +23,7 @@
             眼鏡蛇擁有傲人的10攻擊範圍，可以輕鬆虐殺任何其他遊戲中的遠程攻擊者
             ，也可輕鬆擊垮來襲敵軍，就算擁有<nuxt-link to="/elements/Garrison"
               >駐軍</nuxt-link
-            >人員或<nuxt-link to="/civs/Britons">英國</nuxt-link>長弓手的城
+            >人員或<nuxt-link to="/civs/Britons">英國</nuxt-link>長弓兵的城
             堡可以超出它。儘管如此，由於它的高<nuxt-link
               to="/elements/Hit_points"
               >生命值</nuxt-link

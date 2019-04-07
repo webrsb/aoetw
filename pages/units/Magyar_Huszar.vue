@@ -561,7 +561,7 @@
               <nuxt-link to="/units/Hussar">翼騎兵</nuxt-link
               >舊稱匈牙利輕騎兵馬扎爾城堡兵研發<nuxt-link to="/techs"
                 >科技</nuxt-link
-              >後也只需要80肉也比翼騎兵強名副其實的匈牙利輕騎兵。
+              >後也只需要80食物也比翼騎兵強名副其實的匈牙利輕騎兵。
             </li>
           </ul>
         </div>
@@ -594,16 +594,14 @@
                 /></gallery>
                 <p><em>2.2版前的馬扎爾驃騎兵。</em></p>
               </div>
-              <div class="row">
-                <div class="col-md-4">
-                  <gallery
-                    ><img
-                      class="imgn hg"
-                      src="~assets/Magyar_Huszar_Concept_Art.jpg"
-                      alt=""
-                  /></gallery>
-                  <p><em>真實世界的馬扎爾驃騎兵的畫。</em></p>
-                </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    src="~assets/Magyar_Huszar_Concept_Art.jpg"
+                    alt=""
+                /></gallery>
+                <p><em>真實世界的馬扎爾驃騎兵的畫。</em></p>
               </div>
             </div>
           </div>

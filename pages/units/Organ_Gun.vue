@@ -156,10 +156,10 @@
           </tr>
         </table>
 
-        <h3>剋手風琴砲的單位與建築</h3>
+        <h3>剋風琴砲的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對手風琴砲的額外傷害，按造傷殺力排列。
+          以下單位擁有對風琴砲的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -396,15 +396,15 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>手風琴砲有1的擴散攻擊。</li>
+            <li>風琴砲有1的擴散攻擊。</li>
             <li>
-              手風琴砲<nuxt-link to="/armor/Armor_Class_Infantry"
+              風琴砲<nuxt-link to="/armor/Armor_Class_Infantry"
                 >步兵單位</nuxt-link
               >攻擊+1。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >:手風琴砲一開始不售<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >:風琴砲一開始不售<nuxt-link to="/civs/Turks">土耳其</nuxt-link
               >的<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
               >影響。直到4.8改版後才開始有影響訓練速度(+20%)。
             </li>
@@ -414,11 +414,11 @@
           </h3>
           <ul>
             <li>
-              手風琴砲對<nuxt-link to="/building">建築物</nuxt-link
+              風琴砲對<nuxt-link to="/building">建築物</nuxt-link
               >不再有攻擊加成。
             </li>
-            <li>手風琴砲的最小攻擊距離為1。</li>
-            <li>5.7改版後手風琴砲現在有2的擴散攻擊。</li>
+            <li>風琴砲的最小攻擊距離為1。</li>
+            <li>5.7改版後風琴砲現在有2的擴散攻擊。</li>
           </ul>
         </div>
         <h3>豆知識</h3>
@@ -428,7 +428,7 @@
             <li>
               所有可攻擊的<nuxt-link to="/units/Siege_Weapons"
                 >攻城單位</nuxt-link
-              >中手風琴砲是唯一對<nuxt-link to="/building">建築物</nuxt-link
+              >中風琴砲是唯一對<nuxt-link to="/building">建築物</nuxt-link
               >沒有攻擊加成的單位。
             </li>
           </ul>
@@ -458,13 +458,13 @@
                   src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o8_500.png"
                   alt=""
               /></gallery>
-              <p><em>一群手風琴砲。</em></p>
+              <p><em>一群風琴砲。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/6.jpg" alt=""
               /></gallery>
-              <p><em>手風琴砲正防禦著敵人的突襲。</em></p>
+              <p><em>風琴砲正防禦著敵人的突襲。</em></p>
             </div>
           </div>
         </div>

@@ -807,7 +807,7 @@
                 class="gg"
                 src="~assets/Champion-research.jpg"
                 alt=""
-              />750肉350金
+              />750食物350黃金
             </td>
           </tr>
           <tr>

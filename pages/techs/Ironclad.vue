@@ -67,13 +67,13 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>成本為500木/300金。</li>
+            <li>成本為500木材/300黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>成本降為400木/300金</li>
+            <li>成本降為400木材/300黃金</li>
           </ul>
         </div>
       </div>

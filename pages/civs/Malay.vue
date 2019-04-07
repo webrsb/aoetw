@@ -92,10 +92,10 @@
               >/<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(<nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
-              >)等科技加成，因此只能加減用(馬來戰象花費96食物和56金，而不是<nuxt-link
+              >)等科技加成，因此只能加減用(馬來戰象花費96食物和56黃金，而不是<nuxt-link
                 to="/units/Knight"
                 >騎士</nuxt-link
-              >成本60食物和75金)。
+              >成本60食物和75黃金)。
             </li>
             <li>
               <nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
@@ -164,11 +164,9 @@
               >，簡稱海上城堡。
             </p>
             <p>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Forced_Levy"
+                >強制徵兵</nuxt-link
               >：民兵系列不需要黃金。
             </p>
           </ul>
@@ -218,7 +216,7 @@
                 >火砲塔</nuxt-link
               >卻沒有垛牆的文明。
             </li>
-            <li>一個漁網有715肉但是馬來的漁網是無限供應的!。</li>
+            <li>一個漁網有715食物但是馬來的漁網是無限供應的!。</li>
           </ul>
         </div>
       </div>

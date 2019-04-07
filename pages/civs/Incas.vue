@@ -108,10 +108,9 @@
               >和投石手的最小射程。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-              />帝王時代-<nuxt-link to="/techs/Couriers">信使</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Couriers"
+                >信使</nuxt-link
               >：槍隊長、投石手和<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >的護甲+1/+2。

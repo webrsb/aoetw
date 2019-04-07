@@ -418,7 +418,7 @@
           <ul>
             <li>
               升級到<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
-              >需要100<nuxt-link to="/resource/Food">食物</nuxt-link>和250石材。
+              >需要100<nuxt-link to="/resource/Food">食物</nuxt-link>和250石頭。
             </li>
             <li>
               <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link

@@ -73,7 +73,7 @@
               ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
               >僱傭兵)，對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
               >有加成威力差不多跟<nuxt-link to="/units/Knight">騎士</nuxt-link
-              >一樣，但是只需要80肉，可說是大肉馬(翼騎兵(匈牙利輕騎兵)進階版。
+              >一樣，但是只需要80食物，可說是大肉馬(翼騎兵(匈牙利輕騎兵)進階版。
             </li>
             <li>
               馬扎爾的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
@@ -124,11 +124,9 @@
               >：生產馬扎爾驃騎兵時不需要黃金。
             </p>
             <p>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Recurve_Bow"
+                >反曲弓</nuxt-link
               >：馬弓騎兵攻擊與距離額外+1。
             </p>
           </ul>

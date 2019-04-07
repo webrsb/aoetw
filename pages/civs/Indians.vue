@@ -162,11 +162,9 @@
               >：黃金收入的效率一律+10%。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Shatagni"
+                >印度火槍</nuxt-link
               >：火槍兵攻擊距離+1。
             </li>
           </ul>

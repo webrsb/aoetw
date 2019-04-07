@@ -51,7 +51,7 @@
             >對穿著盔甲的部隊更加有效。錐狀箭頭旨在將力量集中一點並穿透敵人護甲，而不是一個廣泛的點。早期的箭矢用於狩獵或對付沒有裝甲的目標而言是OK的，但裝甲卻有效地消散了它的能量。錐狀箭頭可以把力量集中，在足夠短的距離內穿透任何裝甲。阿金庫爾的<nuxt-link
               to="/civs/Britons"
               >英國</nuxt-link
-            >長弓手在對付<nuxt-link to="/civs/Franks">法國</nuxt-link
+            >長弓兵在對付<nuxt-link to="/civs/Franks">法國</nuxt-link
             ><nuxt-link to="/units/Knight">騎士</nuxt-link
             >部隊時也使用了錐狀箭頭。錐狀箭頭在重力的作用下，擊中時能直接穿透頭盔，肩膀，腿部和手臂的護甲。
           </p>

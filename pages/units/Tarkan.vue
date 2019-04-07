@@ -21,7 +21,7 @@
             >的近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
             >。韃靼騎兵可在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為<nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link>
+            >升級為精銳韃靼騎兵
           </p>
         </div>
         <h3>戰術</h3>
@@ -752,10 +752,7 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
-                to="/units/Tarkan"
-                >精銳韃靼騎兵</nuxt-link
-              >
+              <img class="gg" src="~assets/TarkanIcon.jpg" alt="" />精銳韃靼騎兵
             </td>
           </tr>
           <tr>

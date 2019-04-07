@@ -43,7 +43,7 @@
             >、對馬有加成，也不怕<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
             >、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-            >也沒再怕的(遇到弩砲仍有所忌憚)。可怕的是他非常便宜，只需要20肉50<nuxt-link
+            >也沒再怕的(遇到弩砲仍有所忌憚)。可怕的是他非常便宜，只需要20食物50<nuxt-link
               to="/resource/Gold"
               >黃金</nuxt-link
             >，生產也非常快速，這讓南美國家變得非常強勢。而他身體嬌小(相對於<nuxt-link

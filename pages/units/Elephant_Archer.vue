@@ -791,7 +791,7 @@
                   >射手單位</nuxt-link
                 >。
                 <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-12">
                     <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
                     <ul>
                       <li>
@@ -871,9 +871,6 @@
             </li>
           </ul>
         </div>
-        <h3>趣事</h3>
-        <div class="hrn1"></div>
-        <div class="n1"></div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">

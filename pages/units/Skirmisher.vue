@@ -794,7 +794,7 @@
                 class="gg"
                 src="~assets/Elite-skirmisher-research.jpg"
                 alt=""
-              />200木100金
+              />200木材100黃金
             </td>
           </tr>
           <tr>

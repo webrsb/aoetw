@@ -27,7 +27,8 @@
           <p>
             高棉是《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
             >》新增的<nuxt-link to="/civs">文明</nuxt-link
-            >。使用上具有創造性與挑戰性，首先其<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >。使用上具有創造性與挑戰性，首先其<nuxt-link to="/techs/untech"
+              >特殊科技</nuxt-link
             >皆與大象有關，但一般<nuxt-link to="/units/Archer_Units"
               >弓兵</nuxt-link
             >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
@@ -92,10 +93,10 @@
               <br />升級：與直城升級法無異，但可省下<nuxt-link
                 to="/building/Barracks"
                 >軍營</nuxt-link
-              >（175木）<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-              >（150木）共320<nuxt-link to="/resource/Wood">木材</nuxt-link
+              >（175木材）<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >（150木材）共320<nuxt-link to="/resource/Wood">木材</nuxt-link
               >，甚至連<nuxt-link to="/building/Stable">馬廄</nuxt-link
-              >（175木）都可以省下來，直接前置<nuxt-link
+              >（175木材）都可以省下來，直接前置<nuxt-link
                 to="/building/Monastery"
                 >修道院</nuxt-link
               >與<nuxt-link to="/units//building/Siege_Workshop"
@@ -112,8 +113,8 @@
                   class="gg"
                   src="~assets/Ballistaelephanticon.png"
                   alt=""
-                /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>：背負<nuxt-link to="/units/Siege_Weapons"
-                  >攻城武器</nuxt-link
+                /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link
+                >：背負<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
                 >的大象，弩砲發射時可破壞樹木。
               </li>
             </ul>
@@ -132,7 +133,7 @@
                   class="gg"
                   src="~assets/Unique-tech.jpg"
                   alt=""
-                />帝王時代-<nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link
+                /><nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link
                 >：弩砲象和弩砲發射雙箭(第二發的傷害比起第一發較低)。
               </li>
             </ul>

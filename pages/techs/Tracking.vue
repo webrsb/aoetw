@@ -342,13 +342,13 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>追蹤技術需要花費75肉。</li>
+            <li>追蹤技術需要花費75食物。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>追蹤技術需要花費50肉。</li>
+            <li>追蹤技術需要花費50食物。</li>
           </ul>
         </div>
         <h3>歷史</h3>

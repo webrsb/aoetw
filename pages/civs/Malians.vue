@@ -111,7 +111,7 @@
             >無須駐紮即可放箭。
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" />帝王時代-<nuxt-link
+            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
               to="/techs/Farimba"
               >驃悍精神</nuxt-link
             >：所有騎兵額外獲得+5攻擊。

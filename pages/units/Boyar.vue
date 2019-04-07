@@ -572,19 +572,17 @@
                 >
               </p>
             </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""
-                /></gallery>
-                <p>
-                  <em
-                    >在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
-                    >測試服的<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
-                    >是用貴族鐵騎的模組。</em
-                  >
-                </p>
-              </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""
+              /></gallery>
+              <p>
+                <em
+                  >在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >測試服的<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                  >是用貴族鐵騎的模組。</em
+                >
+              </p>
             </div>
           </div>
         </div>

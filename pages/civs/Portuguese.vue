@@ -131,11 +131,9 @@
             >：船的盔甲與遠距裝甲值分別 +1。
           </li>
           <li>
-            <img
-              class="gg"
-              src="~assets/Unique-tech.jpg"
-              alt=""
-            />帝王時代-<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
+            <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              to="/techs/Arquebus"
+              >火繩槍</nuxt-link
             >：火藥單位均受益於彈道學，使火藥單位針對移動中的單位也有較好的命中率。
           </li>
         </div>

@@ -513,7 +513,7 @@
               >傷害大幅降低。
             </li>
             <li>
-              1.0c版後研發重型衝撞車需要1000肉，不需要<nuxt-link
+              1.0c版後研發重型衝撞車需要1000食物，不需要<nuxt-link
                 to="/resource/Gold"
                 >黃金</nuxt-link
               >。

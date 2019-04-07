@@ -18,8 +18,8 @@
             >漢朝擊敗匈奴(匈人)後導致歐洲民族大遷但目前還無法確切得知是否真為匈奴西遷入侵歐洲。
           </p>
           <p>
-            匈奴是資料片<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-            >所新增的文明。他們是一個<nuxt-link to="/units/Cavalry_Units"
+            匈奴是《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+            >》所新增的文明。他們是一個<nuxt-link to="/units/Cavalry_Units"
               >騎兵文明</nuxt-link
             >。<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >是<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
@@ -136,11 +136,9 @@
               >：馬場可生產韃靼騎兵。
             </p>
             <p>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Atheism">無神論</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Atheism"
+                >無神論</nuxt-link
               >：遺蹟/<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
               >勝利時間+100年、研發<nuxt-link to="/techs/Spies">間諜</nuxt-link
               >便宜50%。
@@ -226,18 +224,6 @@
             </li>
             <li>掠奪者成本從500F/200G變成300W/200G。</li>
           </ul>
-          <h3>圖庫</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Wonderhuns.jpg" alt=""
-                /></gallery>
-                <p><em>匈奴的世界奇觀</em></p>
-              </div>
-            </div>
-          </div>
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -250,6 +236,18 @@
                 >蒙古人</nuxt-link
               >種，與匈奴相同。
             </p>
+          </div>
+          <h3>圖庫</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <div class="row">
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/Wonderhuns.jpg" alt=""
+                /></gallery>
+                <p><em>匈奴的世界奇觀</em></p>
+              </div>
+            </div>
           </div>
         </div>
       </div>

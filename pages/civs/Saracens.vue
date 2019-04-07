@@ -139,11 +139,9 @@
               >：僧侶被殺害後會返回33%資源。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Zealotry"
+                >狂熱舉動</nuxt-link
               >：駱駝騎兵/奴隸兵血量+30。
             </li>
           </ul>

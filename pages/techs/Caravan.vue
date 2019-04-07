@@ -23,38 +23,6 @@
             研發大商隊是遊戲後期加速黃金收集速度的好方法，當然增加移動速度也使得被攻擊導致陣亡的機率大大降低。
           </p>
         </div>
-        <h3>文明可研發與否</h3>
-        <div class="hrn1"></div>
-        <div class="row">
-          <div class="col-md-12">
-            <div class="n1">
-              <h4>
-                <i class="fas fa-check" style="color: green;"></i
-                ><span class="okcc" style="margin-left: 2px;">可研發</span>
-              </h4>
-              所有<nuxt-link to="/civs">文明</nuxt-link>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-            <div class="n1">
-              <h4>
-                <i class="fas fa-times" style="color: #d9534f;"></i
-                ><span class="nocc" style="margin-left: 2px;">不可研發</span>
-              </h4>
-              無
-            </div>
-          </div>
-        </div>
-        <h3></h3>
-        <div class="hrn1"></div>
-        <div class="n1"></div>
-        <h3></h3>
-        <div class="hrn1"></div>
-        <div class="n1"><ul></ul></div>
-        <h3>團隊加分</h3>
-        <div class="hrn1"></div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -79,7 +47,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">請看介紹</td>
+            <td class="unit4">所有文明</td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

@@ -165,7 +165,7 @@
             <ul>
               <li>
                 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-                >:上封建步兵自動+1攻擊，裝甲步兵非常恐怖，免費伐木技術自動省下100肉50木。
+                >:上封建步兵自動+1攻擊，裝甲步兵非常恐怖，免費伐木技術自動省下100食物50木。
               </li>
               <li>
                 <nuxt-link to="/civs/Japanese">日本</nuxt-link

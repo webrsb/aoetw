@@ -91,11 +91,9 @@
               >：塔可以多射兩支箭
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Kataparuto"
+                >彈射器</nuxt-link
               >：投石機拆裝速度四倍，且攻擊速率快33%
             </li>
           </ul>

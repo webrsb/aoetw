@@ -487,7 +487,7 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:引進<nuxt-link
                 to="/techs/Berserkergang"
                 >狂戰士幫</nuxt-link
-              >，成本為500肉850金。
+              >，成本為500食物850黃金。
             </li>
           </ul>
           <h3>
@@ -500,9 +500,9 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:<nuxt-link
                 to="/techs/Berserkergang"
                 >狂戰士幫</nuxt-link
-              >現在需要850肉400金。引進<nuxt-link to="/techs/Chieftains"
+              >現在需要850食物400黃金。引進<nuxt-link to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >，成本為700肉400金並給狂戰士對<nuxt-link
+              >，成本為700食物400黃金並給狂戰士對<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >攻擊+4。
@@ -517,7 +517,7 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:<nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >現在成本為400肉300金並給狂戰士對<nuxt-link
+              >現在成本為400食物30黃金並給狂戰士對<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >攻擊+5。

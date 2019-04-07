@@ -135,14 +135,14 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>畜牧培育需要花費250肉。</li>
+            <li>畜牧培育需要花費250食物。</li>
             <li>畜牧培育研發時間為50秒。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>版本4.8以後，畜牧培育需要花費150肉。</li>
+            <li>版本4.8以後，畜牧培育需要花費150食物。</li>
             <li>版本4.8以後，畜牧培育研發時間為40秒。</li>
           </ul>
         </div>

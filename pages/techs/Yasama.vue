@@ -53,14 +53,14 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>射箭孔的成本為300肉400木。</li>
+            <li>射箭孔的成本為300食物400木材。</li>
             <li>射箭孔讓箭塔能額外射3支箭。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>射箭孔現在的成本為300肉300木。</li>
+            <li>射箭孔現在的成本為300食物300木材。</li>
             <li>4.8改版後射箭孔讓箭塔能額外射2支箭。</li>
           </ul>
         </div>

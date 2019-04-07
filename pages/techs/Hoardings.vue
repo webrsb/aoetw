@@ -141,14 +141,14 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>外架式柵樓成本需要400木400石。</li>
+            <li>外架式柵樓成本需要400木材400石頭。</li>
             <li>外架式柵樓給城堡多1000HP。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>1.0c改版後外架式柵樓成本需要400木400肉。</li>
+            <li>1.0c改版後外架式柵樓成本需要400木材400食物。</li>
             <li>外架式柵樓現在給城堡多21%HP。</li>
           </ul>
         </div>

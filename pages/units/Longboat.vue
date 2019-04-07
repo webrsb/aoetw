@@ -648,7 +648,7 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>維京大戰船訓練時間為36秒，成本為100木50金。</li>
+            <li>維京大戰船訓練時間為36秒，成本為100木材50黃金。</li>
             <li>訓練維京大戰船需要先建造城堡。</li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
@@ -670,14 +670,14 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>維京大戰船現在的成本為90木50金。</li>
+            <li>維京大戰船現在的成本為90木材50黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>訓練維京大戰船不再需要先建造城堡。</li>
-            <li>維京大戰船現在的成本為100木50金。</li>
+            <li>維京大戰船現在的成本為100木材50黃金。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -796,7 +796,7 @@
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
-            <td class="unit4">84木42金</td>
+            <td class="unit4">84木材42黃金</td>
           </tr>
           <tr>
             <td class="unit3">
@@ -806,7 +806,7 @@
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
-            <td class="unit4">80木40金</td>
+            <td class="unit4">80木材40黃金</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">

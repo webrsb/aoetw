@@ -1017,7 +1017,7 @@
                 class="gg"
                 src="~assets/Halberdier-research.jpg"
                 alt=""
-              />300肉600金
+              />300食物600黃金
             </td>
           </tr>
           <tr>

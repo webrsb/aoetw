@@ -306,10 +306,10 @@
                 >騎士精神</nuxt-link
               >
               <br />
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-              />帝王時代-<nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link>
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Bearded_Axe"
+                >倒鉤斧</nuxt-link
+              >
             </td>
           </tr>
         </table>

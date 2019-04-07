@@ -25,8 +25,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            朝鮮人是在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-            >推出的五大<nuxt-link to="/civs">文明</nuxt-link
+            朝鮮人是在《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
+            >》推出的五大<nuxt-link to="/civs">文明</nuxt-link
             >之一。從歷史上看，與附近的國家相比，它並沒有那麼強大。韓國是一個類似於<nuxt-link
               to="/civs/Byzantines"
               >拜占庭人</nuxt-link
@@ -132,11 +133,9 @@
               >:龜甲船移動速度快15%。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Shinkichon"
+                >神機箭</nuxt-link
               >:<nuxt-link to="/units/Mangonel">投石車</nuxt-link>+1攻擊距離。
             </li>
           </ul>

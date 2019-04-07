@@ -11,7 +11,7 @@
             <b>重型投石車</b>要升級到帝王時期，花費1450<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link
-            >和1000金，且需要耗時150秒才能研發完成，只有少數的幾個<nuxt-link
+            >和1000黃金，且需要耗時150秒才能研發完成，只有少數的幾個<nuxt-link
               to="/civs"
               >文明</nuxt-link
             >才擁有。

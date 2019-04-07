@@ -120,20 +120,20 @@
               <li>回到庫拉塔去招募更多的士兵。</li>
               <li>點擊你想招募的單位旁邊的帳篷便可以生產需要的單位：</li>
               <ul>
-                <li>西班牙征服者：100金子</li>
+                <li>西班牙征服者：100黃金</li>
                 <li>
-                  <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>：60金子
+                  <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>：60黃金
                 </li>
                 <li>
-                  <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>：45金子
+                  <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>：45黃金
                 </li>
                 <li>
                   <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-                  >：50金子
+                  >：50黃金
                 </li>
                 <li>
                   <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
-                  >：40金子
+                  >：40黃金
                 </li>
               </ul>
               <li>集合兵馬，前往基多東邊的蘇馬克谷地，去找皮薩羅的營地。</li>

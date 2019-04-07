@@ -69,10 +69,9 @@
               >:房子被拆後，人口不會減少
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-              />帝王時代-<nuxt-link to="/techs/Drill">演習</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Drill"
+                >演習</nuxt-link
               >:使得攻城武器+50%移動速度
             </li>
           </ul>

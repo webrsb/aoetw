@@ -22,7 +22,7 @@
             >海、塔攻..之類，否則不建議在黑暗時代建造採礦營地，雖然採礦營地也是<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >的建築之一同時也只需要100木；但比起<nuxt-link to="/building/Mill"
+            >的建築之一同時也只需要100木材；但比起<nuxt-link to="/building/Mill"
               >磨坊</nuxt-link
             >和<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
             >，在前期有限的資源及人力下，採礦營地絕對不是首選。

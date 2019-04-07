@@ -802,7 +802,7 @@
                 class="gg"
                 src="~assets/Tw-handed-swordsman-researc.jpg"
                 alt=""
-              />300肉100金
+              />300食物100黃金
             </td>
           </tr>
           <tr>

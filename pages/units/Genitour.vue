@@ -1082,7 +1082,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />50肉400木
+              />50食物400木
             </td>
           </tr>
           <tr>

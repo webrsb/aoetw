@@ -115,7 +115,7 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>成本為200木300石。</li>
+            <li>成本為200木材300石頭。</li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:可以研發<nuxt-link
                 to="/techs/Siege_Engineers"
@@ -135,7 +135,7 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>1.0c改版後成本現在為300肉200木。</li>
+            <li>1.0c改版後成本現在為300食物200木材。</li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:可以研發攻城工程師。
             </li>

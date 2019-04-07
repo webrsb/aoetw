@@ -442,7 +442,7 @@
               <nuxt-link to="/techs/Couriers">信使</nuxt-link
               >給槍隊長+10%移動速度。
             </li>
-            <li>升級到精銳槍隊長需要1000肉600金。</li>
+            <li>升級到精銳槍隊長需要1000食物600黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
@@ -450,7 +450,7 @@
           <ul>
             <li>信使現在給槍隊長+1/+2護甲，移除+10%移動速度。</li>
             <li>槍隊長得到新模組。</li>
-            <li>升級到精銳槍隊長現在需要900肉500金。</li>
+            <li>升級到精銳槍隊長現在需要900食物500黃金。</li>
             <li><nuxt-link to="/techs/Arson">縱火</nuxt-link>引進。</li>
             <li>
               槍隊長對<nuxt-link to="/armor/Armor_Class_Camel"
@@ -487,12 +487,12 @@
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Kamayuk.png" alt=""
             /></gallery>
-            <p><em>一群槍隊長</em></p>
+            <p><em>一群槍隊長。</em></p>
           </div>
           <div class="col-md-4">
             <gallery

@@ -171,7 +171,7 @@
             <li>
               在封建時代，最強的組合是大量升級了的<nuxt-link to="/units/Archer"
                 >弓箭手</nuxt-link
-              >。可惜能用於招募弓箭手的金子很少，所以你要節約利用你的資源。
+              >。可惜能用於招募弓箭手的黃金很少，所以你要節約利用你的資源。
             </li>
             <li>
               劍士擅於對抗<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link

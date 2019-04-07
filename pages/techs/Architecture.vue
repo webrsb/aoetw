@@ -148,13 +148,13 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>成本為200木/300石。</li>
+            <li>成本為200木材/300石頭。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>1.0C版後，成本為300肉/200木。</li>
+            <li>1.0C版後，成本為300食物/200木材。</li>
           </ul>
         </div>
         <h3>歷史</h3>

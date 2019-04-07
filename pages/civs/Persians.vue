@@ -103,11 +103,9 @@
               >的傷害+9
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Mahouts">象伕</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Mahouts"
+                >象伕</nuxt-link
               >：戰象的移動速度+30%
             </li>
           </ul>
@@ -566,10 +564,10 @@
                 to="/techs/Boiling_Oil"
                 >沸油</nuxt-link
               ><br />
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-              />帝王時代-<nuxt-link to="/techs/Mahouts">象伕</nuxt-link>
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Mahouts"
+                >象伕</nuxt-link
+              >
             </td>
           </tr>
         </table>

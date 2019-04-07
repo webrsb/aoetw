@@ -42,7 +42,7 @@
                 >重型投石車</nuxt-link
               >、七名<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
               >和三名<nuxt-link to="/units/Cavalry_ArcADr">馬弓騎兵</nuxt-link
-              >組成。只要給他們200金作為貢品他們就會加入玩家麾下。
+              >組成。只要給他們200黃金作為貢品他們就會加入玩家麾下。
             </li>
           </ul>
           <h3>敵人</h3>

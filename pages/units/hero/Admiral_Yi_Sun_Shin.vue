@@ -48,7 +48,7 @@
           </ul>
         </div>
         <h3>
-          <strong>出場<nuxt-link to="/batt">戰役</nuxt-link></strong>
+          出場戰役
         </h3>
         <div class="hrn1"></div>
         <div class="n1">

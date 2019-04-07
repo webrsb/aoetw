@@ -723,7 +723,7 @@
                 class="gg"
                 src="~assets/Elite-eagle-warrior-researc.jpg"
                 alt=""
-              />300肉200金
+              />300食物200黃金
             </td>
           </tr>
           <tr>

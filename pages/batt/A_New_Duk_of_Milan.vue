@@ -117,7 +117,7 @@
                 <li>摧毀保衛穀倉的塔，奪取米蘭穀倉。</li>
                 <li>摧毀貿易站和貿易車。</li>
                 <li>
-                  點擊克雷莫納城的靶場，花50金子買進<nuxt-link
+                  點擊克雷莫納城的靶場，花50黃金買進<nuxt-link
                     to="/units/Hand_Cannoneer"
                     >火槍兵</nuxt-link
                   >。

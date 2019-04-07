@@ -139,11 +139,8 @@
               >有+5攻擊
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Berserkergang"
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Berserkergang"
                 >狂戰士幫</nuxt-link
               >：狂戰士自我療傷速度加快
             </li>
@@ -184,7 +181,7 @@
             <li>
               團隊加分:碼頭便宜15%(原本25%) 128<nuxt-link to="/resource/Wood"
                 >木頭</nuxt-link
-              >，以前是113木頭
+              >，以前是113木材
             </li>
             <li>
               戰船成本現在每個時代成本都不同，封建81w/27g(-10%)、城堡76w/25g(-15%)、帝王72w/24g(-20%)

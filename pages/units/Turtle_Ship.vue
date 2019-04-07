@@ -542,13 +542,13 @@
                 >城堡</nuxt-link
               >。
             </li>
-            <li>訓練龜甲船需要200木200金。</li>
+            <li>訓練龜甲船需要200木材200黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>訓練龜甲船需要180木180金。</li>
+            <li>訓練龜甲船需要180木材180黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>

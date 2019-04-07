@@ -201,10 +201,8 @@
               >攻擊速度+20%
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-              />帝王時代-<nuxt-link to="/techs/Furor_Celtica"
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Furor_Celtica"
                 >塞爾特狂暴</nuxt-link
               >:攻城器製造所的單位血量+40%
             </li>

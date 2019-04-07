@@ -34,7 +34,7 @@
               >木頭</nuxt-link
             >，僧侶100黃金，在<nuxt-link to="/armor/Armor_Class_Castle"
               >城堡</nuxt-link
-            >初期的大戰中，一兵一卒都是非常珍貴的，這175木頭和100黃金，可在城堡初期發展經濟或軍事，例如起<nuxt-link
+            >初期的大戰中，一兵一卒都是非常珍貴的，這175木材和100黃金，可在城堡初期發展經濟或軍事，例如起<nuxt-link
               to="/building/Town_Center"
               >城鎮中心</nuxt-link
             >爆經濟，或是拿去生軍事單位，對戰局的影響都遠超過撿遺跡。

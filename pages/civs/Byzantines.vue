@@ -136,10 +136,10 @@
                 >希臘之火</nuxt-link
               >
               <br />
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-              />帝王時代-<nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Logistica"
+                >後勤學</nuxt-link
+              >
             </td>
           </tr>
         </table>

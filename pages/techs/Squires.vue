@@ -395,7 +395,7 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>護衛需要花費200肉。</li>
+            <li>護衛需要花費200食物。</li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：不能研發護衛。
             </li>
@@ -404,7 +404,7 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>護衛需要花費100肉。</li>
+            <li>護衛需要花費100食物。</li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：可以研發護衛了。
             </li>

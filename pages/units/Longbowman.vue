@@ -2,20 +2,20 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>長弓手</h1>
+        <h1>長弓兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <b>長弓手</b>是<nuxt-link to="/civs/Britons">不列顛人</nuxt-link
+          <b>長弓兵</b>是<nuxt-link to="/civs/Britons">不列顛人</nuxt-link
           >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
           >。徒步<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
           >，射程很遠。因此伴隨著低<nuxt-link to="/elements/Hit_points"
             >生命值</nuxt-link
           >。 <br />
-          <br />長弓手能夠在<nuxt-link to="/techs/age/Imperial_Age"
+          <br />長弓兵能夠在<nuxt-link to="/techs/age/Imperial_Age"
             >帝王時代</nuxt-link
-          >升級成精銳長弓手。
+          >升級成精銳長弓兵。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
@@ -41,17 +41,17 @@
             >與<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
           </p>
           <p>
-            單獨行動的長弓手影響力非常的小，相對地成群結隊能夠帶來致命威脅，因為在承受攻擊前，長距離的優勢能先殲滅敵人。
+            單獨行動的長弓兵影響力非常的小，相對地成群結隊能夠帶來致命威脅，因為在承受攻擊前，長距離的優勢能先殲滅敵人。
           </p>
           <p>
-            在近戰單位的保護下，長弓手能夠完美的輸出給予對手沉痛的打擊。倘若沒有保護的近戰單位，組織的長弓手能夠利用風箏技巧打擊接近的敵人，但面對<nuxt-link
+            在近戰單位的保護下，長弓兵能夠完美的輸出給予對手沉痛的打擊。倘若沒有保護的近戰單位，組織的長弓兵能夠利用風箏技巧打擊接近的敵人，但面對<nuxt-link
               to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >與移動快速<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
             >，難以發揮效果。
           </p>
           <p>
-            長弓手最好選擇堅守崗位模式，避免隨意地攻擊後，破壞本身的陣型讓敵人趁虛而入。由於<nuxt-link
+            長弓兵最好選擇堅守崗位模式，避免隨意地攻擊後，破壞本身的陣型讓敵人趁虛而入。由於<nuxt-link
               to="/civs/Britons"
               >不列顛人</nuxt-link
             >缺乏 <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
@@ -63,11 +63,11 @@
             >科技的弓手對射。
           </p>
           <p>
-            長弓手在面對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+            長弓兵在面對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
             >，例如<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >與<nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
             >時，能夠在<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
-            >攻擊範圍外先摧毀目標。但長弓手在攻城器的攻擊範圍下，將會承受毀滅性的打擊。
+            >攻擊範圍外先摧毀目標。但長弓兵在攻城器的攻擊範圍下，將會承受毀滅性的打擊。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -484,7 +484,7 @@
         <div class="n1">
           <ul>
             <li>
-              不列顛長弓手具有恐怖的力量，一般的長弓拉個滿月大致需100—120磅，也就是45—55公斤的力，最強的達到200磅（90公斤）在現在的弓箭愛好者用70磅（約32kg）的弓已經非常吃力了，一般用的是40~50磅左右的弓（這也奧運會男子射箭項目用弓的磅數），在戰場上能用120磅的長弓連續射出十幾二十支箭是非常恐怖的事情。
+              不列顛長弓兵具有恐怖的力量，一般的長弓拉個滿月大致需100—120磅，也就是45—55公斤的力，最強的達到200磅（90公斤）在現在的弓箭愛好者用70磅（約32kg）的弓已經非常吃力了，一般用的是40~50磅左右的弓（這也奧運會男子射箭項目用弓的磅數），在戰場上能用120磅的長弓連續射出十幾二十支箭是非常恐怖的事情。
             </li>
             <li>
               事實上，長弓兵在戰場上一次性射出十幾二十支箭，射完一輪基本上已經脫力了。
@@ -684,7 +684,7 @@
                 class="gg"
                 src="~assets/LongbowmanIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Longbowman">精銳長弓兵</nuxt-link>
+              />精銳長弓兵
             </td>
           </tr>
           <tr>

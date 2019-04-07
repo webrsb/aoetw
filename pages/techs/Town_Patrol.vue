@@ -43,13 +43,13 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>城鎮巡邏成本為300肉200金。</li>
+            <li>城鎮巡邏成本為300食物200黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>城鎮巡邏現在成本為300肉100金。</li>
+            <li>城鎮巡邏現在成本為300食物100黃金。</li>
           </ul>
         </div>
         <h3>歷史</h3>

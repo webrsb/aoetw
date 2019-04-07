@@ -73,11 +73,9 @@
               >+30%<nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Rocketry">火箭術</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Rocketry"
+                >火箭術</nuxt-link
               >：連弩兵攻擊+2，弩砲攻擊+4
             </li>
           </ul>

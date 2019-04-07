@@ -388,8 +388,9 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
-                    >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
+                    />精銳卡拉維爾戰船(<nuxt-link to="/civs/Portuguese"
+                      >葡萄牙</nuxt-link
+                    >限定)
                   </li>
                   <li>
                     <img
@@ -406,8 +407,9 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link
-                    >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
+                    />卡拉維爾戰船(<nuxt-link to="/civs/Portuguese"
+                      >葡萄牙</nuxt-link
+                    >限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -805,10 +807,11 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
-                to="/units/Caravel"
-                >精銳卡拉維爾戰船</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/CaravelIcon2.jpg"
+                alt=""
+              />精銳卡拉維爾戰船
             </td>
           </tr>
           <tr>

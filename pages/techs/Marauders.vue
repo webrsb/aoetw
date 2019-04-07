@@ -52,13 +52,13 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>掠奪者成本需要500肉200金。</li>
+            <li>掠奪者成本需要500食物200黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>掠奪者成本現在需要300木200金。</li>
+            <li>掠奪者成本現在需要300木材200黃金。</li>
           </ul>
         </div>
       </div>

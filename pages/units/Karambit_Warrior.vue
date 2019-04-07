@@ -623,7 +623,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />900肉，600黃金
+              />900食物600黃金
             </td>
           </tr>
           <tr>

@@ -256,7 +256,7 @@
           <ul>
             <li>
               沒有免費<nuxt-link to="/techs/Loom">織布技術</nuxt-link
-              >了，但初始多50金。
+              >了，但初始多50黃金。
             </li>
             <li>
               <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
@@ -301,7 +301,7 @@
             </li>
             <li>
               <nuxt-link to="/units/Throwing_Axeman">精銳擲斧兵</nuxt-link
-              >研發成本-100金。
+              >研發成本-100黃金。
             </li>
           </ul>
           <nuxt-link to="/civs/Goths">哥德</nuxt-link>
@@ -342,7 +342,7 @@
               <nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link
               >訓練時間從25秒降低到21秒。
             </li>
-            <li>馬戰車成本-10木。</li>
+            <li>馬戰車成本-10木材。</li>
             <li>
               <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
               >從+1射程的<nuxt-link to="/units/Mangonel">投石車</nuxt-link
@@ -353,13 +353,13 @@
           <ul>
             <li>
               <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
-              >成本從46木46金增加到50木50金。
+              >成本從46木材4黃金增加到50木材50黃金。
             </li>
             <li>
               <nuxt-link to="/units/Plumed_Archer">精銳羽毛箭射手</nuxt-link
               >升級費用700<nuxt-link to="/resource/Food">食物</nuxt-link
               >1000<nuxt-link to="/resource/Wood">木頭</nuxt-link
-              >，原本是500食物，1000木頭。
+              >，原本是500食物，1000木材。
             </li>
           </ul>
           <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
@@ -432,7 +432,7 @@
             </li>
             <li>
               研發<nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link
-              >成本變成850肉400金，原本是850肉、500金。
+              >成本變成850食物400黃金，原本是850食物、500黃金。
             </li>
             <li>
               狂戰士與精銳狂戰士HP變成54/62，原本是48/60，訓練時間縮短到14秒。

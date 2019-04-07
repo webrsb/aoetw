@@ -733,7 +733,7 @@
                 class="gg"
                 src="~assets/Man-at-arms-research.jpg"
                 alt=""
-              />100肉45金
+              />100食物45黃金
             </td>
           </tr>
           <tr>

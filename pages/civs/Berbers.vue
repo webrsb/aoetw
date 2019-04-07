@@ -22,8 +22,7 @@
           <p>
             柏柏是非洲的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
-            >文明，世紀帝國II資料片《<nuxt-link to="/games/ak"
-              >世紀帝國II：非洲王國</nuxt-link
+            >文明，《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
             >》的所新增的文明。柏柏的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
@@ -162,11 +161,8 @@
               >：你和同盟城堡工作效率+25%。
             </p>
             <p>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Maghrabi_Camels"
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
               >：駱駝單位會自動回血。
             </p>

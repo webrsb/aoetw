@@ -501,7 +501,7 @@
             </li>
             <li>
               升級到<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
-              >需要500<nuxt-link to="/resource/Food">食物</nuxt-link>和350石材。
+              >需要500<nuxt-link to="/resource/Food">食物</nuxt-link>和350石頭。
             </li>
             <li>
               <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link

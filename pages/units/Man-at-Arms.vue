@@ -793,7 +793,7 @@
                 class="gg"
                 src="~assets/Long-swordsman-research.jpg"
                 alt=""
-              />200肉65金
+              />200食物65黃金
             </td>
           </tr>
           <tr>

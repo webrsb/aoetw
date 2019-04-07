@@ -56,13 +56,13 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>板屋船的成本為400肉400木。</li>
+            <li>板屋船的成本為400食物400木材。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>板屋船的成本為300肉300木。</li>
+            <li>板屋船的成本為300食物300木材。</li>
           </ul>
         </div>
         <h3>歷史</h3>

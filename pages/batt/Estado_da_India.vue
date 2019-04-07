@@ -111,7 +111,7 @@
           <p>
             洛倫索阿爾梅達、<nuxt-link to="/units/Bombard_Cannon"
               >火砲</nuxt-link
-            >*1、<nuxt-link to="/units/Organ_Gun">手風琴砲</nuxt-link
+            >*1、<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link
             >*1、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
             >*2、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
             >*2、<nuxt-link to="/units/Monk">僧侶</nuxt-link>*2、<nuxt-link

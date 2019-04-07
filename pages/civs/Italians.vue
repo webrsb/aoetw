@@ -22,8 +22,8 @@
           <p>
             義大利是地中海的<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
-            >，<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
-            >所新增的文明。義大利的<nuxt-link to="/units/Unique_Unit"
+            >，《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >》所新增的文明。義大利的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
             >，是一種對<nuxt-link to="/armor/Armor_Class_Cavalry"
@@ -180,11 +180,9 @@
               >：弓兵近防/遠防+1。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Silk_Road"
+                >絲綢之路</nuxt-link
               >：貿易單位便宜50%。
             </li>
           </ul>
@@ -194,7 +192,7 @@
         <div class="n1">
           <ul>
             <li>碼頭科技便宜50%</li>
-            <li>漁船木材-11木(64木材)</li>
+            <li>漁船木材-11木材(64木材)</li>
             <li>升級時代便宜15%</li>
             <li>火藥單位便宜25%(遊戲裡實際上是20%)</li>
             <li><strong>團隊加分:</strong>同盟可生產僱傭兵</li>

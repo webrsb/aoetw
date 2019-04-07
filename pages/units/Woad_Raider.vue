@@ -436,7 +436,7 @@
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img
@@ -469,30 +469,28 @@
               <p><em>菘藍武士3D圖。</em></p>
             </div>
           </div>
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="180"
-                  src="~assets/Woadraiders.png"
-                  alt=""
-              /></gallery>
-              <div class="lightbox-caption" style="width:220px">
-                <p><em>歷史記載的菘藍武士手稿。</em></p>
-              </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="180"
+                src="~assets/Woadraiders.png"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>歷史記載的菘藍武士手稿。</em></p>
             </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="200"
-                  src="~assets/Pictish_Warrior.jpg"
-                  alt=""
-              /></gallery>
-              <div class="lightbox-caption" style="width:185px">
-                <p><em>畫家筆下的皮克特人可能是菘藍武士的發想。</em></p>
-              </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="200"
+                src="~assets/Pictish_Warrior.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:185px">
+              <p><em>畫家筆下的皮克特人可能是菘藍武士的發想。</em></p>
             </div>
           </div>
         </div>

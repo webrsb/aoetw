@@ -138,7 +138,7 @@
             <li>蒙古突騎跑的更快一點。</li>
             <li>
               <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
-              >便宜5木與5金，升級精銳也比較便宜。
+              >便宜5木材與5黃金，升級精銳也比較便宜。
             </li>
             <li>
               蒙古突騎對攻城武器有加成，而<nuxt-link to="/units/Camel_Archer"
@@ -895,7 +895,7 @@
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img

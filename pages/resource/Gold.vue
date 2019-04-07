@@ -25,7 +25,7 @@
           <p>
             <nuxt-link to="/civs/Turks">土耳其人</nuxt-link
             >採集黃金特別快，而<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
-            >可以從800黃金上取得920金。
+            >可以從800黃金上取得920黃金。
           </p>
         </div>
         <h3>貿易</h3>

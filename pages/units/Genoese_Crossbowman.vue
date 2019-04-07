@@ -453,7 +453,7 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>熱那亞弩手訓練需50木50金。</li>
+            <li>熱那亞弩手訓練需50木材50黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
@@ -469,7 +469,7 @@
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>熱那亞弩手訓練需45木45金。</li>
+            <li>熱那亞弩手訓練需45木材45黃金。</li>
             <li>
               5.7改版後熱那亞弩手現在對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝單位</nuxt-link

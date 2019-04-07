@@ -69,13 +69,13 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>異端審判的成本為400肉400金。</li>
+            <li>異端審判的成本為400食物400黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>異端審判現在的成本更改為100肉300金。</li>
+            <li>異端審判現在的成本更改為100食物300黃金。</li>
           </ul>
         </div>
       </div>

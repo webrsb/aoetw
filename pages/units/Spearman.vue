@@ -978,7 +978,7 @@
                 class="gg"
                 src="~assets/Pikeman-research.jpg"
                 alt=""
-              />215肉90金
+              />215食物90黃金
             </td>
           </tr>
           <tr>

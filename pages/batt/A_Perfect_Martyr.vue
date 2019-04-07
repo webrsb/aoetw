@@ -363,7 +363,7 @@
             to="/units/Monk"
             >僧侶</nuxt-link
           >跟<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-          >。等到勃根地投降後，你會收到400肉、50金、50<nuxt-link
+          >。等到勃根地投降後，你會收到400食物、50黃金、50<nuxt-link
             to="/resource/Stone"
             >石頭</nuxt-link
           >和不等的<nuxt-link to="/resource/Wood">木材</nuxt-link

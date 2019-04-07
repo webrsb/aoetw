@@ -255,7 +255,7 @@
             <li>石牆建造時間為8秒。</li>
             <li>
               升級到垛牆需要200<nuxt-link to="/resource/Food">食物</nuxt-link
-              >和100石材。
+              >和100石頭。
             </li>
           </ul>
           <h3>

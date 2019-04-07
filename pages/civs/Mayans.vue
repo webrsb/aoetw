@@ -19,8 +19,8 @@
           </p>
           <p>
             馬雅是美洲的<nuxt-link to="/units/Archer_Units">弓兵文明</nuxt-link
-            >，世紀帝國II資料片<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-            >所新增的文明。馬雅<nuxt-link to="/units/Unique_Unit"
+            >，《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+            >》所新增的文明。馬雅<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
             >一種對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link

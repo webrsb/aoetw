@@ -145,21 +145,21 @@
                 <li>
                   點擊帕維亞的<nuxt-link to="/units/Siege_Weapons"
                     >攻城武器</nuxt-link
-                  >工廠，用200金子買進一尊<nuxt-link to="/units/Bombard_Cannon"
+                  >工廠，用200黃金買進一尊<nuxt-link to="/units/Bombard_Cannon"
                     >火砲</nuxt-link
                   >。
                 </li>
-                <li>點擊克雷莫納城的靶場，花50金子買進火槍兵。</li>
+                <li>點擊克雷莫納城的靶場，花50黃金買進火槍兵。</li>
                 <li>
                   點擊比阿琴薩城的<nuxt-link to="/building/Stable"
                     >馬廄</nuxt-link
-                  >，用100金子購買<nuxt-link to="/units/Knight">騎士</nuxt-link
+                  >，用100黃金購買<nuxt-link to="/units/Knight">騎士</nuxt-link
                   >。
                 </li>
-                <li>點擊當地人的靶場，用30金子購買弩手。</li>
+                <li>點擊當地人的靶場，用30黃金購買弩手。</li>
                 <li>
                   點擊當地人的<nuxt-link to="/building/Barracks">軍營</nuxt-link
-                  >，用40金子購買<nuxt-link to="/units/Long_Swordsman"
+                  >，用40黃金購買<nuxt-link to="/units/Long_Swordsman"
                     >長劍兵</nuxt-link
                   >。
                 </li>

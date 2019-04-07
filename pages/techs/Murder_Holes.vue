@@ -59,13 +59,13 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>成本為200肉/200石</li>
+            <li>成本為200食物/200石頭</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>成本為成本200肉/100石</li>
+            <li>成本為成本200食物/100石頭</li>
           </ul>
           <h3>趣事</h3>
           <div class="hrn1"></div>

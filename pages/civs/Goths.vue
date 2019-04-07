@@ -123,11 +123,9 @@
               >：軍營可以生產哥德衛隊。
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Perfusion"
+                >灌注士氣</nuxt-link
               >：軍營生產單位速度快100%。
             </li>
           </ul>
@@ -324,7 +322,7 @@
           </ul>
         </div>
         <h3>
-          <strong>出場<nuxt-link to="/batt">戰役</nuxt-link></strong>
+          出場戰役
         </h3>
         <div class="hrn1"></div>
         <div class="n1">

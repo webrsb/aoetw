@@ -575,7 +575,11 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Arambaiicon.png" alt="" />飛鏢騎兵
+              <img
+                class="gg"
+                src="~assets/Arambaiicon.png"
+                alt=""
+              />精銳飛鏢騎兵
             </td>
           </tr>
           <tr>

@@ -155,7 +155,7 @@
             </li>
             <li>把難民運輸到他們的新家園去。</li>
             <li>
-              存300金子，然後點擊綠色的<nuxt-link to="/building/Stable"
+              存300黃金，然後點擊綠色的<nuxt-link to="/building/Stable"
                 >馬廄</nuxt-link
               >，升級<nuxt-link to="/units/Imperial_Camel"
                 >帝王駱駝騎兵</nuxt-link

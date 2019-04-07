@@ -21,7 +21,7 @@
             >）在遊戲後期就很常見。有些玩家在遊戲開始時讀獨自占據一座島，其他玩家則共享一個島嶼的<nuxt-link
               to="/resource/Wood"
               >木頭</nuxt-link
-            >，金子，<nuxt-link to="/resource/Stone">石頭</nuxt-link
+            >，黃金，<nuxt-link to="/resource/Stone">石頭</nuxt-link
             >，漿果和鹿。玩家能夠利用早期的快攻殲滅另一個島上的敵方玩家並利用新佔領島嶼上的資源增加資源儲備量。水域控制在群島很重要。因為玩家的大部分<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link

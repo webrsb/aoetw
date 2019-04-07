@@ -10,8 +10,9 @@
           <p>
             <b>阿茲特克</b>是中南美洲的<nuxt-link to="/units/Infantry_Units"
               >步兵文明</nuxt-link
-            >，加入於<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-            >。他的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，加入於《<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
+            >》。他的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >是<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
             >，是阿茲特克最高級的戰士，手上拿著鑲滿銳利的黑曜石木棒，對付其他<nuxt-link
               to="/units/Infantry_Units"
@@ -98,7 +99,7 @@
             >:矛兵額外獲得+1攻擊，+1射程
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" />帝王時代-<nuxt-link
+            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
               to="/techs/Garland_Wars"
               >榮冠戰爭</nuxt-link
             >:所有步兵額外獲得+4攻擊

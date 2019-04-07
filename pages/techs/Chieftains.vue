@@ -56,7 +56,7 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>研發酋長需要700肉400金。</li>
+            <li>研發酋長需要700食物400黃金。</li>
             <li>
               酋長給<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
@@ -68,7 +68,7 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>研發酋長現在需要400肉300金。</li>
+            <li>研發酋長現在需要400食物300黃金。</li>
             <li>
               酋長現在給<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link

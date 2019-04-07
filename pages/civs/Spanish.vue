@@ -152,11 +152,9 @@
             >：加快僧侶招降速度。
           </li>
           <li>
-            <img
-              class="gg"
-              src="~assets/Unique-tech.jpg"
-              alt=""
-            />帝王時代-<nuxt-link to="/techs/Supremacy">霸權</nuxt-link
+            <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              to="/techs/Supremacy"
+              >霸權</nuxt-link
             >：村民具有超強作戰能力。
           </li>
         </div>

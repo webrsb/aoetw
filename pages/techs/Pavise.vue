@@ -73,7 +73,7 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>巨盾成本為550肉300金。</li>
+            <li>巨盾成本為550食物300黃金。</li>
             <li>
               巨盾只影響<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
@@ -84,7 +84,7 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>巨盾現在成本為300肉150金。</li>
+            <li>巨盾現在成本為300食物150黃金。</li>
             <li>
               巨盾現在會影響不只<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link

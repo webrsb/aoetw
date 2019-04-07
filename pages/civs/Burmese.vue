@@ -123,11 +123,8 @@
             +1，遠距離防禦 +1。
           </p>
           <p>
-            <img
-              class="gg"
-              src="~assets/Unique-tech.jpg"
-              alt=""
-            />帝王時代-<nuxt-link to="/techs/Manipur_Cavalry"
+            <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              to="/techs/Manipur_Cavalry"
               >曼尼普爾騎兵</nuxt-link
             >：<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >與飛鏢騎兵對建築攻擊力+6。

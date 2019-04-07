@@ -841,7 +841,7 @@
                   </p>
                   <li>
                     <nuxt-link to="/civs/Italians">義大利</nuxt-link
-                    >：建造漁船僅需64木頭（比其他文明少11木頭）
+                    >：建造漁船僅需64木材（比其他文明少11木材）
                   </li>
                   <li>
                     <nuxt-link to="/civs/Indians">印度</nuxt-link
@@ -913,7 +913,7 @@
                 style="border: 1px solid #495057;"
               >
                 <p><strong>漁網（Fish Traps）</strong></p>
-                <p>建置消耗：100木頭</p>
+                <p>建置消耗：100木材</p>
                 最初收穫量：715食物
               </td>
               <td
@@ -945,9 +945,9 @@
                     <nuxt-link to="/civs/Malay">馬來</nuxt-link>：建置<nuxt-link
                       to="/building/Fish_Trap"
                       >漁網</nuxt-link
-                    >只需消耗67木頭（僅比建立<nuxt-link to="/building/Farm"
+                    >只需消耗67木材（僅比建立<nuxt-link to="/building/Farm"
                       >農田</nuxt-link
-                    >多7木頭），且提供無限的魚類食物，在遊戲後期中是非常不錯的食物來源。
+                    >多7木材），且提供無限的魚類食物，在遊戲後期中是非常不錯的食物來源。
                   </li>
                 </ul>
               </td>

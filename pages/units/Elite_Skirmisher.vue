@@ -826,7 +826,7 @@
                 class="gg"
                 src="~assets/Imperialskirmisherresearch.png"
                 alt=""
-              />300木450金
+              />300木材450黃金
             </td>
           </tr>
           <tr>

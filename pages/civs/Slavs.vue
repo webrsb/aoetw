@@ -123,7 +123,7 @@
             >：僧侶護甲各+3
           </li>
           <li>
-            <img class="gg" src="~assets/Unique-tech.jpg" />帝王時代-<nuxt-link
+            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
               to="/techs/Druzhina"
               >王家侍從</nuxt-link
             >：<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link

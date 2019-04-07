@@ -145,11 +145,9 @@
               >+4的近防
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Unique-tech.jpg"
-                alt=""
-              />帝王時代-<nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+                to="/techs/Crenellations"
+                >垛口</nuxt-link
               >：城堡攻擊距離+3、且步兵可以射箭
             </li>
           </ul>

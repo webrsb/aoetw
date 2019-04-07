@@ -709,15 +709,15 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>馬戰車成本為80木60金。</li>
+            <li>馬戰車成本為80木材60黃金。</li>
             <li>馬戰車訓練時間為25秒。</li>
-            <li>1.0c版本後馬戰車成本為1200木60金。</li>
+            <li>1.0c版本後馬戰車成本為1200木材60黃金。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>馬戰車現在成本為110木60金。</li>
+            <li>馬戰車現在成本為110木材6黃金。</li>
             <li>馬戰車現在訓練時間為21秒。</li>
           </ul>
           <h3>
@@ -744,7 +744,7 @@
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Castle_besieged.jpg" alt=""
