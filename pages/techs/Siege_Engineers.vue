@@ -59,7 +59,7 @@
               >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
                 to="/civs/Slavs"
                 >斯拉夫</nuxt-link
-              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>。<nuxt-link
+              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
                 to="/civs/Vietnamese"
                 >越南</nuxt-link
               >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。

@@ -97,7 +97,7 @@
               <h4>
                 <strong
                   ><i class="fas fa-times" style="color: #d9534f;"></i
-                  ><span style="margin-left: 2px;">文明不可研發</span></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link

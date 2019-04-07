@@ -57,7 +57,7 @@
               >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
                 to="/civs/Vietnamese"
                 >越南</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。 。
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>

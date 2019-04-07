@@ -139,7 +139,7 @@
               <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
                 to="/techs/Atheism"
                 >無神論</nuxt-link
-              >：遺蹟/<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >：遺跡/<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
               >勝利時間+100年、研發<nuxt-link to="/techs/Spies">間諜</nuxt-link
               >便宜50%。
             </p>

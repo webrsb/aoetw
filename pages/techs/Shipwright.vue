@@ -56,7 +56,7 @@
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
-              >。 。
+              >。
             </div>
           </div>
         </div>

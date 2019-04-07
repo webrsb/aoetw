@@ -33,7 +33,7 @@
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
                   ><span style="margin-left: 2px;"
-                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                    >可研發</span
                   ></strong
                 >
               </h4>
@@ -78,7 +78,7 @@
               <h4>
                 <strong
                   ><i class="fas fa-times" style="color: #d9534f;"></i
-                  ><span style="margin-left: 2px;">文明不可研發</span></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link

@@ -1725,6 +1725,7 @@ export default {
 
 .toc.float-left {
   float: left;
+  box-shadow: 4px 0 3px -5px #333;
 }
 
 .arror {

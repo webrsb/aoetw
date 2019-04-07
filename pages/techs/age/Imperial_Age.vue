@@ -302,9 +302,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-              >：範圍散射攻城武器。(限<nuxt-link to="/civs/Indians"
-                >印度</nuxt-link
-              >)
+              >：範圍散射攻城武器。
             </li>
             <li>
               <img

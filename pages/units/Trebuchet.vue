@@ -21,7 +21,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            投石機高達17的射程範圍，只有<nuxt-link to="/civs/Turks"
+            投石機在研發<nuxt-link to="/techs/Siege_Engineers"
+              >攻城工程師</nuxt-link
+            >後，擁有高達17的射程範圍，只有<nuxt-link to="/civs/Turks"
               >土耳其</nuxt-link
             >的<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >與<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
