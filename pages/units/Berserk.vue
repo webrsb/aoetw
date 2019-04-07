@@ -517,7 +517,7 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:<nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >現在成本為400食物30黃金並給狂戰士對<nuxt-link
+              >現在成本為400食物300黃金並給狂戰士對<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >攻擊+5。

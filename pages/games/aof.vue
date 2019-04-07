@@ -353,7 +353,7 @@
           <ul>
             <li>
               <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
-              >成本從46木材4黃金增加到50木材50黃金。
+              >成本從46木材46黃金增加到50木材50黃金。
             </li>
             <li>
               <nuxt-link to="/units/Plumed_Archer">精銳羽毛箭射手</nuxt-link

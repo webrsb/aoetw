@@ -527,9 +527,9 @@
               >成本是所有單位中第二貴的，只輸給<nuxt-link
                 to="/units/War_Elephant"
                 >精銳戰象</nuxt-link
-              >的120黃金。不過<nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >的1200黃金。不過<nuxt-link to="/civs/Chinese">中國</nuxt-link
               >的<nuxt-link to="/civs">文明</nuxt-link
-              >加成可以將其降低到76黃金。
+              >加成可以將其降低到760黃金。
             </li>
             <li>連弩兵的攻擊即便目標就站在面前還是有可能打不到。</li>
             <li>
