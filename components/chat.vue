@@ -53,7 +53,6 @@ export default {
             this.$refs.input.focus()
           })
         } else {
-          console.log(this.$refs.show_chat)
           this.$refs.show_chat.$emit('push', { text: this.text })
           this.soundEffect(this.text)
           this.$store.commit('setText', '')

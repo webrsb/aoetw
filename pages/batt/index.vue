@@ -1725,14 +1725,14 @@ export default {
     this.setShadow()
     this.$refs.shadow.addEventListener("scroll", this.setShadow)
   },
-  destroyed () {
+  beforeDestroy () {
     this.$refs.shadow.removeEventListener("scroll", this.setShadow)
   },
   methods: {
     setShadow () {
       var scrollPos = getScrollPosition(this.$refs.shadow)
 
-      if (scrollPos.x === 0) {
+      if (scrollPos.x <= 0) {
         this.hasLeftShadow = false
       } else {
         this.hasLeftShadow = true
