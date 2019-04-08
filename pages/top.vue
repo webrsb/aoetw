@@ -25,7 +25,7 @@
         </ul>
       </div>
       <div class="row" style="margin-top: 10px;border-top: 1px solid #c7c7c7;">
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -50,7 +50,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Viper2.jpg" width="270" alt="" />
+                <img src="~assets/Viper2.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -83,7 +83,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -103,7 +103,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Lierey.jpg" width="270" alt="" />
+                <img src="~assets/Lierey.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -135,7 +135,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -155,7 +155,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Yo2.jpg" width="270" alt="" />
+                <img src="~assets/Yo2.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -188,7 +188,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -208,7 +208,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/TheMax2.jpg" width="270" alt="" />
+                <img src="~assets/TheMax2.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -237,7 +237,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -262,7 +262,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/DauT.jpg" width="270" alt="" />
+                <img src="~assets/DauT.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -295,7 +295,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -323,7 +323,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/TaToH.jpg" width="270" alt="" />
+                <img src="~assets/TaToH.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -358,7 +358,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -385,7 +385,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/JorDan.jpg" width="270" alt="" />
+                <img src="~assets/JorDan.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -420,7 +420,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -445,7 +445,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/slam.jpg" width="270" alt="" />
+                <img src="~assets/slam.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -478,7 +478,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -498,7 +498,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/MbL.jpg" width="270" alt="" />
+                <img src="~assets/MbL.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -529,7 +529,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -549,7 +549,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Nicov2.jpg" width="270" alt="" />
+                <img src="~assets/Nicov2.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -581,7 +581,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -601,7 +601,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Hearttt.jpg" width="270" alt="" />
+                <img src="~assets/Hearttt.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -633,7 +633,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -658,7 +658,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Hera.jpg" width="270" alt="" />
+                <img src="~assets/Hera.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -687,7 +687,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -707,7 +707,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/lyx.jpg" width="270" alt="" />
+                <img src="~assets/lyx.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -739,7 +739,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -759,7 +759,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Yinghua.png" width="270" alt="" />
+                <img src="~assets/Yinghua.png" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -786,7 +786,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -806,7 +806,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/fen.jpg" width="270" alt="" />
+                <img src="~assets/fen.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -837,7 +837,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -854,7 +854,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Chris.jpg" width="270" alt="" />
+                <img src="~assets/Chris.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -887,7 +887,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -904,7 +904,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/vill.jpg" width="270" alt="" />
+                <img src="~assets/vill.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -933,7 +933,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -950,7 +950,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Ruben.jpg" width="270" alt="" />
+                <img src="~assets/Ruben.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -977,7 +977,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -997,7 +997,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/zu.jpg" width="270" alt="" />
+                <img src="~assets/zu.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1026,7 +1026,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1046,7 +1046,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Pike.jpg" width="270" alt="" />
+                <img src="~assets/Pike.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1073,7 +1073,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1098,7 +1098,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/VNSACCM.jpg" width="270" alt="" />
+                <img src="~assets/VNSACCM.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1131,7 +1131,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1151,7 +1151,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/VNSCooL.jpg" width="270" alt="" />
+                <img src="~assets/VNSCooL.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1181,7 +1181,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1206,7 +1206,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/VNSBacT.jpg" width="270" alt="" />
+                <img src="~assets/VNSBacT.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1243,11 +1243,11 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
-                <h5>
+                <h4 style="font-size: 18px">
                   <strong
                     >saymyname (Yellow)
                     <a
@@ -1260,12 +1260,12 @@
                       href="https://www.twitch.tv/saymyname2909"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
-                </h5>
+                </h4>
               </td>
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/VNSYellow.jpg" width="270" alt="" />
+                <img src="~assets/VNSYellow.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1294,7 +1294,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1314,7 +1314,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/5c.jpg" width="270" alt="" />
+                <img src="~assets/5c.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1340,7 +1340,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1360,7 +1360,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Tim.png" width="270" alt="" />
+                <img src="~assets/Tim.png" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1389,7 +1389,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1409,7 +1409,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/no.jpg" width="270" alt="" />
+                <img src="~assets/no.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1436,7 +1436,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1458,7 +1458,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Vinch.jpg" width="270" alt="" />
+                <img src="~assets/Vinch.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1484,7 +1484,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1509,7 +1509,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/riut.jpg" width="270" alt="" />
+                <img src="~assets/riut.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1544,7 +1544,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1569,7 +1569,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/fire.jpg" width="270" alt="" />
+                <img src="~assets/fire.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1600,7 +1600,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1625,7 +1625,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/st4.jpg" width="270" alt="" />
+                <img src="~assets/st4.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1660,7 +1660,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1677,7 +1677,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/mentalist.jpg" width="270" alt="" />
+                <img src="~assets/mentalist.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1709,7 +1709,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1729,7 +1729,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/miguel.png" width="270" alt="" />
+                <img src="~assets/miguel.png" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1764,7 +1764,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1784,7 +1784,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/dogao.jpg" width="270" alt="" />
+                <img src="~assets/dogao.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1817,7 +1817,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1842,7 +1842,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Matt.jpg" width="270" alt="" />
+                <img src="~assets/Matt.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1872,7 +1872,7 @@
           </table>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-lg-3 col-md-4 col-sm-6">
           <table class="table">
             <tr>
               <td style="text-align:center">
@@ -1897,7 +1897,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/no.jpg" width="270" alt="" />
+                <img src="~assets/no.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1950,3 +1950,9 @@ export default {
   components: {}
 }
 </script>
+<style scoped>
+  h4 {
+    white-space:nowrap;
+    overflow: hidden;
+  }
+</style>
