@@ -7,7 +7,7 @@
           <div class="col-md-12">
             <h5><b>遊戲中有5個版本、共24關主戰役劇情。</b></h5>
             <div class="hrn1"></div>
-            <div class="toc float-left">
+            <div class="toc" :class="{ 'shadow-left': hasLeftShadow }" style="float: left;">
               <p>
                 <nuxt-link to="/games/aok">帝王世紀</nuxt-link>戰役<span
                   class="arror"
@@ -39,7 +39,7 @@
                 >
               </p>
             </div>
-            <div class="toc">
+            <div class="toc" ref="shadow">
               <p>
                 <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link
                   to="#a2"
@@ -1704,10 +1704,39 @@
   </div>
 </template>
 <script>
+
+const getScrollPosition = (el = window) => ({
+  x: el.pageXOffset !== undefined ? el.pageXOffset : el.scrollLeft,
+  y: el.pageYOffset !== undefined ? el.pageYOffset : el.scrollTop
+});
+
 export default {
+  data () {
+    return {
+      hasLeftShadow: false
+    }
+  },
   head() {
     return {
       title: '戰役 - Aoetw'
+    }
+  },
+  mounted () {
+    this.setShadow()
+    this.$refs.shadow.addEventListener("scroll", this.setShadow)
+  },
+  destroyed () {
+    this.$refs.shadow.removeEventListener("scroll", this.setShadow)
+  },
+  methods: {
+    setShadow () {
+      var scrollPos = getScrollPosition(this.$refs.shadow)
+
+      if (scrollPos.x === 0) {
+        this.hasLeftShadow = false
+      } else {
+        this.hasLeftShadow = true
+      }
     }
   },
   layout: '',
@@ -1721,11 +1750,11 @@ export default {
 
 .toc {
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
-.toc.float-left {
-  float: left;
-  box-shadow: 4px 0 3px -5px #333;
+.toc.shadow-left {
+  box-shadow: 5px 0 3px -5px #333;
 }
 
 .arror {
