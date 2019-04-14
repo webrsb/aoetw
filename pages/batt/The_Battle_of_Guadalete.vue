@@ -107,7 +107,7 @@
             >x5。
           </li>
           <li>
-            大地之母單位 - 騎士x2、<nuxt-link to="/units/Huskarl"
+            大地之母單位&nbsp;-&nbsp;騎士x2、<nuxt-link to="/units/Huskarl"
               >哥德衛隊</nuxt-link
             >x4、北歐盾劍兵x4、<nuxt-link to="/units/Throwing_Axeman"
               >擲斧兵</nuxt-link

@@ -782,7 +782,7 @@
 </template>
 <script>
 export default {
-  layout: 'allunit',
+  layout: 'allbuilding',
   components: {}
 }
 </script>

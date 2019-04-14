@@ -47,7 +47,7 @@
               >的攻擊有+10防禦。這個防禦獎勵可以讓他們抵銷<nuxt-link
                 to="/units/Plumed_Archer"
                 >羽毛箭射手</nuxt-link
-              >， <nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
+              >，<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
@@ -571,7 +571,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：傭兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >科技的時間快20%。
@@ -649,7 +649,7 @@
                 >鷹勇士</nuxt-link
               >沒有加成的步兵之一，另外三個分別是<nuxt-link to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >、 <nuxt-link to="/units/Militia">民兵</nuxt-link>和<nuxt-link
+              >、<nuxt-link to="/units/Militia">民兵</nuxt-link>和<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >自己。

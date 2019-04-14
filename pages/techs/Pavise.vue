@@ -89,7 +89,7 @@
               巨盾現在會影響不只<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >以外的所有徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-              >(包括 <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>)。
+              >(包括<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>)。
             </li>
             <li>
               4.8改版後巨盾不再影響<nuxt-link to="/units/Skirmisher"

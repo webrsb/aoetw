@@ -122,7 +122,7 @@
               <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
-              >、 <nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城器單位</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link

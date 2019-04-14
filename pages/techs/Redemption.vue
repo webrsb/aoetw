@@ -28,7 +28,7 @@
             >必須站在他們身邊才能進行招降，其他<nuxt-link
               to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
-            >( <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
+            >(<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
               to="/units/Mangonel"
               >投石車</nuxt-link
             >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
@@ -141,7 +141,7 @@
               >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>、<nuxt-link
                 to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
-              >、 <nuxt-link to="/building/Outpost">哨站</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/building/Outpost">哨站</nuxt-link>、<nuxt-link
                 to="/building/Watch_Tower"
                 >瞭望箭塔</nuxt-link
               >、<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
@@ -150,7 +150,7 @@
                 >火砲塔</nuxt-link
               >。<nuxt-link to="/building/Feitoriaicon_Feitoria"
                 >港灣大商站</nuxt-link
-              >、 <nuxt-link to="/building/Harbor">海港</nuxt-link>、
+              >、<nuxt-link to="/building/Harbor">海港</nuxt-link>、
             </div>
           </div>
         </div>

@@ -107,7 +107,9 @@
             >x1、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x6
           </p>
           <p>
-            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x18
+            。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >x18
           </p>
           <p>
             。

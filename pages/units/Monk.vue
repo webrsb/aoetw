@@ -42,7 +42,7 @@
               >阿茲特克</nuxt-link
             >人擁有最強大的僧侶，可以使用所有的宗教技術，同時每研發一項技術可獲得+5生命。
             如果每項技術研發，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-            >僧侶擁有95生命 - 是普通僧侶（45生命，研發<nuxt-link
+            >僧侶擁有95生命&nbsp;-&nbsp;是普通僧侶（45生命，研發<nuxt-link
               to="/techs/Sanctity"
               >聖潔虔誠</nuxt-link
             >）的兩倍以上。
@@ -222,7 +222,7 @@
             >，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>，<nuxt-link
               to="/civs/Saracens"
               >薩拉森</nuxt-link
-            >， <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>，<nuxt-link
+            >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>，<nuxt-link
               to="/civs/Spanish"
               >西班牙</nuxt-link
             >和<nuxt-link to="/civs/Teutons">條頓</nuxt-link

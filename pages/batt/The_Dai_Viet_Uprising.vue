@@ -87,7 +87,9 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
+          <p>
+            。<nuxt-link to="/units/hero">英雄</nuxt-link>&nbsp;-&nbsp;黎利x1
+          </p>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Scout_Cavalry"
               >斥候騎兵</nuxt-link
@@ -97,7 +99,9 @@
             >x4、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>x4
           </p>
           <p>
-            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x7。
+            。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >x7。
           </p>
           <p>
             。 大地之母單位 -<nuxt-link to="/units/animal/Water_Buffalo"

@@ -149,7 +149,7 @@
               <nuxt-link to="/units/Naval_Vessels">船</nuxt-link>、<nuxt-link
                 to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
-              >、 <nuxt-link to="/units/Monk">僧侶</nuxt-link>。
+              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -626,7 +626,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
               >：訓練火砲戰船成本便宜20%。研究<nuxt-link to="/techs/Careening"
                 >傾側維修術</nuxt-link
-              >， <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船匠</nuxt-link
               >便宜50％。升級成<nuxt-link to="/units/Elite_Cannon_Galleon"

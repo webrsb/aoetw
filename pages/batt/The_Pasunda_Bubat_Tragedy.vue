@@ -93,7 +93,10 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link>單位 - 加查·馬達</p>
+          <p>
+            。<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位&nbsp;-&nbsp;加查·馬達
+          </p>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Two-Handed_Swordsman"
               >雙手劍兵</nuxt-link

@@ -97,7 +97,8 @@
             >x4、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>x1、
           </li>
           <li>
-            經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x7。
+            經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager">村民</nuxt-link
+            >x7。
           </li>
           <h2>主要任務</h2>
           <div class="hrn1"></div>

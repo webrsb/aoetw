@@ -11,7 +11,7 @@
             <b>城鎮中心</b>
             是一個在世紀帝國II到達<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >後能建造的建築，玩家間俗稱為TC。它能訓練<nuxt-link
+            >後能建造的建築，玩家間俗稱為<b>TC</b>。它能訓練<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
             >、加速村民採集資源的速率、還是資源收集站，同時也支援5個人口上限。在世紀帝國II中可說是最重要的<nuxt-link

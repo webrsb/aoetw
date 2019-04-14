@@ -31,7 +31,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link> - 本章主角。
+            <nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link
+            >&nbsp;-&nbsp;本章主角。
           </p>
         </div>
         <h3>關卡</h3>

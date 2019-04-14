@@ -43,7 +43,7 @@
               >的<nuxt-link to="/units/Conquistador">征服者</nuxt-link
               >相似，同樣是特殊單位擁有強大<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
-              >的 <nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+              >的<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
               ><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >單位，比較不一樣的是在<nuxt-link to="/civs">文明</nuxt-link
@@ -152,7 +152,7 @@
               >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
-              >、 <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
+              >、<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
             </td>
           </tr>
           <tr class="tta">

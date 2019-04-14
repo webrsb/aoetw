@@ -161,7 +161,7 @@
               <nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>，<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵系</nuxt-link
-              >， <nuxt-link to="/units/Monk">僧侶</nuxt-link>，虛弱的近戰單位。
+              >，<nuxt-link to="/units/Monk">僧侶</nuxt-link>，虛弱的近戰單位。
             </td>
           </tr>
           <tr>
@@ -689,7 +689,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">訓練於</td>
+            <td class="unit3">研發於</td>
             <td class="unit4">
               <img
                 src="~assets/Universityicon.png"
@@ -881,7 +881,7 @@
 </template>
 <script>
 export default {
-  layout: 'allunit',
+  layout: 'allbuilding',
   components: {}
 }
 </script>

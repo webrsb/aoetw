@@ -56,7 +56,7 @@
             >、<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
             >是嚴重威脅，像是<nuxt-link to="/units/Trebuchet"
               >巨型投石機</nuxt-link
-            >、 <nuxt-link to="/units/Onager">中型投石車</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>、<nuxt-link
               to="/units/Bombard_Cannon"
               >火砲</nuxt-link
             >也會對艦隊造成毀滅性打擊。 <br />另外，<nuxt-link to="/units/Monk"
@@ -607,7 +607,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
                 >傾側維修術</nuxt-link
-              >， <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船匠</nuxt-link
               >便宜50％，升級到弩砲戰船便宜50%。

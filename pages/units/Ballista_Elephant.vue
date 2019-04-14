@@ -132,7 +132,7 @@
               >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
-              >、 <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
               >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
@@ -749,7 +749,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
-              >和 <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。
+              >和<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link

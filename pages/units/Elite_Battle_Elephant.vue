@@ -21,7 +21,7 @@
           </p>
           <p>
             <b><i class="fas fa-check" style="color: green;"></i>可訓練文明：</b
-            >： <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+            >：<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
               to="/civs/Vietnamese"
               >越南</nuxt-link
             >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -150,7 +150,7 @@
                 >槍隊長</nuxt-link
               >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >、 <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link

@@ -67,7 +67,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
-              >、 <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>。
+              >、<nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">

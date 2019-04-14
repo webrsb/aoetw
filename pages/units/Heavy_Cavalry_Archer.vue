@@ -106,7 +106,7 @@
             >，也不會輕易的研發，一般來說上帝王後優先研發的<nuxt-link
               to="/techs"
               >科技</nuxt-link
-            >為 <nuxt-link to="/techs/Bracer">謢腕技術</nuxt-link>與<nuxt-link
+            >為<nuxt-link to="/techs/Bracer">謢腕技術</nuxt-link>與<nuxt-link
               to="/techs/Chemistry"
               >化學</nuxt-link
             >，而不是研發重裝馬弓。<nuxt-link to="/units/Skirmisher"
@@ -125,7 +125,7 @@
             >絕對是<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>、<nuxt-link
               to="/civs/Mongols"
               >蒙古人</nuxt-link
-            >、 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>與<nuxt-link
+            >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>與<nuxt-link
               to="/civs/Magyars"
               >馬扎爾</nuxt-link
             >。<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
@@ -141,7 +141,7 @@
             >透過<nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
             >科技，讓馬弓騎兵射程與攻擊額外+1。<nuxt-link to="/civs/Turks"
               >土耳其人</nuxt-link
-            >通過 <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
+            >通過<nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
             ><nuxt-link to="/elements/Hit_points">血量</nuxt-link>+20。
           </p>
         </div>

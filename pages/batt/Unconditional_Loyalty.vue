@@ -82,7 +82,11 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link>單位 - 加查‧馬達</p>
+          <p>
+            。
+            <nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位&nbsp;-&nbsp;加查‧馬達
+          </p>
 
           <p>
             。 軍事單位 -<nuxt-link to="/units/Shotel_Warrior"
@@ -91,7 +95,9 @@
             >x6、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>x2
           </p>
           <p>
-            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x6
+            。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >x6
           </p>
           <p>
             。 大地之母單位 -<nuxt-link to="/units/Battle_Elephant"
@@ -167,7 +173,7 @@
                   >，那便是爪哇古蹟「榕樹門」，同時也是滿者伯夷國都的入口。
                 </li>
                 <li>
-                  加查·馬達(1290-1364) - 以獨特的近戰<nuxt-link
+                  加查·馬達(1290-1364)&nbsp;-&nbsp;以獨特的近戰<nuxt-link
                     to="/units/Infantry_Units"
                     >步兵</nuxt-link
                   >形象登場。
@@ -177,7 +183,7 @@
                   羅登‧韋查耶之子。於1309年登基，在1328年遭到御醫毒殺。在本章以東南亞國王形象登場。
                 </li>
                 <li>
-                  阿爾雅‧塔達(?-?) - 滿者伯夷宰相，在本章以東亞<nuxt-link
+                  阿爾雅‧塔達(?-?)&nbsp;-&nbsp;滿者伯夷宰相，在本章以東亞<nuxt-link
                     to="/units/Monk"
                     >僧侶</nuxt-link
                   >的形象登場。
@@ -186,7 +192,7 @@
                   拉克利安‧古狄(?-?) -
                   滿者伯夷軍政大臣，於1321年發動政變弒君謀逆。但失敗，遭到加查·馬達的平定。
                 </li>
-                <li>特魯烏蘭城 - 13世紀滿者伯夷王都。</li>
+                <li>特魯烏蘭城&nbsp;-&nbsp;13世紀滿者伯夷王都。</li>
               </ul>
             </div>
           </div>

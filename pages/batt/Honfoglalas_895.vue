@@ -27,7 +27,7 @@
               </td>
               <td class="tc1" width="15%">起始資源:</td>
               <td class="tc2">
-                0 <nuxt-link to="/resource/Wood">木材</nuxt-link>，0<nuxt-link
+                0<nuxt-link to="/resource/Wood">木材</nuxt-link>，0<nuxt-link
                   to="/resource/Food"
                   >食物</nuxt-link
                 >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
@@ -131,7 +131,8 @@
           >X6。
         </li>
         <li>
-          動物單位 - 馬兒X8，<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
+          動物單位&nbsp;-&nbsp;馬兒X8，<nuxt-link to="/units/animal/Sheep"
+            >綿羊</nuxt-link
           >X14，<nuxt-link to="/units/hero/Hunting_Wolf">獵狼</nuxt-link
           >X7，<nuxt-link to="/units/animal/Cow">乳牛</nuxt-link>X10。
         </li>

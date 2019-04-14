@@ -205,7 +205,7 @@
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >多10%/20%/30%/40%的<nuxt-link to="/elements/Hit_points"
                 >血量</nuxt-link
-              >。 <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費
+              >。<nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -443,7 +443,7 @@
       <div class="col-md-12">
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img

@@ -79,7 +79,7 @@
                 玩家2：
               </td>
               <td class="tc6">
-                特班尼根(橙色) <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
+                特班尼根(橙色)<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p2"></div>

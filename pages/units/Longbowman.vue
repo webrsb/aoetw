@@ -54,7 +54,7 @@
             長弓兵最好選擇堅守崗位模式，避免隨意地攻擊後，破壞本身的陣型讓敵人趁虛而入。由於<nuxt-link
               to="/civs/Britons"
               >不列顛人</nuxt-link
-            >缺乏 <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+            >缺乏<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link
             >，缺乏100%命中率與提升<nuxt-link to="/elements/Rate_of_Fire"
               >攻擊速度</nuxt-link

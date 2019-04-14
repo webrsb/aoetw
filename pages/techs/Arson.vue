@@ -40,7 +40,7 @@
               某些文明可以短時間生產大量步兵，縱火讓他們省去了研發與生產攻城武器的費用，比方<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >、 <nuxt-link to="/civs/Goths">哥德</nuxt-link>。
+              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>。
             </li>
           </ul>
         </div>

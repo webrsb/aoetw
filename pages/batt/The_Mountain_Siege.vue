@@ -83,7 +83,9 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
+          <p>
+            。<nuxt-link to="/units/hero">英雄</nuxt-link>&nbsp;-&nbsp;黎利x1
+          </p>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x2、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
@@ -91,7 +93,9 @@
             >x2、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>x20
           </p>
           <p>
-            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x8。
+            。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >x8。
           </p>
           <p>
             。大地之母單位：精銳<nuxt-link to="/units/Battle_Elephant"

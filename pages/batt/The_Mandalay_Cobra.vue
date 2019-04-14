@@ -83,11 +83,11 @@
 
           <h3>開場</h3>
           <p>
-            。 <nuxt-link to="/units/hero">英雄</nuxt-link> -
+            。<nuxt-link to="/units/hero">英雄</nuxt-link> -
             勃印曩x1、卑謬總督x1
           </p>
           <p>
-            。 <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link> -
+            。<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link> -
             東吁勇士x6
           </p>
           <p>
@@ -98,9 +98,11 @@
             >x6、爆破船x2、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>x2
           </p>
           <p>
-            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x3。
+            。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >x3。
           </p>
-          <p>。 大地之母單位 - 德彬瑞蒂大王x1、東吁勇士x13、</p>
+          <p>。 大地之母單位&nbsp;-&nbsp;德彬瑞蒂大王x1、東吁勇士x13、</p>
           <p>
             飛鏢騎兵x5、<nuxt-link to="/units/Elite_Battle_Elephant"
               >精銳矛象伕</nuxt-link

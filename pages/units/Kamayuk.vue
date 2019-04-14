@@ -422,7 +422,7 @@
               ><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>、<nuxt-link
                 to="/techs/Squires"
                 >護衛</nuxt-link
-              >、 <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link

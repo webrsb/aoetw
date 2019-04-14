@@ -84,7 +84,7 @@
               href="https://en.wikipedia.org/wiki/Larabanga_Mosque"
               target="_blank"
               >拉拉班加清真寺</a
-            >，而 <nuxt-link to="/civs/Indians">印度</nuxt-link>修道院則是<a
+            >，而<nuxt-link to="/civs/Indians">印度</nuxt-link>修道院則是<a
               href="http://tinyurl.com/y8quapg4"
               target="_blank"
               >科奈克太陽神廟</a

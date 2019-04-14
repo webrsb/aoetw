@@ -11,7 +11,7 @@
             南美<nuxt-link to="/civs">文明</nuxt-link>限定，<nuxt-link
               to="/civs/Mayans"
               >馬雅</nuxt-link
-            >、 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
             >
@@ -76,7 +76,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
-              >、 <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>。
+              >、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -480,7 +480,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：鷹斥侯訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。

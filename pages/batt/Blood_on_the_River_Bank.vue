@@ -89,9 +89,10 @@
             >x1。
           </li>
           <li>
-            經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x6。
+            經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager">村民</nuxt-link
+            >x6。
           </li>
-          <li>大地之母 - 美瑪公主x1。</li>
+          <li>大地之母&nbsp;-&nbsp;美瑪公主x1。</li>
 
           <h2>主要任務</h2>
           <div class="hrn1"></div>

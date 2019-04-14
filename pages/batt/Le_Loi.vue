@@ -35,7 +35,7 @@
         <div class="n1">
           <ul>
             <li>
-              黎利 - 本章主角。為徒步近戰英雄，有著<nuxt-link
+              黎利&nbsp;-&nbsp;本章主角。為徒步近戰英雄，有著<nuxt-link
                 to="/units/Champion"
                 >劍兵勇士</nuxt-link
               >的外觀。

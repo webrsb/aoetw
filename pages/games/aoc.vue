@@ -163,7 +163,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <nuxt-link to="/batt">戰役</nuxt-link></em>
+            <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
           <p>
             除了原有的帝王世紀戰役：<nuxt-link to="/batt/William_Wallacea"

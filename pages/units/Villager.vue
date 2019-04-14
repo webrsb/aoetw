@@ -38,38 +38,42 @@
         <div class="n1">
           <p>當村民接到不同的任務時，會有不同的單位名稱</p>
           <ul>
-            <li>村民 - 攻擊敵方單位或建築物或野生動物</li>
-            <li>建築工 - 建造建築物</li>
+            <li>村民&nbsp;-&nbsp;攻擊敵方單位或建築物或野生動物</li>
+            <li>建築工&nbsp;-&nbsp;建造建築物</li>
             <li>
-              <nuxt-link to="/units/Villager">農夫</nuxt-link> - 從<nuxt-link
-                to="/building/Farm"
-                >農田</nuxt-link
+              <nuxt-link to="/units/Villager">農夫</nuxt-link
+              >&nbsp;-&nbsp;從<nuxt-link to="/building/Farm">農田</nuxt-link
               >收集<nuxt-link to="/resource/Food">食物</nuxt-link>
             </li>
             <li>
-              漁夫 - 從<nuxt-link to="/units/animal/fish">魚類</nuxt-link
+              漁夫&nbsp;-&nbsp;從<nuxt-link to="/units/animal/fish"
+                >魚類</nuxt-link
               >收集食物
             </li>
-            <li>漿果收集員 - 從灌木叢收集食物</li>
+            <li>漿果收集員&nbsp;-&nbsp;從灌木叢收集食物</li>
             <li>
-              伐木工 - 從樹收集<nuxt-link to="/resource/Wood">木材</nuxt-link>
+              伐木工&nbsp;-&nbsp;從樹收集<nuxt-link to="/resource/Wood"
+                >木材</nuxt-link
+              >
             </li>
             <li>
-              礦工 - 從金礦或<nuxt-link to="/resource/Stone">石礦</nuxt-link
+              礦工&nbsp;-&nbsp;從金礦或<nuxt-link to="/resource/Stone"
+                >石礦</nuxt-link
               >收集<nuxt-link to="/resource/Gold">黃金</nuxt-link>或<nuxt-link
                 to="/resource/Stone"
                 >石頭</nuxt-link
               >
             </li>
             <li>
-              牧羊人 - 召集<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
+              牧羊人&nbsp;-&nbsp;召集<nuxt-link to="/units/animal/Sheep"
+                >綿羊</nuxt-link
               >至<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
               >或是<nuxt-link to="/building/Mill">磨坊</nuxt-link
               >旁，殺死綿羊收集食物
             </li>
-            <li>獵人 - 攻擊並從野生動物中收集食物</li>
+            <li>獵人&nbsp;-&nbsp;攻擊並從野生動物中收集食物</li>
           </ul>
-          <li>修理工 - 修復建築物</li>
+          <li>修理工&nbsp;-&nbsp;修復建築物</li>
         </div>
         <h3>收集資源效率</h3>
         <div class="hrn1"></div>

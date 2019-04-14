@@ -104,7 +104,7 @@
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >、 <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>。
+              >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">

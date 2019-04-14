@@ -359,7 +359,7 @@
               <nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>，<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵系</nuxt-link
-              >， <nuxt-link to="/units/Monk">僧侶</nuxt-link>，虛弱的近戰單位。
+              >，<nuxt-link to="/units/Monk">僧侶</nuxt-link>，虛弱的近戰單位。
             </td>
           </tr>
           <tr>
@@ -846,7 +846,7 @@
     <div class="col-md-12">
       <h3>圖庫</h3>
       <div class="hrn1"></div>
-      <div class="n1">
+      <div class="row">
         <div class="col-md-4">
           <gallery
             ><img

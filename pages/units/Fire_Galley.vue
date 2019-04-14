@@ -89,7 +89,7 @@
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
               >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
-              >和近戰單位、 <nuxt-link to="/units/Galley">戰船</nuxt-link>。
+              >和近戰單位、<nuxt-link to="/units/Galley">戰船</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -567,7 +567,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
                 >傾側維修術</nuxt-link
-              >， <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船匠</nuxt-link
               >便宜50％，升級到<nuxt-link to="/units/War_Galley"

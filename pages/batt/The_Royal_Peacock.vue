@@ -83,13 +83,15 @@
 
           <h3>開場</h3>
           <p>
-            。 <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link> -
+            。<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link> -
             失明跛腳的<nuxt-link to="/units/Monk">僧侶</nuxt-link>x1
           </p>
           <p>
-            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x1
+            。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >x1
           </p>
-          。 大地之母單位 - 勃印曩x1、<nuxt-link to="/units/Arambai"
+          。 大地之母單位&nbsp;-&nbsp;勃印曩x1、<nuxt-link to="/units/Arambai"
             >飛鏢騎兵</nuxt-link
           >x6、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
           >x4、手銃兵x3、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link

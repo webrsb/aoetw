@@ -89,7 +89,8 @@
             >x6、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>x4
           </li>
           <li>
-            大地之母單位 - 駱駝（大地之母）x8、馬利<nuxt-link to="/units/Knight"
+            大地之母單位&nbsp;-&nbsp;駱駝（大地之母）x8、馬利<nuxt-link
+              to="/units/Knight"
               >騎士</nuxt-link
             >x8、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>x4。
           </li>

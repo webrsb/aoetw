@@ -14,7 +14,7 @@
             >的第一關。
           </p>
           <p>
-            這場 <nuxt-link to="/batt">戰役</nuxt-link>描繪了<nuxt-link
+            這場<nuxt-link to="/batt">戰役</nuxt-link>描繪了<nuxt-link
               to="/units/hero/Francesco_Sforza"
               >法蘭切斯科·斯福爾札</nuxt-link
             >親眼看見了他父親：穆齊奧-<nuxt-link to="/batt/Sforzaa"

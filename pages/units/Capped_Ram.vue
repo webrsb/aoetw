@@ -145,7 +145,7 @@
               >:攻城器製造所的單位傷害範圍增加(輕型衝撞車和<nuxt-link
                 to="/units/Siege_Tower"
                 >攻城塔</nuxt-link
-              >除外)， <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>限定
+              >除外)，<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>限定
             </td>
           </tr>
           <tr>

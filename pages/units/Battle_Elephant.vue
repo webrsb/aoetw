@@ -143,7 +143,7 @@
                 >槍隊長</nuxt-link
               >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >、 <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
                 to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link

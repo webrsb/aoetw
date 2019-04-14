@@ -90,7 +90,9 @@
             >x18、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >x6、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>x1
           </p>
-          。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x4
+          。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+            >村民</nuxt-link
+          >x4
           <p>
             。 大地之母單位 -<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
@@ -186,8 +188,8 @@
                     信訶沙里 -
                     13世紀崛起於爪哇的政權，他們逐出參佛齊確立統治。在1292年，忽必烈遣使要求入貢，信訶沙里拒絕，隨後就遭到大元水師攻滅。
                   </li>
-                  <li>蒙古人 - 此指忽必烈建立的大元。</li>
-                  <li>爪哇人 - 東爪哇，位於今天印尼的泗水。</li>
+                  <li>蒙古人&nbsp;-&nbsp;此指忽必烈建立的大元。</li>
+                  <li>爪哇人&nbsp;-&nbsp;東爪哇，位於今天印尼的泗水。</li>
                   <li>
                     諫義里國 -
                     11世紀建立於中爪哇，與參佛齊帝國平起平坐、二分南洋。但隨國力衰弱，於12世紀後半地位遭到崛起的信訶沙里給取代。

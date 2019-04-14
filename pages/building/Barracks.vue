@@ -300,7 +300,7 @@
                 alt=""
               /><nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
               >:軍營可以訓練<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
-              >， <nuxt-link to="/civs/Goths">哥德</nuxt-link>限定
+              >，<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定
             </td>
           </tr>
         </table>

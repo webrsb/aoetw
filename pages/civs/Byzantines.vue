@@ -217,7 +217,7 @@
             to="/resource/Food"
             >食物</nuxt-link
           >
-          800 <nuxt-link to="/resource/Gold">黃金</nuxt-link>，變成 667食物
+          800<nuxt-link to="/resource/Gold">黃金</nuxt-link>，變成 667食物
           536黃金)
         </li>
         <li>封建時代城鎮瞭望免費</li>

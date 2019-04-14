@@ -24,7 +24,7 @@
             >、<nuxt-link to="/building">建築物</nuxt-link
             >與僧侶不能被招降，但一些<nuxt-link to="/civs">文明</nuxt-link
             >可以透過研發<nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link
-            >或是 <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>來改善。
+            >或是<nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>來改善。
           </p>
           <p>
             透過招降，可以獲得自己文明沒有的單位，例如南美文明可以有<nuxt-link

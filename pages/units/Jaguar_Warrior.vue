@@ -99,7 +99,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
-              >、 <nuxt-link to="/building">建築物</nuxt-link>。
+              >、<nuxt-link to="/building">建築物</nuxt-link>。
             </td>
           </tr>
           <tr>

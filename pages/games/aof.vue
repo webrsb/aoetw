@@ -165,9 +165,7 @@
             </li>
           </ul>
           <p>
-            <em
-              >主要文章: <nuxt-link to="/techs/untech">特殊科技</nuxt-link></em
-            >
+            <em>主要文章:<nuxt-link to="/techs/untech">特殊科技</nuxt-link></em>
           </p>
         </div>
       </div>
@@ -231,7 +229,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <nuxt-link to="/batt">戰役</nuxt-link></em>
+            <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
           <p>包含七個主戰役</p>
           <ul>

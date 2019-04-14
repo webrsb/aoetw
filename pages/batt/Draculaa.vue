@@ -28,7 +28,7 @@
             >，以同名的弗拉德三世命名。由於沒有和德古拉完美契合的<nuxt-link
               to="/civs"
               >文明</nuxt-link
-            >，玩家在戰役中扮演三種不同的文明 - 土耳其人，<nuxt-link
+            >，玩家在戰役中扮演三種不同的文明&nbsp;-&nbsp;土耳其人，<nuxt-link
               to="/civs/Magyars"
               >馬扎爾</nuxt-link
             >人和<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>。

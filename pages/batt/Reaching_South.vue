@@ -83,7 +83,9 @@
             >x2、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >x3、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>x4
           </p>
-          。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x7
+          。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+            >村民</nuxt-link
+          >x7
 
           <h2>主要任務</h2>
           <div class="hrn1"></div>

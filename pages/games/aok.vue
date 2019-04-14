@@ -162,7 +162,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <nuxt-link to="/civs">文明</nuxt-link></em>
+            <em>主要文章:<nuxt-link to="/civs">文明</nuxt-link></em>
           </p>
           <p>
             在遊戲中，玩家可以選擇13個文明的其中1種，這13個文明分別是：不列顛、拜占庭、塞爾特、中國、法蘭克、<nuxt-link
@@ -181,7 +181,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <nuxt-link to="/units">單位</nuxt-link></em>
+            <em>主要文章:<nuxt-link to="/units">單位</nuxt-link></em>
           </p>
           <p>
             每個玩家能夠製造的單位只能小於某個特定的數目（這個數目在遊戲中稱為人口上限），上限最大能達到200，但實際能夠達到的數目與當前的住房、<nuxt-link
@@ -235,7 +235,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <nuxt-link to="/batt">戰役</nuxt-link></em>
+            <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
           <p>
             帝王世紀中共有5個劇情戰役，全都是歷史上著名的人與事物，例如貞德率領<nuxt-link

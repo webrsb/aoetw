@@ -37,7 +37,7 @@
               ground”模式下，擲斧兵可以更容易地消滅<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
-              >甚至 <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>。
+              >甚至<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>。
             </li>
           </ul>
         </div>

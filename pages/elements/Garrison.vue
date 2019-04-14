@@ -212,7 +212,7 @@
             <div class="unititle">
               <img src="~assets/Garrison_test01.png" width="100%" />
             </div>
-            <div class="col-sm-12 text-center">駐軍 - 熱鍵G</div>
+            <div class="col-sm-12 text-center">駐軍&nbsp;-&nbsp;熱鍵G</div>
           </div>
           <div
             style="border: 1px solid #495057;"
@@ -242,7 +242,7 @@
             <div class="unititle">
               <img src="~assets/Garrison_test04.png" width="100%" />
             </div>
-            <div class="col-sm-12 text-center">撤軍 - 熱鍵Z</div>
+            <div class="col-sm-12 text-center">撤軍&nbsp;-&nbsp;熱鍵Z</div>
           </div>
         </div>
       </div>

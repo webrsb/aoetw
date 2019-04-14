@@ -215,7 +215,7 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
                 to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
-              >有 <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。
+              >有<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。
             </li>
           </ul>
         </div>
@@ -511,7 +511,7 @@
                 <img
                   class="gg"
                   src="~assets/TrebuchetPackedIcon.jpg"
-                /><nuxt-link to="/units/Trebuchet">巨型投石機(拆裝)</nuxt-link>
+                /><nuxt-link to="/units/Trebuchet">巨型投石機(組裝)</nuxt-link>
               </td>
               <td class="tta3">150</td>
               <!--生命值!-->
@@ -534,7 +534,7 @@
                   class="gg"
                   width="22"
                   src="~assets/TrebuchetUnpackedIcon.jpg"
-                /><nuxt-link to="/units/Trebuchet">巨型投石機(組裝)</nuxt-link>
+                /><nuxt-link to="/units/Trebuchet">巨型投石機(拆裝)</nuxt-link>
               </td>
               <td class="tta3">150</td>
               <!--生命值!-->

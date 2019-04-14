@@ -35,7 +35,7 @@
         <h3>英雄</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>加查·馬達 - 本章主角。以獨特的近戰步兵形象登場。</p>
+          <p>加查·馬達&nbsp;-&nbsp;本章主角。以獨特的近戰步兵形象登場。</p>
         </div>
         <h3>關卡</h3>
         <div class="hrn1"></div>

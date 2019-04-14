@@ -145,7 +145,7 @@
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵單位</nuxt-link
-              >和 <nuxt-link to="/units/Slinger">投石手</nuxt-link>。
+              >和<nuxt-link to="/units/Slinger">投石手</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -724,7 +724,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：戟兵訓練快20%。研發<nuxt-link to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >科技的時間快20%。

@@ -64,7 +64,7 @@
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
-              >、 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
                 >匈奴</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
@@ -136,7 +136,7 @@
               >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
-              >、 <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >。

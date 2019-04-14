@@ -618,7 +618,7 @@
               >的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
-              >的 <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
+              >的<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
             </li>
             <li>
               AOE

@@ -11,7 +11,7 @@
             <b>建築學</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
-            >研發。研發後所有 <nuxt-link to="/building"></nuxt-link
+            >研發。研發後所有<nuxt-link to="/building"></nuxt-link
             ><nuxt-link to="/building">建築</nuxt-link>(除了<nuxt-link
               to="/building/Stone_Wall"
               >石牆</nuxt-link

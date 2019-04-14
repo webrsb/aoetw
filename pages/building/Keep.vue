@@ -668,7 +668,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">訓練於</td>
+            <td class="unit3">研發於</td>
             <td class="unit4">
               <img
                 class="gg"
@@ -855,7 +855,7 @@
 </template>
 <script>
 export default {
-  layout: 'allunit',
+  layout: 'allbuilding',
   components: {}
 }
 </script>

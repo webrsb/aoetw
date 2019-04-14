@@ -470,7 +470,7 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
                 to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
-              >和 <nuxt-link to="/techs/Chemistry">化學</nuxt-link>的速度快80%。
+              >和<nuxt-link to="/techs/Chemistry">化學</nuxt-link>的速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：投石機對<nuxt-link
@@ -702,11 +702,11 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
-            <td class="unit4">2(組裝)<br />1(攻擊姿態)</td>
+            <td class="unit4">2(組裝)<br />1(拆裝)</td>
           </tr>
           <tr>
             <td class="unit3">遠防</td>
-            <td class="unit4">8(拆裝) <br />150(攻擊姿態)</td>
+            <td class="unit4">8(拆裝) <br />150(拆裝)</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>

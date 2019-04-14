@@ -142,7 +142,7 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
                 to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
-              >有 <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。
+              >有<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:<nuxt-link

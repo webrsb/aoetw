@@ -392,7 +392,7 @@
               <td class="tta4">
                 碼頭可升級成<nuxt-link to="/building/Harbor">海港</nuxt-link
                 >(需要<nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link
-                >， <nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
+                >，<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
               </td>
             </tr>
           </table>
@@ -681,7 +681,7 @@
       <div class="col-md-12">
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img
@@ -725,8 +725,6 @@
               <p><em>所有封建時代的碼頭(HD擴充資料片)。</em></p>
             </div>
           </div>
-        </div>
-        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img

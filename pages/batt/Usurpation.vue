@@ -80,7 +80,9 @@
 
           <h3>開場</h3>
           <p>
-            。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 蘇利耶跋摩一世
+            。
+            <nuxt-link to="/units/hero">英雄</nuxt-link
+            >&nbsp;-&nbsp;蘇利耶跋摩一世
           </p>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
@@ -90,7 +92,9 @@
             >x3、<nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link>x2
           </p>
           <p>
-            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x10
+            。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >x10
           </p>
           <p>。 無大地之母單位</p>
           <h2>主要任務</h2>

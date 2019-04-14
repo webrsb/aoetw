@@ -56,7 +56,7 @@
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
               <td class="tc6">
-                泰族山區 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>
+                泰族山區<nuxt-link to="/civs/Khmer">高棉</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -97,7 +97,8 @@
             >x3、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x4
           </p>
           <p>
-            。 大地之母單位 - 東吁勇士x2、<nuxt-link to="/units/Crossbowman"
+            。 大地之母單位&nbsp;-&nbsp;東吁勇士x2、<nuxt-link
+              to="/units/Crossbowman"
               >弩兵</nuxt-link
             >x2、帝王擲矛手x5、<nuxt-link to="/units/Arambai"
               >飛鏢騎兵</nuxt-link
@@ -198,7 +199,7 @@
                       to="/units/Unique_Unit$"
                       >特殊單位</nuxt-link
                     >
-                    - 納茲靈女巫（形象為西徐亞的野女人）存於地圖上。
+                    &nbsp;-&nbsp;納茲靈女巫（形象為西徐亞的野女人）存於地圖上。
                   </li>
                 </ul>
               </div>

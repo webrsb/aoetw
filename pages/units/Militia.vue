@@ -47,7 +47,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
-              >、 <nuxt-link to="/units/Spearman">槍兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Spearman">槍兵</nuxt-link>、<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
               >。
@@ -473,7 +473,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：民兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >科技的時間快20%。

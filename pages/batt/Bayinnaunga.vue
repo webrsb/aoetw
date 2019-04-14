@@ -27,7 +27,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            ‧勃印曩 - 本章主角。隨著劇情變化而有多樣外觀。1-4關為<nuxt-link
+            ‧勃印曩&nbsp;-&nbsp;本章主角。隨著劇情變化而有多樣外觀。1-4關為<nuxt-link
               to="/units/Elite_Battle_Elephant"
               >精銳矛象伕</nuxt-link
             >、第5關時為東亞<nuxt-link to="/units/Monk">僧侶</nuxt-link>。

@@ -13,34 +13,29 @@
               style="float: left;"
             >
               <p>
-                <nuxt-link to="/games/aok">帝王世紀</nuxt-link>戰役<span
-                  class="arror"
-                  >➠</span
-                >
+                <nuxt-link to="/games/aok"
+                  ><img src="~assets/KingsIcon.png" />帝王世紀</nuxt-link
+                ><span class="arror">➠</span>
               </p>
               <p>
-                <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>戰役<span
-                  class="arror"
-                  >➠</span
-                >
+                <nuxt-link to="/games/aoc"
+                  ><img src="~assets/ConquerorsIcon.png" />征服者入侵</nuxt-link
+                ><span class="arror">➠</span>
               </p>
               <p>
-                <nuxt-link to="/games/aof">失落的帝國</nuxt-link>戰役<span
-                  class="arror"
-                  >➠</span
-                >
+                <nuxt-link to="/games/aof"
+                  ><img src="~assets/ForgottenIcon.png" />失落的帝國</nuxt-link
+                ><span class="arror">➠</span>
               </p>
               <p>
-                <nuxt-link to="/games/ak">非洲王國</nuxt-link>戰役<span
-                  class="arror"
-                  >➠</span
-                >
+                <nuxt-link to="/games/ak"
+                  ><img src="~assets/AfricanIcon.png" />非洲王國</nuxt-link
+                ><span class="arror">➠</span>
               </p>
               <p>
-                <nuxt-link to="/games/aor">王者崛起</nuxt-link>戰役<span
-                  class="arror"
-                  >➠</span
-                >
+                <nuxt-link to="/games/aor"
+                  ><img src="~assets/RajaIcon.png" />王者崛起</nuxt-link
+                ><span class="arror">➠</span>
               </p>
             </div>
             <div class="toc" ref="shadow">
@@ -48,7 +43,7 @@
                 <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link
                   to="#a2"
                   >【聖女貞德】</nuxt-link
-                >、 <nuxt-link to="#a3">【沙拉丁】</nuxt-link>、<nuxt-link
+                >、<nuxt-link to="#a3">【沙拉丁】</nuxt-link>、<nuxt-link
                   to="#a4"
                   >【成吉思汗】</nuxt-link
                 >、<nuxt-link to="#a5">【巴巴羅薩】</nuxt-link>

@@ -238,7 +238,7 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Treadmill_Crane"
                 >滑輪起重機</nuxt-link
-              >和升級 <nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link
+              >和升級<nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>的團隊速度提高80%。
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：石牆便宜50%</li>
@@ -454,7 +454,7 @@
       <div class="col-md-12">
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img

@@ -69,7 +69,7 @@
               >反曲弓</nuxt-link
             >技術，可以使射程與攻擊額外+1，<nuxt-link to="/civs/Turks"
               >土耳其人</nuxt-link
-            >通過 <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
+            >通過<nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
             ><nuxt-link to="/elements/Hit_points">血量</nuxt-link
             >+20、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
             >人則是對<nuxt-link to="/armor/Armor_Class_Building"

@@ -16,7 +16,7 @@
               href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E6%9B%BC"
               target="_blank"
               ><nuxt-link to="/units/hero/Charlemagne">查理曼大帝</nuxt-link></a
-            >麾下的一名 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>將領。
+            >麾下的一名<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>將領。
           </p>
           <p>
             遊戲中的他是一名<nuxt-link to="/units/Knight">騎士</nuxt-link

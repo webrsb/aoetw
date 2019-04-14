@@ -89,7 +89,7 @@
 
           <h3>開場</h3>
           <p>
-            。 <nuxt-link to="/units/hero">英雄</nuxt-link> -<nuxt-link
+            。<nuxt-link to="/units/hero">英雄</nuxt-link> -<nuxt-link
               to="/units/hero/Bayinnaung"
               >勃印曩</nuxt-link
             >x1、<nuxt-link to="/units/hero/Tabinshwehti"
@@ -102,7 +102,9 @@
             >x5、<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>x5
           </p>
           <p>
-            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x4。
+            。 經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >x4。
           </p>
           <p>。 大地之母單位 -</p>
           <p>

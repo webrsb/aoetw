@@ -790,7 +790,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
-              >和 <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。
+              >和<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link

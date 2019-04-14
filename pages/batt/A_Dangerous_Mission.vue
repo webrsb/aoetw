@@ -28,7 +28,7 @@
               </td>
               <td class="tc1" width="15%">起始資源:</td>
               <td class="tc2">
-                200 <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+                200<nuxt-link to="/resource/Gold">黃金</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限:</td>
               <td class="tc2" width="5%">N/A</td>

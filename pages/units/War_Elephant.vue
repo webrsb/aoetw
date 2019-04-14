@@ -11,7 +11,7 @@
             <b>戰象</b>是<nuxt-link to="/civs/Persians">波斯</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的 <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。
           </p>
           <p>
             戰象是一個緩慢但是破壞力強大的單位，兵種分類上屬於<nuxt-link

@@ -74,7 +74,9 @@
           </table>
 
           <h3>開場</h3>
-          <li><nuxt-link to="/units/hero">英雄</nuxt-link> - 松迪亞塔。</li>
+          <li>
+            <nuxt-link to="/units/hero">英雄</nuxt-link>&nbsp;-&nbsp;松迪亞塔。
+          </li>
           <li>
             大地之母單位 -<nuxt-link to="/units/Knight">騎士</nuxt-link
             >x3、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link

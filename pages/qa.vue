@@ -427,14 +427,14 @@
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=473358292"
                     target="_blank"
-                    >New Custom AI - ResonanceBot 5-1c:</a
+                    >New Custom AI&nbsp;-&nbsp;ResonanceBot 5-1c:</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=647049302"
                     target="_blank"
-                    >Custom AI - ResonanceBot 5-1c 2v6 EX</a
+                    >Custom AI&nbsp;-&nbsp;ResonanceBot 5-1c 2v6 EX</a
                   >
                 </li>
                 <li>

@@ -85,7 +85,7 @@
               >、<nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
-              >、 <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
+              >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">

@@ -120,7 +120,7 @@
               <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
                 to="/units/Jaguar_Warrior"
                 >豹勇士</nuxt-link
-              >、 <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link

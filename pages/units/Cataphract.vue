@@ -99,7 +99,7 @@
               >仍可以輕騎解決聖騎兵，就算是大規模作戰也一樣，而全面升級的騎兵(<nuxt-link
                 to="/civs/Berbers"
                 >柏柏</nuxt-link
-              >、 <nuxt-link to="/civs/Chinese">中國</nuxt-link>或是<nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>或是<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
               >)也能在一對一的戰鬥中獲勝，但由於踐踏傷害，大規模戰鬥就會輸。
@@ -221,7 +221,7 @@
                 >拜占庭聖騎兵</nuxt-link
               >有踐踏傷害，對<nuxt-link to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
-              >攻擊+6， <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定
+              >攻擊+6，<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定
             </td>
           </tr>
           <tr>

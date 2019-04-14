@@ -271,7 +271,7 @@
               /><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>:<nuxt-link
                 to="/units/Tarkan"
                 >韃靼騎兵</nuxt-link
-              >可在馬廄訓練， <nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定
+              >可在馬廄訓練，<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定
             </td>
           </tr>
         </table>
@@ -547,7 +547,7 @@
       <div class="col-md-12">
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img
@@ -596,8 +596,6 @@
               </p>
             </div>
           </div>
-        </div>
-        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img

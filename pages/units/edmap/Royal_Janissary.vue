@@ -105,7 +105,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td>
-              +3對 <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
+              +3對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
             </td>
           </tr>
           <tr>

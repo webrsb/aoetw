@@ -22,7 +22,7 @@
             >是所有<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link
             >的惡夢。而弱點有低<nuxt-link to="/elements/Rate_of_Fire"
               >射速</nuxt-link
-            >與最小範圍。研發 <nuxt-link to="/techs/Chemistry">化學</nuxt-link
+            >與最小範圍。研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link
             >後，攻擊時會噴賤出高溫的成群熱火球(類似超級瑪莉吃火時吐出的火花)，也是少數可以預判對手走位，攻擊指定範圍的單位。
           </p>
@@ -89,7 +89,7 @@
               >、<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
-              >、 <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Battering_Ram"
                 >輕型衝撞車</nuxt-link
               >、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link

@@ -16,7 +16,7 @@
             >（除了<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克</nuxt-link
-            >、 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>與<nuxt-link
+            >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>與<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
             >外）。<nuxt-link to="/units/Siege_Weapons"></nuxt-link

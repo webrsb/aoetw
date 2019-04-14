@@ -261,7 +261,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/Wangkun.jpg" width="250" alt="" />
-                <p><em>韓國皇帝 - 王建</em></p>
+                <p><em>韓國皇帝&nbsp;-&nbsp;王建</em></p>
               </div>
             </td>
           </tr>

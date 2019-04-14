@@ -75,7 +75,9 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
+          <p>
+            。<nuxt-link to="/units/hero">英雄</nuxt-link>&nbsp;-&nbsp;黎利x1
+          </p>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Elite_Battle_Elephant"
               >精銳矛象伕</nuxt-link

@@ -85,7 +85,7 @@
 
           <h3>開場</h3>
           <p>
-            。 <nuxt-link to="/units/hero">英雄</nuxt-link> -
+            。<nuxt-link to="/units/hero">英雄</nuxt-link> -
             勃印曩x1、莽應禮x1、辛格．達塔x1。 軍事單位 -<nuxt-link
               to="/units/Two-Handed_Swordsman"
               >雙手劍兵</nuxt-link
@@ -104,7 +104,8 @@
             >x7、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >x18、爆破船x3、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
             >x4、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>x4。
-            經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x5
+            經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager">村民</nuxt-link
+            >x5
           </p>
           。 無大地之母單位
           <h2>主要任務</h2>

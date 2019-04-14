@@ -42,7 +42,7 @@
             貿易商旅較貿易車隊的移動速度更快（1.32：1），並且貿易商旅可以從<nuxt-link
               to="/techs/Careening"
               >傾側維修術</nuxt-link
-            >、 <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>、<nuxt-link
               to="/techs/Shipwright"
               >造船匠</nuxt-link
             >獲得提升（但這不會提高黃金的收益，因為貿易商旅會降低每次所獲得的黃金收益，但相對的會提升船的運行速度）。
@@ -537,7 +537,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
                 >傾側維修術</nuxt-link
-              >， <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船匠</nuxt-link
               >便宜50％。

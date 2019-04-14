@@ -41,7 +41,7 @@
             在"失落的帝國"資料片前，所有中東文明都可以使用普通的火藥單位，這意味著中世紀該地區的科學進步顯著。<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克人</nuxt-link
-            >， <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>，<nuxt-link
+            >，<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>，<nuxt-link
               to="/civs/Incas"
               >印加人</nuxt-link
             >和<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link>必須靠<nuxt-link
