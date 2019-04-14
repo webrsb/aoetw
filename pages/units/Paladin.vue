@@ -275,7 +275,7 @@
           <h3>剋遊俠的單位與建築</h3>
           <div class="hrn1"></div>
           <div class="n1 bonuses">
-            以下單位擁有對遊俠的額外傷害，按照傷殺力排列。
+            以下單位擁有對遊俠的額外傷害，按照殺傷力排列。
             <div class="n1">
               <div class="row">
                 <div class="col-md-6">
@@ -594,7 +594,7 @@
               </h3>
               <ul>
                 <li>
-                  <nuxt-link to="/techs/Bloodlines">血統</nuxt-link>引進。
+                  <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>引進。
                 </li>
                 <li>
                   <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。
@@ -634,10 +634,10 @@
                   <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
                   >擁有最強的遊俠，因為多了12hp，而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
                     to="/techs/Bloodlines"
-                    >血統</nuxt-link
+                    >品種</nuxt-link
                   >與<nuxt-link to="/techs/Plate_Barding_Armor"
                     >騎兵板甲</nuxt-link
-                  >。緊跟在後的是拜占庭遊俠，缺乏血統與<nuxt-link
+                  >。緊跟在後的是拜占庭遊俠，缺乏品種與<nuxt-link
                     to="/techs/Blast_Furnace"
                     >鼓風爐</nuxt-link
                   >。而<nuxt-link to="/civs/Teutons">條頓</nuxt-link

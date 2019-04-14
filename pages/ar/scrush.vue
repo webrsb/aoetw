@@ -24,7 +24,7 @@
               >高、殺<nuxt-link to="/units/Villager">村民</nuxt-link
               >快，克制<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >與少量<nuxt-link to="/units/Archer">弓兵</nuxt-link
-              >。可研發<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+              >。可研發<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
               >使其<nuxt-link to="/elements/Hit_points">血量</nuxt-link
               >達65HP，更是無視一切。
             </li>

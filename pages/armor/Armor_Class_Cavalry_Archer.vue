@@ -102,7 +102,7 @@
         <h3>剋馬弓騎兵系的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對馬弓騎兵系的額外傷害，按造傷殺力排列。
+          以下單位擁有對馬弓騎兵系的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-12">

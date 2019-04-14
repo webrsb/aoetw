@@ -252,7 +252,7 @@
         <div class="n1">
           以下單位擁有對<nuxt-link to="/armor/Armor_Class_Archer"
             >射手</nuxt-link
-          >系的額外傷害，按造傷殺力排列。
+          >系的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">

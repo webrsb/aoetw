@@ -50,7 +50,7 @@
         <div class="n1">
           <p>
             普通科技部分加入七種：<nuxt-link to="/techs/Bloodlines"
-              >血統</nuxt-link
+              >品種</nuxt-link
             >、<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
             >、安息人戰術、商隊、草藥、<nuxt-link to="/techs/Heresy"
               >異端邪說</nuxt-link

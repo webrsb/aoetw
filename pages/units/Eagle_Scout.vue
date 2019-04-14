@@ -243,7 +243,7 @@
         <div class="n1">
           以下單位擁有對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
             >鷹勇士系</nuxt-link
-          >的額外傷害，按造傷殺力排列。一般來說，大多數的<nuxt-link
+          >的額外傷害，按造殺傷力排列。一般來說，大多數的<nuxt-link
             to="/armor/Armor_Class_Infantry"
             >步兵單位</nuxt-link
           >都有加成。

@@ -14,37 +14,39 @@
         <h3>概要</h3>
         <div class="hrn1"></div>
         <div class="row">
-          <div class="n1">
-            <p>
-              幾乎所有的軍事單位的攻擊都可以透過<nuxt-link
-                to="/building/Blacksmith"
-                >兵工廠</nuxt-link
-              >或<nuxt-link to="/building/University">學院</nuxt-link
-              >研究某些技術來增強，如果某一個單位或<nuxt-link to="/building"
-                >建築</nuxt-link
-              >透過技術而提高能力，那麼附加的攻擊就會顯示在單位的訊息欄裡面，例如<nuxt-link
-                to="/units/Archer_Units"
-                >弓兵</nuxt-link
-              >在研發<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
-              >後，攻擊將變成4+1
-            </p>
-            <p>
-              遊戲中攻擊會針對某些<nuxt-link to="/armor">防禦類型</nuxt-link
-              >而加成，大多數的時候對一個單位加成，但有時候會對多個單位，在這種情況下攻擊加成會累加，例如<nuxt-link
-                to="/units/Elite_Skirmisher"
-                >戰矛兵</nuxt-link
-              >對<nuxt-link to="/armor/Armor_Class_Archer">射手類</nuxt-link
-              >有+4額外攻擊對<nuxt-link to="/units/Cavalry_Archer"
-                >馬弓騎兵類</nuxt-link
-              >有+2額外攻擊，而擁有<nuxt-link to="/armor">遠程護甲</nuxt-link
-              >與馬弓<nuxt-link to="/armor/Armor_Class_Cavalry"
-                >騎兵防禦</nuxt-link
-              >的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >，被戰矛兵的加成就是4+2，共6點的加成，配上自己本身的攻擊3，就是一次9點的攻擊。然後遊戲裡面的<nuxt-link
-                to="/tree/vie"
-                >科技樹</nuxt-link
-              >並不會寫的這麼明確。
-            </p>
+          <div class="col-md-6">
+            <div class="n1">
+              <p>
+                幾乎所有的軍事單位的攻擊都可以透過<nuxt-link
+                  to="/building/Blacksmith"
+                  >兵工廠</nuxt-link
+                >或<nuxt-link to="/building/University">學院</nuxt-link
+                >研究某些技術來增強，如果某一個單位或<nuxt-link to="/building"
+                  >建築</nuxt-link
+                >透過技術而提高能力，那麼附加的攻擊就會顯示在單位的訊息欄裡面，例如<nuxt-link
+                  to="/units/Archer_Units"
+                  >弓兵</nuxt-link
+                >在研發<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
+                >後，攻擊將變成4+1
+              </p>
+              <p>
+                遊戲中攻擊會針對某些<nuxt-link to="/armor">防禦類型</nuxt-link
+                >而加成，大多數的時候對一個單位加成，但有時候會對多個單位，在這種情況下攻擊加成會累加，例如<nuxt-link
+                  to="/units/Elite_Skirmisher"
+                  >戰矛兵</nuxt-link
+                >對<nuxt-link to="/armor/Armor_Class_Archer">射手類</nuxt-link
+                >有+4額外攻擊對<nuxt-link to="/units/Cavalry_Archer"
+                  >馬弓騎兵類</nuxt-link
+                >有+2額外攻擊，而擁有<nuxt-link to="/armor">遠程護甲</nuxt-link
+                >與馬弓<nuxt-link to="/armor/Armor_Class_Cavalry"
+                  >騎兵防禦</nuxt-link
+                >的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+                >，被戰矛兵的加成就是4+2，共6點的加成，配上自己本身的攻擊3，就是一次9點的攻擊。然後遊戲裡面的<nuxt-link
+                  to="/tree/vie"
+                  >科技樹</nuxt-link
+                >並不會寫的這麼明確。
+              </p>
+            </div>
           </div>
         </div>
         以下列表：近戰與<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>傷害

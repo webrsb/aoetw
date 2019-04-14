@@ -74,16 +74,15 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">
-              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
-            </td>
+            <td class="tta1" style="width:10%">建造速率</td>
             <td class="tta4">
-              <p>
-                <img src="~assets/Faith.jpg" width="30" alt="" /><nuxt-link
-                  to="/techs/Treadmill_Crane"
-                  >滑輪起重機</nuxt-link
-                >(+20%工作效率)
-              </p>
+              <img
+                class="gg"
+                src="~assets/Treadmillcrane.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >(+20%建造效率)
             </td>
           </tr>
         </table>

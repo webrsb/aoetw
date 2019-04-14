@@ -97,7 +97,7 @@
             <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
             >是血量最多的矛象伕，雖然缺乏<nuxt-link to="/techs/Blast_Furnace"
               >鼓風爐</nuxt-link
-            >，但有<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+            >，但有<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
             >、防禦也全滿，可以充當肉盾來保護越南優秀的弓箭手。不過越南的矛象伕走的非常慢，因為沒有<nuxt-link
               to="/techs/Husbandry"
               >畜牧培育</nuxt-link
@@ -295,7 +295,7 @@
         <h3>剋矛象伕的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對矛象伕的額外傷害，按照傷殺力排列。
+          以下單位擁有對矛象伕的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">

@@ -236,7 +236,7 @@
         <div class="hrn1"></div>
         <div class="n1 bonuses">
           以下單位擁有對<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
-          >的額外傷害，按造傷殺力排列。
+          >的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">

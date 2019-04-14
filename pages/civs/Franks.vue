@@ -192,7 +192,7 @@
               法蘭克在最古老的版本<nuxt-link to="/games/aok">帝王世紀</nuxt-link
               >中相當的強悍，因為那時候沒有<nuxt-link to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >，也沒有血統，有攻防全滿的遊俠國家也只有<nuxt-link
+              >，也沒有品種，有攻防全滿的遊俠國家也只有<nuxt-link
                 to="/civs/Persians"
                 >波斯</nuxt-link
               >與<nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -201,7 +201,7 @@
                 >征服者入侵</nuxt-link
               >的版本帶來的兩個遊俠國與戟兵，還引入了新科技<nuxt-link
                 to="/techs/Bloodlines"
-                >血統</nuxt-link
+                >品種</nuxt-link
               >，讓全滿遊俠國也有180hp，讓法蘭克失色不少。
             </li>
           </ul>

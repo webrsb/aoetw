@@ -327,7 +327,7 @@
           <nuxt-link to="/civs/Japanese">日本</nuxt-link>
           <ul>
             <li>
-              現在有了<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+              現在有了<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
               >和<nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>。
             </li>
           </ul>
@@ -386,7 +386,7 @@
           <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
           <ul>
             <li>
-              <nuxt-link to="/units/Missionary">傳教士</nuxt-link>受到血統影響。
+              <nuxt-link to="/units/Missionary">傳教士</nuxt-link>受到品種影響。
             </li>
           </ul>
           <nuxt-link to="/civs/Teutons">條頓</nuxt-link>

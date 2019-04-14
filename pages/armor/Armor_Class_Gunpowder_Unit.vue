@@ -119,7 +119,7 @@
         <h3>剋火藥系的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對火藥系的額外傷害，按造傷殺力排列。
+          以下單位擁有對火藥系的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
             <ul>

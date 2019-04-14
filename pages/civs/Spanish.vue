@@ -192,7 +192,7 @@
           </h3>
           <ul>
             <li>
-              傳教士受<nuxt-link to="/techs/Bloodlines">血統</nuxt-link>影響。
+              傳教士受<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>影響。
             </li>
           </ul>
           <h3>

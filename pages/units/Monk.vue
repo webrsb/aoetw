@@ -328,7 +328,7 @@
         <h3>剋僧侶單位的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對僧侶單位的額外傷害，按照傷殺力排列。
+          以下單位擁有對僧侶單位的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
             <ul>

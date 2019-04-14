@@ -99,7 +99,7 @@
                 獨眼的塔里克這是世人給他的暱稱，他的出生到死亡都是非常不確定的。今日歷史學家認同他很可能是一個柏柏人，但是現存的歷史史料也有的認為他是<nuxt-link
                   to="/civs/Persians"
                   >波斯</nuxt-link
-                ><nuxt-link to="/techs/Bloodlines">血統</nuxt-link>。
+                >血統。
               </li>
             </ul>
           </div>

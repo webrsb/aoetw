@@ -76,7 +76,7 @@
         <div class="n1 bonuses">
           以下單位擁有對<nuxt-link to="/armor/Armor_Class_wall_and_gate"
             >城門和城牆</nuxt-link
-          >單位的額外傷害，按照傷殺力排列。
+          >單位的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div style="margin:12px 0px;"><strong>+900攻擊</strong></div>
             <ul>

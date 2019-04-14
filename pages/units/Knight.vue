@@ -214,7 +214,7 @@
         <h3>剋騎士的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對騎士的額外傷害，按照傷殺力排列。
+          以下單位擁有對騎士的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -562,7 +562,7 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li><nuxt-link to="/techs/Bloodlines">血統</nuxt-link>引進。</li>
+            <li><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>引進。</li>
             <li><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。</li>
           </ul>
           <h3>

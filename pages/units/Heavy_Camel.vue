@@ -262,7 +262,7 @@
         <h3>剋重裝駱駝騎兵的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對重裝駱駝騎兵的額外傷害，按照傷殺力排列。
+          以下單位擁有對重裝駱駝騎兵的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -588,7 +588,7 @@
                 >船艦護甲</nuxt-link
               >，這讓重裝駱駝騎兵對他們本身也有攻擊加成。
             </li>
-            <li><nuxt-link to="/techs/Bloodlines">血統</nuxt-link>引進。</li>
+            <li><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>引進。</li>
             <li><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。</li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>:引入<nuxt-link

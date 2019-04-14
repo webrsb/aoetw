@@ -51,7 +51,7 @@
         <h3>剋鷹勇士的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對鷹勇士系的額外傷害，按造傷殺力排列。一般來說，大多數的<nuxt-link
+          以下單位擁有對鷹勇士系的額外傷害，按造殺傷力排列。一般來說，大多數的<nuxt-link
             to="/armor/Armor_Class_Infantry"
             >步兵單位</nuxt-link
           >都有加成。

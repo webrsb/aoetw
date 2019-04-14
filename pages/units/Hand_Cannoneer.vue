@@ -244,7 +244,7 @@
         <h3>剋火槍兵的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對火槍兵的額外傷害，按造傷殺力排列。
+          以下單位擁有對火槍兵的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">

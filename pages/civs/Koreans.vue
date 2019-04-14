@@ -69,7 +69,7 @@
             >都非常的弱，缺乏關鍵的<nuxt-link to="/techs/Blast_Furnace"
               >鼓風爐</nuxt-link
             >、<nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
-            >與<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+            >與<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
             >。然而<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
             >部隊卻擁有完整的升級，包含<nuxt-link to="/units/Hand_Cannoneer"
               >火槍兵</nuxt-link
@@ -218,9 +218,9 @@
           <ul>
             <li>韓國是唯一有兩個特殊單位的東亞文明。</li>
             <li>
-              韓國是唯一沒有血統的東亞文明(日本在<nuxt-link to="/games/aof"
+              韓國是唯一沒有品種的東亞文明(日本在<nuxt-link to="/games/aof"
                 >失落的帝國</nuxt-link
-              >後有了血統)。
+              >後有了品種)。
             </li>
             <li>
               韓國是唯一有火砲的東亞文明(雖然實際上<nuxt-link to="/civs/Chinese"

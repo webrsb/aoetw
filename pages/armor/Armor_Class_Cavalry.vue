@@ -261,7 +261,7 @@
         <div class="n1 bonuses">
           以下單位擁有對<nuxt-link to="/armor/Armor_Class_Cavalry"
             >騎兵系</nuxt-link
-          >的額外傷害，按照傷殺力排列。這裡也列出攻擊加成0的單位是因為<nuxt-link
+          >的額外傷害，按照殺傷力排列。這裡也列出攻擊加成0的單位是因為<nuxt-link
             to="/units/Battle_Elephant"
             >矛象伕</nuxt-link
           >的騎兵護甲是-2的關係，0-(-2)=2大於0還是會有攻擊加成。
