@@ -15,8 +15,8 @@
               <nuxt-link to="/building/Barracks">兵營</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>·
-              <nuxt-link to="/techs/Squires">護衛</nuxt-link>·
+              <nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>•
+              <nuxt-link to="/techs/Squires">護衛</nuxt-link>•
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>
             </td>
           </tr>
@@ -25,7 +25,7 @@
               <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>·
+              <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>•
               <nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
             </td>
           </tr>
@@ -34,7 +34,7 @@
               <nuxt-link to="/building/Stable">馬廄</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>·
+              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>•
               <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>
             </td>
           </tr>
@@ -43,10 +43,10 @@
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Loom">織布技術</nuxt-link>·
-              <nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>·
-              <nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>·
-              <nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>·
+              <nuxt-link to="/techs/Loom">織布技術</nuxt-link>•
+              <nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>•
+              <nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>•
+              <nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>•
               <nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>
             </td>
           </tr>
@@ -55,15 +55,15 @@
               <nuxt-link to="/building/Monastery">修道院</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>·
-              <nuxt-link to="/techs/Atonement">贖罪</nuxt-link>·
+              <nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>•
+              <nuxt-link to="/techs/Atonement">贖罪</nuxt-link>•
               <nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link><br />
-              <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>·
-              <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>·
+              <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>•
+              <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>•
               <nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link><br />
-              <nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>·
-              <nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>·
-              <nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link>·
+              <nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>•
+              <nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>•
+              <nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link>•
               <nuxt-link to="/techs/Theocracy">神權統治</nuxt-link>
             </td>
           </tr>
@@ -72,10 +72,10 @@
               <nuxt-link to="/building/Market">市集</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Cartography">製圖法</nuxt-link>·
-              <nuxt-link to="/techs/Caravan">大商隊</nuxt-link>·
-              <nuxt-link to="/techs/Coinage">鑄幣術</nuxt-link>·
-              <nuxt-link to="/techs/Banking">銀行制度</nuxt-link>·
+              <nuxt-link to="/techs/Cartography">製圖法</nuxt-link>•
+              <nuxt-link to="/techs/Caravan">大商隊</nuxt-link>•
+              <nuxt-link to="/techs/Coinage">鑄幣術</nuxt-link>•
+              <nuxt-link to="/techs/Banking">銀行制度</nuxt-link>•
               <nuxt-link to="/techs/Guilds">行會制度</nuxt-link>
             </td>
           </tr>
@@ -84,9 +84,9 @@
               <nuxt-link to="/building/Castle">城堡</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Spies">間諜/叛徒</nuxt-link>·
-              <nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>·
-              <nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>·
+              <nuxt-link to="/techs/Spies">間諜/叛徒</nuxt-link>•
+              <nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>•
+              <nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>•
               <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
             </td>
           </tr>
@@ -95,9 +95,9 @@
               <nuxt-link to="/building/Dock">碼頭</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>·
-              <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>·
-              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>·
+              <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>•
+              <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>•
+              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>•
               <nuxt-link to="/techs/Gillnets">流刺網</nuxt-link>
             </td>
           </tr>
@@ -106,18 +106,18 @@
               <nuxt-link to="/building/University">學院</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>·
-              <nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>·
-              <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>·
-              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>·
-              <nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link>·
+              <nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>•
+              <nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>•
+              <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>•
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>•
+              <nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link>•
               <nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link><br />
-              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>·
-              <nuxt-link to="/techs/Architecture">建築學</nuxt-link>·
-              <nuxt-link to="/techs/Chemistry">化學</nuxt-link>·
-              <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>·
-              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>·
-              <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>·
+              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>•
+              <nuxt-link to="/techs/Architecture">建築學</nuxt-link>•
+              <nuxt-link to="/techs/Chemistry">化學</nuxt-link>•
+              <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>•
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>•
+              <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>•
               <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
             </td>
           </tr>
@@ -126,23 +126,23 @@
               <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link>·
-              <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link>·
+              <nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link>•
+              <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link>•
               <nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>
               <br />
-              <nuxt-link to="/techs/Fletching">箭羽</nuxt-link>·
-              <nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>·
+              <nuxt-link to="/techs/Fletching">箭羽</nuxt-link>•
+              <nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>•
               <nuxt-link to="/techs/Bracer">護腕</nuxt-link>
               <br />
-              <nuxt-link to="/techs/Forging">鍛造</nuxt-link>·
-              <nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>·
+              <nuxt-link to="/techs/Forging">鍛造</nuxt-link>•
+              <nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>•
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link><br />
-              <nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link>·
-              <nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link>·
+              <nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link>•
+              <nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link>•
               <nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link>
               <br />
-              <nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link>·
-              <nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>·
+              <nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link>•
+              <nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>•
               <nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link>
             </td>
           </tr>
@@ -151,9 +151,9 @@
               <nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link>·
+              <nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link>•
               <nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link><br />
-              <nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>·
+              <nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>•
               <nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>
             </td>
           </tr>
@@ -162,8 +162,8 @@
               <nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>·
-              <nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link>·
+              <nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>•
+              <nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link>•
               <nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link>
             </td>
           </tr>
@@ -172,8 +172,8 @@
               <nuxt-link to="/building/Mill">磨坊</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>·
-              <nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>·
+              <nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>•
+              <nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>•
               <nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>
             </td>
           </tr>
@@ -189,13 +189,17 @@
                   <nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link>
                   (<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>)<br />
                   <nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>/
-                  <nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link>
+                  <nuxt-link to="/techs/Maghrabi_Camels"
+                    >馬格拉比駱駝</nuxt-link
+                  >
                   (<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>)<br />
                   <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>/
                   <nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>
                   (<nuxt-link to="/civs/Britons">不列顛</nuxt-link>)<br />
                   <nuxt-link to="/techs/Howdah">象轎</nuxt-link>/
-                  <nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link>
+                  <nuxt-link to="/techs/Manipur_Cavalry"
+                    >曼尼普爾騎兵</nuxt-link
+                  >
                   (<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>)<br />
                   <nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link>/
                   <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>

@@ -333,7 +333,7 @@
           >卡帕多細亞、西迪亞、格雷西亞、拜占庭軍隊
         </li>
         <li>
-          <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>:希臘村莊
+          <nuxt-link to="/batt/Lepanto_1571">勒班陀（1571）</nuxt-link>:希臘村莊
         </li>
       </ul>
       <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>

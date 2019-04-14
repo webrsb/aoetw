@@ -7,9 +7,7 @@
           >@cheap</a
         >
       </div>
-      <div v-if="upTime !== ''">
-        此頁面最後編輯於 {{ upTime }}
-      </div>
+      <div v-if="upTime !== ''">此頁面最後編輯於 {{ upTime }}</div>
       <div>
         <nuxt-link v-if="page" :to="{ path: '/editor', query: { page } }"
           >協助改善此頁面</nuxt-link
@@ -47,7 +45,7 @@ export default {
       ]
     }
   },
-  mounted () {
+  mounted() {
     this.updateTime()
   },
   computed: {
@@ -65,20 +63,21 @@ export default {
     }
   },
   methods: {
-    updateTime () {
+    updateTime() {
       var that = this
-      axios.get(`http://aoetw.com/getUpTime.php?path=${this.page}`)
-      .then((res) => {
-        if (res.data === '') {
-          that.upTime = ''
-        } else {
-          that.upTime = res.data.replace('T', ' ').replace('Z', '')
-        }
-      })
+      axios
+        .get(`http://aoetw.com/getUpTime.php?path=${this.page}`)
+        .then(res => {
+          if (res.data === '') {
+            that.upTime = ''
+          } else {
+            that.upTime = res.data.replace('T', ' ').replace('Z', '')
+          }
+        })
     }
   },
   watch: {
-    '$route'(val, oldVal) {
+    $route(val, oldVal) {
       this.upTime = ''
       this.updateTime()
     }

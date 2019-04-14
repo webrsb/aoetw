@@ -962,7 +962,7 @@
             <tr>
               <td colspan="4" style="border: 1px solid #FFFFFF;">
                 <p align="left">
-                  部份圖片及遊戲資訊來源：<a
+                  部分圖片及遊戲資訊來源：<a
                     href="https://ageofempires.fandom.com/wiki/Food"
                     target="_blank"
                     >Aoe英文wiki</a

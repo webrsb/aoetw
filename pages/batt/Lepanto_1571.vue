@@ -121,7 +121,7 @@
           <div class="n1">
             <ul>
               <li>
-                不要用你所有的村民去建造世界奇觀，你需要一部份村民收集資源，r建造<nuxt-link
+                不要用你所有的村民去建造世界奇觀，你需要一部分村民收集資源，建造<nuxt-link
                   to="/building/Watch_Tower"
                   >箭塔</nuxt-link
                 >和船。

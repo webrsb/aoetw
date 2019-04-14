@@ -12,6 +12,11 @@
               </td>
             </tr>
             <tr>
+              <td class="unit4" style="text-align: center;">
+                <nuxt-link to="/civs/bestciv">文明強弱分析</nuxt-link>
+              </td>
+            </tr>
+            <tr>
               <td class="unit" colspan="2" style="background-color:#3a73c7;">
                 <div class="unititle2">
                   <nuxt-link to="/games/aok"
@@ -26,33 +31,33 @@
             <tr>
               <td class="unit3" style="width: 15%;">西歐</td>
               <td class="unit4">
-                <nuxt-link to="/civs/Britons">不列顛</nuxt-link>·
-                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>·
+                <nuxt-link to="/civs/Britons">不列顛</nuxt-link>•
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>•
                 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;">中歐</td>
               <td class="unit4">
-                <nuxt-link to="/civs/Goths">哥德</nuxt-link>·
-                <nuxt-link to="/civs/Teutons">條頓</nuxt-link>·
+                <nuxt-link to="/civs/Goths">哥德</nuxt-link>•
+                <nuxt-link to="/civs/Teutons">條頓</nuxt-link>•
                 <nuxt-link to="/civs/Vikings">維京</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;">中東</td>
               <td class="unit4">
-                <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>·
-                <nuxt-link to="/civs/Persians">波斯</nuxt-link>·
-                <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>·
+                <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>•
+                <nuxt-link to="/civs/Persians">波斯</nuxt-link>•
+                <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>•
                 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;">東亞</td>
               <td class="unit4">
-                <nuxt-link to="/civs/Chinese">中國</nuxt-link>·
-                <nuxt-link to="/civs/Japanese">日本</nuxt-link>·
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link>•
+                <nuxt-link to="/civs/Japanese">日本</nuxt-link>•
                 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
               </td>
             </tr>
@@ -81,7 +86,7 @@
             <tr>
               <td class="unit3" style="width: 15%;">美洲</td>
               <td class="unit4">
-                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>·
+                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>•
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
               </td>
             </tr>
@@ -106,7 +111,7 @@
             <tr>
               <td class="unit3" style="width: 15%;">東歐</td>
               <td class="unit4">
-                <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>·
+                <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>•
                 <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
               </td>
             </tr>
@@ -179,9 +184,9 @@
             <tr>
               <td class="unit3" style="width: 15%;">東南亞</td>
               <td class="unit4">
-                <nuxt-link to="/civs/Malay">馬來</nuxt-link>·
-                <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>·
-                <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>·
+                <nuxt-link to="/civs/Malay">馬來</nuxt-link>•
+                <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>•
+                <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>•
                 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>
               </td>
             </tr>

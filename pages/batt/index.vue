@@ -7,7 +7,11 @@
           <div class="col-md-12">
             <h5><b>遊戲中有5個版本、共24關主戰役劇情。</b></h5>
             <div class="hrn1"></div>
-            <div class="toc" :class="{ 'shadow-left': hasLeftShadow }" style="float: left;">
+            <div
+              class="toc"
+              :class="{ 'shadow-left': hasLeftShadow }"
+              style="float: left;"
+            >
               <p>
                 <nuxt-link to="/games/aok">帝王世紀</nuxt-link>戰役<span
                   class="arror"
@@ -1704,14 +1708,13 @@
   </div>
 </template>
 <script>
-
 const getScrollPosition = (el = window) => ({
   x: el.pageXOffset !== undefined ? el.pageXOffset : el.scrollLeft,
   y: el.pageYOffset !== undefined ? el.pageYOffset : el.scrollTop
-});
+})
 
 export default {
-  data () {
+  data() {
     return {
       hasLeftShadow: false
     }
@@ -1721,15 +1724,15 @@ export default {
       title: '戰役 - Aoetw'
     }
   },
-  mounted () {
+  mounted() {
     this.setShadow()
-    this.$refs.shadow.addEventListener("scroll", this.setShadow)
+    this.$refs.shadow.addEventListener('scroll', this.setShadow)
   },
-  beforeDestroy () {
-    this.$refs.shadow.removeEventListener("scroll", this.setShadow)
+  beforeDestroy() {
+    this.$refs.shadow.removeEventListener('scroll', this.setShadow)
   },
   methods: {
-    setShadow () {
+    setShadow() {
       var scrollPos = getScrollPosition(this.$refs.shadow)
 
       if (scrollPos.x <= 0) {

@@ -23,8 +23,9 @@
               to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link
             >，會受<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            ><nuxt-link to="/techs">科技</nuxt-link>加成但不受其他加成的影響
-            。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >加成但不受其他加成的影響。由於他屬於<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link

@@ -286,8 +286,8 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：石牆建築速度快33%
-              。
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              >：石牆建築速度快33%。
             </li>
           </ul>
         </div>

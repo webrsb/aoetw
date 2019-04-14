@@ -42,10 +42,7 @@
               >箭塔</nuxt-link
             >時，火砲戰船身邊應該要有<nuxt-link to="/units/War_Galley"
               >弩砲戰船</nuxt-link
-            >和<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>做<nuxt-link
-              to="/techs/Squires"
-              >護衛</nuxt-link
-            >保護。
+            >和<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>做護衛保護。
           </p>
           <p>
             一般來說，精銳火砲戰船主要用來清理敵方海岸線的建築物，偶爾騷擾範圍內的地面單位。他們不應該用來對付敵方的船隻，而且如果海上威脅沒有完全消失的話，他們很容易就會被消滅。

@@ -1009,7 +1009,7 @@
                 >瓦倫西亞之主</nuxt-link
               >、蒙特蘇馬4-<nuxt-link to="/batt/La_Noche_Triste"
                 >悲傷之夜</nuxt-link
-              >、征服者的戰役-勒班陀(1571)
+              >、征服者的戰役-勒班陀（1571）
             </p>
             <br />
             <br />

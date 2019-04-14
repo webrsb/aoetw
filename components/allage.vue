@@ -15,19 +15,19 @@
                 style="margin-right: 5px;"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>·
+              /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>•
               <img
                 src="~assets/Feudal-age-reseach.jpg"
                 style="margin-right: 5px;"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>·
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>•
               <img
                 src="~assets/Castle-age-reseach.jpg"
                 style="margin-right: 5px;"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>·
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>•
               <img
                 style="margin-right: 5px;"
                 src="~assets/Imperial-age-research.jpg"

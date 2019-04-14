@@ -154,8 +154,8 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：城堡便宜15％。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：建築速度提高了33％
-              。
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              >：建築速度提高了33％。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link

@@ -158,10 +158,9 @@
                 >），如此一來既可以對復帕度亞的騎兵、<nuxt-link
                   to="/units/Siege_Weapons"
                   >攻城武器</nuxt-link
-                >，也能夠處理猛獅亨利的條頓武士。在你的士兵的<nuxt-link
-                  to="/techs/Squires"
-                  >護衛</nuxt-link
-                >下，運用<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+                >，也能夠處理猛獅亨利的條頓武士。在你的士兵的護衛下，運用<nuxt-link
+                  to="/units/Trebuchet"
+                  >巨型投石機</nuxt-link
                 >摧毀帕度亞的城牆，搭配城堡與軍隊，你應該很輕鬆就能消耗敵人的資源，摧毀他們的城鎮後，蓋好<nuxt-link
                   to="/building/Wonder"
                   >世界奇觀</nuxt-link

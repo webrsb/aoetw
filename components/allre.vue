@@ -10,9 +10,9 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <nuxt-link to="/resource/Food">食物</nuxt-link>·
-              <nuxt-link to="/resource/Wood">木材</nuxt-link>·
-              <nuxt-link to="/resource/Gold">金礦</nuxt-link>·
+              <nuxt-link to="/resource/Food">食物</nuxt-link>•
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>•
+              <nuxt-link to="/resource/Gold">金礦</nuxt-link>•
               <nuxt-link to="/resource/Stone">石礦</nuxt-link>
             </td>
           </tr>

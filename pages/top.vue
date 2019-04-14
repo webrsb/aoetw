@@ -1951,8 +1951,8 @@ export default {
 }
 </script>
 <style scoped>
-  h4 {
-    white-space:nowrap;
-    overflow: hidden;
-  }
+h4 {
+  white-space: nowrap;
+  overflow: hidden;
+}
 </style>

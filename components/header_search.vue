@@ -83,7 +83,6 @@ input#algolia {
 }
 
 input#algolia::placeholder {
-    color: #828282;
+  color: #828282;
 }
-
 </style>

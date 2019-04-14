@@ -19,8 +19,9 @@
               to="/units/Long_Swordsman"
               >長劍兵</nuxt-link
             >，會受<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-            ><nuxt-link to="/techs">科技</nuxt-link>和其他加成的影響
-            。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >和其他加成的影響。由於他屬於<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
