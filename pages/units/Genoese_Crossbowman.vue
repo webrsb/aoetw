@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>熱那亞弩手</b>是<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-            >資料片中<nuxt-link to="/civs/Italians">義大利</nuxt-link
+            <b>熱那亞弩手</b>是《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》資料片中<nuxt-link to="/civs/Italians">義大利</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link

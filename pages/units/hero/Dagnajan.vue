@@ -10,8 +10,8 @@
           <p>
             <b>達納罕</b>是個<nuxt-link to="/units/Archer_Units"
               >馬弓騎兵英雄</nuxt-link
-            >，只在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中的地圖編輯器和<nuxt-link to="/batt">戰役</nuxt-link
+            >，只在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中的地圖編輯器和<nuxt-link to="/batt">戰役</nuxt-link
             >"摔落的皇冠"裡<nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link
             >的陣營中出現，達納罕的名字是以建立在九世紀中葉的同名埃塞俄比亞王國的<nuxt-link
               to="/civs/Ethiopians"

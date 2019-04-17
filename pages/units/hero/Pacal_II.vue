@@ -10,8 +10,8 @@
           <p>
             <b>巴加爾二世</b>是個<nuxt-link to="/units/Archer_Units"
               >弓兵英雄</nuxt-link
-            >，只在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中的地圖編輯器出現，巴加爾二世的名字是以K'inich
+            >，只在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中的地圖編輯器出現，巴加爾二世的名字是以K'inich
             Janaab'Pakal所命名，他在位期間<nuxt-link to="/civs/Mayans"
               >馬雅</nuxt-link
             >帝國擴積極張實力，並監督執行在首都的大型建築計畫，後來留下的建築成為了中美洲的藝術典範。

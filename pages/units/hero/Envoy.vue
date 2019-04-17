@@ -10,8 +10,8 @@
           <p>
             <b>使者</b>是個<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
-            >，只在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片之後的地圖編輯器中出現。
+            >，只在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片之後的地圖編輯器中出現。
           </p>
           <p>
             在遊戲中使者的外型類似<nuxt-link to="/units/Light_Cavalry"

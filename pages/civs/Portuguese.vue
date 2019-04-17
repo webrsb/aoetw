@@ -151,7 +151,7 @@
                 ><nuxt-link to="/elements/Team_Bonus"
                   >團隊加分</nuxt-link
                 ></strong
-              >:黑暗時代起即免費擁有「製圖法」
+              >:黑暗時代起即免費擁有「製圖學」
             </li>
           </ul>
         </div>

@@ -9,8 +9,8 @@
         <div class="n1">
           <p>
             <b>龜甲船</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
-            >在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-            >資料片中的第二個<nuxt-link to="/units/Unique_Unit"
+            >在《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+            >》資料片中的第二個<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >，在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link

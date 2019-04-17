@@ -10,8 +10,8 @@
           <p>
             <b>帕查庫特克</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，只在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中的地圖編輯器出現，帕查庫特克的命字是根據建立<nuxt-link
+            >，只在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中的地圖編輯器出現，帕查庫特克的命字是根據建立<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
             >帝國的統治者作為模板，該名統治者開創了一個新的時代，將<nuxt-link

@@ -10,7 +10,8 @@
           <p>
             <b>闍耶羅跋摩</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，在"王者崛起"資料片的<nuxt-link to="/batt">戰役</nuxt-link
+            >，在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》資料片的<nuxt-link to="/batt">戰役</nuxt-link
             ><nuxt-link to="/batt/Quelling_the_Rebellion">席捲入荒</nuxt-link
             >中作為反抗<nuxt-link to="/units/hero/Suryavarman_I"
               >蘇利耶跋摩一世</nuxt-link

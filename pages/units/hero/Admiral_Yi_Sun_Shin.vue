@@ -19,7 +19,7 @@
             >，為李舜臣戰死的戰爭。
           </p>
         </div>
-        <h3><strong>介紹</strong></h3>
+        <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>

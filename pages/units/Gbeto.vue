@@ -22,7 +22,7 @@
           </p>
           <p><em>影片介紹</em></p>
           <iframe
-            width="560"
+            width="100%"
             height="315"
             src="https://www.youtube.com/embed/O6tsFsGSC1E"
             frameborder="0"

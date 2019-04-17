@@ -60,8 +60,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1"></div>
-                玩家1：
+                <div class="p1">玩家1</div>
               </td>
               <td class="tc6" colspan="4">主角（藍色）葡萄牙</td>
             </tr>
@@ -70,16 +69,14 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p2"></div>
-                玩家2：
+                <div class="p2">玩家2</div>
               </td>
               <td class="tc6" width="35%">
                 <nuxt-link to="/units/hero/King_Alfonso">阿方索國王</nuxt-link
                 >大軍（紅色）葡萄牙
               </td>
               <td class="tc6">
-                <div class="p3"></div>
-                玩家3：
+                <div class="p3">玩家3</div>
               </td>
               <td class="tc6">
                 托洛城（綠色）<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
@@ -87,20 +84,17 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p6"></div>
-                玩家4：
+                <div class="p6">玩家4</div>
               </td>
               <td class="tc6" width="35%">胡安勢力（紫色）西班牙</td>
               <td class="tc6">
-                <div class="p5"></div>
-                玩家5：
+                <div class="p5">玩家5</div>
               </td>
               <td class="tc6">西班牙村莊（水藍色）西班牙</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p7"></div>
-                玩家8：
+                <div class="p7">玩家8</div>
               </td>
               <td class="tc6" width="35%">伊莎貝拉勢力（灰色）西班牙</td>
             </tr>
@@ -109,13 +103,11 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p4"></div>
-                玩家6：
+                <div class="p4">玩家6</div>
               </td>
               <td class="tc6" width="35%">阿拉貢大軍（黃色）西班牙</td>
               <td class="tc6" width="15%">
-                <div class="p4"></div>
-                玩家7：
+                <div class="p4">玩家7</div>
               </td>
               <td class="tc6" width="35%">阿拉貢大軍（黃色）西班牙</td>
             </tr>

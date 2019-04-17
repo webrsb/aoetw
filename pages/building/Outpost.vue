@@ -46,7 +46,7 @@
         <div class="n1"></div>
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="tta1" colspan="2" style="text-align: center;">
+            <td class="tta" colspan="2" style="text-align: center;">
               <div class="unititle">劣勢與優勢</div>
             </td>
           </tr>
@@ -59,7 +59,7 @@
             <td class="tta4">全部單位。</td>
           </tr>
           <tr>
-            <td class="tta1" colspan="2" style="text-align: center;">
+            <td class="tta" colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>

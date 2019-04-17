@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>庫奧赫特莫克</strong
-            >(生卒年約1495-1525年)是《世紀帝國II：失落的帝國》中登場的一名<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵</nuxt-link
+            <strong>庫奧赫特莫克</strong>(生卒年約1495-1525年)是《<nuxt-link
+              to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》中登場的一名<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link>，他的外型是<nuxt-link
               to="/units/Elite_Eagle_Warrior"
               >精銳鷹勇士</nuxt-link

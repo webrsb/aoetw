@@ -10,8 +10,8 @@
           <p>
             <b>穆斯塔法帕夏</b>是個<nuxt-link to="/units/Gunpowder_Unit"
               >火藥單位英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片之後版本的地圖編輯器出現，穆斯塔法帕夏的名字是以同名的<nuxt-link
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片之後版本的地圖編輯器出現，穆斯塔法帕夏的名字是以同名的<nuxt-link
               to="/civs/Turks"
               >土耳其</nuxt-link
             >軍事領導人所命名，該名領導者是鄂圖曼帝國最後試圖擴張到中歐和東歐的中心人物。

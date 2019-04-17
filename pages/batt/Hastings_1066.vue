@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>哈斯汀斯（1066）</strong></h1>
+        <h1>哈斯汀斯（1066）</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">

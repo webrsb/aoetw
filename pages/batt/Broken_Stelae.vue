@@ -29,8 +29,7 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p4"></div>
-              玩家1：
+              <div class="p4">玩家1</div>
             </td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>（黃色）
@@ -41,13 +40,11 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p7"></div>
-              玩家2：
+              <div class="p7">玩家2</div>
             </td>
             <td class="tc6">部落人(灰色)衣索比亞</td>
             <td class="tc6">
-              <div class="p4"></div>
-              玩家3：
+              <div class="p4">玩家3</div>
             </td>
             <td class="tc6">反叛軍(黃色)衣索比亞</td>
           </tr>
@@ -57,13 +54,11 @@
           <tr></tr>
           <tr>
             <td class="tc6">
-              <div class="p2"></div>
-              玩家4：
+              <div class="p2">玩家4</div>
             </td>
             <td class="tc6">極大汗(紅色)衣索比亞</td>
             <td class="tc6">
-              <div class="p6"></div>
-              玩家5：
+              <div class="p6">玩家5</div>
             </td>
             <td class="tc6">極大汗追隨者(紫色)衣索比亞</td>
           </tr>
@@ -116,7 +111,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">毀壞的石碑</div>
+              <div class="unititle2">毀壞的石碑</div>
             </td>
           </tr>
           <tr>
@@ -179,15 +174,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡，裕暉協助編輯</div>
-        <div class="row">
-          <div class="col-md-12">
-            <div class="wiki" style="margin-top: 5px;">
-              <div style="float: left;">
-                <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
       <div class="col-md-12">
         <h3>攻略</h3>

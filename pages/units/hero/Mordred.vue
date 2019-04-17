@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>莫德雷德</strong></h1>
+        <h1>莫德雷德</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -13,7 +13,7 @@
             >與同母異父的姐姐莫歌絲亂倫生下的兒子，名義上是亞瑟的姪子，大多數有關莫德雷德的描述都是關於劍欄之戰，也就是莫德雷德背叛亞瑟王的故事。
           </p>
         </div>
-        <h3><strong>介紹</strong></h3>
+        <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
@@ -53,7 +53,7 @@
         <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1"><p>無</p></div>
-        <h3><strong>更多數據</strong></h3>
+        <h3>更多數據</h3>
         <div class="hrn1"></div>
         <div class="n1"></div>
         這裡只討論<nuxt-link to="/civs/Britons">不列顛</nuxt-link
@@ -91,7 +91,7 @@
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle2">升級</div>
+              <div class="unititle">升級</div>
             </td>
           </tr>
           <tr>

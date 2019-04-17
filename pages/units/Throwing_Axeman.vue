@@ -527,7 +527,7 @@
             <em>擲斧兵對<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link></em>
           </p>
           <iframe
-            width="560"
+            width="100%"
             height="315"
             src="https://www.youtube.com/embed/O6tsFsGSC1E"
             frameborder="0"

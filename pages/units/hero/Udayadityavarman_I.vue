@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>優陀耶迭多跋摩一世</b
-            >在"帝王世紀"資料片中只能在地圖編輯器裡找的到。
+            <b>優陀耶迭多跋摩一世</b>在《<nuxt-link to="/games/aok"
+              >世紀帝國II：帝王世紀</nuxt-link
+            >》資料片中只能在地圖編輯器裡找的到。
           </p>
           <p>
             優陀耶迭多跋摩二世（Udayadityavarman II，又譯烏達雅地耶跋摩二世）

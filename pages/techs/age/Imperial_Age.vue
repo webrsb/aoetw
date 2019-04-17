@@ -32,7 +32,7 @@
         <h3>可建造建築</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <strong>民用建築</strong>
+          <strong>經濟建築</strong>
           <ul>
             <li>
               <img

@@ -10,7 +10,8 @@
           <p>
             <b>黎來</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，在"王者崛起"資料片的"至靈山魂"戰役中出現，在該遊戲中有兩個<nuxt-link
+            >，在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》資料片的"至靈山魂"戰役中出現，在該遊戲中有兩個<nuxt-link
               to="/units/hero"
               >英雄</nuxt-link
             >的名字都叫黎來，外貌分別是<nuxt-link to="/units/Champion"

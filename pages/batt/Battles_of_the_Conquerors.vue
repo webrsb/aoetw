@@ -29,8 +29,8 @@
             >是世紀帝國II中包含的一系列不相干的8個單關戰役場景。
           </li>
           <li>
-            為<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-            >版本戰役第4章，這些關卡都取自中世紀人類歷史上著名的重大戰役。
+            為《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+            >》版本戰役第4章，這些關卡都取自中世紀人類歷史上著名的重大戰役。
           </li>
           <br />
 
@@ -128,13 +128,13 @@
                   </li>
                 </ul>
                 <li>
-                  <nuxt-link to="/civs/Koreans">韓國</nuxt-link>戰役--<nuxt-link
+                  <nuxt-link to="/civs/Koreans">韓國</nuxt-link>戰役-<nuxt-link
                     to="/batt/Kyoto_1582"
                     >(洛陽點)</nuxt-link
                   >，英語原文Noryang Point，為翻譯錯誤，正確為露梁海戰。
                 </li>
                 <li>
-                  在<nuxt-link to="/civs/Japanese">世紀帝國II：日本</nuxt-link
+                  在世紀帝國II：<nuxt-link to="/civs/Japanese">日本</nuxt-link
                   >、韓國（沒有獨立篇章），<nuxt-link to="/civs/Chinese"
                     >中國</nuxt-link
                   >戰役直到2014年6月官方3.6更新<nuxt-link to="/games/aof"

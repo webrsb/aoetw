@@ -9,7 +9,8 @@
         <div class="n1">
           <p>
             <b>賈亞納加拉</b>是個<nuxt-link to="/units/hero">英雄</nuxt-link
-            >，只在"王者崛起"資料片中的地圖編輯器出現，在遊戲中的外貌是<nuxt-link
+            >，只在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》資料片中的地圖編輯器出現，在遊戲中的外貌是<nuxt-link
               to="/units/King"
               >國王</nuxt-link
             >。賈亞納加拉不能被<nuxt-link to="/elements/Conversion"

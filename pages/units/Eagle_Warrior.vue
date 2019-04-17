@@ -14,8 +14,9 @@
             >、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >。 到了世紀帝國II<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-            >，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >。 到了《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >便可以生產<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
             >，到了<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >可以升為 <b>鷹勇士</b> 。

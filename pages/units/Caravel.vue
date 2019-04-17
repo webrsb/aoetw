@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>卡拉維爾戰船</b>是<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >資料片中<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+            <b>卡拉維爾戰船</b>是《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》資料片中<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
             >的第二個<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >。在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >時可以在<nuxt-link to="/building/Dock">碼頭</nuxt-link

@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            在“<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
-            >”中， “
+            在《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >》中，
             <b>自走遺跡</b
-            >”是一個單位。它僅在地圖編輯器中可用。與普通的文物不同，它們不必由<nuxt-link
+            >是一個單位。它僅在地圖編輯器中可用。與普通的文物不同，它們不必由<nuxt-link
               to="/units/Monk"
               >僧侶</nuxt-link
             >拾起，但可以自行移動。任何玩家都可以獲得該物品車，類似於世紀帝國I，神器或紀念碑。它不能存放在<nuxt-link

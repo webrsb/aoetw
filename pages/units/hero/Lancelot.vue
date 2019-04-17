@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>蘭斯洛特</strong></h1>
+        <h1>蘭斯洛特</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -14,7 +14,7 @@
             >武藝最強者，曾用一枝樹枝打敗費洛特。傳說是在湖中被養大的，所以又名湖上騎士。蘭斯洛特為亞瑟王的勝利提供了莫大的幫助，但是最後亞瑟王的敗亡也是起因於他。作為背叛者的事蹟非常有名，最後並沒有得到亞瑟王的制裁，而是成為一名修道士。
           </p>
         </div>
-        <h3><strong>介紹</strong></h3>
+        <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
@@ -53,7 +53,7 @@
         <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1"><p>無</p></div>
-        <h3><strong>更多數據</strong></h3>
+        <h3>更多數據</h3>
         <div class="hrn1"></div>
         <div class="n1"></div>
         這裡只討論法蘭克(蘭斯洛特出身於此)
@@ -90,7 +90,7 @@
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle2">升級</div>
+              <div class="unititle">升級</div>
             </td>
           </tr>
           <tr>

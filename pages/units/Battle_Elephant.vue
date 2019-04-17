@@ -32,7 +32,7 @@
           </p>
           <p><em>矛象伕影片介紹</em></p>
           <iframe
-            width="560"
+            width="100%"
             height="315"
             src="https://www.youtube.com/embed/rFOxQh-Rl7I"
             frameborder="0"

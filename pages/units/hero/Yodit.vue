@@ -10,8 +10,8 @@
           <p>
             <b>優娣忒</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，只在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中的地圖編輯器出現，<nuxt-link to="/batt">戰役</nuxt-link
+            >，只在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中的地圖編輯器出現，<nuxt-link to="/batt">戰役</nuxt-link
             >中則會以<nuxt-link to="/units/hero/Princess_Yodit"
               >優娣忒公主</nuxt-link
             >的身分出現在"流亡之路"。

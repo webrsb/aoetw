@@ -37,7 +37,7 @@
         <h3>可建造建築</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <strong>民用<nuxt-link to="/building">建築</nuxt-link></strong>
+          <strong>經濟<nuxt-link to="/building">建築</nuxt-link></strong>
           <ul>
             <li>
               <img

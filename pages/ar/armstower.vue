@@ -257,7 +257,7 @@
               <div class="col-md-4">
                 <h4>巴西高手St4rk漂亮擋裝甲塔</h4>
                 <iframe
-                  width="560"
+                  width="100%"
                   height="315"
                   src="https://www.youtube.com/embed/CNgCrvNeI3o"
                   frameborder="0"

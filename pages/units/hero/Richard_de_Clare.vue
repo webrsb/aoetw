@@ -10,8 +10,8 @@
           <p>
             <b>克雷爾的理查伯爵</b>是個<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片的地圖編輯器中出現。他是以一位威爾士-諾曼的領主所命名的，他主導了愛爾蘭入侵諾曼的行動。
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片的地圖編輯器中出現。他是以一位威爾士-諾曼的領主所命名的，他主導了愛爾蘭入侵諾曼的行動。
           </p>
           <p>
             在遊戲中克雷爾的理查伯爵的外型是<nuxt-link to="/units/Light_Cavalry"

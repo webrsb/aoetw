@@ -367,7 +367,8 @@
                 <span class="fas fa-check" style="color: green;"></span>
               </td>
               <td class="tta3">
-                <div class="p1">玩家</div>
+                <div class="p1"></div>
+                玩家
                 <br />
                 木曾義仲(友軍)
                 <div class="p6"></div>

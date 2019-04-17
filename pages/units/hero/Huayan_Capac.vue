@@ -10,8 +10,8 @@
           <p>
             <b>華伊納·卡派克</b>是個<nuxt-link to="/units/Archer_Units"
               >弓兵英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片之後版本的地圖編輯器出現，華伊納·卡派克的名字是以建立<nuxt-link
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片之後版本的地圖編輯器出現，華伊納·卡派克的名字是以建立<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
             >帝國的統治者所命名，當時他把帝國擴展到了最大規模和範圍，從厄瓜多爾，哥倫比亞西南部到北部，再到南部的智利和阿根廷。然而帝國在他死後分裂成兩個實體，不久之後就都被<nuxt-link

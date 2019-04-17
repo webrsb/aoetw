@@ -19,8 +19,8 @@
           </p>
           <p>
             火蒙衝、<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
-            >都是在<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >資料片的時候一起推出的，使封建時代海戰才有更多的可看性，而不是只能看到一堆<nuxt-link
+            >都是在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片的時候一起推出的，使封建時代海戰才有更多的可看性，而不是只能看到一堆<nuxt-link
               to="/units/Naval_Vessels"
               >戰船</nuxt-link
             >的海戰。

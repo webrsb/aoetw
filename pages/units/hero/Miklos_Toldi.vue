@@ -10,8 +10,8 @@
           <p>
             <b>米克羅斯·陶笛</b>是個<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片之後版本的地圖編輯器出現，米克羅斯·陶笛的名字是以建立匈牙利王國的貴族所命名，該貴族被匈牙利人們傳頌為擁有強大力量的傳奇<nuxt-link
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片之後版本的地圖編輯器出現，米克羅斯·陶笛的名字是以建立匈牙利王國的貴族所命名，該貴族被匈牙利人們傳頌為擁有強大力量的傳奇<nuxt-link
               to="/units/hero"
               >英雄</nuxt-link
             >。

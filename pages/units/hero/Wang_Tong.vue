@@ -10,8 +10,8 @@
           <p>
             <b>王通</b>是個<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/aor">王者崛起</nuxt-link
-            >"資料片中只能在地圖編輯器裡找的到。
+            >，在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》資料片中只能在地圖編輯器裡找的到。
           </p>
           <p>
             在遊戲中王通的外貌是<nuxt-link to="/units/Cataphract"

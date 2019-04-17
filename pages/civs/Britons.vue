@@ -38,9 +38,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            不列顛的主要優勢就是他的步行<nuxt-link to="/units/Archer_Units"
-              >弓兵系</nuxt-link
-            >統(不包含<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+            不列顛的主要優勢就是他的步行弓兵系統(不包含<nuxt-link
+              to="/units/Skirmisher"
+              >矛兵</nuxt-link
             >)，因他們的<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
             >工作效率高、文明又給予攻擊距離的增加使得<nuxt-link

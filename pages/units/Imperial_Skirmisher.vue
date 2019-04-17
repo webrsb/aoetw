@@ -70,7 +70,7 @@
         <div class="n1">
           <p><em>作者：Spirit Of The Law</em></p>
           <iframe
-            width="560"
+            width="100%"
             height="315"
             src="https://www.youtube.com/embed/Zk9qKhklvcI"
             frameborder="0"

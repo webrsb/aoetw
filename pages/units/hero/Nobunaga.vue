@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>織田信長</strong></h1>
+        <h1>織田信長</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -12,7 +12,7 @@
             >戰國末期大名，戰國三英傑之一，開創了日本的安土桃山時代。1534年6月23日出生於尾張國勝幡城，26歲領導織田家擊敗今川家，並率部上洛(前往京都)，奠定了織田在戰國的霸主地位。然而在1582年，眼看即將統一日本之時，因明智光秀的背叛在本能寺之變後下落不明。享年48歲，行事作風非常超脫時代，堪稱日本戰國史上的未來人。信長的出現催化了日本的統一，也為將來幕府的長期統治打下基礎。
           </p>
         </div>
-        <h3><strong>介紹</strong></h3>
+        <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
@@ -193,7 +193,7 @@
         </div>
       </div>
       <div class="col-md-12">
-        <h3><strong>更多數據</strong></h3>
+        <h3>更多數據</h3>
         <div class="hrn1"></div>
         <div class="n1"></div>
         <table class="table-bordered" width="100%">
@@ -215,7 +215,7 @@
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle2">升級</div>
+              <div class="unititle">升級</div>
             </td>
           </tr>
           <tr>

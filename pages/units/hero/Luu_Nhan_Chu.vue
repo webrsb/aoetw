@@ -10,7 +10,9 @@
           <p>
             <b>劉仁澍</b>是個徒步<nuxt-link to="/units/Archer_Units"
               >弓兵英雄</nuxt-link
-            >，只會在"王者崛起"資料片中的地圖編輯器中出現。
+            >，只會在《<nuxt-link to="/games/aor"
+              >世紀帝國II：王者崛起</nuxt-link
+            >》資料片中的地圖編輯器中出現。
           </p>
           <p>
             劉仁澍的外表是<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link

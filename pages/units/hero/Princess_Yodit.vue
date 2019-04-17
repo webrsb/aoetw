@@ -9,8 +9,8 @@
         <div class="n1">
           <p>
             <b>優娣忒公主</b>是個<nuxt-link to="/units/hero">英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中出現，也能在地圖編輯器中找到她。
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中出現，也能在地圖編輯器中找到她。
           </p>
           <p>
             優娣忒公主在所有她的<nuxt-link to="/batt">戰役</nuxt-link

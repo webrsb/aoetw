@@ -10,8 +10,8 @@
           <p>
             <b>勃印曩</b>是個<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
-            >，在"王者崛起"資料片的勃印曩相關<nuxt-link to="/batt"
-              >戰役</nuxt-link
+            >，在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》資料片的勃印曩相關<nuxt-link to="/batt">戰役</nuxt-link
             >和地圖編輯器裡出現。
           </p>
           <p>

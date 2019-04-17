@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>大主教</b>是一個在<nuxt-link to="/games/aok"
+            <b>大主教</b>是一個在《<nuxt-link to="/games/aok"
               >世紀帝國II：帝王世紀</nuxt-link
-            >中的<nuxt-link to="/units/hero">英雄</nuxt-link
+            >》中的<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位。你只有透過地圖編輯器才能找到他。他以普通（或更高職位）的基督教主教為藍本。在遊戲中大主教以<nuxt-link
               to="/units/Monk"
               >僧侶</nuxt-link

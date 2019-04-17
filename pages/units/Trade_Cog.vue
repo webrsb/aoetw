@@ -698,7 +698,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              民用、<nuxt-link to="/units/Naval_Vessels">船</nuxt-link>
+              經濟、<nuxt-link to="/units/Naval_Vessels">船</nuxt-link>
             </td>
           </tr>
           <tr>

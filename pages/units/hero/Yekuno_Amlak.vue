@@ -10,8 +10,8 @@
           <p>
             <b>亞庫諾-阿姆拉克</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，只在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中的地圖編輯器出現。亞庫諾-阿姆拉克是根據真實<nuxt-link
+            >，只在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中的地圖編輯器出現。亞庫諾-阿姆拉克是根據真實<nuxt-link
               to="/civs/Ethiopians"
               >衣索比亞</nuxt-link
             >皇帝所命名的。

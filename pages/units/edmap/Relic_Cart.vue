@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            在“<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
-            >”中， “
+            在《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >》中， “
             <b>自走遺跡</b
             >”是一個單位。它僅在地圖編輯器中可用。與普通的文物不同，它們不必由<nuxt-link
               to="/units/Monk"

@@ -15,8 +15,9 @@
               >步兵</nuxt-link
             >對<nuxt-link to="/armor/Armor_Class_Standard_Building"
               >標準建築</nuxt-link
-            >傷害+2，於<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >資料片後出現。
+            >傷害+2，於《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》資料片後出現。
           </p>
         </div>
         <h3>戰術</h3>

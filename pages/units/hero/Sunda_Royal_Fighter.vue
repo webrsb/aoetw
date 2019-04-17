@@ -10,8 +10,8 @@
           <p>
             <b>巽他皇家侍衛</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/aor">王者崛起</nuxt-link
-            >"資料片中出現。
+            >，在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》資料片中出現。
           </p>
           <p>
             巽他皇家侍衛具有高攻、高裝甲、高生命和極快的移動速度。巽他皇家侍衛不能被<nuxt-link

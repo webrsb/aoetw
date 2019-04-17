@@ -10,8 +10,8 @@
           <p>
             <b>黎利</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，在"王者崛起"資料片中出現，在遊戲中的外貌是<nuxt-link
-              to="/units/Champion"
+            >，在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》資料片中出現，在遊戲中的外貌是<nuxt-link to="/units/Champion"
               >劍兵勇士</nuxt-link
             >。黎利不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link

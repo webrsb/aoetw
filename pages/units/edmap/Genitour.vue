@@ -34,8 +34,8 @@
             ><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，代替戰茅兵，但被<nuxt-link to="/units/Conquistador"
               >征服者</nuxt-link
-            >取代。在<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >中，馬勇士以<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+            >取代。在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》中，馬勇士以<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
             >的形式，被作為伯伯爾的特殊單位。
           </p>
         </div>

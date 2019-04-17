@@ -34,8 +34,9 @@
             威廉華勒斯曾是遊戲中最強的單位，可以在一對一中擊敗任何單位（註：這裡指的是站著不動對打，要不然隨便一隻<nuxt-link
               to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
-            >都能贏他）。<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >資料片發行後，<nuxt-link to="/units/hero/Abraha_Elephant"
+            >都能贏他）。《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》資料片發行後，<nuxt-link to="/units/hero/Abraha_Elephant"
               >阿伯哈拉戰象</nuxt-link
             >取代了這個位子。
           </p>

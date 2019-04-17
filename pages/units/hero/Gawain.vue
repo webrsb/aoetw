@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>高文爵士</strong></h1>
+        <h1>高文爵士</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -19,7 +19,7 @@
             >的互動。因為據說無人能在白天將他擊敗，所以被稱為太陽騎士。
           </p>
         </div>
-        <h3><strong>介紹</strong></h3>
+        <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
@@ -58,7 +58,7 @@
         <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1"><p>無</p></div>
-        <h3><strong>更多數據</strong></h3>
+        <h3>更多數據</h3>
         <div class="hrn1"></div>
         <div class="n1"></div>
         這裡只討論<nuxt-link to="/civs/Britons">不列顛</nuxt-link
@@ -96,7 +96,7 @@
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle2">升級</div>
+              <div class="unititle">升級</div>
             </td>
           </tr>
           <tr>

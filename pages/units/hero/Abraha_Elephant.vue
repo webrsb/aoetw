@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>阿伯拉哈</b>（？－553年），是<nuxt-link to="/games/ak"
-              >非洲王國</nuxt-link
-            >地圖編輯器中的一位<nuxt-link to="/units/hero">英雄</nuxt-link
+            <b>阿伯拉哈</b>（？－553年），是《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》地圖編輯器中的一位<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位。歷史上，是西元500年代的南阿拉比亞國的國王，他是該國歷史文獻上在位最長的君主，曾大力擴充軍力，並於在位期間攻打聖城麥加，不過因為所屬軍隊多染天花惡疾，未能攻下麥加。
           </p>
         </div>

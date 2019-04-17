@@ -23,7 +23,7 @@
           </p>
           <p><em>風琴砲介紹影片</em></p>
           <iframe
-            width="560"
+            width="100%"
             height="315"
             src="https://www.youtube.com/embed/WmBVPT6IlUw"
             frameborder="0"

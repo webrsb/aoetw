@@ -10,8 +10,8 @@
           <p>
             <b>茲瓦斯艾黑騎士</b>是個<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中出現。它是以波蘭的民間英雄:波蘭貴族騎士Zawisza
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中出現。它是以波蘭的民間英雄:波蘭貴族騎士Zawisza
             Czarny作為模板。
           </p>
           <p>

@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>亞瑟王</strong></h1>
+        <h1>亞瑟王</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -17,7 +17,7 @@
             >與不屈服於外侮的毅力深深影響了中世紀的騎士文學，包括近代也有許多文學作品被他影響。
           </p>
         </div>
-        <h3><strong>介紹</strong></h3>
+        <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
@@ -54,7 +54,7 @@
         <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1"><p>無</p></div>
-        <h3><strong>更多數據</strong></h3>
+        <h3>更多數據</h3>
         <div class="hrn1"></div>
         <div class="n1"></div>
         這裡只討論<nuxt-link to="/civs/Britons">不列顛</nuxt-link
@@ -83,7 +83,7 @@
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle2">升級</div>
+              <div class="unititle">升級</div>
             </td>
           </tr>
           <tr>

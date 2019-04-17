@@ -22,15 +22,13 @@
             >不同的特性也將發揮出來，展現自己獨特的打法與策略。
           </p>
           <p>
-            在台灣與香港，很長一段時間玩家沉迷於<nuxt-link to="/building/Castle"
-              >城堡</nuxt-link
-            >才能開始進攻的打法，叫做城堡開打。
+            在台灣與香港，很長一段時間玩家沉迷於城堡才能開始進攻的打法，叫做城堡開打。
           </p>
         </div>
         <h3>可建造建築</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <strong>民用<nuxt-link to="/building">建築</nuxt-link></strong>
+          <strong>經濟<nuxt-link to="/building">建築</nuxt-link></strong>
           <ul>
             <li>
               <img

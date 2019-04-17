@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>源氏</strong></h1>
+        <h1>源氏</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -17,7 +17,7 @@
             >眼裡是反派。1199年身亡，享年52歲。對日本歷史影響重大，開創了幕府制度，架空天皇權力，可以說是開啟日本中世紀時代的人。
           </p>
         </div>
-        <h3><strong>介紹</strong></h3>
+        <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
@@ -193,7 +193,7 @@
         </div>
       </div>
       <div class="col-md-12">
-        <h3><strong>更多數據</strong></h3>
+        <h3>更多數據</h3>
         <div class="hrn1"></div>
         <div class="n1"></div>
         <table class="table-bordered" width="100%">
@@ -215,7 +215,7 @@
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle2">升級</div>
+              <div class="unititle">升級</div>
             </td>
           </tr>
           <tr>

@@ -10,11 +10,12 @@
           <p>
             <b>攻城塔</b>是一種<nuxt-link to="/units/Siege_Weapons"
               >攻城武器單位</nuxt-link
-            >，他引進自<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-            >，一開始他只能在某些<nuxt-link to="/batt">戰役</nuxt-link
-            >或是地圖編輯器中使用，但是<nuxt-link to="/games/ak"
-              >非洲王國</nuxt-link
-            >推出後，他便可以在<nuxt-link to="/building/Siege_Workshop"
+            >，他引進自《<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》，一開始他只能在某些<nuxt-link to="/batt">戰役</nuxt-link
+            >或是地圖編輯器中使用，但是《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》推出後，他便可以在<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >訓練。它本身並不能攻擊，只能把友軍單位神不知鬼不覺的運送到 牆內。
           </p>

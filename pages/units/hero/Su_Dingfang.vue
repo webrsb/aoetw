@@ -10,8 +10,8 @@
           <p>
             <b>蘇定方</b>是個<nuxt-link to="/units/Archer_Units"
               >弓兵英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片的地圖編輯器中出現。他是以唐代同名的<nuxt-link
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片的地圖編輯器中出現。他是以唐代同名的<nuxt-link
               to="/civs/Chinese"
               >中國</nuxt-link
             >將軍為命名，該名將軍把唐帝國西部邊界擴大到塔里木盆地以外的地方。

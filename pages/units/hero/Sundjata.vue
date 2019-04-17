@@ -10,8 +10,8 @@
           <p>
             <b>松迪亞塔</b>是個<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
-            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >"資料片中的<nuxt-link to="/batt">戰役</nuxt-link
+            >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+            >》資料片中的<nuxt-link to="/batt">戰役</nuxt-link
             >中出現，而且他一死遊戲就宣告失敗。
           </p>
           <p>

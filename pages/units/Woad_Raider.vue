@@ -22,7 +22,7 @@
           <p>
             菘藍武士可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為<nuxt-link to="/units/Woad_Raider">精銳菘藍武士</nuxt-link>。
+            >升級為精銳菘藍武士。
           </p>
         </div>
         <h3>戰術要點</h3>

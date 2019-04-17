@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>小約翰</b>是一位在<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >資料片中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
+            <b>小約翰</b>是一位在《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》資料片中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位。你可以在地圖編輯器中找到他。小約翰的原型是<nuxt-link
               to="/units/hero/Robin_Hood"
               >羅賓漢</nuxt-link

@@ -10,7 +10,8 @@
           <p>
             <b>加查·馬達</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，在"王者崛起"資料片的<nuxt-link to="/batt">戰役</nuxt-link
+            >，在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+            >》資料片的<nuxt-link to="/batt">戰役</nuxt-link
             >"班師勤王"、"風雲變色"還有地圖編輯器中出現，在遊戲中的外貌是拿劍跟盾的<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link

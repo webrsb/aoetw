@@ -72,7 +72,7 @@
               <nuxt-link to="/building/Market">市集</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Cartography">製圖法</nuxt-link>•
+              <nuxt-link to="/techs/Cartography">製圖學</nuxt-link>•
               <nuxt-link to="/techs/Caravan">大商隊</nuxt-link>•
               <nuxt-link to="/techs/Coinage">鑄幣術</nuxt-link>•
               <nuxt-link to="/techs/Banking">銀行制度</nuxt-link>•

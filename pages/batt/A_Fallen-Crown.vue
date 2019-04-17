@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
-        <h1><strong>摔落的皇冠</strong></h1>
+        <h1>摔落的皇冠</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
