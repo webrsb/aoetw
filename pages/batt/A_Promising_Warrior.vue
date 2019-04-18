@@ -86,14 +86,12 @@
                 <div class="p2">玩家6</div>
               </td>
               <td class="tc6">
-                賓德夫•索蘭基（紅色）<nuxt-link to="/civs/Franks"
-                  >法蘭克</nuxt-link
-                >
+                賓德夫•索蘭基（紅色）印度
               </td>
               <td class="tc6">
                 <div class="p1">玩家7</div>
               </td>
-              <td class="tc6">科蒂西瓦神廟（藍色）法蘭克</td>
+              <td class="tc6">科蒂西瓦神廟（藍色）印度</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
