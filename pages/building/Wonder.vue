@@ -1191,7 +1191,10 @@
             <p>
               位於現今衣索比亞拉利貝拉，是阿克蘇姆帝國時期的建築物，阿克蘇姆帝國從330年開始就成為基督教國家，建築物本身一直是個基督教堂，整座教堂是一塊岩石鑿出來的。
             </p>
-            <p>登場戰役：無</p>
+            <p>
+              登場戰役：<nuxt-link to="/batt/Yodita">優娣忒</nuxt-link
+              >5-<nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
+            </p>
           </div>
           <div class="col-md-4">
             <h3>
