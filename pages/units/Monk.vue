@@ -635,8 +635,14 @@
             <td class="unit4">62</td>
           </tr>
           <tr>
-            <td class="unit3">最小射程</td>
-            <td class="unit4">1</td>
+            <td class="unit3">招降範圍</td>
+            <td class="unit4">
+              9 vs 一般單位<br />
+              0 vs
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              >、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >與<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
