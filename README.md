@@ -2,6 +2,9 @@
 
 > 完整、準確的世紀帝國II百科全書
 
+## clone
+git clone --recursive https://github.com/webrsb/aoetw.git
+
 ## Build Setup
 
 ``` bash
@@ -37,5 +40,5 @@ export default {
 `<style>` 樣式表
 
 ## 預設路徑設定
-目前編譯的預設網址為 http://127.0.0.1:3000/next/
+目前編譯的預設網址為 http://127.0.0.1:3000/
 進入資料夾 router/router.js 修改預設路徑

@@ -168,9 +168,19 @@
       <div class="container" style="margin-top: 30px;">
         <div class="mb-3 row">
           <div class="col-12">
+            <div class="spw">
+              <em
+                ><img
+                  src="~assets/Prithviicon.png"
+                  width="50px;"
+                  alt=""
+                  style="margin-right:20px;"
+                />提交修改之前，請務必預覽修改後的程式是否如預期呈現，否則會被拒絕的哦！</em
+              >
+            </div>
             <ol>
               <li>
-                複製程式碼 <b-button class="clip-btn" size="sm">複製</b-button>
+                複製所有程式碼 <b-button class="clip-btn" size="sm">點擊複製</b-button>
               </li>
               <li>
                 <a :href="github_page" target="_blank">進入 github 頁面</a>
@@ -180,11 +190,7 @@
                 <img src="~/assets/github_01.png" />
               </li>
               <li>
-                刪除編輯區內所有程式，然後貼上剛剛複製的程式碼
-              </li>
-              <li>
-                視窗拉到最下面，輸入修改內容概要<br />
-                <img src="~/assets/github_02.png" />
+                刪除編輯區內所有程式碼，然後貼上剛剛複製的程式碼
               </li>
               <li>
                 視窗拉到最下面，輸入修改內容概要，然後點選按鈕Propose file
@@ -192,7 +198,10 @@
                 <img src="~/assets/github_02.png" />
               </li>
               <li>
-                點選 Create pull request，再次點選 Create pull request
+                點選 Create pull request
+              </li>
+              <li>
+                再次點選 Create pull request
               </li>
               <li>
                 等待審核通過後會更新上網頁
