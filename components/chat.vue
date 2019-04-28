@@ -23,7 +23,7 @@ export default {
   mounted() {
     document.addEventListener('keydown', this.emitEnterEvent)
   },
-  destroyed() {
+  beforeDestroy() {
     document.removeEventListener('keydown', this.emitEnterEvent)
   },
   computed: {

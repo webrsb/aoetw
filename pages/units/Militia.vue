@@ -232,10 +232,10 @@
           </tr>
         </table>
 
-        <h3>剋裝甲步兵的單位與建築</h3>
+        <h3>剋民兵的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
+          以下單位擁有對<nuxt-link to="/units/Man-at-Arms">民兵</nuxt-link
           >的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
@@ -346,7 +346,7 @@
               </div>
             </div>
           </div>
-          技術:以下技術會給以下單位對裝甲步兵有額外攻擊。
+          技術:以下技術會給以下單位對民兵有額外攻擊。
           <div class="n1">
             <img
               class="gg"
@@ -407,7 +407,7 @@
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
-              >和升級裝甲步兵的速度快100%。
+              >和升級民兵的速度快100%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link

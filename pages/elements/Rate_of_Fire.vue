@@ -11,8 +11,7 @@
             <b>射速</b>，即<nuxt-link to="/units">單位</nuxt-link>或<nuxt-link
               to="/building"
               >建築</nuxt-link
-            >的<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
-            >，就是兩次攻擊之間的時間，例如射速為3的單位，每3秒會攻擊一次。因此射速率越低，攻擊就越快，所以越低的射速率越好。
+            >的<b>攻擊速度</b>，就是兩次攻擊之間的時間，例如射速為3的單位，每3秒會攻擊一次。因此射速率越低，攻擊就越快，所以越低的射速率越好。
           </p>
         </div>
         <h3>概要</h3>

@@ -135,9 +135,8 @@
                   src="~assets/CastleAgeUnique.png"
                   class="gg"
                   alt=""
-                /><nuxt-link to="/techs/Inquisition"
-                  >異端審判:僧侶招降速度變快(對單位時間-1，對建築物時間-7)(西班牙限定)</nuxt-link
-                >
+                /><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
+                >:僧侶招降速度變快(對單位時間-1，對建築物時間-7)(西班牙限定)
               </li>
               <li>
                 <img
@@ -643,6 +642,10 @@
               >、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
               >與<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
             </td>
+          </tr>
+          <tr>
+            <td class="unit4">治療範圍</td>
+            <td class="unit4">4</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>

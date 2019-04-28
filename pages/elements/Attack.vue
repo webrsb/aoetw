@@ -14,7 +14,7 @@
         <h3>概要</h3>
         <div class="hrn1"></div>
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-md-12">
             <div class="n1">
               <p>
                 幾乎所有的軍事單位的攻擊都可以透過<nuxt-link

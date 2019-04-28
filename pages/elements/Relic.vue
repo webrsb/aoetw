@@ -6,6 +6,12 @@
         <div class="hrn1"></div>
       </div>
       <div class="col-md-12">
+        <div style="float: right; margin: 10px;">
+          <gallery
+            ><img class="imgn hg" width="250" src="~assets/Relic.jpg" alt=""
+          /></gallery>
+          <p><em>一個在草地上的遺跡</em></p>
+        </div>
         <div class="n1">
           <p>
             <strong>遺跡</strong>是遊戲中的特殊物品，可以透過<nuxt-link

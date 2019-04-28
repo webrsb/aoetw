@@ -667,11 +667,13 @@
             <td class="unit4">62秒</td>
           </tr>
           <tr>
-            <td class="unit4">招降範圍</td>
+            <td class="unit3">招降範圍</td>
             <td class="unit4">
-              對一般單位:7 <br />對<nuxt-link to="/building">建築物</nuxt-link
+              7 vs 一般單位<br />
+              0 vs
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>:0
+              >與<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
             </td>
           </tr>
           <tr>
