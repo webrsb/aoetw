@@ -91,11 +91,7 @@
               <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </td>
             <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/ScoutCavalryIcon.jpg"
-                alt=""
-              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
+              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />斥候→
               <img
                 class="gg"
                 src="~assets/LightCavalryIcon.jpg"
@@ -268,8 +264,7 @@
                 >鍛造</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
               >、<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
-              >科技，<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-              >生產便宜15%
+              >科技，斥候生產便宜15%
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
@@ -333,8 +328,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-              >獲得對僧侶+6的額外攻擊。
+              斥候獲得對僧侶+6的額外攻擊。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>引入<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>。</li>

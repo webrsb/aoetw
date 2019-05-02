@@ -175,7 +175,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="400" src="~assets/9RkmbS.jpg" alt="" />
+                <img width="100%" src="~assets/9RkmbS.jpg" alt="" />
               </div>
             </td>
           </tr>
@@ -227,7 +227,7 @@
           <p>
             <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
-          <p>包含四個主<nuxt-link to="/batt">戰役</nuxt-link></p>
+          <p>包含四個主戰役</p>
           <ul>
             <li>
               <nuxt-link to="/batt/Tariq_ibn_Ziyada"

@@ -597,7 +597,9 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">50</td>
+            <td class="unit4">
+              <abbr title="在5.8版後，箭塔花費25W">50</abbr>
+            </td>
           </tr>
           <tr>
             <td class="unit3">

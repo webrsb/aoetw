@@ -215,6 +215,39 @@
           </tr>
         </table>
 
+        <h3>資源交易</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            交易也是相當重要的一部份，因為玩家可以籍此交換資源來平衡經濟。有助於升級時代或克服特定資源暫時短缺的問題。
+          </p>
+          <p>
+            市集中，每樣商品的價格在所有玩家間是一致的，而每次可賣出或買進的數量為100單位。每樣商品(<nuxt-link
+              to="/resource/Food"
+              >食物</nuxt-link
+            >、<nuxt-link to="/resource/Wood">木材</nuxt-link>、<nuxt-link
+              to="/resource/Stone"
+              >石頭</nuxt-link
+            >)擁有一個「公平市價」(此為隱藏數據)的交易價格，但玩家們不能以此「公平市價」當作價格交易，因為它有30%的商品交易費用。在遊戲剛開始時，「公平市價」對於食物和木材為100，但由於交易費的關係，玩家實際看到的比率是70/130(賣出價/買進價)。然而，石頭開始的「公平市價」為130，它導致一開始的比率為91/169。遊戲中每交易100單位商品會增加或減少2單位「公平市價」模擬供給及需求。商品最小及最大的「公平市價」分別為20及9999。也就是說，要以最少的<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >買進商品，玩家要在遊戲開始時，賣出4000單位的食物/木材(獲得1708黃金)或5500單位的石頭(獲得2926黃金)。研發<nuxt-link
+              to="/techs/Guilds"
+              >行會制度</nuxt-link
+            >可減少商品交易費的一半(15%)，但只能在<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >研發且不是所有<nuxt-link to="/civs">文明</nuxt-link
+            >都有此<nuxt-link to="/techs">科技</nuxt-link>。
+          </p>
+          <p>
+            <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+            >有不錯的交易加成，因為它建造市集可以減少75單位的木材，並且它的商品交易費只有5%。代表著它能夠在<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >不久之後超越其它文明來達成僧侶爆。
+          </p>
+        </div>
         <h3>文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">

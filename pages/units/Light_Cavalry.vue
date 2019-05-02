@@ -144,7 +144,7 @@
                 class="gg"
                 src="~assets/LightCavalryIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
+              />輕騎兵→
               <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
@@ -567,8 +567,7 @@
                 >鍛造</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
               >、<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
-              >科技，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >生產便宜15%
+              >科技，輕騎兵生產便宜15%
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
@@ -577,10 +576,7 @@
               >升級科技免<nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
-                to="/units/Light_Cavalry"
-                >輕騎兵</nuxt-link
-              >免費升級。
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：輕騎兵免費升級。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link

@@ -626,7 +626,12 @@
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>
-            <td class="unit4">1.45</td>
+            <td class="unit4">
+              <abbr
+                title="基礎的攻速為1.93 (帝王世紀時為2.03) - 由文明加成減少為1.45 (帝王世紀為 1.52)"
+                >1.45</abbr
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>

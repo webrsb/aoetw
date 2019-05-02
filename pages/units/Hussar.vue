@@ -160,10 +160,7 @@
                 src="~assets/LightCavalryIcon.jpg"
                 alt=""
               /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
-              <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
-                to="/units/Hussar"
-                >匈牙利輕騎兵</nuxt-link
-              >
+              <img class="gg" src="~assets/HussarIcon.jpg" alt="" />匈牙利輕騎兵
               <br />
               <img
                 class="gg"

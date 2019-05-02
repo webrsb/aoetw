@@ -148,6 +148,9 @@
           </li>
         </ul>
         <h3>戰役</h3>
+        <p>
+          <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
+        </p>
         <ul>
           <li><nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link></li>
           <li>
@@ -165,6 +168,13 @@
             >的有志貴族青年。他能否平息內鬥，抵抗明朝大軍並帶領大越再次獨立？
           </li>
         </ul>
+        <h3>平衡更動</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p><strong>種族平衡</strong></p>
+          <p><strong>一般平衡</strong></p>
+          <p><strong>科技變動</strong></p>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -178,7 +188,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="400" src="~assets/001-105.jpg" alt="" />
+                <img width="100%" src="~assets/001-105.jpg" alt="" />
               </div>
             </td>
           </tr>
@@ -222,15 +232,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由眠協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>平衡更動</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <p><strong>種族平衡</strong></p>
-          <p><strong>一般平衡</strong></p>
-          <p><strong>科技變動</strong></p>
-        </div>
       </div>
     </div>
   </div>
