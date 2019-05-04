@@ -10,7 +10,7 @@
           <p>
             <b>于歸之喜</b>是《<nuxt-link to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
-            >》、<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link
+            >》<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link
             >的第三關劇情關卡。
           </p>
           <p>
