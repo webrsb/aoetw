@@ -978,15 +978,6 @@
         </div>
       </div>
     </div>
-    <h3>參見</h3>
-    <div class="hrn1"></div>
-    <div class="n1">
-      <ul>
-        <li><nuxt-link to="/resource/Stone">石礦</nuxt-link></li>
-        <li><nuxt-link to="/resource/Wood">木材</nuxt-link></li>
-        <li><nuxt-link to="/resource/Gold">黃金</nuxt-link></li>
-      </ul>
-    </div>
   </div>
 </template>
 <script>
