@@ -36,7 +36,7 @@
                 src="~assets/Golden_Pit_1.jpg"
                 alt=""
             /></gallery>
-            <p class="text-center"><em>金礦股邊緣是沙地的斜坡。</em></p>
+            <p class="text-center"><em>金礦谷邊緣是沙地的斜坡。</em></p>
           </div>
           <div class="col-md-6">
             <gallery
@@ -65,8 +65,8 @@
         </div>
       </div>
       <div class="col-md-4">
-        <img src="~assets/Land_of_lakes_mini_map.png" width="300" alt="" />
-        <h4>標準百湖之城地圖</h4>
+        <img src="~assets/Golden_Pit_map.png" width="300" alt="" />
+        <h4>標準兩人金礦谷地圖</h4>
       </div>
     </div>
   </div>
