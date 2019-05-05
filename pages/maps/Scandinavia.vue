@@ -10,7 +10,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <b>斯堪地納維亞</b
+            <b>斯堪地維亞</b
             >在市中心周圍有許多鹿，以及大多數地圖上都沒有的第三隻<nuxt-link
               to="/units/animal/Wild_Boar"
               >野豬</nuxt-link
