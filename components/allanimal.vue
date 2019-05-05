@@ -52,7 +52,7 @@
             <td class="unit3" style="width: 8%;">裝飾動物</td>
             <td class="unit3">
               <nuxt-link to="/units/animal/Hawk">鷹</nuxt-link>•
-              <nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link>•禿鷹
+              <nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link>•<nuxt-link to="/units/animal/Vulture">禿鷹</nuxt-link>
             </td>
           </tr>
         </table>

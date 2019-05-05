@@ -13,24 +13,27 @@
           >採集木材，但也可以利用別的手段來獲得。
         </p>
       </div>
-      <div class="col-md-2"><img src="~assets/Wood_aoe2.png" alt="" /></div>
+      <div class="col-md-2">
+        <img src="~assets/Wood_aoe2.png" alt="" />
+      </div>
       <div class="col-md-12">
         <h3>採集</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>通常可以在地圖上很多的木材，每棵樹有100木材。</p>
+          <p>
+            在地圖上有很多的木材，而每棵樹基本有100木材。有些樹則有比較多的木材量，例如:竹子150木、猴麵包樹200木等。
+          </p>
         </div>
-        <h3>市集</h3>
+        <h3>市場</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <nuxt-link to="/building/Market">市集</nuxt-link>可以用<nuxt-link
-              to="/resource/Gold"
-              >黃金</nuxt-link
-            >換取木材，但是必須收取30％的手續費並且每次買完後，價格都會調漲，但木材十分常見且量多，所以不建議用黃金去買木材。可以利用<nuxt-link
-              to="/techs/Guilds"
+            市場可以用<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >換取木材，但是必須收取30％的手續費，並且每次買完後價格都會調漲，但木材十分常見且量多，
+            所以不建議用黃金去買木材。可以利用<nuxt-link to="/techs/Guilds"
               >行會制度</nuxt-link
-            >科技來降低手續費到15％，而<nuxt-link to="/civs/Saracens"
+            >
+            來降低手續費到15％，而<nuxt-link to="/civs/Saracens"
               >薩拉森人</nuxt-link
             >的<nuxt-link to="/civs">文明</nuxt-link>特性之一是手續費只要5％。
           </p>
@@ -38,7 +41,7 @@
         <h3>科技</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>可加速收集石礦速度的科技:</p>
+          <p>可加速收集木材的<nuxt-link to="/techs">科技</nuxt-link>:</p>
           <ul>
             <li><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link></li>
             <li><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link></li>
@@ -54,7 +57,7 @@
               >:村民資源攜帶量+5。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:村民伐木速度快15%。
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:村民伐木速度快15%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:<nuxt-link
@@ -66,9 +69,7 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:<nuxt-link
                 to="/building/Dock"
                 >碼頭</nuxt-link
-              >成本減少15%。(<nuxt-link to="/elements/Team_Bonus"
-                >團隊加分</nuxt-link
-              >)
+              >成本減少15%。(團隊加成)
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
@@ -105,6 +106,13 @@
                 >建築</nuxt-link
               >成本便宜15%。(農田除外)
             </li>
+          </ul>
+        </div>
+        <h3>參見</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li><nuxt-link to="/resource/Tree">樹木</nuxt-link></li>
           </ul>
         </div>
       </div>

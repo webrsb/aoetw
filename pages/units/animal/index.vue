@@ -93,7 +93,7 @@
             <ul>
               <li><nuxt-link to="/units/animal/Hawk">鷹</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link></li>
-              <li>禿鷹</li>
+              <li><nuxt-link to="/units/animal/Vulture">禿鷹</nuxt-link></li>
             </ul>
           </div>
         </div>
