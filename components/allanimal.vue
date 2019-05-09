@@ -27,7 +27,8 @@
             <td class="unit3" style="width: 8%;">可馴化可食用</td>
             <td class="unit3">
               <nuxt-link to="/units/animal/Sheep">羊</nuxt-link>•
-              <nuxt-link to="/units/animal/Turkey">火雞</nuxt-link>•駱駝
+              <nuxt-link to="/units/animal/Turkey">火雞</nuxt-link>•
+              <nuxt-link to="/units/animal/Llama">羊駝</nuxt-link>•
               <nuxt-link to="/units/animal/Cow">牛</nuxt-link>•
               <nuxt-link to="/units/animal/Goat">山羊</nuxt-link>•
               <nuxt-link to="/units/animal/Water_Buffalo">水牛</nuxt-link>
@@ -40,7 +41,7 @@
               <nuxt-link to="/Jaguar.php">豹</nuxt-link>•
               <nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link>•
               <nuxt-link to="/units/animal/Bear">熊</nuxt-link>•
-              <nuxt-link to="/units/animal/Llama">駱駝</nuxt-link>•
+              駱駝•
               <nuxt-link to="/units/animal/Donkey">驢</nuxt-link>•
               <nuxt-link to="/units/animal/Tiger">虎</nuxt-link>•
               <nuxt-link to="/units/animal/Lion">獅子</nuxt-link>•

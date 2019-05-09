@@ -9,7 +9,7 @@
           >或是地圖編輯器中，以下將列出地圖編輯器的單位。
         </p>
         <p>
-          當然這裡不會列出英雄，英雄請到<nuxt-link to="/units/edmap"
+          當然這裡不會列出英雄，英雄請到<nuxt-link to="/units/hero"
             >英雄列表</nuxt-link
           >
         </p>

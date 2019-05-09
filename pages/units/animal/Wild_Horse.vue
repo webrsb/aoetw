@@ -66,7 +66,7 @@
 </template>
 <script>
 export default {
-  layout: 'allwide',
+  layout: 'allanimal',
   components: {}
 }
 </script>
