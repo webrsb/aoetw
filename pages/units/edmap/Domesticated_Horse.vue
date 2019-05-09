@@ -8,17 +8,39 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>馬(已訓化)</b>在其他單位靠近的時候會自動轉換陣營顏色，如同大地之母單位一樣。馬不能提供任何食物。
-            在《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link>》中有三個重要的出場戰役，
-            分別是蒙特蘇馬的蛇鳥之神和沸騰的湖，以及阿提拉的上帝之鞭。
+            <b
+              ><nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link
+              >(已訓化)</b
+            >在其他<nuxt-link to="/units">單位</nuxt-link
+            >靠近的時候會自動轉換陣營顏色，如同大地之母單位一樣。馬不能提供任何<nuxt-link
+              to="/resource/Food"
+              >食物</nuxt-link
+            >。 在《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+            >》中有三個重要的出場<nuxt-link to="/batt">戰役</nuxt-link>，
+            分別是<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
+            >的<nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link
+            >和<nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link
+            >，以及<nuxt-link to="/units/hero/Attila_the_Hun">阿提拉</nuxt-link
+            >的<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>。
           </p>
-          <p>在蛇鳥之神玩家可以選擇從西班牙人科爾特斯的馬圈收集20匹馬並關到玩家的馬圈來獲得勝利；
-          在沸騰的湖玩家同樣可以在地圖上蒐集馬匹並帶到城堡前的祭壇，系統會自動將他們轉換成精銳韃靼騎兵。
-          <br>上帝之鞭戰役中西徐亞人為了感謝阿提拉從西羅馬帝國的囚禁下救了他們的公主，蒐集10匹馬並帶到指定地點會給玩家10隻蒙古突騎。
+          <p>
+            在<nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link
+            >玩家可以選擇從<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
+            >科爾特斯的馬圈收集20匹馬並關到玩家的馬圈來獲得勝利；
+            在沸騰的湖玩家同樣可以在地圖上蒐集馬匹並帶到<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
+            >前的祭壇，系統會自動將他們轉換成<nuxt-link to="/units/Tarkan"
+              >精銳韃靼騎兵</nuxt-link
+            >。 <br />上帝之鞭戰役中西徐亞人為了感謝<nuxt-link
+              to="/batt/Attila_the_Huna"
+              >阿提拉</nuxt-link
+            >從西羅馬帝國的囚禁下救了他們的公主，蒐集10匹馬並帶到指定地點會給玩家10隻<nuxt-link
+              to="/units/Mangudai"
+              >蒙古突騎</nuxt-link
+            >。
           </p>
-          
         </div>
-        
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">

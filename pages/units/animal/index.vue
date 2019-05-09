@@ -73,7 +73,7 @@
             <strong>不可食用</strong>
             <ul>
               <li><nuxt-link to="/units/animal/Wolf">狼</nuxt-link></li>
-              <li><nuxt-link to="/Jaguar.php">豹</nuxt-link></li>
+              <li><nuxt-link to="//units/animal/Jaguar">豹</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Bear">熊</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Llama">駱駝</nuxt-link></li>

@@ -38,7 +38,7 @@
             <td class="unit3" style="width: 8%;">不可食用</td>
             <td class="unit3">
               <nuxt-link to="/units/animal/Wolf">狼</nuxt-link>•
-              <nuxt-link to="/Jaguar.php">豹</nuxt-link>•
+              <nuxt-link to="//units/animal/Jaguar">豹</nuxt-link>•
               <nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link>•
               <nuxt-link to="/units/animal/Bear">熊</nuxt-link>•
               駱駝•
