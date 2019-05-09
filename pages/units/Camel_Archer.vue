@@ -203,10 +203,12 @@
                 alt=""
               /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
               <br />
-              <img  class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><nuxt-link
-                to="/techs/Bracer"
-                >護腕</nuxt-link
-              >(+1) <br />
+              <img
+                class="gg"
+                src="~assets/Bracer.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -357,6 +359,7 @@
             </td>
           </tr>
         </table>
+
         <h3>剋駱駝弓騎兵的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -731,7 +734,7 @@
             </div>
           </div>
         </div>
-        
+
         <h3>團隊加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
