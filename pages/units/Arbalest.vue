@@ -394,8 +394,7 @@
                     >和同盟限定)
                   </li>
                 </ul>
-              
-              
+
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
                 <ul>
                   <li>
@@ -414,8 +413,8 @@
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
                   </li>
                 </ul>
-               </div>
-             <div class="col-md-6">
+              </div>
+              <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
@@ -534,185 +533,184 @@
               </div>
             </div>
           </div>
-        <h3>文明加成</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
-                to="/units/Crossbowman"
-                >弩兵</nuxt-link
-              >快生產快15%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：弩兵自<nuxt-link
-                to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
-              >/帝王時代有額外+1/+2的射程。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弩兵<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
-              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/帝王時代各便宜15%/20%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >：弩兵<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
-              >快18%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：弩兵在<nuxt-link
-                to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
-              >/帝王時代各便宜20%/30%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：弩兵花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >成本少15%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
-                to="/techs/Chemistry"
-                >化學</nuxt-link
-              >免費。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/帝王時代的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
-              >增加15%/20%。免費<nuxt-link to="/techs/Conscription"
-                >徵兵</nuxt-link
-              >。
-            </li>
-          </ul>
-        </div>
-        <h3>團隊加分</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：弩兵快生產快20%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵<nuxt-link
-                to="/los.php"
-                >視野</nuxt-link
-              >+2。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
-                to="/techs/Chemistry"
-                >化學</nuxt-link
-              >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：弩兵對<nuxt-link to="/building">建築</nuxt-link>攻擊+1。
-            </li>
-          </ul>
-        </div>
-        <h3>更新日誌</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <h3>
-            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>訓練時間為27秒。</li>
-          </ul>
-          <h3>
-            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>訓練增加到35秒。</li>
-            <li>
-              對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
-              >的攻擊+3。
-            </li>
-            <li><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>引進。</li>
-            <li>
-              <nuxt-link to="/civs/Britons">不列顛人</nuxt-link>引進<nuxt-link
-                to="/techs/Yeomen"
-                >義勇騎兵</nuxt-link
-              >。
-            </li>
-          </ul>
-          <h3>
-            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>
-              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>移到了<nuxt-link
-                to="/techs/age/Castle_Age"
-                >城堡時代</nuxt-link
-              >。
-            </li>
-            <li>
-              <nuxt-link to="/techs/Obsidian_Arrows"></nuxt-link
-              ><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>新增科技<nuxt-link
-                to="/techs/Obsidian_Arrows"
-                >黑曜石之箭</nuxt-link
-              >。
-            </li>
-          </ul>
-          <h3>
-            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Italians">義大利人</nuxt-link
-              >可研發<nuxt-link to="/techs/Pavise">巨盾</nuxt-link>。
-            </li>
-          </ul>
-          <h3>
-            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Indians">印度</nuxt-link
-              >:5.5版後強弩兵從<nuxt-link to="/civs/Indians">印度</nuxt-link
-              >的<nuxt-link to="/tree/vie">科技樹</nuxt-link>移除。
-            </li>
-            <li>
-              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後<nuxt-link
-                to="/civs/Khmer"
-                >高棉</nuxt-link
-              >有了強弩兵。
-            </li>
-          </ul>
-        </div>
-        <h3>趣事</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              就<nuxt-link to="/resource/Wood">木頭</nuxt-link>而言，<nuxt-link
-                to="/units/Archer"
-                >弓兵</nuxt-link
-              >是全遊戲最便宜的<nuxt-link to="/units/Archer_Units"
-                >遠距離單位</nuxt-link
-              >。
-            </li>
-            <li>
-              30hp，全遊戲生命最低的單位，與<nuxt-link to="/units/Skirmisher"
-                >矛兵</nuxt-link
-              >、<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
-              >、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>並列。
-            </li>
-            <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
-            <li>
-              在最初的世紀帝國II裡面，弓兵和弩兵原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、<nuxt-link
-                to="/elements/Attack"
-                >攻擊力</nuxt-link
-              >強，但比較慢。
-            </li>
-          </ul>
-        </div>
-       <h3>圖庫</h3>
+          <h3>文明加成</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
+                  to="/units/Crossbowman"
+                  >弩兵</nuxt-link
+                >快生產快15%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Britons">不列顛</nuxt-link
+                >：弩兵自<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/帝王時代有額外+1/+2的射程。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弩兵<nuxt-link
+                  to="/techs"
+                  >科技</nuxt-link
+                >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/帝王時代各便宜15%/20%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+                >：弩兵<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+                >快18%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：弩兵在<nuxt-link
+                  to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >/帝王時代各便宜20%/30%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+                >：弩兵花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >成本少15%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
+                  to="/techs/Chemistry"
+                  >化學</nuxt-link
+                >免費。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+                >：弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/帝王時代的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+                >增加15%/20%。免費<nuxt-link to="/techs/Conscription"
+                  >徵兵</nuxt-link
+                >。
+              </li>
+            </ul>
+          </div>
+          <h3>團隊加分</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Britons">不列顛</nuxt-link
+                >：弩兵快生產快20%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵<nuxt-link
+                  to="/los.php"
+                  >視野</nuxt-link
+                >+2。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
+                  to="/techs/Chemistry"
+                  >化學</nuxt-link
+                >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+                >：弩兵對<nuxt-link to="/building">建築</nuxt-link>攻擊+1。
+              </li>
+            </ul>
+          </div>
+          <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>訓練時間為27秒。</li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>訓練增加到35秒。</li>
+              <li>
+                對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
+                >的攻擊+3。
+              </li>
+              <li>
+                <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>引進。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Britons">不列顛人</nuxt-link>引進<nuxt-link
+                  to="/techs/Yeomen"
+                  >義勇騎兵</nuxt-link
+                >。
+              </li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link
+                >移到了<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                >。
+              </li>
+              <li>
+                <nuxt-link to="/techs/Obsidian_Arrows"></nuxt-link
+                ><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>新增科技<nuxt-link
+                  to="/techs/Obsidian_Arrows"
+                  >黑曜石之箭</nuxt-link
+                >。
+              </li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Italians">義大利人</nuxt-link
+                >可研發<nuxt-link to="/techs/Pavise">巨盾</nuxt-link>。
+              </li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Indians">印度</nuxt-link
+                >:5.5版後強弩兵從<nuxt-link to="/civs/Indians">印度</nuxt-link
+                >的<nuxt-link to="/tree/vie">科技樹</nuxt-link>移除。
+              </li>
+              <li>
+                <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後<nuxt-link
+                  to="/civs/Khmer"
+                  >高棉</nuxt-link
+                >有了強弩兵。
+              </li>
+            </ul>
+          </div>
+          <h3>趣事</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                就<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >而言，<nuxt-link to="/units/Archer">弓兵</nuxt-link
+                >是全遊戲最便宜的<nuxt-link to="/units/Archer_Units"
+                  >遠距離單位</nuxt-link
+                >。
+              </li>
+              <li>
+                30hp，全遊戲生命最低的單位，與<nuxt-link to="/units/Skirmisher"
+                  >矛兵</nuxt-link
+                >、<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+                >、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>並列。
+              </li>
+              <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
+              <li>
+                在最初的世紀帝國II裡面，弓兵和弩兵原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、<nuxt-link
+                  to="/elements/Attack"
+                  >攻擊力</nuxt-link
+                >強，但比較慢。
+              </li>
+            </ul>
+          </div>
+          <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-4">

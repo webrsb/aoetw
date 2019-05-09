@@ -8,9 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>亞馬遜弓箭手</b
-            >出現在《<nuxt-link to="/games/aof">世紀帝國II:失落的帝國</nuxt-link
-            >》版本中的黃金國戰役第三關:亞馬遜族，也能在地圖編輯器找到。亞馬遜弓箭手不能在一般遊戲中被訓練。
+            <b>亞馬遜弓箭手</b>出現在《<nuxt-link to="/games/aof"
+              >世紀帝國II:失落的帝國</nuxt-link
+            >》版本中的<nuxt-link to="/batt/El_Doradoa">黃金國戰役</nuxt-link
+            >第三關:<nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link
+            >，也能在地圖編輯器找到。亞馬遜弓箭手不能在一般遊戲中被訓練。
           </p>
         </div>
 
@@ -28,7 +30,6 @@
               /></gallery>
               <p><em>一群亞馬遜弓箭手。</em></p>
             </div>
-            
           </div>
         </div>
       </div>
@@ -37,7 +38,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">亞馬遜弓箭手</nuxt-link></div>
+              <div class="unititle">
+                <nuxt-link to="">亞馬遜弓箭手</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -50,7 +53,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">
-                <nuxt-link to="">單位介紹</nuxt-link>
+                單位介紹
               </div>
             </td>
           </tr>
@@ -84,9 +87,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +1對<nuxt-link to="/armor/Armor_Class_Infantry"
-                >步兵</nuxt-link
-              >
+              +1對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br />+2對<nuxt-link to="/armor/Armor_Class_Spearman"
                 >槍兵</nuxt-link
               >
@@ -125,8 +126,7 @@
           <tr>
             <td class="unit3">防禦</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
-              >
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
             </td>
           </tr>
           <tr>

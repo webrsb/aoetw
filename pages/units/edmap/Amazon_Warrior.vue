@@ -40,7 +40,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
+              <div class="unititle2">
                 亞馬遜戰士
               </div>
             </td>

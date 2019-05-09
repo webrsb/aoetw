@@ -23,7 +23,11 @@
               <nuxt-link to="/games/aof">失落的帝國</nuxt-link>:在<nuxt-link
                 to="/techs/El_Dorado"
                 >黃金國</nuxt-link
-              >戰役中兩個著名的場景分別是在"分離告別"伊瑪拉部落的獨木舟，以及"食人族"
+              >戰役中兩個著名的場景分別是在<nuxt-link to="/batt/The_Split"
+                >分離告別</nuxt-link
+              >伊瑪拉部落的獨木舟，以及<nuxt-link to="/batt/The_Cannibals"
+                >食人族</nuxt-link
+              >
               中洛斯內格羅斯居民用獨木舟積極守護他們在亞<nuxt-link
                 to="/units/animal/Wild_Horse"
                 >馬</nuxt-link
@@ -31,8 +35,9 @@
             </li>
             <li>
               <nuxt-link to="/games/ak">非洲王國</nuxt-link
-              >:法蘭西斯科．阿爾梅達的"非洲雄獅"戰役中關契斯人用<nuxt-link
-                to="/units/Gbeto"
+              >:法蘭西斯科．阿爾梅達的<nuxt-link to="/batt/Lion_of_Africa"
+                >非洲雄獅</nuxt-link
+              >戰役中關契斯人用<nuxt-link to="/units/Gbeto"
                 >飛刀女獵手</nuxt-link
               >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >和一些獨木舟守護著 他們的自然資源。
@@ -41,7 +46,8 @@
               <nuxt-link to="/games/aor">王者崛起</nuxt-link>:<nuxt-link
                 to="/units/hero/Bayinnaung"
                 >勃印曩</nuxt-link
-              >"猛蛇出洞"戰役中獨木舟位於將蒲甘城一分為二的河的東側，靠近東吁勇士和<nuxt-link
+              ><nuxt-link to="/batt/The_Mandalay_Cobra">猛蛇出洞</nuxt-link
+              >戰役中獨木舟位於將蒲甘城一分為二的河的東側，靠近東吁勇士和<nuxt-link
                 to="/units/hero/Dragon_Ship"
                 >龍船</nuxt-link
               >的地方。
@@ -179,7 +185,7 @@
 </template>
 <script>
 export default {
-  layout: 'allunit',
+  layout: 'alledmap',
   components: {}
 }
 </script>
