@@ -2,19 +2,15 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>亞馬遜戰士</h1>
+        <h1>亞馬遜弓箭手</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>亞馬遜戰士</b>出現在《<nuxt-link to="/games/aof"
-              >世紀帝國II:失落的帝國</nuxt-link
-            >》版本中的<nuxt-link to="/batt/El_Doradoa">黃金國戰役</nuxt-link
-            >第一關:<nuxt-link to="/batt/Tales_of_La_Canela"
-              >黃金國的傳說</nuxt-link
-            >與第三關:<nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link
-            >中，也能在地圖編輯器找到。 亞馬遜戰士不能在一般遊戲中被訓練。
+            <b>亞馬遜弓箭手</b
+            >出現在《<nuxt-link to="/games/aof">世紀帝國II:失落的帝國</nuxt-link
+            >》版本中的黃金國戰役第三關:亞馬遜族，也能在地圖編輯器找到。亞馬遜弓箭手不能在一般遊戲中被訓練。
           </p>
         </div>
 
@@ -27,11 +23,12 @@
                 ><img
                   class="imgn hg"
                   width="250"
-                  src="~assets/Amazonwarrior.png"
+                  src="~assets/Amazonarcher.png"
                   alt=""
               /></gallery>
-              <p><em>一群亞馬遜戰士。</em></p>
+              <p><em>一群亞馬遜弓箭手。</em></p>
             </div>
+            
           </div>
         </div>
       </div>
@@ -40,15 +37,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                亞馬遜戰士
-              </div>
+              <div class="unititle"><nuxt-link to="">亞馬遜弓箭手</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Amazonwarrioricon.png" width="45" alt="" />
+                <img src="~assets/Amazonarchericon.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -62,7 +57,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+              <nuxt-link to="/units/Archer_Units">射手</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -84,16 +79,16 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">8(近戰)</td>
+            <td class="unit4">5(遠距)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +2對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
-                >鷹勇士</nuxt-link
+              +1對<nuxt-link to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
               >
-              <br />+2對<nuxt-link to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link
+              <br />+2對<nuxt-link to="/armor/Armor_Class_Spearman"
+                >槍兵</nuxt-link
               >
             </td>
           </tr>
@@ -101,7 +96,23 @@
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
             </td>
-            <td class="unit4">2.03</td>
+            <td class="unit4">1.93</td>
+          </tr>
+          <tr>
+            <td class="unit3">攻擊間隔</td>
+            <td class="unit4">5</td>
+          </tr>
+          <tr>
+            <td class="unit3">射程</td>
+            <td class="unit4">4</td>
+          </tr>
+          <tr>
+            <td class="unit3">命中率</td>
+            <td class="unit4">80%</td>
+          </tr>
+          <tr>
+            <td class="unit3">彈道速度</td>
+            <td class="unit4">7</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
@@ -109,12 +120,13 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
-            <td class="unit4">0</td>
+            <td class="unit4">1</td>
           </tr>
           <tr>
             <td class="unit3">防禦</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -123,7 +135,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
-            <td class="unit4">3</td>
+            <td class="unit4">6</td>
           </tr>
         </table>
 

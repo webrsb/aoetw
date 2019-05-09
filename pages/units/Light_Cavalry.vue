@@ -447,7 +447,7 @@
             </div>
           </div>
           以下技術可讓以下單位對<nuxt-link to="/units/Scout_Cavalry"
-            >斥候</nuxt-link
+            >輕騎兵</nuxt-link
           >有額外攻擊力
           <div class="n1">
             <img

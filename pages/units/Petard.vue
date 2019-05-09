@@ -285,6 +285,175 @@
           </tr>
         </table>
 
+        <h3>剋爆炸桶的單位與建築</h3>
+        <div class="hrn1"></div>
+        <div class="n1 bonuses">
+          以下單位擁有對爆炸桶的額外傷害，按造殺傷力排列。
+          <div class="n1">
+            <div class="row">
+              <div class="col-md-6">
+                <div style="margin:12px 0px;"><strong>+65攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/SiegeRamIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+60攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/PetardIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CappedRamIcon.jpg"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+40攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/BatteringRamIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Battering_Ram"
+                      >輕型衝撞車</nuxt-link
+                    >
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CannonGalleonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/CannonGalleonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
+                      >精銳火砲戰船</nuxt-link
+                    >
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+20攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/BombardCannonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-md-6">
+                <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/MangonelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/OnagerIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Onager">中型投石車</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/SiegeOnagerIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Magyar_Huszar_icon.jpg"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Magyar_Huszar"
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EliteEagleWarriorIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Eagle_Warrior"
+                      >精銳鷹勇士</nuxt-link
+                    >
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/MangudaiIcon.jpg"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
+                    >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Magyar_Huszar_icon.jpg"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Magyar_Huszar"
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EagleScoutIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/EagleWarriorIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/MangudaiIcon.jpg"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+                    >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
         <h3>文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">

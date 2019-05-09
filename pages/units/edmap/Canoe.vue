@@ -8,36 +8,59 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>獨木舟</b>不能被玩家建造。獨木舟曾在黃金國戰役與法蘭西斯科．阿爾梅達戰役中多次出現，
-            同時也能在地圖編輯器中找到。史前的美洲文明會使用獨木舟，之後非洲的原住民也短暫使用過獨木舟。
+            <b>獨木舟</b>不能被玩家建造。獨木舟曾在<nuxt-link
+              to="/batt/El_Doradoa"
+              >黃金國戰役</nuxt-link
+            >與法蘭西斯科．阿爾梅達<nuxt-link to="/batt">戰役</nuxt-link
+            >中多次出現， 同時也能在地圖編輯器中找到。史前的美洲<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >會使用獨木舟，之後非洲的原住民也短暫使用過獨木舟。
           </p>
-          <p>
-            出現戰役:
+          出現戰役:
           <ul>
-              <li>失落的帝國:在黃金國戰役中兩個著名的場景分別是在"分離告別"伊瑪拉部落的獨木舟，以及"食人族"
-              中洛斯內格羅斯居民用獨木舟積極守護他們在亞馬遜河的地盤。</li>
-              <li>非洲王朝:法蘭西斯科．阿爾梅達的"非洲雄獅"戰役中關契斯人用飛刀女獵手、矛兵和一些獨木舟守護著
-              他們的自然資源。</li>
-              <li>拉惹的崛起:勃印曩"猛蛇出洞"戰役中獨木舟位於將蒲甘城一分為二的河的東側，靠近東吁勇士和龍船的地方。</li>
+            <li>
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>:在<nuxt-link
+                to="/techs/El_Dorado"
+                >黃金國</nuxt-link
+              >戰役中兩個著名的場景分別是在"分離告別"伊瑪拉部落的獨木舟，以及"食人族"
+              中洛斯內格羅斯居民用獨木舟積極守護他們在亞<nuxt-link
+                to="/units/animal/Wild_Horse"
+                >馬</nuxt-link
+              >遜河的地盤。
+            </li>
+            <li>
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link
+              >:法蘭西斯科．阿爾梅達的"非洲雄獅"戰役中關契斯人用<nuxt-link
+                to="/units/Gbeto"
+                >飛刀女獵手</nuxt-link
+              >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >和一些獨木舟守護著 他們的自然資源。
+            </li>
+            <li>
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>:<nuxt-link
+                to="/units/hero/Bayinnaung"
+                >勃印曩</nuxt-link
+              >"猛蛇出洞"戰役中獨木舟位於將蒲甘城一分為二的河的東側，靠近東吁勇士和<nuxt-link
+                to="/units/hero/Dragon_Ship"
+                >龍船</nuxt-link
+              >的地方。
+            </li>
           </ul>
-          
-          </p>
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Canoegroup.png" alt=""
-              /></gallery>
-              <p><em>一群獨木舟。</em></p>
+          <h3>圖庫</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <div class="row">
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/Canoegroup.png" alt=""
+                /></gallery>
+                <p><em>一群獨木舟。</em></p>
+              </div>
             </div>
-            
-            </div>
-            
           </div>
-      </div>  
-</div>
+        </div>
+      </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
@@ -54,7 +77,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">單位介紹</div>
+              <div class="unititle2">
+                <nuxt-link to="/units">單位</nuxt-link>介紹
+              </div>
             </td>
           </tr>
           <tr>
@@ -87,8 +112,7 @@
           <tr>
             <td class="unit3">傷害加成</td>
             <td class="unit4">
-              +9對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link
-              >
+              +9對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
               <br />+7對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >
@@ -110,7 +134,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3"><nuxt-link to="NOLINKS">攻擊距離</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -132,8 +156,10 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link><br>
-              <nuxt-link to="/armor/Armor_Class_Unique_Unit">特殊單位</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link><br />
+              <nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -141,15 +167,15 @@
             <td class="unit4">15</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">8</td>
           </tr>
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
       </div>
-
-
+    </div>
+  </div>
 </template>
 <script>
 export default {

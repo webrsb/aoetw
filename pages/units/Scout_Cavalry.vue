@@ -222,6 +222,256 @@
           </tr>
         </table>
 
+        <h3>剋斥侯的單位與建築</h3>
+        <div class="hrn1"></div>
+        <div class="n1 bonuses">
+          以下單位擁有對斥侯的額外傷害，按照殺傷力排列。
+          <div class="n1">
+            <div class="row">
+              <div class="col-md-6">
+                <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/HalberdierIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+22攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/PikemanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+18攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/ImperialCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/SpearmanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CannonGalleonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/CannonGalleonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
+                      >精銳火砲戰船</nuxt-link
+                    >
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Saracenmamluk_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Kamayuk_Icon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link
+                    >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
+                  </li>
+                </ul>
+              </div>
+              <div class="col-md-6">
+                <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Saracenmamluk_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Kamayuk_Icon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
+                    >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/New_Genoese_Crossbowman.png"
+                      alt=""
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
+                      >精銳熱那亞弩手</nuxt-link
+                    >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/New_Genoese_Crossbowman.png"
+                      alt=""
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
+                      >熱那亞弩手</nuxt-link
+                    >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EliteEagleWarriorIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Eagle_Warrior"
+                      >精銳鷹勇士</nuxt-link
+                    >
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EagleWarriorIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          以下技術可讓以下單位對<nuxt-link to="/units/Scout_Cavalry"
+            >斥候</nuxt-link
+          >有額外攻擊力
+          <div class="n1">
+            <img
+              class="gg"
+              src="~assets/CastleAgeUnique.png"
+              width="22"
+              alt=""
+            /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
+            <div width="22" style="margin:12px 0px;">
+              <strong>+5攻擊</strong>(<nuxt-link to="/civs/Vikings"
+                >維京</nuxt-link
+              >限定)
+            </div>
+            <ul>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/MilitiaIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/ManAtArmsIcon.jpg"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/LongswordsManIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Two-Handed_Swordsman"
+                  >雙手劍兵</nuxt-link
+                >→
+                <img
+                  class="gg"
+                  src="~assets/ChampionIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/SpearmanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/PikemanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+              </li>
+              <li>
+                <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                  to="/units/Berserk"
+                  >狂戰士</nuxt-link
+                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                  to="/units/Berserk"
+                  >精銳狂戰士</nuxt-link
+                >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/CondottieroNewIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
+                >同盟的話)
+              </li>
+            </ul>
+          </div>
+        </div>
         <h3>文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
