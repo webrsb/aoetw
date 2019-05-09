@@ -139,8 +139,8 @@
           <tr>
             <td class="unit3">防禦</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry"></nuxt-link
-              ><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>
