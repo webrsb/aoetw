@@ -10,8 +10,11 @@
           <p>
             <b>亞馬遜戰士</b
             >出現在《<nuxt-link to="/games/aof">世紀帝國II:失落的帝國</nuxt-link
-            >》版本中的黃金國戰役第一關:黃金國的傳說與第三關:亞馬遜族中，也能在地圖編輯器找到。
-            亞馬遜戰士不能在一般遊戲中被訓練。
+            >》版本中的<nuxt-link to="/batt/El_Doradoa">黃金國戰役</nuxt-link
+            >第一關:<nuxt-link to="/batt/Tales_of_La_Canela"
+              >黃金國的傳說</nuxt-link
+            >與第三關:<nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link
+            >中，也能在地圖編輯器找到。 亞馬遜戰士不能在一般遊戲中被訓練。
           </p>
         </div>
 
@@ -37,7 +40,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">亞馬遜戰士</nuxt-link></div>
+              <div class="unititle">
+                <nuxt-link to="">亞馬遜戰士</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -109,8 +114,7 @@
           <tr>
             <td class="unit3">防禦</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
-              >
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
             </td>
           </tr>
           <tr>

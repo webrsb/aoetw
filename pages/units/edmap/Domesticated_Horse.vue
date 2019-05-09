@@ -8,10 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b
-              ><nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link
-              >(已訓化)</b
-            >在其他<nuxt-link to="/units">單位</nuxt-link
+            <b>馬(已訓化)</b>在其他<nuxt-link to="/units">單位</nuxt-link
             >靠近的時候會自動轉換陣營顏色，如同大地之母單位一樣。馬不能提供任何<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link
