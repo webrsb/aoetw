@@ -8,7 +8,10 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            在世紀帝國II中，一般樹木每單位產量是125<nuxt-link to="/resource/Wood">木材</nuxt-link>，而森林的樹木每單位產量則是100木材。總共有十種不同種類的樹，
+            在世紀帝國II中，一般樹木每單位產量是125<nuxt-link
+              to="/resource/Wood"
+              >木材</nuxt-link
+            >，而森林的樹木每單位產量則是100木材。總共有十種不同種類的樹，
             每種樹對應不同類型的地形，這些樹都可在地圖編輯器中找到。
           </p>
         </div>
@@ -16,20 +19,29 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            樹木的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link>是20，<nuxt-link to="/units/Villager">村民</nuxt-link>通常兩下可以砍倒樹木並開始採集，而研發<nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>後村民只需一擊就能砍倒一棵樹。
+            樹木的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+            >是20，<nuxt-link to="/units/Villager">村民</nuxt-link
+            >通常兩下可以砍倒樹木並開始採集，而研發<nuxt-link
+              to="/techs/Sappers"
+              >坑道工兵</nuxt-link
+            >後村民只需一擊就能砍倒一棵樹。
           </p>
           <p>
-            除了村民能砍樹外，以下單位也可打掉樹木開出路，有時可做為偷襲敵人後方使用，<nuxt-link to="/maps/Black_Forest">黑森林</nuxt-link>尤其常出現這招，
-            要注意的是樹被這些單位擊倒後不能由村民收集會直接消失。樹倒之後可以在原本的位置蓋任何<nuxt-link to="/building">建築物</nuxt-link>。
+            除了村民能砍樹外，以下單位也可打掉樹木開出路，有時可做為偷襲敵人後方使用，<nuxt-link
+              to="/maps/Black_Forest"
+              >黑森林</nuxt-link
+            >尤其常出現這招，
+            要注意的是樹被這些單位擊倒後不能由村民收集會直接消失。樹倒之後可以在原本的位置蓋任何<nuxt-link
+              to="/building"
+              >建築物</nuxt-link
+            >。
           </p>
           <ul>
             <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><nuxt-link
               to="/units/Onager"
               >中型投石車</nuxt-link
-            >(從<nuxt-link
-                  to="/games/aof"
-                  >失落的帝國</nuxt-link
-                >版本開始)→
+            >(從<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >版本開始)→
             <img
               class="gg"
               src="~assets/SiegeOnagerIcon.jpg"
@@ -122,8 +134,10 @@
               >成本便宜33%。
             </li>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >:<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>科技免費研發。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:<nuxt-link
+                to="/building/Lumber_Camp"
+                >伐木場</nuxt-link
+              >科技免費研發。
             </li>
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:自然資源存量+15%。
@@ -132,7 +146,8 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>:<nuxt-link
                 to="/building"
                 >建築</nuxt-link
-              >成本便宜15%。(<nuxt-link to="/building/Farm">農田</nuxt-link>除外)
+              >成本便宜15%。(<nuxt-link to="/building/Farm">農田</nuxt-link
+              >除外)
             </li>
           </ul>
         </div>
@@ -156,11 +171,7 @@
                 <img src="~assets/Acacia_Tree.png" width="220" alt="" />
               </div>
             </td>
-            <td
-              width="25%"
-              valign="middle"
-              style="border: 1px solid #495057;"
-            >
+            <td width="25%" valign="middle" style="border: 1px solid #495057;">
               <strong>金合歡樹（Acacia Tree）</strong><br />
               最大收穫量：150木材
             </td>
