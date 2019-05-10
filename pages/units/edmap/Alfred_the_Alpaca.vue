@@ -19,6 +19,7 @@
         <div class="n1">
           <p>
             <b>被玩家選中時</b>
+            </p>
           <ul>
             <li>Hey! Buy me a drink first, sailor!</li>
             <li>I like it when you touch me that way.</li>
@@ -26,34 +27,37 @@
             <li>Did you wash before you touch me?</li>
             <li>Good god your hands are cold!</li>
           </ul>
-          </p>
+          
           <p>
             <b>被命令移動時</b>
+          </p>
           <ul>
             <li>You move! I don't move you move.</li>
             <li>Hey! Who do you think you are making ME move?</li>
             <li>Woow!</li>
             <li>Wowowowowow wow!</li>
           </ul>
-          </p>
+          
           <p>
             <b>被命令停止/攻擊/轉換狀態時</b>
+          </p>
           <ul>
             <li>Woow!</li>
             <li>Wooooow!</li>
             <li>I am going to attack you!</li>
             <li>Enemy!</li>
           </ul>
-          </p>
+          
           <p>
             <b>死亡時</b>
+          </p>
           <ul>
             <li>Good god I'm dead!</li>
             <li>Eh.</li>
             <li>You killed me! You! Son of a f*cked up.</li>
 
           </ul>
-          </p>
+          
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
