@@ -788,7 +788,7 @@
               登場戰役：<nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link
               >6-<nuxt-link to="/batt/The_Lion_and_the_Demon"
                 >獅子與惡魔</nuxt-link
-              >、<nuxt-link to="/batt/Francisco_de_Almeidaa"
+              >、<nuxt-link to="/batt/Francisco_de_Almeida"
                 >法蘭西斯科·阿爾梅達</nuxt-link
               >3-<nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>
             </p>

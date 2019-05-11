@@ -236,7 +236,7 @@
             </li>
             <li><nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link></li>
             <li>
-              <nuxt-link to="/batt/Francisco_de_Almeidaa"
+              <nuxt-link to="/batt/Francisco_de_Almeida"
                 >法蘭西斯科·阿爾梅達</nuxt-link
               >
             </li>

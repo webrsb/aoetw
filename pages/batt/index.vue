@@ -1321,7 +1321,7 @@
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
                     <div id="a19">
-                      <nuxt-link to="/batt/Francisco_de_Almeidaa"
+                      <nuxt-link to="/batt/Francisco_de_Almeida"
                         >法蘭西斯科·阿爾梅達</nuxt-link
                       >
                     </div>
