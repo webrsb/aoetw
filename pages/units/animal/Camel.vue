@@ -8,9 +8,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>駱駝</b>做為不能訓練的單位首次出現在《<nuxt-link to="/games/aof">世紀帝國II:失落的帝國</nuxt-link
-            >》版本，牠也能在地圖編輯器和一些戰役中找到。駱駝沒有攻擊力，不提供肉，視野範圍也小，對玩家幾乎沒什麼用。
-            在超級隨機賽局上有些玩家一開始會有駱駝代替斥侯作為偵測單位。
+            <b>駱駝</b>做為不能訓練的<nuxt-link to="/units">單位</nuxt-link
+            >首次出現在《<nuxt-link to="/games/aof"
+              >世紀帝國II:失落的帝國</nuxt-link
+            >》版本，牠也能在地圖編輯器和一些<nuxt-link to="/batt"
+              >戰役</nuxt-link
+            >中找到。駱駝沒有<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >，不提供肉，<nuxt-link to="/los.php">視野</nuxt-link
+            >範圍也小，對玩家幾乎沒什麼用。在<nuxt-link to="/maps/Megarandom"
+              >超級隨機</nuxt-link
+            >賽局上有些玩家一開始會有駱駝代替斥侯作為偵測單位。
           </p>
         </div>
 
@@ -96,8 +103,7 @@
           </tr>
           <tr>
             <td class="unit3">防禦</td>
-            <td class="unit4">無
-            </td>
+            <td class="unit4">無</td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
@@ -116,7 +122,7 @@
 </template>
 <script>
 export default {
-  layout: 'alledmap',
+  layout: 'allanimal',
   components: {}
 }
 </script>
