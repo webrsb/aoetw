@@ -146,7 +146,7 @@
           <ul>
             <li>
               <nuxt-link to="/units/Villager">村民</nuxt-link
-              ><nuxt-link to="/los.php">視野</nuxt-link> +3
+              ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link> +3
             </li>
             <li>採石效率 +20%</li>
             <li>

@@ -26,7 +26,7 @@
         </p>
         <p>
           塞爾特人對於火雞的控制有獨特的優勢，就是只要在塞爾特單位的<nuxt-link
-            to="/los.php"
+            to="/elements/Line_of_Sight"
             >視野</nuxt-link
           >內，火雞就無法被其他玩家控制。
         </p>

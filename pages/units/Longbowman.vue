@@ -414,7 +414,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：長弓兵<nuxt-link
-                to="/los.php"
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >+2。
             </li>

@@ -125,7 +125,7 @@
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
                 >:</strong
               ><nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link>系<nuxt-link
-                to="/los.php"
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >+50%
             </li>

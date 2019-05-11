@@ -13,7 +13,7 @@
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            ><nuxt-link to="/los.php">視野</nuxt-link>+2。
+            ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>+2。
           </p>
         </div>
         <h3>戰術</h3>

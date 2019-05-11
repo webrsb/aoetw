@@ -190,7 +190,9 @@
           </h3>
           <ul>
             <li>
-              城鎮中心有+2攻擊與+5<nuxt-link to="/los.php">視野</nuxt-link>
+              城鎮中心有+2攻擊與+5<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
+              >
             </li>
             <li>條頓人免費垛口</li>
             <li>條頓武士訓練時間為12秒</li>

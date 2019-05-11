@@ -13,7 +13,7 @@
             >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，他同樣能在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中使用。在所有阿方索的戰役中他都必須存活。阿方索國王不能攻擊，但移動速度快而且有很大的<nuxt-link
-              to="/los.php"
+              to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >範圍。由於他屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"

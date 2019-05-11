@@ -11,7 +11,7 @@
             <b>間諜</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後可讓玩家看到敵方<nuxt-link to="/los.php"
+            >研發。研發後可讓玩家看到敵方<nuxt-link to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >。間諜是遊戲中唯一的成本變動<nuxt-link to="/techs">科技</nuxt-link
             >，它的花費取決於所有敵方(包括中立玩家)的<nuxt-link

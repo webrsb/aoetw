@@ -12,7 +12,7 @@
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >研發。研發後<nuxt-link to="/building">建築物</nuxt-link
-            ><nuxt-link to="/los.php">視野</nuxt-link>+4。
+            ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>+4。
           </p>
         </div>
         <h3>文明加成</h3>

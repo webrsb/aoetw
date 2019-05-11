@@ -198,7 +198,9 @@
             <li>柏柏：可在射箭場訓練鏢槍騎兵。</li>
             <li>不列顛：射箭場效率提高20％。</li>
             <li>
-              馬扎爾：徒步弓兵有+2<nuxt-link to="/los.php">視野</nuxt-link>。
+              馬扎爾：徒步弓兵有+2<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
+              >。
             </li>
             <li>
               薩拉森：徒步弓兵對<nuxt-link to="/armor/Armor_Class_Building"
@@ -245,7 +247,9 @@
                 <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
               </td>
               <td width="9%">命中率</td>
-              <td width="9%"><nuxt-link to="/los.php">視野</nuxt-link></td>
+              <td width="9%">
+                <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+              </td>
               <td width="9%">速度</td>
               <td width="9%">開火 <br />間隔</td>
             </tr>

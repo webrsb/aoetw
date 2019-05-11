@@ -54,7 +54,8 @@
             >即可容納10人口意味著打22p封快只要在遊戲開始時蓋好兩間房省木省操控流程更簡單；<nuxt-link
               to="/units/Eagle_Scout"
               >鷹斥侯</nuxt-link
-            >比(馬)斥候更大的<nuxt-link to="/los.php">視野</nuxt-link
+            >比(馬)斥候更大的<nuxt-link to="/elements/Line_of_Sight"
+              >視野</nuxt-link
             >且黑暗打架小贏斥候意味著更容易偷羊偷豬；開局即送一隻羊駝意味著不會卡村多一隻比羊速度更快視野更大的動物探路；<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link

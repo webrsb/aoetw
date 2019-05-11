@@ -142,7 +142,8 @@
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
                 >:</strong
-              >徒步弓兵<nuxt-link to="/los.php">視野</nuxt-link>+2
+              >徒步弓兵<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
+              >+2
             </li>
           </ul>
         </div>

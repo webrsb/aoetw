@@ -13,7 +13,8 @@
             >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，她只能在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中使用。她與<nuxt-link to="/units/King">國王</nuxt-link
-            >一樣不能攻擊但有很快的移動速度和良好的<nuxt-link to="/los.php"
+            >一樣不能攻擊但有很快的移動速度和良好的<nuxt-link
+              to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >範圍。由於她屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"

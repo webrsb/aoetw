@@ -231,7 +231,10 @@
               <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
               >有火箭及額外的裝甲以對抗戰船。
             </li>
-            <li>韓國村民的<nuxt-link to="/los.php">視野</nuxt-link> +1。</li>
+            <li>
+              韓國村民的<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+              +1。
+            </li>
             <li>龜甲船的造型變得更為真實。</li>
             <li>
               <nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link>和<nuxt-link

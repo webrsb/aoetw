@@ -24,7 +24,7 @@
           </p>
           <p>
             瞭望箭塔也可用在進攻方面，例如著名的塔攻。在敵人的城鎮附近找尋資源目標，並在敵人無法發現的<nuxt-link
-              to="/los.php"
+              to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >內建造<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >阻止敵人收集資源。執行這個戰術玩家需要在<nuxt-link

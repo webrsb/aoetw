@@ -202,7 +202,9 @@
               <td width="9%">防禦</td>
               <td width="9%">射程</td>
               <td width="9%">攻擊速度</td>
-              <td width="9%"><nuxt-link to="/los.php">視野</nuxt-link></td>
+              <td width="9%">
+                <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+              </td>
               <td width="9%">速度</td>
             </tr>
             <tr>

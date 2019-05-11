@@ -91,7 +91,9 @@
             </li>
             <li>
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-              >可以支持10人口，且<nuxt-link to="/los.php">視野</nuxt-link>+5
+              >可以支持10人口，且<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
+              >+5
             </li>
             <li>
               技術在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link

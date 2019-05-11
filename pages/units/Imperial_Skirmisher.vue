@@ -462,7 +462,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-              >：帝王戰矛兵<nuxt-link to="/los.php">視野</nuxt-link>+2。
+              >：帝王戰矛兵<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
+              >+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -684,7 +686,9 @@
             <td class="unit4">0.96</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+            </td>
             <td class="unit4">7</td>
           </tr>
           <tr>

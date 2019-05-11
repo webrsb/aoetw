@@ -168,7 +168,7 @@
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：<nuxt-link
                 to="/units/Galley"
                 >戰船</nuxt-link
-              ><nuxt-link to="/los.php">視野</nuxt-link>+50%。
+              ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>+50%。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：<nuxt-link

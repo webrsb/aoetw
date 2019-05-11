@@ -143,7 +143,7 @@
               to="/building/Dock"
               >碼頭</nuxt-link
             >有更多的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
-            >和<nuxt-link to="/los.php">視野</nuxt-link
+            >和<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
             >，而且能以箭矢攻擊來犯的敵方單位。
           </li>
         </ul>

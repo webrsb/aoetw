@@ -176,7 +176,7 @@
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：<nuxt-link
                 to="/units/Knight"
                 >騎士</nuxt-link
-              >+2<nuxt-link to="/los.php">視野</nuxt-link>。
+              >+2<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：馬廄工作效率快20％。

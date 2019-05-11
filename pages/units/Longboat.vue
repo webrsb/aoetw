@@ -88,7 +88,8 @@
               維京大戰船開火速率比重型弩砲戰船慢，不過單次攻擊的投射物比較多。
             </li>
             <li>
-              範圍、攻擊、<nuxt-link to="/los.php">視野</nuxt-link
+              範圍、攻擊、<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
               >跟護甲兩者都一樣，不過重型弩砲戰船比維京大戰船多5HP。
             </li>
             <li>

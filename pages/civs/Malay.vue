@@ -28,9 +28,8 @@
             >兩大霸主的貿易路線上，因此群島上常吸取兩大文明的文化和技術，為了體現這點馬來在晉升時代時比別人快。位於群島的馬來有關海的軍事/經濟是該地區絕對不能缺少的，為了體現這點給予<nuxt-link
               to="/building/Dock"
               >碼頭</nuxt-link
-            ><nuxt-link to="/los.php">視野</nuxt-link>看得更遠，<nuxt-link
-              to="/building/Fish_Trap"
-              >漁網</nuxt-link
+            ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
+            >看得更遠，<nuxt-link to="/building/Fish_Trap">漁網</nuxt-link
             >比別人便宜/<nuxt-link to="/resource/Food">食物</nuxt-link
             >量比別人多，且東南亞野生大象是特別的多(因此這邊文明都有象)因此反映了馬來便宜的<nuxt-link
               to="/units/War_Elephant"

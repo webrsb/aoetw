@@ -33,7 +33,8 @@
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多取20%的肉量
             </li>
             <li>
-              塞爾特：單位<nuxt-link to="/los.php">視野</nuxt-link
+              塞爾特：單位<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
               >內，無法被偷乳牛
             </li>
           </ul>

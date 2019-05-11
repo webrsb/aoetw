@@ -202,7 +202,8 @@
                     to="/civs/Incas"
                     >印加</nuxt-link
                   ><nuxt-link to="/civs">文明</nuxt-link
-                  >於遊戲開始時會擁有一隻羊駝，<nuxt-link to="/los.php"
+                  >於遊戲開始時會擁有一隻羊駝，<nuxt-link
+                    to="/elements/Line_of_Sight"
                     >視野</nuxt-link
                   >比一般綿羊大。</span
                 >

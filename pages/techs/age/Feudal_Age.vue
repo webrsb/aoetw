@@ -249,7 +249,8 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link
-                >：建築<nuxt-link to="/los.php">視野</nuxt-link>+4。
+                >：建築<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
+                >+4。
               </li>
               <li>
                 <img

@@ -139,7 +139,9 @@
             <td class="unit4">1.2</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+            </td>
             <td class="unit4">3</td>
           </tr>
         </table>

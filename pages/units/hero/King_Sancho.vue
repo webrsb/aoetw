@@ -13,7 +13,7 @@
             >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，也出現在<nuxt-link to="/batt">戰役</nuxt-link
             >"兄弟鬩牆"與他的兄弟阿方索對決，他同樣能在戰役編輯器中使用。桑喬國王不能攻擊，但移動速度快而且有很大的<nuxt-link
-              to="/los.php"
+              to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >範圍。由於他屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"

@@ -102,7 +102,8 @@
                   <td>
                     <nuxt-link to="/building/Outpost">哨站</nuxt-link
                     >與<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-                    ><nuxt-link to="/los.php">視野</nuxt-link>+3。
+                    ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
+                    >+3。
                   </td>
                 </tr>
                 <tr>

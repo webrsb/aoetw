@@ -583,7 +583,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Spies">間諜</nuxt-link
-                >：可看到敵方<nuxt-link to="/los.php">視野</nuxt-link>。
+                >：可看到敵方<nuxt-link to="/elements/Line_of_Sight"
+                  >視野</nuxt-link
+                >。
               </li>
               <li>
                 <img
