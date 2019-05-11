@@ -127,7 +127,8 @@
                 你可以從四隊人馬中選取兩隊隨你憶起出使朱羅，不同的兵種有不同的打法和戰術。
               </li>
               <li>
-                利用使臣的<nuxt-link to="/los.php">視野</nuxt-link
+                利用使臣的<nuxt-link to="/elements/Line_of_Sight"
+                  >視野</nuxt-link
                 >提前發現敵人。既可以避免誤闖敵人陣地，也可以在會戰前有所準備。
               </li>
               <li>

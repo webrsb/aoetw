@@ -38,7 +38,7 @@
             斥候是<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >，非美洲文明國家皆可以生產，且玩家於一開始皆可獲得一隻斥候。在封建時代即可生產，並且獲得+2攻擊，+2<nuxt-link
-              to="/los.php"
+              to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >和+0.35的速度，利用其速度優勢可以有效的攻擊<nuxt-link
               to="/units/Villager"

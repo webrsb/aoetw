@@ -478,7 +478,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：只要在一個塞爾特單位的<nuxt-link to="/los.php">視野</nuxt-link
+              >：只要在一個塞爾特單位的<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
               >下，羊群不會被牽走
             </li>
             <li>

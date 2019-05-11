@@ -97,7 +97,7 @@
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
                 >:</strong
               ><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>+2<nuxt-link
-                to="/los.php"
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >
             </li>

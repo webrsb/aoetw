@@ -15,7 +15,7 @@
               to="/units/Missionary"
               >傳教士</nuxt-link
             >的<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >範圍和<nuxt-link to="/los.php">視野</nuxt-link>都+3
+            >範圍和<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>都+3
           </p>
           <p>
             此<nuxt-link to="/techs">科技</nuxt-link>為帝王<nuxt-link

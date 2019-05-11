@@ -216,7 +216,8 @@
             <li>步兵移動速度+15%</li>
             <li>攻城器發射速度+20%</li>
             <li>
-              可以在其他玩家單位<nuxt-link to="/los.php">視野</nuxt-link
+              可以在其他玩家單位<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
               >內訓化其他玩家的<nuxt-link to="/units/animal/Sheep"
                 >綿羊</nuxt-link
               >

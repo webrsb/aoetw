@@ -23,7 +23,8 @@
             >，有20個攻擊與400的生命值。
           </p>
           <p>
-            遊戲難易度會影響狼的<nuxt-link to="/los.php">視野</nuxt-link
+            遊戲難易度會影響狼的<nuxt-link to="/elements/Line_of_Sight"
+              >視野</nuxt-link
             >，最易為4，標準為6, 其它難度為12。
           </p>
           <p>

@@ -10,7 +10,9 @@
           <p>
             <b>製圖學</b>可以研究於<nuxt-link to="/building/Market"
               >市集</nuxt-link
-            >。功能是看到盟友的<nuxt-link to="/los.php">視野</nuxt-link>。
+            >。功能是看到盟友的<nuxt-link to="/elements/Line_of_Sight"
+              >視野</nuxt-link
+            >。
           </p>
           <p>
             在遊戲早期這是個非常有用的<nuxt-link to="/techs">科技</nuxt-link

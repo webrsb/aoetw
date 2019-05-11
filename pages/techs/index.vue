@@ -44,7 +44,7 @@
             <td class="tunitc5">50F</td>
             <td class="tunitc6">
               <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>+2<nuxt-link
-                to="/los.php"
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >
             </td>

@@ -224,7 +224,7 @@
             </li>
             <li>
               玩家可以通過將同盟的外交設置為敵人來背叛他們的盟友，這會使他們變成敵人，當然也會失去他們的<nuxt-link
-                to="/los.php"
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >。
             </li>

@@ -195,7 +195,7 @@
           </tr>
           <tr>
             <td class="tta1" style="width:10%">
-              <nuxt-link to="/los.php">視野</nuxt-link>
+              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
             </td>
             <td class="tta4">
               <img

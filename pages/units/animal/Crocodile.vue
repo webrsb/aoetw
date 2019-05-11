@@ -11,7 +11,8 @@
           <b>鱷魚</b>在《<nuxt-link to="/games/ak"
             >世紀帝國II：非洲王國</nuxt-link
           >》首次出現，牠不提供<nuxt-link to="/resource/Food">食物</nuxt-link
-          >但會出現在地圖的一些區域並且會攻擊<nuxt-link to="/los.php"
+          >但會出現在地圖的一些區域並且會攻擊<nuxt-link
+            to="/elements/Line_of_Sight"
             >視野</nuxt-link
           >中的<nuxt-link to="/units/Villager">村民</nuxt-link
           >或軍事單位。如果村民沒有<nuxt-link to="/techs/Loom"

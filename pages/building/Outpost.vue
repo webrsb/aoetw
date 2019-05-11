@@ -32,7 +32,8 @@
               >和採集點(<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
               >或<nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
               >，<nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link
-              >也可)來代替哨站探索地圖跟擴張<nuxt-link to="/los.php"
+              >也可)來代替哨站探索地圖跟擴張<nuxt-link
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >。
             </li>

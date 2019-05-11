@@ -33,7 +33,7 @@
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
             >更多<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
-            >和<nuxt-link to="/los.php">視野</nuxt-link
+            >和<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
             >，作為騎士團起源的法蘭克也擁有<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >的<nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link>讓<nuxt-link

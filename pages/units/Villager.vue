@@ -991,7 +991,8 @@
           <ul>
             <li>村民對箭塔、牆與城堡有+6的攻擊。</li>
             <li>
-              韓國村民最初有+2<nuxt-link to="/los.php">視野</nuxt-link
+              韓國村民最初有+2<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
               >，1.0c後變成+3視野。
             </li>
             <li>

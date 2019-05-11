@@ -444,7 +444,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-              >：羽毛箭射手<nuxt-link to="/los.php">視野</nuxt-link>+2。
+              >：羽毛箭射手<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
+              >+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link

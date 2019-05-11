@@ -428,7 +428,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
-                >：增加建築<nuxt-link to="/los.php">視野</nuxt-link>。
+                >：增加建築<nuxt-link to="/elements/Line_of_Sight"
+                  >視野</nuxt-link
+                >。
               </li>
               <li>
                 <img

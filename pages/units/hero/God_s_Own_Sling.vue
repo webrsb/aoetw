@@ -158,7 +158,9 @@
             <td class="unit4">0.8(未組裝) <br />0(組裝)</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+            </td>
             <td class="unit4">18(未組裝) <br />21(組裝)</td>
           </tr>
         </table>

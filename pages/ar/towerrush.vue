@@ -91,7 +91,7 @@
         <div class="n1">
           <p>
             塔攻一般來說只要第一支塔沒有起來，那麼便沒有威力，所以不斷的擴大<nuxt-link
-              to="/los.php"
+              to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >向外探索，找到對方前置村民，用村民與<nuxt-link to="/units/Militia"
               >民兵</nuxt-link

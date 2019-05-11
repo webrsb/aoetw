@@ -11,7 +11,7 @@
         <div class="n1">
           <p>
             玩家起始位置的小島(三角洲)位於一條大型通航河流的河口，該河流將地圖劃分為兩個部分，到了出海口整個<nuxt-link
-              to="/los.php"
+              to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >會展開來。開局玩家在地圖最北端的小島上。除了4隻<nuxt-link
               to="/units/animal/Goat"

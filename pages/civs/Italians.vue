@@ -228,7 +228,9 @@
           <ul>
             <li>火藥單位成本-20%，不是15％。</li>
             <li>
-              漁船成本-25%而不是+2<nuxt-link to="/los.php">視野</nuxt-link>。
+              漁船成本-25%而不是+2<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
+              >。
             </li>
             <li>僱傭兵訓練時間從11秒增加到16秒。</li>
             <li>熱那亞弩手成本從50w、50g降低到45w、45g。</li>

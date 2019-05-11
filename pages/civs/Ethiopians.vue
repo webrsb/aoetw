@@ -24,7 +24,8 @@
             因為位處貿易中心，衣索比亞必須密切關注鄰近地區的動態，保護他們的土地免受各國覬覦，遊戲中建塔和<nuxt-link
               to="/building/Outpost"
               >哨站</nuxt-link
-            >皆會獲得額外<nuxt-link to="/los.php">視野</nuxt-link>。
+            >皆會獲得額外<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
+            >。
           </p>
           <p>
             衣索比亞的軍隊以專業的<nuxt-link to="/units/Archer_Units"

@@ -46,7 +46,8 @@
               >、<nuxt-link to="/units/Knight">騎士</nuxt-link>、甚至<nuxt-link
                 to="/units/Camel"
                 >駱駝騎兵</nuxt-link
-              >的功能(有遼闊<nuxt-link to="/los.php">視野</nuxt-link
+              >的功能(有遼闊<nuxt-link to="/elements/Line_of_Sight"
+                >視野</nuxt-link
               >，對騎兵有些微攻擊加成)。
             </li>
             <li>

@@ -535,7 +535,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
-                to="/los.php"
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >內的動物不會被轉化
             </li>

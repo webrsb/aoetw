@@ -146,7 +146,8 @@
               你的兩個間諜（格雷米奧和西蒙）在下水道的排水口處。你必須沿溝渠到營地。
             </li>
             <li>
-              你的兵種們在戰霧裡前行。如果他們進入敵人<nuxt-link to="/los.php"
+              你的兵種們在戰霧裡前行。如果他們進入敵人<nuxt-link
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >，你很可能被守衛發現。
             </li>

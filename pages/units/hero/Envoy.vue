@@ -16,7 +16,8 @@
           <p>
             在遊戲中使者的外型類似<nuxt-link to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
-            >，功能也很雷同，例如:有較好的<nuxt-link to="/los.php"
+            >，功能也很雷同，例如:有較好的<nuxt-link
+              to="/elements/Line_of_Sight"
               >視野</nuxt-link
             >範圍跟對<nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link
             >攻擊加成。但他的戰鬥能力比輕騎兵更好。他不能被<nuxt-link

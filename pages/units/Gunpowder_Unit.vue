@@ -103,7 +103,9 @@
               <td width="9%">
                 <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
               </td>
-              <td width="9%"><nuxt-link to="/los.php">視野</nuxt-link></td>
+              <td width="9%">
+                <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+              </td>
               <td width="9%">速度</td>
               <td width="9%">訓練時間</td>
             </tr>
