@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>武裝羊駝</b>的外觀與羊駝相似，但體型較小，沒有馬鞍，戴著金色的皇冠，而且有說話的能力。
-            它的移動速度中等（與大多數步兵相當）並使用頭槌攻擊。因為它具有非常高的護甲和踐踏傷害，武裝
-            羊駝在與任何單位的近戰中幾乎立於不敗之地。然而，武裝羊駝很怕打帶跑戰術與對付移動快速的遠程
-            單位，因為它缺乏速度和遠程攻擊。武裝羊駝也很怕城堡和火炮塔的攻擊。
+            <b>武裝羊駝</b>的外觀與<nuxt-link to="/units/animal/Llama">羊駝</nuxt-link>相似，但體型較小，沒有馬鞍，戴著金色的皇冠，而且有說話的能力。
+            它的移動速度中等（與大多數<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>相當）並使用頭槌攻擊。因為它具有非常高的護甲和<nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link>，武裝
+            羊駝在與任何<nuxt-link to="/units">單位</nuxt-link>的近戰中幾乎立於不敗之地。然而，武裝羊駝很怕打帶跑戰術與對付移動快速的<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>
+            單位，因為它缺乏速度和遠程攻擊。武裝羊駝也很怕<nuxt-link to="/building/Castle">城堡</nuxt-link>和<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>的攻擊。
           </p>
         </div>
         <h3>遊戲內對話</h3>
