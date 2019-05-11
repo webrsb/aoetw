@@ -495,7 +495,7 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對卡拉維爾戰船有額外攻擊力
+        以下科技可讓以下單位對卡拉維爾戰船有額外攻擊力
         <div class="n1">
           <div class="row">
             <div class="col-md-4">

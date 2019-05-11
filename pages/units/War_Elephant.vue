@@ -462,7 +462,7 @@
                 </ul>
               </div>
               <div class="col-md-12">
-                以下技術可讓以下單位對戰象有額外攻擊力
+                以下科技可讓以下單位對戰象有額外攻擊力
                 <div class="n1">
                   <img
                     class="gg"

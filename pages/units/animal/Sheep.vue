@@ -87,7 +87,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物量</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>量
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

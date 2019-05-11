@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            世紀帝國1中出現的<nuxt-link to="/units/Infantry_Units"
+            世紀帝國I中出現的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >兵種，功能類似于世紀帝國II中的<nuxt-link to="/units/Champion"
               >劍兵勇士</nuxt-link
@@ -21,8 +21,9 @@
             >欺負。
           </p>
         </div>
+        <h2>冷知識</h2>
+        <div class="hrn1"></div>
         <div class="n1">
-          <h2>冷知識</h2>
           <p>
             早期的青銅劍主要作用是穿刺武器，而后，更重更大的劍則實質上為一把大刀。可以砍進裝甲，或抵擋僅僅有刺傷能力的短劍的攻擊。
           </p>
@@ -57,7 +58,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">世紀帝國1</td>
+            <td class="unit4">世紀帝國I</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">

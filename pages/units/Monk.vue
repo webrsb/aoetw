@@ -34,7 +34,7 @@
             >。起初，他們非常薄弱，但是通過研究<nuxt-link
               to="/building/Monastery"
               >修道院</nuxt-link
-            >內的所有技術，他們能力可以得到很大的提升。
+            >內的所有科技，他們能力可以得到很大的提升。
           </p>
           <p>
             在所有的<nuxt-link to="/civs">文明</nuxt-link>中，<nuxt-link

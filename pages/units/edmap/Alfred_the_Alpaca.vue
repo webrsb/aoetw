@@ -8,10 +8,24 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>武裝羊駝</b>的外觀與<nuxt-link to="/units/animal/Llama">羊駝</nuxt-link>相似，但體型較小，沒有馬鞍，戴著金色的皇冠，而且有說話的能力。
-            它的移動速度中等（與大多數<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>相當）並使用頭槌攻擊。因為它具有非常高的護甲和<nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link>，武裝
-            羊駝在與任何<nuxt-link to="/units">單位</nuxt-link>的近戰中幾乎立於不敗之地。然而，武裝羊駝很怕打帶跑戰術與對付移動快速的<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>
-            單位，因為它缺乏速度和遠程攻擊。武裝羊駝也很怕<nuxt-link to="/building/Castle">城堡</nuxt-link>和<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>的攻擊。
+            <b>武裝羊駝</b>的外觀與<nuxt-link to="/units/animal/Llama"
+              >羊駝</nuxt-link
+            >相似，但體型較小，沒有馬鞍，戴著金色的皇冠，而且有說話的能力。
+            它的移動速度中等（與大多數<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >相當）並使用頭槌攻擊。因為它具有非常高的護甲和<nuxt-link
+              to="/elements/Area_of_Effect"
+              >踐踏傷害</nuxt-link
+            >，武裝 羊駝在與任何<nuxt-link to="/units">單位</nuxt-link
+            >的近戰中幾乎立於不敗之地。然而，武裝羊駝很怕打帶跑戰術與對付移動快速的<nuxt-link
+              to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >
+            單位，因為它缺乏速度和遠程攻擊。武裝羊駝也很怕<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
+            >和<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+            >的攻擊。
           </p>
         </div>
         <h3>遊戲內對話</h3>
@@ -19,7 +33,7 @@
         <div class="n1">
           <p>
             <b>被玩家選中時</b>
-            </p>
+          </p>
           <ul>
             <li>Hey! Buy me a drink first, sailor!</li>
             <li>I like it when you touch me that way.</li>
@@ -27,7 +41,7 @@
             <li>Did you wash before you touch me?</li>
             <li>Good god your hands are cold!</li>
           </ul>
-          
+
           <p>
             <b>被命令移動時</b>
           </p>
@@ -37,7 +51,7 @@
             <li>Woow!</li>
             <li>Wowowowowow wow!</li>
           </ul>
-          
+
           <p>
             <b>被命令停止/攻擊/轉換狀態時</b>
           </p>
@@ -47,7 +61,7 @@
             <li>I am going to attack you!</li>
             <li>Enemy!</li>
           </ul>
-          
+
           <p>
             <b>死亡時</b>
           </p>
@@ -55,9 +69,7 @@
             <li>Good god I'm dead!</li>
             <li>Eh.</li>
             <li>You killed me! You! Son of a f*cked up.</li>
-
           </ul>
-          
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
@@ -123,10 +135,11 @@
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Towncentericon.png" alt="" /><nuxt-link
-                to="/building/Town_Center"
-                >城鎮中心</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/Towncentericon.png"
+                alt=""
+              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -151,8 +164,11 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +100對<nuxt-link to="/armor/Armor_Class_Standard_Building">標準建築物</nuxt-link><br />
-              +100對<nuxt-link to="/armor/Armor_Class_stone_defense">石頭建築</nuxt-link
+              +100對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+                >標準建築物</nuxt-link
+              ><br />
+              +100對<nuxt-link to="/armor/Armor_Class_stone_defense"
+                >石頭建築</nuxt-link
               >
             </td>
           </tr>
@@ -176,8 +192,7 @@
           </tr>
           <tr>
             <td class="unit3">防禦</td>
-            <td class="unit4">無
-            </td>
+            <td class="unit4">無</td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>

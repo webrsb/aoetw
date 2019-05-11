@@ -499,7 +499,7 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對重型神風船有額外<nuxt-link to="/elements/Attack"
+        以下科技可讓以下單位對重型神風船有額外<nuxt-link to="/elements/Attack"
           >攻擊力</nuxt-link
         >
         <div class="n1">

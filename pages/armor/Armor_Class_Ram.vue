@@ -222,7 +222,7 @@
             </div>
           </div>
         </div>
-        <h3>技術</h3>
+        <h3>科技</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <img

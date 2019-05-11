@@ -565,7 +565,7 @@
               </ul>
             </div>
           </div>
-          以下技術研發後對<nuxt-link to="/armor/Armor_Class_Spearman"
+          以下科技研發後對<nuxt-link to="/armor/Armor_Class_Spearman"
             >長槍兵</nuxt-link
           >有額外攻擊力，以數值排列:
           <div class="n1">

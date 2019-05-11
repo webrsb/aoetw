@@ -21,8 +21,9 @@
             >場景（失落的帝國）中。
           </p>
         </div>
+        <h2>冷知識</h2>
+        <div class="hrn1"></div>
         <div class="n1">
-          <h2>冷知識</h2>
           <p>
             龍船現實中一般是指<nuxt-link to="/civs/Vikings">維京人</nuxt-link
             >的戰船，而説到<nuxt-link to="/civs/Chinese">中國</nuxt-link

@@ -41,7 +41,7 @@
               <nuxt-link to="//units/animal/Jaguar">豹</nuxt-link>•
               <nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link>•
               <nuxt-link to="/units/animal/Bear">熊</nuxt-link>•
-              駱駝•
+              <nuxt-link to="/units/animal/Camel">駱駝</nuxt-link>•
               <nuxt-link to="/units/animal/Donkey">驢</nuxt-link>•
               <nuxt-link to="/units/animal/Tiger">虎</nuxt-link>•
               <nuxt-link to="/units/animal/Lion">獅子</nuxt-link>•

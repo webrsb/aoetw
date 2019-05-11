@@ -33,7 +33,10 @@
         <h3>登場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <strong>《阿提拉：上帝之鞭》</strong>
+          《<nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>：<nuxt-link
+            to="/batt/Scourge_of_God"
+            >上帝之鞭</nuxt-link
+          >》
           <ul>
             <p>
               由於貝里達將會在殺掉鐵野豬後背叛玩家，所以最好讓貝里達獨自獵殺鐵野豬。以下有幾種狀況。一般請況下，貝里達將會被鐵野豬殺死，這讓阿提拉在貝里達躲過伏擊時可以輕易地殺死他。接下來還有以下幾種做法
@@ -47,7 +50,8 @@
               殺死鐵野豬，然後跑回營地，這樣玩家可以控制所有貝里達的單位。
             </li>
           </ul>
-          <strong> 《布里斯比羅吉：英雄出少年》</strong>
+          《<nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link
+          >：<nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link>》
           <p>
             當玩家在跨越河流(接近瀑布的地方)時，會遇到鐵野豬。鐵野豬會攻擊玩家，這時玩家不應該上前企圖殺死他，而是應該後退引誘牠進入河中。牠將被淹死在瀑布裡，然後玩家將可以安全地度過河流。
           </p>

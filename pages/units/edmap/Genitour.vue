@@ -27,8 +27,9 @@
             現在馬勇士不再出現於編輯器中（自5.1版以來），但它仍然可以在遊戲檔案中找到。
           </p>
         </div>
+        <h2>冷知識</h2>
+        <div class="hrn1"></div>
         <div class="n1">
-          <h2>冷知識</h2>
           <p>
             它最初計劃成為<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             ><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link

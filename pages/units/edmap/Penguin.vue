@@ -8,16 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            該<b>企鵝</b>是一種作弊單位在世紀帝國II中。然而，它並沒有出現在世紀帝國II：失落的帝國
-            模組中。這是一個裝甲和傷害輸出相當高的<nuxt-link
+            該<b>企鵝</b>是一種作弊單位在世紀帝國II中。然而，它並沒有出現在《<nuxt-link
+              to="/games/aof"
+              title="世紀帝國II：失落的帝國"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》模組中。這是一個裝甲和傷害輸出相當高的<nuxt-link
               to="/units/Infantry_Units"
               >步兵單位</nuxt-link
             >。它只出現在場景編輯器中。
           </p>
           <p>企鵝與人類單位的游戲邏輯和機制是相同的。</p>
         </div>
+        <h2>冷知識</h2>
+        <div class="hrn1"></div>
         <div class="n1">
-          <h2>冷知識</h2>
           <p>
             並看不出這是個什麽種的企鵝，然而當你輸入“I don't
             exist."時就會出現在你的<nuxt-link to="/building/Town_Center"

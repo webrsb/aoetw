@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
-            >中，<b>皇家衛兵</b>是不可生產的<nuxt-link
+            《<nuxt-link to="/games/aof" title="世紀帝國II：失落的帝國"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >》中，<b>皇家衛兵</b>是不可生產的<nuxt-link
               to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
             >。 它僅在地圖編輯器中可用。除了命中率外，它的各種數據與<nuxt-link
