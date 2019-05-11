@@ -14,7 +14,7 @@
             >》劇情<nuxt-link to="/batt">戰役</nuxt-link>中的第三關。
           </p>
           <p>
-            <b>法蘭西斯科．德．阿爾梅達</b>被年輕國王瑪努爾任命為<nuxt-link
+            <b>法蘭西斯科·阿爾梅達</b>被年輕國王瑪努爾任命為<nuxt-link
               to="/civs/Indians"
               >印度</nuxt-link
             >總督，這件事讓整個<nuxt-link to="/civs/Portuguese"
@@ -219,7 +219,7 @@
         <div class="n1">
           <ul>
             <li>
-              暴風雨讓<b>法蘭西斯科．德．阿爾梅達</b>和他的兒子<b>洛倫索</b>在航行中迷失了方向，與其餘艦隊失散了。毀壞的<nuxt-link
+              暴風雨讓<b>法蘭西斯科·阿爾梅達</b>和他的兒子<b>洛倫索</b>在航行中迷失了方向，與其餘艦隊失散了。毀壞的<nuxt-link
                 to="/units/Naval_Vessels"
                 >船艦</nuxt-link
               >到達了松果島，這是斯瓦西里海岸的眾多島嶼中的一個。
@@ -418,7 +418,7 @@
             維基百科上的<i
               ><b
                 ><a href="http://t.cn/EqFPNxP" target="_blank"
-                  >法蘭西斯科．德．阿爾梅達</a
+                  >法蘭西斯科·阿爾梅達</a
                 ></b
               ></i
             >
