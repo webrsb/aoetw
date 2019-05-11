@@ -8,12 +8,23 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>齊格非</b>是世紀帝國II的地圖編輯器中的步兵英雄。 他以北歐神話中的傳奇英雄西格德為基礎，
-            融合幾個斯堪地納維亞傳奇的中心人物，以及使用瓦格納的同名歌劇做為設計。</p><br>
-            <p>在遊戲中齊格非的外表是劍兵勇士。 與其他步兵一樣，齊格非受到影響步兵的所有升級以及文明加成影響。
-            作為英雄，他無法被招降並能自動回寫(自征服者入侵版本)。
+            <b>齊格非</b>是世紀帝國II的地圖編輯器中的<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵英雄</nuxt-link
+            >。
+            他以北歐神話中的傳奇英雄西格德為基礎，融合幾個斯堪地納維亞傳奇的中心人物，以及使用瓦格納的同名歌劇做為設計。
           </p>
-          
+          <p>
+            在遊戲中齊格非的外表是<nuxt-link to="/units/Champion"
+              >劍兵勇士</nuxt-link
+            >。 與其他<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >一樣，齊格非受到影響步兵的所有升級以及<nuxt-link to="/civs"
+              >文明</nuxt-link
+            >加成影響。作為英雄，他無法被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >並能自動回血(自<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            >版本)。
+          </p>
         </div>
         <div></div>
         <div></div>
@@ -36,7 +47,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle2" style="color: #fff;">單位介紹</div>
+              <div class="unititle2" style="color: #fff;">
+                <nuxt-link to="/units">單位</nuxt-link>介紹
+              </div>
             </td>
           </tr>
           <tr>
@@ -70,8 +83,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-             +2對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link>
+              +2對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -91,8 +103,9 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
-            <td class="unit4"><nuxt-link to="/armor/Armor_Class_Infantry"
-                >步兵</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
