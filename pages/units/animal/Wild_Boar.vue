@@ -8,18 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>野豬</b>在遊戲初期是豐富的食物來源(340肉)，但牠75的血量與7的攻擊力讓狩獵牠不像獵鹿那樣簡單。通常需要一群村民
-            合力獵捕。可以使用一位村民朝野豬射兩箭後馬上往城鎮中心跑，將野豬引誘到城鎮中心跟其他村民一起殺掉牠。厲害的            玩家甚至可以用斥侯偷敵方家的豬，只是這需要極大的控制力，野豬對斥侯還有鷹勇士有額外攻擊加成，所以控不好會白白
-            送掉一個單位。野豬如果被村民以外的單位殺掉就無法蒐集牠的肉。
+            <b>野豬</b
+            >在遊戲初期是豐富的<nuxt-link to="/resource/Food">食物</nuxt-link>來源(340肉)，但牠75的<nuxt-link to="/elements/Hit_points">血量</nuxt-link>與7的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>讓狩獵牠不像獵<nuxt-link to="/units/animal/Deer">鹿</nuxt-link>那樣簡單。通常需要一群<nuxt-link to="/units/Villager">村民</nuxt-link>            合力獵捕。可以使用一位村民朝野豬射兩箭後<nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link>上往<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>跑，將野豬引誘到城鎮中心跟其他村民一起殺掉牠。厲害的玩家甚至可以用<nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>偷敵方家的豬，只是這需要極大的控制力，野豬對斥侯還有<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>有額外攻擊加成，所以控不好會白白送掉一個單位。野豬如果被村民以外的單位殺掉就無法蒐集牠的肉。
           </p>
-          <p>
-            野豬大小事:
-            <ul>
-                <li>野豬平常移動速度是0.8，憤怒時候是1。黑暗時代斥侯移動速度是1.2，鷹勇士移動速度是1.1，村民移動速度是0.8。</li>
-                <li>Javelina是野豬在岩坑池的美洲版本，只是名字不一樣而已。</li>
-                <li>鐵野豬是野豬的強化版本，擁有350的血量，出現在阿提拉戰役第一關，當時貝里達邀請阿提拉一起狩獵鐵野豬。</li>
-            </ul>
-          </p>
+          野豬大小事:
+          <ul>
+            <li>
+              野豬平常移動速度是0.8，憤怒時候是1。<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>斥侯移動速度是1.2，<nuxt-link to="/armor/Armor_Class_Eagle_Warrior">鷹勇士</nuxt-link>移動速度是1.1，村民移動速度是0.8。
+            </li>
+            <li>Javelina是野豬在<nuxt-link to="/maps/Cenotes">岩坑池</nuxt-link>的美洲版本，只是名字不一樣而已。</li>
+            <li>
+              <nuxt-link to="/units/animal/Iron_Boar">鐵野豬</nuxt-link>是野豬的強化版本，擁有350的血量，出現在<nuxt-link to="/batt/Attila_the_Huna">阿提拉戰役</nuxt-link>第一關，當時貝里達邀請<nuxt-link to="/units/hero/Attila_the_Hun">阿提拉</nuxt-link>一起狩獵鐵野豬。
+            </li>
+          </ul>
         </div>
         <h3>介紹影片</h3>
         <div class="hrn1"></div>
@@ -53,7 +54,10 @@
             </div>
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Wild_Boar_butchered.png" alt=""
+                ><img
+                  class="imgn hg"
+                  src="~assets/Wild_Boar_butchered.png"
+                  alt=""
               /></gallery>
               <p><em>村民正蒐集野豬肉。</em></p>
             </div>
@@ -86,7 +90,7 @@
             <td class="unit4">340</td>
           </tr>
           <tr>
-            <td class="unit3">生命值</td>
+            <td class="unit3"><nuxt-link to="/elements/Hit_points">生命值</nuxt-link></td>
             <td class="unit4">75</td>
           </tr>
           <tr>
@@ -98,7 +102,7 @@
         <div class="thanks">感謝! 此頁面由進銘協助編輯</div>
       </div>
     </div>
- 
+  </div>
 </template>
 <script>
 export default {
