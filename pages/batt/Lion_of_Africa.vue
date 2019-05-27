@@ -10,7 +10,7 @@
           <p>
             <b>非洲雄獅</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeida"
-              >法蘭西斯科·阿爾梅達</nuxt-link
+              >法蘭西斯科·德·阿爾梅達</nuxt-link
             >》劇情<nuxt-link to="/batt">戰役</nuxt-link>中的第二關。
           </p>
           <p>
@@ -207,7 +207,7 @@
         <div class="n1">
           <ul>
             <li>
-              法蘭西斯科·阿爾梅達控制著盧克斯河中的一座島上的格拉西奧薩堡（藍）。
+              法蘭西斯科·德·阿爾梅達控制著盧克斯河中的一座島上的格拉西奧薩堡（藍）。
               這座島的資源十分有限，需要依靠河兩岸的柏柏城鎮來提供糧草。
             </li>
             <li>
@@ -348,7 +348,7 @@
             <ol>
               <li>
                 據官方開發者之一Filthydelphia
-                Creations的說法:此關戰役原本設計阿方索阿爾布開特為葡萄牙戰役的第一關場景並為全篇的主角，但最終方案還是選擇了法蘭西斯科·阿爾梅達。
+                Creations的說法:此關戰役原本設計阿方索阿爾布開特為葡萄牙戰役的第一關場景並為全篇的主角，但最終方案還是選擇了法蘭西斯科·德·阿爾梅達。
               </li>
             </ol>
           </div>
@@ -385,7 +385,7 @@
             <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </td>
           </tr>

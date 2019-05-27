@@ -328,7 +328,7 @@
           <tr>
             <td class="unit3" style="width: 15%;">
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </td>
             <td class="unit4">

@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>重型衝撞車</b
-            >，俗稱<b>大衝車</b>。要等到帝王時期花費1000的<nuxt-link
+            >，俗稱<b>大衝車</b>。要等到帝王時代花費1000的<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link
             >才能研發，在許多高手心目中，有沒有重型衝撞車為判定一個<nuxt-link

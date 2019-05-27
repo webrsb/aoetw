@@ -789,7 +789,7 @@
               >6-<nuxt-link to="/batt/The_Lion_and_the_Demon"
                 >獅子與惡魔</nuxt-link
               >、<nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >3-<nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>
             </p>
           </div>
@@ -1221,7 +1221,7 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link
               >5-<nuxt-link to="/batt/The_Lions_Den">深入虎穴</nuxt-link
-              >、法蘭西斯科·阿爾梅達3-帝國的廢墟
+              >、法蘭西斯科·德·阿爾梅達3-帝國的廢墟
             </p>
           </div>
           <div class="col-md-4">
@@ -1248,10 +1248,10 @@
               位於現今葡萄牙里斯本的貝倫區，建立於1514年至1520年間，用來紀念達伽馬成功航海世界一周以及防禦位於貝倫區的港口，建築本身大量使用了摩爾人和阿拉伯人的藝術元素。
             </p>
             <p>
-              登場戰役：法蘭西斯科·阿爾梅達4-<nuxt-link
+              登場戰役：法蘭西斯科·德·阿爾梅達4-<nuxt-link
                 to="/batt/Estado_da_India"
                 >葡屬印度</nuxt-link
-              >、法蘭西斯科·阿爾梅達5-<nuxt-link to="/batt/A_Sons_Blood"
+              >、法蘭西斯科·德·阿爾梅達5-<nuxt-link to="/batt/A_Sons_Blood"
                 >兒子的血仇</nuxt-link
               >、<nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link
               >5-<nuxt-link to="/batt/The_Old_Tiger">鳳凰涅槃</nuxt-link>

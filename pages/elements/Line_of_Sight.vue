@@ -57,7 +57,10 @@
               >免費獲得，所以他們一開局就能跟同盟分享彼此的視野。
             </li>
             <li>
-              城鎮暸望給<nuxt-link to="/building">建築</nuxt-link>單位+4視野範圍
+              <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>給<nuxt-link
+                to="/building"
+                >建築</nuxt-link
+              >單位+4視野範圍
             </li>
             <li>
               <nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link

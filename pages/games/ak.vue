@@ -237,7 +237,7 @@
             <li><nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link></li>
             <li>
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </li>
             <li><nuxt-link to="/batt/Yodita">優娣忒</nuxt-link></li>

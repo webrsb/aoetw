@@ -42,7 +42,7 @@
               >也抵免一半的加成傷害。
             </li>
             <li>
-              後帝王時期的聖騎兵<nuxt-link to="/elements/Attack"
+              後帝王時代的聖騎兵<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
               >僅有14，攻擊力甚至低於<nuxt-link to="/civs/Malians"
                 >馬利</nuxt-link

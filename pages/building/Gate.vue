@@ -209,13 +209,14 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              建築(+20) <br /><nuxt-link
+              建築(+20)<br /><nuxt-link
                 to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
-              <br />石造防禦 <br /><nuxt-link
-                to="/armor/Armor_Class_wall_and_gate"
-                >城門和城牆</nuxt-link
+              <br /><nuxt-link to="/armor/Armor_Class_stone_defense"
+                >石頭建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_wall_and_gate"
+                >城牆和城門</nuxt-link
               >
             </td>
           </tr>

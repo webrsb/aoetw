@@ -10,7 +10,7 @@
           <p>
             <b>舊世界</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeida"
-              >法蘭西斯科·阿爾梅達</nuxt-link
+              >法蘭西斯科·德·阿爾梅達</nuxt-link
             >》劇情<nuxt-link to="/batt">戰役</nuxt-link
             >中的第一關（另譯前朝舊夢）。
           </p>
@@ -381,7 +381,7 @@
             <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </td>
           </tr>

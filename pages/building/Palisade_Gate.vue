@@ -197,6 +197,8 @@
               <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               ><br /><nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_wall_and_gate"
+                >城牆和城門</nuxt-link
               >
             </td>
           </tr>

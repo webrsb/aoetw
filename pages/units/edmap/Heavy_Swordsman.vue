@@ -12,7 +12,7 @@
               >步兵</nuxt-link
             >兵種，功能類似于世紀帝國II中的<nuxt-link to="/units/Champion"
               >劍兵勇士</nuxt-link
-            >，只出現在游戲的地圖編輯器中<b>重劍兵</b>對戰<nuxt-link
+            >，只出現在遊戲的地圖編輯器中<b>重劍兵</b>對戰<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
             >部隊時並不吃虧，但是重劍兵的移動速度緩慢，非常懼怕遠距離部隊。很顯然緩慢的移動速度使得這個兵種早期也較容易被<nuxt-link

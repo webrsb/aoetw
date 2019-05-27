@@ -125,7 +125,7 @@
         <table class="table-bordered" width="100%">
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle2">劣勢與優勢</div>
+              <div class="unititle">劣勢與優勢</div>
             </td>
           </tr>
           <tr>

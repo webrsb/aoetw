@@ -367,7 +367,7 @@
             to="/resource/Stone"
             >石頭</nuxt-link
           >和不等的<nuxt-link to="/resource/Wood">木材</nuxt-link
-          >（木材量是根據他們留下多少決定）。在這裡建立你的基地並用城門和城牆封住河流穿越處。
+          >（木材量是根據他們留下多少決定）。在這裡建立你的基地並用城牆和城門封住河流穿越處。
         </li>
         <li>
           現在趕快發展你的經濟體，優先建造<nuxt-link to="/building/House"

@@ -172,7 +172,7 @@
                 >矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、。
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">

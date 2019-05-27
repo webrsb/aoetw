@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>蒙古帝國</b>由<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
-            >鐵木真（<nuxt-link to="/units/hero/Genghis_Khan"
+            <b>蒙古帝國</b>由蒙古人鐵木真（<nuxt-link
+              to="/units/hero/Genghis_Khan"
               >成吉思汗</nuxt-link
             >）於1206年在斡難河邊建立，國號「大蒙古國」。據《蒙古秘史》，其創始於斡難河河源，通常認為創建時間約為鐵木真征服蒙古高原各部落（塔塔爾、泰赤烏、蔑兒乞、乃蠻、克烈、汪古部、以尼倫和迭列斤兩大部落組成的蒙兀王國）、始有「成吉思汗」之稱號時的1206年。
           </p>

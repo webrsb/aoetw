@@ -64,7 +64,7 @@
               to="/civs/Turks"
               >土耳其</nuxt-link
             >與<nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link
-            >則是在帝王時期可以展現出強大的威力。馬扎爾通過<nuxt-link
+            >則是在帝王時代可以展現出強大的威力。馬扎爾通過<nuxt-link
               to="/techs/Recurve_Bow"
               >反曲弓</nuxt-link
             >技術，可以使射程與攻擊額外+1，<nuxt-link to="/civs/Turks"
@@ -104,7 +104,7 @@
                 >矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、。
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">

@@ -2,15 +2,15 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>法蘭西斯科·阿爾梅達</h1>
+        <h1>法蘭西斯科·德·阿爾梅達</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是說關於法蘭西斯科·阿爾梅達<nuxt-link to="/batt"
+            >這篇文章是說關於法蘭西斯科·德·阿爾梅達<nuxt-link to="/batt"
               >戰役</nuxt-link
-            >。主要敘事的人是法蘭西斯科·阿爾梅達的副官岡薩洛·皮薩羅</em
+            >。主要敘事的人是法蘭西斯科·德·阿爾梅達的副官岡薩洛·皮薩羅</em
           >
         </div>
         <div class="n1">
@@ -25,7 +25,7 @@
               >希望在舊世界無法實現的榮耀和財富。你能領導一支葡萄牙艦隊到東方，建立一個橫跨三大洲和兩大洋的帝國嗎？一個新的世界在等著你！
             </em>
             <p style="text-align: right;margin-top: 10px;">
-              -遊戲中對於法蘭西斯科·阿爾梅達戰役的介紹
+              -遊戲中對於法蘭西斯科·德·阿爾梅達戰役的介紹
             </p>
           </div>
           <p>
@@ -65,7 +65,7 @@
           <div class="row">
             <div class="col-md-12">
               <p>
-                法蘭西斯科·阿爾梅達由5個關卡組成。玩家扮演的是葡萄人，顏色是藍色的。
+                法蘭西斯科·德·阿爾梅達由5個關卡組成。玩家扮演的是葡萄人，顏色是藍色的。
               </p>
             </div>
             <div class="col-md-6">
@@ -91,13 +91,13 @@
                 width="300"
                 alt=""
               />
-              <p>法蘭西斯科·阿爾梅達戰役地圖</p>
+              <p>法蘭西斯科·德·阿爾梅達戰役地圖</p>
             </div>
           </div>
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>法蘭西斯科·阿爾梅達的其他資訊</p>
+            <p>法蘭西斯科·德·阿爾梅達的其他資訊</p>
             <ul></ul>
           </div>
         </div>
@@ -107,7 +107,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle" style="color: #fff;">
-                法蘭西斯科·阿爾梅達
+                法蘭西斯科·德·阿爾梅達
               </div>
             </td>
           </tr>
@@ -115,7 +115,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/Retrato_de_D.png" width="300" alt="" />
-                <p><em>本系列主角 法蘭西斯科·阿爾梅達</em></p>
+                <p><em>本系列主角 法蘭西斯科·德·阿爾梅達</em></p>
               </div>
             </td>
           </tr>
@@ -156,14 +156,14 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的法蘭西斯科·阿爾梅達
+            維基百科上的法蘭西斯科·德·阿爾梅達
             <div style="margin-left: 10px;">
               <i
                 ><b
                   ><a
                     href="https://en.wikipedia.org/wiki/Francisco_de_Almeida"
                     target="_blank"
-                    >法蘭西斯科·阿爾梅達</a
+                    >法蘭西斯科·德·阿爾梅達</a
                   ></b
                 ></i
               >

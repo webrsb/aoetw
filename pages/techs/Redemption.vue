@@ -126,11 +126,12 @@
                   ><span style="margin-left: 2px;">可招降</span></strong
                 >
               </h4>
-              <nuxt-link to="/building/House">房屋</nuxt-link
-              ><nuxt-link to="/building/Mill">磨坊</nuxt-link>、<nuxt-link
-                to="/building/Market"
-                >市集</nuxt-link
-              >、<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
+              <nuxt-link to="/building/House">房屋</nuxt-link>、<nuxt-link
+                to="/building/Mill"
+                >磨坊</nuxt-link
+              >、<nuxt-link to="/building/Market">市集</nuxt-link>、<nuxt-link
+                to="/building/Lumber_Camp"
+                >伐木場</nuxt-link
               >、<nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
               >、<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >、<nuxt-link to="/building/University">學院</nuxt-link

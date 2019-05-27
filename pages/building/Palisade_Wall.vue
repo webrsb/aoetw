@@ -290,7 +290,7 @@
                 >標準建築</nuxt-link
               >
               <br /><nuxt-link to="/armor/Armor_Class_wall_and_gate"
-                >牆與門</nuxt-link
+                >城牆和城門</nuxt-link
               >
             </td>
           </tr>

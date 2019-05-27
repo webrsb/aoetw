@@ -72,7 +72,7 @@
                 <nuxt-link to="#a17">【塔里克·伊本·齊亞德】</nuxt-link
                 >、<nuxt-link to="#a18">【松迪亞塔】</nuxt-link>、<nuxt-link
                   to="#a19"
-                  >【法蘭西斯科·阿爾梅達】</nuxt-link
+                  >【法蘭西斯科·德·阿爾梅達】</nuxt-link
                 >、<nuxt-link to="#a20">【優娣忒】</nuxt-link>
               </p>
               <p>
@@ -1322,7 +1322,7 @@
                   <div class="unititle">
                     <div id="a19">
                       <nuxt-link to="/batt/Francisco_de_Almeida"
-                        >法蘭西斯科·阿爾梅達</nuxt-link
+                        >法蘭西斯科·德·阿爾梅達</nuxt-link
                       >
                     </div>
                   </div>
