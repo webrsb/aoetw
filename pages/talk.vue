@@ -6,7 +6,15 @@
         <div class="hrn1"></div>
         <div>
           <ul>
-            <li>任何問題或是網頁有錯誤都歡迎在這邊討論</li>
+            <li><s>任何問題或是網頁有錯誤都歡迎在這邊討論</s></li>
+            <li>
+              目前討論區故障了，請移步至<br /><a
+                href="https://discord.gg/ymNuMVg"
+                target="_blank"
+                ><img width="100" src="~assets/discord.png" alt="" />
+                Discord語音聊天群</a
+              >
+            </li>
           </ul>
         </div>
       </div>
