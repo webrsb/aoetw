@@ -17,7 +17,7 @@
         </div>
         <div class="n1">
           <ul class="list-unstyled">
-            本頁面記錄歷史上重要的比賽結果，由藍琦整理、更新。</li>
+            <li>本頁面記錄歷史上重要的比賽結果，由藍琦整理、更新。</li>
           </ul>
           <div class="col-md-12">
             <div
@@ -3223,23 +3223,49 @@
                 </tr>
               </table>
             </ul>
-            
-<ul class="list-unstyled">2019年 <strong><a href="https://www.aoezone.net/forums/doubles-age.1958/">Doubles Age 雙打時代</a></strong><table>
-<tr><td><i class="fas fa-trophy" style="color:#ffca00"/>冠軍
-  <img src="~assets/rs.png" class="flg" alt=""/>DauT</td><td>
-  <img src="~assets/ca.png" class="flg" alt=""/>slam</td></tr>
-<tr><td><i class="fas fa-trophy" style="color:#9ca1a5"/>亞軍
-  <img src="~assets/at.png" class="flg" alt=""/>Liereyy</td><td>
-  <img src="~assets/pe.png" class="flg" alt=""/>Hearttt</td></tr>
-<tr><td><i class="fas fa-trophy" style="color:#b79355"/>季軍
-  <img src="~assets/vn.png" class="flg" alt=""/>ACCM</td><td>
-  <img src="~assets/vn.png" class="flg" alt=""/>Yellow</td><td>
-  <img src="~assets/vn.png" class="flg" alt=""/>BacT</td></tr>
-<tr><td><i class="fas fa-trophy" style="color:#343a40"/>殿軍
-  <img src="~assets/no.png" class="flg" alt=""/>Viper</td><td>
-  <img src="~assets/es.png" class="flg" alt=""/>TaToH</td><td>
-  <img src="~assets/de.png" class="flg" alt=""/>JorDan</td></tr></table></ul>
-            
+
+            <ul class="list-unstyled">
+              2019年
+              <strong
+                ><a href="https://www.aoezone.net/forums/doubles-age.1958/"
+                  >Doubles Age 雙打時代</a
+                ></strong
+              >
+              <table>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <img src="~assets/rs.png" class="flg" alt="" />DauT
+                  </td>
+                  <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
+                  </td>
+                  <td>
+                    <img src="~assets/pe.png" class="flg" alt="" />Hearttt
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />季軍
+                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
+                  </td>
+                  <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
+                  <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#343a40" />殿軍
+                    <img src="~assets/no.png" class="flg" alt="" />Viper
+                  </td>
+                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
+                  <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
+                </tr>
+              </table>
+            </ul>
           </div>
           <ul class="list-unstyled" id="a7">
             &nbsp;
