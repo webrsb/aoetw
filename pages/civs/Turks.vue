@@ -29,8 +29,7 @@
               >血量</nuxt-link
             >上升、研發火藥相關<nuxt-link to="/techs">科技</nuxt-link
             >更便宜、<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
-            >攻擊距離變遠、<nuxt-link to="/units/Gunpowder_Unit"
-              >火藥單位</nuxt-link
+            >射程變遠、<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
             >訓練變快。
           </p>
         </div>
@@ -48,7 +47,7 @@
                 >火炮</nuxt-link
               >、<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-              >攻擊距離+2)，使得土耳其火藥相關的兵種威力更加強大，另外特殊單位<nuxt-link
+              >射程+2)，使得土耳其火藥相關的兵種威力更加強大，另外特殊單位<nuxt-link
                 to="/units/Janissary"
                 >土耳其火槍兵</nuxt-link
               >是目前少數能在城堡時代生產的<nuxt-link to="/units/Gunpowder_Unit"
@@ -215,7 +214,7 @@
               >：<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
               >、<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-              >攻擊距離+2。
+              >射程+2。
             </p>
           </ul>
         </div>

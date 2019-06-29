@@ -189,7 +189,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊距離</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"

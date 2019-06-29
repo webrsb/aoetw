@@ -899,7 +899,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3">射程</td>
             <td class="unit4">6</td>
           </tr>
           <tr>

@@ -24,7 +24,7 @@
             ><nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link
             >，是一種古老技術可使<nuxt-link to="/units/Fire_Ship"
               >火戰船</nuxt-link
-            >攻擊距離變得更遠，<nuxt-link to="/techs/age/Imperial_Age"
+            >射程變得更遠，<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的特殊科技<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
             >，是讓<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link

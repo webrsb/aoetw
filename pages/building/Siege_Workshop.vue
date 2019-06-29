@@ -355,7 +355,7 @@
                 >神機箭</nuxt-link
               >(800木材，500黃金)→<nuxt-link to="/units/Mangonel"
                 >投石車</nuxt-link
-              >攻擊距離+1 。
+              >射程+1 。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link

@@ -45,7 +45,7 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
               ><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
-              >(城堡攻擊距離+3、且<nuxt-link to="/units/Infantry_Units"
+              >(城堡射程+3、且<nuxt-link to="/units/Infantry_Units"
                 >步兵</nuxt-link
               >可以射箭)，使得條頓城堡成為遊戲裡殺傷力最大的城堡。
             </li>
@@ -148,7 +148,7 @@
               <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
                 to="/techs/Crenellations"
                 >垛口</nuxt-link
-              >：城堡攻擊距離+3、且步兵可以射箭
+              >：城堡射程+3、且步兵可以射箭
             </li>
           </ul>
         </div>

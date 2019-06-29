@@ -140,7 +140,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="NOLINKS">攻擊距離</nuxt-link></td>
+            <td class="unit3"><nuxt-link to="NOLINKS">射程</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
