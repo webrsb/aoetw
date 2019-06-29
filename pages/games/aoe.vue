@@ -13,11 +13,30 @@
               to="/civs"
               >文明</nuxt-link
             >、4K高畫質及完全重製的畫面即音軌。<br>
-            原文網址請點這:<a href="https://ageofempires.fandom.com/wiki/Age_of_Empires_II:_Definitive_Edition">請點我</a><br>
-            官方預告請點這:<a href="https://www.youtube.com/watch?v=ZOgBVR21pWg">請點我</a><br>
-            6/13直播內容請點這:<a href="https://www.youtube.com/watch?v=M9fhkAORcXE">請點我</a>
-          </p>
+            原文網址請點這:<a href="https://ageofempires.fandom.com/wiki/Age_of_Empires_II:_Definitive_Edition">請點我</a>
+            </p>
          
+            <p><em>官方預告</em></p>
+            <iframe
+            width="100%"
+            height="315"
+            src="https://youtu.be/ZOgBVR21pWg"
+            frameborder="0"
+            allow="autoplay; encrypted-media"
+            allowfullscreen
+          ></iframe>
+
+            <p><em>6/13直播內容</em></p>
+            <iframe
+            width="100%"
+            height="315"
+            src="https://youtu.be/M9fhkAORcXE"
+            frameborder="0"
+            allow="autoplay; encrypted-media"
+            allowfullscreen
+          ></iframe>
+            
+          
         </div>
         <h2>新增內容</h2>
         <div class="hrn1"></div>
