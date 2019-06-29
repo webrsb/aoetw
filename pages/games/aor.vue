@@ -227,6 +227,7 @@
                 >征服者入侵</nuxt-link
               ><br /><nuxt-link to="/games/aof">失落的帝國</nuxt-link
               ><br /><nuxt-link to="/games/ak">非洲王國</nuxt-link>
+              <br /><nuxt-link to="/games/de">決定版</nuxt-link>
             </td>
           </tr>
         </table>
