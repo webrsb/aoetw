@@ -98,7 +98,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊距離</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -417,7 +417,7 @@
               風琴砲對<nuxt-link to="/building">建築物</nuxt-link
               >不再有攻擊加成。
             </li>
-            <li>風琴砲的最小攻擊距離為1。</li>
+            <li>風琴砲的最小射程為1。</li>
             <li>5.7改版後風琴砲現在有2的擴散攻擊。</li>
           </ul>
         </div>

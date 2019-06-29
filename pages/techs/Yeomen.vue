@@ -24,7 +24,7 @@
             <li>
               義勇騎兵結合<nuxt-link to="/civs/Britons">不列顛</nuxt-link
               >的<nuxt-link to="/civs">文明</nuxt-link
-              >加成可讓不列顛的徒步弓兵在遊戲中有最遠的攻擊距離，讓<nuxt-link
+              >加成可讓不列顛的徒步弓兵在遊戲中有最遠的射程，讓<nuxt-link
                 to="/units/Longbowman"
                 >長弓兵</nuxt-link
               >更適合長距離作戰。義勇騎兵也讓箭塔在有<nuxt-link

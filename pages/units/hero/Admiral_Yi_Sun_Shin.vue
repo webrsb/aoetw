@@ -155,7 +155,7 @@
             <td class="unit4">無</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊間隔</td>
+            <td class="unit3">開火間隔</td>
             <td class="unit4">3</td>
           </tr>
           <tr></tr>

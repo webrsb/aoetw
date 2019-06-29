@@ -68,7 +68,7 @@
               >的強大使的這項缺少影響並不大另外也有馬弓可以用，當研發<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              >特殊科技印度火槍，印度的火槍就是遊戲中攻擊距離最遠的通用火槍兵(跟<nuxt-link
+              >特殊科技印度火槍，印度的火槍就是遊戲中射程最遠的通用火槍兵(跟<nuxt-link
                 to="/units/Janissary"
                 >土耳其火槍兵</nuxt-link
               >一樣遠)。
@@ -165,7 +165,7 @@
               <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
                 to="/techs/Shatagni"
                 >印度火槍</nuxt-link
-              >：火槍兵攻擊距離+1。
+              >：火槍兵射程+1。
             </li>
           </ul>
         </div>

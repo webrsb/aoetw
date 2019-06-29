@@ -269,7 +269,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">範圍</td>
+            <td class="tta1">射程</td>
             <td class="tta4">
               <img
                 class="gg"

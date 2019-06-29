@@ -26,13 +26,13 @@
             <li>
               砲兵讓<nuxt-link to="/civs/Turks">土耳其</nuxt-link
               ><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
-              >的攻擊距離可打到敵隊<nuxt-link to="/units/Bombard_Cannon"
+              >的射程可打到敵隊<nuxt-link to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
               >。土耳其的<nuxt-link to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
               >有遊戲中最遠的射程(與有<nuxt-link to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
-              >的巨型投機並列)土耳其的火砲在攻城上有更遠的攻擊距離。
+              >的巨型投機並列)土耳其的火砲在攻城上有更遠的射程。
             </li>
           </ul>
         </div>

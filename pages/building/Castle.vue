@@ -453,7 +453,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">範圍</td>
+            <td class="tta1">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -803,7 +803,7 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">範圍</td>
+            <td class="unit3">射程</td>
             <td class="unit4">8</td>
           </tr>
           <tr>

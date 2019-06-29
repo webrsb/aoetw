@@ -74,7 +74,7 @@
               熱那亞弩手是一個非常強大的<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
                 >反騎兵</nuxt-link
-              >弓兵(絕大部分弓兵都極怕騎兵)，擁有城堡時代特殊科技巨盾後更加抗打，但致命缺點是攻擊距離比<nuxt-link
+              >弓兵(絕大部分弓兵都極怕騎兵)，擁有城堡時代特殊科技巨盾後更加抗打，但致命缺點是射程比<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
               >/<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link

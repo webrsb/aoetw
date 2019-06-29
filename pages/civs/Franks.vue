@@ -157,7 +157,7 @@
               <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
                 to="/techs/Bearded_Axe"
                 >倒鉤斧</nuxt-link
-              >：擲斧兵攻擊距離+1。
+              >：擲斧兵射程+1。
             </li>
           </ul>
         </div>

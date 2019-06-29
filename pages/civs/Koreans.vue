@@ -78,7 +78,7 @@
             >與<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
             >，但是擁有優秀的<nuxt-link to="/units/Siege_Onager"
               >重型投石車</nuxt-link
-            >，射程範圍更大，且更小的最短攻擊距離，此外還是東亞唯一有<nuxt-link
+            >，射程範圍更大，且更小的最短射程，此外還是東亞唯一有<nuxt-link
               to="/units/Bombard_Cannon"
               >火砲</nuxt-link
             >的文明。韓國沒有<nuxt-link to="/units/Heavy_Demolition_Ship"
@@ -136,7 +136,7 @@
               <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
                 to="/techs/Shinkichon"
                 >神機箭</nuxt-link
-              >:<nuxt-link to="/units/Mangonel">投石車</nuxt-link>+1攻擊距離。
+              >:<nuxt-link to="/units/Mangonel">投石車</nuxt-link>+1射程。
             </li>
           </ul>
         </div>
@@ -154,14 +154,14 @@
                 >火砲塔</nuxt-link
               >仍須先研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link>)
             </li>
-            <li>箭塔攻擊距離於城堡時代 +1、帝王時代 +2</li>
+            <li>箭塔射程於城堡時代 +1、帝王時代 +2</li>
             <li>防禦工事(城牆，塔和城堡)的建造速度更快</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus"
                   >團隊加分</nuxt-link
                 ></strong
-              >:投石車的最小攻擊距離限制降低
+              >:投石車的最小射程限制降低
             </li>
           </ul>
         </div>

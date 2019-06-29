@@ -152,15 +152,16 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">範圍</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。
+              >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >除外)
             </td>
           </tr>
           <tr>

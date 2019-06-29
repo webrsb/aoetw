@@ -100,7 +100,7 @@
             <td class="unit4">1.93</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊間隔</td>
+            <td class="unit3">開火間隔</td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -112,7 +112,7 @@
             <td class="unit4">80%</td>
           </tr>
           <tr>
-            <td class="unit3">彈道速度</td>
+            <td class="unit3">射速</td>
             <td class="unit4">7</td>
           </tr>
           <tr>

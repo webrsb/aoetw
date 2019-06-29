@@ -80,7 +80,7 @@
               >是遊戲中最優的馬弓騎兵之一，因(帝王科技<nuxt-link
                 to="/techs/Recurve_Bow"
                 >反曲弓</nuxt-link
-              >馬弓騎兵攻擊距離+1、<nuxt-link to="/elements/Attack"
+              >馬弓騎兵射程+1、<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
               >+1)。
             </li>

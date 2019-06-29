@@ -94,7 +94,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">濺射範圍</td>
+            <td class="unit3">擴散範圍</td>
             <td class="unit4">2.5</td>
           </tr>
           <tr>

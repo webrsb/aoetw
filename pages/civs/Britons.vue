@@ -43,7 +43,7 @@
               >矛兵</nuxt-link
             >)，因他們的<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
-            >工作效率高、文明又給予攻擊距離的增加使得<nuxt-link
+            >工作效率高、文明又給予射程的增加使得<nuxt-link
               to="/units/Archer_Units"
               >弓兵</nuxt-link
             >的使用更多元。
@@ -79,7 +79,7 @@
           <h3>特殊單位</h3>
           <p>
             <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
-            >：有全遊戲裡最遠的攻擊距離的<nuxt-link to="/units/Archer_Units"
+            >：有全遊戲裡最遠的射程的<nuxt-link to="/units/Archer_Units"
               >弓兵單位</nuxt-link
             >。
           </p>
@@ -109,10 +109,10 @@
               >木材成本減免50%
             </li>
             <li>
-              步行弓兵單位(矛兵除外)城堡時代攻擊距離+1，<nuxt-link
+              步行弓兵單位(矛兵除外)城堡時代射程+1，<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              >攻擊距離再+1(累計+2)
+              >射程再+1(累計+2)
             </li>
             <li>
               牧羊工作效率+25%(<nuxt-link to="/units/animal/Sheep"
