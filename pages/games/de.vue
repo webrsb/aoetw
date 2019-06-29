@@ -19,7 +19,7 @@
           <iframe
             width="100%"
             height="315"
-            src="https://youtu.be/ZOgBVR21pWg"
+            src="https://www.youtube.com/embed/ZOgBVR21pWg"
             frameborder="0"
             allow="autoplay; encrypted-media"
             allowfullscreen
@@ -29,7 +29,7 @@
           <iframe
             width="100%"
             height="315"
-            src="https://youtu.be/M9fhkAORcXE"
+            src="https://www.youtube.com/embed/M9fhkAORcXE"
             frameborder="0"
             allow="autoplay; encrypted-media"
             allowfullscreen
