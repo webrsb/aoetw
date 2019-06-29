@@ -87,24 +87,6 @@
           </ol>
         </div>
         
-        <h3>戰役</h3>
-        <p>
-          <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
-        </p>
-        <ul>
-          <li>
-          <nuxt-link to="/batt/">尚未發布</nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/batt/">尚未發布</nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/batt/">尚未發布</nuxt-link>
-          </li>
-          
-        </ul>
-        
-      </div>
         <h2>新增元素</h2>
         <div class="hrn1"></div>
         <h3>文明</h3>
@@ -127,8 +109,7 @@
               >。
             </li>
           </ul>
-        </div>
-        
+      
         <h3>戰役</h3>
         <p>
           <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
@@ -209,8 +190,8 @@
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
       </div>
-    </div>
-  </div>
+    
+
 </template>
 <script>
 export default {
