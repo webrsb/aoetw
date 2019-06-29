@@ -14,7 +14,8 @@
               >文明</nuxt-link
             >、4K高畫質及完全重製的畫面即音軌。<br>
             原文網址請點這:<a href="https://ageofempires.fandom.com/wiki/Age_of_Empires_II:_Definitive_Edition">請點我</a><br>
-            官方預告請點這:<a href="https://www.youtube.com/watch?v=ZOgBVR21pWg">請點我</a>
+            官方預告請點這:<a href="https://www.youtube.com/watch?v=ZOgBVR21pWg">請點我</a><br>
+            6/13直播內容請點這:<a href="https://www.youtube.com/watch?v=M9fhkAORcXE">請點我</a>
           </p>
          
         </div>
@@ -38,7 +39,8 @@
               農田自動補種系統。
             </li>
             <li>
-              生產中的所有單位都會顯示在視窗上方中間的Bar上。
+              在螢幕上方中間，您可以看到任何建築物中正在生產的所有單元，您可以單擊直接進入該建築物。
+              當您點擊它們時，建築物也會顯示它們正在創建的單元的進度條。
             </li>
             <li>
               訓練單位和科技研發可以在同一建築裡同時進行。
@@ -50,7 +52,7 @@
               可放大縮小畫面。
             </li>
             <li>
-              挑戰戰役教導玩家如何誘殺野豬或設定建築清單。
+              會有挑戰戰役教導玩家如何誘殺野豬或設定建築清單。
             </li>
             <li>
               多人遊戲有新的伺服器。
@@ -71,16 +73,16 @@
               常用的模組，如矮樹叢模組及網格模組依然可用。
             </li>
             <li>
-              可能可以透過Age of Empires web修改模組。
+              可能可以透過<a href="https://www.ageofempires.com/mods">Age of Empires web</a>修改模組。
             </li>
             <li>
               新的單位和物體，並重新設計一些舊的（p.e“海上圍牆”）。
             </li>
             <li>
-              改善觀眾模式和多人遊戲模式以及串流功能。
+              改善觀戰模式和多人遊戲模式以及串流功能。
             </li>
             <li>
-              在Steam和Windows Store上發布，支援兩個平台共同對戰遊玩。
+              支援在Steam和Windows Store兩個平台共同對戰遊玩。
             </li>
           </ol>
         </div>
