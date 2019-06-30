@@ -67,7 +67,7 @@
             >。讓他們的<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
             >防禦媲美<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >與<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
-            >，使得<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+            >，使得<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
             >對他們的攻擊無效。
           </p>
         </div>
@@ -82,7 +82,7 @@
             >、<nuxt-link to="/armor">遠防</nuxt-link>高達8的<nuxt-link
               to="/units/Champion"
               >劍兵勇士</nuxt-link
-            >以及<nuxt-link to="/units/Siege_Onager"></nuxt-link
+            >以及</nuxt-link
             ><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >，還有全遊戲最強的騎兵、<nuxt-link to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
@@ -122,7 +122,7 @@
         <div class="n1">
           <ul>
             <li>
-              建築成本-15%(<nuxt-link to="/building/Farm">農田</nuxt-link>例外)
+              建築的木材成本-15%(<nuxt-link to="/building/Farm">農田</nuxt-link>例外)
             </li>
             <li>
               <nuxt-link to="/building/Barracks">軍營</nuxt-link
