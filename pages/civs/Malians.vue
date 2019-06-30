@@ -82,8 +82,7 @@
             >、<nuxt-link to="/armor">遠防</nuxt-link>高達8的<nuxt-link
               to="/units/Champion"
               >劍兵勇士</nuxt-link
-            >以及</nuxt-link
-            ><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
+            >以及<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >，還有全遊戲最強的騎兵、<nuxt-link to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
             >。但也缺乏一些重要科技，如<nuxt-link to="/techs/Bracer"
@@ -122,7 +121,8 @@
         <div class="n1">
           <ul>
             <li>
-              建築的木材成本-15%(<nuxt-link to="/building/Farm">農田</nuxt-link>例外)
+              建築的木材成本-15%(<nuxt-link to="/building/Farm">農田</nuxt-link
+              >例外)
             </li>
             <li>
               <nuxt-link to="/building/Barracks">軍營</nuxt-link
