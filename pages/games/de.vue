@@ -67,10 +67,10 @@
               >物也會顯示它們正在創建的單元的進度條。
             </li>
             <li>
-              訓練<nuxt-link to="/units">單位</nuxt-link>和<nuxt-link
+              訓練中的<nuxt-link to="/units">單位</nuxt-link>和<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              >研發可以在同一建築裡同時進行。
+              >研發可以同時在上方排程內看到。
             </li>
             <li>
               科技研發的進度條會顯示出來。正在研發科技的建築會顯示出視覺特效（尚未完成）
