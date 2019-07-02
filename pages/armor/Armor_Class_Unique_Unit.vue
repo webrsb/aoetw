@@ -227,10 +227,10 @@
                 </ul>
                 <ul>
                   <li>
-                    <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
                       to="/units/Longboat"
                       >維京大戰船</nuxt-link
-                    >→ <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
+                    >→ <img class="gg" src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
                       to="/units/Longboat"
                       >精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
@@ -284,10 +284,10 @@
                 </ul>
                 <ul>
                   <li>
-                    <img src="~assets/TurtleShipIcon.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" /><nuxt-link
                       to="/units/Turtle_Ship"
                       >龜甲船</nuxt-link
-                    >→ <img src="~assets/TurtleShipIcon.jpg" alt="" /><nuxt-link
+                    >→ <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" /><nuxt-link
                       to="/units/Turtle_Ship"
                       >精銳龜甲船</nuxt-link
                     >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
@@ -492,10 +492,10 @@
                 </ul>
                 <ul>
                   <li>
-                    <img src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                       to="/units/Organ_Gun"
                       >風琴砲</nuxt-link
-                    >→ <img src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+                    >→ <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                       to="/units/Organ_Gun"
                       >精銳風琴砲</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
@@ -503,10 +503,10 @@
                 </ul>
                 <ul>
                   <li>
-                    <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
                       to="/units/Caravel"
                       >卡拉維爾戰船</nuxt-link
-                    >→ <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+                    >→ <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
                       to="/units/Caravel"
                       >精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
