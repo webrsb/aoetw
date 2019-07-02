@@ -906,8 +906,8 @@
             <td>
               <div class="unitcontent">
                 <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><nuxt-link
-                  to="/units/hero/Saboteur"
-                  >破壞者</nuxt-link
+                  to="/units/Petard"
+                  >爆炸桶</nuxt-link
                 >
               </div>
             </td>
