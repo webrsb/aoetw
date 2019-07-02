@@ -120,10 +120,12 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>，<nuxt-link
-                to="/armor/Armor_Class_Siege_Weapon"
-                >攻城器單位</nuxt-link
-              >。
+              <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >，<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
+              >、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>。
             </td>
           </tr>
           <tr>
