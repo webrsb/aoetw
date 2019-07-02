@@ -106,9 +106,7 @@
               <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link>和<nuxt-link
                 to="/civs/Spanish"
                 >西班牙人</nuxt-link
-              >的建築物現在使用歐洲<nuxt-link to="/maps/Mediterranean"
-                >地中海</nuxt-link
-              >的模板。
+              >的建築物現在使用歐洲地中海的模板。
             </li>
             <li>
               常用的模組，如矮樹叢模組及網格模組依然可用。

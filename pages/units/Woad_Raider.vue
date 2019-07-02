@@ -391,7 +391,7 @@
           <ul>
             <li>菘藍武士訓練時間為16。</li>
             <li>菘藍武士移動速度為1.03。</li>
-            <li>菘藍武士的遠城護甲為0。</li>
+            <li>菘藍武士的遠程護甲為0。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
@@ -399,7 +399,7 @@
           <ul>
             <li>菘藍武士訓練時間為10。</li>
             <li>菘藍武士移動速度為1.2。</li>
-            <li>菘藍武士的遠城護甲為1。</li>
+            <li>菘藍武士的遠程護甲為1。</li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
           </ul>
           <h3>
