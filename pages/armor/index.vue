@@ -81,7 +81,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-4">
               單位類：
               <ul>
                 <li>
@@ -114,6 +114,11 @@
                     >戰象</nuxt-link
                   >
                 </li>
+              </ul>
+            </div>
+            <div class="col-md-4">
+              單位類：
+              <ul>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                     >火藥單位</nuxt-link
@@ -143,7 +148,7 @@
                 </li>
               </ul>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4">
               建築類：
               <ul>
                 <li>
@@ -170,12 +175,298 @@
               </ul>
             </div>
           </div>
-          <h3>瑣事</h3>
+          
+          <h3>近防</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
-            >有最多的防禦類型，有五種。
-          </div>
+            下列的單位都是近戰傷害，並造成對方近防裝甲的影響
+            <ul>
+              <li>
+                所有<nuxt-link to="/building/Barracks">軍營</nuxt-link
+                >單位
+              </li>
+              <li>
+                所有<nuxt-link to="/building/Stable">馬廄</nuxt-link
+                >單位
+              </li>
+              <li>
+                除了<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
+                >之外的所有<nuxt-link to="/building/Siege_Workshop">攻城武器製造所</nuxt-link
+                >單位
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/FireGalleyIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/FireShipIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/FastFireShipIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
+                </li>
+                <li>
+                <img
+                  class="gg"
+                  src="~assets/DemoRaftIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/DemoShipIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/HeavyDemoShipIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Heavy_Demolition_Ship"
+                  >重型神風船</nuxt-link
+                >
+                </li>
+                <li>         
+                <img
+                  class="gg"
+                  src="~assets/CannonGalleonIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/CannonGalleonIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Elite_Cannon_Galleon"
+                  >精銳火砲戰船</nuxt-link
+                >
+                </li>
+                <li>
+                <img
+                  class="gg"
+                  src="~assets/TurtleShipIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/TurtleShipIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
+                >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+              </li>
+            </ul>
+            </div>
+            <h3>具有高近防的單位</h3>
+            <div class="row">
+              <div class="col-md-4">
+                步兵
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/HuskarlIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
+                    >（10）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EliteEagleWarriorIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Eagle_Warrior"
+                      >精銳鷹勇士</nuxt-link
+                    >（8,<nuxt-link to="/civs/Incas">印加</nuxt-link>：10）
+                  </li>
+                </ul>
+                弓箭手
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/RattanarcherIcon2.png"
+                      alt=""
+                    /><nuxt-link to="/units/Rattan_Archer"
+                      >精銳藤甲弓兵</nuxt-link
+                    >（10）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Imperialskirmishericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Imperial_Skirmisher"
+                      >帝王戰矛兵</nuxt-link
+                    >（9）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/ElephantArcherIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elephant_Archer"
+                      >精銳象弓騎兵</nuxt-link
+                    >（9）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/WarWagonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/War_Wagon">精銳馬戰車</nuxt-link
+                    >（8）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">精銳鏢槍騎兵</nuxt-link
+                    >（8）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EliteSkirmisherIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+                    >（8）
+                  </li>
+                </ul>
+              </div>
+              <div class="col-md-4">
+                騎兵
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/TarkanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
+                    >（8）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/WarElephantIcon.jpg"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
+                    >（7）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EliteBattleElephantIcon2.png"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Battle_Elephant"
+                      >精銳矛象伕</nuxt-link
+                    >（7,<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：9）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Ballistaelephanticon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Ballista_Elephant"
+                      >精銳弩砲象</nuxt-link
+                    >（7）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/PaladinIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>（7）
+                  </li>
+                </ul>
+                攻城武器
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/SiegeRamIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
+                    >（195）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/TrebuchetPackedIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link
+                    >（移動：8，展開後：150）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Siegetowericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
+                    >（100）
+                  </li>
+                </ul>
+              </div>
+              <div class="col-md-4">
+                船
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CaravelIcon2.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+                    >（10）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/FastFireShipIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Fast_Fire_Ship"
+                      >快速火戰船</nuxt-link
+                    >（9）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/LongboatIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
+                    >（9）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/GalleonAoE2.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
+                    >（9）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CannonGalleonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
+                      >精銳火砲戰船</nuxt-link
+                    >（9）
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/TransportShipIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+                    >（9）
+                  </li>
+                </ul>
+              </div>
+            </div>
           <h3>遠防</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -490,7 +781,7 @@
             <h3>科技</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              下列的<nuxt-link to="/techs">科技</nuxt-link>都可以增加遠防
+              下列的<nuxt-link to="/techs">科技</nuxt-link>都可以增加近防/遠防("/"前表近防後表遠防)
               <h3>
                 <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
               </h3>
@@ -917,6 +1208,20 @@
                 </tr>
               </table>
             </div>
+          </div>
+            <h3>瑣事</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
+            >有最多的防禦類型，有五種。
+              </li>
+              <li>
+              <nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
+              >造成遠程傷害時也會有近戰傷害。
+              </li>
+            </ul>
+            
           </div>
         </div>
       </div>
