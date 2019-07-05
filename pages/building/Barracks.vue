@@ -484,7 +484,7 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              />1200 <br />
+              />1200<br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
