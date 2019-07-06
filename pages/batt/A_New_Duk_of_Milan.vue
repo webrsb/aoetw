@@ -58,7 +58,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6" width="10%"><div class="p4">玩家3</div></td>
               <td class="tc6" width="40%">米蘭城（黃色）義大利</td>

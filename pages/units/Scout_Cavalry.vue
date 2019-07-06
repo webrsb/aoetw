@@ -136,7 +136,7 @@
                 to="/techs/Farimba"
                 >驃悍精神</nuxt-link
               >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >限定 <br />
+              >限定<br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link

@@ -58,7 +58,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p1" width="10%">玩家2</div></td>
               <td class="tc6" width="40%">波爾多（藍色）法蘭克</td>

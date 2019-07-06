@@ -29,8 +29,8 @@
         <div class="n1">
           <p>
             市場可以用<nuxt-link to="/resource/Gold">黃金</nuxt-link
-            >換取木材，但是必須收取30％的手續費，並且每次買完後價格都會調漲，但木材十分常見且量多，
-            所以不建議用黃金去買木材。可以利用<nuxt-link to="/techs/Guilds"
+            >換取木材，但是必須收取30％的手續費，並且每次買完後價格都會調漲，但木材十分常見且量多，所以不建議用黃金去買木材。可以利用<nuxt-link
+              to="/techs/Guilds"
               >行會制度</nuxt-link
             >
             來降低手續費到15％，而<nuxt-link to="/civs/Saracens"

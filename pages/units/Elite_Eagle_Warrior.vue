@@ -224,7 +224,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -625,7 +625,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link> <br /><nuxt-link
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link><br /><nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >

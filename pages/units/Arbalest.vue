@@ -248,7 +248,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:對移動目標命中率上升 <br />
+              >:對移動目標命中率上升<br />
               <img
                 class="gg"
                 src="~assets/Thumb_Ring.png"
@@ -302,7 +302,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

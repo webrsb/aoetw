@@ -71,7 +71,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p1">玩家2</div></td>
               <td class="tc6">
@@ -148,17 +148,15 @@
             </li>
             <li>
               明朝深藍軍正從四面八方圍攻至靈山寨.
-              他們攻勢最猛的是從西邊河上殺過來的大軍，
-              然而他們也漸漸加強了東邊高地的軍力了.
+              他們攻勢最猛的是從西邊河上殺過來的大軍，然而他們也漸漸加強了東邊高地的軍力了.
               很快他們就能把山寨都包圍起來.
             </li>
             <li>
               明朝淺藍軍以諸葛弩， 長劍士，<nuxt-link to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >，<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>，
-              沖車和<nuxt-link to="/units/Knight">騎士</nuxt-link>為主.
-              等到明朝的援軍帶著糧草裝備殺到的話，
-              他們還會把軍備都升級得更為高級， 用<nuxt-link
+              >，<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+              >，沖車和<nuxt-link to="/units/Knight">騎士</nuxt-link>為主.
+              等到明朝的援軍帶著糧草裝備殺到的話，他們還會把軍備都升級得更為高級，用<nuxt-link
                 to="/units/Trebuchet"
                 >投石機</nuxt-link
               >來攻打我們的山寨.

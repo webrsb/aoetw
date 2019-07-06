@@ -297,8 +297,7 @@
               <li>
                 往諾曼人教堂的北部路上，有位<nuxt-link to="/units/hero"
                   >英雄</nuxt-link
-                >叫555<nuxt-link to="/units/King">國王</nuxt-link
-                >，但對劇情本身無影響與幫助。
+                >叫555國王，但對劇情本身無影響與幫助。
               </li>
             </ul>
           </div>

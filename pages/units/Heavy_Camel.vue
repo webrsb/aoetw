@@ -782,7 +782,7 @@
               <br />+9對<nuxt-link to="/armor/Armor_Class_Ship">船類</nuxt-link>
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">攻速</td>
             <td class="unit4">2.03</td>

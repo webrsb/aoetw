@@ -30,8 +30,9 @@
             >的先決<nuxt-link to="/building">建築物</nuxt-link>。
           </p>
           <p>
-            升級兵工廠的科技在遊戲的任何階段都是至關重要的。一般來說，在發動攻擊前提高近戰部隊的裝甲效果會更有意義，這樣可以提高遠距離部隊的作戰能力，因為它們壽命更長，可以更容易地縮小差距。
-            對於<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+            升級兵工廠的科技在遊戲的任何階段都是至關重要的。一般來說，在發動攻擊前提高近戰部隊的裝甲效果會更有意義，這樣可以提高遠距離部隊的作戰能力，因為它們壽命更長，可以更容易地縮小差距。對於<nuxt-link
+              to="/units/Archer_Units"
+              >遠程單位</nuxt-link
             >，反過來說，他們應該有最高的傷害輸出，以防止近戰單位到達他們。
           </p>
           <h3>可訓練的單位與技術</h3>
@@ -275,7 +276,7 @@
                   src="~assets/Faith.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
                 <img
                   class="gg"
                   src="~assets/Heresy.png"
@@ -390,8 +391,7 @@
               在羅馬淪陷之前，歐洲的蠻族部落就已經學會了鍛鐵技術，並被帶到了<nuxt-link
                 to="/techs/age/Dark_Age"
                 >黑暗時代</nuxt-link
-              >。
-              鑄鐵工作是在兵工廠那裡完成的，兵工廠的命名有部分是因為在那里工作的鑄鐵師傅和每天覆蓋著工人的黑煙。在兵工廠可以<nuxt-link
+              >。鑄鐵工作是在兵工廠那裡完成的，兵工廠的命名有部分是因為在那里工作的鑄鐵師傅和每天覆蓋著工人的黑煙。在兵工廠可以<nuxt-link
                 to="/techs/Forging"
                 >鍛造</nuxt-link
               >鐵鎚、工具，武器盾牌和盔甲。製造出色的武器和盔甲的能力是一個非常優秀而且珍貴技能。兵工廠師傅，武器商和武器製造商在之後新時代成為了新興的中產階級。
@@ -612,7 +612,7 @@
               >
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">視野</td>
             <td class="unit4">6</td>

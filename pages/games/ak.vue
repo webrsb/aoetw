@@ -289,8 +289,9 @@
           <ul>
             <li>
               <nuxt-link to="/units/Villager">村民</nuxt-link>花費，四時代 從
-              -5%/-10%/-15%/-20% 改為 -10%/-15%/-20%/-25% 獲得
-              公會制度、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>三防
+              -5%/-10%/-15%/-20% 改為 -10%/-15%/-20%/-25%
+              獲得公會制度、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >三防
             </li>
             <li>
               騎象<nuxt-link to="/units/Archer_Units">射手</nuxt-link

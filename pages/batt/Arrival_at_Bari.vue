@@ -73,7 +73,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p3">玩家4</div></td>
               <td class="tc6">巴里王朝（綠色）薩拉森</td>
@@ -128,7 +128,7 @@
               </li>
               <li>
                 帶帕尼奧斯到路易士那兒，路易士就在馬泰拉毀壞的城門外等待。選擇<nuxt-link
-                  to="/units/King"
+                  to="/units/edmap/King"
                   >國王</nuxt-link
                 >與他談話。
               </li>

@@ -77,7 +77,6 @@
               <td class="tc6"><div class="p3">玩家5</div></td>
               <td class="tc6">約瑟夫（綠色）土耳其</td>
             </tr>
-            <tr></tr>
           </table>
 
           <br />

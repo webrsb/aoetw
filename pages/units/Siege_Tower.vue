@@ -779,7 +779,7 @@
             </td>
             <td class="unit4">10</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">速度</nuxt-link>

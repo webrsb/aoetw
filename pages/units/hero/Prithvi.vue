@@ -82,7 +82,7 @@
               對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link> +3
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
@@ -99,8 +99,7 @@
             <td class="unit3">射程</td>
             <td class="unit4">5</td>
           </tr>
-          <tr></tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">命中率</td>
             <td class="unit4">85%</td>
@@ -113,7 +112,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>

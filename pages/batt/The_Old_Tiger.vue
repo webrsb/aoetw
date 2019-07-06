@@ -61,7 +61,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p4">玩家3</div></td>
               <td class="tc6">
@@ -103,8 +103,9 @@
             -<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >x7、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >x18、爆破船x3、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-            >x4、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>x4。
-            經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager">村民</nuxt-link
+            >x4、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+            >x4。經濟單位&nbsp;-&nbsp;<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
             >x5
           </p>
           。 無大地之母單位

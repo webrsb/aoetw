@@ -118,7 +118,7 @@
                 to="/units/Trade_Cart"
                 >貿易車隊</nuxt-link
               >，玩家抓住它後德古拉會把自己偽裝成一個貿易商（表面上是<nuxt-link
-                to="/units/King"
+                to="/units/edmap/King"
                 >國王</nuxt-link
               >），而在貿易車裡將會有兩個重裝長槍兵和兩個火槍兵。玩家將德古拉和貿易車隊帶入朱爾朱城。德古拉剩下的部隊將被留下，等待德古拉的信號。
             </li>
@@ -152,8 +152,8 @@
               >對付其他敵人單位。
             </li>
             <li>
-              一旦奪取朱爾朱，玩家將準備征服剩下的五個奧斯曼城鎮。
-              讓你的部隊駐紮在城堡<nuxt-link to="/elements/Regeneration"
+              一旦奪取朱爾朱，玩家將準備征服剩下的五個奧斯曼城鎮。讓你的部隊駐紮在城堡<nuxt-link
+                to="/elements/Regeneration"
                 >回血</nuxt-link
               >，玩家應該征服四個小城鎮破壞敵人的物資。他們會向玩家求和，並給予資源。現在馬上在斷掉的橋和兩座建塔中間圍至少兩座牆，在<nuxt-link
                 to="/building/Dock"

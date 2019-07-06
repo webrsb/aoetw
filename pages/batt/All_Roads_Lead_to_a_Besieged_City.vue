@@ -66,7 +66,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
               <td class="tc6">羅馬（紅色）義大利</td>
@@ -201,8 +201,7 @@
                 >。玩家摧毀兩座箭塔前會遭到羅馬軍團的抵抗。在<nuxt-link
                   to="/games/aof"
                   >失落的帝國</nuxt-link
-                >原版MOD裡面，
-                摧毀三座箭塔之後，玩家必須把阿拉里克帶到河岸西邊的<nuxt-link
+                >原版MOD裡面，摧毀三座箭塔之後，玩家必須把阿拉里克帶到河岸西邊的<nuxt-link
                   to="/building/Dock"
                   >碼頭</nuxt-link
                 >。

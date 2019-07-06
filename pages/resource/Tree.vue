@@ -11,8 +11,7 @@
             在世紀帝國II中，一般樹木每單位產量是125<nuxt-link
               to="/resource/Wood"
               >木材</nuxt-link
-            >，而森林的樹木每單位產量則是100木材。總共有十種不同種類的樹，
-            每種樹對應不同類型的地形，這些樹都可在地圖編輯器中找到。
+            >，而森林的樹木每單位產量則是100木材。總共有十種不同種類的樹，每種樹對應不同類型的地形，這些樹都可在地圖編輯器中找到。
           </p>
         </div>
         <h3>概要</h3>
@@ -30,8 +29,7 @@
             除了村民能砍樹外，以下單位也可打掉樹木開出路，有時可做為偷襲敵人後方使用，<nuxt-link
               to="/maps/Black_Forest"
               >黑森林</nuxt-link
-            >尤其常出現這招，
-            要注意的是樹被這些單位擊倒後不能由村民收集會直接消失。樹倒之後可以在原本的位置蓋任何<nuxt-link
+            >尤其常出現這招，要注意的是樹被這些單位擊倒後不能由村民收集會直接消失。樹倒之後可以在原本的位置蓋任何<nuxt-link
               to="/building"
               >建築物</nuxt-link
             >。
@@ -181,7 +179,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>竹林（Bamboo）<br /> </strong>最大收穫量：100木材
+              <strong>竹林（Bamboo）<br /></strong>最大收穫量：100木材
             </td>
           </tr>
           <tr>
@@ -191,7 +189,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>猴麵包樹/猢猻樹（Baobab）<br /> </strong
+              <strong>猴麵包樹/猢猻樹（Baobab）<br /></strong
               >最大收穫量：200木材
             </td>
             <td style="border: 1px solid #495057;">
@@ -200,7 +198,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>龍血樹（Dragon Tree）<br /> </strong>最大收穫量：100木材
+              <strong>龍血樹（Dragon Tree）<br /></strong>最大收穫量：100木材
             </td>
           </tr>
           <tr>
@@ -210,7 +208,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>叢林樹木（Jungle Tree）<br /> </strong>最大收穫量：100木材
+              <strong>叢林樹木（Jungle Tree）<br /></strong>最大收穫量：100木材
             </td>
             <td style="border: 1px solid #495057;">
               <div class="unititle">
@@ -218,7 +216,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>樹林（Forest Tree）<br /> </strong>最大收穫量：100木材
+              <strong>樹林（Forest Tree）<br /></strong>最大收穫量：100木材
             </td>
           </tr>
           <tr>
@@ -228,7 +226,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>橡樹林（Oak Tree）<br /> </strong>最大收穫量：100木材
+              <strong>橡樹林（Oak Tree）<br /></strong>最大收穫量：100木材
             </td>
             <td style="border: 1px solid #495057;">
               <div class="unititle">
@@ -236,7 +234,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>棕梠樹林（Palm Tree）<br /> </strong>最大收穫量：100木材
+              <strong>棕梠樹林（Palm Tree）<br /></strong>最大收穫量：100木材
             </td>
           </tr>
           <tr>
@@ -246,7 +244,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>松樹林（Pine Tree）<br /> </strong>最大收穫量：100木材
+              <strong>松樹林（Pine Tree）<br /></strong>最大收穫量：100木材
             </td>
             <td style="border: 1px solid #495057;">
               <div class="unititle">
@@ -254,7 +252,7 @@
               </div>
             </td>
             <td width="25%" valign="middle" style="border: 1px solid #495057;">
-              <strong>雪松樹林（Snow Pine Tree）<br /> </strong
+              <strong>雪松樹林（Snow Pine Tree）<br /></strong
               >最大收穫量：100木材
             </td>
           </tr>

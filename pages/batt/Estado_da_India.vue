@@ -120,7 +120,7 @@
             >*5、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>*10
           </p>
           <h3>大地之母單位：</h3>
-          <p>無 <br /></p>
+          <p>無<br /></p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">

@@ -180,7 +180,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -1336,7 +1336,7 @@
               位於現今印度尼西亞爪哇島，根據卡拉桑銘文，建立於778年，整座的石造廟宇，是一座佛教建築，並不是印度教建築(常常被人誤認)。
             </p>
             <p>
-              登場戰役：<nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link
+              登場戰役：<nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link
               >5-<nuxt-link to="/batt/The_Pasunda_Bubat_Tragedy"
                 >風雲變色</nuxt-link
               >、勃印曩5-鳳凰涅槃

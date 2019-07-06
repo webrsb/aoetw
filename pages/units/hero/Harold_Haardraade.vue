@@ -59,7 +59,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link> <br /><nuxt-link
+              <nuxt-link to="/units/Monk">僧侶</nuxt-link><br /><nuxt-link
                 to="/units/hero/"
                 >英雄</nuxt-link
               >
@@ -86,24 +86,24 @@
             </td>
             <td class="unit4">62</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">射程</td>
             <td class="unit4">5</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
-            <td class="unit4">無 <br /></td>
+            <td class="unit4">無<br /></td>
           </tr>
           <tr>
             <td class="unit3">

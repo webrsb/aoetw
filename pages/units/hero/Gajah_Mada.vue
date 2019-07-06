@@ -23,8 +23,7 @@
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <p>
-            加查·馬達（1290年－1364年）是印尼古代滿者伯夷帝國的政治軍事領袖，在三任國王之下擔任巴迪（意近首相）
-            ，因創造該帝國的鼎盛時期而著名。234,239。他曾經立了名為帕拉帕誓言（的誓言，宣布他在為滿者伯夷征服整個約當今印尼的整個群島之前,不吃任何有香料的<nuxt-link
+            加查·馬達（1290年－1364年）是印尼古代滿者伯夷帝國的政治軍事領袖，在三任國王之下擔任巴迪（意近首相），因創造該帝國的鼎盛時期而著名。234,239。他曾經立了名為帕拉帕誓言（的誓言，宣布他在為滿者伯夷征服整個約當今印尼的整個群島之前,不吃任何有香料的<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link
             >。在現代的<nuxt-link to="/civs/Indians">印度</nuxt-link
@@ -99,12 +98,12 @@
             </td>
             <td class="unit4">2.03</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>

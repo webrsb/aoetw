@@ -310,7 +310,7 @@
           <tr>
             <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link> <br /><nuxt-link
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link><br /><nuxt-link
                 to="/civs/Spanish"
                 >西班牙</nuxt-link
               >

@@ -12,8 +12,8 @@
               >遠程</nuxt-link
             ><nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
             >，使用火藥和<nuxt-link to="/techs/Chemistry">化學</nuxt-link
-            >物質來發射炮彈，而不是使用傳統的弓箭武器。在後期遊戲中，它們的表現都十分突出。
-            這樣強大的單位，大多在後<nuxt-link to="/techs/age/Imperial_Age"
+            >物質來發射炮彈，而不是使用傳統的弓箭武器。在後期遊戲中，它們的表現都十分突出。這樣強大的單位，大多在後<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >中可以訓練。
           </p>

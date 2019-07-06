@@ -641,7 +641,7 @@
                 valign="middle"
                 style="border: 1px solid #495057;"
               >
-                <strong>水果灌木叢（Fruit Bushes）<br /> </strong
+                <strong>水果灌木叢（Fruit Bushes）<br /></strong
                 >最大收穫量：125食物
               </td>
               <td style="border: 1px solid #495057;" colspan="4">
@@ -726,7 +726,7 @@
                 style="border: 1px solid #495057;"
               >
                 <strong>農田</strong
-                ><strong>（Farmland）<br /> </strong>建置消耗：60<nuxt-link
+                ><strong>（Farmland）<br /></strong>建置消耗：60<nuxt-link
                   to="/resource/Wood"
                   >木頭</nuxt-link
                 ><br />
@@ -789,7 +789,7 @@
                 width="25%"
                 bgcolor="#E0E0E0"
               >
-                <strong>沿海魚群<br /> </strong>漁獲量：200食物
+                <strong>沿海魚群<br /></strong>漁獲量：200食物
               </td>
               <td
                 style="border: 1px solid #495057;"
@@ -826,7 +826,7 @@
                 bgcolor="#E0E0E0"
                 style="border: 1px solid #495057;"
               >
-                <strong>非沿海魚群<br /> </strong>漁獲量：225~350食物
+                <strong>非沿海魚群<br /></strong>漁獲量：225~350食物
               </td>
             </tr>
             <tr>

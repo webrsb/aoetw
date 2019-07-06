@@ -30,8 +30,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            火砲塔是防禦基地的重要選擇之一。火砲塔對於玩家防禦重裝敵人的攻擊非常有用。
-            如果玩家選擇龜縮基地爆經濟的話，除了幾個<nuxt-link
+            火砲塔是防禦基地的重要選擇之一。火砲塔對於玩家防禦重裝敵人的攻擊非常有用。如果玩家選擇龜縮基地爆經濟的話，除了幾個<nuxt-link
               to="/building/Watch_Tower"
               >箭塔</nuxt-link
             >和<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -290,7 +289,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
-              >:消除最小射程 <br />
+              >:消除最小射程<br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -311,7 +310,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:較易擊中移動目標 <br />
+              >:較易擊中移動目標<br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -374,7 +373,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

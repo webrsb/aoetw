@@ -33,8 +33,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-            >是防禦基地的重要部分之一。箭塔對於玩家防禦敵人的攻擊非常有用。
-            如果玩家選擇龜縮基地爆經濟的話，除了需要<nuxt-link
+            >是防禦基地的重要部分之一。箭塔對於玩家防禦敵人的攻擊非常有用。如果玩家選擇龜縮基地爆經濟的話，除了需要<nuxt-link
               to="/building/Stone_Wall"
               >城牆</nuxt-link
             >和<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -256,7 +255,7 @@
               >:徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >射程+1，箭塔攻擊+2，<nuxt-link to="/civs/Britons"
                 >不列顛</nuxt-link
-              >限定 <br />
+              >限定<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -369,7 +368,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -399,7 +398,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
-              >:駐紮單位治療速度加快 <br />
+              >:駐紮單位治療速度加快<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -642,8 +641,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"防禦塔在中世紀繼續發展，變得更強，更高，更好地用於防禦
-            鑑於一些較早的觀測塔是方形的，防護塔通常是圓形的以消除可能被撞掉的尖角。防禦塔頂部的戰鬥位置得到了改善，以保護防御者。從頂部伸出的<nuxt-link
+            >"防禦塔在中世紀繼續發展，變得更強，更高，更好地用於防禦鑑於一些較早的觀測塔是方形的，防護塔通常是圓形的以消除可能被撞掉的尖角。防禦塔頂部的戰鬥位置得到了改善，以保護防御者。從頂部伸出的<nuxt-link
               to="/techs/Hoardings"
               >外架式柵樓</nuxt-link
             >讓防御者可以用導彈攻擊塔底部的敵人。進入警戒塔的入口更加完善，更易於防守。"</em

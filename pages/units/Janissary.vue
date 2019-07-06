@@ -119,7 +119,7 @@
               >(+1/+2)
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
@@ -130,7 +130,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

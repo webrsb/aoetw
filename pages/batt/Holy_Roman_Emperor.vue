@@ -86,8 +86,10 @@
           <ul>
             <li>
               <div class="p8" style="float: left;"></div>
-              <strong>斯瓦比亞（條頓）</strong>：斯瓦比亞位於西北部。
-              他們的軍隊主要是<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+              <strong>斯瓦比亞（條頓）</strong
+              >：斯瓦比亞位於西北部。他們的軍隊主要是<nuxt-link
+                to="/units/Spearman"
+                >長槍兵</nuxt-link
               >和騎士以及一些<nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >組成。
             </li>
@@ -108,8 +110,7 @@
               >：勃艮第是地圖上較弱的對手之一，他們對玩家不構成威脅但他們的<nuxt-link
                 to="/building/Watch_Tower"
                 >箭塔</nuxt-link
-              >分散在他們的村莊四周。
-              他們的位置在玩家城鎮的西南方，他們主要使用<nuxt-link
+              >分散在他們的村莊四周。他們的位置在玩家城鎮的西南方，他們主要使用<nuxt-link
                 to="/units/Crossbowman"
                 >弩兵</nuxt-link
               >和<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link

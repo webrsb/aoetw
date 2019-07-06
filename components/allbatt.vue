@@ -365,7 +365,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+              <nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Story_of_our_Founders"

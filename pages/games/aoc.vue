@@ -54,8 +54,9 @@
             >、<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
             >、安息人戰術、商隊、草藥、<nuxt-link to="/techs/Heresy"
               >異端邪說</nuxt-link
-            >和神權政治，供玩家強化自己文明的經濟或軍事能力（有無上述科技仍因文明而異）。
-            且所有文明都能設定<nuxt-link to="/building/Farm">農田</nuxt-link
+            >和神權政治，供玩家強化自己文明的經濟或軍事能力（有無上述科技仍因文明而異）。且所有文明都能設定<nuxt-link
+              to="/building/Farm"
+              >農田</nuxt-link
             >自動耕種；並各有獨特科技，但皆至<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link

@@ -268,7 +268,7 @@
                   src="~assets/Faith.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
                 <img
                   class="gg"
                   src="~assets/Heresy.png"
@@ -484,7 +484,7 @@
           <tr>
             <td class="unit3">功能</td>
             <td class="unit4">
-              生產僧侶 <br /><nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
+              生產僧侶<br /><nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
               >可生產傳教士
             </td>
           </tr>

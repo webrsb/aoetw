@@ -26,7 +26,7 @@
           <p>
             巽他皇家侍衛會出現在<nuxt-link to="/batt/Bayinnaunga"
               >勃印曩</nuxt-link
-            >和<nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link
+            >和<nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link
             >的<nuxt-link to="/batt">戰役</nuxt-link>中。
           </p>
           <strong><li>加查·馬達</li></strong>
@@ -115,12 +115,12 @@
             </td>
             <td class="unit4">2.03</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>

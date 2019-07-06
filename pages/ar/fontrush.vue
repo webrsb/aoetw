@@ -147,9 +147,9 @@
             <div class="row">
               <div class="col-md-4">
                 <h4>
-                  拜占庭槍山矛海垃圾兵 <br /><nuxt-link to="/civs/Britons"
+                  拜占庭槍山矛海垃圾兵<br /><nuxt-link to="/civs/Britons"
                     >不列顛</nuxt-link
-                  >對決 <br />
+                  >對決<br />
                 </h4>
                 <iframe
                   width="100%"
@@ -160,7 +160,7 @@
                 ></iframe>
               </div>
               <div class="col-md-4">
-                <h4>香港高手Onjbb <br />槍矛塔 <br /></h4>
+                <h4>香港高手Onjbb <br />槍矛塔<br /></h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/OfONY1XJN2w"

@@ -221,7 +221,7 @@
           <tr>
             <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link> <br /><nuxt-link
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link><br /><nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >
@@ -240,7 +240,7 @@
           </tr>
           <tr>
             <td class="unit3">操控難易度</td>
-            <td class="unit4">控經濟簡單 <br />控馬較難</td>
+            <td class="unit4">控經濟簡單<br />控馬較難</td>
           </tr>
           <tr>
             <td class="unit3">優點</td>

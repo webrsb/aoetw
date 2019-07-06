@@ -120,7 +120,7 @@
               <div class="col-md-4">
                 <h4>
                   <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>高手hoang485
-                  <br />黑暗民兵爆 <br />vs中國超高小凡
+                  <br />黑暗民兵爆<br />vs中國超高小凡
                 </h4>
                 <iframe
                   width="100%"

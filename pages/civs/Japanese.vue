@@ -440,7 +440,7 @@
               </li>
               <li>
                 日本的語音似乎比其他的種族多一點(僧侶與<nuxt-link
-                  to="/units/King"
+                  to="/units/edmap/King"
                   >國王</nuxt-link
                 >)。
               </li>

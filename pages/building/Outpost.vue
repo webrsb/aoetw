@@ -18,8 +18,7 @@
         <div class="n1">
           <ul>
             <li>
-              哨站對於在遊戲初期堅看重要區域的安全性是非常有用的。他們也常用來監視重要的資源區域，以敵方偷偷擴張領地。
-              隨著遊戲的進展，他們變得不太常見，因為<nuxt-link
+              哨站對於在遊戲初期堅看重要區域的安全性是非常有用的。他們也常用來監視重要的資源區域，以敵方偷偷擴張領地。隨著遊戲的進展，他們變得不太常見，因為<nuxt-link
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
               >能更好的取代它們的工作。 此外，他們需要花費<nuxt-link
@@ -131,7 +130,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -260,8 +259,7 @@
             公元500年世界上的人口比今天的世界還少得多，而且有很多空曠和荒涼的土地。為了密切關注邊界，地方領主建立了哨站，可以提前預警攻擊並回報定居者和<nuxt-link
               to="/units/Trade_Cart"
               >貿易車隊</nuxt-link
-            >的移動情況。
-            隨著土地人口變得越來越稠密，哨站逐漸被邊界上的城堡和城鎮所取代。
+            >的移動情況。隨著土地人口變得越來越稠密，哨站逐漸被邊界上的城堡和城鎮所取代。
           </p>
         </div>
       </div>

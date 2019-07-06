@@ -94,7 +94,7 @@
             </tr>
             <tr>
               <td class="unit3 treetd">
-                美洲 <br />
+                美洲<br />
                 非洲
               </td>
               <td class="unit4">

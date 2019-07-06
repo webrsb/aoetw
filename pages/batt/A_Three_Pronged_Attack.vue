@@ -64,7 +64,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#999999;">中立</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p7">玩家7</div></td>
               <td class="tc6">
@@ -74,7 +74,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
               <td class="tc6" width="38%">東都（綠色）越南</td>

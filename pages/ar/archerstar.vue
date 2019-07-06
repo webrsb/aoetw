@@ -165,7 +165,7 @@
                 ></iframe>
               </div>
               <div class="col-md-4">
-                <h4>台灣no.1雲vs越南chip <br />不列顛對決 <br /></h4>
+                <h4>台灣no.1雲vs越南chip <br />不列顛對決<br /></h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/ooy3X6gEPBU?list=PLBSs8pc_eAe6Mf4GRRdY_WtarywcK7zXg"

@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>班師勤王</b>為<nuxt-link to="/batt/Gajah_Madaa"
+            <b>班師勤王</b>為<nuxt-link to="/batt/Gajah_Mada"
               >加查·馬達</nuxt-link
             >第二關劇情關卡，此關描述1321年政變中，加查·馬達率<nuxt-link
               to="/building/Barracks"
@@ -68,7 +68,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">拉克利安‧古狄（藍色）馬來</td>
@@ -228,7 +228,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+              <nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link>
             </td>
           </tr>
           <tr>

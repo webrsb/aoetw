@@ -62,7 +62,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#999999;">中立</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">阿瑜陀耶國（藍色）高棉</td>

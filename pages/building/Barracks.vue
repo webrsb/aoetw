@@ -252,7 +252,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -353,8 +353,8 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：軍營工作速度快20% 。
             </li>
             <li>
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：
-              帝王時代軍營可生產<nuxt-link to="/units/Condottiero"
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >：帝王時代軍營可生產<nuxt-link to="/units/Condottiero"
                 >傭兵</nuxt-link
               >。
             </li>

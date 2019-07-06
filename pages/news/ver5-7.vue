@@ -208,8 +208,8 @@
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link>從 +30HP
-              提升至 +50HP
+              /><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link>從
+              +30HP提升至 +50HP
             </li>
             <li>
               <img

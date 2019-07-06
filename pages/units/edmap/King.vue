@@ -10,8 +10,8 @@
           <p>
             <b>國王</b>是世紀帝國II的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
-            >。本身是無用的單位，無法攻擊任何事物，或對經濟做出貢獻，
-            但在遊戲早期可以用於偵察地圖。國王只出現在<nuxt-link to="/batt"
+            >。本身是無用的單位，無法攻擊任何事物，或對經濟做出貢獻，但在遊戲早期可以用於偵察地圖。國王只出現在<nuxt-link
+              to="/batt"
               >戰役</nuxt-link
             >和弒君模式中，也可於地圖編輯器中使用 。是不可訓練之單位。
           </p>
@@ -28,21 +28,19 @@
         <div class="n1">
           <p>
             國王隊擁有中等<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
-            >（75），但沒有攻擊或盔甲。在弒君遊戲中，失去國王的玩家立刻
-            被擊敗。因此，自己的國王必須不惜一切代價得到保護和保持<nuxt-link
+            >（75），但沒有攻擊或盔甲。在弒君遊戲中，失去國王的玩家立刻被擊敗。因此，自己的國王必須不惜一切代價得到保護和保持<nuxt-link
               to="/elements/Hit_points"
               >血量</nuxt-link
-            >，敵國的位置應始終是自
-            己侵略的中心。國王的行動非常迅速，從一開始就有很高的視線，並且不會被野生動物襲擊。
-            這使得他們非常適合在早期比賽中偵察城鎮的外圍，由於<nuxt-link
+            >，敵國的位置應始終是自己侵略的中心。國王的行動非常迅速，從一開始就有很高的視線，並且不會被野生動物襲擊。這使得他們非常適合在早期比賽中偵察城鎮的外圍，由於<nuxt-link
               to="/building/Town_Center"
               >城鎮中心</nuxt-link
-            >和<nuxt-link to="/building/Castle">城堡</nuxt-link>會射箭，在
-            敵人的領土內偵察得太深是危險的。每個玩家在進行一場弒君遊戲時都會先從一座城堡開始
-            ，一旦周圍環境偵察完畢，建議<nuxt-link to="/elements/Garrison"
+            >和<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >會射箭，在敵人的領土內偵察得太深是危險的。每個玩家在進行一場弒君遊戲時都會先從一座城堡開始，一旦周圍環境偵察完畢，建議<nuxt-link
+              to="/elements/Garrison"
               >駐軍</nuxt-link
-            >國王在裡面。在比賽后期，他應該永遠留在牆壁後面，並進
-            入一個安全的城堡。像<nuxt-link to="/units/hero">英雄</nuxt-link
+            >國王在裡面。在比賽后期，他應該永遠留在牆壁後面，並進入一個安全的城堡。像<nuxt-link
+              to="/units/hero"
+              >英雄</nuxt-link
             >一樣，國王不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
             >，但他們不像英雄，不會重生生命值。

@@ -23,8 +23,7 @@
             >生產。到了<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >可以直接升為<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-            >。
-            在升級為鷹勇士前，鷹斥侯相對不實用，且生產的非常慢，但到了<nuxt-link
+            >。在升級為鷹勇士前，鷹斥侯相對不實用，且生產的非常慢，但到了<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >，他將一躍而成一種超op兵種。 到了《<nuxt-link to="/games/aof"
@@ -216,7 +215,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -588,7 +587,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link> <br /><nuxt-link
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link><br /><nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >

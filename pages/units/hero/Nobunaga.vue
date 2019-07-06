@@ -141,13 +141,12 @@
             <td class="unit3">攻擊速度</td>
             <td class="unit4">0.5</td>
           </tr>
-          <tr></tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
@@ -395,8 +394,7 @@
           <div class="hrn1"></div>
           <br />
           <p>
-            在"Fate/KOHA-ACE
-            帝都圣杯奇谭"裡首次登場，為了未來的日本著想而行動著，所以被稱為"救國的英靈"也沒有錯(跟沖田似乎關係很好)。
+            在"Fate/KOHA-ACE帝都圣杯奇谭"裡首次登場，為了未來的日本著想而行動著，所以被稱為"救國的英靈"也沒有錯(跟沖田似乎關係很好)。
           </p>
         </div>
         <div class="col-md-4">

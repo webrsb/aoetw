@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>加查 ‧ 馬達</h1>
+        <h1>加查·馬達</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -28,8 +28,7 @@
             </p>
           </div>
           <p>
-            加查 ‧
-            馬達（1290-1364），古印尼滿者伯夷帝國的攝政王。擔任三朝輔政，締造了滿者伯夷的盛世。在輔政期間立下有名的「帕拉帕誓言」，發誓在帶領滿者伯夷帝國稱霸南洋以前，拒絕一切人世間的享樂。
+            加查·馬達（1290-1364），古印尼滿者伯夷帝國的攝政王。擔任三朝輔政，締造了滿者伯夷的盛世。在輔政期間立下有名的「帕拉帕誓言」，發誓在帶領滿者伯夷帝國稱霸南洋以前，拒絕一切人世間的享樂。
           </p>
         </div>
         <h3>英雄</h3>
@@ -102,11 +101,11 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle" style="color: #fff;">
-                <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+                <nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link>
               </div>
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td colspan="2">
               <div class="unititle">

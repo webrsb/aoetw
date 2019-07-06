@@ -84,8 +84,7 @@
               >血量</nuxt-link
             >都非常的高，<nuxt-link to="/units/Archer_Units"
               >遠距離單位</nuxt-link
-            >對投石機的效果並不好。
-            攻城武器也可以拿來打擊投石機，因為有相當的加成，<nuxt-link
+            >對投石機的效果並不好。攻城武器也可以拿來打擊投石機，因為有相當的加成，<nuxt-link
               to="/units/Siege_Ram"
               >重型衝撞車</nuxt-link
             >甚至因為擴散攻擊，可以一次撞爆整排的投石機。如果真的沒有其他單位，那拿<nuxt-link
@@ -145,7 +144,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >攻擊加成+20%。<br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -191,7 +190,7 @@
               >限定
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
@@ -216,7 +215,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -666,36 +665,36 @@
               >
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
             </td>
             <td class="unit4">10</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
             </td>
             <td class="unit4">6</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">射程</td>
             <td class="unit4">16</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">最小射程</td>
             <td class="unit4">4</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">命中率</td>
             <td class="unit4">對建築:80% <br />對單位:15%</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">射彈速度</td>
             <td class="unit4">3.5</td>

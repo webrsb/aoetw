@@ -52,7 +52,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p6">玩家2：</div></td>
               <td class="tc6">
@@ -134,14 +134,13 @@
               (紫色)、往北方的梅茲 (紅色) 或在西北方的大城市奧爾良 (青色)
               時就瓦解。勃根第訓練<nuxt-link to="/units/Archer">弓兵</nuxt-link
               >、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >和步兵，不過並沒有良好的防禦，
-              所以在第一波的攻勢中很容易就會被攻陷。
+              >和步兵，不過並沒有良好的防禦，所以在第一波的攻勢中很容易就會被攻陷。
             </li>
             <li>
-              由於勃根第人很容易被威嚇，所以在勸喻之後就會加入匈利奴人的陣營之中。
-              梅茲以<nuxt-link to="/units/Knight">騎士</nuxt-link>和<nuxt-link
-                to="/units/Throwing_Axeman"
-                >擲斧兵</nuxt-link
+              由於勃根第人很容易被威嚇，所以在勸喻之後就會加入匈利奴人的陣營之中。梅茲以<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >和<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
               >來彌補勃根第的弱點。他們的城堡很接近奧爾良，而得到一些防衛。
             </li>
             <li>

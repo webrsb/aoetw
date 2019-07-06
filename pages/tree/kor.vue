@@ -103,7 +103,7 @@
               <div>
                 <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i> <br />
+              <i class="fas fa-arrow-down"></i><br />
               <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
               <div><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link></div>
             </td>

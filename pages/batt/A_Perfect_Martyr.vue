@@ -44,7 +44,6 @@
               <td class="tc6"><div class="p8">玩家4</div></td>
               <td class="tc6">舒茲伯利（橘色）不列顛</td>
             </tr>
-            <tr></tr>
           </table>
         </div>
       </div>

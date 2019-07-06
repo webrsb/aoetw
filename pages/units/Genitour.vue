@@ -300,7 +300,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:對移動目標命中率上升 <br />
+              >:對移動目標命中率上升<br />
               <img
                 class="gg"
                 src="~assets/Thumb_Ring.png"
@@ -357,7 +357,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -860,8 +860,9 @@
               >。
             </li>
             <li>
-              標槍騎兵的英文為Genitour，源自於西班牙語中的“ Jinete
-              ”，意思是<nuxt-link to="/units/Knight">騎士</nuxt-link
+              標槍騎兵的英文為Genitour，源自於西班牙語中的“Jinete”，意思是<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
               >的意思，Jinetes在歷史上是一種快速移動的矛兵，雖然給予柏柏這單位是有點奇怪的。
             </li>
             <li>
@@ -996,7 +997,7 @@
               +4、+5(精銳)對<nuxt-link
                 to="/armor/Armor_Class_Archer"
               ></nuxt-link
-              >弓箭手 <br />+2(精銳)對<nuxt-link
+              >弓箭手<br />+2(精銳)對<nuxt-link
                 to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >
@@ -1018,7 +1019,7 @@
             <td class="unit3">射程</td>
             <td class="unit4">4</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">最小射程</td>
             <td class="unit4">1</td>

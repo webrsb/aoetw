@@ -120,7 +120,7 @@
                 alt=""
               /><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
               >:步兵攻擊+4，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >限定。 <br />
+              >限定。<br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -130,7 +130,7 @@
                 to="/units/Infantry_Units"
                 >步兵單位</nuxt-link
               >有<nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
-              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。 <br />
+              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -203,7 +203,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

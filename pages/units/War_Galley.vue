@@ -59,7 +59,7 @@
             >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>、<nuxt-link
               to="/units/Bombard_Cannon"
               >火砲</nuxt-link
-            >也會對艦隊造成毀滅性打擊。 <br />另外，<nuxt-link to="/units/Monk"
+            >也會對艦隊造成毀滅性打擊。<br />另外，<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
             >也是一大威脅，特別是沒有研發<nuxt-link to="/techs/Faith"
               >忠誠信仰</nuxt-link
@@ -212,7 +212,7 @@
                 src="~assets/Faith.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -746,8 +746,7 @@
                 to="/units/Naval_Vessels"
                 >海軍</nuxt-link
               >隊員和<nuxt-link to="/units/Archer">弓箭手</nuxt-link
-              >。必要時，也可透過將戰鬥塔放置在交易船的船尾和船頭上來變成弩砲戰船。
-              這些設置可以在敵船靠近的時候提供弓箭手更好的保護和高度優勢。
+              >。必要時，也可透過將戰鬥塔放置在交易船的船尾和船頭上來變成弩砲戰船。這些設置可以在敵船靠近的時候提供弓箭手更好的保護和高度優勢。
             </p>
           </div>
         </div>

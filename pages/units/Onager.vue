@@ -136,7 +136,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >攻擊加成+20%。<br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -680,7 +680,7 @@
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">

@@ -72,7 +72,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p3">玩家3</div></td>
               <td class="tc6">薩魯斯（綠色）哥德</td>

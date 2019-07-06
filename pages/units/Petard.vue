@@ -249,10 +249,10 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+40%。 <br />
+              >攻擊加成+40%。<br />
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
@@ -263,7 +263,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

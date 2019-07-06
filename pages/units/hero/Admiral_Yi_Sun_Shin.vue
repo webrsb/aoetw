@@ -135,7 +135,7 @@
             <td class="unit3">生命值</td>
             <td class="unit4">600</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Area_of_Effect">爆炸半徑</nuxt-link>
@@ -158,18 +158,17 @@
             <td class="unit3">開火間隔</td>
             <td class="unit4">3</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">攻擊範圍</td>
             <td class="unit4">10</td>
           </tr>
-          <tr></tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">6</td>

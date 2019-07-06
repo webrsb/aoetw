@@ -11,8 +11,8 @@
             <b>羅馬士兵</b>出現在《<nuxt-link to="/games/aof"
               >世紀帝國II:失落的帝國</nuxt-link
             >》版本中的幾場<nuxt-link to="/batt">戰役</nuxt-link
-            >，也能在地圖編輯器找到。羅馬士兵
-            不能被訓練，根據數據顯示其與<nuxt-link to="/units/Jaguar_Warrior"
+            >，也能在地圖編輯器找到。羅馬士兵不能被訓練，根據數據顯示其與<nuxt-link
+              to="/units/Jaguar_Warrior"
               >精銳豹勇士</nuxt-link
             >的戰鬥力不相上下，只有<nuxt-link to="/armor">遠程護甲</nuxt-link
             >與速度有差。

@@ -5,8 +5,8 @@
     <div class="row">
       <div class="col-md-12">
         <p>
-          <strong>英雄</strong>是世紀帝國II的特殊單位。
-          在常規遊戲中不可用，英雄通常指的是歷史人物。因此，他們經常在<nuxt-link
+          <strong>英雄</strong
+          >是世紀帝國II的特殊單位。在常規遊戲中不可用，英雄通常指的是歷史人物。因此，他們經常在<nuxt-link
             to="/batt"
             >戰役</nuxt-link
           >場景中出現。在那裡，他們往往是必須生存的單位，即他們的死亡意味著失敗。在征服者資料片之後所有英雄都不能被<nuxt-link
@@ -697,7 +697,7 @@
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/units/King">國王</nuxt-link>
+              <nuxt-link to="/units/edmap/King">國王</nuxt-link>
             </td>
             <td class="tunitc6">國王</td>
             <td class="tunitc6">

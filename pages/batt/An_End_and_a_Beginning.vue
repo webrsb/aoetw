@@ -89,7 +89,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
               <td class="tc6" width="38%">突襲者（綠色）法蘭克</td>

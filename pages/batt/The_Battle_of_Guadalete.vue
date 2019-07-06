@@ -71,7 +71,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p3" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">羅德里克軍隊（綠色）哥德</td>

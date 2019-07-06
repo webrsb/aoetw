@@ -183,7 +183,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >（護甲+1／+1，+3建築護甲） <br />
+              >（護甲+1／+1，+3建築護甲）<br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -223,7 +223,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -356,12 +356,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在世界大部分地區，弓箭這類的導彈武器人類從遠古時代到中世紀一直在使用。北歐是個例外，因為該地區茂密的森林使弓的範圍優勢無效。斧頭，標槍和刀子等投擲武器在那裡更受歡迎。隨著森林被清除，弓的使用更加普及。
-            英格蘭尤其青睞弓箭手，每個城鎮都有射箭場進行弓箭訓練。每週也會舉行比賽以鼓勵眾人練習這項技術。英格蘭可以輕鬆地從龐大的弓箭手中招募數千名<nuxt-link
+            在世界大部分地區，弓箭這類的導彈武器人類從遠古時代到中世紀一直在使用。北歐是個例外，因為該地區茂密的森林使弓的範圍優勢無效。斧頭，標槍和刀子等投擲武器在那裡更受歡迎。隨著森林被清除，弓的使用更加普及。英格蘭尤其青睞弓箭手，每個城鎮都有射箭場進行弓箭訓練。每週也會舉行比賽以鼓勵眾人練習這項技術。英格蘭可以輕鬆地從龐大的弓箭手中招募數千名<nuxt-link
               to="/units/Longbowman"
               >精銳長弓兵</nuxt-link
-            >來到<nuxt-link to="/civs/Franks">法國</nuxt-link>參加作戰。
-            隨著弩弓和早期火器的投入使用，人們會在經過改裝的射箭場上練習使用這些武器。
+            >來到<nuxt-link to="/civs/Franks">法國</nuxt-link
+            >參加作戰。隨著弩弓和早期火器的投入使用，人們會在經過改裝的射箭場上練習使用這些武器。
           </p>
         </div>
       </div>

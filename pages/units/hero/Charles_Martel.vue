@@ -38,8 +38,7 @@
           <p>
             鐵鎚查理（Charles Martel）是公元8世紀<nuxt-link to="/civs/Franks"
               >法國</nuxt-link
-            >的墨洛溫（Merovingian）統治者。
-            他在713年爬到上層位置，並在718年成為國王。鐵鎚查理是一位瘋狂的管理者，發展了第一種封建主義形式，並且常常被認為是第一個發展真正的法蘭克福貨幣體系。他在法國建立了第一個高度集中的專制統治，但是後來又把他的帝國分為兩部分。後來在<nuxt-link
+            >的墨洛溫（Merovingian）統治者。他在713年爬到上層位置，並在718年成為國王。鐵鎚查理是一位瘋狂的管理者，發展了第一種封建主義形式，並且常常被認為是第一個發展真正的法蘭克福貨幣體系。他在法國建立了第一個高度集中的專制統治，但是後來又把他的帝國分為兩部分。後來在<nuxt-link
               to="/units/hero/Charlemagne"
               >查理曼大帝</nuxt-link
             >的統治下又短暫統一，不過之後又分裂直到法國軍隊強行征服這個地區。"Martel"在拉丁語裡是表示錘子的意思;
@@ -129,7 +128,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>

@@ -12,8 +12,9 @@
               >黃金國戰役</nuxt-link
             >的第二關劇情關卡，在本<nuxt-link to="/batt">戰役</nuxt-link
             >中，玩家扮演的是<nuxt-link to="/civs/Incas">印加人</nuxt-link
-            >而不是<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link>。
-            法蘭西斯科-德-奧雷亞納、<nuxt-link to="/units/hero/Gonzalo_Pizarro"
+            >而不是<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
+            >。法蘭西斯科-德-奧雷亞納、<nuxt-link
+              to="/units/hero/Gonzalo_Pizarro"
               >岡薩洛·皮薩羅</nuxt-link
             >、本地人戴利考拉以及他們的<nuxt-link to="/units/Conquistador"
               >征服者</nuxt-link
@@ -71,7 +72,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6" width="12%"><div class="p6">玩家4</div></td>
               <td class="tc6" width="38%">伊馬拉（紫色）印加</td>
@@ -79,7 +80,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p4">玩家2</div></td>
               <td class="tc6">埃爾巴科（黃色）印加</td>
@@ -225,8 +226,7 @@
                 玩家準備搭建一艘穿越亞馬遜河的<nuxt-link
                   to="/units/Naval_Vessels"
                   >船隻</nuxt-link
-                >，但需要收集必要的材料。埃爾巴科會為玩家提供一個村民，從埃爾巴科東北部附近的倉庫(一個貿易工廠)收集材料。
-                然而，玩家會遇到敵對的本地人，並且他們正在嚴密監視倉庫。
+                >，但需要收集必要的材料。埃爾巴科會為玩家提供一個村民，從埃爾巴科東北部附近的倉庫(一個貿易工廠)收集材料。然而，玩家會遇到敵對的本地人，並且他們正在嚴密監視倉庫。
               </li>
               <li>
                 最好不要立即前往被嚴密監視的倉庫，而是向東南方去，有一些更容易被殺死的敵軍，前進直到一個可以取得<nuxt-link

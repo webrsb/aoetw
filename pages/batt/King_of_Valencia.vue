@@ -74,7 +74,6 @@
                 貝倫格爾（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
             </tr>
-            <tr></tr>
           </table>
 
           <br />

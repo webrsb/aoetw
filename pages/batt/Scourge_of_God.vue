@@ -56,7 +56,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p3">玩家3</div></td>
               <td class="tc6">
@@ -154,8 +154,7 @@
               >作戰。
             </li>
             <li>
-              西徐亞人 （綠色）
-              在西面有廣闊的活動空間。因為西徐亞人是遊牧民族，他們不需要採集<nuxt-link
+              西徐亞人（綠色）在西面有廣闊的活動空間。因為西徐亞人是遊牧民族，他們不需要採集<nuxt-link
                 to="/resource/Stone"
                 >石頭</nuxt-link
               >。由於西徐亞人跟羅馬人並沒有很好的交情，所以它可能會倒向其中一邊，與另外一邊對抗。

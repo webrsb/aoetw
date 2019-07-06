@@ -103,7 +103,7 @@
               <div>
                 <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i> <br />
+              <i class="fas fa-arrow-down"></i><br />
               <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
               <div><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link></div>
             </td>
@@ -168,7 +168,7 @@
               >
                 <div>
                   <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>
-                </div> </nuxt-link
+                </div></nuxt-link
               ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
@@ -177,7 +177,7 @@
               >
                 <div>
                   <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
-                </div> </nuxt-link
+                </div></nuxt-link
               ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
@@ -186,7 +186,7 @@
               >
                 <div>
                   <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
-                </div> </nuxt-link
+                </div></nuxt-link
               ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm not">
@@ -202,7 +202,7 @@
               >
                 <div>
                   <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
-                </div> </nuxt-link
+                </div></nuxt-link
               ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">

@@ -11,8 +11,7 @@
             <b>齊格非</b>是世紀帝國II的地圖編輯器中的<nuxt-link
               to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >。
-            他以北歐神話中的傳奇英雄西格德為基礎，融合幾個斯堪地納維亞傳奇的中心人物，以及使用瓦格納的同名歌劇做為設計。
+            >。他以北歐神話中的傳奇英雄西格德為基礎，融合幾個斯堪地納維亞傳奇的中心人物，以及使用瓦格納的同名歌劇做為設計。
           </p>
           <p>
             在遊戲中齊格非的外表是<nuxt-link to="/units/Champion"
@@ -96,7 +95,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>

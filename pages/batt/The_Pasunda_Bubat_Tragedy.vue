@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>風雲變色</b>為<nuxt-link to="/batt/Gajah_Madaa"
+            <b>風雲變色</b>為<nuxt-link to="/batt/Gajah_Mada"
               >加查·馬達戰役</nuxt-link
             >的第五關劇情關卡，此關描述<nuxt-link to="/units/hero/Gajah_Mada"
               >加查·馬達</nuxt-link
@@ -81,7 +81,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p1">玩家2</div></td>
               <td class="tc6">巽他王國（藍色）馬來</td>
@@ -232,7 +232,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+              <nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link>
             </td>
           </tr>
           <tr>

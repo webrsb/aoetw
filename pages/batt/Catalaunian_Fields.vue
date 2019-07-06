@@ -72,7 +72,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p1">玩家3</div></td>
               <td class="tc6">
@@ -216,8 +216,7 @@
               <li>
                 奄蔡（上古漢語擬音：[ʔromʔ s.r̥ˁats]；英語：Alans，或
                 Alani，也拼為 Alauni 或
-                Halani）為古代中亞印歐語系遊牧民族，又作闔蘇，1—3世紀中葉的東漢三國時期也稱阿蘭聊（中古漢語擬音：[ʔɑ
-                lɑn
+                Halani）為古代中亞印歐語系遊牧民族，又作闔蘇，1—3世紀中葉的東漢三國時期也稱阿蘭聊（中古漢語擬音：[ʔɑlɑn
                 leu]）或阿蘭。他們族源是塞克人—薩爾馬特人。遊戲舊版初期翻譯為亞蘭人，現漢化翻譯為奄蔡
               </li>
               。

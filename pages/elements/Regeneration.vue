@@ -158,7 +158,7 @@
             >
               <div class="unititle">
                 <center>
-                  <nuxt-link to="/civs/Vikings">維京</nuxt-link>文明 <br />
+                  <nuxt-link to="/civs/Vikings">維京</nuxt-link>文明<br />
                   ＊研發<nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link
                   >科技→回血量提升
                 </center>

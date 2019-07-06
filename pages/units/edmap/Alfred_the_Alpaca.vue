@@ -10,8 +10,8 @@
           <p>
             <b>武裝羊駝</b>的外觀與<nuxt-link to="/units/animal/Llama"
               >羊駝</nuxt-link
-            >相似，但體型較小，沒有馬鞍，戴著金色的皇冠，而且有說話的能力。
-            它的移動速度中等（與大多數<nuxt-link to="/units/Infantry_Units"
+            >相似，但體型較小，沒有馬鞍，戴著金色的皇冠，而且有說話的能力。它的移動速度中等（與大多數<nuxt-link
+              to="/units/Infantry_Units"
               >步兵</nuxt-link
             >相當）並使用頭槌攻擊。因為它具有非常高的護甲和<nuxt-link
               to="/elements/Area_of_Effect"

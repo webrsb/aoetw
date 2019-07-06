@@ -152,7 +152,7 @@
           <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
         </p>
         <ul>
-          <li><nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link></li>
+          <li><nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link></li>
           <li>
             <nuxt-link to="/units/hero/Suryavarman_I">蘇利耶跋摩一世</nuxt-link
             >:西元十一世紀初，高棉王國四分五裂、強敵環伺。只有蘇利耶跋摩王子有能力與魄力一一打敗各路勁敵光復高棉。然而打江山易，守江山難。蘇利耶跋摩能否擴大基業，吞併強鄰。開創屬於自己的千秋霸業呢？

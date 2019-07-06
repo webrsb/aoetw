@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>開疆闢土</b>為<nuxt-link to="/batt/Gajah_Madaa"
+            <b>開疆闢土</b>為<nuxt-link to="/batt/Gajah_Mada"
               >加查·馬達戰役</nuxt-link
             >的第一關劇情關卡，此關描述滿者伯夷帝國在羅登‧韋查耶領導下攻滅信訶沙里並擊退蒙元的過程。
           </p>
@@ -63,7 +63,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#999999;">中立</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p3">玩家3</div></td>
               <td class="tc6">
@@ -74,7 +74,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">信訶沙里（藍色）馬來</td>
@@ -230,7 +230,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+              <nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link>
             </td>
           </tr>
           <tr>

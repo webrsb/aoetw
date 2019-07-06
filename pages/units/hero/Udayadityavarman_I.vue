@@ -13,8 +13,8 @@
             >》資料片中只能在地圖編輯器裡找的到。
           </p>
           <p>
-            優陀耶迭多跋摩二世（Udayadityavarman II，又譯烏達雅地耶跋摩二世）
-            柬埔寨吳哥國王（1050 -
+            優陀耶迭多跋摩二世（Udayadityavarman
+            II，又譯烏達雅地耶跋摩二世）柬埔寨吳哥國王（1050 -
             1066）他建造了巴方寺，用於供奉濕婆神，但是一些雕刻都仿製於佛像。他在位期間完成了西芭萊湖水庫，建造了西梅奔寺，在西池的中央小島上，寺中曾供奉著一尊表現毗濕奴在宇宙之水中休憩的銅像。
           </p>
           <p>
@@ -78,7 +78,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>

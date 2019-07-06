@@ -1442,7 +1442,7 @@
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
                     <div id="a21">
-                      <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+                      <nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link>
                     </div>
                   </div>
                 </td>

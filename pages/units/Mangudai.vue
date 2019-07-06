@@ -360,7 +360,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -885,8 +885,8 @@
             <em
               >“蒙古人由<nuxt-link to="/units/hero/Genghis_Khan"
                 >成吉思汗</nuxt-link
-              >統一，他們的領土曾經從太平洋到地中海甚至到中歐，蒙古人是優秀的騎兵，每個戰士都有馬廄眷養小馬，保持有源源不斷的坐騎可用。
-              蒙古軍隊的主力是馬弓騎兵，這些<nuxt-link to="/units/Archer"
+              >統一，他們的領土曾經從太平洋到地中海甚至到中歐，蒙古人是優秀的騎兵，每個戰士都有馬廄眷養小馬，保持有源源不斷的坐騎可用。蒙古軍隊的主力是馬弓騎兵，這些<nuxt-link
+                to="/units/Archer"
                 >弓箭手</nuxt-link
               >中最好的，叫做蒙古突騎，即便處於劣勢他們也能用策略擊敗敵人。他們會使用陷阱來消耗敵人的騎兵，再把它們射程蜂窩，緩慢的敵人部隊更可以最低風險在一定範圍內就將其擊倒射殺。敵人的軍隊在疲憊不堪之際還是碰不到蒙古突騎一根寒毛。蒙古軍隊的主要弱點是只有偉大的領導人才能領導凝聚，他們，當偉大的可汗或者後來的領導人去世時，軍隊就會為了爭奪可汗分封崩離析。“</em
             >

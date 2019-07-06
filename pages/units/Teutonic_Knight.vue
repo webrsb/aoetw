@@ -222,7 +222,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -466,8 +466,7 @@
               條頓騎士似乎穿著hauberk（在一件surcoat和斗篷下）。鎖子甲可輕易的抵擋用刀刃武器（特別是中東<nuxt-link
                 to="/civs"
                 >文明</nuxt-link
-              >使用的彎刀）的攻擊，但是很容易被箭矢和尖銳武器（以及火槍）所刺穿。
-              這也許可以解釋為什麼日爾曼騎士擅於對近戰攻擊，但不擅於對箭矢和火槍卻很弱。
+              >使用的彎刀）的攻擊，但是很容易被箭矢和尖銳武器（以及火槍）所刺穿。這也許可以解釋為什麼日爾曼騎士擅於對近戰攻擊，但不擅於對箭矢和火槍卻很弱。
             </li>
           </ul>
         </div>

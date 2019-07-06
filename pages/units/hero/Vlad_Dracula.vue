@@ -22,7 +22,8 @@
             在第三個戰役中，<nuxt-link to="/batt/Draculaa">德古拉</nuxt-link
             >在通向Giurgiu的途中抓住一台<nuxt-link to="/units/Trade_Cart"
               >貿易車隊</nuxt-link
-            >。然後他把自己偽裝成一個<nuxt-link to="/units/King">國王</nuxt-link
+            >。然後他把自己偽裝成一個<nuxt-link to="/units/edmap/King"
+              >國王</nuxt-link
             >（叫變裝的德古拉），隨後以交易者的身份自由進入這個城市，後來佔領了這座城市並擊敗了<nuxt-link
               to="/units/hero/Osman"
               >奧斯曼</nuxt-link
@@ -87,12 +88,12 @@
             </td>
             <td class="unit4">1.93</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>

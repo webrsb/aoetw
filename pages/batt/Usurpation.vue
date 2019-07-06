@@ -65,7 +65,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p2" width="12%">玩家2</div></td>
               <td class="tc6" width="43%">優陀耶迭多跋摩的軍隊（紅色）高棉</td>

@@ -221,7 +221,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >攻擊加成+20%。<br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -271,7 +271,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -562,7 +562,7 @@
                 to="/games/aoc"
                 >征服者入侵</nuxt-link
               >位資料片之後，衝撞車才可以駐軍(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link
-                to="/units/King"
+                to="/units/edmap/King"
                 >國王</nuxt-link
               >、<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
               >)，而到了<nuxt-link to="/games/aof">失落的帝國</nuxt-link

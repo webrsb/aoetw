@@ -65,7 +65,7 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc6"><div class="p2">玩家4</div></td>
               <td class="tc6">阿斯圖里亞人（紅色）哥德</td>
