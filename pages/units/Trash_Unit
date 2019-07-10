@@ -8,27 +8,121 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            <b>垃圾兵單位</b>是指不需要黃金或其他稀有資源訓練的軍事單位。在世紀帝國系列的所有遊戲中，有幾個單位被認為是“垃圾單位”。
-            這些單元可以大量生產，並且花費很少的資源。在大多數情況下，它們對於在遊戲早期防衛領地或對抗某些敵方單位非常有用，
-            但也可以被需要花費黃金的單位輕易擊倒。術語“垃圾”指的是這些單位需要的資源（通常是所有遊戲中的木材和食物）比其他稀有資源更
-            可以被玩家任意浪費。
+            <b>垃圾兵單位</b>是指不需要黃金或其他稀有資源訓練的軍事單位。在世紀帝國系列的所有遊戲中，有幾個單位被認為是“垃圾單位”。這些單元可以大量生產，並且花費很少的資源。在大多數情況下，它們對於在遊戲早期防衛領地或對抗某些敵方單位非常有用，但也可以被需要花費黃金的單位輕易擊倒。術語“垃圾”指的是這些單位需要的資源（通常是所有遊戲中的木材和食物）比其他稀有資源更可以被玩家任意浪費。
           </p>
           <p>
-            當一個玩家使用垃圾單位時，他們通常會試圖用數量而不是質量壓倒對手，或者用它們作為炮灰抵擋敵人的部隊，讓玩家有時間創造一支更強大的軍隊。
-            垃圾軍隊對於沒有貿易的長期遊戲以及黃金數量有限的地圖也很重要。
+            當一個玩家使用垃圾單位時，他們通常會試圖用數量而不是質量壓倒對手，或者用它們作為炮灰抵擋敵人的部隊，讓玩家有時間創造一支更強大的軍隊。垃圾軍隊對於沒有貿易的長期遊戲以及黃金數量有限的地圖也很重要。
           </p>
           </div>
         <h3>垃圾兵列表</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在世紀帝國II中，只有三個主要的垃圾單位：對於弓箭手有攻擊加成的矛兵，對騎兵有攻擊加成的槍兵，以及在遊戲早期被用作偵察兵，
-            對僧侶有攻擊加成並能有效反制弓箭手的斥侯。在《世紀帝國II:失落的王朝》中，引入了第一個特殊垃圾兵單位馬札爾驃騎兵，
-            在研發雇傭兵後變成垃圾兵單位。它是輕騎兵的改進型，並對攻城單位有攻擊加成。在《世紀帝國II:非洲王朝》中，引入了另一個特殊垃圾兵單位
-            標槍騎兵。它是柏柏與盟友共享的特殊單位。它本質上是一個騎馬的矛兵，對弓箭手有攻擊加成。在《世紀帝國II:拉惹的崛起》
-            第三個特殊垃圾兵單位帝王戰矛兵出現。它是越南及其盟友共享的戰矛兵升級版。
-            此外，馬來獨特技術Forced Levy消除了民兵部隊的黃金成本，將它們變成了垃圾單元。
+            在世紀帝國II中，有三個主要的垃圾單位：對於弓箭手有攻擊加成的矛兵，對騎兵有攻擊加成的槍兵，以及在遊戲早期被用作偵察兵，對僧侶有攻擊加成並能有效反制弓箭手的斥侯。在《世紀帝國II:失落的王朝》中，引入了第一個特殊垃圾兵單位馬札爾驃騎兵，  在研發雇傭兵後變成垃圾兵單位。它是輕騎兵的改進型，並對攻城單位有攻擊加成。在《世紀帝國II:非洲王朝》中，引入了另一個特殊垃圾兵單位標槍騎兵。它是柏柏與盟友共享的特殊單位。它本質上是一個騎馬的矛兵，對弓箭手有攻擊加成。在《世紀帝國II:拉惹的崛起》第三個特殊垃圾兵單位帝王戰矛兵出現。它是越南及其盟友共享的戰矛兵升級版。此外，馬來特殊科技強制徵兵消除了民兵系列的黃金成本，將它們變成了垃圾單位。
           </p>
+          <p>下方列出世紀帝國II中的垃圾兵清單:
+          <ul>
+              <li><img
+                  class="gg"
+                  src="~assets/SpearmanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/PikemanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/HalberdierIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
+                </li>
+              <li><img
+                  class="gg"
+                  src="~assets/SkirmisherIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Skirmisher">戰矛兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/EliteSkirmisherIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Elite_Skirmisher">精銳戰矛兵</nuxt-link
+                >→
+                <img
+                  class="gg"
+                  src="~assets/Imperialskirmishericon.png"
+                  alt=""
+                /><nuxt-link to="/units/Imperial_Skirmisher"
+                  >帝王戰矛兵</nuxt-link
+                >
+                (<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>及其同盟限定)</li>
+              <li><img
+                  class="gg"
+                  src="~assets/ScoutCavalryIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/LightCavalryIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
+                <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Hussar"
+                  >匈牙利輕騎兵</nuxt-link
+                ></li>
+              <li>
+              <img
+                class="gg"
+                src="~assets/Magyar_Huszar_icon.jpg"
+                width="22"
+                alt=""
+              /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/Magyar_Huszar_icon.jpg"
+                width="22"
+                alt=""
+              /><nuxt-link to="/units/Magyar_Huszar">精銳馬扎爾驃騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定，研發<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>後)
+            </li>
+              <li>
+              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" /><nuxt-link
+                to="/units/Genitour"
+                >標槍騎兵</nuxt-link
+              >→
+              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" /><nuxt-link
+                to="/units/Genitour"
+                >精銳標槍騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
+            </li>
+              <li><img
+                  class="gg"
+                  src="~assets/MilitiaIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/ManAtArmsIcon.jpg"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/LongswordsManIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Two-Handed_Swordsman"
+                  >雙手劍兵</nuxt-link
+                >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定，研發<nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link>後)
+              </li>
+              
+          </ul>
+          
         </div>
         
           <h3>圖庫</h3>
@@ -45,7 +139,7 @@
               <div class="lightbox-caption" style="width:220px">
                 <p>
                   <em
-                    >所有世紀II的垃圾兵單位(最初及最終型態)。</em
+                    >世紀II的垃圾兵單位(最初及最終型態)。</em
                   >
                 </p>
               </div>
@@ -54,8 +148,7 @@
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
         </div>
       </div>
-    </div>
-  </div>
+</div>
 </template>
 <script>
 export default {
