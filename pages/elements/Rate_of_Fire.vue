@@ -24,7 +24,7 @@
             >強的單位，例如<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >和<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-            >，而大多數的<nuxt-link to="/Trash_Unit.php">垃圾兵單位</nuxt-link
+            >，而大多數的<nuxt-link to="/units/Trash_Unit">垃圾兵單位</nuxt-link
             >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵類</nuxt-link
             >的射速也比較低。
           </p>

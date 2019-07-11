@@ -146,6 +146,11 @@
                     >特殊單位</nuxt-link
                   >
                 </li>
+                <li>
+                  <nuxt-link to="/armor/Armor_Class_Condottiero"
+                    >傭兵</nuxt-link
+                  >
+                </li>
               </ul>
             </div>
             <div class="col-md-4">

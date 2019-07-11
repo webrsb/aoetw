@@ -33,7 +33,7 @@
           </p>
           <p>
             由於戰矛兵生產不用<nuxt-link to="/resource/Gold">黃金</nuxt-link
-            >，所以是一個<nuxt-link to="/Trash_Unit.php">垃圾兵單位</nuxt-link
+            >，所以是一個<nuxt-link to="/units/Trash_Unit">垃圾兵單位</nuxt-link
             >，在缺少<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。在<nuxt-link
               to="/maps/Arabia"

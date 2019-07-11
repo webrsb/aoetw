@@ -126,16 +126,14 @@
               >工作人員頁</nuxt-link
             >
           </p>
-          <p>
-            <ul>
-              <li>
-                <b>編輯現有頁面</b>：每個頁面的下方，都有一個「協助改善此頁面」的連結。可以直接利用線上編輯器修改頁面和預覽結果
-              </li>
-              <li>
-                <b>新增頁面</b>：請<a target="_blank" href="https://github.com/webrsb/aoetw/upload/dev/pages">點此</a>上傳新頁面的檔案，假如不知道要怎設計，可以去其它類似的頁面使用編輯的功能，複製它的程式碼當範本來修改
-              </li>
-            </ul>
-          </p>
+          <ul>
+            <li>
+              <b>編輯現有頁面</b>：每個頁面的下方，都有一個「協助改善此頁面」的連結。可以直接利用線上編輯器修改頁面和預覽結果
+            </li>
+            <li>
+              <b>新增頁面</b>：請<a target="_blank" href="https://github.com/webrsb/aoetw/upload/dev/pages">點此</a>上傳新頁面的檔案，假如不知道要怎設計，可以去其它類似的頁面使用編輯的功能，複製它的程式碼當範本來修改
+            </li>
+          </ul>
           <p>如何編輯，可以參考下面兩部實作影片，你將會發現，非常簡單。</p>
           <div class="col-md-6">
             <iframe
