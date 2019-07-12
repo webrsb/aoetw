@@ -106,7 +106,7 @@
               <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
               <div><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link></div>
             </td>
-            <td class="t19 trm not">
+            <td class="t19 trm">
               <img class="gg" src="~assets/HalberdierIcon.jpg" alt="" />
               <div><nuxt-link to="/units/Halberdier">戟兵</nuxt-link></div>
             </td>
