@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
-    "dev-debug": "node --inspect node_modules/nuxt/bin/nuxt",
+    "dev-debug": "node --max-old-space-size=4096 --inspect node_modules/nuxt/bin/nuxt",
     "build": "nuxt build",
     "start": "cross-env NODE_ENV=production node server/index.js",
     "generate": "nuxt generate",
@@ -20,7 +20,7 @@
     "codemirror": "^5.43.0",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
-    "lodash": "^4.17.11",
+    "lodash": ">=4.17.13",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
