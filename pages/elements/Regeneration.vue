@@ -50,7 +50,7 @@
               >回血</nuxt-link
             >率。箭塔、城鎮中心變成每分鐘回復24HP，城堡則是每分鐘回復48HP。
           </p>
-          <p>僧侶回復友方生命的速度是每分鐘150滴血。</p>
+          <p>僧侶回復友方生命的速度是每分鐘150HP。</p>
           <ul>
             <li>
               <nuxt-link to="/units/hero">英雄</nuxt-link>：每分鐘回血30HP
@@ -76,16 +76,13 @@
         <table class="table-bordered" border="1" width="100%">
           <tr>
             <td
-              style="border: 1px solid #495057;background: #FF6633;color: #FFFFFF;"
-              height="40"
+              style="border: 1px solid #495057;background: #FF6633;color: #FFFFFF; vertical-align: middle"
               colspan="7"
-              align="center"
-              valign="middle"
               class="unit"
             >
-              <center>
-                <div id="C"><strong>可生產的回血單位</strong></div>
-              </center>
+              <div style="text-align: center">
+                <strong>可生產的回血單位</strong>
+              </div>
             </td>
           </tr>
           <tr>
@@ -95,9 +92,9 @@
               bgcolor="#FFFFFF"
             >
               <div class="unititle">
-                <center>
-                  <img src="~assets/Berserk.png" width="250" height="250" />
-                </center>
+                <gallery>
+                  <img src="~assets/Berserk.png" width="100%" class="imgn" />
+                </gallery>
               </div>
             </td>
             <td
@@ -106,9 +103,9 @@
               bgcolor="#FFFFFF"
             >
               <div class="unititle">
-                <center>
-                  <img src="~assets/Camel.png" width="250" height="250" />
-                </center>
+                <gallery>
+                  <img src="~assets/Camel.png" width="100%" class="imgn" />
+                </gallery>
               </div>
             </td>
             <td
@@ -117,13 +114,13 @@
               bgcolor="#FFFFFF"
             >
               <div class="unititle">
-                <center>
+                <gallery>
                   <img
                     src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
-                    width="250"
-                    height="250"
+                    width="100%"
+                    class="imgn"
                   />
-                </center>
+                </gallery>
               </div>
             </td>
           </tr>
