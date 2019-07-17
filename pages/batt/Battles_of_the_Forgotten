@@ -37,67 +37,67 @@
               <div class="col-md-6">
                 <ol>
                   <li>
-                    <nuxt-link to="/batt/Tours_732">都爾（732）</nuxt-link>
+                    <nuxt-link to="/batt/Bukhara_557">布哈拉反擊戰(557)</nuxt-link>
                     <p>
                       <nuxt-link to="/civs">文明</nuxt-link>：<nuxt-link
-                        to="/civs/Franks"
-                        >法蘭克</nuxt-link
+                        to="/civs/Persians"
+                        >波斯</nuxt-link
                       >
                     </p>
                   </li>
                   <li>
-                    <nuxt-link to="/batt/Vindlandsaga_1000"
-                      >芬特蘭撒格（1000）</nuxt-link
+                    <nuxt-link to="/batt/Dos_Pilas_648"
+                      >雙柱城記(648)</nuxt-link
+                    >
+                    <p>文明：<nuxt-link to="/civs/Mayans">馬雅</nuxt-link></p>
+                  </li>
+                  <li>
+                    <nuxt-link to="/batt/York_865"
+                      >血洗約克城(865)</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Vikings">維京</nuxt-link></p>
                   </li>
                   <li>
-                    <nuxt-link to="/batt/Hastings_1066"
-                      >哈斯汀斯（1066）</nuxt-link
+                    <nuxt-link to="/batt/Honfoglalas_895"
+                      >征服家園(895)</nuxt-link
                     >
-                    <p>文明：法蘭克</p>
+                    <p>文明：<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link></p>
                   </li>
                   <li>
-                    <nuxt-link to="/batt/Manzikert_1071"
-                      >曼奇克托（1071）</nuxt-link
-                    >
-                    <p>文明：<nuxt-link to="/civs/Turks">土耳其</nuxt-link></p>
-                  </li>
-                  <li>
-                    <nuxt-link to="/batt/Agincourt_1415"
-                      >亞琴哥特（1415）</nuxt-link
+                    <nuxt-link to="/batt/Langshan_Jiang_919"
+                      >狼山江之戰(919)</nuxt-link
                     >
                     <p>
-                      文明：<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+                      文明：<nuxt-link to="/civs/Chinese">中國</nuxt-link>
                     </p>
                   </li>
                   <li>
-                    <nuxt-link to="/batt/Lepanto_1571"
-                      >勒班陀（1571）</nuxt-link
-                    >
-                    <p>
-                      文明：<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
-                    </p>
-                  </li>
-                  <li>
-                    <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
+                    <nuxt-link to="/batt/Kurikara_1183">礪波山之戰(1183)</nuxt-link>
                     <p>文明：<nuxt-link to="/civs/Japanese">日本</nuxt-link></p>
                   </li>
                   <li>
-                    <nuxt-link to="/batt/Noryang_Point_1598"
-                      >洛陽點（1598）</nuxt-link
+                    <nuxt-link to="/batt/Cyprus_1191"
+                      >塞普勒斯島(1191)</nuxt-link
                     >
-                    <p>文明：<nuxt-link to="/civs/Koreans">韓國</nuxt-link></p>
+                    <p>文明：<nuxt-link to="/civs/Britons">不列顛</nuxt-link></p>
+                  </li>
+                  <li>
+                    <nuxt-link to="/batt/Bapheus_1302"
+                      >兵臨巴菲烏斯(1302)</nuxt-link
+                    >
+                    <p>
+                      文明：<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+                    </p>
                   </li>
                 </ol>
               </div>
               <div class="col-md-6">
                 <img
-                  src="~assets/9. Battles of the Conquerors.jpg"
+                  src="~assets/失落的帝國戰役.png"
                   width="300"
                   alt=""
                 />
-                <p><em>征服者的戰役地圖</em></p>
+                <p><em>失落的帝國的戰役地圖</em></p>
               </div>
             </div>
             <h3>芝麻小事</h3>
@@ -106,31 +106,15 @@
               <p>此章節的其他資訊</p>
               <ul>
                 <li>
-                  此章節與<nuxt-link to="/batt/Battles_of_the_Forgotten"
-                    >失落的帝國戰役</nuxt-link
-                  >第7章一樣，都是多個單關組成的綜合章節。
+                  此章節與<nuxt-link to="/batt/Battles_of_the_Conquerors"
+                    >征服者入侵的戰役</nuxt-link
+                  >第4章一樣，都是多個單關組成的綜合章節。
                 </li>
+                
                 <li>
-                  本頁面依然保留微軟官方舊版的關卡翻譯，與現今版本有不少落差。
-                </li>
-                <ul>
-                  <li>
-                    如：芬特蘭撒格／大地的傳奇、曼奇克托／曼齊刻爾特、亞琴哥特／阿金庫爾...等。
-                  </li>
-                </ul>
-                <li>
-                  <nuxt-link to="/civs/Koreans">韓國</nuxt-link>戰役-<nuxt-link
-                    to="/batt/Kyoto_1582"
-                    >(洛陽點)</nuxt-link
-                  >，英語原文Noryang Point，為翻譯錯誤，正確為露梁海戰。
-                </li>
-                <li>
-                  在世紀帝國II：<nuxt-link to="/civs/Japanese">日本</nuxt-link
-                  >、韓國（沒有獨立篇章），<nuxt-link to="/civs/Chinese"
-                    >中國</nuxt-link
-                  >戰役直到2014年6月官方3.6更新<nuxt-link to="/games/aof"
-                    >失落的帝國</nuxt-link
-                  >第7章才登場，但也僅此一關。
+                  <nuxt-link to="/batt/Kaesong_936"
+                      >開城(936)</nuxt-link
+                    >在2014年9月6號由Steam工作坊發布。在同年11月22號官方透露原為計畫中第9個失落帝國戰役，但最後胎死腹中。
                 </li>
               </ul>
             </div>
@@ -142,8 +126,8 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle" style="color: #fff;">
-                <nuxt-link to="/batt/Battles_of_the_Conquerors"
-                  >征服者的戰役</nuxt-link
+                <nuxt-link to="/batt/Battles_of_the_Forgotten"
+                  >失落的帝國的戰役</nuxt-link
                 >
               </div>
             </td>
@@ -171,7 +155,7 @@
           <tr>
             <td class="unit3">遊戲版本</td>
             <td class="unit4">
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -188,7 +172,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝！此頁面由裕暉、WEN協助編輯。</div>
+        <div class="thanks">感謝！此頁面由裕暉、賜齡協助編輯。</div>
       </div>
     </div>
   </div>
