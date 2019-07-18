@@ -89,6 +89,10 @@
               <img class="gg" src="~assets/Arson.jpg" alt="" />
               <div><nuxt-link to="/techs/Arson">縱火</nuxt-link></div>
             </td>
+            <td class="t19 trm">
+              <img class="gg" src="~assets/Arson.jpg" alt="" />
+              <div><nuxt-link to="/techs/Arson">供給</nuxt-link></div>
+            </td>
           </tr>
           <tr>
             <td style="vertical-align: middle;" class="t5 trm im">
@@ -199,7 +203,7 @@
               >
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t15 trm not">
+            <td class="t15 trm">
               <img class="gg" src="~assets/Thumb_Ring.png" /><nuxt-link
                 to="/techs/Thumb_Ring"
                 ><div>
@@ -338,7 +342,7 @@
               <img class="gg" src="~assets/CavalierIcon.jpg" />
               <div><nuxt-link to="/units/Cavalier">騎兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br /><img
-                class="gg not"
+                class="gg"
                 src="~assets/PaladinIcon.jpg"
               />
               <div><nuxt-link to="/units/Paladin">遊俠</nuxt-link></div>
@@ -516,7 +520,7 @@
                 width="30"
                 alt=""
               />
-              <div><nuxt-link to="/techs/Howdah"></nuxt-link></div>
+              <div><nuxt-link to="/techs/Howdah">馬鐙</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
             <td class="t13 trm"></td>
@@ -544,7 +548,7 @@
             <td class="t13 trm">
               <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt="" />
               <div>
-                <nuxt-link to="/techs/Manipur_Cavalry"></nuxt-link>
+                <nuxt-link to="/techs/Manipur_Cavalry">協議</nuxt-link>
               </div>
             </td>
             <td class="t13 trm not">
