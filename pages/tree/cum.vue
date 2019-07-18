@@ -57,10 +57,7 @@
               <div><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm">
-              <img class="gg" src="~assets/Tracking.jpg" alt="" />
-              <div><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link></div>
-            </td>
+            
             <td class="t19 trm"></td>
           </tr>
           <tr>
@@ -92,6 +89,10 @@
             <td class="t19 trm">
               <img class="gg" src="~assets/Arson.jpg" alt="" />
               <div><nuxt-link to="/techs/Arson">縱火</nuxt-link></div>
+            </td>
+            <td class="t19 trm">
+              <img class="gg" src="~assets/Tracking.jpg" alt="" />
+              <div><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -507,7 +508,7 @@
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/Arambaiicon.png" width="30" alt="" />
-              <div><nuxt-link to="/units/Arambai">保加利亞騎兵</nuxt-link></div>
+              <div><nuxt-link to="/units/Arambai">欽察步弓手</nuxt-link></div>
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/PetardIcon.jpg" width="30" alt="" />
@@ -520,7 +521,7 @@
                 width="30"
                 alt=""
               />
-              <div><nuxt-link to="/techs/Howdah"></nuxt-link></div>
+              <div><nuxt-link to="/techs/Howdah">大草原畜牧</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
             <td class="t13 trm"></td>
@@ -534,7 +535,7 @@
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/Arambaiicon.png" width="30" alt="" />
-              <div><nuxt-link to="/units/Arambai">精銳保加利亞騎兵</nuxt-link></div>
+              <div><nuxt-link to="/units/Arambai">精銳欽察步弓手</nuxt-link></div>
             </td>
             <td class="t13 trm">
               <img
@@ -548,7 +549,7 @@
             <td class="t13 trm">
               <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt="" />
               <div>
-                <nuxt-link to="/techs/Manipur_Cavalry"></nuxt-link>
+                <nuxt-link to="/techs/Manipur_Cavalry">庫曼雇傭兵</nuxt-link>
               </div>
             </td>
             <td class="t13 trm">
