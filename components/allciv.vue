@@ -13,7 +13,8 @@
             </tr>
             <tr>
               <td class="unit4" colspan="2" style="text-align: center;">
-                <nuxt-link to="/civs/bestciv">文明強弱分析</nuxt-link>
+                <nuxt-link to="/civs/bestciv">文明強弱分析</nuxt-link>•
+                <nuxt-link to="/civs/aoestats">文明勝率</nuxt-link>
               </td>
             </tr>
             <tr>
