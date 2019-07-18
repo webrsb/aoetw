@@ -57,10 +57,6 @@
               <div><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm">
-              <img class="gg" src="~assets/Tracking.jpg" alt="" />
-              <div><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link></div>
-            </td>
             <td class="t19 trm"></td>
           </tr>
           <tr>
@@ -246,7 +242,7 @@
                 </div></nuxt-link
               >
             </td>
-            <td class="t15 trm not">
+            <td class="t15 trm">
               <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><nuxt-link
                 to="/units/Hand_Cannoneer"
                 ><div>
@@ -313,12 +309,12 @@
               <div><nuxt-link to="/units/Knight">騎士</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm not">
+            <td class="t19 trm">
               <img class="gg" src="~assets/CamelIcon.jpg" />
               <div><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm">
+            <td class="t19 trm not">
               <img class="gg" src="~assets/Battleelephanticon.png" />
               <div>
                 <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>
@@ -347,7 +343,7 @@
               />
               <div><nuxt-link to="/units/Paladin">遊俠</nuxt-link></div>
             </td>
-            <td class="t19 trm not">
+            <td class="t19 trm">
               <img class="gg" src="~assets/HeavyCamelIcon.jpg" />
               <div>
                 <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
@@ -362,7 +358,7 @@
                 >
               </div>
             </td>
-            <td class="t19 trm">
+            <td class="t19 trm not">
               <img class="gg" src="~assets/Battleelephanticon.png" />
               <div>
                 <nuxt-link to="/units/Elite_Battle_Elephant"
@@ -446,7 +442,7 @@
                 <nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i><br /><img
-                class="gg not"
+                class="gg"
                 src="~assets/SiegeRamIcon.jpg"
                 width="30"
                 alt=""
@@ -458,7 +454,7 @@
               <div><nuxt-link to="/units/Onager">中型投石車</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
               <img
-                class="gg not"
+                class="gg"
                 src="~assets/SiegeOnagerIcon.jpg"
                 width="30"
                 alt=""
@@ -813,7 +809,7 @@
                 <nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
               </div>
             </td>
-            <td class="t23 trm not">
+            <td class="t23 trm">
               <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt="" />
               <div>
                 <nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>
@@ -1004,7 +1000,7 @@
                 >
               </div>
             </td>
-            <td class="t10 trm ">
+            <td class="t10 trm not">
               <img
                 class="gg"
                 style="margin: 2px;"
@@ -1077,7 +1073,7 @@
                 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </div>
             </td>
-            <td class="t19 trm not">
+            <td class="t19 trm">
               <img class="gg" src="~assets/Leatherarcherarmor.jpg" alt="" />
               <div>
                 <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link>
@@ -1259,7 +1255,7 @@
                 <nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>
               </div>
             </td>
-            <td class="t11 trm not">
+            <td class="t11 trm">
               <img class="gg" src="~assets/Heresy.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link></div>
             </td>
