@@ -38,7 +38,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在《世紀帝國II：失落的帝國》中，因為可以在<nuxt-link
+            在《世紀帝國II：非洲王朝》中，因為可以在<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >生產鷹斥侯，於是又多了一些打法。現在的南美國家<nuxt-link
