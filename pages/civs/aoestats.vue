@@ -9,11 +9,9 @@
         <div class="n1">
           <p>
             <b>文明勝率</b>原始資料由
-            <a href="https://voobly.com/" target="_blank">Voobly</a>提供。並由<a
-              href="https://aoestats.io/stats"
-              target="_blank"
-              >aoestats.io</a
-            >計算整理。若要查詢更詳細資料，請點選文明左邊的圖示。
+            <a href="https://voobly.com/" target="_blank">Voobly</a> 提供。並由
+            <a href="https://aoestats.io/" target="_blank">aoestats.io</a>
+            計算整理。若要查詢更詳細資料，請點選文明旁邊的圖示。
           </p>
           <b-button-group>
             <b-button
@@ -31,8 +29,7 @@
             :fields="fields"
             :sort-by.sync="sortBy"
             :sort-desc.sync="sortDesc"
-            :busy="items.length === 0"
-            responsive="sm"
+            :busy="isLoadData"
             striped
             small
           >
@@ -109,10 +106,15 @@ const civ_wrap = {
 
 export default {
   layout: 'allciv',
+  head() {
+    return {
+      meta: [{ name: 'viewport', content: '' }]
+    }
+  },
   data() {
     return {
-      sortBy: 'age',
-      sortDesc: false,
+      sortBy: 'win_rate',
+      sortDesc: true,
       fields: [
         { key: 'civilization', label: '文明', sortable: true },
         { key: 'win_rate', label: '勝率', sortable: true },
@@ -132,7 +134,8 @@ export default {
         { caption: '1600-1750', state: false },
         { caption: '1750-2000', state: false },
         { caption: '2000+', state: false }
-      ]
+      ],
+      isLoadData: false
     }
   },
   mounted() {
@@ -163,16 +166,23 @@ export default {
     },
     updateData(elo = 0) {
       var that = this
+      this.isLoadData = true
       axios
         .get(`http://aoetw.com/aoestats/getdata.php?elo=${elo}`)
         .then(res => {
           that.items = res.data
+          this.isLoadData = false
+        })
+        .catch(err => {
+          this.$bvToast.toast(`資料載入失敗 ${this.toastCount}`, {
+            autoHideDelay: 5000,
+            appendToast: false
+          })
         })
     },
     changeElo(idx) {
-      this.items = []
+      // this.items = []
       this.updateData(idx)
-      console.log(idx)
 
       for (let key in this.scoreBtn) {
         this.scoreBtn[key].state = false
@@ -184,4 +194,14 @@ export default {
   components: {}
 }
 </script>
-<style></style>
+<style>
+.table th,
+.table td {
+  white-space: nowrap;
+}
+
+.table.b-table > thead > tr > th[aria-sort]::before,
+.table.b-table > tfoot > tr > th[aria-sort]::before {
+  content: '';
+}
+</style>
