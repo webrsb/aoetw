@@ -10,16 +10,13 @@
         <table class="table-bordered" border="1">
           <tr>
             <td
-              style="border: 1px solid #495057;background: #005f16;color: #ffffff;"
+              style="border: 1px solid #495057;background: #005f16;color: #ffffff; text-align: center;"
               height="40"
               colspan="7"
-              align="center"
               valign="middle"
               class="unit"
             >
-              <center>
-                <div id="B"><strong>漿果叢</strong></div>
-              </center>
+              <div id="B"><strong>漿果叢</strong></div>
             </td>
           </tr>
           <tr>
@@ -42,7 +39,7 @@
               colspan="4"
               bgcolor="#E0E0E0"
             >
-              <p class="unititle">
+              <p>
                 一般在玩家的<nuxt-link to="/building/Town_Center"
                   >城鎮中心</nuxt-link
                 >附近可以找到。在大多數地圖中，地圖也會有數個漿果灌木叢。採集漿果的速度比種田快，但因採集上速度仍較打獵慢，剛開始仍建議先狩獵動物獲取食物。
@@ -58,8 +55,7 @@
               >最大收穫量：125食物
             </td>
             <td style="border: 1px solid #495057;" colspan="4">
-              <span class="unititle"></span>在<nuxt-link to="/games/ak"
-                >非洲王國</nuxt-link
+              在<nuxt-link to="/games/ak">非洲王國</nuxt-link
               >版本中，新增了水果灌木叢。
             </td>
           </tr>

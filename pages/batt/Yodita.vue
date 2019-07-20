@@ -56,7 +56,7 @@
                   <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>
+                  <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>
                 </li>
                 <li>
                   <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>

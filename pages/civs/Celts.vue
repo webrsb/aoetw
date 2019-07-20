@@ -253,26 +253,26 @@
       </div>
       <div class="col-md-12">
         <h3>圖庫</h3>
-        <div class="col-md-4">
-          <div class="wimg">
-            <gallery
-              ><img class="imgn hg" src="~assets/Woad.jpg" alt=""
-            /></gallery>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="wimg">
+              <gallery
+                ><img class="imgn hg" src="~assets/Woad.jpg" alt=""
+              /></gallery>
+            </div>
+            <em>菘藍武士的3D模組。</em>
           </div>
-          <div class="hrn1"></div>
-          <p>菘藍武士的3D模組。</p>
-        </div>
-        <div class="col-md-4">
-          <div class="wimg">
-            <gallery
-              ><img class="imgn hg" src="~assets/Wondercelts.jpg" alt=""
-            /></gallery>
+          <div class="col-md-4">
+            <div class="wimg">
+              <gallery
+                ><img class="imgn hg" src="~assets/Wondercelts.jpg" alt=""
+              /></gallery>
+            </div>
+            <em>
+              塞爾特的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >：卡瑟爾岩。
+            </em>
           </div>
-          <div class="hrn1"></div>
-          <p>
-            塞爾特的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
-            >：卡瑟爾岩。
-          </p>
         </div>
         <div class="col-md-4">
           <div class="wimg">
@@ -283,8 +283,7 @@
                 alt=""
             /></gallery>
           </div>
-          <div class="hrn1"></div>
-          <p>西元3世紀時塞爾特人的擴張情況。</p>
+          <em>西元3世紀時塞爾特人的擴張情況。</em>
         </div>
       </div>
     </div>

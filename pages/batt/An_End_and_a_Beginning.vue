@@ -48,7 +48,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -56,7 +56,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Italians">義大利人</nuxt-link>（藍色）
               </td>
@@ -65,9 +68,15 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p2"></div>玩家2</td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">村莊（紅色）義大利</td>
-              <td class="tc6" width="12%"><div class="p4"></div>玩家4</td>
+              <td class="tc6" width="12%">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">
                 約翰尼斯將軍（黃色）<nuxt-link to="/civs/Franks"
                   >法蘭克</nuxt-link
@@ -75,15 +84,27 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p5"></div>玩家5</td>
+              <td class="tc6" width="12%">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6" width="38%">伯恩托摩將軍（水藍色）義大利</td>
-              <td class="tc6" width="12%"><div class="p6"></div>玩家6</td>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6" width="38%">路易蓋希將軍（紫色）義大利</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p7"></div>玩家7</td>
+              <td class="tc6" width="12%">
+                <div class="p7"></div>
+                玩家7
+              </td>
               <td class="tc6" width="38%">馬爾塞洛將軍（灰色）義大利</td>
-              <td class="tc6" width="12%"><div class="p8"></div>玩家8</td>
+              <td class="tc6" width="12%">
+                <div class="p8"></div>
+                玩家8
+              </td>
               <td class="tc6" width="38%">吉他諾將軍（橘色）義大利</td>
             </tr>
             <tr>
@@ -91,7 +112,10 @@
             </tr>
 
             <tr>
-              <td class="tc6" width="12%"><div class="p3"></div>玩家3</td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">突襲者（綠色）法蘭克</td>
             </tr>
           </table>
@@ -99,7 +123,7 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>法蘭切斯科.斯福爾扎、10位義大利傭兵。</dd>
+            <dd>法蘭切斯科·斯福爾扎、10位義大利傭兵。</dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
           </dl>

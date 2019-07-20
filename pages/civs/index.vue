@@ -4,7 +4,11 @@
     <h3></h3>
     <div class="row">
       <div class="col-md-12">
-        <p>遊戲中共有31個<b>文明</b></p>
+        <p>
+          遊戲中共有31個<b>文明</b>。相關頁面：<nuxt-link to="/civs/bestciv"
+            >文明強弱分析</nuxt-link
+          >、<nuxt-link to="/civs/aoestats">文明勝率</nuxt-link>
+        </p>
       </div>
     </div>
     <div class="row">

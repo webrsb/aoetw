@@ -42,7 +42,7 @@
           </table>
         </div>
         <h3>AI</h3>
-        <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
         <table class="table-bordered" width="100%">
           <tr>
             <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -51,7 +51,8 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p2"></div>玩家1
+              <div class="p2"></div>
+              玩家1
             </td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>（紅色）
@@ -62,11 +63,13 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p2"></div>玩家2
+              <div class="p2"></div>
+              玩家2
             </td>
             <td class="tc6" width="35%">馬扎爾人（紅色）馬扎爾</td>
             <td class="tc6">
-              <div class="p8"></div>玩家4
+              <div class="p8"></div>
+              玩家4
             </td>
             <td class="tc6" width="35%">
               卡札爾人（橘色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
@@ -74,13 +77,15 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p5"></div>玩家5
+              <div class="p5"></div>
+              玩家5
             </td>
             <td class="tc6" width="35%">
               卡巴爾人（水藍色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
             </td>
             <td class="tc6">
-              <div class="p1"></div>玩家6
+              <div class="p1"></div>
+              玩家6
             </td>
             <td class="tc6" width="35%">
               <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link
@@ -89,13 +94,15 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p6"></div>玩家7
+              <div class="p6"></div>
+              玩家7
             </td>
             <td class="tc6" width="35%">
               保加爾人（紫色）<nuxt-link to="/civs/Huns">匈奴</nuxt-link>
             </td>
             <td class="tc6">
-              <div class="p3"></div>玩家8
+              <div class="p3"></div>
+              玩家8
             </td>
             <td class="tc6" width="35%">摩拉維亞人（綠色）拜占庭</td>
           </tr>
@@ -105,7 +112,8 @@
 
           <tr>
             <td class="tc6">
-              <div class="p4"></div>玩家2
+              <div class="p4"></div>
+              玩家2
             </td>
             <td class="tc6">佩切涅格人（黃色）土耳其</td>
           </tr>

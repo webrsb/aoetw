@@ -53,7 +53,7 @@
               <td class="tc2" width="15%">城堡時代</td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Gold">黃金</nuxt-link>100
+                100<nuxt-link to="/resource/Gold">黃金</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">200</td>
@@ -61,7 +61,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -69,35 +69,53 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">拜占庭（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="15%"><div class="p6"></div>玩家2</td>
+              <td class="tc6" width="15%">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6" width="35%">
                 巴里（紫色）<nuxt-link to="/civs/Italians">義大利</nuxt-link>
               </td>
-              <td class="tc6" width="15%"><div class="p4"></div>玩家3</td>
+              <td class="tc6" width="15%">
+                <div class="p4"></div>
+                玩家3
+              </td>
               <td class="tc6">拜占庭帝國（黃色）拜占庭</td>
             </tr>
             <tr>
-              <td class="tc6" width="15%"><div class="p3"></div>玩家4</td>
+              <td class="tc6" width="15%">
+                <div class="p3"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 友好的倫巴第人（綠色）<nuxt-link to="/civs/Goths"
                   >哥德</nuxt-link
                 >
               </td>
-              <td class="tc6" width="15%"><div class="p5"></div>玩家5</td>
+              <td class="tc6" width="15%">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 當地的<nuxt-link to="/civs/Italians">義大利人</nuxt-link
                 >（水藍）義大利
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="15%"><div class="p7"></div>玩家6</td>
+              <td class="tc6" width="15%">
+                <div class="p7"></div>
+                玩家6
+              </td>
               <td class="tc6">
                 諾曼人（灰色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
@@ -107,9 +125,15 @@
             </tr>
 
             <tr>
-              <td class="tc6" width="15%"><div class="p2"></div>玩家7</td>
+              <td class="tc6" width="15%">
+                <div class="p2"></div>
+                玩家7
+              </td>
               <td class="tc6">梅勒斯（紅色）拜占庭</td>
-              <td class="tc6" width="15%"><div class="p8"></div>玩家8</td>
+              <td class="tc6" width="15%">
+                <div class="p8"></div>
+                玩家8
+              </td>
               <td class="tc6">反叛軍（橘色）哥德</td>
             </tr>
           </table>

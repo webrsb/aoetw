@@ -36,7 +36,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -44,7 +44,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 玩家1：<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
               </td>
@@ -54,17 +57,29 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p6"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6">
                 勃根地（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
-              <td class="tc6"><div class="p2"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6">梅茲（紅色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5"></div>玩家4</td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家4
+              </td>
               <td class="tc6">奧爾良（水藍色）法蘭克</td>
-              <td class="tc6"><div class="p1"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 西羅馬帝國（藍色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link

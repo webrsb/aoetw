@@ -204,7 +204,7 @@
           <li>
             <strong>起始資源：</strong>200<nuxt-link to="/resource/Wood"
               >木頭</nuxt-link
-            >，200<nuxt-link to="/resource/Food">食物</nuxt-link>，500<nuxt-link
+            >／200<nuxt-link to="/resource/Food">食物</nuxt-link>／500<nuxt-link
               to="/resource/Gold"
               >黃金</nuxt-link
             >，500<nuxt-link to="/resource/Stone">石頭</nuxt-link>

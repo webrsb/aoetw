@@ -34,7 +34,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -42,7 +42,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Goths">哥德人</nuxt-link>（藍色）
               </td>
@@ -51,16 +54,25 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p3"></div>玩家3</td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 <nuxt-link to="/civs/Italians">義大利人</nuxt-link
                 >（綠色）<nuxt-link to="/civs/Italians">義大利</nuxt-link>
               </td>
-              <td class="tc6" width="12%"><div class="p6"></div>玩家4</td>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">哥德人（紫色）哥德</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p7"></div>玩家6</td>
+              <td class="tc6" width="12%">
+                <div class="p7"></div>
+                玩家6
+              </td>
               <td class="tc6" width="38%">哥德難民（灰色） 哥德</td>
             </tr>
             <tr>
@@ -68,9 +80,15 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p2"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6">羅馬（紅色）義大利</td>
-              <td class="tc6"><div class="p4"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 羅馬軍團（黃色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
@@ -78,7 +96,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家5
+              </td>
               <td class="tc6">西羅馬帝國（藍色）拜占庭</td>
             </tr>
           </table>

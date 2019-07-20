@@ -47,7 +47,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p5"></div>玩家1
+                <div class="p5"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="4">日本（青綠色）</td>
             </tr>
@@ -56,7 +57,8 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p4"></div>玩家4
+                <div class="p4"></div>
+                玩家4
               </td>
               <td class="tc6" width="35%">
                 <nuxt-link to="/units/hero/Nobunaga">織田信長</nuxt-link
@@ -68,17 +70,20 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2"></div>玩家2
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6">大阪（紅色）日本</td>
               <td class="tc6">
-                <div class="p3"></div>玩家3
+                <div class="p3"></div>
+                玩家3
               </td>
               <td class="tc6">京都（綠色）日本</td>
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1"></div>玩家5
+                <div class="p1"></div>
+                玩家5
               </td>
               <td class="tc6">兵庫（藍色）日本</td>
             </tr>

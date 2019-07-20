@@ -49,7 +49,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p8"></div>玩家1
+                <div class="p8"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="8">
                 主角（橘色）<nuxt-link to="/civs/Indians">印度</nuxt-link>
@@ -60,21 +61,25 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p3"></div>玩家2
+                <div class="p3"></div>
+                玩家2
               </td>
               <td class="tc6" width="35%">索梅西瓦王（綠色）印度</td>
               <td class="tc6" width="15%">
-                <div class="p4"></div>玩家3
+                <div class="p4"></div>
+                玩家3
               </td>
               <td class="tc6" width="35%">印度城（黃色）印度</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p5"></div>玩家4
+                <div class="p5"></div>
+                玩家4
               </td>
               <td class="tc6" width="35%">印度村（水藍色）印度</td>
               <td class="tc6" width="15%">
-                <div class="p7"></div>玩家5
+                <div class="p7"></div>
+                玩家5
               </td>
               <td class="tc6" width="35%">兆汗軍（灰色）印度</td>
             </tr>
@@ -83,19 +88,22 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2"></div>玩家6
+                <div class="p2"></div>
+                玩家6
               </td>
               <td class="tc6">
                 賓德夫•索蘭基（紅色）印度
               </td>
               <td class="tc6">
-                <div class="p1"></div>玩家7
+                <div class="p1"></div>
+                玩家7
               </td>
               <td class="tc6">科蒂西瓦神廟（藍色）印度</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p6"></div>玩家8
+                <div class="p6"></div>
+                玩家8
               </td>
               <td class="tc6" width="35%">匪幫（紫色）印度</td>
             </tr>

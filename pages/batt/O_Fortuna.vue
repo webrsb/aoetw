@@ -11,7 +11,7 @@
             <b>命運女神</b>是<nuxt-link to="/batt/Sforzaa"
               >斯福爾札系列</nuxt-link
             ><nuxt-link to="/batt">戰役</nuxt-link
-            >的第二關，描述法蘭切斯科.斯福爾扎在米蘭公爵菲利浦.瑪麗亞.維斯康堤（他是米蘭公國最後一位正統繼承人）麾下服務的事蹟。一開始是對抗佛羅倫斯，然後反抗威尼斯人協助下侵略由卡馬尼奧拉雇傭軍團控制的克雷莫納城（義大利一座城市），最後，保衛米蘭免於威尼斯人的侵略。
+            >的第二關，描述法蘭切斯科·斯福爾扎在米蘭公爵菲利浦·瑪麗亞·維斯康堤（他是米蘭公國最後一位正統繼承人）麾下服務的事蹟。一開始是對抗佛羅倫斯，然後反抗威尼斯人協助下侵略由卡馬尼奧拉雇傭軍團控制的克雷莫納城（義大利一座城市），最後，保衛米蘭免於威尼斯人的侵略。
           </p>
           <p>
             在這個劇情裡，玩家必須倚賴米蘭的市場供給資源，在多數時間裏，你都必須仰仗米蘭公爵的<nuxt-link
@@ -41,7 +41,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -49,7 +49,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p1"></div>玩家1</td>
+              <td class="tc6" width="14%">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Italians">義大利人</nuxt-link>（藍色）
               </td>
@@ -58,9 +61,15 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p4"></div>玩家2</td>
+              <td class="tc6" width="14%">
+                <div class="p4"></div>
+                玩家2
+              </td>
               <td class="tc6" width="34%">米蘭公國（黃色）義大利</td>
-              <td class="tc6" width="14%"><div class="p5"></div>玩家3</td>
+              <td class="tc6" width="14%">
+                <div class="p5"></div>
+                玩家3
+              </td>
               <td class="tc6" width="46%">
                 馬拉泰斯塔僱傭軍團（水藍色）<nuxt-link to="/civs/Teutons"
                   >條頓</nuxt-link
@@ -68,12 +77,18 @@
               </td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
+              <td class="tc4" colspan="4" style="background: #999999;">中立</td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p2"></div>玩家4</td>
+              <td class="tc6" width="14%">
+                <div class="p2"></div>
+                玩家4
+              </td>
               <td class="tc6" width="34%">佛羅倫薩人（紅色）義大利</td>
-              <td class="tc6" width="14%"><div class="p8"></div>玩家6</td>
+              <td class="tc6" width="14%">
+                <div class="p8"></div>
+                玩家6
+              </td>
               <td class="tc6" width="46%">
                 卡馬尼奧拉僱傭軍團（橘色）<nuxt-link to="/civs/Spanish"
                   >西班牙</nuxt-link
@@ -81,14 +96,20 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p6"></div>玩家5</td>
+              <td class="tc6" width="14%">
+                <div class="p6"></div>
+                玩家5
+              </td>
               <td class="tc6" width="34%">威尼斯（紫色）義大利</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p7"></div>玩家7</td>
+              <td class="tc6" width="14%">
+                <div class="p7"></div>
+                玩家7
+              </td>
               <td class="tc6" width="34%">土匪（灰色）義大利</td>
             </tr>
           </table>
@@ -98,7 +119,7 @@
             <dt>開場單位：</dt>
             <dd>
               <nuxt-link to="/units/hero/Francesco_Sforza"
-                >法蘭切斯科.斯福爾扎</nuxt-link
+                >法蘭切斯科·斯福爾扎</nuxt-link
               >、10位義大利<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>。
             </dd>
             <dt>大地之母單位：</dt>
@@ -108,7 +129,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>法蘭切斯科.斯福爾扎必須存活。</li>
+              <li>法蘭切斯科·斯福爾扎必須存活。</li>
               <li>第一部分：突襲托斯卡納城</li>
               <li>
                 指揮米蘭的重騎兵。他們在東<nuxt-link to="/building/Gate"

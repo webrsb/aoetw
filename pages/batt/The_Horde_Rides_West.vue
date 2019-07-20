@@ -31,9 +31,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 200<nuxt-link to="/resource/Wood">木頭</nuxt-link
-                >，400<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，200<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／400<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -48,7 +48,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
               </td>
@@ -58,15 +61,24 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p3"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">麥凱特人（綠色）蒙古</td>
-              <td class="tc6"><div class="p2"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 俄羅斯人（紅色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家4</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 瓜利密（黃色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
               </td>

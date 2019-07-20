@@ -28,13 +28,7 @@
               </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
-                0<nuxt-link to="/resource/Wood">木頭</nuxt-link>，0<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
-                  to="/resource/Stone"
-                  >石頭</nuxt-link
-                >
+                無
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">2/0</td>
@@ -50,7 +44,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p8"></div>玩家1
+                <div class="p8"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="4">
                 主角（橘色）<nuxt-link to="/civs/Indians">印度</nuxt-link>
@@ -61,11 +56,13 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p2"></div>玩家2
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6" width="35%">兆汗大軍（紅色）印度</td>
               <td class="tc6">
-                <div class="p5"></div>玩家3
+                <div class="p5"></div>
+                玩家3
               </td>
               <td class="tc6">塔蘭村（水藍色）印度</td>
             </tr>
@@ -74,19 +71,22 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p3"></div>玩家4
+                <div class="p3"></div>
+                玩家4
               </td>
               <td class="tc6" width="35%">
                 古爾大軍（綠色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
               <td class="tc6" width="15%">
-                <div class="p4"></div>玩家5
+                <div class="p4"></div>
+                玩家5
               </td>
               <td class="tc6" width="35%">巴廷達（黃色）印度</td>
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1"></div>玩家6
+                <div class="p1"></div>
+                玩家6
               </td>
               <td class="tc6">
                 默罕穆德•古爾（藍色）<nuxt-link to="/civs/Persians"

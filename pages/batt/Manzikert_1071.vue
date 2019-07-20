@@ -30,11 +30,9 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Wood">木頭</nuxt-link>500，<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >1,000，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >1,000，<nuxt-link to="/resource/Stone">石頭</nuxt-link>0
+                500<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -49,7 +47,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>（紫色）
               </td>
@@ -58,19 +59,34 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p2"></div>玩家2</td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38">卡帕多細亞（紅色）拜占庭</td>
-              <td class="tc6" width="12%"><div class="p3"></div>玩家3</td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">西迪亞（綠色）拜占庭</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家4</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6">格雷西亞（黃色）拜占庭</td>
-              <td class="tc6"><div class="p1"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家5
+              </td>
               <td class="tc6">拜占庭軍隊（藍色）拜占庭</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link
                 >（水藍色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>

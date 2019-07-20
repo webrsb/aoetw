@@ -79,7 +79,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p3"></div>玩家1
+                <div class="p3"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>（綠色）
@@ -90,11 +91,13 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2"></div>玩家2
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6">特拉斯卡拉(紅色)阿茲特克</td>
               <td class="tc6">
-                <div class="p1"></div>玩家3
+                <div class="p1"></div>
+                玩家3
               </td>
               <td class="tc6">
                 科爾特斯(藍色)<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
@@ -105,7 +108,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p8"></div>玩家4
+                <div class="p8"></div>
+                玩家4
               </td>
               <td class="tc6">
                 塔巴斯科(橙色)<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
@@ -254,7 +258,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="green">綠色</font></td>
+            <td class="unit4">
+              <div class="p3"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -266,7 +273,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章第三
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章之三
             </td>
           </tr>
           <tr>

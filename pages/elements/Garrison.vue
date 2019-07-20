@@ -251,7 +251,7 @@
 </template>
 <script>
 export default {
-  layout: 'foot',
+  layout: 'allen',
   components: {}
 }
 </script>

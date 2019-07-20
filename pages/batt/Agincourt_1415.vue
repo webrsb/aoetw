@@ -65,7 +65,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Britons">不列顛</nuxt-link>（紅色）
               </td>
@@ -74,19 +77,34 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家2
+              </td>
               <td class="tc6">法蘭西騎士（藍色）法蘭克</td>
-              <td class="tc6"><div class="p3"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6">弗萊文特（綠色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5"></div>玩家4</td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家4
+              </td>
               <td class="tc6">亞眠（藍綠色）法蘭克</td>
-              <td class="tc6"><div class="p4"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家5
+              </td>
               <td class="tc6">維尼（黃色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6"></div>玩家8</td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家8
+              </td>
               <td class="tc6">哈夫魯 （紫色）法蘭克</td>
             </tr>
           </table>

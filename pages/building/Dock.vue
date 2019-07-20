@@ -469,7 +469,7 @@
                 >速度快80%
               </li>
               <li>
-                <nuxt-link to="/civs/Vikings">維京</nuxt-link>：碼頭便宜15%`.
+                <nuxt-link to="/civs/Vikings">維京</nuxt-link>：碼頭便宜15%。
               </li>
             </ul>
           </div>

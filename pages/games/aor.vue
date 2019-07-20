@@ -154,7 +154,7 @@
         <ul>
           <li><nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link></li>
           <li>
-            <nuxt-link to="/units/hero/Suryavarman_I">蘇利耶跋摩一世</nuxt-link
+            <nuxt-link to="/batt/Suryavarman_I">蘇利耶跋摩一世</nuxt-link
             >:西元十一世紀初，高棉王國四分五裂、強敵環伺。只有蘇利耶跋摩王子有能力與魄力一一打敗各路勁敵光復高棉。然而打江山易，守江山難。蘇利耶跋摩能否擴大基業，吞併強鄰。開創屬於自己的千秋霸業呢？
           </li>
           <li>
@@ -162,7 +162,7 @@
             >:曾經有一位拉闍想把四分五裂的國家重新統一起來，但由於有內奸背叛，他未竟的使命要由他最忠誠的侍衛來完成。有沒有可能，讓一位將領繼承王位，並建立起東南亞歷史上最大的國家？
           </li>
           <li>
-            <nuxt-link to="/units/hero/Le_Loi">黎利</nuxt-link
+            <nuxt-link to="/batt/Le_Loi">黎利</nuxt-link
             >:當大越陷於內亂紛爭之際，明朝趁虛而入佔據了整片地區。而今，想要重獲獨立自由，就要依靠一個人，一位名叫黎利的有志貴族青年。他能否平息內鬥，抵抗明朝大軍並帶領大越再次獨立？
           </li>
         </ul>

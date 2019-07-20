@@ -11,7 +11,7 @@
             西元7世紀穆斯林開始擴張狂潮，北非的奧米雅王朝越過博斯普魯斯海峽消滅了西<nuxt-link
               to="/civs/Goths"
               >哥德</nuxt-link
-            >王國，並由阿布杜拉.拉赫曼率領持續往歐洲進軍。面對入侵的伊斯蘭大軍，法蘭克王國的宮相查理率軍前往迎戰。法軍阻截了穆斯林的攻勢，用緊密的步兵方陣和地勢數度擊退穆斯林騎兵，最後將其成功逼退。奧米雅將領阿布杜拉戰死，穆斯林在西線的擴張之勢受阻。
+            >王國，並由阿布杜拉·拉赫曼率領持續往歐洲進軍。面對入侵的伊斯蘭大軍，法蘭克王國的宮相查理率軍前往迎戰。法軍阻截了穆斯林的攻勢，用緊密的步兵方陣和地勢數度擊退穆斯林騎兵，最後將其成功逼退。奧米雅將領阿布杜拉戰死，穆斯林在西線的擴張之勢受阻。
           </p>
           <br />
           <p>
@@ -35,11 +35,10 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Wood">木頭</nuxt-link>300，<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >200，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >500，<nuxt-link to="/resource/Stone">石頭</nuxt-link>600
+                300<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >／200<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／500<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／600<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -54,19 +53,28 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">法蘭克（紅色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">
                 <nuxt-link to="/civs/Berbers">柏柏人</nuxt-link
                 >（黃色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
-              <td class="tc6"><div class="p3"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 摩爾人（綠色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
               </td>

@@ -87,7 +87,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
+              <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</nuxt-link>•
@@ -346,7 +346,7 @@
             <td class="unit4">
               <nuxt-link to="/batt/Path_of_Exile">流亡之路</nuxt-link>•
               <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>•
-              <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>•
+              <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>•
               <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>•
               <nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </td>
@@ -383,7 +383,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link>
+              <nuxt-link to="/batt/Suryavarman_I">蘇利耶跋摩一世</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Usurpation">揭竿而起</nuxt-link>•

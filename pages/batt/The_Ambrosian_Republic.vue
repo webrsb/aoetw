@@ -16,7 +16,7 @@
             <nuxt-link to="/batt">戰役</nuxt-link>名稱來自於同名的<nuxt-link
               to="/resource/Gold"
               >黃金</nuxt-link
-            >安布羅共和國，當飛利浦.瑪麗亞.維斯康提公爵死後，米蘭公國被共和國取代的故事。此戰役描繪了帕維亞的攻占，比阿琴薩的圍困和卡拉法吉歐的圍困。
+            >安布羅共和國，當飛利浦·瑪麗亞·維斯康提公爵死後，米蘭公國被共和國取代的故事。此戰役描繪了帕維亞的攻占，比阿琴薩的圍困和卡拉法吉歐的圍困。
           </p>
           <p>
             <nuxt-link to="/units/hero/Francesco_Sforza"
@@ -50,14 +50,16 @@
                 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">750黃金</td>
+              <td class="tc2">
+                750<nuxt-link to="/resource/Gold">黃金</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">70</td>
             </tr>
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -65,7 +67,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Italians">義大利人</nuxt-link>（藍色）
               </td>
@@ -74,13 +79,22 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p2"></div>玩家2</td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">帕維亞（紅色）義大利</td>
-              <td class="tc6"><div class="p4"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">克雷其納城（黃色）義大利</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p8"></div>玩家4</td>
+              <td class="tc6" width="12%">
+                <div class="p8"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">當地人（橘色）義大利</td>
             </tr>
             <tr>
@@ -88,15 +102,27 @@
             </tr>
 
             <tr>
-              <td class="tc6" width="12%"><div class="p3"></div>玩家5</td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家5
+              </td>
               <td class="tc6" width="38%">比阿琴薩城（綠色）義大利</td>
-              <td class="tc6" width="12%"><div class="p5"></div>玩家6</td>
+              <td class="tc6" width="12%">
+                <div class="p5"></div>
+                玩家6
+              </td>
               <td class="tc6" width="38%">卡拉法吉歐（水藍色）義大利</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p6"></div>玩家7</td>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家7
+              </td>
               <td class="tc6" width="38%">威尼斯人（紫色）義大利</td>
-              <td class="tc6" width="12%"><div class="p7"></div>玩家8</td>
+              <td class="tc6" width="12%">
+                <div class="p7"></div>
+                玩家8
+              </td>
               <td class="tc6" width="38%">反抗軍（灰色）義大利</td>
             </tr>
           </table>
@@ -105,7 +131,7 @@
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
-              法蘭切斯科.斯福爾扎、12位<nuxt-link to="/units/Condottiero"
+              法蘭切斯科·斯福爾扎、12位<nuxt-link to="/units/Condottiero"
                 >義大利傭兵</nuxt-link
               >、6位<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>。
             </dd>
@@ -116,7 +142,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>法蘭切斯科.斯福爾扎必須存活。</li>
+              <li>法蘭切斯科·斯福爾扎必須存活。</li>
               <li>
                 帶斯福爾扎去帕維亞的<nuxt-link to="/building/Castle"
                   >城堡</nuxt-link
@@ -198,7 +224,7 @@
           <div class="n1">
             <ul>
               <li>
-                法蘭切斯科.斯福爾扎的意大利僱傭兵駐紮在西北邊，他們收到命令要征服加入威尼斯的叛軍基地。
+                法蘭切斯科·斯福爾扎的意大利僱傭兵駐紮在西北邊，他們收到命令要征服加入威尼斯的叛軍基地。
               </li>
               <li>
                 帕維亞（紅色）是沿路上的第一個勢力他們對你保持中立，但可以被和平招安。

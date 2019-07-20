@@ -35,11 +35,10 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Wood">木頭</nuxt-link>1,000，<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >1,000，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >1,000，<nuxt-link to="/resource/Stone">石頭</nuxt-link>1,000
+                1,000<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／1,000<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -54,7 +53,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>（紅色）
               </td>
@@ -63,9 +65,15 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p8"></div>玩家3</td>
+              <td class="tc6" width="12%">
+                <div class="p8"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">中國鄧子龍將軍（橘色）中國</td>
-              <td class="tc6" width="12%"><div class="p3"></div>玩家4</td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">李舜臣（綠色）韓國</td>
             </tr>
 
@@ -73,9 +81,15 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家2
+              </td>
               <td class="tc6">日本海軍（黃色）日本</td>
-              <td class="tc6"><div class="p6"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家5
+              </td>
               <td class="tc6">日本侵略者（紫色）日本</td>
             </tr>
           </table>

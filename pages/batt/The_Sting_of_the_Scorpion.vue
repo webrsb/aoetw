@@ -28,11 +28,9 @@
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
                 300<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，300<nuxt-link to="/resource/Food">食物</nuxt-link>
-                <p>
-                  250<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                  >，100<nuxt-link to="/resource/Stone">石礦</nuxt-link>
-                </p>
+                >／300<nuxt-link to="/resource/Food">食物</nuxt-link>
+                ／250<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／100<nuxt-link to="/resource/Stone">石礦</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
@@ -40,7 +38,7 @@
           </table>
 
           <h3>AI</h3>
-          <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -48,7 +46,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>（紫色）
               </td>
@@ -57,9 +58,15 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p4"></div>玩家4</td>
+              <td class="tc6" width="12%">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">塔博（黃色）馬利</td>
-              <td class="tc6" width="12%"><div class="p1"></div>玩家6</td>
+              <td class="tc6" width="12%">
+                <div class="p1"></div>
+                玩家6
+              </td>
               <td class="tc6" width="38%">瓦加督（藍色）馬利</td>
             </tr>
             <tr>
@@ -67,15 +74,24 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p2"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6">桑加藍（紅色）馬利</td>
-              <td class="tc6"><div class="p3"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 拉貝（綠色）<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 尼日（水藍色）<nuxt-link to="/civs/Ethiopians"
                   >衣索比亞</nuxt-link

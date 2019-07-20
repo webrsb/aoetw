@@ -47,10 +47,10 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                2000<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，2000<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，2000<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，300<nuxt-link to="/resource/Stone">石頭</nuxt-link>。
+                2,000<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >／2,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／2,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／300<nuxt-link to="/resource/Stone">石頭</nuxt-link>。
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
@@ -58,7 +58,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -66,7 +66,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p1"></div>玩家1</td>
+              <td class="tc6" width="14%">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Italians">義大利人</nuxt-link>（藍色）
               </td>
@@ -75,17 +78,26 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p8"></div>玩家2</td>
+              <td class="tc6" width="14%">
+                <div class="p8"></div>
+                玩家2
+              </td>
               <td class="tc6" width="40%">
                 卡馬尼奧拉的營地（橘色）<nuxt-link to="/civs/Italians"
                   >義大利</nuxt-link
                 >
               </td>
-              <td class="tc6" width="14%"><div class="p1"></div>玩家4</td>
+              <td class="tc6" width="14%">
+                <div class="p1"></div>
+                玩家4
+              </td>
               <td class="tc6" width="40%">斯福爾扎的間諜（藍色）義大利</td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p4"></div>玩家5</td>
+              <td class="tc6" width="14%">
+                <div class="p4"></div>
+                玩家5
+              </td>
               <td class="tc6" width="40%">米蘭公國（黃色）義大利</td>
             </tr>
             <tr>
@@ -93,13 +105,19 @@
             </tr>
 
             <tr>
-              <td class="tc6" width="14%"><div class="p8"></div>玩家3</td>
+              <td class="tc6" width="14%">
+                <div class="p8"></div>
+                玩家3
+              </td>
               <td class="tc6" width="40%">
                 卡馬尼奧拉的衛軍（橘色）<nuxt-link to="/civs/Spanish"
                   >西班牙</nuxt-link
                 >
               </td>
-              <td class="tc6" width="14%"><div class="p6"></div>玩家6</td>
+              <td class="tc6" width="14%">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6" width="40%">
                 威尼斯海軍（紫色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
@@ -107,7 +125,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p6"></div>玩家7</td>
+              <td class="tc6" width="14%">
+                <div class="p6"></div>
+                玩家7
+              </td>
               <td class="tc6" width="40%">威尼斯主艦隊（紫色）義大利</td>
             </tr>
           </table>

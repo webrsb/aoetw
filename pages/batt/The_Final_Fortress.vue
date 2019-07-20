@@ -37,7 +37,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -45,7 +45,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Vietnamese">越南人</nuxt-link>（黃色）
               </td>
@@ -54,7 +57,10 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家2
+              </td>
               <td class="tc6">
                 <nuxt-link to="/batt/The_Dai_Viet_Uprising">大越義軍</nuxt-link
                 >（橘色）越南
@@ -65,11 +71,17 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 明軍（藍色）<nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
-              <td class="tc6"><div class="p5"></div>玩家4</td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">明軍先鋒（水藍）中國</td>
             </tr>
           </table>
@@ -128,13 +140,12 @@
             </li>
             <li>大越盟軍（橙色）是當地和我們同盟的其他義軍。</li>
             <li>
-              明軍（藍色）佔據了懸崖上一個很大的防禦陣地，他們目前還不會大舉進犯我們，但是當他們主動出擊的時候，你就要面對明朝的虎狼之師了.
-              他們會建造一些強大的先進武器，以盡最後的努力阻止大越軍的崛起。
+              明軍（藍色）佔據了懸崖上一個很大的防禦陣地，他們目前還不會大舉進犯我們，但是當他們主動出擊的時候，你就要面對明朝的虎狼之師了。他們會建造一些強大的先進武器，以盡最後的努力阻止大越軍的崛起。
             </li>
             <li>
               明朝先鋒軍（淺藍色）有兩個<nuxt-link to="/building/Barracks"
                 >軍營</nuxt-link
-              >，鎮守著他們主力陣地的入口. 他們會派兵率先進犯大越軍。
+              >，鎮守著他們主力陣地的入口。他們會派兵率先進犯大越軍。
             </li>
           </ul>
           <h2>細節</h2>

@@ -41,7 +41,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -49,32 +49,47 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">印加人(藍色)</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p4"></div>玩家3</td>
+              <td class="tc6" width="12%">
+                <div class="p4"></div>
+                玩家3
+              </td>
               <td class="tc6" width="35%">
                 大酋長（黃色）<nuxt-link to="/civs/Incas">印加</nuxt-link>
               </td>
-              <td class="tc6" width="12%"><div class="p3"></div>玩家5</td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家5
+              </td>
               <td class="tc6" width="38%">友好土著（綠色）印加</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p1"></div>玩家7</td>
+              <td class="tc6" width="12%">
+                <div class="p1"></div>
+                玩家7
+              </td>
               <td class="tc6" width="38%">
                 西班牙人（藍色）<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
+              <td class="tc4" colspan="4" style="background: #999999;">中立</td>
             </tr>
 
             <tr>
-              <td class="tc6" width="12%"><div class="p6"></div>玩家4</td>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">伊馬拉（紫色）印加</td>
             </tr>
             <tr>
@@ -82,9 +97,15 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家2
+              </td>
               <td class="tc6">埃爾巴科（黃色）印加</td>
-              <td class="tc6"><div class="p5"></div>玩家6</td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家6
+              </td>
               <td class="tc6">敵對土著（藍綠色）印加</td>
             </tr>
           </table>
@@ -93,7 +114,7 @@
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
-              法蘭西斯科.德.奧雷利亞納，貢薩洛.皮薩羅，戴利考拉(HP 65，ATK
+              法蘭西斯科·德·奧雷利亞納，貢薩洛·皮薩羅，戴利考拉(HP 65，ATK
               5，裝甲0/2，射程 5)，7位<nuxt-link to="/units/Conquistador"
                 >西班牙征服者</nuxt-link
               >。
@@ -106,7 +127,7 @@
           <div class="n1">
             <ol>
               <li>
-                奧雷利亞納，貢薩洛.皮薩羅，戴利考拉必須活著。第一部分:尋找黃金國
+                奧雷利亞納，貢薩洛·皮薩羅，戴利考拉必須活著。第一部分:尋找黃金國
               </li>
               <li>摧毀埃爾巴科所有的塔。</li>
               <li>讓皮薩羅 和 奧雷利亞納 去酋長那詢問黃金國的消息。</li>
@@ -125,7 +146,7 @@
                 >。
               </li>
               <li>擊垮伊馬拉部落的軍隊。</li>
-              <li>讓法蘭西斯科.德.奧雷利亞納 去和伊馬拉酋長談判。</li>
+              <li>讓法蘭西斯科·德·奧雷利亞納 去和伊馬拉酋長談判。</li>
               <li>去其它部落的首領那交談瞭解一下我們的位置。</li>
               <li>
                 第一位酋長(<nuxt-link to="/units/Jaguar_Warrior"
@@ -185,9 +206,7 @@
           <ul>
             <li>
               西班牙人 (藍色)
-              已經開拓進叢林裡了，所以一些高級的科技無法使用。你只能保持在封建時代.你會在地圖的北端開始征途。一條河流分地圖成兩半。埃爾巴科
-              (黃色)在東半邊.伊馬拉(紫色)和三個和平的村莊(綠色)在西半邊.
-              沒有船的話你無法闖過河流。敵對的勇士（青藍色）隨時都可能出現。
+              已經開拓進叢林裡了，所以一些高級的科技無法使用。你只能保持在封建時代。你會在地圖的北端開始征途。一條河流分地圖成兩半。埃爾巴科(黃色)在東半邊。伊馬拉(紫色)和三個和平的村莊(綠色)在西半邊。沒有船的話你無法闖過河流。敵對的勇士（青藍色）隨時都可能出現。
             </li>
           </ul>
           <h2>戰術</h2>

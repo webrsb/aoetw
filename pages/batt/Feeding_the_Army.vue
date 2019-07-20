@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>供養軍隊</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
+            <b>供養軍隊</b>是<nuxt-link to="/batt/William_Wallacea"
+              >華勒斯教學戰役</nuxt-link
             >的第二個劇情關卡，主要為採集資源並生產軍隊。
           </p>
           <p>
@@ -36,7 +37,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -44,7 +45,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p1"></div>玩家1</td>
+              <td class="tc6" width="12%">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">塞爾特人（藍色）</td>
             </tr>
           </table>

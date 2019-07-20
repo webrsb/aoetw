@@ -35,8 +35,8 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 775<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，500<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，100<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／500<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／100<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">0</td>
@@ -44,7 +44,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -52,7 +52,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p1"></div>玩家1</td>
+              <td class="tc6" width="14%">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Incas">印加人</nuxt-link>（藍色）
               </td>
@@ -61,19 +64,31 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p5"></div>玩家3</td>
+              <td class="tc6" width="14%">
+                <div class="p5"></div>
+                玩家3
+              </td>
               <td class="tc6" width="40%">
                 哈努阿庫（水藍色）<nuxt-link to="/civs/Incas">印加</nuxt-link>
               </td>
-              <td class="tc6" width="14%"><div class="p4"></div>玩家4</td>
+              <td class="tc6" width="14%">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="40%">瑪卡帕巴(黃色) 印加</td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p7"></div>玩家6</td>
+              <td class="tc6" width="14%">
+                <div class="p7"></div>
+                玩家6
+              </td>
               <td class="tc6" width="40%">
                 <nuxt-link to="/civs/Spanish">西班牙人</nuxt-link>（灰色）西班牙
               </td>
-              <td class="tc6" width="14%"><div class="p6"></div>玩家7</td>
+              <td class="tc6" width="14%">
+                <div class="p6"></div>
+                玩家7
+              </td>
               <td class="tc6" width="40%">指示給予者（紫色）印加</td>
             </tr>
             <tr>
@@ -81,9 +96,15 @@
             </tr>
 
             <tr>
-              <td class="tc6" width="14%"><div class="p2"></div>玩家2</td>
+              <td class="tc6" width="14%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="40%">洛斯內格羅斯居民（紅色）印加</td>
-              <td class="tc6" width="14%"><div class="p3"></div>玩家5</td>
+              <td class="tc6" width="14%">
+                <div class="p3"></div>
+                玩家5
+              </td>
               <td class="tc6" width="40%">洛斯內格羅斯守衛（綠色）印加</td>
             </tr>
           </table>
@@ -92,7 +113,7 @@
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
-              法蘭西斯科.德.奧雷利亞納、4位<nuxt-link to="/units/Villager"
+              法蘭西斯科·德·奧雷利亞納、4位<nuxt-link to="/units/Villager"
                 >村民</nuxt-link
               >、2位<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >、3位西班牙征服者、2艘<nuxt-link to="/units/Transport_Ship"
@@ -106,7 +127,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>法蘭西斯科.德.奧雷利亞納必須活著。</li>
+              <li>法蘭西斯科·德·奧雷利亞納必須活著。</li>
               <li>
                 在島上建一座<nuxt-link to="/building/Town_Center"
                   >城鎮中心</nuxt-link
@@ -114,7 +135,7 @@
               </li>
               <li>從食人族（洛斯內格羅斯）解救西班牙俘虜。</li>
               <li>
-                洗劫（摧毀）小島東邊的倉庫，重奪盔甲和武器，然後回來見胡安.科特霍，以得到他的支持。
+                洗劫（摧毀）小島東邊的倉庫，重奪盔甲和武器，然後回來見胡安·科特霍，以得到他的支持。
               </li>
               <li>準備一支可以出海遠航的艦隊，建造15只大型戰艦。</li>
             </ol>
@@ -172,7 +193,7 @@
             <li>這些會給你提供足夠的資源去搶奪洛斯內格羅斯城的礦井。</li>
             <li>最好別去惹那些敵對勢力。</li>
             <li>
-              法蘭西斯科.德.奧雷利亞納 可以升級<nuxt-link
+              法蘭西斯科·德·奧雷利亞納 可以升級<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >。
@@ -184,7 +205,7 @@
         <div class="n1">
           <ul>
             <li>
-              法蘭西斯科.德.奧雷利亞納在往大洋行駛，但是他需要在出海之前重整船隊，以適應大洋遠航的需求，所以他需要建立一個基地來完成這個工程。亞馬遜河的出海口有很多小島。
+              法蘭西斯科·德·奧雷利亞納在往大洋行駛，但是他需要在出海之前重整船隊，以適應大洋遠航的需求，所以他需要建立一個基地來完成這個工程。亞馬遜河的出海口有很多小島。
             </li>
             <li>
               友好的哈努阿庫部落（青藍色）佔據了北邊的那些小島，但是洛斯內格羅斯（紅色和綠色）已經佔領了河上流（南邊）的一些小島，他們是你最危險的敵人。
@@ -221,7 +242,7 @@
                 >占據這個島嶼，他們可以輕易被消滅。當玩家在這座島上建立城鎮中心時，就會得知有些西班牙同胞被住在島上東方的洛斯內格羅斯人所俘虜，而玩家應該去拯救他們。
               </li>
               <li>
-                玩家需要至少殺掉幾個洛斯內格羅斯守衛才能解救西班牙探險隊的隊長：胡安.科特霍玩家必須摧毀資源儲存處才能取回探險隊們被沒收的配備。此後，胡安.科特霍會成為<nuxt-link
+                玩家需要至少殺掉幾個洛斯內格羅斯守衛才能解救西班牙探險隊的隊長：胡安·科特霍玩家必須摧毀資源儲存處才能取回探險隊們被沒收的配備。此後，胡安·科特霍會成為<nuxt-link
                   to="/units/Cavalry_Units"
                   >騎兵英雄</nuxt-link
                 >、其他士兵則成為火槍兵，皆歸於玩家麾下。

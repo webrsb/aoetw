@@ -16,7 +16,6 @@
         <h2>遊戲者</h2>
         <div class="hrn1"></div>
         <div class="n1">
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -24,7 +23,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>（藍色）
               </td>
@@ -33,15 +35,24 @@
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p6"></div>玩家2</td>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">勃根地（紫色）法蘭克</td>
-              <td class="tc6" width="12%"><div class="p2"></div>玩家3</td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 英國（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8"></div>玩家4</td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家4
+              </td>
               <td class="tc6">舒茲伯利（橘色）不列顛</td>
             </tr>
           </table>

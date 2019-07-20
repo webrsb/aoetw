@@ -167,26 +167,30 @@
           <p>
             <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
+          除了原有的帝王世紀戰役，資料片也有新的征服者入侵戰役:
+          <ul>
+            <li>
+              <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>(匈奴)
+            </li>
+            <li>
+              <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>(西班牙/<nuxt-link
+                to="/civs/Saracens"
+                >薩拉森</nuxt-link
+              >)
+            </li>
+            <li>
+              <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>(阿茲特克)
+            </li>
+            <li>
+              <nuxt-link to="/batt/Battles_of_the_Conquerors"
+                >征服者的戰役</nuxt-link
+              >
+            </li>
+          </ul>
           <p>
-            除了原有的帝王世紀戰役：<nuxt-link to="/batt/William_Wallacea"
-              >威廉華勒斯</nuxt-link
-            >（教學戰役）、<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
-            >、<nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>、<nuxt-link
-              to="/batt/Genghis_Khana"
-              >成吉思汗</nuxt-link
-            >和<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
-            >，資料片也有新的征服者入侵戰役:<nuxt-link
-              to="/batt/Attila_the_Huna"
-              >阿提拉</nuxt-link
-            >(匈奴)，<nuxt-link to="/batt/El_Cida">熙德</nuxt-link
-            >(西班牙/<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-            >)，<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
-            >(阿茲特克)，<nuxt-link to="/batt/Battles_of_the_Conquerors"
-              >征服者的戰役</nuxt-link
-            >，但事實上部分戰役與史實有明顯差異。
-          </p>
-          <p>
-            在<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+            但事實上部分戰役與史實有明顯差異。如在<nuxt-link
+              to="/batt/Montezumaa"
+              >蒙特蘇馬戰役</nuxt-link
             >中，<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
             >看似以排山倒海之勢而來，但<nuxt-link to="/civs/Aztecs"
               >阿茲特克人</nuxt-link

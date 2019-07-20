@@ -30,9 +30,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 1,000<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，1,000<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，500<nuxt-link to="/resource/Stone">石礦</nuxt-link>
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／500<nuxt-link to="/resource/Stone">石礦</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">200</td>
@@ -40,7 +40,7 @@
           </table>
 
           <h3>AI</h3>
-          <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -48,7 +48,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>（紫色）
               </td>
@@ -58,9 +61,15 @@
             </tr>
 
             <tr>
-              <td class="tc6" width="12%"><div class="p2"></div>玩家2</td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">庫姆比薩萊赫（紅色）馬利</td>
-              <td class="tc6" width="12%"><div class="p8"></div>玩家3</td>
+              <td class="tc6" width="12%">
+                <div class="p8"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">蘇曼古魯（橘色）馬利</td>
             </tr>
           </table>

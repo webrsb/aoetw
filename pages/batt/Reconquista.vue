@@ -26,11 +26,10 @@
               </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Wood">木頭</nuxt-link>500、<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >500、<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >600、<nuxt-link to="/resource/Stone">石頭</nuxt-link>600
+                500<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >／500<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／600<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／600<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">125</td>
@@ -45,7 +44,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>（紅色）
               </td>
@@ -54,27 +56,39 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p2"></div>玩家2</td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">熙德遺體（紅色）西班牙</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 黑衛隊軍隊（藍綠色）<nuxt-link to="/civs/Turks"
                   >土耳其</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p4"></div>玩家4</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">
                 黑衛隊<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
                 >（黃色）土耳其
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家5
+              </td>
               <td class="tc6">約瑟夫（綠色）土耳其</td>
             </tr>
           </table>

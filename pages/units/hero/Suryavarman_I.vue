@@ -11,7 +11,7 @@
             <strong>蘇利耶跋摩一世</strong>是《<nuxt-link to="/games/aor"
               >王者崛起</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
-            >。蘇利耶跋摩一世系列<nuxt-link to="/batt">戰役</nuxt-link
+            >。<nuxt-link to="/batt/Suryavarman_I">蘇利耶跋摩一世戰役</nuxt-link
             >講述他如何逐步獲得權力並建造屬於他的<nuxt-link to="/civs/Khmer"
               >高棉</nuxt-link
             >帝國。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link

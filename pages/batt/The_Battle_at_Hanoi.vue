@@ -37,7 +37,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -45,7 +45,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Vietnamese">越南人</nuxt-link>（黃色）
               </td>
@@ -54,9 +57,15 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3"></div>玩家3</td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6">當地百姓（綠色）越南</td>
-              <td class="tc6"><div class="p8"></div>玩家4</td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 叛明部隊（橘色）<nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
@@ -66,7 +75,10 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p1"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家2
+              </td>
               <td class="tc6">明軍（藍色）中國</td>
             </tr>
           </table>

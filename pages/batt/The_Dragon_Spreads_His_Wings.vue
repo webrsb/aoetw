@@ -29,7 +29,10 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p2"></div>玩家1</td>
+            <td class="tc6">
+              <div class="p2"></div>
+              玩家1
+            </td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>（紅色）
             </td>
@@ -38,24 +41,39 @@
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p6"></div>玩家2</td>
+            <td class="tc6">
+              <div class="p6"></div>
+              玩家2
+            </td>
             <td class="tc6" width="42%">
               <nuxt-link to="/units/hero/Osman">奧斯曼</nuxt-link
               >帝國（紫色）土耳其
             </td>
-            <td class="tc6"><div class="p1"></div>玩家3</td>
+            <td class="tc6">
+              <div class="p1"></div>
+              玩家3
+            </td>
             <td class="tc6" width="38%">
               雅各大公（藍色）<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p4"></div>玩家4</td>
+            <td class="tc6">
+              <div class="p4"></div>
+              玩家4
+            </td>
             <td class="tc6">伊斯特萬大公（黃色）馬扎爾</td>
-            <td class="tc6"><div class="p8"></div>玩家5</td>
+            <td class="tc6">
+              <div class="p8"></div>
+              玩家5
+            </td>
             <td class="tc6">丹尼斯拉夫大公（橙色）斯拉夫</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p7"></div>玩家6</td>
+            <td class="tc6">
+              <div class="p7"></div>
+              玩家6
+            </td>
             <td class="tc6">
               瓦拉幾亞土著（灰色）<nuxt-link to="/civs/Huns">匈奴</nuxt-link>
             </td>
@@ -66,7 +84,10 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p5"></div>玩家7</td>
+            <td class="tc6">
+              <div class="p5"></div>
+              玩家7
+            </td>
             <td class="tc6">弗拉迪斯拉夫二世（淡藍色）馬扎爾</td>
           </tr>
           <tr>
@@ -75,7 +96,10 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p3"></div>玩家8</td>
+            <td class="tc6">
+              <div class="p3"></div>
+              玩家8
+            </td>
             <td class="tc6">匈牙利（綠色）馬扎爾</td>
           </tr>
         </table>
@@ -242,7 +266,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="red">紅色</font></td>
+            <td class="unit4">
+              <div class="p2"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -254,7 +281,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>戰役第二章第一
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>戰役第二章之一
             </td>
           </tr>
           <tr>

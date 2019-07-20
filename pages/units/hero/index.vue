@@ -1553,7 +1553,7 @@
                         <td class="tunitc4">馬弓騎兵</td>
                         <td class="tunitc6">特殊</td>
                         <td class="tunitc6">
-                          <nuxt-link to="/batt/A_Fallen-Crown"
+                          <nuxt-link to="/batt/A_Fallen_Crown"
                             >摔落的皇冠</nuxt-link
                           >
                         </td>

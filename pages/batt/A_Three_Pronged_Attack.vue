@@ -38,7 +38,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -46,7 +46,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4"></div>玩家1</td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Vietnamese">越南人</nuxt-link>（黃色）
               </td>
@@ -55,7 +58,10 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8"></div>玩家2</td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家2
+              </td>
               <td class="tc6">
                 <nuxt-link to="/batt/The_Dai_Viet_Uprising">大越義軍</nuxt-link
                 >（橘色）越南
@@ -66,7 +72,10 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p7"></div>玩家7</td>
+              <td class="tc6">
+                <div class="p7"></div>
+                玩家7
+              </td>
               <td class="tc6">
                 哀牢國（灰色）<nuxt-link to="/civs/Khmer">高棉</nuxt-link>
               </td>
@@ -76,17 +85,29 @@
             </tr>
 
             <tr>
-              <td class="tc6" width="12%"><div class="p3"></div>玩家3</td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">東都（綠色）越南</td>
-              <td class="tc6" width="12%"><div class="p1"></div>玩家4</td>
+              <td class="tc6" width="12%">
+                <div class="p1"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">
                 柳升將軍（藍色）<nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5"></div>玩家5</td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6">乂安府（水藍）越南</td>
-              <td class="tc6"><div class="p6"></div>玩家6</td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6">
                 <nuxt-link to="/units/hero/Wang_Tong">王通</nuxt-link
                 >將軍（紫色）中國
@@ -151,7 +172,7 @@
               >和裴備則進軍西路，準備攻打乂安府的西門。
             </li>
             <li>
-              乂安府（淺藍）地處南端， 有重兵把守， 固若金湯.
+              乂安府（淺藍）地處南端， 有重兵把守， 固若金湯。
               他們城內儲存大量黑火藥，更有神機營訓練<nuxt-link
                 to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
@@ -165,8 +186,7 @@
               >鎮守東都（綠色）。
             </li>
             <li>
-              柳升大將（藍色）奉明廷之命，持帥印南下助王通大將軍伐越.
-              他會不時地派遣糧草兵甲助王通將軍一臂之力，所以如果我們不截斷他們的援兵之路的話王通大將的軍隊就會變得異常強大。
+              柳升大將（藍色）奉明廷之命，持帥印南下助王通大將軍伐越。他會不時地派遣糧草兵甲助王通將軍一臂之力，所以如果我們不截斷他們的援兵之路的話王通大將的軍隊就會變得異常強大。
             </li>
             <li>
               哀牢國（灰色）並不參戰，但是如果我們從他們國土上穿越過去的話，他們還是會無法容忍的。他們的軍隊以大象和<nuxt-link

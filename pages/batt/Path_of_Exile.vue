@@ -28,7 +28,10 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p3"></div>玩家1</td>
+            <td class="tc6">
+              <div class="p3"></div>
+              玩家1
+            </td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>（綠色）
             </td>
@@ -37,24 +40,39 @@
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p4"></div>玩家2</td>
+            <td class="tc6">
+              <div class="p4"></div>
+              玩家2
+            </td>
             <td class="tc6">阿克蘇姆（黃色）衣索比亞</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p2"></div>玩家3</td>
+            <td class="tc6">
+              <div class="p2"></div>
+              玩家3
+            </td>
             <td class="tc6" width="38%">極大汗（紅色）衣索比亞</td>
-            <td class="tc6"><div class="p5"></div>玩家4</td>
+            <td class="tc6">
+              <div class="p5"></div>
+              玩家4
+            </td>
             <td class="tc6" width="38%">山中守衛（淡藍色）衣索比亞</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p6"></div>玩家5</td>
+            <td class="tc6">
+              <div class="p6"></div>
+              玩家5
+            </td>
             <td class="tc6">
               河流守衛（紫色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
             </td>
-            <td class="tc6"><div class="p8"></div>玩家6</td>
+            <td class="tc6">
+              <div class="p8"></div>
+              玩家6
+            </td>
             <td class="tc6">林中守衛（橘色）衣索比亞</td>
           </tr>
         </table>
@@ -164,7 +182,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="green">綠色</font></td>
+            <td class="unit4">
+              <div class="p3"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -175,7 +196,7 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">非洲王國第四章第一</td>
+            <td class="unit4">非洲王國第四章之一</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
