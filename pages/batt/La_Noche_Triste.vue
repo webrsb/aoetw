@@ -138,7 +138,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p3">玩家1</div>
+                <div class="p3"></div>玩家1
               </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>（綠色）
@@ -149,11 +149,11 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2">玩家2</div>
+                <div class="p2"></div>玩家2
               </td>
               <td class="tc6">特拉斯卡拉(紅色)阿茲特克</td>
               <td class="tc6">
-                <div class="p1">玩家3</div>
+                <div class="p1"></div>玩家3
               </td>
               <td class="tc6">
                 科爾特斯(藍色)<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
@@ -161,7 +161,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4">玩家4</div>
+                <div class="p4"></div>玩家4
               </td>
               <td class="tc6">被征服的阿茲特克人(黃色)阿茲特克</td>
             </tr>

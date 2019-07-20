@@ -47,7 +47,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家1</div></td>
+              <td class="tc6"><div class="p8"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
               </td>
@@ -57,7 +57,7 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p6">玩家2</div></td>
+              <td class="tc6"><div class="p6"></div>玩家2</td>
               <td class="tc6">
                 匈牙利（紫色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>

@@ -52,7 +52,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6" width="14%"><div class="p1"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Incas">印加人</nuxt-link>（藍色）
               </td>
@@ -61,19 +61,19 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="10%"><div class="p5">玩家3</div></td>
+              <td class="tc6" width="14%"><div class="p5"></div>玩家3</td>
               <td class="tc6" width="40%">
                 哈努阿庫（水藍色）<nuxt-link to="/civs/Incas">印加</nuxt-link>
               </td>
-              <td class="tc6" width="10%"><div class="p4">玩家4</div></td>
+              <td class="tc6" width="14%"><div class="p4"></div>玩家4</td>
               <td class="tc6" width="40%">瑪卡帕巴(黃色) 印加</td>
             </tr>
             <tr>
-              <td class="tc6" width="10%"><div class="p7">玩家6</div></td>
+              <td class="tc6" width="14%"><div class="p7"></div>玩家6</td>
               <td class="tc6" width="40%">
                 <nuxt-link to="/civs/Spanish">西班牙人</nuxt-link>（灰色）西班牙
               </td>
-              <td class="tc6" width="10%"><div class="p6">玩家7</div></td>
+              <td class="tc6" width="14%"><div class="p6"></div>玩家7</td>
               <td class="tc6" width="40%">指示給予者（紫色）印加</td>
             </tr>
             <tr>
@@ -81,9 +81,9 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p2" width="10%">玩家2</div></td>
+              <td class="tc6" width="14%"><div class="p2"></div>玩家2</td>
               <td class="tc6" width="40%">洛斯內格羅斯居民（紅色）印加</td>
-              <td class="tc6"><div class="p3" width="10%">玩家5</div></td>
+              <td class="tc6" width="14%"><div class="p3"></div>玩家5</td>
               <td class="tc6" width="40%">洛斯內格羅斯守衛（綠色）印加</td>
             </tr>
           </table>

@@ -337,7 +337,7 @@
               </td>
               <td class="tta3">
                 底比利亞斯(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -354,7 +354,7 @@
               </td>
               <td class="tta3">
                 波斯的警戒部隊(友軍)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -372,7 +372,7 @@
               </td>
               <td class="tta3">
                 瓜利密(友軍變成敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -390,7 +390,7 @@
               </td>
               <td class="tta3">
                 大馬士革(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -406,7 +406,7 @@
               </td>
               <td class="tta3">
                 <nuxt-link to="/civs/Persians">波斯人</nuxt-link>(敵對)
-                <div class="p2"></div>
+                <div class="p2" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -424,7 +424,7 @@
               </td>
               <td class="tta3">
                 達尼亞(友軍)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -443,7 +443,7 @@
               </td>
               <td class="tta3">
                 卡扎爾人(友軍)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -460,7 +460,7 @@
               </td>
               <td class="tta3">
                 波斯人(友軍)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
               </td>
             </tr>
           </table>

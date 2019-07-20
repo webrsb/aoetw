@@ -64,8 +64,8 @@
               </td>
               <td class="tta2">探索前否,探索後可控制</td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 電腦,玩家
-                <div class="p1"></div>
               </td>
             </tr>
           </table>

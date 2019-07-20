@@ -50,7 +50,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1</div></td>
+              <td class="tc6"><div class="p4"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>（黃色）
               </td>
@@ -59,11 +59,11 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p7">玩家5</div></td>
+              <td class="tc6" width="12%"><div class="p7"></div>玩家5</td>
               <td class="tc6" width="38%">
                 當地人（灰色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
-              <td class="tc6" width="12%"><div class="p8">玩家6</div></td>
+              <td class="tc6" width="12%"><div class="p8"></div>玩家6</td>
               <td class="tc6" width="38%">
                 休達（橘色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
               </td>
@@ -73,15 +73,15 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p3" width="12%">玩家2</div></td>
+              <td class="tc6"><div class="p3"></div>玩家2</td>
               <td class="tc6" width="38%">羅德里克軍隊（綠色）哥德</td>
-              <td class="tc6"><div class="p6" width="12%">玩家3</div></td>
+              <td class="tc6"><div class="p6"></div>玩家3</td>
               <td class="tc6" width="38%">
                 哥多華（紫色）<nuxt-link to="/civs/Italians">義大利</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家4</div></td>
+              <td class="tc6"><div class="p5"></div>玩家4</td>
               <td class="tc6">西哥德（水藍）哥德</td>
             </tr>
           </table>

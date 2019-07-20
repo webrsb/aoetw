@@ -44,7 +44,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6"><div class="p2"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>（紅色）
               </td>
@@ -53,15 +53,15 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="11%"><div class="p4">玩家2</div></td>
+              <td class="tc6" width="11%"><div class="p4"></div>玩家2</td>
               <td class="tc6" width="39%">
                 托雷多（黃色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
               </td>
-              <td class="tc6" width="12%"><div class="p5">玩家3</div></td>
+              <td class="tc6" width="12%"><div class="p5"></div>玩家3</td>
               <td class="tc6" width="39%">蒙達米特（藍綠）薩拉森</td>
             </tr>
             <tr>
-              <td class="tc6" width="11%"><div class="p6">玩家6</div></td>
+              <td class="tc6" width="11%"><div class="p6"></div>玩家6</td>
               <td class="tc6" width="38%">
                 回教長老<nuxt-link to="/units/hero/Imam">伊滿</nuxt-link
                 >（紫色）薩拉森
@@ -71,9 +71,9 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家5</div></td>
+              <td class="tc6"><div class="p8"></div>玩家5</td>
               <td class="tc6">西班牙的叛亂軍（橘色）西班牙</td>
-              <td class="tc6"><div class="p3">玩家6</div></td>
+              <td class="tc6"><div class="p3"></div>玩家6</td>
               <td class="tc6">摩爾人的反叛軍（綠色）薩拉森</td>
             </tr>
           </table>

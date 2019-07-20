@@ -48,7 +48,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家1</div></td>
+              <td class="tc6"><div class="p8"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
               </td>
@@ -58,15 +58,15 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p3" width="12%">玩家2</div></td>
+              <td class="tc6"><div class="p3"></div>玩家2</td>
               <td class="tc6" width="38%">麥凱特人（綠色）蒙古</td>
-              <td class="tc6"><div class="p2" width="12%">玩家3</div></td>
+              <td class="tc6"><div class="p2"></div>玩家3</td>
               <td class="tc6" width="38%">
                 俄羅斯人（紅色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家4</div></td>
+              <td class="tc6"><div class="p4"></div>玩家4</td>
               <td class="tc6">
                 瓜利密（黃色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
               </td>

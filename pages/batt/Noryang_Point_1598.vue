@@ -54,7 +54,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6"><div class="p2"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>（紅色）
               </td>
@@ -63,9 +63,9 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p8">玩家3</div></td>
+              <td class="tc6" width="12%"><div class="p8"></div>玩家3</td>
               <td class="tc6" width="38%">中國鄧子龍將軍（橘色）中國</td>
-              <td class="tc6" width="12%"><div class="p3">玩家4</div></td>
+              <td class="tc6" width="12%"><div class="p3"></div>玩家4</td>
               <td class="tc6" width="38%">李舜臣（綠色）韓國</td>
             </tr>
 
@@ -73,9 +73,9 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家2</div></td>
+              <td class="tc6"><div class="p4"></div>玩家2</td>
               <td class="tc6">日本海軍（黃色）日本</td>
-              <td class="tc6"><div class="p6">玩家5</div></td>
+              <td class="tc6"><div class="p6"></div>玩家5</td>
               <td class="tc6">日本侵略者（紫色）日本</td>
             </tr>
           </table>

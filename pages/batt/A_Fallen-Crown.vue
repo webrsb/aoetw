@@ -27,7 +27,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p3">玩家1</div></td>
+            <td class="tc6"><div class="p3"></div>玩家1</td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>（綠色）
             </td>
@@ -36,14 +36,14 @@
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p8">玩家2</div></td>
+            <td class="tc6"><div class="p8"></div>玩家2</td>
             <td class="tc6">達爾金達人(橘色)衣索比亞</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background: #27ae60;">中立</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p4">玩家3</div></td>
+            <td class="tc6"><div class="p4"></div>玩家3</td>
             <td class="tc6">阿羅迪亞商人(黃色)衣索比亞</td>
           </tr>
           <tr>
@@ -51,19 +51,19 @@
           </tr>
 
           <tr>
-            <td class="tc6"><div class="p6">玩家4</div></td>
+            <td class="tc6"><div class="p6"></div>玩家4</td>
             <td class="tc6">
               阿羅迪亞叛軍(紫色)<nuxt-link to="/civs/Saracens"
                 >薩拉森</nuxt-link
               >
             </td>
-            <td class="tc6"><div class="p2">玩家5</div></td>
+            <td class="tc6"><div class="p2"></div>玩家5</td>
             <td class="tc6">達納罕(紅色)衣索比亞</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p5">玩家6</div></td>
+            <td class="tc6"><div class="p5"></div>玩家6</td>
             <td class="tc6">貝根德爾王國(青色)衣索比亞</td>
-            <td class="tc6"><div class="p7">玩家7</div></td>
+            <td class="tc6"><div class="p7"></div>玩家7</td>
             <td class="tc6">東正教憎侶(灰色)衣索比亞</td>
           </tr>
         </table>

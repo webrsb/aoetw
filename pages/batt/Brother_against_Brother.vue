@@ -44,7 +44,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2">玩家1</div>
+                <div class="p2"></div>玩家1
               </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>（紅色）
@@ -55,13 +55,13 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p4">玩家2</div>
+                <div class="p4"></div>玩家2
               </td>
               <td class="tc6" width="35%">
                 <nuxt-link to="/units/hero/King_Sancho">桑喬國王</nuxt-link>
               </td>
               <td class="tc6" width="15%">
-                <div class="p1">玩家4</div>
+                <div class="p1"></div>玩家4
               </td>
               <td class="tc6" width="35%">
                 <nuxt-link to="/units/hero/King_Alfonso">阿方索國王</nuxt-link
@@ -70,7 +70,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4">玩家6</div>
+                <div class="p4"></div>玩家6
               </td>
               <td class="tc6">農奴（黃色）西班牙</td>
             </tr>
@@ -79,14 +79,14 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4">玩家3</div>
+                <div class="p4"></div>玩家3
               </td>
               <td class="tc6">
                 桑喬國王的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
                 >（黃色）西班牙
               </td>
               <td class="tc6">
-                <div class="p1">玩家5</div>
+                <div class="p1"></div>玩家5
               </td>
               <td class="tc6">阿方索國王的軍隊（藍色）西班牙</td>
             </tr>

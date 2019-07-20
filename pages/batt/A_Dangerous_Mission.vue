@@ -44,7 +44,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家1：</div></td>
+              <td class="tc6"><div class="p5"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Khmer">高棉人</nuxt-link>（水藍）
               </td>
@@ -53,15 +53,15 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家2：</div></td>
+              <td class="tc6"><div class="p4"></div>玩家2</td>
               <td class="tc6">
                 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>帝國（黃色）高棉
               </td>
-              <td class="tc6"><div class="p7">玩家3：</div></td>
+              <td class="tc6"><div class="p7"></div>玩家3</td>
               <td class="tc6">當地百姓（灰色）高棉</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家4：</div></td>
+              <td class="tc6"><div class="p3"></div>玩家4</td>
               <td class="tc6">
                 安達曼港口（綠色）<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
               </td>
@@ -70,7 +70,7 @@
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家5：</div></td>
+              <td class="tc6"><div class="p2"></div>玩家5</td>
               <td class="tc6">敵對土著（紅色）高棉</td>
             </tr>
           </table>

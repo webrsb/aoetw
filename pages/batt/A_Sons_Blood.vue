@@ -61,7 +61,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1">玩家1</div>
+                <div class="p1"></div>玩家1
               </td>
               <td class="tc6" colspan="4">主角（藍色）葡萄牙</td>
             </tr>
@@ -70,21 +70,21 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2">玩家2</div>
+                <div class="p2"></div>玩家2
               </td>
               <td class="tc6" colspan="4">阿方索艦隊（紅色）葡萄牙</td>
               <td class="tc6">
-                <div class="p6">玩家3</div>
+                <div class="p6"></div>玩家3
               </td>
               <td class="tc6" colspan="4">第烏人（紫色）波斯</td>
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4">玩家4</div>
+                <div class="p4"></div>玩家4
               </td>
               <td class="tc6" colspan="4">古吉特拉商人（黃色）波斯</td>
               <td class="tc6">
-                <div class="p5">玩家5</div>
+                <div class="p5"></div>玩家5
               </td>
               <td class="tc6" colspan="4">
                 馬木留克(藍綠色）<nuxt-link to="/civs/Saracens"
@@ -94,13 +94,13 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p3">玩家6</div>
+                <div class="p3"></div>玩家6
               </td>
               <td class="tc6" colspan="4">
                 奧斯曼人（綠色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
               <td class="tc6">
-                <div class="p8">玩家7</div>
+                <div class="p8"></div>玩家7
               </td>
               <td class="tc6" colspan="4">敵軍首領(橘色）波斯</td>
             </tr>

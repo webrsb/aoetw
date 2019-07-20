@@ -21,7 +21,7 @@
           <h3>遊戲者</h3>
           <ul>
             <li>
-              <div class="p2" style="float: left;"></div>
+              <div class="p2"></div>
               <strong
                 >遊戲者（<nuxt-link to="/civs/Teutons">條頓人</nuxt-link
                 >）</strong
@@ -31,7 +31,7 @@
           <h3>中立</h3>
           <ul>
             <li>
-              <div class="p7" style="float: left;"></div>
+              <div class="p7"></div>
               <strong
                 ><nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
                 >（蒙古）</strong
@@ -48,7 +48,7 @@
           <h3>敵人</h3>
           <ul>
             <li>
-              <div class="p1" style="float: left;"></div>
+              <div class="p1"></div>
               <strong
                 >奧地利（<nuxt-link to="/civs/Goths">哥德</nuxt-link>）</strong
               >：奧地利位於東南部，它是地圖上較弱的派系之一，但它們的遺跡由<nuxt-link
@@ -62,7 +62,7 @@
           </ul>
           <ul>
             <li>
-              <div class="p3" style="float: left;"></div>
+              <div class="p3"></div>
               <strong>巴伐利亞（條頓）</strong
               >：南部的巴伐利亞州是地圖上較強的城鎮之一。主要在戰鬥中使用<nuxt-link
                 to="/units/Knight"
@@ -75,7 +75,7 @@
           </ul>
           <ul>
             <li>
-              <div class="p4" style="float: left;"></div>
+              <div class="p4"></div>
               <strong>薩克森（條頓）</strong
               >：在北方有一個圍牆的城鎮。不過他們的牆壁沿著河流東南方向有一個洞，可以讓玩家做偷襲。他們主要在戰鬥中使用<nuxt-link
                 to="/units/Archer"
@@ -85,7 +85,7 @@
           </ul>
           <ul>
             <li>
-              <div class="p8" style="float: left;"></div>
+              <div class="p8"></div>
               <strong>斯瓦比亞（條頓）</strong
               >：斯瓦比亞位於西北部。他們的軍隊主要是<nuxt-link
                 to="/units/Spearman"
@@ -96,14 +96,14 @@
           </ul>
           <ul>
             <li>
-              <div class="p5" style="float: left;"></div>
+              <div class="p5"></div>
               <strong>波希米亞（條頓）</strong
               >：波希米亞人起初相當薄弱，只有東部的一個小鎮。儘管如此，隨著遊戲的進展，它們會迅速成長並成為一個強大的陣營。
             </li>
           </ul>
           <ul>
             <li>
-              <div class="p6" style="float: left;"></div>
+              <div class="p6"></div>
               <strong
                 >勃根地（<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
                 >）</strong

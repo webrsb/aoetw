@@ -54,19 +54,19 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6"><div class="p2"></div>玩家1</td>
               <td class="tc6" colspan="3">法蘭克（紅色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4" width="12%">玩家2</div></td>
+              <td class="tc6"><div class="p4"></div>玩家2</td>
               <td class="tc6" width="38%">
                 <nuxt-link to="/civs/Berbers">柏柏人</nuxt-link
                 >（黃色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
-              <td class="tc6"><div class="p3" width="12%">玩家3</div></td>
+              <td class="tc6"><div class="p3"></div>玩家3</td>
               <td class="tc6" width="38%">
                 摩爾人（綠色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
               </td>

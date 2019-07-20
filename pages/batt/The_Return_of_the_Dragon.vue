@@ -50,7 +50,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p2">玩家1</div></td>
+            <td class="tc6" width="12%"><div class="p2"></div>玩家1</td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>（紅色）
             </td>
@@ -59,18 +59,18 @@
             <td class="tc4" colspan="4" style="background:#2980b9;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p4">玩家2</div></td>
+            <td class="tc6" width="12%"><div class="p4"></div>玩家2</td>
             <td class="tc6">
               川西凡尼亞土著（黃色）<nuxt-link to="/civs/Turks"
                 >土耳其</nuxt-link
               >
             </td>
-            <td class="tc6"><div class="p7">玩家3</div></td>
+            <td class="tc6" width="12%"><div class="p7"></div>玩家3</td>
             <td class="tc6">瓦拉幾亞土著（灰色）馬扎爾</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p8">玩家4</div></td>
-            <td class="tc6">摩爾達維亞（橙色）斯拉夫</td>
+            <td class="tc6" width="12%"><div class="p8"></div>玩家4</td>
+            <td class="tc6" colspan="3">摩爾達維亞（橙色）斯拉夫</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#2980b9;">
@@ -78,23 +78,23 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p3">玩家5</div></td>
-            <td class="tc6">匈牙利（綠色）馬扎爾</td>
+            <td class="tc6" width="12%"><div class="p3"></div>玩家5</td>
+            <td class="tc6" colspan="3">匈牙利（綠色）馬扎爾</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#2980b9;">中立</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p6">玩家6</div></td>
-            <td class="tc6">奧特曼帝國（紫色）土耳其</td>
+            <td class="tc6" width="12%"><div class="p6"></div>玩家6</td>
+            <td class="tc6" colspan="3">奧特曼帝國（紫色）土耳其</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p5">玩家7</div></td>
+            <td class="tc6" width="12%"><div class="p5"></div>玩家7</td>
             <td class="tc6">弗拉迪斯拉夫二世（淡藍色）斯拉夫</td>
-            <td class="tc6"><div class="p1">玩家8</div></td>
+            <td class="tc6" width="12%"><div class="p1"></div>玩家8</td>
             <td class="tc6">弗拉迪斯拉夫二世（藍色）斯拉夫</td>
           </tr>
         </table>

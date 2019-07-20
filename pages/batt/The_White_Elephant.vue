@@ -45,7 +45,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家1</div></td>
+              <td class="tc6"><div class="p3"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>（綠色）
               </td>
@@ -54,7 +54,7 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家2</div></td>
+              <td class="tc6"><div class="p2"></div>玩家2</td>
               <td class="tc6">
                 泰族山區<nuxt-link to="/civs/Khmer">高棉</nuxt-link>
               </td>
@@ -64,15 +64,15 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
+              <td class="tc6"><div class="p1"></div>玩家2</td>
               <td class="tc6" width="38%">阿瑜陀耶國（藍色）高棉</td>
-              <td class="tc6"><div class="p4" width="12%">玩家4</div></td>
+              <td class="tc6"><div class="p4"></div>玩家4</td>
               <td class="tc6" width="38%">蘭納國（黃色）高棉</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家5</div></td>
+              <td class="tc6"><div class="p5"></div>玩家5</td>
               <td class="tc6">瀾滄王國（水藍）高棉</td>
-              <td class="tc6"><div class="p6">玩家6</div></td>
+              <td class="tc6"><div class="p6"></div>玩家6</td>
               <td class="tc6">
                 山區部落（紫色）<nuxt-link to="/civs/Malay">馬來</nuxt-link>
               </td>
@@ -81,7 +81,7 @@
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家7</div></td>
+              <td class="tc6"><div class="p8"></div>玩家7</td>
               <td class="tc6">
                 婆羅門納茲靈教（橘色）<nuxt-link to="/civs/Burmese"
                   >緬甸</nuxt-link

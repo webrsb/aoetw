@@ -24,7 +24,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p1">玩家1</div></td>
+            <td class="tc6"><div class="p1"></div>玩家1</td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>（藍色）
             </td>
@@ -34,11 +34,11 @@
           </tr>
 
           <tr>
-            <td class="tc6"><div class="p6" width="12%">玩家2</div></td>
+            <td class="tc6"><div class="p6"></div>玩家2</td>
             <td class="tc6" width="38%">
               勃根地（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
             </td>
-            <td class="tc6"><div class="p2" width="12%">玩家3</div></td>
+            <td class="tc6"><div class="p2"></div>玩家3</td>
             <td class="tc6" width="38%">
               <nuxt-link to="/civs/Britons">英國</nuxt-link>（紅色）<nuxt-link
                 to="/civs/Britons"
@@ -47,7 +47,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p8">玩家4</div></td>
+            <td class="tc6"><div class="p8"></div>玩家4</td>
             <td class="tc6">霍士道夫的軍隊（橘色）敵對</td>
           </tr>
         </table>

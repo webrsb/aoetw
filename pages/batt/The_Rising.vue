@@ -25,7 +25,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p1">玩家1</div></td>
+            <td class="tc6"><div class="p1"></div>玩家1</td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>（藍色）
             </td>
@@ -35,18 +35,18 @@
           </tr>
 
           <tr>
-            <td class="tc6"><div class="p2">玩家2</div></td>
+            <td class="tc6"><div class="p2"></div>玩家2</td>
             <td class="tc6">
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
               >的皇家禁衛軍（紅色）不列顛
             </td>
-            <td class="tc6"><div class="p3">玩家3</div></td>
+            <td class="tc6"><div class="p3"></div>玩家3</td>
             <td class="tc6">沙朗（綠色）不列顛</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p4">玩家4</div></td>
+            <td class="tc6"><div class="p4"></div>玩家4</td>
             <td class="tc6">理姆斯（黃色）不列顛</td>
-            <td class="tc6"><div class="p8">玩家5</div></td>
+            <td class="tc6"><div class="p8"></div>玩家5</td>
             <td class="tc6">特洛伊斯（橘色）不列顛</td>
           </tr>
         </table>

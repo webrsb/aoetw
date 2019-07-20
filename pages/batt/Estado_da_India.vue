@@ -67,7 +67,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1">玩家1</div>
+                <div class="p1"></div>玩家1
               </td>
               <td class="tc6" colspan="4">主角（藍色）葡萄牙</td>
             </tr>
@@ -76,7 +76,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4">玩家2</div>
+                <div class="p4"></div>玩家2
               </td>
               <td class="tc6" colspan="4">印度海盜（黃色）印度</td>
             </tr>
@@ -85,17 +85,17 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p3">玩家3</div>
+                <div class="p3"></div>玩家3
               </td>
               <td class="tc6" colspan="4">卡里卡特城的扎莫林（綠色）印度</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p2">玩家4</div>
+                <div class="p2"></div>玩家4
               </td>
               <td class="tc6" width="35%">科拉提立拉哈（紅色）印度</td>
               <td class="tc6" width="15%">
-                <div class="p2">玩家5</div>
+                <div class="p2"></div>玩家5
               </td>
               <td class="tc6" width="35%">坎納諾爾城（紅色）印度</td>
             </tr>

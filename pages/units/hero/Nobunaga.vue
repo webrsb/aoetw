@@ -72,8 +72,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p4" style="height: 23px"></div>
                 織田信長
-                <div class="p4"></div>
               </td>
             </tr>
           </table>

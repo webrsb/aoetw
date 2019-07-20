@@ -47,14 +47,14 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6" width="12%"><div class="p1"></div>玩家1</td>
               <td class="tc6" colspan="3">塞爾特人（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家2</div></td>
+              <td class="tc6" width="12%"><div class="p2"></div>玩家2</td>
               <td class="tc6">
                 英格蘭（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>

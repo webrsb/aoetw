@@ -56,7 +56,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家1</div></td>
+              <td class="tc6"><div class="p3"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>（綠色）
               </td>
@@ -65,19 +65,19 @@
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
+              <td class="tc6"><div class="p1"></div>玩家2</td>
               <td class="tc6" width="38%">
                 耶路撒冷（藍色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p8" width="12%">玩家3</div></td>
+              <td class="tc6"><div class="p8"></div>玩家3</td>
               <td class="tc6" width="38%">
                 救傷團（橘色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家4</div></td>
+              <td class="tc6"><div class="p4"></div>玩家4</td>
               <td class="tc6">
                 聖殿<nuxt-link to="/units/Knight">騎士</nuxt-link>（黃色）條頓
               </td>

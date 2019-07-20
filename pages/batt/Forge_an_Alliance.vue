@@ -46,21 +46,21 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6" width="9%"><div class="p1"></div>玩家1</td>
               <td class="tc6" colspan="3">塞爾特人（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="15%"><div class="p4">玩家2</div></td>
+              <td class="tc6" width="9%"><div class="p4"></div>玩家2</td>
               <td class="tc6" width="35%">蘇格蘭同盟（黃色）塞爾特</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家3</div></td>
+              <td class="tc6" width="9%"><div class="p2"></div>玩家3</td>
               <td class="tc6">
                 英格蘭（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>

@@ -49,7 +49,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家1</div></td>
+              <td class="tc6"><div class="p6"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>（紫色）
               </td>
@@ -58,9 +58,9 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p8">玩家2</div></td>
+              <td class="tc6" width="12%"><div class="p8"></div>玩家2</td>
               <td class="tc6" width="38%">尼亞尼（橘色）馬利</td>
-              <td class="tc6" width="12%"><div class="p4">玩家4</div></td>
+              <td class="tc6" width="12%"><div class="p4"></div>玩家4</td>
               <td class="tc6" width="38%">康加巴（黃色）馬利</td>
             </tr>
             <tr>
@@ -68,7 +68,7 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p2">玩家3</div></td>
+              <td class="tc6"><div class="p2"></div>玩家3</td>
               <td class="tc6">索索偵察兵（紫色）馬利</td>
             </tr>
           </table>

@@ -48,7 +48,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p8">玩家1</div>
+                <div class="p8"></div>玩家1
               </td>
               <td class="tc6" colspan="4">
                 主角（橘色）<nuxt-link to="/civs/Indians">印度</nuxt-link>
@@ -59,21 +59,21 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p6">玩家2</div>
+                <div class="p6"></div>玩家2
               </td>
               <td class="tc6" width="35%">曲女城（紫色）印度</td>
               <td class="tc6">
-                <div class="p4">玩家3</div>
+                <div class="p4"></div>玩家3
               </td>
               <td class="tc6">德里城（黃色）印度</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p3">玩家4</div>
+                <div class="p3"></div>玩家4
               </td>
               <td class="tc6" width="35%">印度村莊（綠色）印度</td>
               <td class="tc6" width="15%">
-                <div class="p1">玩家5</div>
+                <div class="p1"></div>玩家5
               </td>
               <td class="tc6" width="35%">布里斯比羅吉（藍色）印度</td>
             </tr>
@@ -82,11 +82,11 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2">玩家6</div>
+                <div class="p2"></div>玩家6
               </td>
               <td class="tc6">賈伊金德王（紅色）印度</td>
               <td class="tc6">
-                <div class="p7">玩家7</div>
+                <div class="p7"></div>玩家7
               </td>
               <td class="tc6">土匪（灰色）印度</td>
             </tr>

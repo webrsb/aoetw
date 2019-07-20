@@ -343,8 +343,8 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 奧地利(敵對)
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -357,8 +357,8 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 波蘭(敵對)
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -372,8 +372,8 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p2" style="height: 23px"></div>
                 俄羅斯(敵對)
-                <div class="p2"></div>
               </td>
             </tr>
             <tr>
@@ -384,8 +384,8 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 波蘭人(敵對)
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -397,8 +397,8 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p3" style="height: 23px"></div>
                 尼賽斯(敵對)
-                <div class="p3"></div>
               </td>
             </tr>
             <tr>
@@ -411,8 +411,8 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p3" style="height: 23px"></div>
                 馬西雅拿不勒斯(敵對)
-                <div class="p3"></div>
               </td>
             </tr>
             <tr>
@@ -425,11 +425,11 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p2" style="height: 23px"></div>
                 東哥德人(友軍)
-                <div class="p2"></div>
                 <br />
+                <div class="p3" style="height: 23px"></div>
                 西哥德人(敵對)
-                <div class="p3"></div>
               </td>
             </tr>
             <tr>
@@ -444,14 +444,14 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p2" style="height: 23px"></div>
                 撒克遜(敵對)
-                <div class="p2"></div>
                 <br />
+                <div class="p8" style="height: 23px"></div>
                 撒克遜人哈羅德(敵對)
-                <div class="p8"></div>
                 <br />
+                <div class="p4" style="height: 23px"></div>
                 哈羅德的偷襲部隊(敵對)
-                <div class="p4"></div>
               </td>
             </tr>
             <tr>
@@ -465,14 +465,14 @@
                 <span class="fas fa-check" style="color: green;"></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
                 <br />
+                <div class="p6" style="height: 23px"></div>
                 哥德人(友軍)
-                <div class="p6"></div>
                 <br />
+                <div class="p7" style="height: 23px"></div>
                 哥德難民(友軍)
-                <div class="p7"></div>
               </td>
             </tr>
             <tr>
@@ -485,14 +485,14 @@
                 <span class="fas fa-check" style="color: green;"></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
                 <br />
+                <div class="p3" style="height: 23px"></div>
                 阿陶爾夫的部隊(友軍)
-                <div class="p3"></div>
                 <br />
+                <div class="p6" style="height: 23px"></div>
                 哥德人(友軍)
-                <div class="p6"></div>
               </td>
             </tr>
             <tr>
@@ -505,14 +505,14 @@
                 <span class="fas fa-check" style="color: green;"></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
                 <br />
+                <div class="p3" style="height: 23px"></div>
                 薩魯斯(敵對)
-                <div class="p3"></div>
                 <br />
+                <div class="p5" style="height: 23px"></div>
                 阿拉里克(友軍)
-                <div class="p5"></div>
               </td>
             </tr>
             <tr>
@@ -525,14 +525,14 @@
                 <span class="fas fa-check" style="color: green;"></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
                 <br />
+                <div class="p3" style="height: 23px"></div>
                 哥德人(友軍)
-                <div class="p3"></div>
                 <br />
+                <div class="p5" style="height: 23px"></div>
                 阿陶爾夫(友軍)
-                <div class="p5"></div>
               </td>
             </tr>
             <tr>
@@ -546,8 +546,8 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p7" style="height: 23px"></div>
                 倫巴第(敵對)
-                <div class="p7"></div>
               </td>
             </tr>
             <tr>
@@ -560,11 +560,11 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p3" style="height: 23px"></div>
                 友好的倫巴第人(友軍)
-                <div class="p3"></div>
                 <br />
+                <div class="p8" style="height: 23px"></div>
                 反抗軍(敵對)
-                <div class="p8"></div>
               </td>
             </tr>
             <tr>
@@ -579,14 +579,14 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p3" style="height: 23px"></div>
                 羅德里克軍隊(敵對)
-                <div class="p3"></div>
                 <br />
+                <div class="p5" style="height: 23px"></div>
                 西哥德(敵對)
-                <div class="p5"></div>
                 <br />
+                <div class="p7" style="height: 23px"></div>
                 當地人(友軍)
-                <div class="p7"></div>
               </td>
             </tr>
             <tr>
@@ -600,14 +600,14 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p3" style="height: 23px"></div>
                 西哥德守備隊(敵對)
-                <div class="p3"></div>
                 <br />
+                <div class="p2" style="height: 23px"></div>
                 梅里達(敵對)
-                <div class="p2"></div>
                 <br />
+                <div class="p5" style="height: 23px"></div>
                 瓜達拉哈拉(敵對)
-                <div class="p5"></div>
               </td>
             </tr>
             <tr>
@@ -620,17 +620,17 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p8" style="height: 23px"></div>
                 穆爾西亞的奧德米爾(敵對)
-                <div class="p8"></div>
                 <br />
+                <div class="p2" style="height: 23px"></div>
                 阿斯圖里亞斯帝國(敵對)
-                <div class="p2"></div>
                 <br />
+                <div class="p5" style="height: 23px"></div>
                 納博納(敵對)
-                <div class="p5"></div>
                 <br />
+                <div class="p7" style="height: 23px"></div>
                 當地人(友軍)
-                <div class="p7"></div>
               </td>
             </tr>
             <tr>
@@ -643,14 +643,14 @@
                 <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
+                <div class="p7" style="height: 23px"></div>
                 當地人(友軍)
-                <div class="p7"></div>
                 <br />
+                <div class="p2" style="height: 23px"></div>
                 阿斯圖里亞人(敵對)
-                <div class="p2"></div>
                 <br />
+                <div class="p6" style="height: 23px"></div>
                 西哥德人(敵對)
-                <div class="p6"></div>
               </td>
             </tr>
           </table>

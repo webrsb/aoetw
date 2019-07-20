@@ -47,7 +47,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1</div></td>
+              <td class="tc6" width="14%"><div class="p4"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>（黃色）
               </td>
@@ -60,13 +60,13 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p1" width="10%">玩家2</div></td>
+              <td class="tc6" width="14%"><div class="p1"></div>玩家2</td>
               <td class="tc6" width="40%">波爾多（藍色）法蘭克</td>
-              <td class="tc6"><div class="p2" width="10%">玩家3</div></td>
+              <td class="tc6" width="14%"><div class="p2"></div>玩家3</td>
               <td class="tc6" width="40%">法蘭克軍隊（紅色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家4</div></td>
+              <td class="tc6" width="14%"><div class="p6"></div>玩家4</td>
               <td class="tc6">阿基塔尼亞城鎮（紫色）法蘭克</td>
             </tr>
           </table>

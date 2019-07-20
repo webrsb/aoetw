@@ -45,7 +45,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1</div></td>
+              <td class="tc6"><div class="p4"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Vietnamese">越南人</nuxt-link>（黃色）
               </td>
@@ -54,7 +54,7 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家2</div></td>
+              <td class="tc6"><div class="p8"></div>玩家2</td>
               <td class="tc6">
                 <nuxt-link to="/batt/The_Dai_Viet_Uprising">大越義軍</nuxt-link
                 >（橘色）越南
@@ -65,11 +65,11 @@
             </tr>
 
             <tr>
-              <td class="tc6"><div class="p1" width="12%">玩家3</div></td>
+              <td class="tc6"><div class="p1"></div>玩家3</td>
               <td class="tc6" width="38%">
                 明軍（藍色）<nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
-              <td class="tc6"><div class="p5" width="12%">玩家4</div></td>
+              <td class="tc6"><div class="p5"></div>玩家4</td>
               <td class="tc6" width="38%">明軍先鋒（水藍）中國</td>
             </tr>
           </table>

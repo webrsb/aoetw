@@ -168,7 +168,7 @@ body {
   padding: 5px;
   text-align: left;
   background:#f6f6f6;
-  padding: 5px;
+  height: 1px;
 }
 .tc4{
   text-align: center;
@@ -177,11 +177,13 @@ body {
   padding: 5px;
   background: #27ae60;
 }
-.p1,.p2,.p2,.p3,.p4,.p5,.p6,.p7,.p8{
-  height: 23px;
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8{
+  height: 100%;
   min-width: 8px;
-  float: right;
+  float: left;
   margin-right: 5px;
+  border: solid gray 1px;
+  display: inherit;
 }
 .p1{
   background: #0000ff;

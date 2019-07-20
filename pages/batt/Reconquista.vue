@@ -45,7 +45,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6"><div class="p2"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>（紅色）
               </td>
@@ -54,27 +54,27 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
+              <td class="tc6" width="12%"><div class="p2"></div>玩家2</td>
               <td class="tc6" width="38%">熙德遺體（紅色）西班牙</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家3</div></td>
+              <td class="tc6"><div class="p5"></div>玩家3</td>
               <td class="tc6">
                 黑衛隊軍隊（藍綠色）<nuxt-link to="/civs/Turks"
                   >土耳其</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p4" width="12%">玩家4</div></td>
+              <td class="tc6"><div class="p4"></div>玩家4</td>
               <td class="tc6" width="38%">
                 黑衛隊<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
                 >（黃色）土耳其
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家5</div></td>
+              <td class="tc6"><div class="p3"></div>玩家5</td>
               <td class="tc6">約瑟夫（綠色）土耳其</td>
             </tr>
           </table>

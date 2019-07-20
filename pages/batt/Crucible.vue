@@ -41,7 +41,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家1</div></td>
+              <td class="tc6"><div class="p8"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
               </td>
@@ -50,30 +50,30 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p4">玩家3</div></td>
+              <td class="tc6" width="12%"><div class="p4"></div>玩家3</td>
               <td class="tc6" width="38%">成吉思汗（黃色）蒙古 同盟</td>
-              <td class="tc6" width="12%"><div class="p1">玩家4</div></td>
+              <td class="tc6" width="12%"><div class="p1"></div>玩家4</td>
               <td class="tc6" width="38%">
                 克里依特人（藍色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p3">玩家5</div></td>
+              <td class="tc6" width="12%"><div class="p3"></div>玩家5</td>
               <td class="tc6" width="38%">泰依齊烏特人（綠色）蒙古</td>
-              <td class="tc6" width="12%"><div class="p5">玩家6</div></td>
+              <td class="tc6" width="12%"><div class="p5"></div>玩家6</td>
               <td class="tc6" width="38%">烏依古爾人（藍綠色）蒙古</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p6">玩家7</div></td>
+              <td class="tc6" width="12%"><div class="p6"></div>玩家7</td>
               <td class="tc6" width="38%">紐曼人（紫色）蒙古</td>
-              <td class="tc6" width="12%"><div class="p7">玩家8</div></td>
+              <td class="tc6" width="12%"><div class="p7"></div>玩家8</td>
               <td class="tc6" width="38%">安吉特拉人（灰色）蒙古</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
+              <td class="tc6" width="12%"><div class="p2"></div>玩家2</td>
               <td class="tc6" width="38%">加拉凱台（紅色）蒙古</td>
             </tr>
           </table>

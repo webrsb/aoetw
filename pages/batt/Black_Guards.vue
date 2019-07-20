@@ -43,7 +43,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6"><div class="p2"></div>玩家1</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>（紅色）
               </td>
@@ -52,7 +52,7 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家2</div></td>
+              <td class="tc6"><div class="p1"></div>玩家2</td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/units/hero/King_Alfonso">阿方索國王</nuxt-link
                 >的軍隊
@@ -62,17 +62,17 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家3</div></td>
+              <td class="tc6"><div class="p5"></div>玩家3</td>
               <td class="tc6">
                 黑衛隊軍隊（藍綠色）<nuxt-link to="/civs/Saracens"
                   >薩拉森</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p3">玩家4</div></td>
+              <td class="tc6"><div class="p3"></div>玩家4</td>
               <td class="tc6">約索夫（綠色）薩拉森</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家5</div></td>
+              <td class="tc6"><div class="p4"></div>玩家5</td>
               <td class="tc6">黑衛隊海軍（黃色）薩拉森</td>
             </tr>
           </table>

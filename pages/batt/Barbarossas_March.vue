@@ -19,7 +19,7 @@
           <h3>遊戲者</h3>
           <ul>
             <li>
-              <div class="p2" style="float: left;"></div>
+              <div class="p2"></div>
               <strong
                 >遊戲者（<nuxt-link to="/civs/Teutons">條頓人</nuxt-link
                 >）</strong
@@ -29,7 +29,7 @@
           <h3>同盟</h3>
           <ul>
             <li>
-              <div class="p1" style="float: left;"></div>
+              <div class="p1"></div>
               <strong
                 >君士坦丁堡（<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
                 >）</strong
@@ -50,7 +50,7 @@
           </ul>
           <ul>
             <li>
-              <div class="p5" style="float: left;"></div>
+              <div class="p5"></div>
               <strong>加里波利（拜占庭）</strong
               >：加里波利在西邊有一個<nuxt-link to="/building/Outpost"
                 >哨站</nuxt-link
@@ -60,7 +60,7 @@
           </ul>
           <ul>
             <li>
-              <div class="p8" style="float: left;"></div>
+              <div class="p8"></div>
               <strong
                 >救傷團（<nuxt-link to="/civs/Teutons">條頓</nuxt-link
                 >）</strong
@@ -76,7 +76,7 @@
           <h3>敵人</h3>
           <ul>
             <li>
-              <div class="p3" style="float: left;"></div>
+              <div class="p3"></div>
               <strong
                 ><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
                 >海軍（薩拉森）</strong
@@ -89,7 +89,7 @@
           </ul>
           <ul>
             <li>
-              <div class="p4" style="float: left;"></div>
+              <div class="p4"></div>
               <strong
                 >塞爾柱人（<nuxt-link to="/civs/Turks">土耳其</nuxt-link
                 >）</strong

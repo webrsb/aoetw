@@ -85,8 +85,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -103,8 +103,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -119,8 +119,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -137,8 +137,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
               </td>
             </tr>
           </table>

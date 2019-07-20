@@ -40,35 +40,35 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6"><div class="p1"></div>玩家1</td>
               <td class="tc6" colspan="3">日本（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p6">玩家2</div></td>
+              <td class="tc6" width="12%"><div class="p6"></div>玩家2</td>
               <td class="tc6" width="38%">木曾義仲（紫色）日本</td>
-              <td class="tc6" width="12%"><div class="p4">玩家3</div></td>
+              <td class="tc6" width="12%"><div class="p4"></div>玩家3</td>
               <td class="tc6" width="38%">北条氏（黃色）日本</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p7">玩家8</div></td>
+              <td class="tc6" width="12%"><div class="p7"></div>玩家8</td>
               <td class="tc6" width="38%">當地人（灰色）日本</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家4</div></td>
+              <td class="tc6"><div class="p2"></div>玩家4</td>
               <td class="tc6">平氏軍閥（紅色）日本</td>
-              <td class="tc6"><div class="p5">玩家5</div></td>
+              <td class="tc6"><div class="p5"></div>玩家5</td>
               <td class="tc6">京都（青綠色）日本</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家6</div></td>
+              <td class="tc6"><div class="p8"></div>玩家6</td>
               <td class="tc6">平家軍（橘色）日本</td>
-              <td class="tc6"><div class="p3">玩家7</div></td>
+              <td class="tc6"><div class="p3"></div>玩家7</td>
               <td class="tc6">平氏守衛（綠色）日本</td>
             </tr>
           </table>

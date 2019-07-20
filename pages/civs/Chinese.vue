@@ -322,15 +322,15 @@
               </td>
               <td class="tta3">
                 突厥(敵對)
-                <div class="p2"></div>
+                <div class="p2" style="height: 23px"></div>
                 <br />西夏(敵對)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
                 <br />金(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
                 <br />宋(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />工程師(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -348,7 +348,7 @@
               </td>
               <td class="tta3">
                 明朝軍隊(友軍)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -366,21 +366,21 @@
               </td>
               <td class="tta3">
                 玩家
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />彭彥章(敵對)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
                 <br />河盜(敵對)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
                 <br />寺廟聖地(友軍)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
                 <br />佃農(友軍)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />吳國陸軍(敵對)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
                 <br />吳越人(友軍)
-                <div class="p7"></div>
+                <div class="p7" style="height: 23px"></div>
                 <br />吳國水軍(敵對)
-                <div class="p2"></div>
+                <div class="p2" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -399,7 +399,7 @@
               </td>
               <td class="tta3">
                 撣族人(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -417,7 +417,7 @@
               </td>
               <td class="tta3">
                 撣族人(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -436,15 +436,15 @@
               </td>
               <td class="tta3">
                 明朝軍隊(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝軍隊(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝巡邏隊(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />宋(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />工程師(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -462,9 +462,9 @@
               </td>
               <td class="tta3">
                 明朝軍隊(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝軍隊(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -482,9 +482,9 @@
               </td>
               <td class="tta3">
                 明軍(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />棄明投越部隊(敵對)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -500,11 +500,11 @@
               </td>
               <td class="tta3">
                 琴彭軍(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝水師(敵對)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
                 <br />明朝軍隊(敵對)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -522,10 +522,10 @@
               </td>
               <td class="tta3">
                 柳升將軍(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br /><nuxt-link to="/units/hero/Wang_Tong">王通</nuxt-link
                 >將軍(敵對)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -543,9 +543,9 @@
               </td>
               <td class="tta3">
                 明朝軍隊(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝先鋒軍(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
               </td>
             </tr>
           </table>

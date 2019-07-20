@@ -29,7 +29,7 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p4">玩家1</div>
+              <div class="p4"></div>玩家1
             </td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>（黃色）
@@ -40,11 +40,11 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p7">玩家2</div>
+              <div class="p7"></div>玩家2
             </td>
             <td class="tc6">部落人(灰色)衣索比亞</td>
             <td class="tc6">
-              <div class="p4">玩家3</div>
+              <div class="p4"></div>玩家3
             </td>
             <td class="tc6">反叛軍(黃色)衣索比亞</td>
           </tr>
@@ -54,11 +54,11 @@
 
           <tr>
             <td class="tc6">
-              <div class="p2">玩家4</div>
+              <div class="p2"></div>玩家4
             </td>
             <td class="tc6">極大汗(紅色)衣索比亞</td>
             <td class="tc6">
-              <div class="p6">玩家5</div>
+              <div class="p6"></div>玩家5
             </td>
             <td class="tc6">極大汗追隨者(紫色)衣索比亞</td>
           </tr>

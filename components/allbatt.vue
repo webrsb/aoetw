@@ -336,7 +336,7 @@
               <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>•
               <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>•
               <nuxt-link to="/batt/Estado_da_India">葡屬印度</nuxt-link>•
-              <nuxt-link to="/batt/A_Sons_Blood.vue">兒子的血仇</nuxt-link>
+              <nuxt-link to="/batt/A_Sons_Blood">兒子的血仇</nuxt-link>
             </td>
           </tr>
           <tr>
