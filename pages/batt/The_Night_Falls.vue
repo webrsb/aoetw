@@ -68,7 +68,7 @@
               </td>
               <td class="tc6" width="35%">
                 <nuxt-link to="/civs/Turks">土耳其人</nuxt-link
-                >(賽巴克)（灰色）馬札爾
+                >(賽巴克)（紫色）土耳其
               </td>
             </tr>
             <tr>
