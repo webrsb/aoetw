@@ -67,8 +67,8 @@
                 玩家3
               </td>
               <td class="tc6" width="35%">
-                <nuxt-link to="/civs/Turks">土耳其人</nuxt-link
-                >(賽巴克)（灰色）馬札爾
+                土耳其人(賽巴克)（紫色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+                >
               </td>
             </tr>
             <tr>
@@ -95,8 +95,7 @@
                 玩家4
               </td>
               <td class="tc6">
-                <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-                >突襲兵（紫色）土耳其
+                土耳其突襲兵（紫色）土耳其
               </td>
               <td class="tc6">
                 <div class="p6"></div>
