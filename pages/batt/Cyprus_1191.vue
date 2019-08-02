@@ -8,12 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b><nuxt-link to="/batt/Bukhara_557">布哈拉</nuxt-link>之戰</b
+            <b>賽普勒斯</b
             >是《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
             >》中<nuxt-link to="/batt/Battles_of_the_Forgotten"
               >失落的帝國的戰役</nuxt-link
             >的其中一個戰役。該<nuxt-link to="/batt">戰役</nuxt-link
-            >是根據現實事件布哈拉之戰改編而成。
+            >描述獅心王理查在第三次十字軍東征之前佔領西西里島與賽普勒斯的事蹟。
           </p>
         </div>
         <h2>玩家</h2>
@@ -47,8 +47,7 @@
                 <div class="p4"></div>
                 玩家1
               </td>
-              <td class="tc6" colspan="3">
-                <nuxt-link to="/civs/Persians">波斯</nuxt-link>（黃色）
+              <td class="tc6" colspan="3">波斯（黃色）
               </td>
             </tr>
 
@@ -60,16 +59,13 @@
                 <div class="p8"></div>
                 玩家2
               </td>
-              <td class="tc6" width="35%">
-                <nuxt-link to="/civs/Persians">波斯人</nuxt-link
-                >（橘色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
+              <td class="tc6" width="35%">波斯人（橘色）波斯
               </td>
               <td class="tc6" width="15%">
                 <div class="p1"></div>
                 玩家3
               </td>
-              <td class="tc6" width="35%">
-                呼羅珊人（藍色）<nuxt-link to="/civs/Indians">印度</nuxt-link>
+              <td class="tc6" width="35%">呼羅珊人（藍色）印度
               </td>
             </tr>
 
@@ -81,8 +77,7 @@
                 <div class="p3"></div>
                 玩家4
               </td>
-              <td class="tc6">
-                白匈奴人（綠色）<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
+              <td class="tc6">白匈奴人（綠色）蒙古
               </td>
             </tr>
             <tr>
@@ -90,8 +85,7 @@
                 <div class="p5"></div>
                 玩家5
               </td>
-              <td class="tc6">
-                突厥人（青色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+              <td class="tc6">突厥人（青色）土耳其
               </td>
             </tr>
             <tr>
@@ -115,18 +109,44 @@
           <h3>主要任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <ol>
+             <ul>
               <li>
                 理查必須存活。
               </li>
               <li>
+                瓊那必須存活。(得到瓊那後)
+              </li>
+            </ul>
+            <ol>
+              
+              <li>
                 在西西里登陸並把軍隊派到安營點。
               </li>
               <li>
-                
+                讓理查去會見其他的王公。
               </li>
               <li>
-                。
+                把理查和瓊那帶回營地，瓊那跟理查都必須存活。
+              </li>
+              <li>
+                摧毀墨西拿城所有的倉庫(貿易工坊)來佔領墨西拿城(共五座倉庫)。
+              </li>
+              <li>
+                把理查、瓊那還有她的財產都帶到紅旗處的運輸船那。
+              </li>
+              <li>
+                把你想派去東征的軍隊都派上五支運輸船。包括英雄在內你一共可以運50個單位，
+                別忘了帶上能幫你攻城拔寨的武器，而且先讓單位坐進衝撞車再把衝撞車運上運輸船的話可以節省空間。
+                如果你的艦隊已經就緒要準備揚帆啟程的話就點擊坦克雷德在地圖西邊的城堡(綠色)。
+              </li>
+              <li>
+                找到艦隊其餘的船艦。
+              </li>
+              <li>
+                登陸利馬索港並奪下她的兩座城堡。想奪下城堡你只需要把理查帶到它旁邊去。
+              </li>
+              <li>
+                打敗賽普勒斯軍隊。
               </li>
               <li>
                 。
