@@ -8,12 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>開城</b
-            >是《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
-            >》中<nuxt-link to="/batt/Battles_of_the_Forgotten"
-              >失落的帝國的戰役</nuxt-link
-            >的其中一個戰役。該<nuxt-link to="/batt">戰役</nuxt-link
-            >描述獅心王理查在第三次十字軍東征之前佔領西西里島與賽普勒斯的事蹟。
+            <b>撒克遜起義(原德語版本是Anno 782 - Sachsenaufstand)</b
+            >是《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+            >》中的隱藏戰役。該戰役的歷史背景是法蘭克國王查理曼與撒克遜公爵維杜金德之間的戰爭。
+            更具體地說，該場景涵蓋了Süntel戰役和782年的費爾登大屠殺。玩家控制法蘭克人對陣撒克遜人及其盟友。
           </p>
         </div>
         <h2>玩家</h2>
@@ -251,7 +249,12 @@
         <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <ul>
-            <li>玩家可以研發火炮戰船科技(研發化學後)，但是卻不能訓練火炮戰船，所以只是浪費資源!</li>
+            <li>玩家無法在這個場景訓練海軍、城堡或火藥單位。</li>
+            <li>在英文版本中查里曼的名字是用德文Karl der Grosse念的 (實際上寫做Karl der Große)</li>
+            <li>儘管查理曼在歷史上無情的屠殺，玩家不必完全摧毀撒克遜人和弗里斯蘭人。</li>
+            <li></li>
+            <li></li>
+            <li></li>
           </ul>
         </div>
       </div>
@@ -277,20 +280,13 @@
           <tr>
             <td class="unit3">版本</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>下載關卡
             </td>
           </tr>
-          <tr>
-            <td class="unit3">戰役</td>
-            <td class="unit4">
-              <nuxt-link to="/batt/Battles_of_the_Forgotten"
-                >失落的帝國的戰役</nuxt-link
-              >
-            </td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4">c韓國
+            <td class="unit4">法蘭克
             </td>
           </tr>
           <tr>
@@ -298,29 +294,43 @@
               <div class="unititle2">戰役關卡編號</div>
             </td>
           </tr>
-          <tr>
-            <td class="unit3">章節</td>
-            <td class="unit4">
-              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>第七章額外關卡(需下載)
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">上一關</td>
-            <td class="unit4">
-               <nuxt-link to="/batt/Langshan_Jiang_919">狼山江(919)</nuxt-link>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">下一關</td>
-            <td class="unit4">
-              <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>
-            </td>
-          </tr>
+          
         </table>
 
         <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
-        
-          
+        <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
+          </div>
+          <div style="margin-left: 60px;">
+            維基百科上的撒克遜之戰
+            <div style="margin-left: 10px;">
+              <i
+                ><b
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Saxon_Wars#Middle_phase"
+                    target="_blank"
+                    >撒克遜之戰</a
+                  ></b
+                ></i
+              >
+            </div>
+          </div>
+          <div style="margin-left: 60px;">
+            維基百科上的費爾登大屠殺
+            <div style="margin-left: 10px;">
+              <i
+                ><b
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Massacre_of_Verden"
+                    target="_blank"
+                    >費爾登大屠殺</a
+                  ></b
+                ></i
+              >
+            </div>
+          </div>
+        </div>         
         </div>
       </div>
     </div>
