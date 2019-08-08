@@ -16,8 +16,7 @@
               to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >的出現讓<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
-            >變得容易被摧毀。<br>
-            除了哥德以外，所有文明都可以建造。
+            >變得容易被摧毀。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -75,7 +74,7 @@
         <div class="n1"></div>
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="tta1" colspan="2" style="text-align: center;">
+            <td class="tta" colspan="2" style="text-align: center;">
               <div class="unititle">劣勢與優勢</div>
             </td>
           </tr>
@@ -90,7 +89,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" colspan="2" style="text-align: center;">
+            <td class="tta" colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -261,7 +260,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">請看分類</td>
+            <td class="unit4">除了哥德以外的所有文明</td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
