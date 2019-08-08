@@ -67,7 +67,8 @@
                 玩家3
               </td>
               <td class="tc6" width="35%">
-                土耳其人(賽巴克)（紫色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+                土耳其人(賽巴克)（紫色）<nuxt-link to="/civs/Turks"
+                  >土耳其</nuxt-link
                 >
               </td>
             </tr>

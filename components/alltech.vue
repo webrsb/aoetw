@@ -118,7 +118,7 @@
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>•
               <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>•
               <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>•
-              <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+              <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
             </td>
           </tr>
           <tr>
