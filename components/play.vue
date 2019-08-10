@@ -332,7 +332,7 @@ export default {
     },
     github_page() {
       return (
-        'https://github.com/webrsb/aoetw/blob/master/pages/' +
+        'https://github.com/webrsb/aoetw/blob/dev/pages/' +
         this.$route.query.page +
         '.vue'
       )
