@@ -167,6 +167,42 @@
               起義軍（黃色）必須要截斷茶隆關的援軍，奪取並據守茶隆關直到他黎利的主力大軍趕到。
             </li>
           </ul>
+
+          <h2>攻略</h2>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                首先加緊生產村民，盡速挖下方的石礦然後插一座城堡防守。爆經濟的同時訓練<nuxt-link
+                  to="/units/Pikeman"
+                  >重裝長槍兵</nuxt-link
+                >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+                >以及一些輕騎兵，因為隨後會有明軍攻來。重裝長槍兵對付<nuxt-link
+                  to="/units/Cavalier"
+                  >騎兵</nuxt-link
+                >，戰矛兵打<nuxt-link to="/units/Archer">弓兵</nuxt-link
+                >，輕騎兵繞去打<nuxt-link to="/units/Siege_Weapons"
+                  >攻城武器</nuxt-link
+                >。明軍以弓兵為主，戰矛兵多訓練一些，有多的黃金也能造藤甲弓兵。別忘了幫左方的當地人蓋磨坊獲取密道資訊。
+              </li>
+              <li>
+                升帝王後將兵整個升級，配兵以<nuxt-link to="/units/Halberdier"
+                  >戟兵</nuxt-link
+                >和<nuxt-link to="/units/Imperial_Skirmisher"
+                  >帝王戰矛兵</nuxt-link
+                >為主（可依自己的喜好加入藤甲弓兵）再帶幾座<nuxt-link
+                  to="/units/Bombard_Cannon"
+                  >火砲</nuxt-link
+                >就可以出門了。先將上方的<nuxt-link to="/building/Market"
+                  >市集</nuxt-link
+                >和綠色的明軍解決掉，接著在攻剋關卡前按照指示探索密道，把船和兵清一清再蓋一座城堡在河對岸的山丘，把藤甲弓兵塞滿，基本上一發就可以擊沉路過的運輸船，再對茶隆關發動總攻勢，最後毀掉對方的<nuxt-link
+                  to="/building/Wonder"
+                  >世界奇觀</nuxt-link
+                >後把自己的世界奇觀蓋好即可。
+              </li>
+            </ul>
+          </div>
+
           <h2>細節</h2>
           <div class="hrn1"></div>
           <div class="n1">
