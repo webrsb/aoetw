@@ -189,6 +189,32 @@
           </tr>
         </table>
       </div>
+      <div class="col-md-3">
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unitc">
+              <div class="unititle">
+                <nuxt-link to="/games/de"
+                  ><img src="~assets/deicon.png" />決定版</nuxt-link
+                >
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <div class="unitcontent">
+                東歐
+                <ul>
+                  <li>保加利亞</li>
+                  <li>立陶宛</li>
+                  <li>庫曼</li>
+                  <li>韃靼</li>
+                </ul>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
       <hr />
     </div>
   </div>

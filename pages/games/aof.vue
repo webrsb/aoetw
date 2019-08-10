@@ -161,7 +161,8 @@
             <li>
               每個文明皆新增<nuxt-link to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
-              >能研發的<nuxt-link to="/techs/untech">特殊科技</nuxt-link>(哥德除外)。
+              >能研發的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+              >(哥德除外)。
             </li>
           </ul>
           <p>

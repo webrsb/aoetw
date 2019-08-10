@@ -221,7 +221,9 @@
             <div style="margin-left: 10px;">
               <em
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/%E7%A6%8F%E7%88%BE%E6%9F%AF%E5%85%8B%E4%B9%8B%E5%BD%B9" target="_blank"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E7%A6%8F%E7%88%BE%E6%9F%AF%E5%85%8B%E4%B9%8B%E5%BD%B9"
+                    target="_blank"
                     >福爾柯克之役</a
                   >
                 </strong>

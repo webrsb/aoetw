@@ -136,20 +136,16 @@
         <div class="n1">
           <ul>
             <li>
-              <strong
-                ><nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:</strong
-              >。
+              <strong>保加利亞</strong>
             </li>
             <li>
-              <strong
-                ><nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>:</strong
-              >。
+              <strong>立陶宛</strong>
             </li>
             <li>
-              <strong><nuxt-link to="/civs/Cumans">庫曼</nuxt-link>:</strong>。
+              <strong>庫曼</strong>
             </li>
             <li>
-              <strong><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>:</strong>。
+              <strong>韃靼</strong>
             </li>
           </ul>
 

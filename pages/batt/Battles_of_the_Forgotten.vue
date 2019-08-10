@@ -94,7 +94,7 @@
               </div>
               <div class="col-md-6">
                 <img
-                  src="~assets/Battles_of_the_Forgotten.png"
+                  src="~assets/Battles_of_the_Forgotten.jpg"
                   width="300"
                   alt=""
                 />

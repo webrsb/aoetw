@@ -37,6 +37,11 @@
                   ><img src="~assets/RajaIcon.png" />王者崛起</nuxt-link
                 ><span class="arror">➠</span>
               </p>
+              <p>
+                <nuxt-link to="/games/de"
+                  ><img src="~assets/deicon.png" />決定版</nuxt-link
+                ><span class="arror">➠</span>
+              </p>
             </div>
             <div class="toc" ref="shadow">
               <p>
@@ -83,6 +88,9 @@
                   to="#a24"
                   >【黎利】</nuxt-link
                 >
+              </p>
+              <p>
+                <nuxt-link to="#a25">【最後的可汗】</nuxt-link>
               </p>
             </div>
           </div>
@@ -1692,6 +1700,32 @@
                     <nuxt-link to="/batt/The_Final_Fortress"
                       >決戰東都</nuxt-link
                     >
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <div class="hrn1"></div>
+
+        <h3><strong>決定版戰役</strong></h3>
+        <div class="row">
+          <div class="col-md-4" style="margin-top: 10px;">
+            <table class="table-bordered" width="100%">
+              <tr>
+                <td class="unit" style="background-color: gray">
+                  <div class="unititle">
+                    <div id="a25">
+                      <nuxt-link to="/batt/">最後的可汗</nuxt-link>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    待推出
                   </div>
                 </td>
               </tr>

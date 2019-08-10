@@ -85,7 +85,7 @@
             </div>
             <div class="col-md-6">
               <img
-                src="~assets/Francisco_de_Almeida_map.png"
+                src="~assets/Francisco_de_Almeida_map.jpg"
                 width="300"
                 alt=""
               />

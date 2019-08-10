@@ -89,6 +89,10 @@
                   <nuxt-link to="/tree/mag">馬札爾</nuxt-link>
                   <nuxt-link to="/tree/sla">斯拉夫</nuxt-link>
                   <nuxt-link to="/tree/por">葡萄牙</nuxt-link>
+                  <nuxt-link to="/tree/bul">保加利亞</nuxt-link>
+                  <nuxt-link to="/tree/lit">立陶宛</nuxt-link>
+                  <nuxt-link to="/tree/cum">庫曼</nuxt-link>
+                  <nuxt-link to="/tree/tar">韃靼</nuxt-link>
                 </div>
               </td>
             </tr>

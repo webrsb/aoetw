@@ -1,8 +1,10 @@
 <template>
   <div class="container">
     <div class="row padtop">
-      <div class="col-md-12"><h1>世界奇觀</h1></div>
-      <div class="hrn1"></div>
+      <div class="col-md-12">
+        <h1>世界奇觀</h1>
+        <div class="hrn1"></div>
+      </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
