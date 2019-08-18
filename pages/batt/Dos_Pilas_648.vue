@@ -8,8 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>雙柱城</b
-            >為<nuxt-link to="/batt/Battles_of_the_Forgotten">失落帝國的戰役</nuxt-link>中編號第2的關卡，此關劇情為<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>文化歷史中公元629年至721年存在的城邦雙柱城。玩家將扮演的勢力為Bʼalaj
+            <b>雙柱城</b>為<nuxt-link to="/batt/Battles_of_the_Forgotten"
+              >失落帝國的戰役</nuxt-link
+            >中編號第2的關卡，此關劇情為<nuxt-link to="/civs/Mayans"
+              >馬雅</nuxt-link
+            >文化歷史中公元629年至721年存在的城邦雙柱城。玩家將扮演的勢力為Bʼalaj
             Chan Kʼawiil，他是蒂卡爾國王K'inich Muwaan Jol二世的兒子。
           </p>
           <p>
@@ -105,14 +108,19 @@
                 玩家7
               </td>
               <td class="tc6">
-                先鋒突襲隊（綠色）<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
+                先鋒突襲隊（綠色）<nuxt-link to="/civs/Aztecs"
+                  >阿茲特克</nuxt-link
+                >
               </td>
             </tr>
           </table>
 
           <h3>開場</h3>
           <li>
-            6位<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>，1位<nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>，4位<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>
+            6位<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >，1位<nuxt-link to="/units/Elite_Eagle_Warrior"
+              >精銳鷹勇士</nuxt-link
+            >，4位<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>
           </li>
 
           <h3>主要任務</h3>
@@ -123,7 +131,11 @@
                 趕往雙柱城。
               </li>
               <li>
-                升級上<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>並抵擋住卡拉克其爾人的進攻。如果你的<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>被摧毀的話你就輸了。
+                升級上<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                >並抵擋住卡拉克其爾人的進攻。如果你的<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
+                >被摧毀的話你就輸了。
               </li>
               <li>
                 你現在可以選擇繼續效忠於蒂卡爾的王室，或者投降卡拉克其爾加入他們的勢力：
@@ -156,7 +168,9 @@
                         摧毀烏夏克吞城南邊高原處的流寇要塞。
                       </li>
                       <li>
-                        摧毀卡拉克莫爾人的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>，擊敗他們！
+                        摧毀卡拉克莫爾人的<nuxt-link to="/building/Wonder"
+                          >世界奇觀</nuxt-link
+                        >，擊敗他們！
                       </li>
                     </ol>
                   </li>
@@ -196,10 +210,16 @@
                 摧毀南邊的流寇營地，並找出他們在此出現的原因。
               </li>
               <li>
-                找到那些<nuxt-link to="/units/Monk">僧侶</nuxt-link>提到的聖物並把它帶回到他們的<nuxt-link to="/building/Monastery">修道院</nuxt-link>去。
+                找到那些<nuxt-link to="/units/Monk">僧侶</nuxt-link
+                >提到的聖物並把它帶回到他們的<nuxt-link to="/building/Monastery"
+                  >修道院</nuxt-link
+                >去。
               </li>
               <li>
-                你是不是手頭有點緊？你有沒有多餘的<nuxt-link to="/units/animal/Turkey">火雞</nuxt-link>？你要是把它們送到那個火雞店老闆的工作坊去的話他會以100金子的價格來買每一隻火雞。
+                你是不是手頭有點緊？你有沒有多餘的<nuxt-link
+                  to="/units/animal/Turkey"
+                  >火雞</nuxt-link
+                >？你要是把它們送到那個火雞店老闆的工作坊去的話他會以100金子的價格來買每一隻火雞。
               </li>
             </ul>
           </div>
@@ -214,7 +234,10 @@
                 別費太多精力去發展建設一個基地，因為你在形勢不妙的情況下可能要撤離。
               </li>
               <li>
-                附近沒什麼<nuxt-link to="/resource/Gold">金礦</nuxt-link>，但是如果這片地區有個<nuxt-link to="/building/Market">市集</nuxt-link>可以貿易的話就好了。
+                附近沒什麼<nuxt-link to="/resource/Gold">金礦</nuxt-link
+                >，但是如果這片地區有個<nuxt-link to="/building/Market"
+                  >市集</nuxt-link
+                >可以貿易的話就好了。
               </li>
               <li>
                 你最多只有一個城鎮中心。
@@ -226,7 +249,14 @@
                 有一些上古器物在市郊外：傳言說有尊聖物遺落在蒂卡爾城西南山谷的叢林裡；還有些石雕分別散落在雙柱城西北的路上，在雙柱城西南的廢棄的塔旁邊的河岸上，以及在烏夏克吞城東邊的山區裡。
               </li>
               <li>
-                你可以升級為<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>，但別忘了馬雅<nuxt-link to="/civs">文明</nuxt-link>沒有像巨型投石器那樣的高級<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>，或者是炸藥桶這樣的<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link>。
+                你可以升級為<nuxt-link to="/techs/age/Imperial_Age"
+                  >帝王時代</nuxt-link
+                >，但別忘了馬雅<nuxt-link to="/civs">文明</nuxt-link
+                >沒有像巨型投石器那樣的高級<nuxt-link to="/units/Siege_Weapons"
+                  >攻城武器</nuxt-link
+                >，或者是炸藥桶這樣的<nuxt-link to="/units/Gunpowder_Unit"
+                  >火藥單位</nuxt-link
+                >。
               </li>
             </ul>
           </div>
@@ -241,16 +271,26 @@
                 雙柱城（黃色）是蒂卡爾城管轄下的一座小鎮，他們會生產多種單位。
               </li>
               <li>
-                蒂卡爾城（橙色）是地圖東邊的一座主城，他們能調遣各種單位來和敵人作戰。他們的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>是擅於狙擊<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>的<nuxt-link to="/units/Slinger">投石手</nuxt-link>。
+                蒂卡爾城（橙色）是地圖東邊的一座主城，他們能調遣各種單位來和敵人作戰。他們的<nuxt-link
+                  to="/units/Unique_Unit"
+                  >特殊單位</nuxt-link
+                >是擅於狙擊<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+                >的<nuxt-link to="/units/Slinger">投石手</nuxt-link>。
               </li>
               <li>
-                卡拉克其爾（紫色）是另一座大城，位於地圖北邊。如同蒂卡爾一樣，卡拉克莫爾的單位也多種多樣。他們的特色兵種是近身搏鬥的王者——<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>。只有用遠距離武器襲擊他們才是上策。
+                卡拉克其爾（紫色）是另一座大城，位於地圖北邊。如同蒂卡爾一樣，卡拉克莫爾的單位也多種多樣。他們的特色兵種是近身搏鬥的王者——<nuxt-link
+                  to="/units/Jaguar_Warrior"
+                  >豹勇士</nuxt-link
+                >。只有用遠距離武器襲擊他們才是上策。
               </li>
               <li>
                 烏夏克吞城（藍色）是蒂卡爾城轄下的另一座小城，他們能提供一小支單位來抵抗敵人。
               </li>
               <li>
-                納蘭永城（紅色）是這片區域最小的城鎮，他們以鷹勇士、羽箭手、弩車和<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>為主力。他們以防守為主，極少進攻。
+                納蘭永城（紅色）是這片區域最小的城鎮，他們以鷹勇士、羽箭手、弩車和<nuxt-link
+                  to="/units/Man-at-Arms"
+                  >裝甲步兵</nuxt-link
+                >為主力。他們以防守為主，極少進攻。
               </li>
               <li>
                 先鋒突襲隊（綠色）很不好對付。他們在雙柱城外四處掃蕩，襲擊無辜的路人。
@@ -273,7 +313,10 @@
               玩家必須在沒有失去市鎮中心的情況下保衛雙柱城，同時面對卡拉克其爾的軍隊入侵。
             </li>
             <li>
-              玩家也被要求升級至城堡時代。如果玩家此時採集滿300<nuxt-link to="/resource/Gold">黃金</nuxt-link>，那麼先鋒突襲隊也將會入侵雙柱城。
+              玩家也被要求升級至城堡時代。如果玩家此時採集滿300<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >，那麼先鋒突襲隊也將會入侵雙柱城。
             </li>
             <li>
               一旦玩家進入城堡時代，卡拉克其爾將會有一支龐大的軍隊入侵雙柱城。
@@ -290,28 +333,59 @@
               如果玩家選擇加入卡拉克其爾的一方，玩家將接管雙柱城。卡拉克其爾的入侵部隊也將會從雙柱城中撤退，
             </li>
             <li>
-              但由於他們對玩家的外交狀態仍然是“敵對”，雙柱城的玩家<nuxt-link to="/building/Gate">城門</nuxt-link>不能自動打開讓卡拉克其爾的士兵通過，
+              但由於他們對玩家的外交狀態仍然是“敵對”，雙柱城的玩家<nuxt-link
+                to="/building/Gate"
+                >城門</nuxt-link
+              >不能自動打開讓卡拉克其爾的士兵通過，
             </li>
             <li>
               所以玩家必須手動發送任何單位
-              打開城門。儘管有外交狀態，但卡拉克其爾的<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>和<nuxt-link to="/building/Castle">城堡</nuxt-link>不會攻擊任何經過的玩家單位。
+              打開城門。儘管有外交狀態，但卡拉克其爾的<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >和<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >不會攻擊任何經過的玩家單位。
             </li>
             <li>
-              然而，在某些少許情況，卡拉克其爾的士兵可能仍會襲擊一些<nuxt-link to="/building">建築物</nuxt-link>，甚至攻擊玩家的<nuxt-link to="/units/Villager">村民</nuxt-link>的BUG。
+              然而，在某些少許情況，卡拉克其爾的士兵可能仍會襲擊一些<nuxt-link
+                to="/building"
+                >建築物</nuxt-link
+              >，甚至攻擊玩家的<nuxt-link to="/units/Villager">村民</nuxt-link
+              >的BUG。
             </li>
             <li>
-              玩家必須防禦烏夏克吞城的入侵，通常會有一批<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>，<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>和<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>組成的的輕裝部隊。
+              玩家必須防禦烏夏克吞城的入侵，通常會有一批<nuxt-link
+                to="/units/Long_Swordsman"
+                >長劍兵</nuxt-link
+              >，<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>和<nuxt-link
+                to="/units/Crossbowman"
+                >弩兵</nuxt-link
+              >組成的的輕裝部隊。
             </li>
             <li>
-              玩家可考慮建造在城內興建另外兩座箭塔 -
-              一座位於<nuxt-link to="/building/Barracks">軍營</nuxt-link>旁（雙柱城北部），另一座位於雙柱城東門（最初東門只有一座箭塔，與其他兩座大門不同，每座大樓有兩座箭塔）。
+              玩家可考慮建造在城內興建另外兩座箭塔 - 一座位於<nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >旁（雙柱城北部），另一座位於雙柱城東門（最初東門只有一座箭塔，與其他兩座大門不同，每座大樓有兩座箭塔）。
             </li>
             <li>
-              請注意，此時從另一個玩家接管雙柱城的建築物不影響升級，因此即使研發所有與箭塔有關的<nuxt-link to="/techs">科技</nuxt-link>，從雙柱城拿到的最初的<nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>也無法升級。
+              請注意，此時從另一個玩家接管雙柱城的建築物不影響升級，因此即使研發所有與箭塔有關的<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >，從雙柱城拿到的最初的<nuxt-link to="/building/Watch_Tower"
+                >瞭望箭塔</nuxt-link
+              >也無法升級。
             </li>
             <li>
-              由於此關無法建造<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>，玩家必須依靠<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link> -
-              最好升級到<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>，並且讓步兵完全進駐至<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>內會提高速度。
+              由於此關無法建造<nuxt-link to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
+              >，玩家必須依靠<nuxt-link to="/units/Capped_Ram"
+                >裝甲衝撞車</nuxt-link
+              >
+              - 最好升級到<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
+              >，並且讓步兵完全進駐至<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >內會提高速度。
             </li>
             <li>
               與防守良好完善的蒂卡爾城相比，烏夏克吞城相對容易進攻，玩家如果越早取得此座城池建立基地，從中路前往蒂卡爾城的進攻會更快速。
@@ -323,10 +397,17 @@
               並嘗試利用打帶跑戰術將敵人引回到玩家的基地，並且讓敵軍引進火網至玩家興建的箭塔或城堡攻擊。
             </li>
             <li>
-              強烈建議研發馬雅帝王世代<nuxt-link to="/techs/untech">特殊科技</nuxt-link><nuxt-link to="/techs/El_Dorado">黃金國</nuxt-link>，為鷹勇士提升+40<nuxt-link to="/elements/Hit_points">生命值</nuxt-link>。
+              強烈建議研發馬雅帝王世代<nuxt-link to="/techs/untech"
+                >特殊科技</nuxt-link
+              ><nuxt-link to="/techs/El_Dorado">黃金國</nuxt-link
+              >，為鷹勇士提升+40<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >。
             </li>
             <li>
-              建議玩家使用<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link>掩護攻城武器前進並逐步殺死敵軍，然後再摧毀敵軍的軍事建築物。
+              建議玩家使用<nuxt-link to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >掩護攻城武器前進並逐步殺死敵軍，然後再摧毀敵軍的軍事建築物。
             </li>
           </ul>
           <h4>B:繼續效忠蒂卡爾</h4>
@@ -347,7 +428,13 @@
               玩家可以選擇摧毀雙柱城的城鎮中心以並重新奪回這座城市，儘管沒有攻打雙柱城也能獲勝。
             </li>
             <li>
-              在卡拉克其爾入侵期間，玩家可以製造衝撞車裝載步兵，<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>與茅兵在後掩護，並在攻破城門直搗雙柱城的城鎮中心，只需把注意力放在城鎮中心即可，攻破城鎮中心後雙柱城的<nuxt-link to="/building">建築</nuxt-link>回歸玩家。
+              在卡拉克其爾入侵期間，玩家可以製造衝撞車裝載步兵，<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >與茅兵在後掩護，並在攻破城門直搗雙柱城的城鎮中心，只需把注意力放在城鎮中心即可，攻破城鎮中心後雙柱城的<nuxt-link
+                to="/building"
+                >建築</nuxt-link
+              >回歸玩家。
             </li>
             <li>
               卡拉克其爾軍隊將不停的入侵烏夏克吞城，如果雙柱城在玩家接管後，他們偶爾也會進攻。
@@ -357,10 +444,15 @@
             </li>
             <li>玩家應盡可能考慮用升級的箭塔替換雙柱城內瞭望箭塔，</li>
             <li>
-              因為從其他玩家繼承的建築物不會一同與玩家。用<nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>取代至少一些<nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>也會有所幫助。
+              因為從其他玩家繼承的建築物不會一同與玩家。用<nuxt-link
+                to="/building/Fortified_Wall"
+                >垛牆</nuxt-link
+              >取代至少一些<nuxt-link to="/building/Stone_Wall">石牆</nuxt-link
+              >也會有所幫助。
             </li>
             <li>
-              在荒野中尋找金礦和<nuxt-link to="/resource/Stone">石礦</nuxt-link>時，玩家的村民必須小心，不要被敵人突襲宰殺，建議在礦井周圍建造箭塔。
+              在荒野中尋找金礦和<nuxt-link to="/resource/Stone">石礦</nuxt-link
+              >時，玩家的村民必須小心，不要被敵人突襲宰殺，建議在礦井周圍建造箭塔。
             </li>
             <li>
               在玩家的城市之外擁有一些箭塔將有助於轉移敵人的注意力並使玩家能夠更多地集中精力建立一支部隊。
@@ -392,10 +484,17 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              沿著從河流到雙柱城的道路上有先鋒突襲隊，包括長槍兵，投石手和羽毛箭射手。玩家可以使用由<nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>和弓兵，<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>組成的部隊來對付這些部隊。
+              沿著從河流到雙柱城的道路上有先鋒突襲隊，包括長槍兵，投石手和羽毛箭射手。玩家可以使用由<nuxt-link
+                to="/units/Two-Handed_Swordsman"
+                >雙手劍兵</nuxt-link
+              >和弓兵，<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >組成的部隊來對付這些部隊。
             </li>
             <li>
-              先鋒突襲隊在雙柱城的西北方有一台弩砲，曾經被摧毀過的將有一個<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>作為替補。
+              先鋒突襲隊在雙柱城的西北方有一台弩砲，曾經被摧毀過的將有一個<nuxt-link
+                to="/units/Battering_Ram"
+                >輕型衝撞車</nuxt-link
+              >作為替補。
             </li>
             <li>
               雙柱城外五個營地的攻略主要包括鷹斥侯，以及一些長槍兵，戰矛兵，弩兵等。
@@ -413,12 +512,24 @@
               在西部村莊，先鋒突襲隊行軍的雙手劍兵和投石手是一個棘手的威脅，但是戰矛兵和長槍兵可以較容易的處理。
             </li>
             <li>一旦這些先鋒突襲隊被殺，玩家可以和那裡的鄉村市場進行交易。</li>
-            <li>先鋒突襲隊在南部有一個營地，是由<nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>和<nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>圍成的陣地。</li>
             <li>
-              玩家應該考慮生產一群衝撞車，弩砲，步兵和<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link>攻破突圍。一旦先鋒突襲隊的營地被摧毀，玩家就可以在那裡獲得許多黃金和石頭。
+              先鋒突襲隊在南部有一個營地，是由<nuxt-link
+                to="/building/Palisade_Wall"
+                >木牆</nuxt-link
+              >和<nuxt-link to="/building/Palisade_Gate">木門</nuxt-link
+              >圍成的陣地。
             </li>
             <li>
-              如果玩家仍然忠於蒂卡爾，並會發現先鋒突襲隊佔領了烏夏克吞城南部的蒂卡爾軍事基地，那麼玩家必須提防由鷹勇士和羽毛箭射手組成的行進守衛軍，只需配雙手劍兵和<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>/戰矛兵的組合就足以應對這些部隊，衝撞車攻城時只需把重點放在城堡，一旦城堡倒塌，這座要塞將重回蒂卡爾勢力掌控。
+              玩家應該考慮生產一群衝撞車，弩砲，步兵和<nuxt-link
+                to="/units/Archer_Units"
+                >弓箭手</nuxt-link
+              >攻破突圍。一旦先鋒突襲隊的營地被摧毀，玩家就可以在那裡獲得許多黃金和石頭。
+            </li>
+            <li>
+              如果玩家仍然忠於蒂卡爾，並會發現先鋒突襲隊佔領了烏夏克吞城南部的蒂卡爾軍事基地，那麼玩家必須提防由鷹勇士和羽毛箭射手組成的行進守衛軍，只需配雙手劍兵和<nuxt-link
+                to="/units/Arbalest"
+                >強弩兵</nuxt-link
+              >/戰矛兵的組合就足以應對這些部隊，衝撞車攻城時只需把重點放在城堡，一旦城堡倒塌，這座要塞將重回蒂卡爾勢力掌控。
             </li>
           </ul>
           <h4>鄉村的次要任務資訊</h4>
@@ -431,7 +542,10 @@
               玩家可以在地圖上的任何角落找到火雞，使用任何單位護送將火雞帶給貿易商人，同時小心防止其他玩家盜取火雞。
             </li>
             <li>
-              在烏夏克吞城北邊附近的地圖中間，有間鄉村的<nuxt-link to="/building/University">學院</nuxt-link>外有一位老歷史學家(僧侶)，他會要求玩家幫助他尋找此關地區的三個石頭像，因為他不想在危險的戰場上冒險。玩家只要任意單位尋找所有三個石頭像並回到他身邊。
+              在烏夏克吞城北邊附近的地圖中間，有間鄉村的<nuxt-link
+                to="/building/University"
+                >學院</nuxt-link
+              >外有一位老歷史學家(僧侶)，他會要求玩家幫助他尋找此關地區的三個石頭像，因為他不想在危險的戰場上冒險。玩家只要任意單位尋找所有三個石頭像並回到他身邊。
             </li>
             <li>
               石頭像位置在雙柱城西北部附近有一塊石頭像;
@@ -439,10 +553,16 @@
               還有一個在烏夏克吞城以東的山區中。完成後，歷史學家將用1000黃金獎勵玩家。
             </li>
             <li>
-              在攻略的先鋒突襲隊的南部礦區軍營旁後面的鄉村修道院中有三名僧侶，因此建議玩家在此之前擊敗那裡的先鋒突襲隊。他們會要求傳說失落的聖物(<nuxt-link to="/Relic">遺跡</nuxt-link>)。
+              在攻略的先鋒突襲隊的南部礦區軍營旁後面的鄉村修道院中有三名僧侶，因此建議玩家在此之前擊敗那裡的先鋒突襲隊。他們會要求傳說失落的聖物(<nuxt-link
+                to="/Relic"
+                >遺跡</nuxt-link
+              >)。
             </li>
             <li>
-              遺跡位於地圖的東南部，在叢林後面，中間有許多樹阻擋，如果玩家不想砍樹，玩家可以選擇使用<nuxt-link to="/units/Onager">中型投石車</nuxt-link>來摧毀樹木。任務完成後，僧侶將獎勵玩家1000黃金。然而，如果將遊戲進行到後面發展會比較不利，也因此建議玩家應該將遺跡直接帶回我方修道院生產更多黃金至遊戲結束。
+              遺跡位於地圖的東南部，在叢林後面，中間有許多樹阻擋，如果玩家不想砍樹，玩家可以選擇使用<nuxt-link
+                to="/units/Onager"
+                >中型投石車</nuxt-link
+              >來摧毀樹木。任務完成後，僧侶將獎勵玩家1000黃金。然而，如果將遊戲進行到後面發展會比較不利，也因此建議玩家應該將遺跡直接帶回我方修道院生產更多黃金至遊戲結束。
             </li>
           </ul>
         </div>
@@ -458,10 +578,13 @@
               這可能解釋了為什麼在遊戲中，如果玩家選擇保持對蒂卡爾的忠誠，雙柱城變為反對玩家的勢力城邦，以確保雙柱城加入卡拉克其爾的陣營。
             </li>
             <li>
-              這些地名都是在現代考古發現這些遺址與文獻之後的一千多年後今日才得出的。雙柱城:“Dos Pilas”和納蘭永“Naranjo”為西班牙語，而卡拉克其爾“Calakmul”，蒂卡爾“Tikal”和烏夏克吞“Uaxactun”則是馬雅語。
+              這些地名都是在現代考古發現這些遺址與文獻之後的一千多年後今日才得出的。雙柱城:“Dos
+              Pilas”和納蘭永“Naranjo”為西班牙語，而卡拉克其爾“Calakmul”，蒂卡爾“Tikal”和烏夏克吞“Uaxactun”則是馬雅語。
             </li>
             <li>
-              卡拉克其爾人的世界奇觀實際上為<nuxt-link to="/civs/Aztecs">阿茲特克人</nuxt-link>的世界奇觀特諾奇蒂蘭大金字塔，最初由先鋒突襲隊玩家擁有並稍後改變為卡拉克其爾。
+              卡拉克其爾人的世界奇觀實際上為<nuxt-link to="/civs/Aztecs"
+                >阿茲特克人</nuxt-link
+              >的世界奇觀特諾奇蒂蘭大金字塔，最初由先鋒突襲隊玩家擁有並稍後改變為卡拉克其爾。
             </li>
             <li>
               玩家每當摧毀一個先鋒突襲隊營地時，地圖都會在西北方放置一面黃旗。這是為了便於系統倒計時被摧毀的營地數量。
@@ -473,7 +596,10 @@
               卡拉克其爾人在遊戲中雖為馬雅文明，但在此關劇情卻可以訓練豹勇士作戰，生產地點為特諾奇蒂蘭大金字塔前，一次1個單位。
             </li>
             <li>
-              蒂卡爾在遊戲中雖為馬雅文明，但在此關劇情卻可以訓練<nuxt-link to="/civs/Incas">印加</nuxt-link>文明的特殊單位投石手，生產地點為蒂卡爾城內的世界奇觀大美洲豹神廟前，一次1個單位。
+              蒂卡爾在遊戲中雖為馬雅文明，但在此關劇情卻可以訓練<nuxt-link
+                to="/civs/Incas"
+                >印加</nuxt-link
+              >文明的特殊單位投石手，生產地點為蒂卡爾城內的世界奇觀大美洲豹神廟前，一次1個單位。
             </li>
           </ul>
         </div>
@@ -494,7 +620,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="/batt">戰役</nuxt-link>資訊</div>
+              <div class="unititle2">
+                <nuxt-link to="/batt">戰役</nuxt-link>資訊
+              </div>
             </td>
           </tr>
           <tr>
