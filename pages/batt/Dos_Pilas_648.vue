@@ -660,6 +660,50 @@
         </table>
 
         <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
+       <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
+         <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
+          </div>
+          <div style="margin-left: 60px;">
+            維基百科上的此關戰役其他資訊
+            <div style="margin-left: 10px;">
+              <em
+                ><strong
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Dos_Pilas"
+                    target="_blank"
+                    >雙柱城(英文)</a
+                  ></strong
+                ></em
+              >、<em
+                ><strong
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E8%92%82%E5%8D%A1%E5%B0%94"
+                    target="_blank"
+                    >蒂卡爾</a
+                  ></strong
+                ></em
+               >、<em
+                ><strong
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Uaxactun"
+                    target="_blank"
+                    >烏夏克吞(英文)</a
+                  ></strong
+                ></em
+              >、<em
+                ><strong
+                  ><a
+                    href="https://en.wikipedia.org/wiki/B%CA%BCalaj_Chan_K%CA%BCawiil"
+                    target="_blank"
+                    >Bʼalaj Chan Kʼawiil(英文)</a
+                  ></strong
+                ></em
+              >
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
