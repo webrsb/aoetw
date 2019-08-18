@@ -339,6 +339,13 @@
               <p>使用方式:登入訂閱，遊戲重開一次即可</p>
               <h4>常用套件</h4>
               <ul>
+				<li>
+                  <a
+                    href="https://steamcommunity.com/sharedfiles/filedetails/?id=1682487346"
+                    target="_blank"
+                    >羊羊巨大化</a
+                  >
+                </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=176096493"
