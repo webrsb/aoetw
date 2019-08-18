@@ -33,8 +33,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-            >是防禦基地的重要部分之一。箭塔對於玩家防禦敵人的攻擊非常有用。
-            如果玩家選擇龜縮基地爆經濟的話，除了需要<nuxt-link
+            >是防禦基地的重要部分之一。箭塔對於玩家防禦敵人的攻擊非常有用。如果玩家選擇龜縮基地爆經濟的話，除了需要<nuxt-link
               to="/building/Stone_Wall"
               >城牆</nuxt-link
             >和<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -263,7 +262,7 @@
               >:徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >射程+1，箭塔攻擊+2，<nuxt-link to="/civs/Britons"
                 >不列顛</nuxt-link
-              >限定 <br />
+              >限定<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -276,7 +275,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">範圍</td>
+            <td class="tta1">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -376,7 +375,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -406,7 +405,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
-              >:駐紮單位治療速度加快 <br />
+              >:駐紮單位治療速度加快<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -624,8 +623,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"在城堡中心最強大的建築被稱為大型箭塔。
-            如果城牆和外面的塔都已被攻破，這將是防禦的最後堡壘。剩下的後衛撤退到大型箭塔裡做最後的防守。大型箭塔在城堡裡可說是一個小城堡，不過一開始是用來減少開支。雖然比城堡小得多，但可以在更小的範圍內執行相同的防禦功能。除非一支裝備精良的大型軍隊之外，大型箭塔是很難攻破的。"</em
+            >"在城堡中心最強大的建築被稱為大型箭塔。如果城牆和外面的塔都已被攻破，這將是防禦的最後堡壘。剩下的後衛撤退到大型箭塔裡做最後的防守。大型箭塔在城堡裡可說是一個小城堡，不過一開始是用來減少開支。雖然比城堡小得多，但可以在更小的範圍內執行相同的防禦功能。除非一支裝備精良的大型軍隊之外，大型箭塔是很難攻破的。"</em
           >
           <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
         </div>
@@ -693,7 +691,7 @@
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
             <td class="unit4">
-              <abbr title="在5.8版後，箭塔花費25W">50</abbr>
+              <abbr title="在5.8版前，箭塔花費25W">50</abbr>
             </td>
           </tr>
           <tr>

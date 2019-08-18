@@ -27,13 +27,7 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                0<nuxt-link to="/resource/Wood">木材</nuxt-link>，0<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
-                  to="/resource/Stone"
-                  >石礦</nuxt-link
-                >
+                無
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -41,7 +35,7 @@
           </table>
 
           <h3>AI</h3>
-          <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -49,7 +43,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家1</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>（紫色）
               </td>
@@ -58,17 +55,26 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p8">玩家2</div></td>
+              <td class="tc6" width="12%">
+                <div class="p8"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">尼亞尼（橘色）馬利</td>
-              <td class="tc6" width="12%"><div class="p4">玩家4</div></td>
+              <td class="tc6" width="12%">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">康加巴（黃色）馬利</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p2">玩家3</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6">索索偵察兵（紫色）馬利</td>
             </tr>
           </table>
@@ -148,8 +154,7 @@
                       >回血</nuxt-link
                     >，還有3點<nuxt-link to="/armor">遠防</nuxt-link
                     >，所以<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-                    >在短時間內是無法將他殺死的。由於取得城鎮之前敵人不會生兵，
-                    也只有極少量的守軍，所以可以讓你的英雄掩護其他部隊直接衝入敵營，毀掉一定數量的軍事設施即可獲得勝利。
+                    >在短時間內是無法將他殺死的。由於取得城鎮之前敵人不會生兵，也只有極少量的守軍，所以可以讓你的英雄掩護其他部隊直接衝入敵營，毀掉一定數量的軍事設施即可獲得勝利。
                   </li>
                   <li>
                     如果不想要偷吃步的話。探勘完周圍地形，就去接收黃色城鎮（會獲得500木材、700食物、450黃金、50石頭）。
@@ -170,9 +175,7 @@
                     村民生到一半敵軍就來了，此時小心不要讓<nuxt-link
                       to="/building/Town_Center"
                       >城鎮中心</nuxt-link
-                    >剛生的村民把敵軍引過來。只要看到敵軍，立刻就把旗幟插在城鎮中心自己身上，
-                    這樣可以用剛生好的村民射箭弄死那些小兵，等小兵一死，立刻將村民帶出來我們的臨時營地。如果不小心有一兩隻敵軍發現我們的營地，
-                    立刻用你的英雄跟剩下的騎士去弄死他們。
+                    >剛生的村民把敵軍引過來。只要看到敵軍，立刻就把旗幟插在城鎮中心自己身上，這樣可以用剛生好的村民射箭弄死那些小兵，等小兵一死，立刻將村民帶出來我們的臨時營地。如果不小心有一兩隻敵軍發現我們的營地，立刻用你的英雄跟剩下的騎士去弄死他們。
                   </li>
                   <li>
                     點下升級城堡之後，派人去把村莊北方的石礦區占滿，剩下的留兩人種田，其他去村莊北方伐木。敵人會專心對付你的城鎮中心，暫時不會去騷擾你北方的村民。
@@ -191,8 +194,7 @@
                       >衝車</nuxt-link
                     >來撞城。所以要盡速生出幾隻<nuxt-link to="/units/Gbeto"
                       >飛刀女獵手</nuxt-link
-                    >來對付衝車。
-                    （但要小心等衝車靠近再攻擊，否則飛刀很脆弱，被敵人弓箭手弄幾下就掛了）
+                    >來對付衝車。（但要小心等衝車靠近再攻擊，否則飛刀很脆弱，被敵人弓箭手弄幾下就掛了）
                   </li>
                   <li>
                     接下來一直出騎士，掩護你的村民到處採礦，再出一支<nuxt-link

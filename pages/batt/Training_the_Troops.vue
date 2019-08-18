@@ -30,9 +30,9 @@
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
                 600<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，600<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，600<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，600<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／600<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／600<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／600<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -40,7 +40,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -48,7 +48,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6" width="12%">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">塞爾特人（藍色）</td>
             </tr>
           </table>

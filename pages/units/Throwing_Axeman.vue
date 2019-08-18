@@ -164,7 +164,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">範圍</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -211,7 +211,7 @@
               /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
@@ -235,7 +235,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -499,8 +499,7 @@
               >的時代，法蘭克人並沒有在戰鬥中投擲斧頭。
             </li>
             <li>
-              實際上， francisca
-              的命名是因為它被法蘭克斯（其名字的意思是“長矛”，與<nuxt-link
+              實際上，francisca的命名是因為它被法蘭克斯（其名字的意思是“長矛”，與<nuxt-link
                 to="/civs/Slavs"
                 >斯拉夫</nuxt-link
               >教會的“桿子”同源）使用。
@@ -699,7 +698,7 @@
             <td class="unit3">命中率</td>
             <td class="unit4">100%</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">發射速度</td>
             <td class="unit4">7</td>

@@ -294,7 +294,7 @@
           <tr>
             <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link> <br /><nuxt-link
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link><br /><nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
               >

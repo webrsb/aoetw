@@ -39,7 +39,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -47,7 +47,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家1</div></td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Khmer">高棉人</nuxt-link>（水藍）
               </td>
@@ -56,19 +59,28 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家2</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家2
+              </td>
               <td class="tc6">朱羅大軍（綠色）印度</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p8">玩家3</div></td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 單馬令王國（橘色）<nuxt-link to="/civs/Malay">馬來</nuxt-link>
               </td>
-              <td class="tc6"><div class="p1">玩家4</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家4
+              </td>
               <td class="tc6">參佛齊帝國（藍色）馬來</td>
             </tr>
           </table>

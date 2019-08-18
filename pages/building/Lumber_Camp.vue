@@ -172,7 +172,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -278,9 +278,7 @@
             黑暗時代的歐洲大森林是一個重要的自然資源，樹木在伐木場被做成木材使用，人們用木材作為建材和用來取暖。早期的伐木場是高度勞動密集型的。工人將一根<nuxt-link
               to="/resource/Wood"
               >木頭</nuxt-link
-            >立在垂直於地面的坑內。
-            有一個人在地上，一個在坑里，一根長長的鐵鋸被用來將木頭鋸成木板。
-            在中世紀時人類開始利用水或動物驅動鐵鋸，提高了木板的生產效率。
+            >立在垂直於地面的坑內。有一個人在地上，一個在坑里，一根長長的鐵鋸被用來將木頭鋸成木板。在中世紀時人類開始利用水或動物驅動鐵鋸，提高了木板的生產效率。
           </p>
         </div>
       </div>

@@ -16,7 +16,6 @@
         <h2>遊戲者</h2>
         <div class="hrn1"></div>
         <div class="n1">
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -24,7 +23,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>（藍色）
               </td>
@@ -33,18 +35,26 @@
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p6">玩家2</div></td>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">勃根地（紫色）法蘭克</td>
-              <td class="tc6" width="12%"><div class="p2">玩家3</div></td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 英國（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家4</div></td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家4
+              </td>
               <td class="tc6">舒茲伯利（橘色）不列顛</td>
             </tr>
-            <tr></tr>
           </table>
         </div>
       </div>
@@ -367,7 +377,7 @@
             to="/resource/Stone"
             >石頭</nuxt-link
           >和不等的<nuxt-link to="/resource/Wood">木材</nuxt-link
-          >（木材量是根據他們留下多少決定）。在這裡建立你的基地並用城門和城牆封住河流穿越處。
+          >（木材量是根據他們留下多少決定）。在這裡建立你的基地並用城牆和城門封住河流穿越處。
         </li>
         <li>
           現在趕快發展你的經濟體，優先建造<nuxt-link to="/building/House"

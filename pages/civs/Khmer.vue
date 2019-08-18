@@ -149,7 +149,7 @@
                   >房屋</nuxt-link
                 >(每個房舍提供5個駐紮數量)。
               </li>
-              <li><strong>團隊加分</strong>:弩砲攻擊距離 +1。</li>
+              <li><strong>團隊加分</strong>:弩砲射程 +1。</li>
             </ul>
           </div>
         </div>

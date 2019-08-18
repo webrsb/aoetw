@@ -10,8 +10,8 @@
           <p>
             <b>武裝羊駝</b>的外觀與<nuxt-link to="/units/animal/Llama"
               >羊駝</nuxt-link
-            >相似，但體型較小，沒有馬鞍，戴著金色的皇冠，而且有說話的能力。
-            它的移動速度中等（與大多數<nuxt-link to="/units/Infantry_Units"
+            >相似，但體型較小，沒有馬鞍，戴著金色的皇冠，而且有說話的能力。它的移動速度中等（與大多數<nuxt-link
+              to="/units/Infantry_Units"
               >步兵</nuxt-link
             >相當）並使用頭槌攻擊。因為它具有非常高的護甲和<nuxt-link
               to="/elements/Area_of_Effect"
@@ -102,7 +102,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">武裝羊駝</div>
             </td>
           </tr>
@@ -114,7 +114,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 <nuxt-link to="">單位介紹</nuxt-link>
               </div>
@@ -147,7 +147,7 @@
             <td class="unit4">alpaca simulator</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
           </tr>

@@ -101,7 +101,7 @@
             <td class="unit3">攻擊</td>
             <td class="unit4">10(近戰)</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
@@ -112,7 +112,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">遠防</td>
             <td class="unit4">8</td>

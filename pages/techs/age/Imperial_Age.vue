@@ -594,7 +594,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Spies">叛徒</nuxt-link
-                >：在弒君模式下可短暫看見敵對<nuxt-link to="/units/King"
+                >：在弒君模式下可短暫看見敵對<nuxt-link to="/units/edmap/King"
                   >國王</nuxt-link
                 >位置。小地圖上以X顯示。該科技只在弒君模式有。
               </li>
@@ -783,13 +783,10 @@
                 >，<nuxt-link to="/civs/Franks">法國</nuxt-link>，<nuxt-link
                   to="/civs/Spanish"
                   >西班牙</nuxt-link
-                >和斯堪的納維亞的國家領導人正在用封建制度取代封建制度。
-                貿易蓬勃發展，城市規模和實力不斷增長。
-                文藝復興正在意大利進行並遍布歐洲。 技術和學習超過了古代世界。
-                槍支和其他創新結束了<nuxt-link to="/units/Knight"
+                >和斯堪的納維亞的國家領導人正在用封建制度取代封建制度。貿易蓬勃發展，城市規模和實力不斷增長。文藝復興正在意大利進行並遍布歐洲。技術和學習超過了古代世界。槍支和其他創新結束了<nuxt-link
+                  to="/units/Knight"
                   >騎士</nuxt-link
-                >和城堡的軍事統治。
-                中世紀的這個末期可能會出現幾個重要事件，包括<nuxt-link
+                >和城堡的軍事統治。中世紀的這個末期可能會出現幾個重要事件，包括<nuxt-link
                   to="/civs/Turks"
                   >土耳其</nuxt-link
                 >奪取君士坦丁堡，發現新大陸，海上與亞洲的貿易聯繫以及馬丁·路德的宗教改革。
@@ -843,19 +840,19 @@
           <tr>
             <td class="unit3">所需建築</td>
             <td class="unit4">
-              下面任兩項： <br />
+              下面任兩項：<br />
               <img
                 class="gg"
                 src="~assets/Monasteryicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Monastery">修道院</nuxt-link> <br />
+              /><nuxt-link to="/building/Monastery">修道院</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Universityicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/University">學院</nuxt-link> <br />
+              /><nuxt-link to="/building/University">學院</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Siegeworkshopicon.png"
@@ -864,7 +861,7 @@
               /><nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >
-              <br />或是直接蓋一座 <br />
+              <br />或是直接蓋一座<br />
               <img
                 class="gg"
                 src="~assets/Castleicon.png"

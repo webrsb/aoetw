@@ -50,8 +50,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            Madrasah的意思是阿拉伯語中的“學校”，寫成“مدرسة”。
-            在就學之前，阿拉伯人會在清真寺和<nuxt-link to="/building/Monastery"
+            Madrasah的意思是阿拉伯語中的“學校”，寫成“مدرسة”。在就學之前，阿拉伯人會在清真寺和<nuxt-link
+              to="/building/Monastery"
               >修道院</nuxt-link
             >學習關伊斯蘭教以及阿拉伯語的知識。儘管升級頭銜與目的之間缺乏聯繫，但也可以解釋為升級成為伊瑪姆的僧侶可以扮演老師的角色。
           </p>

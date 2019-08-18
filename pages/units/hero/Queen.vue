@@ -12,7 +12,7 @@
               >世紀帝國II：失落的帝國</nuxt-link
             >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，她只能在<nuxt-link to="/batt">戰役</nuxt-link
-            >編輯器中使用。她與<nuxt-link to="/units/King">國王</nuxt-link
+            >編輯器中使用。她與<nuxt-link to="/units/edmap/King">國王</nuxt-link
             >一樣不能攻擊但有很快的移動速度和良好的<nuxt-link
               to="/elements/Line_of_Sight"
               >視野</nuxt-link
@@ -77,7 +77,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>

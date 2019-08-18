@@ -10,7 +10,7 @@
           <p>
             <b>舊世界</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeida"
-              >法蘭西斯科·阿爾梅達</nuxt-link
+              >法蘭西斯科·德·阿爾梅達</nuxt-link
             >》劇情<nuxt-link to="/batt">戰役</nuxt-link
             >中的第一關（另譯前朝舊夢）。
           </p>
@@ -20,9 +20,7 @@
             >的阿方索五世結婚，試圖團結卡西提爾和葡萄牙王國。
           </p>
           <p>
-            然而，女王胡安娜的姨媽，伊莎貝拉為自己爭奪卡西提爾的王座，
-            她的丈夫斐迪南二世與阿拉貢國王已將他的軍隊帶入卡西提爾。
-            葡萄牙和阿拉貢的軍隊在托羅市會面，決定卡西提爾的命運。
+            然而，女王胡安娜的姨媽，伊莎貝拉為自己爭奪卡西提爾的王座，她的丈夫斐迪南二世與阿拉貢國王已將他的軍隊帶入卡西提爾。葡萄牙和阿拉貢的軍隊在托羅市會面，決定卡西提爾的命運。
           </p>
         </div>
         <h2>玩家</h2>
@@ -37,13 +35,7 @@
               </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
-                0<nuxt-link to="/resource/Wood">木頭</nuxt-link>，0<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
-                  to="/resource/Stone"
-                  >石頭</nuxt-link
-                >
+                無
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">14/0</td>
@@ -60,7 +52,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1">玩家1</div>
+                <div class="p1"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="4">主角（藍色）葡萄牙</td>
             </tr>
@@ -69,14 +62,16 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p2">玩家2</div>
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6" width="35%">
                 <nuxt-link to="/units/hero/King_Alfonso">阿方索國王</nuxt-link
                 >大軍（紅色）葡萄牙
               </td>
               <td class="tc6">
-                <div class="p3">玩家3</div>
+                <div class="p3"></div>
+                玩家3
               </td>
               <td class="tc6">
                 托洛城（綠色）<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
@@ -84,17 +79,20 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p6">玩家4</div>
+                <div class="p6"></div>
+                玩家4
               </td>
               <td class="tc6" width="35%">胡安勢力（紫色）西班牙</td>
               <td class="tc6">
-                <div class="p5">玩家5</div>
+                <div class="p5"></div>
+                玩家5
               </td>
               <td class="tc6">西班牙村莊（水藍色）西班牙</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p7">玩家8</div>
+                <div class="p7"></div>
+                玩家8
               </td>
               <td class="tc6" width="35%">伊莎貝拉勢力（灰色）西班牙</td>
             </tr>
@@ -103,11 +101,13 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p4">玩家6</div>
+                <div class="p4"></div>
+                玩家6
               </td>
               <td class="tc6" width="35%">阿拉貢大軍（黃色）西班牙</td>
               <td class="tc6" width="15%">
-                <div class="p4">玩家7</div>
+                <div class="p4"></div>
+                玩家7
               </td>
               <td class="tc6" width="35%">阿拉貢大軍（黃色）西班牙</td>
             </tr>
@@ -381,7 +381,7 @@
             <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </td>
           </tr>

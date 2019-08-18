@@ -122,9 +122,9 @@
                 >重型神風船</nuxt-link
               >
               <br />
-              <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>•
+              <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>•
               <nuxt-link to="/units/Elite_Cannon_Galleon"
-                >精銳火炮戰船</nuxt-link
+                >精銳火砲戰船</nuxt-link
               >
               <br />
               <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>•

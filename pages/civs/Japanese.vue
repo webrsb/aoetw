@@ -325,10 +325,10 @@
               </td>
               <td class="tta3">
                 日本<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link>(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
                 <br />
                 日本侵略者(敵對)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -342,19 +342,19 @@
               </td>
               <td class="tta3">
                 玩家
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />
                 大阪(敵對)
-                <div class="p2"></div>
+                <div class="p2" style="height: 23px"></div>
                 <br />
                 京都(敵對)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
                 <br /><nuxt-link to="/units/hero/Nobunaga">織田信長</nuxt-link
                 >(友軍)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
                 <br />
                 靜岡(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -367,29 +367,29 @@
                 <span class="fas fa-check" style="color: green;"></span>
               </td>
               <td class="tta3">
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 玩家
                 <br />
                 木曾義仲(友軍)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
                 <br />
                 北条式(友軍)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
                 <br />
                 平式軍閥(敵對)
-                <div class="p2"></div>
+                <div class="p2" style="height: 23px"></div>
                 <br />
                 京都(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />
                 平家軍(敵對)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
                 <br />
                 平式守衛(敵對)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
                 <br />
                 當地人(友軍)
-                <div class="p7"></div>
+                <div class="p7" style="height: 23px"></div>
               </td>
             </tr>
           </table>
@@ -440,7 +440,7 @@
               </li>
               <li>
                 日本的語音似乎比其他的種族多一點(僧侶與<nuxt-link
-                  to="/units/King"
+                  to="/units/edmap/King"
                   >國王</nuxt-link
                 >)。
               </li>

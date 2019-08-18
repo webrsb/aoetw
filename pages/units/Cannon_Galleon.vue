@@ -158,7 +158,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">範圍</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -228,7 +228,7 @@
                 src="~assets/Faith.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -918,11 +918,11 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3">射程</td>
             <td class="unit4">13</td>
           </tr>
           <tr>
-            <td class="unit3">最小攻擊距離</td>
+            <td class="unit3">最小射程</td>
             <td class="unit4">3</td>
           </tr>
           <tr>

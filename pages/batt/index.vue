@@ -37,6 +37,11 @@
                   ><img src="~assets/RajaIcon.png" />王者崛起</nuxt-link
                 ><span class="arror">➠</span>
               </p>
+              <p>
+                <nuxt-link to="/games/de"
+                  ><img src="~assets/deicon.png" />決定版</nuxt-link
+                ><span class="arror">➠</span>
+              </p>
             </div>
             <div class="toc" ref="shadow">
               <p>
@@ -72,7 +77,7 @@
                 <nuxt-link to="#a17">【塔里克·伊本·齊亞德】</nuxt-link
                 >、<nuxt-link to="#a18">【松迪亞塔】</nuxt-link>、<nuxt-link
                   to="#a19"
-                  >【法蘭西斯科·阿爾梅達】</nuxt-link
+                  >【法蘭西斯科·德·阿爾梅達】</nuxt-link
                 >、<nuxt-link to="#a20">【優娣忒】</nuxt-link>
               </p>
               <p>
@@ -83,6 +88,9 @@
                   to="#a24"
                   >【黎利】</nuxt-link
                 >
+              </p>
+              <p>
+                <nuxt-link to="#a25">【最後的可汗】</nuxt-link>
               </p>
             </div>
           </div>
@@ -1322,7 +1330,7 @@
                   <div class="unititle">
                     <div id="a19">
                       <nuxt-link to="/batt/Francisco_de_Almeida"
-                        >法蘭西斯科·阿爾梅達</nuxt-link
+                        >法蘭西斯科·德·阿爾梅達</nuxt-link
                       >
                     </div>
                   </div>
@@ -1409,7 +1417,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>
+                    <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1442,7 +1450,7 @@
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
                     <div id="a21">
-                      <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+                      <nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link>
                     </div>
                   </div>
                 </td>
@@ -1692,6 +1700,32 @@
                     <nuxt-link to="/batt/The_Final_Fortress"
                       >決戰東都</nuxt-link
                     >
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <div class="hrn1"></div>
+
+        <h3><strong>決定版戰役</strong></h3>
+        <div class="row">
+          <div class="col-md-4" style="margin-top: 10px;">
+            <table class="table-bordered" width="100%">
+              <tr>
+                <td class="unit" style="background-color: gray">
+                  <div class="unititle">
+                    <div id="a25">
+                      <nuxt-link to="/batt/">最後的可汗</nuxt-link>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    待推出
                   </div>
                 </td>
               </tr>

@@ -31,9 +31,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 200<nuxt-link to="/resource/Wood">木頭</nuxt-link
-                >，400<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，200<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／400<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -48,7 +48,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家1</div></td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
               </td>
@@ -56,17 +59,26 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p3" width="12%">玩家2</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">麥凱特人（綠色）蒙古</td>
-              <td class="tc6"><div class="p2" width="12%">玩家3</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 俄羅斯人（紅色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家4</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 瓜利密（黃色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
               </td>
@@ -94,8 +106,7 @@
             <ol>
               <li>在北方，部署書部台的牧民去征服俄羅斯。</li>
               <li>
-                在南方，瓜利密<nuxt-link to="/units/King">國王</nuxt-link
-                >正期待著貢品，可是他將會察覺有刺客埋伏在我們的商隊裡面。所以我們一定要在他與我們決裂之前，儘快把車隊開到他那裡去。
+                在南方，瓜利密國王正期待著貢品，可是他將會察覺有刺客埋伏在我們的商隊裡面。所以我們一定要在他與我們決裂之前，儘快把車隊開到他那裡去。
               </li>
               <li>打敗瓜利密帝國。</li>
             </ol>

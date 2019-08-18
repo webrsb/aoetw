@@ -4,7 +4,11 @@
     <h3></h3>
     <div class="row">
       <div class="col-md-12">
-        <p>遊戲中共有31個<b>文明</b></p>
+        <p>
+          遊戲中共有31個<b>文明</b>。相關頁面：<nuxt-link to="/civs/bestciv"
+            >文明強弱分析</nuxt-link
+          >、<nuxt-link to="/civs/aoestats">文明勝率</nuxt-link>
+        </p>
       </div>
     </div>
     <div class="row">
@@ -179,6 +183,32 @@
                   <li><nuxt-link to="/civs/Vietnamese">越南</nuxt-link></li>
                   <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link></li>
                   <li><nuxt-link to="/civs/Khmer">高棉</nuxt-link></li>
+                </ul>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-md-3">
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unitc">
+              <div class="unititle">
+                <nuxt-link to="/games/de"
+                  ><img src="~assets/deicon.png" />決定版</nuxt-link
+                >
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <div class="unitcontent">
+                東歐
+                <ul>
+                  <li>保加利亞</li>
+                  <li>立陶宛</li>
+                  <li>庫曼</li>
+                  <li>韃靼</li>
                 </ul>
               </div>
             </td>

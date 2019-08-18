@@ -36,18 +36,14 @@
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </li>
             <li>
-              起始資源：<nuxt-link to="/resource/Wood">木頭</nuxt-link
-              >:0、<nuxt-link to="/resource/Food">食物</nuxt-link>:0、<nuxt-link
-                to="/resource/Gold"
-                >黃金</nuxt-link
-              >:0、<nuxt-link to="/resource/Stone">石頭</nuxt-link>:0
+              起始資源：無
             </li>
             <li>人口上限：/</li>
             <li>
               開場擁有單位：
               <ul>
                 <li>
-                  安德里亞斯.諾蒂卡斯、8位<nuxt-link to="/units/Man-at-Arms"
+                  安德里亞斯·諾蒂卡斯、8位<nuxt-link to="/units/Man-at-Arms"
                     >裝甲步兵</nuxt-link
                   >、4位<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
                   >、5位<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>。
@@ -64,31 +60,49 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">拜占庭（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家2</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6">巴里（紫色）義大利</td>
-              <td class="tc6"><div class="p2">玩家3</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6">巴里（紅色）拜占庭</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p7">玩家4</div></td>
+              <td class="tc6">
+                <div class="p7"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 諾曼人（灰色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
-              <td class="tc6"><div class="p3">玩家5</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家5
+              </td>
               <td class="tc6">諾曼人（綠色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家6</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家6
+              </td>
               <td class="tc6">諾曼人（黃色）法蘭克</td>
             </tr>
           </table>
@@ -297,8 +311,7 @@
               <li>
                 往諾曼人教堂的北部路上，有位<nuxt-link to="/units/hero"
                   >英雄</nuxt-link
-                >叫555<nuxt-link to="/units/King">國王</nuxt-link
-                >，但對劇情本身無影響與幫助。
+                >叫555國王，但對劇情本身無影響與幫助。
               </li>
             </ul>
           </div>
@@ -343,7 +356,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4">藍色</td>
+            <td class="unit4">
+              <div class="p1"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -355,7 +371,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>戰役第三章第三
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>戰役第三章之三
             </td>
           </tr>
           <tr>

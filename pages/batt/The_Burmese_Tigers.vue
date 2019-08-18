@@ -40,7 +40,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -48,7 +48,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家1</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>（綠色）
               </td>
@@ -57,7 +60,10 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p5">玩家5</div></td>
+              <td class="tc6" width="12%">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6" width="38%">
                 <nuxt-link to="/civs/Portuguese">葡萄牙人</nuxt-link
                 >（水藍）<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
@@ -66,23 +72,35 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p1">玩家2</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家2
+              </td>
               <td class="tc6">
                 卑謬國（藍色）<nuxt-link to="/civs/Indians">印度</nuxt-link>
               </td>
-              <td class="tc6" width="12%"><div class="p2">玩家3</div></td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 白古國（紅色）<nuxt-link to="/civs/Khmer">高棉</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家4</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 撣族人（黃色）<nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
-              <td class="tc6"><div class="p2">玩家6</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家6
+              </td>
               <td class="tc6">白古國（紅色）高棉</td>
             </tr>
           </table>

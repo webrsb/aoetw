@@ -52,9 +52,7 @@
                 valign="middle"
                 class="unit"
               >
-                <center>
-                  <div id="A"><strong>狩獵</strong></div>
-                </center>
+                <div id="A"><strong>狩獵</strong></div>
               </td>
             </tr>
             <tr>
@@ -65,9 +63,7 @@
                 bgcolor="#E0E0E0"
               >
                 <div class="unititle">
-                  <center>
-                    <img src="img/sheep.png" alt="" width="45" height="45" />
-                  </center>
+                  <img src="~assets/sheep.png" alt="" width="45" height="45" />
                 </div>
               </td>
               <td
@@ -97,9 +93,7 @@
               </td>
               <td style="border: 1px solid #495057;" width="3%" rowspan="4">
                 <div class="unititle">
-                  <center>
-                    <img src="img/goat.png" alt="" width="45" height="45" />
-                  </center>
+                  <img src="~assets/goat.png" alt="" width="45" height="45" />
                 </div>
               </td>
               <td style="border: 1px solid #495057;" width="15%">
@@ -151,7 +145,12 @@
               <td style="border: 1px solid #495057;" width="3%" rowspan="4">
                 <div class="unititle">
                   <center>
-                    <img src="img/Turkey.jpg" alt="" width="45" height="45" />
+                    <img
+                      src="~assets/Turkey.jpg"
+                      alt=""
+                      width="45"
+                      height="45"
+                    />
                   </center>
                 </div>
               </td>
@@ -180,7 +179,12 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/Llama.png" alt="" width="45" height="45" />
+                    <img
+                      src="~assets/Llama.png"
+                      alt=""
+                      width="45"
+                      height="45"
+                    />
                   </center>
                 </div>
               </td>
@@ -189,7 +193,10 @@
                 width="15%"
                 bgcolor="#E0E0E0"
               >
-                <strong>羊駝（Llama）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Llama">羊駝</nuxt-link
+                  >（Llama）</strong
+                >
               </td>
               <td
                 style="border: 1px solid #495057;"
@@ -252,7 +259,7 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/cow.png" alt="" width="45" height="45" />
+                    <img src="~assets/cow.png" alt="" width="45" height="45" />
                   </center>
                 </div>
               </td>
@@ -261,7 +268,10 @@
                 width="15%"
                 bgcolor="#E0E0E0"
               >
-                <strong>牛（Cow）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Cow">乳牛</nuxt-link
+                  >（Cow）</strong
+                >
               </td>
               <td
                 style="border: 1px solid #495057;"
@@ -280,7 +290,7 @@
                 <div class="unititle">
                   <center>
                     <img
-                      src="img/Water_Buffalo.png"
+                      src="~assets/Water_Buffalo.png"
                       alt=""
                       width="45"
                       height="45"
@@ -337,12 +347,15 @@
               <td style="border: 1px solid #495057;" width="3%" rowspan="4">
                 <div class="unititle">
                   <center>
-                    <img src="img/deer.jpg" alt="" width="45" height="45" />
+                    <img src="~assets/deer.jpg" alt="" width="45" height="45" />
                   </center>
                 </div>
               </td>
               <td style="border: 1px solid #495057;" width="15%">
-                <strong>鹿（Deer）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Deer">鹿</nuxt-link
+                  >（Deer）</strong
+                >
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
@@ -360,7 +373,12 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/ostrich.png" alt="" width="45" height="45" />
+                    <img
+                      src="~assets/Ostrich.png"
+                      alt=""
+                      width="45"
+                      height="45"
+                    />
                   </center>
                 </div>
               </td>
@@ -430,7 +448,12 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/zebra.png" alt="" width="46" height="45" />
+                    <img
+                      src="~assets/zebra.png"
+                      alt=""
+                      width="46"
+                      height="45"
+                    />
                   </center>
                 </div>
               </td>
@@ -456,7 +479,7 @@
                 <div class="unititle">
                   <center>
                     <img
-                      src="img/wild_boar.jpg"
+                      src="~assets/wild_boar.jpg"
                       alt=""
                       width="45"
                       height="45"
@@ -504,12 +527,20 @@
               <td style="border: 1px solid #495057;" rowspan="4">
                 <div class="unititle">
                   <center>
-                    <img src="img/Elephant.png" alt="" width="45" height="45" />
+                    <img
+                      src="~assets/Elephant.png"
+                      alt=""
+                      width="45"
+                      height="45"
+                    />
                   </center>
                 </div>
               </td>
               <td style="border: 1px solid #495057;">
-                <strong>大象（Elephant）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Elephant">象</nuxt-link
+                  >（Elephant）</strong
+                >
               </td>
               <td style="border: 1px solid #495057;" rowspan="4">
                 <span class="unititle"
@@ -528,7 +559,12 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/rhino.png" alt="" width="45" height="45" />
+                    <img
+                      src="~assets/rhino.png"
+                      alt=""
+                      width="45"
+                      height="45"
+                    />
                   </center>
                 </div>
               </td>
@@ -602,7 +638,7 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/Berry_Bush.png" width="220" alt="" />
+                    <img src="~assets/Berry_Bush.png" width="220" alt="" />
                   </center>
                 </div>
               </td>
@@ -620,7 +656,7 @@
                 colspan="4"
                 bgcolor="#E0E0E0"
               >
-                <p class="unititle">
+                <p>
                   一般在<nuxt-link to="/building/Town_Center"
                     >城鎮中心</nuxt-link
                   >附近可以找到。在大多數地圖中，地圖會有數個漿果灌木叢。<br />
@@ -632,7 +668,7 @@
               <td style="border: 1px solid #495057;">
                 <div class="unititle">
                   <center>
-                    <img src="img/Fruit_Bushes.png" width="220" alt="" />
+                    <img src="~assets/Fruit_Bushes.png" width="220" alt="" />
                   </center>
                 </div>
               </td>
@@ -641,12 +677,11 @@
                 valign="middle"
                 style="border: 1px solid #495057;"
               >
-                <strong>水果灌木叢（Fruit Bushes）<br /> </strong
+                <strong>水果灌木叢（Fruit Bushes）<br /></strong
                 >最大收穫量：125食物
               </td>
               <td style="border: 1px solid #495057;" colspan="4">
-                <span class="unititle"></span>在<nuxt-link to="/games/ak"
-                  >非洲王國</nuxt-link
+                在<nuxt-link to="/games/ak">非洲王國</nuxt-link
                 >版本中，新增了水果灌木叢。
               </td>
             </tr>
@@ -715,7 +750,7 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/farmland.png" width="220" alt="" />
+                    <img src="~assets/farmland.png" width="220" alt="" />
                   </center>
                 </div>
               </td>
@@ -726,7 +761,7 @@
                 style="border: 1px solid #495057;"
               >
                 <strong>農田</strong
-                ><strong>（Farmland）<br /> </strong>建置消耗：60<nuxt-link
+                ><strong>（Farmland）<br /></strong>建置消耗：60<nuxt-link
                   to="/resource/Wood"
                   >木頭</nuxt-link
                 ><br />
@@ -737,7 +772,7 @@
                 colspan="4"
                 bgcolor="#E0E0E0"
               >
-                <p class="unititle">
+                <p>
                   <br />
                   <nuxt-link to="/building/Farm">農田</nuxt-link
                   >可以提供穩定的食物，放置位置由玩家決定，所以易於收集且安全。<br />
@@ -780,7 +815,7 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/Dock_work.png" width="220" alt="" />
+                    <img src="~assets/Dock_work.png" width="220" alt="" />
                   </center>
                 </div>
               </td>
@@ -789,7 +824,7 @@
                 width="25%"
                 bgcolor="#E0E0E0"
               >
-                <strong>沿海魚群<br /> </strong>漁獲量：200食物
+                <strong>沿海魚群<br /></strong>漁獲量：200食物
               </td>
               <td
                 style="border: 1px solid #495057;"
@@ -797,7 +832,7 @@
                 rowspan="2"
                 bgcolor="#E0E0E0"
               >
-                <p class="unititle">
+                <p>
                   <br />
                   村民可以在沿岸捕魚（資源僅能收進城鎮中心及磨坊，無法收進<nuxt-link
                     to="/building/Dock"
@@ -815,7 +850,7 @@
                     >流刺網</nuxt-link
                   >技術，研發後漁船的工作速度提高25%。
                 </p>
-                <p class="unititle">
+                <p>
                   通常情況下，有捕魚相關優勢加成或缺乏農田輪作的文明，才優先考慮利用漁船進行食物收集。
                 </p>
               </td>
@@ -826,7 +861,7 @@
                 bgcolor="#E0E0E0"
                 style="border: 1px solid #495057;"
               >
-                <strong>非沿海魚群<br /> </strong>漁獲量：225~350食物
+                <strong>非沿海魚群<br /></strong>漁獲量：225~350食物
               </td>
             </tr>
             <tr>
@@ -904,7 +939,7 @@
               >
                 <div class="unititle">
                   <center>
-                    <img src="img/Fish_Traps_work.png" width="220" alt="" />
+                    <img src="~assets/Fish_Traps_work.png" width="220" alt="" />
                   </center>
                 </div>
               </td>
@@ -922,8 +957,7 @@
                 colspan="4"
                 bgcolor="#E0E0E0"
               >
-                <p class="unititle">
-                  <br />
+                <p>
                   一旦海洋魚類食物耗盡，玩家必須建造一個新的魚類陷阱--<nuxt-link
                     to="/building/Fish_Trap"
                     >漁網</nuxt-link
@@ -970,7 +1004,6 @@
                   >
                 </p>
               </td>
-              <td width="2%" style="border: 1px solid #FFFFFF;">&nbsp;</td>
               <td width="42%" style="border: 1px solid #FFFFFF;">
                 <p align="right">（此頁面由小蛇協助編輯）</p>
               </td>

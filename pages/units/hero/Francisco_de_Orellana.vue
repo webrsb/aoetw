@@ -14,9 +14,9 @@
             >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，他是以一位<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             >探險家和征服者為基礎的，該名探險家以在亞馬遜河上航行並在厄瓜多爾建立定居點而聞名。在<nuxt-link
-              to="/batt"
-              >戰役</nuxt-link
-            >"黃金國"系列中法蘭切斯科·德·奧雷亞納都是主角，他擁有征服者的外觀，並受所有<nuxt-link
+              to="/batt/El_Doradoa"
+              >黃金國戰役</nuxt-link
+            >中法蘭切斯科·德·奧雷亞納都是主角，他擁有征服者的外觀，並受所有<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
             >和火藥<nuxt-link to="/techs">科技</nuxt-link
@@ -121,7 +121,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>

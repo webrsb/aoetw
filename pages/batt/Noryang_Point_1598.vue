@@ -11,8 +11,7 @@
             萬曆朝鮮戰爭的一部分。1598年，完成統一的豐臣秀吉糾集家臣部將入侵朝鮮半島。朝鮮王國向宗主國大明求援，兩國水師共同迎擊<nuxt-link
               to="/civs/Japanese"
               >日本</nuxt-link
-            >海軍。
-            大明水師和朝鮮海軍分別由鄧子龍與李舜臣率領，在露梁海域擊潰日本海軍，切斷了入侵部隊的增補，並成功瓦解日本的侵略。然而兩位主帥都在戰鬥中犧牲。
+            >海軍。大明水師和朝鮮海軍分別由鄧子龍與李舜臣率領，在露梁海域擊潰日本海軍，切斷了入侵部隊的增補，並成功瓦解日本的侵略。然而兩位主帥都在戰鬥中犧牲。
           </p>
           <p>
             露梁海戰是一場於1598年12月16日在朝鮮東南外海露梁海域展開的海戰。參戰雙方為<nuxt-link
@@ -36,11 +35,10 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Wood">木頭</nuxt-link>1,000，<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >1,000，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >1,000，<nuxt-link to="/resource/Stone">石頭</nuxt-link>1,000
+                1,000<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／1,000<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -55,7 +53,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>（紅色）
               </td>
@@ -64,22 +65,33 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p8">玩家3</div></td>
+              <td class="tc6" width="12%">
+                <div class="p8"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">中國鄧子龍將軍（橘色）中國</td>
-              <td class="tc6" width="12%"><div class="p3">玩家4</div></td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">李舜臣（綠色）韓國</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家2</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家2
+              </td>
               <td class="tc6">日本海軍（黃色）日本</td>
-              <td class="tc6"><div class="p6">玩家5</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家5
+              </td>
               <td class="tc6">日本侵略者（紫色）日本</td>
             </tr>
-            <tr></tr>
           </table>
 
           <br />

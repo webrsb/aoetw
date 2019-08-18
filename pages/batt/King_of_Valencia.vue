@@ -25,10 +25,9 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Food">食物</nuxt-link>300，<nuxt-link
-                  to="/resource/Gold"
-                  >黃金</nuxt-link
-                >300，<nuxt-link to="/resource/Stone">石頭</nuxt-link>400
+                300<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／300<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／400<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -43,7 +42,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>（紅色）
               </td>
@@ -52,29 +54,40 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p8">玩家2</div></td>
+              <td class="tc6" width="12%">
+                <div class="p8"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">
                 雷利達（橘色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
               </td>
-              <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 蒂里亞（綠色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p4">玩家5</div></td>
+              <td class="tc6" width="12%">
+                <div class="p4"></div>
+                玩家5
+              </td>
               <td class="tc6" width="38%">瓦倫西亞（黃色）西班牙</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家2</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6" colspan="3">
                 貝倫格爾（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
             </tr>
-            <tr></tr>
           </table>
 
           <br />

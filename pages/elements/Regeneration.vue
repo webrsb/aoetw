@@ -38,6 +38,19 @@
             >）即可獲得回血能力。
           </p>
           <h4>再生率</h4>
+          <p>
+            受傷單位進駐建築物內部後會慢慢恢復HP，箭塔、城鎮中心每分鐘治療6的<nuxt-link
+              to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >，而<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >治療速度則是每分鐘治療12的生命值，研發<nuxt-link
+              to="/techs/Herbal_Medicine"
+              >草藥學</nuxt-link
+            >技術後可更進一步提高<nuxt-link to="/elements/Regeneration"
+              >回血</nuxt-link
+            >率。箭塔、城鎮中心變成每分鐘回復24HP，城堡則是每分鐘回復48HP。
+          </p>
+          <p>僧侶回復友方生命的速度是每分鐘150HP。</p>
           <ul>
             <li>
               <nuxt-link to="/units/hero">英雄</nuxt-link>：每分鐘回血30HP
@@ -54,7 +67,7 @@
                 >駱駝騎兵</nuxt-link
               >每分鐘回血15HP、<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >每4秒回血1HP（需先研發<nuxt-link to="/techs/Maghrabi_Camels"
+              >每分鐘回血15HP（需先研發<nuxt-link to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
               >科技）
             </li>
@@ -63,16 +76,13 @@
         <table class="table-bordered" border="1" width="100%">
           <tr>
             <td
-              style="border: 1px solid #495057;background: #FF6633;color: #FFFFFF;"
-              height="40"
+              style="border: 1px solid #495057;background: #FF6633;color: #FFFFFF; vertical-align: middle"
               colspan="7"
-              align="center"
-              valign="middle"
               class="unit"
             >
-              <center>
-                <div id="C"><strong>可生產的回血單位</strong></div>
-              </center>
+              <div style="text-align: center">
+                <strong>可生產的回血單位</strong>
+              </div>
             </td>
           </tr>
           <tr>
@@ -82,9 +92,9 @@
               bgcolor="#FFFFFF"
             >
               <div class="unititle">
-                <center>
-                  <img src="~assets/Berserk.png" width="250" height="250" />
-                </center>
+                <gallery>
+                  <img src="~assets/Berserk.png" width="100%" class="imgn" />
+                </gallery>
               </div>
             </td>
             <td
@@ -93,9 +103,9 @@
               bgcolor="#FFFFFF"
             >
               <div class="unititle">
-                <center>
-                  <img src="~assets/Camel.png" width="250" height="250" />
-                </center>
+                <gallery>
+                  <img src="~assets/Camel.png" width="100%" class="imgn" />
+                </gallery>
               </div>
             </td>
             <td
@@ -104,13 +114,13 @@
               bgcolor="#FFFFFF"
             >
               <div class="unititle">
-                <center>
+                <gallery>
                   <img
                     src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
-                    width="250"
-                    height="250"
+                    width="100%"
+                    class="imgn"
                   />
-                </center>
+                </gallery>
               </div>
             </td>
           </tr>
@@ -158,7 +168,7 @@
             >
               <div class="unititle">
                 <center>
-                  <nuxt-link to="/civs/Vikings">維京</nuxt-link>文明 <br />
+                  <nuxt-link to="/civs/Vikings">維京</nuxt-link>文明<br />
                   ＊研發<nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link
                   >科技→回血量提升
                 </center>
@@ -200,7 +210,7 @@
 </template>
 <script>
 export default {
-  layout: 'foot',
+  layout: 'allen',
   components: {}
 }
 </script>

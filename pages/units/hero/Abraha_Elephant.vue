@@ -64,7 +64,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">騎兵 <br />英雄</td>
+            <td class="unit4">騎兵<br />英雄</td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
@@ -102,19 +102,19 @@
             <td class="unit3">波及範圍</td>
             <td class="unit4">0.5</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
             </td>
             <td class="unit4">2.03</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>

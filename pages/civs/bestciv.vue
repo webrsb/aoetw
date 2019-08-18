@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>文明強弱概述</h1>
+        <h1>文明強弱分析</h1>
         <div class="hrn1"></div>
       </div>
       <div class="spw">

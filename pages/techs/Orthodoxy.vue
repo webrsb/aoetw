@@ -26,8 +26,9 @@
               >和<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>，<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
-              >水平在中等之上。隨著東正教的研發斯拉夫人在遊戲中有最好和最耐用的僧侶之一，因為有裝甲的保護，可讓僧侶支援前線和承受敵人的攻擊一小段時間。
-              這很重要，因為<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+              >水平在中等之上。隨著東正教的研發斯拉夫人在遊戲中有最好和最耐用的僧侶之一，因為有裝甲的保護，可讓僧侶支援前線和承受敵人的攻擊一小段時間。這很重要，因為<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
               >軍隊的三個核心部隊都是近戰部隊（<nuxt-link to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
               >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link

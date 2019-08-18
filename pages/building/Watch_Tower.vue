@@ -178,7 +178,7 @@
               >:徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >射程+1，箭塔攻擊+2，<nuxt-link to="/civs/Britons"
                 >不列顛</nuxt-link
-              >限定 <br />
+              >限定<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -191,7 +191,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">範圍</td>
+            <td class="tta1">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -289,7 +289,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -319,7 +319,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
-              >:駐紮單位治療速度加快 <br />
+              >:駐紮單位治療速度加快<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -598,7 +598,7 @@
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
             <td class="unit4">
-              <abbr title="在5.8版後，箭塔花費25W">50</abbr>
+              <abbr title="在5.8版前，箭塔花費25W">50</abbr>
             </td>
           </tr>
           <tr>

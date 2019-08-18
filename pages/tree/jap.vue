@@ -102,7 +102,7 @@
               <div>
                 <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i> <br />
+              <i class="fas fa-arrow-down"></i><br />
               <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
               <div><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link></div>
             </td>
@@ -341,7 +341,7 @@
             <td class="t19 trm">
               <img class="gg" src="~assets/CavalierIcon.jpg" />
               <div><nuxt-link to="/units/Cavalier">騎兵</nuxt-link></div>
-              <i class="fas fa-arrow-down"></i> <br /><img
+              <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
                 src="~assets/PaladinIcon.jpg"
               />
@@ -354,7 +354,7 @@
               <div>
                 <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i> <br /><img
+              <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
                 src="~assets/ImperialCamelIcon.jpg"
               />
@@ -447,7 +447,7 @@
               <div>
                 <nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i> <br /><img
+              <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
                 src="~assets/SiegeRamIcon.jpg"
                 width="30"
@@ -462,7 +462,7 @@
             <td class="t23 trm">
               <img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt="" />
               <div><nuxt-link to="/units/Onager">中型投石車</nuxt-link></div>
-              <i class="fas fa-arrow-down"></i> <br /><img
+              <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
                 src="~assets/SiegeOnagerIcon.jpg"
                 width="30"
@@ -1005,7 +1005,7 @@
               <div>
                 <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i> <br /><img
+              <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
                 src="~assets/CannonGalleonIcon.jpg"
               />
@@ -1398,7 +1398,7 @@
             <td class="t11 trm">
               <img class="gg" src="~assets/Chemistry.jpg" alt="" />
               <div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div>
-              <i class="fas fa-arrow-down"></i> <br /><img
+              <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
                 src="~assets/Bombard-tower-research.jpg"
                 alt=""

@@ -32,7 +32,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -40,7 +40,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Goths">哥德人</nuxt-link>（藍色）
               </td>
@@ -49,27 +52,42 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="15%"><div class="p2">玩家2</div></td>
+              <td class="tc6" width="15%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="35%">
                 羅馬（紅色）<nuxt-link to="/civs/Italians">義大利</nuxt-link>
               </td>
-              <td class="tc6" width="15%"><div class="p3">玩家3</div></td>
+              <td class="tc6" width="15%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="35%">
                 哥德人（綠色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="15%"><div class="p5">玩家5</div></td>
+              <td class="tc6" width="15%">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6" width="35%">阿陶爾夫（水藍色）哥德</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6" width="15%"><div class="p4">玩家4</div></td>
+              <td class="tc6" width="15%">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="35%">守城將士（黃色）義大利</td>
-              <td class="tc6" width="15%"><div class="p6">玩家6</div></td>
+              <td class="tc6" width="15%">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6" width="35%">帝國軍團（紫色）義大利</td>
             </tr>
           </table>
@@ -161,8 +179,7 @@
                   >箭塔</nuxt-link
                 >， 然後玩家會得到一個<nuxt-link to="/units/Capped_Ram"
                   >裝甲衝撞車</nuxt-link
-                >、8個哥德衛隊以及8位騎士，以摧毀羅馬的東門。
-                這個時候會有軍團的增援從東方來攻擊，並在哥德軍的攔阻之下嘗試摧毀玩家的<nuxt-link
+                >、8個哥德衛隊以及8位騎士，以摧毀羅馬的東門。這個時候會有軍團的增援從東方來攻擊，並在哥德軍的攔阻之下嘗試摧毀玩家的<nuxt-link
                   to="/units/Siege_Weapons"
                   >攻城武器</nuxt-link
                 >。
@@ -186,15 +203,13 @@
                 由於阿陶爾夫接到阿拉里克的命令，他會命令準備好<nuxt-link
                   to="/units/Trebuchet"
                   >投石機</nuxt-link
-                >，但會突然被軍團襲擊。
-                經過一場血腥的戰鬥，阿陶爾夫將前往基地，命令<nuxt-link
+                >，但會突然被軍團襲擊。經過一場血腥的戰鬥，阿陶爾夫將前往基地，命令<nuxt-link
                   to="/units/Villager"
                   >村民</nuxt-link
                 >為部隊收集<nuxt-link to="/resource/Food">食物</nuxt-link
                 >。玩家將獲得一些村民和<nuxt-link to="/building/Mill"
                   >磨坊</nuxt-link
-                >，好收集250食物。
-                玩家可以狩獵、從灌木叢收集、或把阿陶爾夫的<nuxt-link
+                >，好收集250食物。玩家可以狩獵、從灌木叢收集、或把阿陶爾夫的<nuxt-link
                   to="/building/Farm"
                   >農田</nuxt-link
                 >占用。
@@ -230,8 +245,7 @@
             <div class="n1">
               <ul>
                 <li>
-                  這是阿拉里克系列中唯一一場玩家能夠晉級到帝王時代的戰役，
-                  也是唯一一場沒有控制阿拉里克本人的戰役。
+                  這是阿拉里克系列中唯一一場玩家能夠晉級到帝王時代的戰役，也是唯一一場沒有控制阿拉里克本人的戰役。
                 </li>
                 <li>
                   這場戰役有個彩蛋：羅馬城的東邊，有個<nuxt-link

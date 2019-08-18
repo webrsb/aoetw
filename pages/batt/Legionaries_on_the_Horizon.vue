@@ -29,9 +29,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 400<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，200<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，200<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，100<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／200<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／100<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">200</td>
@@ -39,7 +39,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -47,7 +47,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Goths">哥德人</nuxt-link>（藍色）
               </td>
@@ -56,31 +59,44 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="10%"><div class="p3">玩家3</div></td>
+              <td class="tc6" width="10%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 阿陶爾夫的部隊（綠色）<nuxt-link to="/civs/Goths"
                   >哥德</nuxt-link
                 >
               </td>
               <td class="tc6" width="10%">
-                <div class="p7" width="10%">玩家5</div>
+                <div class="p7"></div>
+                玩家5
               </td>
               <td class="tc6" width="42%">
                 平民（灰色）<nuxt-link to="/civs/Italians">義大利</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="10%"><div class="p6">玩家6</div></td>
+              <td class="tc6" width="10%">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6">哥德人（紫色）哥德</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p2">玩家2</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6">羅馬軍團（紅色）義大利</td>
-              <td class="tc6"><div class="p4">玩家4</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6">馬吉斯將軍的營地（黃色）義大利</td>
             </tr>
           </table>

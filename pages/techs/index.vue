@@ -471,7 +471,7 @@
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">400G</td>
             <td class="tunitc6">
-              在弒君模式下可短暫看見敵對<nuxt-link to="/units/King"
+              在弒君模式下可短暫看見敵對<nuxt-link to="/units/edmap/King"
                 >國王</nuxt-link
               >位置。小地圖上以X顯示。該科技只在弒君模式有。
             </td>

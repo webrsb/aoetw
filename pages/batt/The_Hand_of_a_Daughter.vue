@@ -47,10 +47,10 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                2000<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，2000<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，2000<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，300<nuxt-link to="/resource/Stone">石頭</nuxt-link>。
+                2,000<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >／2,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／2,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／300<nuxt-link to="/resource/Stone">石頭</nuxt-link>。
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
@@ -58,7 +58,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -66,7 +66,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6" width="14%">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Italians">義大利人</nuxt-link>（藍色）
               </td>
@@ -75,31 +78,46 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="10%"><div class="p8">玩家2</div></td>
+              <td class="tc6" width="14%">
+                <div class="p8"></div>
+                玩家2
+              </td>
               <td class="tc6" width="40%">
                 卡馬尼奧拉的營地（橘色）<nuxt-link to="/civs/Italians"
                   >義大利</nuxt-link
                 >
               </td>
-              <td class="tc6" width="10%"><div class="p1">玩家4</div></td>
+              <td class="tc6" width="14%">
+                <div class="p1"></div>
+                玩家4
+              </td>
               <td class="tc6" width="40%">斯福爾扎的間諜（藍色）義大利</td>
             </tr>
             <tr>
-              <td class="tc6" width="10%"><div class="p4">玩家5</div></td>
+              <td class="tc6" width="14%">
+                <div class="p4"></div>
+                玩家5
+              </td>
               <td class="tc6" width="40%">米蘭公國（黃色）義大利</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6" width="10%"><div class="p8">玩家3</div></td>
+              <td class="tc6" width="14%">
+                <div class="p8"></div>
+                玩家3
+              </td>
               <td class="tc6" width="40%">
                 卡馬尼奧拉的衛軍（橘色）<nuxt-link to="/civs/Spanish"
                   >西班牙</nuxt-link
                 >
               </td>
-              <td class="tc6" width="10%"><div class="p6">玩家6</div></td>
+              <td class="tc6" width="14%">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6" width="40%">
                 威尼斯海軍（紫色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
@@ -107,7 +125,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="10%"><div class="p6">玩家7</div></td>
+              <td class="tc6" width="14%">
+                <div class="p6"></div>
+                玩家7
+              </td>
               <td class="tc6" width="40%">威尼斯主艦隊（紫色）義大利</td>
             </tr>
           </table>
@@ -115,7 +136,7 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>西蒙，格雷米奧。（HP：100、ATK：6+56、裝甲：0+2／1+2）</dd>
+            <dd>西蒙·格雷米奧。（HP：100、ATK：6+56、裝甲：0+2／1+2）</dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
           </dl>
@@ -152,8 +173,7 @@
               >，你很可能被守衛發現。
             </li>
             <li>
-              你很難一次點擊就選中所有的兵種們，圍繞他們拖拉出一個方框
-              一般這都管用。
+              你很難一次點擊就選中所有的兵種們，圍繞他們拖拉出一個方框一般這都管用。
             </li>
             <li>
               當一個守衛走向你，你只有5秒鐘時間殺死他否則警報會響。一旦警報響了，其他的守衛會衝向你所在的地方。
@@ -201,9 +221,7 @@
         <div class="n1">
           <ul>
             <li>
-              開始時，玩家有兩個間諜，格雷米奧與西蒙，他們位於瀑布之上，
-              他們的任務是將假偵察報告送到卡馬尼奧拉的營地，以誤導卡馬尼奧拉。
-              他們將不得不沿著骯髒，污染的河流走進軍營。
+              開始時，玩家有兩個間諜，格雷米奧與西蒙，他們位於瀑布之上，他們的任務是將假偵察報告送到卡馬尼奧拉的營地，以誤導卡馬尼奧拉。他們將不得不沿著骯髒，污染的河流走進軍營。
             </li>
             <li>
               他們兩個都必須生還，雖然他們有很強的<nuxt-link
@@ -238,8 +256,7 @@
               當私人帳篷（一個帳篷）被揭露時，玩家不應該走最短的路線到達那裡，因為那會驚動卡馬尼奧拉的衛隊。相反，玩家應該採取後方的路線潛入，路上會有木<nuxt-link
                 to="/building/Gate"
                 >城門</nuxt-link
-              >擋著。玩家應該摧毀木城門以方便等一下入侵。一旦玩家到達帳篷，點擊它進入地圖的東北側。間諜會在離開之前留下假報告（通過點擊間諜）。
-              然後這兩名間諜必須安全離開營地並返回他們一開始在的瀑布。
+              >擋著。玩家應該摧毀木城門以方便等一下入侵。一旦玩家到達帳篷，點擊它進入地圖的東北側。間諜會在離開之前留下假報告（通過點擊間諜）。然後這兩名間諜必須安全離開營地並返回他們一開始在的瀑布。
             </li>
             <li>
               這兩名間諜將返回斯福爾扎在西南部的營地進行報告，並且玩家要開始建立基地並生產部隊以防禦威尼斯人。玩家必須摧毀至少七艘威尼斯的<nuxt-link

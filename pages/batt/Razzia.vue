@@ -29,9 +29,8 @@
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
                 180<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，400<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，400<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，0<nuxt-link to="/resource/Stone">石礦</nuxt-link>
+                >／400<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／400<nuxt-link to="/resource/Gold">黃金</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">200</td>
@@ -39,7 +38,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -47,7 +46,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1</div></td>
+              <td class="tc6" width="14%">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>（黃色）
               </td>
@@ -58,15 +60,24 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p1" width="10%">玩家2</div></td>
+              <td class="tc6" width="14%">
+                <div class="p1"></div>
+                玩家2
+              </td>
               <td class="tc6" width="40%">波爾多（藍色）法蘭克</td>
-              <td class="tc6"><div class="p2" width="10%">玩家3</div></td>
+              <td class="tc6" width="14%">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6" width="40%">法蘭克軍隊（紅色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家4</div></td>
+              <td class="tc6" width="14%">
+                <div class="p6"></div>
+                玩家4
+              </td>
               <td class="tc6">阿基塔尼亞城鎮（紫色）法蘭克</td>
             </tr>
           </table>

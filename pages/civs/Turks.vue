@@ -9,26 +9,18 @@
         <div class="n1">
           <p>
             <b>土耳其</b
-            >是現世國家土耳其共和國，但實際上現在的土耳其共和國是歷經好幾次遷徙和混合才形成的，和原先的中亞突厥人關係變遠了，土耳其是由突厥人底下分支的烏古斯人塞爾柱間接建立的。之後土耳其歷經了幾次的建立和滅亡在第一次世界大戰後正式變成現今的土耳其共和國，其中最值得一提的就是<nuxt-link
-              to="/units/hero/Osman"
-              >奧斯曼</nuxt-link
-            >帝國(1299~1922),毀滅了中世紀最強大的帝國之一的東羅馬帝國，然後將君士坦丁堡改名為伊斯坦堡。
+            >是現世國家土耳其共和國，但實際上現在的土耳其共和國是歷經好幾次遷徙和混合才形成的，和原先的中亞突厥人關係變遠了，土耳其是由突厥人底下分支的烏古斯人塞爾柱間接建立的。之後土耳其歷經了幾次的建立和滅亡在第一次世界大戰後正式變成現今的土耳其共和國，其中最值得一提的就奧斯曼帝國(1299~1922),毀滅了中世紀最強大的帝國之一的東羅馬帝國，然後將君士坦丁堡改名為伊斯坦堡。
           </p>
           <p>
-            <nuxt-link to="/civs/Turks">土耳其</nuxt-link>是中東的<nuxt-link
-              to="/units/Gunpowder_Unit"
-              >火藥文明</nuxt-link
-            >，世紀帝國II的可使用的最初<nuxt-link to="/civs">文明</nuxt-link
+            是中東的火藥文明，世紀帝國II的可使用的最初<nuxt-link to="/civs"
+              >文明</nuxt-link
             >之一。他們的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >是<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
             >是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >就能生產的<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
             >。土耳其在十字軍東征裡打贏了許多<nuxt-link to="/batt"
               >戰役</nuxt-link
-            >，也成功滅了東羅馬帝國截斷了歐洲對外的門戶，接著參與了科學和數學，特別是在煉金術領域，後來成為現代<nuxt-link
-              to="/techs/Chemistry"
-              >化學</nuxt-link
-            >的骨幹。作為一個伊斯蘭文明，他們以向西方傳播這一知識而著稱。為了體現這一成就金礦工作效率上升、免費化學。這使他們可以立即使用火藥單位。土耳其作為第一個<nuxt-link
+            >，也成功滅了東羅馬帝國截斷了歐洲對外的門戶，接著參與了科學和數學，特別是在煉金術領域，後來成為現代化學的骨幹。作為一個伊斯蘭文明，他們以向西方傳播這一知識而著稱。為了體現這一成就金礦工作效率上升、免費化學。這使他們可以立即使用火藥單位。土耳其作為第一個<nuxt-link
               to="/techs/Silk_Road"
               >絲綢之路</nuxt-link
             >的<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
@@ -37,8 +29,7 @@
               >血量</nuxt-link
             >上升、研發火藥相關<nuxt-link to="/techs">科技</nuxt-link
             >更便宜、<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
-            >攻擊距離變遠、<nuxt-link to="/units/Gunpowder_Unit"
-              >火藥單位</nuxt-link
+            >射程變遠、<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
             >訓練變快。
           </p>
         </div>
@@ -56,7 +47,7 @@
                 >火炮</nuxt-link
               >、<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-              >攻擊距離+2)，使得土耳其火藥相關的兵種威力更加強大，另外特殊單位<nuxt-link
+              >射程+2)，使得土耳其火藥相關的兵種威力更加強大，另外特殊單位<nuxt-link
                 to="/units/Janissary"
                 >土耳其火槍兵</nuxt-link
               >是目前少數能在城堡時代生產的<nuxt-link to="/units/Gunpowder_Unit"
@@ -223,7 +214,7 @@
               >：<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
               >、<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-              >攻擊距離+2。
+              >射程+2。
             </p>
           </ul>
         </div>

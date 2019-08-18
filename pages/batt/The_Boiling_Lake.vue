@@ -50,10 +50,10 @@
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </li>
             <li>
-              起始資源：<nuxt-link to="/resource/Wood">木頭</nuxt-link
-              >500，<nuxt-link to="/resource/Food">食物</nuxt-link
-              >1000，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >1000，<nuxt-link to="/resource/Stone">石頭</nuxt-link>400
+              起始資源：500<nuxt-link to="/resource/Wood">木頭</nuxt-link
+              >／1000<nuxt-link to="/resource/Food">食物</nuxt-link
+              >／1000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >／400<nuxt-link to="/resource/Stone">石頭</nuxt-link>
             </li>
             <li>人口上限：150</li>
             <li>
@@ -124,7 +124,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家1</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>（綠色）
               </td>
@@ -133,9 +136,15 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2" width="12%">玩家2</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">特拉斯卡拉（紅色）阿茲特克</td>
-              <td class="tc6"><div class="p1" width="12%">玩家3</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 科爾特斯（藍色）<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
               </td>
@@ -282,7 +291,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="green">綠色</font></td>
+            <td class="unit4">
+              <div class="p3"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -294,7 +306,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章第五
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章之五
             </td>
           </tr>
           <tr>

@@ -40,7 +40,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>（紅色）
               </td>
@@ -49,24 +52,32 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1" width="11%">玩家2</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家2
+              </td>
               <td class="tc6" width="40%">
                 阿方索國王的軍隊（藍色）<nuxt-link to="/civs/Spanish"
                   >西班牙</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p3" width="11%">玩家3</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="40%">蒙達米特（綠色）薩拉森</td>
             </tr>
-            <tr></tr>
+
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家5</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家5
+              </td>
               <td class="tc6">貝倫格爾伯爵（紫色）西班牙</td>
             </tr>
-            <tr></tr>
           </table>
 
           <br />
@@ -127,8 +138,8 @@
                 熙德（紅色）一開始被隻身流放，不用怕你很快就會招募支持者。
               </li>
               <li>
-                阿方索國王是你的敵人，但他只會恐嚇威脅較低，真正敵人是巴塞隆那的貝倫格爾伯爵，
-                他們會派出劍兵、騎士、弩砲和<nuxt-link to="/units/Battering_Ram"
+                阿方索國王是你的敵人，但他只會恐嚇威脅較低，真正敵人是巴塞隆那的貝倫格爾伯爵，他們會派出劍兵、騎士、弩砲和<nuxt-link
+                  to="/units/Battering_Ram"
                   >輕型衝撞車</nuxt-link
                 >去攻擊你。
               </li>

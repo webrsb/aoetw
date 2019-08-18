@@ -11,8 +11,8 @@
             <b>羅馬士兵</b>出現在《<nuxt-link to="/games/aof"
               >世紀帝國II:失落的帝國</nuxt-link
             >》版本中的幾場<nuxt-link to="/batt">戰役</nuxt-link
-            >，也能在地圖編輯器找到。羅馬士兵
-            不能被訓練，根據數據顯示其與<nuxt-link to="/units/Jaguar_Warrior"
+            >，也能在地圖編輯器找到。羅馬士兵不能被訓練，根據數據顯示其與<nuxt-link
+              to="/units/Jaguar_Warrior"
               >精銳豹勇士</nuxt-link
             >的戰鬥力不相上下，只有<nuxt-link to="/armor">遠程護甲</nuxt-link
             >與速度有差。
@@ -60,7 +60,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle"><nuxt-link to="">羅馬士兵</nuxt-link></div>
             </td>
           </tr>
@@ -72,7 +72,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 <nuxt-link to="">單位介紹</nuxt-link>
               </div>
@@ -91,7 +91,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
           </tr>

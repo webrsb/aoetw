@@ -63,7 +63,7 @@
             >，就可以將輕型衝撞車升級為裝甲衝撞車。
           </p>
           <p>
-            在升級帝王時期的中間過度期，會有不少玩家選擇將輕型衝撞車藏放在城器製造所，等到一上了帝王馬上升級成裝甲衝撞車直搗敵方陣營，優異的<nuxt-link
+            在升級帝王時代的中間過度期，會有不少玩家選擇將輕型衝撞車藏放在城器製造所，等到一上了帝王馬上升級成裝甲衝撞車直搗敵方陣營，優異的<nuxt-link
               to="/elements/Area_of_Effect"
               >擴散傷害</nuxt-link
             >可以在帝王初期造成對手非常大的威脅，且數量可以在上帝王前就開始囤積，這點是巨型投石機所無法做到的。
@@ -135,7 +135,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >攻擊加成+20%。<br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -186,7 +186,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -488,7 +488,8 @@
                 >征服者入侵</nuxt-link
               >資料片之後，衝撞車才可以<nuxt-link to="/elements/Garrison"
                 >駐軍</nuxt-link
-              >(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link to="/units/King"
+              >(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link
+                to="/units/edmap/King"
                 >國王</nuxt-link
               >、<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
               >)，而到了<nuxt-link to="/games/aof">失落的帝國</nuxt-link

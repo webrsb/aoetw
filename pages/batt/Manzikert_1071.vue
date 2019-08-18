@@ -15,8 +15,7 @@
             >帝國與塞爾柱帝國之間發生的一場戰爭，是歷史上最具影響力的戰役之一。其中拜占庭決定性戰敗和其皇帝羅曼努斯四世被俘，導致拜占庭帝國失去了安那托利亞和亞美尼亞的統治權。
           </p>
           <p>
-            11世紀塞爾柱帝國急速擴張，與東羅馬疆域相接，從地中海西岸就節節敗退的東羅馬帝國為了守住其在小亞細亞的領土，皇帝羅曼努斯四世率軍前往阻截。塞爾柱方則一樣是由一國之君阿斯蘭蘇丹帶領。
-            兩軍會戰與曼孜齊克特，輕裝的塞爾柱弓騎大破東羅馬部隊。皇帝被俘虜，帝國勢力被迫退出小亞細亞。從此東羅馬兵源被限縮，此戰也被視為帝國走向衰弱的轉捩點。
+            11世紀塞爾柱帝國急速擴張，與東羅馬疆域相接，從地中海西岸就節節敗退的東羅馬帝國為了守住其在小亞細亞的領土，皇帝羅曼努斯四世率軍前往阻截。塞爾柱方則一樣是由一國之君阿斯蘭蘇丹帶領。兩軍會戰與曼孜齊克特，輕裝的塞爾柱弓騎大破東羅馬部隊。皇帝被俘虜，帝國勢力被迫退出小亞細亞。從此東羅馬兵源被限縮，此戰也被視為帝國走向衰弱的轉捩點。
           </p>
         </div>
         <h2>玩家</h2>
@@ -31,11 +30,9 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Wood">木頭</nuxt-link>500，<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >1,000，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >1,000，<nuxt-link to="/resource/Stone">石頭</nuxt-link>0
+                500<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -50,7 +47,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家1</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>（紫色）
               </td>
@@ -59,19 +59,34 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38">卡帕多細亞（紅色）拜占庭</td>
-              <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">西迪亞（綠色）拜占庭</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家4</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6">格雷西亞（黃色）拜占庭</td>
-              <td class="tc6"><div class="p1">玩家5</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家5
+              </td>
               <td class="tc6">拜占庭軍隊（藍色）拜占庭</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家5</div></td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link
                 >（水藍色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
@@ -103,8 +118,7 @@
               <li>
                 捕獲格雷西亞的<nuxt-link to="/building/Town_Center"
                   >城鎮中心</nuxt-link
-                >、西迪亞城鎮中心、卡帕多細亞城鎮中心。
-                侵佔他們的市鎮中心之後，就能從城邦那裡取得貢金。
+                >、西迪亞城鎮中心、卡帕多細亞城鎮中心。侵佔他們的市鎮中心之後，就能從城邦那裡取得貢金。
               </li>
             </ol>
           </div>
@@ -149,7 +163,7 @@
           <div class="n1">
             <ul>
               <li>
-                塞爾住土耳其的軍隊離家很遠，無法建立城鎮中心，但可以多補充一些單位。
+                塞爾柱土耳其的軍隊離家很遠，無法建立城鎮中心，但可以多補充一些單位。
               </li>
               <li>
                 征服三個拜占庭城鎮，以及薩拉森的（水藍色）金礦來取得，有很多金礦，你必須打敗而不是征服拜占庭單位。
@@ -170,7 +184,14 @@
             <li>
               一開始你有一支軍隊，可以先另用這支軍隊佔領卡帕以及皮西兩座城池。
             </li>
-            <li>每占領一座城鎮中心就可以拿到一些資源。</li>
+            <li>
+              每占領一座城鎮中心就可以定期獲得該城邦的進貢，還有<nuxt-link
+                to="/building/Market"
+                >市集</nuxt-link
+              >可以貿易。建議造個約15台<nuxt-link to="/units/Trade_Cart"
+                >貿易車隊</nuxt-link
+              >。
+            </li>
             <li>
               不需要真正擊敗對方所有<nuxt-link to="/building">建築</nuxt-link
               >，只要佔領城鎮中心即可（拜占庭軍隊除外）。
@@ -189,18 +210,24 @@
               不一定要全面佔領所有城鎮中心，依照個人需求及戰術下去佔領就好。
             </li>
             <li>占領後可以就近生產軍隊，到前線不用再回去一開始原本的地方。</li>
+            <li>
+              地圖最北的黃色最難占領，需要大量的衝撞車把城門撞壞，再派騎兵直衝城鎮中心。標準難度利用一開始給的巨投即可，但不要去打那兩座城堡，因為占領後那兩座城堡也會變成玩家的。
+            </li>
+            <li>
+              全城邦占領後會自動升到<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >，準備好40隻升級完整的騎兵和4架巨型投石機即可輕鬆的把拜占庭滅掉。
+            </li>
           </ul>
           <h3>遊戲內細節</h3>
           <div class="hrn1"></div>
           <ul>
             <li>基本上只要有軍隊走到城鎮中心，就算佔領。</li>
             <li>
-              如果要避免重大傷亡
-              ，可以利用貼近城門打的時候趁機溜幾隻騎兵進去城鎮中心裡面。
+              如果要避免重大傷亡，可以利用貼近城門打的時候趁機溜幾隻騎兵進去城鎮中心裡面。
             </li>
             <li>
-              巨型投石機盡量不要陣亡，由於很多高遠地形，很多防禦塔，城堡需要
-              靠他們拆除。
+              巨型投石機盡量不要陣亡，由於很多高遠地形，很多防禦塔，城堡需要靠他們拆除。
             </li>
             <li>只要擊敗拜占庭軍隊即可，不一定要佔領所有地方。</li>
             <li>
@@ -300,7 +327,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝！此頁面由Wun、裕暉協助編輯。</div>
+        <div class="thanks">感謝！此頁面由Wun、裕暉、harry3305協助編輯。</div>
 
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">

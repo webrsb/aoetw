@@ -29,9 +29,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 1,000<nuxt-link to="/resource/Wood">木頭</nuxt-link
-                >，1,000<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，1,200<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／1,200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -39,7 +39,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -47,7 +47,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
               </td>
@@ -55,21 +58,30 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">
                 君士坦丁堡（藍色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p3" width="12%">玩家3</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">
                 馬西安堡（綠色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家4</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家4
+              </td>
               <td class="tc6">菲利普堡（紅色）拜占庭</td>
             </tr>
           </table>
@@ -89,9 +101,9 @@
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
-            <ol>
+            <ul>
               <li>從羅馬人的身上取得的貢金，要儲集到 10,000 單位黃金。</li>
-            </ol>
+            </ul>
           </div>
         </div>
         <h2>次要目標</h2>
@@ -112,8 +124,8 @@
               只要破壞羅馬的市鎮中心、港口、市場和類似的<nuxt-link
                 to="/building"
                 >建築物</nuxt-link
-              >，就可以迫使羅馬人乖乖的交出貢金。儘管他們會反抗，但在你能夠聚集到
-              10,000 單位黃金之前，你都不能停止對羅馬人的勒索。
+              >，就可以迫使羅馬人乖乖的交出貢金。儘管他們會反抗，但在你能夠聚集到10,000
+              單位黃金之前，你都不能停止對羅馬人的勒索。
             </li>
             <li>你無法單靠貿易來取得你所需要的黃金。</li>
             <li>
@@ -128,8 +140,8 @@
         <div class="n1">
           <ul>
             <li>
-              匈奴人 (黃色) 有一個小型的城鎮，在初期他們它防禦來自馬西安堡的攻擊
-              (綠色)。雖然馬西安堡並沒有強大的軍隊，但他們的城鎮築有<nuxt-link
+              匈奴人 (黃色)
+              有一個小型的城鎮，在初期他們它防禦來自馬西安堡的攻擊(綠色)。雖然馬西安堡並沒有強大的軍隊，但他們的城鎮築有<nuxt-link
                 to="/building/Stone_Wall"
                 >城牆</nuxt-link
               >，讓它能防禦匈奴人初期的攻擊。不過，當你破壞了<nuxt-link
@@ -146,8 +158,8 @@
               >和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>等軍隊。
             </li>
             <li>
-              君士坦丁堡 (藍色)
-              是最大的威脅。這個城市是以堅固難破的城牆而聞名，不過你沒有必要真的去摧毀它。只要能從羅馬人身上勒索金錢，你就能取得最後的勝利。
+              君士坦丁堡
+              (藍色)是最大的威脅。這個城市是以堅固難破的城牆而聞名，不過你沒有必要真的去摧毀它。只要能從羅馬人身上勒索金錢，你就能取得最後的勝利。
             </li>
           </ul>
           <h2>芝麻小事</h2>
@@ -198,22 +210,27 @@
                   >世界奇觀</nuxt-link
                 >前的城堡。這些應該夠玩家取得足夠的黃金進貢來贏得戰役。
               </li>
+              <li>
+                完全不去攻擊君士坦丁堡過關是可以實行的。首先先用最快的速度把西邊靠近我們的遺跡供奉到修道院加速黃金的生產量。其次，出擊兵種以重裝長槍兵和輕騎兵為主可以減少黃金的使用率（但是該研發的科技還是得研發），攻擊前先在門口蓋城堡殲滅大部份兵力，將槍兵裝進衝撞車一一把建築物推平，將綠色和紅色推平後差不多就過關了。如果黃金還不夠10000則再把最西邊的遺跡收入修道院加速黃金的生產即可。
+              </li>
               <li>匈奴在此關可以透過一些方式來搶奪黃金與其他資源：</li>
-              <li>
-                每摧毀一個<nuxt-link to="/building/Dock">碼頭</nuxt-link
-                >(君士坦丁堡城外)會得到500黃金
-              </li>
-              <li>每摧毀一個市場(君士坦丁堡城外)會得到500黃金</li>
-              <li>摧毀君士坦丁堡北方的一個碼頭，會得到1000黃金進貢</li>
-              <li>每摧毀一個城鎮中心會得到3000黃金</li>
-              <li>第一個城堡建好之後，羅馬會進貢給你500黃金</li>
-              <li>摧毀往返於菲力波皮利斯與君士坦丁堡的貿易車會得到500黃金</li>
-              <li>摧毀所有君士坦丁堡的貿易工廠會得到500黃金進貢</li>
-              <li>摧毀君士坦丁堡城外的修道院會得到1000黃金</li>
-              <li>
-                當你在君士坦丁堡的世界奇觀旁派遣部隊，君士坦丁堡會為了勸阻你不要摧毀世界奇觀而進貢1000黃金
-              </li>
-              <li>當你真的摧毀世界奇觀，你會掠奪5000黃金</li>
+              <ul>
+                <li>
+                  每摧毀一個<nuxt-link to="/building/Dock">碼頭</nuxt-link
+                  >(君士坦丁堡城外)會得到500黃金
+                </li>
+                <li>每摧毀一個市場(君士坦丁堡城外)會得到500黃金</li>
+                <li>摧毀君士坦丁堡北方的一個碼頭，會得到1000黃金進貢</li>
+                <li>每摧毀一個城鎮中心會得到3000黃金</li>
+                <li>第一個城堡建好之後，羅馬會進貢給你500黃金</li>
+                <li>摧毀往返於菲力波皮利斯與君士坦丁堡的貿易車會得到500黃金</li>
+                <li>摧毀所有君士坦丁堡的貿易工廠會得到500黃金進貢</li>
+                <li>摧毀君士坦丁堡城外的修道院會得到1000黃金</li>
+                <li>
+                  當你在君士坦丁堡的世界奇觀旁派遣部隊，君士坦丁堡會為了勸阻你不要摧毀世界奇觀而進貢1000黃金
+                </li>
+                <li>當你真的摧毀世界奇觀，你會掠奪5000黃金</li>
+              </ul>
             </ul>
           </div>
         </div>
@@ -282,7 +299,9 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝！此頁由裕暉、竺叡、Dennis協助編輯</div>
+        <div class="thanks">
+          感謝！此頁由裕暉、竺叡、Dennis、harry3305協助編輯
+        </div>
       </div>
     </div>
   </div>

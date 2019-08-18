@@ -62,7 +62,7 @@
                 >馬弓騎兵類</nuxt-link
               >的剋星，特殊單位<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >不但攻擊間隔低又對<nuxt-link to="/units/Cavalry_Archer"
+              >不但開火間隔低又對<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >有攻擊加成，更不用說的是柏柏給予同盟的<nuxt-link
                 to="/units/Genitour"
@@ -145,7 +145,7 @@
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
-              >：攻擊間隔低、對<nuxt-link to="/units/Cavalry_Archer"
+              >：開火間隔低、對<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >有攻擊加成。
             </p>

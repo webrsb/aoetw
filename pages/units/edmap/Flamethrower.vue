@@ -261,11 +261,11 @@
             <td class="unit4">0.25</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊間隔</td>
+            <td class="unit3">開火間隔</td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="NOLINKS">攻擊距離</nuxt-link></td>
+            <td class="unit3"><nuxt-link to="NOLINKS">射程</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -273,7 +273,7 @@
             <td class="unit4">75%</td>
           </tr>
           <tr>
-            <td class="unit3">彈道速度</td>
+            <td class="unit3">射速</td>
             <td class="unit4">3</td>
           </tr>
           <tr>

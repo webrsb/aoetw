@@ -98,7 +98,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +5對馬弓騎兵 <br />+1對<nuxt-link to="/armor/Armor_Class_Ram"
+              +5對馬弓騎兵<br />+1對<nuxt-link to="/armor/Armor_Class_Ram"
                 >衝撞車系</nuxt-link
               >
               <br />+1對<nuxt-link to="/armor/Armor_Class_Infantry"
@@ -126,17 +126,17 @@
             <td class="unit3">命中率</td>
             <td class="unit4">100%</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">發射速度</td>
             <td class="unit4">7</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>

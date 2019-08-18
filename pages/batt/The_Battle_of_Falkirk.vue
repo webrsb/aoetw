@@ -34,9 +34,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 500<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，1000<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，500<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，500<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／500<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／500<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -44,7 +44,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -52,21 +52,30 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6" width="9%">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">塞爾特人（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="14%"><div class="p4">玩家2</div></td>
+              <td class="tc6" width="9%">
+                <div class="p4"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">華勒斯（黃色）塞爾特</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家3</div></td>
+              <td class="tc6" width="9%">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 英格蘭（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
@@ -212,8 +221,10 @@
             <div style="margin-left: 10px;">
               <em
                 ><strong
-                  ><a href="http://tinyurl.com/ydyhnwd4" target="_blank"
-                    >史特靈橋之役</a
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E7%A6%8F%E7%88%BE%E6%9F%AF%E5%85%8B%E4%B9%8B%E5%BD%B9"
+                    target="_blank"
+                    >福爾柯克之役</a
                   >
                 </strong>
               </em>

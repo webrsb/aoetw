@@ -60,7 +60,7 @@
             >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>、<nuxt-link
               to="/units/Bombard_Cannon"
               >火砲</nuxt-link
-            >也會對艦隊造成毀滅性打擊。 <br />另外，<nuxt-link to="/units/Monk"
+            >也會對艦隊造成毀滅性打擊。<br />另外，<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
             >也是一大威脅，特別是沒有研發<nuxt-link to="/techs/Faith"
               >忠誠信仰</nuxt-link
@@ -215,7 +215,7 @@
                 src="~assets/Faith.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -877,7 +877,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3">射程</td>
             <td class="unit4">7</td>
           </tr>
           <tr>

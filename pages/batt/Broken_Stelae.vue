@@ -29,7 +29,8 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p4">玩家1</div>
+              <div class="p4"></div>
+              玩家1
             </td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>（黃色）
@@ -40,25 +41,29 @@
           </tr>
           <tr>
             <td class="tc6">
-              <div class="p7">玩家2</div>
+              <div class="p7"></div>
+              玩家2
             </td>
             <td class="tc6">部落人(灰色)衣索比亞</td>
             <td class="tc6">
-              <div class="p4">玩家3</div>
+              <div class="p4"></div>
+              玩家3
             </td>
             <td class="tc6">反叛軍(黃色)衣索比亞</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="tc6">
-              <div class="p2">玩家4</div>
+              <div class="p2"></div>
+              玩家4
             </td>
             <td class="tc6">極大汗(紅色)衣索比亞</td>
             <td class="tc6">
-              <div class="p6">玩家5</div>
+              <div class="p6"></div>
+              玩家5
             </td>
             <td class="tc6">極大汗追隨者(紫色)衣索比亞</td>
           </tr>
@@ -146,7 +151,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="">黃色</font></td>
+            <td class="unit4">
+              <div class="p4"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -157,12 +165,12 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">非洲王國第四章第四</td>
+            <td class="unit4">非洲王國第四章之四</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>
+              <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -64,7 +64,7 @@
               to="/civs/Turks"
               >土耳其</nuxt-link
             >與<nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link
-            >則是在帝王時期可以展現出強大的威力。馬扎爾通過<nuxt-link
+            >則是在帝王時代可以展現出強大的威力。馬扎爾通過<nuxt-link
               to="/techs/Recurve_Bow"
               >反曲弓</nuxt-link
             >技術，可以使射程與攻擊額外+1，<nuxt-link to="/civs/Turks"
@@ -104,7 +104,7 @@
                 >矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、。
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -228,7 +228,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:對移動目標命中率上升 <br />
+              >:對移動目標命中率上升<br />
               <img
                 class="gg"
                 src="~assets/Thumb_Ring.png"
@@ -291,7 +291,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -861,8 +861,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            “馬弓騎兵起源於遠古時代的亞洲大平原，並在整個中世紀的這個地區成為大部分軍隊的主力，征服了亞洲大部分地區，中東以及歐洲大部分地區的蒙古軍隊
-            最主要的就是馬弓騎兵，當時他們是火力和速度的獨特組合，他們幾乎可以跨越幾乎任何一種地形，出乎意料地伏擊敵人，並在必要時在重騎兵或步兵部隊作出反應之前撤出。<nuxt-link
+            “馬弓騎兵起源於遠古時代的亞洲大平原，並在整個中世紀的這個地區成為大部分軍隊的主力，征服了亞洲大部分地區，中東以及歐洲大部分地區的蒙古軍隊最主要的就是馬弓騎兵，當時他們是火力和速度的獨特組合，他們幾乎可以跨越幾乎任何一種地形，出乎意料地伏擊敵人，並在必要時在重騎兵或步兵部隊作出反應之前撤出。<nuxt-link
               to="/civs/Mongols"
               >蒙古人</nuxt-link
             >特別擅長打帶跑和伏擊戰術，避免一對一戰鬥的同時也打得敵人完全失去信心，馬弓騎兵在開闊的地面上擁有非常大的操縱空間。但是對於要塞攻城和需要一對一的戰鬥則毫無應對策略。“

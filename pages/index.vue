@@ -168,6 +168,12 @@
                   >王者崛起</nuxt-link
                 >
               </li>
+              <li>
+                <img class="gg" src="~assets/deicon.png" alt="" /><nuxt-link
+                  to="/games/de"
+                  >決定版</nuxt-link
+                >
+              </li>
             </ul>
           </div>
         </div>

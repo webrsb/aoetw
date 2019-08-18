@@ -53,15 +53,14 @@
           </p>
           <p>
             <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
-            >的攻擊距離到達7，恰好可以投擲到<nuxt-link
-              to="/building/Town_Center"
+            >的射程到達7，恰好可以投擲到<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
             >(起始放箭距離為6)，所以將<nuxt-link to="/units/Mangonel"
               >輕型投石車</nuxt-link
             >拿來拆除<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >也是個不錯的選擇，但<nuxt-link to="/elements/Hit_points"
               >生命值</nuxt-link
-            >過低，移動速度慢，加上有最小的攻擊距離限制，很容易被敵方機動性高的兵種反制，使用上非常吃判斷力，被成群的敵軍包圍時，大概就沒有什麼生存的機會了。
+            >過低，移動速度慢，加上有最小的射程限制，很容易被敵方機動性高的兵種反制，使用上非常吃判斷力，被成群的敵軍包圍時，大概就沒有什麼生存的機會了。
           </p>
           <p>
             與<nuxt-link to="/units/Monk">僧侶</nuxt-link>或<nuxt-link
@@ -134,7 +133,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >攻擊加成+20%。<br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -151,15 +150,16 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">範圍</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >除外)<br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Shinkichon"
                 >神機箭</nuxt-link
@@ -413,7 +413,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-              >：投石車最小攻擊距離移除。
+              >：投石車最小射程移除。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
@@ -641,7 +641,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">濺射範圍</td>
+            <td class="unit3">擴散範圍</td>
             <td class="unit4">1</td>
           </tr>
           <tr>
@@ -649,11 +649,11 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊間隔</td>
+            <td class="unit3">開火間隔</td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3">射程</td>
             <td class="unit4">7</td>
           </tr>
           <tr>
@@ -665,7 +665,7 @@
             <td class="unit4">100%</td>
           </tr>
           <tr>
-            <td class="unit3">彈道速度</td>
+            <td class="unit3">射速</td>
             <td class="unit4">3.5</td>
           </tr>
           <tr>

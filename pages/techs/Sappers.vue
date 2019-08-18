@@ -21,8 +21,7 @@
               to="/building/Mining_Camp"
               >採礦營地</nuxt-link
             >或<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
-            >時，坑道工兵可以派上用場。
-            坑道工兵也可以用來摧毀玩家村民旁邊的敵方<nuxt-link
+            >時，坑道工兵可以派上用場。坑道工兵也可以用來摧毀玩家村民旁邊的敵方<nuxt-link
               to="/building/Watch_Tower"
               >箭塔</nuxt-link
             >。

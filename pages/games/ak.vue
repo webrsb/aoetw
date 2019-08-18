@@ -214,6 +214,7 @@
                 >征服者入侵</nuxt-link
               ><br /><nuxt-link to="/games/aof">失落的帝國</nuxt-link
               ><br /><nuxt-link to="/games/aor">王者崛起</nuxt-link>
+              <br /><nuxt-link to="/games/de">決定版</nuxt-link>
             </td>
           </tr>
         </table>
@@ -237,7 +238,7 @@
             <li><nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link></li>
             <li>
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </li>
             <li><nuxt-link to="/batt/Yodita">優娣忒</nuxt-link></li>
@@ -288,8 +289,9 @@
           <ul>
             <li>
               <nuxt-link to="/units/Villager">村民</nuxt-link>花費，四時代 從
-              -5%/-10%/-15%/-20% 改為 -10%/-15%/-20%/-25% 獲得
-              公會制度、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>三防
+              -5%/-10%/-15%/-20% 改為 -10%/-15%/-20%/-25%
+              獲得公會制度、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >三防
             </li>
             <li>
               騎象<nuxt-link to="/units/Archer_Units">射手</nuxt-link

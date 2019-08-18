@@ -77,7 +77,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link> <br />英雄
+              <nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link><br />英雄
             </td>
           </tr>
           <tr>
@@ -93,7 +93,7 @@
           </tr>
           <tr>
             <td class="unit3">血量</td>
-            <td class="unit4">150 (組裝前） <br />300 (組裝後)</td>
+            <td class="unit4">150 (組裝前）<br />300 (組裝後)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
@@ -135,19 +135,19 @@
           </tr>
           <tr>
             <td class="unit3">命中率</td>
-            <td class="unit4">80%對建築物 <br />92%對單位</td>
+            <td class="unit4">80%對建築物<br />92%對單位</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">發射速度</td>
             <td class="unit4">3.5</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">8</td>

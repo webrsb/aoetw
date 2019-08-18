@@ -40,7 +40,7 @@
                 to="/units/Archer_Units"
                 >弓箭手</nuxt-link
               >和<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >因為前者有遠程攻擊距離而後者速度很快，<nuxt-link
+              >因為前者有遠程射程而後者速度很快，<nuxt-link
                 to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
               >跟<nuxt-link to="/units/Mangonel">投石車</nuxt-link
@@ -119,7 +119,7 @@
               >(+1/+2)
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
@@ -130,7 +130,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

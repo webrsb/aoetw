@@ -211,7 +211,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -355,7 +355,7 @@
                 >神機箭</nuxt-link
               >(800木材，500黃金)→<nuxt-link to="/units/Mangonel"
                 >投石車</nuxt-link
-              >攻擊距離+1 。
+              >射程+1 。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
@@ -413,8 +413,7 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"城堡和城鎮的設立造成了軍隊想要有能破壞要塞和高牆的攻城部隊。如果沒有這樣的攻城武器，奪取城堡無論在金錢跟時間上都是種磨耗，攻方只能慢慢消耗守方力量直到他們投降。
-              而攻城的能力常會受到戰事的長短，向攻城軍隊提供補給的費用，營地發生疾病造成的損失以及天氣的限制而有所影響。<nuxt-link
+              >"城堡和城鎮的設立造成了軍隊想要有能破壞要塞和高牆的攻城部隊。如果沒有這樣的攻城武器，奪取城堡無論在金錢跟時間上都是種磨耗，攻方只能慢慢消耗守方力量直到他們投降。而攻城的能力常會受到戰事的長短，向攻城軍隊提供補給的費用，營地發生疾病造成的損失以及天氣的限制而有所影響。<nuxt-link
                 to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
               >，<nuxt-link to="/units/Trebuchet">投石機</nuxt-link

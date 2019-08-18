@@ -28,11 +28,9 @@
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
                 300<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，300<nuxt-link to="/resource/Food">食物</nuxt-link>
-                <p>
-                  250<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                  >，100<nuxt-link to="/resource/Stone">石礦</nuxt-link>
-                </p>
+                >／300<nuxt-link to="/resource/Food">食物</nuxt-link>
+                ／250<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／100<nuxt-link to="/resource/Stone">石礦</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
@@ -40,7 +38,7 @@
           </table>
 
           <h3>AI</h3>
-          <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -48,7 +46,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家1</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>（紫色）
               </td>
@@ -57,25 +58,40 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p4">玩家4</div></td>
+              <td class="tc6" width="12%">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">塔博（黃色）馬利</td>
-              <td class="tc6" width="12%"><div class="p1">玩家6</div></td>
+              <td class="tc6" width="12%">
+                <div class="p1"></div>
+                玩家6
+              </td>
               <td class="tc6" width="38%">瓦加督（藍色）馬利</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p2">玩家2</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6">桑加藍（紅色）馬利</td>
-              <td class="tc6"><div class="p3">玩家3</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 拉貝（綠色）<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家5</div></td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 尼日（水藍色）<nuxt-link to="/civs/Ethiopians"
                   >衣索比亞</nuxt-link
@@ -172,8 +188,7 @@
                     營地北方有黃色，黃色的西北方有藍色，這兩個國家只要你的部隊抵達他們<nuxt-link
                       to="/building/Town_Center"
                       >城鎮中心</nuxt-link
-                    >就會加入你，
-                    盡快讓他們加入可以大幅吸引電腦玩家的火力，幫你爭取發展的時間。
+                    >就會加入你，盡快讓他們加入可以大幅吸引電腦玩家的火力，幫你爭取發展的時間。
                   </li>
                   <li>
                     3.
@@ -189,22 +204,19 @@
                     升城堡後，立刻在你的城鎮中心西北方、東北方不遠處各蓋一座城堡，然後用<nuxt-link
                       to="/building/Stone_Wall"
                       >城牆</nuxt-link
-                    >把漏洞圍起來。敵人就完全進不來了，
-                    可以專心爆經濟、點<nuxt-link to="/techs">科技</nuxt-link
+                    >把漏洞圍起來。敵人就完全進不來了，可以專心爆經濟、點<nuxt-link
+                      to="/techs"
+                      >科技</nuxt-link
                     >。提示說綠色有衝撞車，但從來沒看他拿來攻擊過，所以只要有城堡，你就是安全的。
                   </li>
                   <li>
                     5. 雖然馬利人在城堡時代擅長<nuxt-link
                       to="/units/Infantry_Units"
                       >步兵</nuxt-link
-                    >，但因為敵人有大量馬弓可以打帶跑，所以在這關還是血多速度快的騎士比較好用。
-                    注意你不需要摧毀敵方城鎮，而是要不擇手段把貨車送到三國的旗幟處。跟上一關一樣，
-                    有資源就出騎士掩護村民去採其他地方的礦，累積到一定程度就帶著貨車去弄青色。由於青色馬弓會打帶跑，
-                    可以派四隻騎士追上去，不要打直直往前衝，趁對方馬弓進<nuxt-link
+                    >，但因為敵人有大量馬弓可以打帶跑，所以在這關還是血多速度快的騎士比較好用。注意你不需要摧毀敵方城鎮，而是要不擇手段把貨車送到三國的旗幟處。跟上一關一樣，有資源就出騎士掩護村民去採其他地方的礦，累積到一定程度就帶著貨車去弄青色。由於青色馬弓會打帶跑，可以派四隻騎士追上去，不要打直直往前衝，趁對方馬弓進<nuxt-link
                       to="/building/Gate"
                       >城門</nuxt-link
-                    >的瞬間衝過去卡住城門，然後騎士大軍掩護貨車直接過門，
-                    讓貨車抵達旗幟就可以讓青色投降，這場遊戲只要對方投降就會自動delete所有部隊跟軍事<nuxt-link
+                    >的瞬間衝過去卡住城門，然後騎士大軍掩護貨車直接過門，讓貨車抵達旗幟就可以讓青色投降，這場遊戲只要對方投降就會自動delete所有部隊跟軍事<nuxt-link
                       to="/building"
                       >建築</nuxt-link
                     >，所以不用怕待會衝不出來。
@@ -214,8 +226,7 @@
                     用你的騎士敲破青色的城門從裡面出來，接著去弄綠色，他們只有<nuxt-link
                       to="/building/Palisade_Wall"
                       >木牆</nuxt-link
-                    >，直接敲破木城門。由於裡面守軍有點多，建議帶著幾隻僧侶，
-                    進城後先全軍按停止，讓騎士們掃一下周圍的守軍，然後再讓貨車去達陣。
+                    >，直接敲破木城門。由於裡面守軍有點多，建議帶著幾隻僧侶，進城後先全軍按停止，讓騎士們掃一下周圍的守軍，然後再讓貨車去達陣。
                   </li>
                   <li>
                     7.

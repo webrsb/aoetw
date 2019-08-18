@@ -29,11 +29,10 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Wood">木頭</nuxt-link>300，<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >400，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >300，<nuxt-link to="/resource/Stone">石頭</nuxt-link>250
+                300<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >／400<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／300<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／250<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">100</td>
@@ -48,7 +47,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>（藍色）
               </td>
@@ -57,9 +59,12 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="10%"><div class="p5">玩家2</div></td>
+              <td class="tc6" width="10%">
+                <div class="p5"></div>
+                玩家2
+              </td>
               <td class="tc6" width="40%">
-                哈拉爾.哈德拉達（水藍色）<nuxt-link to="/civs/Vikings"
+                哈拉爾·哈德拉達（水藍色）<nuxt-link to="/civs/Vikings"
                   >維京</nuxt-link
                 >
               </td>
@@ -68,19 +73,27 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家3</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 撒克遜<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
                 >（紅色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
-              <td class="tc6"><div class="p8">玩家4</div></td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家4
+              </td>
               <td class="tc6">撒克遜人哈樂德（橘色）哥德</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家5</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家5
+              </td>
               <td class="tc6">哈樂德的偷襲部隊（黃色）哥德</td>
             </tr>
-            <tr></tr>
           </table>
 
           <br />
@@ -98,7 +111,7 @@
             <dt>出場<nuxt-link to="/units/hero">英雄</nuxt-link>：</dt>
             <dd>
               征服者威廉、<nuxt-link to="/units/hero/Harold_Haardraade"
-                >哈拉爾.哈德拉達</nuxt-link
+                >哈拉爾·哈德拉達</nuxt-link
               >。
             </dd>
             <dt>大地之母單位：</dt>
@@ -122,7 +135,7 @@
             <ol>
               <li>
                 把<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
-                >派到北方，去搭載哈拉爾.哈德拉達的<nuxt-link to="/units/Berserk"
+                >派到北方，去搭載哈拉爾·哈德拉達的<nuxt-link to="/units/Berserk"
                   >狂戰士</nuxt-link
                 >。
               </li>
@@ -167,8 +180,7 @@
               敵方會派哥德部隊用運輸船方式運送，過來進行小規模騷擾，我們城鎮附近是樹木常會有一些漏洞，建議留一支小部隊在家防守。
             </li>
             <li>
-              當你擊敗黃色後，青色維京人會轉變它的立場加入你
-              ，你會擁有一支狂戰士和英雄。
+              當你擊敗黃色後，青色維京人會轉變它的立場加入你，你會擁有一支狂戰士和英雄。
             </li>
             <li>你需要用運輸船載送它們到達我方陣地並且他將會給你一些黃金。</li>
             <li>
@@ -221,8 +233,7 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              隨著諾曼地公國在威廉的治理下勢力漸強，法王的猜疑也漸深。這導致了威廉開始尋求新的發展區域。所以他決定侵入英格蘭。
-              由於當時盎格魯英格蘭的君王無後，所以具有繼承權的是諾曼地的威廉以及威塞克斯的哈羅德，威廉則聲稱哈羅德早已放棄，故在哈羅德即位後率大軍渡過海峽。而威廉在黑斯汀斯取得決定性勝利，成為英格蘭國王，是為諾曼王朝。英格蘭重新與歐洲大陸開始接觸，受到中世紀的文化洗禮。
+              隨著諾曼地公國在威廉的治理下勢力漸強，法王的猜疑也漸深。這導致了威廉開始尋求新的發展區域。所以他決定侵入英格蘭。由於當時盎格魯英格蘭的君王無後，所以具有繼承權的是諾曼地的威廉以及威塞克斯的哈羅德，威廉則聲稱哈羅德早已放棄，故在哈羅德即位後率大軍渡過海峽。而威廉在黑斯汀斯取得決定性勝利，成為英格蘭國王，是為諾曼王朝。英格蘭重新與歐洲大陸開始接觸，受到中世紀的文化洗禮。
             </li>
           </ul>
         </div>

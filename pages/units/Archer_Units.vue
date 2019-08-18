@@ -251,7 +251,7 @@
                 <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
               </td>
               <td width="9%">速度</td>
-              <td width="9%">開火 <br />間隔</td>
+              <td width="9%">開火<br />間隔</td>
             </tr>
             <tr>
               <td class="tta1">

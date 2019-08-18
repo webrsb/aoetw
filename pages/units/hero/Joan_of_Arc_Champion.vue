@@ -85,8 +85,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -103,8 +103,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -119,8 +119,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
               </td>
             </tr>
             <tr>
@@ -137,8 +137,8 @@
                 ></span>
               </td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 玩家
-                <div class="p1"></div>
               </td>
             </tr>
           </table>
@@ -203,13 +203,12 @@
             </td>
             <td class="unit4">2.03</td>
           </tr>
-          <tr></tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>

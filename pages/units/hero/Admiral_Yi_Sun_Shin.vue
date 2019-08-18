@@ -64,8 +64,8 @@
               </td>
               <td class="tta2">探索前否,探索後可控制</td>
               <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
                 電腦,玩家
-                <div class="p1"></div>
               </td>
             </tr>
           </table>
@@ -135,7 +135,7 @@
             <td class="unit3">生命值</td>
             <td class="unit4">600</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Area_of_Effect">爆炸半徑</nuxt-link>
@@ -155,21 +155,20 @@
             <td class="unit4">無</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊間隔</td>
+            <td class="unit3">開火間隔</td>
             <td class="unit4">3</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">攻擊範圍</td>
             <td class="unit4">10</td>
           </tr>
-          <tr></tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">6</td>

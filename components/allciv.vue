@@ -13,7 +13,8 @@
             </tr>
             <tr>
               <td class="unit4" colspan="2" style="text-align: center;">
-                <nuxt-link to="/civs/bestciv">文明強弱分析</nuxt-link>
+                <nuxt-link to="/civs/bestciv">文明強弱分析</nuxt-link>•
+                <nuxt-link to="/civs/aoestats">文明勝率</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -189,6 +190,22 @@
                 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>•
                 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>
               </td>
+            </tr>
+            <tr>
+              <td class="unit" colspan="2" style="background-color:#3a73c7;">
+                <div class="unititle2">
+                  <nuxt-link to="/games/de"
+                    ><img
+                      src="~assets/deicon.png"
+                      style="margin-right:5px"
+                    />決定版</nuxt-link
+                  >
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td class="unit3" style="width: 15%;">東歐</td>
+              <td class="unit4">保加利亞• 立陶宛• 庫曼• 韃靼</td>
             </tr>
           </tbody>
         </table>

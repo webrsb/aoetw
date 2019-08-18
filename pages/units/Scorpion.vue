@@ -126,7 +126,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >攻擊加成+20%。<br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -143,7 +143,7 @@
               >：攻城器製造所的單位傷害範圍增加。<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >限定 <br />
+              >限定<br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Double_Crossbow"
                 >雙弩箭</nuxt-link
@@ -152,15 +152,16 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">範圍</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。
+              >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >除外)
             </td>
           </tr>
           <tr>

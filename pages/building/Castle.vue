@@ -16,7 +16,7 @@
           <br />弒君模式遊戲中，遊戲開始時，每位玩家都會在<nuxt-link
             to="/building/Town_Center"
             >城鎮中心</nuxt-link
-          >附近擁有一座城堡。 <br />不同的<nuxt-link to="/civs">文明</nuxt-link
+          >附近擁有一座城堡。<br />不同的<nuxt-link to="/civs">文明</nuxt-link
           >城堡的建築風格會有不同
         </div>
         <h3>可生產單位與可研發科技</h3>
@@ -453,7 +453,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">範圍</td>
+            <td class="tta1">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -480,7 +480,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
-              >:消除最小射程 <br />
+              >:消除最小射程<br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -594,7 +594,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
-              >:駐紮單位治療速度加快 <br />
+              >:駐紮單位治療速度加快<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -740,7 +740,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">軍事 <br />防禦建築</td>
+            <td class="unit4">軍事<br />防禦建築</td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -803,7 +803,7 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">範圍</td>
+            <td class="unit3">射程</td>
             <td class="unit4">8</td>
           </tr>
           <tr>

@@ -27,7 +27,7 @@
         <div class="n1">
           <ul>
             <li>
-              槍隊長適合團體做戰因為他們有1的攻擊距離可以攻擊到同伴身後的敵人，可以輕易地對<nuxt-link
+              槍隊長適合團體做戰因為他們有1的射程可以攻擊到同伴身後的敵人，可以輕易地對<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >造成傷害且不必跑來跑去，同時可短時間內大量生產。與<nuxt-link
@@ -228,7 +228,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -501,7 +501,7 @@
                 src="~assets/Kamayuk_attack_paladin.jpg"
                 alt=""
             /></gallery>
-            <p><em>槍隊長1的攻擊距離可以從夥伴背後攻擊敵人。</em></p>
+            <p><em>槍隊長1的射程可以從夥伴背後攻擊敵人。</em></p>
           </div>
           <div class="col-md-4">
             <gallery

@@ -94,6 +94,14 @@
               <li><nuxt-link to="/maps/Water_Nomad">水上游牧</nuxt-link></li>
             </ul>
           </div>
+          <div class="col-md-2">
+            <nuxt-link to="/games/de"
+              ><img src="~assets/deicon.png" />王者崛起</nuxt-link
+            >
+            <ul>
+              <li>待推出</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>

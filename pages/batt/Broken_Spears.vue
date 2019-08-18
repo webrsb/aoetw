@@ -29,10 +29,10 @@
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </li>
             <li>
-              起始資源：<nuxt-link to="/resource/Wood">木頭</nuxt-link
-              >2,000，<nuxt-link to="/resource/Food">食物</nuxt-link
-              >500，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >500，<nuxt-link to="/resource/Stone">石頭</nuxt-link>600
+              起始資源：2,000<nuxt-link to="/resource/Wood">木頭</nuxt-link
+              >／500<nuxt-link to="/resource/Food">食物</nuxt-link
+              >／500<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >／600<nuxt-link to="/resource/Stone">石頭</nuxt-link>
             </li>
             <li>人口上限：75</li>
             <li>
@@ -89,7 +89,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家1</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>（綠色）
               </td>
@@ -98,9 +101,15 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家2</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6">特拉斯卡拉（紅色）阿茲特克</td>
-              <td class="tc6"><div class="p1">玩家3</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 科爾特斯海軍（藍色）<nuxt-link to="/civs/Spanish"
                   >西班牙</nuxt-link
@@ -108,7 +117,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家4</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家4
+              </td>
               <td class="tc6" colspan="3">科爾特斯陸軍（紫色）西班牙</td>
             </tr>
           </table>
@@ -297,7 +309,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="green">綠色</font></td>
+            <td class="unit4">
+              <div class="p3"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -309,7 +324,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章第六
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章之六
             </td>
           </tr>
           <tr>

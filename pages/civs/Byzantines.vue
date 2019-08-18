@@ -24,7 +24,7 @@
             ><nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link
             >，是一種古老技術可使<nuxt-link to="/units/Fire_Ship"
               >火戰船</nuxt-link
-            >攻擊距離變得更遠，<nuxt-link to="/techs/age/Imperial_Age"
+            >射程變得更遠，<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的特殊科技<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
             >，是讓<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
@@ -36,7 +36,7 @@
           </p>
           <p>
             <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link
-            >當時是歐洲的門戶之一，首都君士坦丁堡更是當年歐亞大陸、北非交易中心又是絲路的西端，因此拜占庭的經濟和文明是領先於歐洲與地中海各大文明，因而升級帝王時期可以付出較少金錢。歐洲門戶最著名的門戶博斯普魯斯海峽，拜占庭首都君士坦丁堡最著名的雙圍牆在這抵抗了<nuxt-link
+            >當時是歐洲的門戶之一，首都君士坦丁堡更是當年歐亞大陸、北非交易中心又是絲路的西端，因此拜占庭的經濟和文明是領先於歐洲與地中海各大文明，因而升級帝王時代可以付出較少金錢。歐洲門戶最著名的門戶博斯普魯斯海峽，拜占庭首都君士坦丁堡最著名的雙圍牆在這抵抗了<nuxt-link
               to="/civs/Slavs"
               >斯拉夫人</nuxt-link
             >、阿拉伯人等文明一千多年的入侵，直到被<nuxt-link

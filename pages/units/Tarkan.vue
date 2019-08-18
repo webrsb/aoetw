@@ -574,8 +574,7 @@
             "馬鐙的使用讓匈奴人在3世紀揮軍西向時比其他軍隊更具有技術優勢，馬鐙可以有效穩定<nuxt-link
               to="/civs/Huns"
               >匈奴</nuxt-link
-            >騎兵的重心並用長矛沖向目標，歷史上除了少數例外情況（特別是亞歷山大的騎兵），很少有騎兵能如此擅用長矛。數千名野蠻騎兵的出現並且如此有效地使用長矛
-            在戰爭結束時迫使軍隊發展產生戲劇性的變化，羅馬軍團不得不更多地專注在騎兵上以支援他們的軍團，並最終僱傭野蠻人騎兵作為僱傭兵，匈牙利<nuxt-link
+            >騎兵的重心並用長矛沖向目標，歷史上除了少數例外情況（特別是亞歷山大的騎兵），很少有騎兵能如此擅用長矛。數千名野蠻騎兵的出現並且如此有效地使用長矛在戰爭結束時迫使軍隊發展產生戲劇性的變化，羅馬軍團不得不更多地專注在騎兵上以支援他們的軍團，並最終僱傭野蠻人騎兵作為僱傭兵，匈牙利<nuxt-link
               to="/units/hero"
               >英雄</nuxt-link
             >和後來的<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
@@ -654,7 +653,7 @@
                 src="~assets/Castleicon.png"
                 width="45"
                 alt=""
-              /><nuxt-link to="/building/Castle">城堡</nuxt-link> <br />
+              /><nuxt-link to="/building/Castle">城堡</nuxt-link><br />
               <img class="gg" src="~assets/Stable-logo.jpg" alt="" /><nuxt-link
                 to="/building/Stable"
                 >馬廄</nuxt-link

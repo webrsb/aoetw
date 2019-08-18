@@ -32,14 +32,16 @@
                 <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
               </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">25食物</td>
+              <td class="tc2">
+                25<nuxt-link to="/resource/Food">食物</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">0</td>
             </tr>
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -47,7 +49,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Incas">印加人</nuxt-link>（藍色）
               </td>
@@ -56,40 +61,61 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p4">玩家5</div></td>
+              <td class="tc6" width="12%">
+                <div class="p4"></div>
+                玩家5
+              </td>
               <td class="tc6" width="38%">
                 當地的貿易站（水藍色）<nuxt-link to="/civs/Incas"
                   >印加</nuxt-link
                 >
               </td>
-              <td class="tc6" width="12%"><div class="p6">玩家6</div></td>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6" width="38%">寺廟（紫色）印加</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p1">玩家8</div></td>
+              <td class="tc6" width="12%">
+                <div class="p1"></div>
+                玩家8
+              </td>
               <td class="tc6" width="38%">
                 <nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
                 >（藍色）<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
+              <td class="tc4" colspan="4" style="background: #999999;">中立</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
+              <td class="tc6" width="12%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">亞馬遜供給隊（綠色）印加</td>
-              <td class="tc6" width="12%"><div class="p4">玩家4</div></td>
+              <td class="tc6" width="12%">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">漁夫（黃色）印加</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p2">玩家2</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6">亞馬遜族（紅色）印加</td>
-              <td class="tc6"><div class="p7">玩家7</div></td>
+              <td class="tc6">
+                <div class="p7"></div>
+                玩家7
+              </td>
               <td class="tc6">亞馬遜巡邏隊（灰色）印加</td>
             </tr>
           </table>
@@ -98,7 +124,7 @@
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
-              法蘭西斯科.德.奧雷利亞納、2位<nuxt-link to="/units/Champion"
+              法蘭西斯科·德·奧雷利亞納、2位<nuxt-link to="/units/Champion"
                 >劍兵勇士</nuxt-link
               >、4位<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >、3位<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
@@ -111,7 +137,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>法蘭西斯科.德.奧雷利亞納必須活著。</li>
+              <li>法蘭西斯科·德·奧雷利亞納必須活著。</li>
               <li>
                 把前方村莊的全體<nuxt-link to="/units/Villager">村民</nuxt-link
                 >都殺死。
@@ -206,8 +232,7 @@
                 >）會要求玩家幫他為他失去的眼睛復仇，這將被視為“惡行”。
               </li>
               <li>
-                玩家必須積累6項“善行”或6項“惡行”，以說服亞馬遜女戰士開放河流並讓玩家通過。每次行為都會在地圖的西部角落標出記號。
-                一件“善行”會在地面的右側放置一面紅色的太陽旗，而一個“惡行”會在地面的左側放置一面藍旗。
+                玩家必須積累6項“善行”或6項“惡行”，以說服亞馬遜女戰士開放河流並讓玩家通過。每次行為都會在地圖的西部角落標出記號。一件“善行”會在地面的右側放置一面紅色的太陽旗，而一個“惡行”會在地面的左側放置一面藍旗。
               </li>
               <li>
                 玩家必須點擊商人和盲人牧師與他們交談。一旦盲人牧師被選中，並且他提出了他的要求，他就會消失，所有四隻<nuxt-link

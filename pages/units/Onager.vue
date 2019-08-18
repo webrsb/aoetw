@@ -136,7 +136,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >攻擊加成+20%。<br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -153,15 +153,16 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">範圍</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。 <br />
+              >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >除外)<br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Shinkichon"
                 >神機箭</nuxt-link
@@ -411,7 +412,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-              >：投石車最小攻擊距離移除。
+              >：投石車最小射程移除。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
@@ -644,7 +645,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">濺射範圍</td>
+            <td class="unit3">擴散範圍</td>
             <td class="unit4">1.25</td>
           </tr>
           <tr>
@@ -652,11 +653,11 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊間隔</td>
+            <td class="unit3">開火間隔</td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3">射程</td>
             <td class="unit4">8</td>
           </tr>
           <tr>
@@ -668,7 +669,7 @@
             <td class="unit4">100%</td>
           </tr>
           <tr>
-            <td class="unit3">彈道速度</td>
+            <td class="unit3">射速</td>
             <td class="unit4">3.5</td>
           </tr>
           <tr>
@@ -679,7 +680,7 @@
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">

@@ -37,10 +37,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            查理曼大帝是加洛林王朝的法蘭克王，也是查爾斯·馬特爾的孫子。
-            在八世紀，他把以後將成為<nuxt-link to="/civs/Franks">法國</nuxt-link
-            >，德國和低地國家的很大一部分國土聯合起來。
-            他與意大利的倫巴第人和<nuxt-link to="/civs/Spanish"
+            查理曼大帝是加洛林王朝的法蘭克王，也是查爾斯·馬特爾的孫子。在八世紀，他把以後將成為<nuxt-link
+              to="/civs/Franks"
+              >法國</nuxt-link
+            >，德國和低地國家的很大一部分國土聯合起來。他與意大利的倫巴第人和<nuxt-link
+              to="/civs/Spanish"
               >西班牙</nuxt-link
             >的穆斯林作戰，稱自己為教皇的捍衛者。西元800年，在羅馬舉行的加冕典禮上，查理曼成為第一位<nuxt-link
               to="/batt/Holy_Roman_Emperor"
@@ -155,7 +156,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>

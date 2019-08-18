@@ -355,7 +355,7 @@
                   src="~assets/Faith.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
                 <img
                   class="gg"
                   src="~assets/Heresy.png"
@@ -469,7 +469,7 @@
                 >速度快80%
               </li>
               <li>
-                <nuxt-link to="/civs/Vikings">維京</nuxt-link>：碼頭便宜15%`.
+                <nuxt-link to="/civs/Vikings">維京</nuxt-link>：碼頭便宜15%。
               </li>
             </ul>
           </div>

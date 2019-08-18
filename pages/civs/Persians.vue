@@ -193,7 +193,7 @@
               波斯的文明加成使TC(城鎮中心)爆戰術變得更加可以實現。(雖然這是少見的戰術)
             </li>
             <li>
-              波斯的步兵雖然是最弱的，但這一特徵要到帝王時期才會顯現出來，在此之前波斯可以善用良好的經濟，產出足夠的步兵來打擊對手。唯一要注意的是，若希望將遊戲拖進帝王時代，則要斟酌是否要生產過量的步兵，由於不可升級成<nuxt-link
+              波斯的步兵雖然是最弱的，但這一特徵要到帝王時代才會顯現出來，在此之前波斯可以善用良好的經濟，產出足夠的步兵來打擊對手。唯一要注意的是，若希望將遊戲拖進帝王時代，則要斟酌是否要生產過量的步兵，由於不可升級成<nuxt-link
                 to="/units/Two-Handed_Swordsman"
                 >雙手劍兵</nuxt-link
               >，這些多餘的<nuxt-link to="/units/Infantry_Units"
@@ -337,7 +337,7 @@
               </td>
               <td class="tta3">
                 底比利亞斯(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -354,7 +354,7 @@
               </td>
               <td class="tta3">
                 波斯的警戒部隊(友軍)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -372,7 +372,7 @@
               </td>
               <td class="tta3">
                 瓜利密(友軍變成敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -390,7 +390,7 @@
               </td>
               <td class="tta3">
                 大馬士革(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -406,7 +406,7 @@
               </td>
               <td class="tta3">
                 <nuxt-link to="/civs/Persians">波斯人</nuxt-link>(敵對)
-                <div class="p2"></div>
+                <div class="p2" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -424,7 +424,7 @@
               </td>
               <td class="tta3">
                 達尼亞(友軍)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -443,7 +443,7 @@
               </td>
               <td class="tta3">
                 卡扎爾人(友軍)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -460,7 +460,7 @@
               </td>
               <td class="tta3">
                 波斯人(友軍)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
               </td>
             </tr>
           </table>

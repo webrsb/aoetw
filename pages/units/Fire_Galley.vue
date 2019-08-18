@@ -59,7 +59,7 @@
           <p>
             火蒙衝也很容易受到<nuxt-link to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
-            >的威脅，因為火蒙衝的攻擊距離很近，所以無法在爆炸前打沉<nuxt-link
+            >的威脅，因為火蒙衝的射程很近，所以無法在爆炸前打沉<nuxt-link
               to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
             >。如果一艘<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
@@ -161,7 +161,7 @@
                 src="~assets/Faith.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -781,7 +781,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3">射程</td>
             <td class="unit4">2.49</td>
           </tr>
           <tr>

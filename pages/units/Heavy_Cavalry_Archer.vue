@@ -172,7 +172,7 @@
                 >矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、。
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -296,7 +296,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:對移動目標命中率上升 <br />
+              >:對移動目標命中率上升<br />
               <img
                 class="gg"
                 src="~assets/Thumb_Ring.png"
@@ -359,7 +359,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -1060,7 +1060,7 @@
               >
             </td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.4</td>

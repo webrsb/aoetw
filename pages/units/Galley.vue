@@ -178,7 +178,7 @@
                 src="~assets/Faith.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -734,8 +734,7 @@
                 to="/civs/Byzantines"
                 >拜占庭人</nuxt-link
               >之外沒有其他<nuxt-link to="/civs">文明</nuxt-link
-              >擁有維持任何海軍所需的財富和組織。幾個世紀過後，幾艘小型戰艦再次出現在西地中海。
-              這些主要是用於偵察和追捕騷擾海上貿易的海盜的槳式機動船。西方最好的軍艦是由拜占庭人建造和維護的，造船自古以來一直是拜占庭人他們的傳統。“"</em
+              >擁有維持任何海軍所需的財富和組織。幾個世紀過後，幾艘小型戰艦再次出現在西地中海。這些主要是用於偵察和追捕騷擾海上貿易的海盜的槳式機動船。西方最好的軍艦是由拜占庭人建造和維護的，造船自古以來一直是拜占庭人他們的傳統。“"</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
@@ -888,7 +887,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3">射程</td>
             <td class="unit4">5</td>
           </tr>
           <tr>

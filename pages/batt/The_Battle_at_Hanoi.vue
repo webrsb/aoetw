@@ -37,7 +37,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -45,7 +45,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Vietnamese">越南人</nuxt-link>（黃色）
               </td>
@@ -54,9 +57,15 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家3</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6">當地百姓（綠色）越南</td>
-              <td class="tc6"><div class="p8">玩家4</div></td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 叛明部隊（橘色）<nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
@@ -64,9 +73,12 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p1">玩家2</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家2
+              </td>
               <td class="tc6">明軍（藍色）中國</td>
             </tr>
           </table>
@@ -131,12 +143,10 @@
         <div class="n1">
           <ul>
             <li>
-              黎利的軍隊一開始出現在地圖南邊，
-              他打算把死守昇龍城的明軍一舉消滅在城內，但在那之前他想先解救一些被明軍奴役的大越百姓（綠色）。
+              黎利的軍隊一開始出現在地圖南邊，他打算把死守昇龍城的明軍一舉消滅在城內，但在那之前他想先解救一些被明軍奴役的大越百姓（綠色）。
             </li>
             <li>
-              明軍（藍色）佔據了昇龍城（即交州府）和周邊的地區，
-              但是他們的主力都佈置在城內，所以城外的守備比較空虛。
+              明軍（藍色）佔據了昇龍城（即交州府）和周邊的地區，但是他們的主力都佈置在城內，所以城外的守備比較空虛。
             </li>
             <li>
               有一些士兵從明軍大營裡叛逃了出來，躲在茂密的森林裡。如果他們覺得黎利勢眾（大於30人），他們可能會投奔與你，和你一起攻打昇龍。

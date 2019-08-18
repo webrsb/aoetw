@@ -90,8 +90,8 @@
               飛刀女獵手非常靈活，可以有效執行各種角色。例如，升級<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
-              >的飛刀女獵手可以快速摧毀沒保護的基地，並在情況變得不利時安全地撤退。
-              飛刀女獵手也能配合<nuxt-link to="/units/Cavalry_Units"
+              >的飛刀女獵手可以快速摧毀沒保護的基地，並在情況變得不利時安全地撤退。飛刀女獵手也能配合<nuxt-link
+                to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               >部隊，因為兩者都很快，可以掩蓋彼此的弱點。騎兵可充當肉盾，並消滅對飛刀女獵手（特別是<nuxt-link
                 to="/units/Siege_Weapons"
@@ -230,7 +230,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -619,7 +619,7 @@
             <td class="unit3">命中率</td>
             <td class="unit4">100%</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">發射速度</td>
             <td class="unit4">7</td>

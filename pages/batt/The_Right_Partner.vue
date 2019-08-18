@@ -25,7 +25,10 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p3">玩家1</div></td>
+            <td class="tc6" width="14%">
+              <div class="p3"></div>
+              玩家1
+            </td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>（綠色）
             </td>
@@ -34,28 +37,46 @@
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p4">玩家2</div></td>
+            <td class="tc6" width="14%">
+              <div class="p4"></div>
+              玩家2
+            </td>
             <td class="tc6">
               伊克什德（黃色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
             </td>
-            <td class="tc6"><div class="p6">玩家3</div></td>
+            <td class="tc6" width="14%">
+              <div class="p6"></div>
+              玩家3
+            </td>
             <td class="tc6">諾帕夏（紫色）衣索比亞</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p2">玩家4</div></td>
+            <td class="tc6" width="14%">
+              <div class="p2"></div>
+              玩家4
+            </td>
             <td class="tc6">貝賈部落（紅色）衣索比亞</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p5">玩家5</div></td>
+            <td class="tc6" width="14%">
+              <div class="p5"></div>
+              玩家5
+            </td>
             <td class="tc6">海盜（青色）薩拉森</td>
-            <td class="tc6"><div class="p8">玩家6</div></td>
+            <td class="tc6" width="14%">
+              <div class="p8"></div>
+              玩家6
+            </td>
             <td class="tc6">敵對的貝賈部落（橘色）衣索比亞</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p7">玩家7</div></td>
+            <td class="tc6" width="14%">
+              <div class="p7"></div>
+              玩家7
+            </td>
             <td class="tc6">入侵者（灰色）薩拉森</td>
           </tr>
         </table>
@@ -171,7 +192,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="green">綠色</font></td>
+            <td class="unit4">
+              <div class="p3"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -183,7 +207,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/ak">非洲王國</nuxt-link>第四章第二
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>第四章之二
             </td>
           </tr>
           <tr>
@@ -195,7 +219,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>
+              <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>
             </td>
           </tr>
         </table>

@@ -1271,7 +1271,7 @@
               <td class="tunitc5">400F 400G</td>
               <td class="tunitc6">
                 <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
-                >攻擊距離+1。
+                >射程+1。
               </td>
             </tr>
             <tr>

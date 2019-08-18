@@ -125,7 +125,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -661,7 +661,7 @@
               >和物資。英格蘭在中世紀曾多次遭到侵略，其中包括早期的薩克森人/黃麻人入侵，<nuxt-link
                 to="/civs/Vikings"
                 >挪威</nuxt-link
-              >入侵（丹麥人暫時統治了英格蘭的大部分地區），以及後來西元1066的諾曼人入侵.諾曼人還入侵過西西里島和意大利南部。許多十字軍東征涉及從<nuxt-link
+              >入侵（丹麥人暫時統治了英格蘭的大部分地區），以及後來西元1066的諾曼人入侵。諾曼人還入侵過西西里島和意大利南部。許多十字軍東征涉及從<nuxt-link
                 to="/civs/Franks"
                 >法國</nuxt-link
               >到聖地的海上運輸。百年戰爭期間，<nuxt-link to="/civs/Britons"

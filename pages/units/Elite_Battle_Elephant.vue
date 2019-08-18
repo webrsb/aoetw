@@ -214,7 +214,7 @@
                 >建築</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定 <br />
+              >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定<br />
               <img
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
@@ -755,7 +755,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link> <br /><nuxt-link
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link><br /><nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
               >

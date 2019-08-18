@@ -79,7 +79,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p3">玩家1</div>
+                <div class="p3"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>（綠色）
@@ -90,11 +91,13 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2">玩家2</div>
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6">特拉斯卡拉(紅色)阿茲特克</td>
               <td class="tc6">
-                <div class="p1">玩家3</div>
+                <div class="p1"></div>
+                玩家3
               </td>
               <td class="tc6">
                 科爾特斯(藍色)<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
@@ -105,7 +108,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p8">玩家4</div>
+                <div class="p8"></div>
+                玩家4
               </td>
               <td class="tc6">
                 塔巴斯科(橙色)<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
@@ -207,8 +211,7 @@
           <ul>
             <li>
               科爾特斯因為前<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
-              >先知雅克希蘭而被誤認為是羽蛇神，但由於他的激進觀點雅克希蘭因而被流放。雅克希蘭把自己的信仰強加在一小部分先知和其他流亡者身上。
-              這些信仰在阿茲台克人的土地上成立了一個小型的邪教組織，直到貿易接觸將這個信仰轉移到內地，之後開枝散葉深深地影響當地。這個信仰導致了蒙特蘇瑪赦免和接受科爾特斯。
+              >先知雅克希蘭而被誤認為是羽蛇神，但由於他的激進觀點雅克希蘭因而被流放。雅克希蘭把自己的信仰強加在一小部分先知和其他流亡者身上。這些信仰在阿茲台克人的土地上成立了一個小型的邪教組織，直到貿易接觸將這個信仰轉移到內地，之後開枝散葉深深地影響當地。這個信仰導致了蒙特蘇瑪赦免和接受科爾特斯。
             </li>
             <li>即使塔巴斯科不被敵人攻擊，他們最後仍然會自殺。</li>
           </ul>
@@ -255,7 +258,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="green">綠色</font></td>
+            <td class="unit4">
+              <div class="p3"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -267,7 +273,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章第三
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章之三
             </td>
           </tr>
           <tr>

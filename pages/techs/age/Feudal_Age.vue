@@ -8,11 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>封建時代</b>是世紀帝國II的第二個時代。
-            它允許訓練和建造更多的單位和<nuxt-link to="/building"
+            <b>封建時代</b
+            >是世紀帝國II的第二個時代。它允許訓練和建造更多的單位和<nuxt-link
+              to="/building"
               >建築</nuxt-link
-            >，還有更多的<nuxt-link to="/techs">科技</nuxt-link>可以研發。
-            玩家可以使用一系列的<nuxt-link to="/units/Infantry_Units"
+            >，還有更多的<nuxt-link to="/techs">科技</nuxt-link
+            >可以研發。玩家可以使用一系列的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、<nuxt-link
               to="/units/Archer_Units"
@@ -559,25 +560,25 @@
           <tr>
             <td class="unit3">所需建築</td>
             <td class="unit4">
-              下面任兩項： <br />
+              下面任兩項：<br />
               <img
                 class="gg"
                 src="~assets/Barracks-logo.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Barracks">軍營</nuxt-link> <br />
+              /><nuxt-link to="/building/Barracks">軍營</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Millicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Mill">磨坊</nuxt-link> <br />
+              /><nuxt-link to="/building/Mill">磨坊</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Lumbercampicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link> <br />
+              /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Miningcampicon.png"

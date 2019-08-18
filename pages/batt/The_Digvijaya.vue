@@ -28,11 +28,7 @@
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
                 100<nuxt-link to="/resource/Wood">木頭</nuxt-link
-                >，100<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
-                  to="/resource/Stone"
-                  >石頭</nuxt-link
-                >
+                >／100<nuxt-link to="/resource/Food">食物</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
@@ -48,7 +44,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p8">玩家1</div>
+                <div class="p8"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="4">
                 主角（橘色）<nuxt-link to="/civs/Indians">印度</nuxt-link>
@@ -59,7 +56,8 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p2">玩家2</div>
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6" width="35%">印度村莊（紅色）印度</td>
             </tr>
@@ -68,33 +66,39 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p6">玩家3</div>
+                <div class="p6"></div>
+                玩家3
               </td>
               <td class="tc6">加哈達瓦拉人（紫色）印度</td>
               <td class="tc6">
-                <div class="p1">玩家4</div>
+                <div class="p1"></div>
+                玩家4
               </td>
               <td class="tc6">喀什米爾人（藍色）印度</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p4">玩家5</div>
+                <div class="p4"></div>
+                玩家5
               </td>
               <td class="tc6" width="35%">昌德拉人（黃色）印度</td>
               <td class="tc6" width="15%">
-                <div class="p5">玩家6</div>
+                <div class="p5"></div>
+                玩家6
               </td>
               <td class="tc6" width="35%">帕拉羅摩人（水藍色）印度</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p3">玩家7</div>
+                <div class="p3"></div>
+                玩家7
               </td>
               <td class="tc6" width="35%">
                 伽色尼人（綠色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
               <td class="tc6" width="15%">
-                <div class="p7">玩家8</div>
+                <div class="p7"></div>
+                玩家8
               </td>
               <td class="tc6" width="35%">
                 索蘭基人（灰色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>

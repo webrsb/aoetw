@@ -12,7 +12,7 @@
           >。徒步<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
           >，射程很遠。因此伴隨著低<nuxt-link to="/elements/Hit_points"
             >生命值</nuxt-link
-          >。 <br />
+          >。<br />
           <br />長弓兵能夠在<nuxt-link to="/techs/age/Imperial_Age"
             >帝王時代</nuxt-link
           >升級成精銳長弓兵。

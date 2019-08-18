@@ -25,11 +25,10 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Wood">木頭</nuxt-link>800，<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >200，<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >300，<nuxt-link to="/resource/Stone">石頭</nuxt-link>200
+                800<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >／200<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／300<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -44,7 +43,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>（紅色）
               </td>
@@ -53,15 +55,24 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="11%"><div class="p4">玩家2</div></td>
+              <td class="tc6" width="11%">
+                <div class="p4"></div>
+                玩家2
+              </td>
               <td class="tc6" width="39%">
                 托雷多（黃色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
               </td>
-              <td class="tc6" width="12%"><div class="p5">玩家3</div></td>
+              <td class="tc6" width="12%">
+                <div class="p5"></div>
+                玩家3
+              </td>
               <td class="tc6" width="39%">蒙達米特（藍綠）薩拉森</td>
             </tr>
             <tr>
-              <td class="tc6" width="11%"><div class="p6">玩家6</div></td>
+              <td class="tc6" width="11%">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6" width="38%">
                 回教長老<nuxt-link to="/units/hero/Imam">伊滿</nuxt-link
                 >（紫色）薩拉森
@@ -71,12 +82,17 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家5</div></td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家5
+              </td>
               <td class="tc6">西班牙的叛亂軍（橘色）西班牙</td>
-              <td class="tc6"><div class="p3">玩家6</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家6
+              </td>
               <td class="tc6">摩爾人的反叛軍（綠色）薩拉森</td>
             </tr>
-            <tr></tr>
           </table>
 
           <br />
@@ -189,8 +205,7 @@
               >比農場消耗的資源更少。
             </li>
             <li>
-              利用運輸船載送熙德去找伊滿在最北端的島嶼此時他會告訴你
-              只要你帶來4個遺跡，他將有辦法結束這場叛亂。
+              利用運輸船載送熙德去找伊滿在最北端的島嶼此時他會告訴你只要你帶來4個遺跡，他將有辦法結束這場叛亂。
             </li>
             <li>
               4個遺跡分別在 兩個<nuxt-link to="/building/Monastery"
@@ -222,8 +237,7 @@
             <li>
               在進入敵營時，可以針對<nuxt-link to="/building/Barracks"
                 >軍營</nuxt-link
-              >、馬場、弓箭場進行破壞阻斷敵軍生產軍隊，或者派遣大量騎士
-              駐守在軍營附近，就近消滅。
+              >、馬場、弓箭場進行破壞阻斷敵軍生產軍隊，或者派遣大量騎士駐守在軍營附近，就近消滅。
             </li>
             <li>
               拿到運輸船後，可以讓他到河道彎道下方（敵軍<nuxt-link

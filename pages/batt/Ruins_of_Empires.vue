@@ -10,11 +10,11 @@
           <p>
             <b>帝國的廢墟</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeida"
-              >法蘭西斯科·阿爾梅達</nuxt-link
+              >法蘭西斯科·德·阿爾梅達</nuxt-link
             >》劇情<nuxt-link to="/batt">戰役</nuxt-link>中的第三關。
           </p>
           <p>
-            <b>法蘭西斯科·阿爾梅達</b>被年輕國王瑪努爾任命為<nuxt-link
+            <b>法蘭西斯科·德·阿爾梅達</b>被年輕國王瑪努爾任命為<nuxt-link
               to="/civs/Indians"
               >印度</nuxt-link
             >總督，這件事讓整個<nuxt-link to="/civs/Portuguese"
@@ -44,13 +44,7 @@
               </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
-                0<nuxt-link to="/resource/Wood">木頭</nuxt-link>，0<nuxt-link
-                  to="/resource/Food"
-                  >食物</nuxt-link
-                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
-                  to="/resource/Stone"
-                  >石頭</nuxt-link
-                >
+                無
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">19/15</td>
@@ -67,7 +61,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1">玩家1</div>
+                <div class="p1"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="4">主角（藍色）葡萄牙</td>
             </tr>
@@ -76,7 +71,8 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p2">玩家2</div>
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6" width="35%">
                 基爾瓦人（紅色）<nuxt-link to="/civs/Ethiopians"
@@ -84,7 +80,8 @@
                 >
               </td>
               <td class="tc6" width="15%">
-                <div class="p4">玩家3</div>
+                <div class="p4"></div>
+                玩家3
               </td>
               <td class="tc6" width="35%">
                 蒙巴薩人（黃色）<nuxt-link to="/civs/Malians">馬利</nuxt-link>
@@ -92,7 +89,8 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p5">玩家4</div>
+                <div class="p5"></div>
+                玩家4
               </td>
               <td class="tc6" width="35%">
                 桑給巴爾人（水藍色）<nuxt-link to="/civs/Saracens"
@@ -100,7 +98,8 @@
                 >
               </td>
               <td class="tc6" width="15%">
-                <div class="p3">玩家5</div>
+                <div class="p3"></div>
+                玩家5
               </td>
               <td class="tc6" width="35%">斯瓦西里村莊（綠色）馬利</td>
             </tr>
@@ -109,11 +108,13 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p8">玩家6</div>
+                <div class="p8"></div>
+                玩家6
               </td>
               <td class="tc6" width="35%">班圖人（橘色）衣索比亞</td>
               <td class="tc6" width="15%">
-                <div class="p8">玩家7</div>
+                <div class="p8"></div>
+                玩家7
               </td>
               <td class="tc6" width="35%">班圖人（橘色）衣索比亞</td>
             </tr>
@@ -219,7 +220,7 @@
         <div class="n1">
           <ul>
             <li>
-              暴風雨讓<b>法蘭西斯科·阿爾梅達</b>和他的兒子<b>洛倫索</b>在航行中迷失了方向，與其餘艦隊失散了。毀壞的<nuxt-link
+              暴風雨讓<b>法蘭西斯科·德·阿爾梅達</b>和他的兒子<b>洛倫索</b>在航行中迷失了方向，與其餘艦隊失散了。毀壞的<nuxt-link
                 to="/units/Naval_Vessels"
                 >船艦</nuxt-link
               >到達了松果島，這是斯瓦西里海岸的眾多島嶼中的一個。
@@ -374,7 +375,7 @@
             <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </td>
           </tr>
@@ -418,7 +419,7 @@
             維基百科上的<i
               ><b
                 ><a href="http://t.cn/EqFPNxP" target="_blank"
-                  >法蘭西斯科·阿爾梅達</a
+                  >法蘭西斯科·德·阿爾梅達</a
                 ></b
               ></i
             >

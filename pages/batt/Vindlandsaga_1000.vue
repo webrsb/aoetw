@@ -76,7 +76,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2">玩家1</div>
+                <div class="p2"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Vikings">維京</nuxt-link>（紅色）
@@ -93,7 +94,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1">玩家2</div>
+                <div class="p1"></div>
+                玩家2
               </td>
               <td class="tc6">
                 <nuxt-link to="/civs/Britons">英國</nuxt-link>（藍色）<nuxt-link
@@ -102,13 +104,15 @@
                 >
               </td>
               <td class="tc6">
-                <div class="p3">玩家3</div>
+                <div class="p3"></div>
+                玩家3
               </td>
               <td class="tc6">格陵蘭（綠色）維京</td>
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p6">玩家4</div>
+                <div class="p6"></div>
+                玩家4
               </td>
               <td class="tc6">斯格林斯（紫色）塞爾特</td>
             </tr>

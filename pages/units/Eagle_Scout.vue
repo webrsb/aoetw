@@ -23,8 +23,7 @@
             >生產。到了<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >可以直接升為<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-            >。
-            在升級為鷹勇士前，鷹斥侯相對不實用，且生產的非常慢，但到了<nuxt-link
+            >。在升級為鷹勇士前，鷹斥侯相對不實用，且生產的非常慢，但到了<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >，他將一躍而成一種超op兵種。 到了《<nuxt-link to="/games/aof"
@@ -39,7 +38,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在《世紀帝國II：失落的帝國》中，因為可以在<nuxt-link
+            在《世紀帝國II：非洲王朝》中，因為可以在<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >生產鷹斥侯，於是又多了一些打法。現在的南美國家<nuxt-link
@@ -216,7 +215,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -588,7 +587,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link> <br /><nuxt-link
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link><br /><nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >

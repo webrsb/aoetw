@@ -17,7 +17,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            這個單位無法在標準游戲中生產，雖然名字聽起來很厲害，但實質上僅僅衹是普通的<nuxt-link
+            這個單位無法在標準遊戲中生產，雖然名字聽起來很厲害，但實質上僅僅衹是普通的<nuxt-link
               to="/units/Spearman"
               >槍兵</nuxt-link
             >加了一些<nuxt-link to="/elements/Hit_points">血量</nuxt-link

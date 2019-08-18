@@ -210,7 +210,7 @@
               <div class="col-md-4">
                 <h4>
                   <nuxt-link to="/civs/Chinese">中國</nuxt-link
-                  >超高大屌哥VSViper <br />秒殺搶城 <br />(怎麼打搶城仔)
+                  >超高大屌哥VSViper <br />秒殺搶城<br />(怎麼打搶城仔)
                 </h4>
                 <iframe
                   width="100%"
@@ -221,7 +221,7 @@
                 ></iframe>
               </div>
               <div class="col-md-4">
-                <h4>Viper vs Liereyy <br />天圖搶城 <br />出緬甸城堡兵</h4>
+                <h4>Viper vs Liereyy <br />天圖搶城<br />出緬甸城堡兵</h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/fg5FJIdnjkg"
@@ -233,7 +233,7 @@
               <div class="col-md-4">
                 <h4>
                   Viper vs<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-                  >超高chip <br />標準3棒棒 <br />直城馬弓
+                  >超高chip <br />標準3棒棒<br />直城馬弓
                 </h4>
                 <iframe
                   width="100%"
@@ -244,7 +244,7 @@
                 ></iframe>
               </div>
               <div class="col-md-4">
-                <h4>Viper 示範 <br />標準3棒棒 <br />直城</h4>
+                <h4>Viper 示範<br />標準3棒棒<br />直城</h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/PqkewWR4BQ8"

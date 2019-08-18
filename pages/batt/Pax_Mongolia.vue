@@ -29,9 +29,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 500<nuxt-link to="/resource/Wood">木頭</nuxt-link
-                >，500<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，200<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，500<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／500<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／500<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -39,7 +39,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -47,7 +47,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p8">玩家1</div></td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
               </td>
@@ -55,9 +58,12 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p6">玩家2</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6">
                 匈牙利（紫色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>

@@ -12,8 +12,8 @@
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，只可以在<nuxt-link to="/batt">戰役</nuxt-link
-            >編輯器中找到。薩瓦蘭重騎兵沒有出現在原先《世紀帝國II：
-            帝王世紀》的戰役中，反而在《<nuxt-link to="/games/aof"
+            >編輯器中找到。薩瓦蘭重騎兵沒有出現在原先《世紀帝國II：帝王世紀》的戰役中，反而在《<nuxt-link
+              to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
             >》的戰役中出現好幾次。薩瓦蘭重騎兵有<nuxt-link
               to="/units/Cataphract"
@@ -94,7 +94,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>

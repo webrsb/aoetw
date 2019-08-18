@@ -11,7 +11,7 @@
               alt=""
               style="margin-right:20px;"/>這條目相當完整，是一篇<nuxt-link
               to="/ue"
-              >優異條目</nuxt-link
+              >優良條目</nuxt-link
             ><img src="~assets/u1.png" style="margin-left: 15px;" width="25px;"
           /></em>
         </div>
@@ -26,8 +26,7 @@
             >進行訓練。雖然缺乏一切攻擊手段，他們仍然佔有一席之地，因為他們是能夠將其他單位轉換為玩家己方單位（另一個是<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >）的唯二單位之一。
-            此外，僧侶可以治癒所有同盟或自己的單位，除了<nuxt-link
+            >）的唯二單位之一。此外，僧侶可以治癒所有同盟或自己的單位，除了<nuxt-link
               to="/units/Naval_Vessels"
               >船隻</nuxt-link
             >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
@@ -40,8 +39,9 @@
             在所有的<nuxt-link to="/civs">文明</nuxt-link>中，<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克</nuxt-link
-            >人擁有最強大的僧侶，可以使用所有的宗教技術，同時每研發一項技術可獲得+5生命。
-            如果每項技術研發，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+            >人擁有最強大的僧侶，可以使用所有的宗教技術，同時每研發一項技術可獲得+5生命。如果每項技術研發，<nuxt-link
+              to="/civs/Aztecs"
+              >阿茲特克</nuxt-link
             >僧侶擁有95生命&nbsp;-&nbsp;是普通僧侶（45生命，研發<nuxt-link
               to="/techs/Sanctity"
               >聖潔虔誠</nuxt-link
@@ -254,8 +254,7 @@
           </p>
           <h3>治療</h3>
           <p>
-            僧侶能夠治療友方單位（每0.4秒恢復1生命
-            ）。僧侶通常搭配弓箭手，因為他們很容易控制，並且容易防守。但攻城武器對這個組合而言是一個嚴重威脅。玩家應該根據自己的部隊大小，搭配2到10名僧侶，在戰鬥中治療受傷部隊。僧侶應該盡量遠離危險，讓受傷的單位應該來到僧侶身邊，而不是讓僧侶衝向戰場，否則他們很容易成為目標。<nuxt-link
+            僧侶能夠治療友方單位（每0.4秒恢復1生命）。僧侶通常搭配弓箭手，因為他們很容易控制，並且容易防守。但攻城武器對這個組合而言是一個嚴重威脅。玩家應該根據自己的部隊大小，搭配2到10名僧侶，在戰鬥中治療受傷部隊。僧侶應該盡量遠離危險，讓受傷的單位應該來到僧侶身邊，而不是讓僧侶衝向戰場，否則他們很容易成為目標。<nuxt-link
               to="/civs/Byzantines"
               >拜占庭</nuxt-link
             >和<nuxt-link to="/civs/Teutons">條頓</nuxt-link

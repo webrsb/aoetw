@@ -87,7 +87,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
+              <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</nuxt-link>•
@@ -212,8 +212,8 @@
               <nuxt-link to="/batt/The_Return_of_the_Dragon">龍之歸來</nuxt-link
               >•
               <nuxt-link to="/batt/The_Breath_of_the_Dragon">龍之喘息</nuxt-link
-              >• <nuxt-link to="/The_Moon_Rises.php">撥雲見月</nuxt-link>•
-              <nuxt-link to="/The_Night_Falls.php">暗夜降臨</nuxt-link>
+              >• <nuxt-link to="/batt/The_Moon_Rises">撥雲見月</nuxt-link>•
+              <nuxt-link to="/batt/The_Night_Falls">暗夜降臨</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -328,7 +328,7 @@
           <tr>
             <td class="unit3" style="width: 15%;">
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </td>
             <td class="unit4">
@@ -336,7 +336,7 @@
               <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>•
               <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>•
               <nuxt-link to="/batt/Estado_da_India">葡屬印度</nuxt-link>•
-              <nuxt-link to="/batt/A_Sons_Blood.vue">兒子的血仇</nuxt-link>
+              <nuxt-link to="/batt/A_Sons_Blood">兒子的血仇</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -346,7 +346,7 @@
             <td class="unit4">
               <nuxt-link to="/batt/Path_of_Exile">流亡之路</nuxt-link>•
               <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>•
-              <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>•
+              <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>•
               <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>•
               <nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </td>
@@ -365,7 +365,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+              <nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Story_of_our_Founders"
@@ -383,7 +383,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link>
+              <nuxt-link to="/batt/Suryavarman_I">蘇利耶跋摩一世</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Usurpation">揭竿而起</nuxt-link>•

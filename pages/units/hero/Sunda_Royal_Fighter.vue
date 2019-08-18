@@ -26,7 +26,7 @@
           <p>
             巽他皇家侍衛會出現在<nuxt-link to="/batt/Bayinnaunga"
               >勃印曩</nuxt-link
-            >和<nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link
+            >和<nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link
             >的<nuxt-link to="/batt">戰役</nuxt-link>中。
           </p>
           <strong><li>加查·馬達</li></strong>
@@ -38,11 +38,16 @@
           </p>
           <strong><li>勃印曩</li></strong>
           <p>
-            巽他皇家侍衛在戰役"餓虎撲食"中四散在地圖上，玩家可以招降他們。而在戰役"猛蛇出洞"他們會跟龍舟、<nuxt-link
-              to="/units/edmap/Canoe"
-              >獨木舟</nuxt-link
+            巽他皇家侍衛在戰役"<nuxt-link to="/batt/The_Burmese_Tigers"
+              >餓虎撲食</nuxt-link
+            >"中四散在地圖上，玩家可以招降他們。而在戰役"<nuxt-link
+              to="/batt/The_Mandalay_Cobra"
+              >猛蛇出洞</nuxt-link
+            >"他們會跟龍舟、<nuxt-link to="/units/edmap/Canoe">獨木舟</nuxt-link
             >和<nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >一起出現。在"白象化身"戰役也能看到牠們的身影。
+            >一起出現。在"<nuxt-link to="/batt/The_White_Elephant"
+              >白象化身</nuxt-link
+            >"戰役也能看到牠們的身影。
           </p>
         </div>
       </div>
@@ -115,12 +120,12 @@
             </td>
             <td class="unit4">2.03</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>

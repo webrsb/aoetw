@@ -320,7 +320,7 @@
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
-                >:增加駐守單位回血速度 <br />
+                >:增加駐守單位回血速度<br />
                 <img
                   class="gg"
                   src="~assets/Unique-tech.jpg"
@@ -593,7 +593,7 @@
           </tr>
           <tr>
             <td class="unit3">功能</td>
-            <td class="unit4">生產和強化村民 <br />收集資源<br />時代演進</td>
+            <td class="unit4">生產和強化村民<br />收集資源<br />時代演進</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">

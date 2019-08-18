@@ -98,7 +98,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊距離</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -121,7 +121,7 @@
               >:可提升火藥單位對移動中目標命中率，<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
-              >限定 <br />
+              >限定<br />
             </td>
           </tr>
           <tr>
@@ -134,7 +134,7 @@
                 src="~assets/Heresy.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link> <br />
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Faith.jpg"
@@ -417,7 +417,7 @@
               風琴砲對<nuxt-link to="/building">建築物</nuxt-link
               >不再有攻擊加成。
             </li>
-            <li>風琴砲的最小攻擊距離為1。</li>
+            <li>風琴砲的最小射程為1。</li>
             <li>5.7改版後風琴砲現在有2的擴散攻擊。</li>
           </ul>
         </div>

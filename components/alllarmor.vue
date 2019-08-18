@@ -39,7 +39,7 @@
               <nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >•
-              <nuxt-link to="/armor/Armor_Class_wall_and_gate">牆與門</nuxt-link
+              <nuxt-link to="/armor/Armor_Class_wall_and_gate">城牆和城門</nuxt-link
               >•
               <nuxt-link to="/armor/Armor_Class_Castle">城堡</nuxt-link>
             </td>

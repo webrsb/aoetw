@@ -36,7 +36,7 @@
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >東正教這<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >就是取自這邊，帝王時期<nuxt-link to="/techs/Druzhina"
+            >就是取自這邊，帝王時代<nuxt-link to="/techs/Druzhina"
               >王家侍從</nuxt-link
             >也跟拜占庭的<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
             >有相同效果。比較不一樣的是遊戲中給予斯拉夫是<nuxt-link

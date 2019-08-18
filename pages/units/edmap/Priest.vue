@@ -35,10 +35,8 @@
           <li>神父頭像依然使用原本僧侶的頭像。</li>
           <li>
             遊戲中僧侶<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >聲音的運作方式是根據遊戲中首先播放的聲音來選擇全局的招降聲音。
-            例如，如果神父是第一個
-            吟唱的人，那麼所有的僧侶單位，包括一般常見的僧侶，將在之後的遊戲部分使用“Wololo”作為招降聲音。
-            但是，如果 一個普通的僧侶（或<nuxt-link to="/armor/Armor_Class_Monk"
+            >聲音的運作方式是根據遊戲中首先播放的聲音來選擇全局的招降聲音。例如，如果神父是第一個吟唱的人，那麼所有的僧侶單位，包括一般常見的僧侶，將在之後的遊戲部分使用“Wololo”作為招降聲音。但是，如果一個普通的僧侶（或<nuxt-link
+              to="/armor/Armor_Class_Monk"
               >僧侶類</nuxt-link
             >型的任何其他單位）首先使用正常的招降聲音，那麼神父將使用常規的聲音進行招降。
           </li>
@@ -65,7 +63,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle"><nuxt-link to="">神父</nuxt-link></div>
             </td>
           </tr>
@@ -77,7 +75,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 <nuxt-link to="">單位介紹</nuxt-link>
               </div>
@@ -96,7 +94,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
           </tr>

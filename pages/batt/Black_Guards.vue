@@ -25,10 +25,9 @@
               </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
-                <nuxt-link to="/resource/Food">食物</nuxt-link>275，<nuxt-link
-                  to="/resource/Gold"
-                  >黃金</nuxt-link
-                >200，<nuxt-link to="/resource/Stone">石頭</nuxt-link>200
+                275<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">100</td>
@@ -43,7 +42,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>（紅色）
               </td>
@@ -52,7 +54,10 @@
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家2</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家2
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/units/hero/King_Alfonso">阿方索國王</nuxt-link
                 >的軍隊
@@ -62,17 +67,26 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家3</div></td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 黑衛隊軍隊（藍綠色）<nuxt-link to="/civs/Saracens"
                   >薩拉森</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p3">玩家4</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家4
+              </td>
               <td class="tc6">約索夫（綠色）薩拉森</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家5</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家5
+              </td>
               <td class="tc6">黑衛隊海軍（黃色）薩拉森</td>
             </tr>
           </table>
@@ -219,8 +233,7 @@
                 >直接撞碼頭。
               </li>
               <li>
-                另外影片打法是可行的
-                但招降運輸船那可能會比較困難一點，如果萬一失敗漂走就用一般打法過關。
+                另外影片打法是可行的但招降運輸船那可能會比較困難一點，如果萬一失敗漂走就用一般打法過關。
               </li>
             </ul>
             <h3>快速破關</h3>

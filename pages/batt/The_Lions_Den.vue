@@ -30,9 +30,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 1,000<nuxt-link to="/resource/Wood">木材</nuxt-link
-                >，1,000<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，500<nuxt-link to="/resource/Stone">石礦</nuxt-link>
+                >／1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／500<nuxt-link to="/resource/Stone">石礦</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">200</td>
@@ -40,7 +40,7 @@
           </table>
 
           <h3>AI</h3>
-          <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -48,22 +48,28 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家1</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>（紫色）
               </td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
-            </tr>
-            <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
+              <td class="tc6" width="12%">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">庫姆比薩萊赫（紅色）馬利</td>
-              <td class="tc6" width="12%"><div class="p8">玩家3</div></td>
+              <td class="tc6" width="12%">
+                <div class="p8"></div>
+                玩家3
+              </td>
               <td class="tc6" width="38%">蘇曼古魯（橘色）馬利</td>
             </tr>
           </table>
@@ -182,8 +188,7 @@
                     >、20隻馬弓、20隻飛刀女兵。之所以用馬弓不用強弩，是因為馬弓跑得跟飛刀女兵差不多快，一起行動才不會浪費了女兵的機動性。準備好之後把敵人橋上的城牆打掉一格改建為自己的<nuxt-link
                       to="/building/Gate"
                       >城門</nuxt-link
-                    >。
-                    大軍開過去，馬弓跟女兵固守原地模式作為掩護，火砲先拆城牆防禦工事，拆完打奇觀再掃蕩。要特別小心操控火砲的位置，因為敵人兩層城牆之間放著許多弓兵以及巨投跟重投。小心別讓火砲被砸到了。
+                    >。大軍開過去，馬弓跟女兵固守原地模式作為掩護，火砲先拆城牆防禦工事，拆完打奇觀再掃蕩。要特別小心操控火砲的位置，因為敵人兩層城牆之間放著許多弓兵以及巨投跟重投。小心別讓火砲被砸到了。
                   </li>
                   <li>
                     你的死對頭橘色，他的軍隊全部圍在奇觀旁邊，由於時間緊迫不能節外生枝，在你用火砲打奇觀的時候小心不要打到他的軍隊，他就不會弄你（真是豬隊友，隊友奇觀被攻擊都不會守一下）。

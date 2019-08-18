@@ -114,7 +114,7 @@
                 alt=""
               /><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
               >:步兵攻擊+4，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >限定。 <br />
+              >限定。<br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -124,7 +124,7 @@
                 to="/units/Infantry_Units"
                 >步兵單位</nuxt-link
               >有<nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
-              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。 <br />
+              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。<br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -197,7 +197,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -789,9 +789,7 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"中世紀軍隊的中型步兵通常是穿半盔甲的長矛兵，通常是只有頭盔和上半身盔甲，隨著中世紀的進步，長槍兵的定位變得更加重要，軍隊學會了使用大量長槍兵作為
-              對付重騎兵的策略，因為馬即便面對長槍組成的牆也不會停止前進。一群長槍兵通常會使用古希臘方陣，可以在選定的方向上延伸幾個攻擊點對付敵人。長槍兵在戰鬥上的CP值很高，因為所需的裝備和訓練都十分簡單便宜。長槍兵最初是防禦取向的部隊，但是最好的長槍兵，比如
-              瑞士人，蘇格蘭人和佛蘭芒人學會用長槍兵進行攻擊策略。"</em
+              >"中世紀軍隊的中型步兵通常是穿半盔甲的長矛兵，通常是只有頭盔和上半身盔甲，隨著中世紀的進步，長槍兵的定位變得更加重要，軍隊學會了使用大量長槍兵作為對付重騎兵的策略，因為馬即便面對長槍組成的牆也不會停止前進。一群長槍兵通常會使用古希臘方陣，可以在選定的方向上延伸幾個攻擊點對付敵人。長槍兵在戰鬥上的CP值很高，因為所需的裝備和訓練都十分簡單便宜。長槍兵最初是防禦取向的部隊，但是最好的長槍兵，比如瑞士人，蘇格蘭人和佛蘭芒人學會用長槍兵進行攻擊策略。"</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>

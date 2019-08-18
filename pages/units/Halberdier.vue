@@ -125,7 +125,7 @@
         <table class="table-bordered" width="100%">
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle2">劣勢與優勢</div>
+              <div class="unititle">劣勢與優勢</div>
             </td>
           </tr>
           <tr>
@@ -261,7 +261,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -827,8 +827,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            斧槍是一種雙手持握的長柄武器，在十四及十五世紀時最為風行。這個字有可能是來自德文字Halm（棍）與Barte（斧），現在德語稱此為Hellebarde。斧槍以大釘將斧刃固定在柄頭，通常有鉤或刺在斧刃的背面，這可以用來鉤住騎兵，
-            斧槍通常長1.5至1.8公尺。斧槍與中國的戟並不相同，斧槍是斧與槍的結合，而戟則是戈與矛/槍的結合。
+            斧槍是一種雙手持握的長柄武器，在十四及十五世紀時最為風行。這個字有可能是來自德文字Halm（棍）與Barte（斧），現在德語稱此為Hellebarde。斧槍以大釘將斧刃固定在柄頭，通常有鉤或刺在斧刃的背面，這可以用來鉤住騎兵，斧槍通常長1.5至1.8公尺。斧槍與中國的戟並不相同，斧槍是斧與槍的結合，而戟則是戈與矛/槍的結合。
           </p>
           <p>
             斧槍在製造便宜，在戰場上的功能也很多。比槍與長槍更好用（也能用來推回騎兵），斧背上的鉤可以把騎兵拉到地上。

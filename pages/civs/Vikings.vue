@@ -13,8 +13,7 @@
               to="/units/Infantry_Units"
               >步兵</nuxt-link
             >與<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
-            >，關於<nuxt-link to="/civs/Vikings">維京</nuxt-link
-            >起源有一說為從海灣而來的人，他們乘坐著名的維京<nuxt-link
+            >，關於維京起源有一說為從海灣而來的人，他們乘坐著名的維京<nuxt-link
               to="/units/Naval_Vessels"
               >戰船</nuxt-link
             >於各地四處掠劫，這戰船也同時是維京的<nuxt-link

@@ -57,7 +57,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p3">玩家1</div>
+                <div class="p3"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>（綠色）
@@ -68,7 +69,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2">玩家2</div>
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6">特拉斯卡拉(紅色) 阿茲特克</td>
             </tr>
@@ -77,22 +79,25 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p6">玩家2</div>
+                <div class="p6"></div>
+                玩家2
               </td>
               <td class="tc6">
                 特斯科科(紫色)<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
               </td>
               <td class="tc6">
-                <div class="p4">玩家3</div>
+                <div class="p4"></div>
+                玩家3
               </td>
               <td class="tc6">特拉科潘（黃色)阿茲特克</td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4" style="background:#2980b9;">中立</td>
+              <td class="tc4" colspan="4" style="background: #999999;">中立</td>
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1">玩家4</div>
+                <div class="p1"></div>
+                玩家4
               </td>
               <td class="tc6">
                 科爾特斯(藍色)<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
@@ -278,7 +283,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="green">綠色</font></td>
+            <td class="unit4">
+              <div class="p3"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -290,7 +298,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章第二
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章之二
             </td>
           </tr>
           <tr>

@@ -46,7 +46,7 @@
               <nuxt-link to="/techs/Loom">織布技術</nuxt-link>•
               <nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>•
               <nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>•
-              <nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>•
+              <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>•
               <nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>
             </td>
           </tr>
@@ -118,7 +118,7 @@
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>•
               <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>•
               <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>•
-              <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+              <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
             </td>
           </tr>
           <tr>

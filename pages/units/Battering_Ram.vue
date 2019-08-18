@@ -193,7 +193,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -486,7 +486,8 @@
                   >征服者入侵</nuxt-link
                 >資料片之後，衝撞車才可以<nuxt-link to="/elements/Garrison"
                   >駐軍</nuxt-link
-                >(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link to="/units/King"
+                >(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link
+                  to="/units/edmap/King"
                   >國王</nuxt-link
                 >、<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
                 >)，而到了<nuxt-link to="/games/aof">失落的帝國</nuxt-link

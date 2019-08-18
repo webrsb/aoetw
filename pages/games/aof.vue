@@ -161,7 +161,8 @@
             <li>
               每個文明皆新增<nuxt-link to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
-              >能研發的<nuxt-link to="/techs/untech">特殊科技</nuxt-link>。
+              >能研發的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+              >(哥德除外)。
             </li>
           </ul>
           <p>
@@ -218,6 +219,7 @@
                 >征服者入侵</nuxt-link
               ><br /><nuxt-link to="/games/ak">非洲王國</nuxt-link
               ><br /><nuxt-link to="/games/aor">王者崛起</nuxt-link>
+              <br /><nuxt-link to="/games/de">決定版</nuxt-link>
             </td>
           </tr>
         </table>

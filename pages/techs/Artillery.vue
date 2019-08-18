@@ -26,13 +26,13 @@
             <li>
               砲兵讓<nuxt-link to="/civs/Turks">土耳其</nuxt-link
               ><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
-              >的攻擊距離可打到敵隊<nuxt-link to="/units/Bombard_Cannon"
+              >的射程可打到敵隊<nuxt-link to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
               >。土耳其的<nuxt-link to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
               >有遊戲中最遠的射程(與有<nuxt-link to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
-              >的巨型投機並列)土耳其的火砲在攻城上有更遠的攻擊距離。
+              >的巨型投機並列)土耳其的火砲在攻城上有更遠的射程。
             </li>
           </ul>
         </div>
@@ -63,8 +63,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            早期的火器和大砲是由為高價競買者服務的專業人士和僱傭軍所操控，在中世紀後期，高價競購者通常是控制東方重要貿易路線的土耳其人，這讓土耳其人獲得了這些新武器的重要經驗
-            他們用這些火砲來對抗君士坦丁堡和其他基督教城堡。
+            早期的火器和大砲是由為高價競買者服務的專業人士和僱傭軍所操控，在中世紀後期，高價競購者通常是控制東方重要貿易路線的土耳其人，這讓土耳其人獲得了這些新武器的重要經驗他們用這些火砲來對抗君士坦丁堡和其他基督教城堡。
           </p>
         </div>
       </div>

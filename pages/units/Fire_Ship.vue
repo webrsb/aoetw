@@ -147,7 +147,7 @@
                 src="~assets/Faith.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -676,8 +676,7 @@
             >提供，但<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
             ><nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
             >的秘密武器是<nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link
-            >。這種極易揮發的混合物從火戰船船頭的軟管噴出，並在與空氣接觸時引燃
-            火是對付木船的毀滅性武器，拜占庭人的敵人無法忍受噴著希臘之火火戰船的猛烈攻勢。其他文明有時會獲得希臘之火的秘密，但它的使用需要非常謹慎且危險，因此在今天它已經失傳。
+            >。這種極易揮發的混合物從火戰船船頭的軟管噴出，並在與空氣接觸時引燃火是對付木船的毀滅性武器，拜占庭人的敵人無法忍受噴著希臘之火火戰船的猛烈攻勢。其他文明有時會獲得希臘之火的秘密，但它的使用需要非常謹慎且危險，因此在今天它已經失傳。
           </p>
         </div>
         <h3>圖庫</h3>
@@ -833,7 +832,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊距離</td>
+            <td class="unit3">射程</td>
             <td class="unit4">2.49</td>
           </tr>
           <tr>

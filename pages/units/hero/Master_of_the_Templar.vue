@@ -16,8 +16,7 @@
             >"耶路撒冷攻城戰"和戰役編輯器中找到。現實中聖殿騎士團首領是一名聖殿<nuxt-link
               to="/units/Knight"
               >騎士</nuxt-link
-            >的領袖，通常被認為是十字軍東征中的關鍵人物。
-            聖殿騎士團首領的外形與騎士有著相似之處，也類似於其他幾個<nuxt-link
+            >的領袖，通常被認為是十字軍東征中的關鍵人物。聖殿騎士團首領的外形與騎士有著相似之處，也類似於其他幾個<nuxt-link
               to="/units/hero"
               >英雄</nuxt-link
             >單位。聖殿騎士團首領會受<nuxt-link to="/units/Cavalry_Units"
@@ -112,7 +111,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>

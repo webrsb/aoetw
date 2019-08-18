@@ -28,7 +28,7 @@
         >、<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>、<nuxt-link
           to="/units/Eagle_Warrior"
           >鷹勇士</nuxt-link
-        >、<nuxt-link to="/units/King">國王</nuxt-link>與<nuxt-link
+        >、<nuxt-link to="/units/edmap/King">國王</nuxt-link>與<nuxt-link
           to="/units/Siege_Weapons"
           >攻城武器</nuxt-link
         >）。

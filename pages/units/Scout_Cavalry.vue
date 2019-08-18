@@ -64,14 +64,12 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >、<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
-              >、<nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
-                to="/units/Monk"
-                >僧侶</nuxt-link
-              >。
+              >，<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
+              >、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -138,7 +136,7 @@
                 to="/techs/Farimba"
                 >驃悍精神</nuxt-link
               >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >限定 <br />
+              >限定<br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link

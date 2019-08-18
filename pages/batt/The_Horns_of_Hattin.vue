@@ -28,9 +28,9 @@
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 600<nuxt-link to="/resource/Wood">木頭</nuxt-link
-                >，400<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，600<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，400<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／400<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／600<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／400<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
@@ -38,7 +38,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -46,7 +46,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p3">玩家1</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>（綠色）
               </td>
@@ -55,14 +58,20 @@
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家2</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6">
                 <nuxt-link to="/civs/Britons">英國</nuxt-link>（紅色）<nuxt-link
                   to="/civs/Britons"
                   >不列顛</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p1">玩家3</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 耶路撒冷（藍色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
@@ -70,12 +79,18 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4" width="12%">玩家4</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家4
+              </td>
               <td class="tc6" width="38%">
                 聖殿<nuxt-link to="/units/Knight">騎士</nuxt-link
                 >（黃色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>
-              <td class="tc6"><div class="p8" width="12%">玩家5</div></td>
+              <td class="tc6">
+                <div class="p8"></div>
+                玩家5
+              </td>
               <td class="tc6" width="38%">救傷團（橘色）條頓</td>
             </tr>
           </table>

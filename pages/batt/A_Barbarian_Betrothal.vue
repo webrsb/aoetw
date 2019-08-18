@@ -36,7 +36,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -44,7 +44,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1：</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 玩家1：<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
               </td>
@@ -52,19 +55,31 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p6">玩家2：</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6">
                 勃根地（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
-              <td class="tc6"><div class="p2">玩家3：</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家3
+              </td>
               <td class="tc6">梅茲（紅色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p5">玩家4：</div></td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家4
+              </td>
               <td class="tc6">奧爾良（水藍色）法蘭克</td>
-              <td class="tc6"><div class="p1">玩家5：</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 西羅馬帝國（藍色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
@@ -134,14 +149,13 @@
               (紫色)、往北方的梅茲 (紅色) 或在西北方的大城市奧爾良 (青色)
               時就瓦解。勃根第訓練<nuxt-link to="/units/Archer">弓兵</nuxt-link
               >、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >和步兵，不過並沒有良好的防禦，
-              所以在第一波的攻勢中很容易就會被攻陷。
+              >和步兵，不過並沒有良好的防禦，所以在第一波的攻勢中很容易就會被攻陷。
             </li>
             <li>
-              由於勃根第人很容易被威嚇，所以在勸喻之後就會加入匈利奴人的陣營之中。
-              梅茲以<nuxt-link to="/units/Knight">騎士</nuxt-link>和<nuxt-link
-                to="/units/Throwing_Axeman"
-                >擲斧兵</nuxt-link
+              由於勃根第人很容易被威嚇，所以在勸喻之後就會加入匈利奴人的陣營之中。梅茲以<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >和<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
               >來彌補勃根第的弱點。他們的城堡很接近奧爾良，而得到一些防衛。
             </li>
             <li>

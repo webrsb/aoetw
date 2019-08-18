@@ -54,7 +54,7 @@
           </p>
           <p>
             由於精銳戰矛兵生產不用<nuxt-link to="/resource/Gold">黃金</nuxt-link
-            >，所以是一個<nuxt-link to="/Trash_Unit.php">垃圾兵單位</nuxt-link
+            >，所以是一個<nuxt-link to="/units/Trash_Unit">垃圾兵單位</nuxt-link
             >，在缺少黃金時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。
           </p>
           <p>
@@ -186,7 +186,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:對移動目標命中率上升 <br />
+              >:對移動目標命中率上升<br />
               <img
                 class="gg"
                 src="~assets/Thumb_Ring.png"
@@ -232,7 +232,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -759,7 +759,7 @@
             <td class="unit3">射程</td>
             <td class="unit4">5</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3">最小射程</td>
             <td class="unit4">1</td>

@@ -117,48 +117,61 @@
         <div class="col-md-6">
           <p>負責處理討論區、關鍵字查詢等複雜的程式後端問題。</p>
         </div>
-      </div>
-      <h2>如何協助編輯</h2>
-      <div class="hrn1"></div>
-      <div class="col-md-12">
+        <h2>如何協助編輯</h2>
+        <div class="hrn1"></div>
+        <div class="col-md-12">
+          <p>
+            版面大部分都已經設計好，參與者只需要帶入資料即可。所以即使你對網頁0基礎也是可以非常快的上手，目前全站寫超過200條目的賜齡也是0基礎，到現在已經是網頁高手。工作人員請參考：<nuxt-link
+              to="/hkbb"
+              >工作人員頁</nuxt-link
+            >
+          </p>
+          <ul>
+            <li>
+              <b>編輯現有頁面</b
+              >：每個頁面的下方，都有一個「協助改善此頁面」的連結。可以直接利用線上編輯器修改頁面和預覽結果
+            </li>
+            <li>
+              <b>新增頁面</b>：請<a
+                target="_blank"
+                href="https://github.com/webrsb/aoetw/upload/dev/pages"
+                >點此</a
+              >上傳新頁面的檔案，假如不知道要怎設計，可以去其它類似的頁面使用編輯的功能，複製它的程式碼當範本來修改
+            </li>
+          </ul>
+          <p>如何編輯，可以參考下面兩部實作影片，你將會發現，非常簡單。</p>
+          <div class="col-md-6">
+            <iframe
+              width="100%"
+              height="300px;"
+              src="https://www.youtube.com/embed/SIF26Jvfku8"
+              frameborder="0"
+              allow="autoplay; encrypted-media"
+              allowfullscreen
+            ></iframe>
+          </div>
+          <div class="col-md-6">
+            <iframe
+              width="100%"
+              height="300px;"
+              src="https://www.youtube.com/embed/f5EisAHuupc"
+              frameborder="0"
+              allow="autoplay; encrypted-media"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+        <h2>如何加入Aoetw</h2>
+        <div class="hrn1"></div>
         <p>
-          版面大部分都已經設計好，參與者只需要帶入資料即可。所以即使你對網頁0基礎也是可以非常快的上手，目前全站寫超過200條目的賜齡也是0基礎，到現在已經是網頁高手。工作人員請參考：<nuxt-link
-            to="/hkbb"
-            >工作人員頁</nuxt-link
+          你可以直接私信到<a
+            href="https://www.facebook.com/cheapAOE/"
+            target="_blank"
+            >cheap的粉專</a
           >
         </p>
-        <p>如何編輯，可以參考下面兩部實作影片，你將會發現，非常簡單。</p>
-        <div class="col-md-6">
-          <iframe
-            width="100%"
-            height="300px;"
-            src="https://www.youtube.com/embed/SIF26Jvfku8"
-            frameborder="0"
-            allow="autoplay; encrypted-media"
-            allowfullscreen
-          ></iframe>
-        </div>
-        <div class="col-md-6">
-          <iframe
-            width="100%"
-            height="300px;"
-            src="https://www.youtube.com/embed/f5EisAHuupc"
-            frameborder="0"
-            allow="autoplay; encrypted-media"
-            allowfullscreen
-          ></iframe>
-        </div>
       </div>
     </div>
-    <h2>如何加入Aoetw</h2>
-    <div class="hrn1"></div>
-    <p>
-      你可以直接私信到<a
-        href="https://www.facebook.com/cheapAOE/"
-        target="_blank"
-        >cheap的粉專</a
-      >
-    </p>
   </div>
 </template>
 <script>

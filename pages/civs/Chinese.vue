@@ -13,8 +13,7 @@
               to="/civs"
               >文明</nuxt-link
             >之一(同樣古老的有<nuxt-link to="/civs/Persians">波斯</nuxt-link
-            >)。<nuxt-link to="/civs/Chinese">中國人</nuxt-link
-            >由於戰術與文化，善於使用弓箭、弩、火器等遠程攻擊武器，而遊戲中，中國的多樣性得到了展現。中國是古老的國家，許多技術由中國傳出，然而遊戲為了平衡，拿掉了許多中國"該有"的技術。人口第一一直是中國的標誌，而至今他們仍舊保留這個頭銜。
+            >)。中國人由於戰術與文化，善於使用弓箭、弩、火器等遠程攻擊武器，而遊戲中，中國的多樣性得到了展現。中國是古老的國家，許多技術由中國傳出，然而遊戲為了平衡，拿掉了許多中國"該有"的技術。人口第一一直是中國的標誌，而至今他們仍舊保留這個頭銜。
           </p>
         </div>
         <h3>文明概要</h3>
@@ -323,15 +322,15 @@
               </td>
               <td class="tta3">
                 突厥(敵對)
-                <div class="p2"></div>
+                <div class="p2" style="height: 23px"></div>
                 <br />西夏(敵對)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
                 <br />金(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
                 <br />宋(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />工程師(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -349,7 +348,7 @@
               </td>
               <td class="tta3">
                 明朝軍隊(友軍)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -367,21 +366,21 @@
               </td>
               <td class="tta3">
                 玩家
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />彭彥章(敵對)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
                 <br />河盜(敵對)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
                 <br />寺廟聖地(友軍)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
                 <br />佃農(友軍)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />吳國陸軍(敵對)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
                 <br />吳越人(友軍)
-                <div class="p7"></div>
+                <div class="p7" style="height: 23px"></div>
                 <br />吳國水軍(敵對)
-                <div class="p2"></div>
+                <div class="p2" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -400,7 +399,7 @@
               </td>
               <td class="tta3">
                 撣族人(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -418,7 +417,7 @@
               </td>
               <td class="tta3">
                 撣族人(敵對)
-                <div class="p4"></div>
+                <div class="p4" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -437,15 +436,15 @@
               </td>
               <td class="tta3">
                 明朝軍隊(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝軍隊(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝巡邏隊(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />宋(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
                 <br />工程師(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -463,9 +462,9 @@
               </td>
               <td class="tta3">
                 明朝軍隊(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝軍隊(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -483,9 +482,9 @@
               </td>
               <td class="tta3">
                 明軍(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />棄明投越部隊(敵對)
-                <div class="p8"></div>
+                <div class="p8" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -501,11 +500,11 @@
               </td>
               <td class="tta3">
                 琴彭軍(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝水師(敵對)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
                 <br />明朝軍隊(敵對)
-                <div class="p3"></div>
+                <div class="p3" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -523,10 +522,10 @@
               </td>
               <td class="tta3">
                 柳升將軍(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br /><nuxt-link to="/units/hero/Wang_Tong">王通</nuxt-link
                 >將軍(敵對)
-                <div class="p6"></div>
+                <div class="p6" style="height: 23px"></div>
               </td>
             </tr>
             <tr>
@@ -544,9 +543,9 @@
               </td>
               <td class="tta3">
                 明朝軍隊(敵對)
-                <div class="p1"></div>
+                <div class="p1" style="height: 23px"></div>
                 <br />明朝先鋒軍(敵對)
-                <div class="p5"></div>
+                <div class="p5" style="height: 23px"></div>
               </td>
             </tr>
           </table>

@@ -33,7 +33,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -41,7 +41,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
               </td>
@@ -50,7 +53,10 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="15%"><div class="p8">玩家2</div></td>
+              <td class="tc6" width="15%">
+                <div class="p8"></div>
+                玩家2
+              </td>
               <td class="tc6" width="35%">
                 西徐亞人（橘色）<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
               </td>
@@ -58,33 +64,51 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p2">玩家2</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家2
+              </td>
               <td class="tc6">
                 索非亞（紅色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
-              <td class="tc6"><div class="p3">玩家3</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 奈沙（綠色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p7">玩家4</div></td>
+              <td class="tc6">
+                <div class="p7"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 亞得里亞堡（灰色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
                 >
               </td>
-              <td class="tc6"><div class="p5">玩家5</div></td>
+              <td class="tc6">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 第爾哈群（藍綠色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家6</div></td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家6
+              </td>
               <td class="tc6">底斯索隆尼卡（紫色）拜占庭</td>
-              <td class="tc6"><div class="p1">玩家7</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家7
+              </td>
               <td class="tc6">東羅馬帝國（藍色）拜占庭</td>
             </tr>
           </table>

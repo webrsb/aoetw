@@ -81,10 +81,7 @@
           >現今於<nuxt-link to="/civs/Indians">印度</nuxt-link
           >境內，而曼尼普爾在血緣和文化上與<nuxt-link to="/civs/Chinese"
             >中國</nuxt-link
-          >有很大的淵源。曼尼普爾王室通常被認為來自於中國的唐朝。曼尼普爾民間一直維持著對龍的崇拜。在十八世紀，當時的<nuxt-link
-            to="/units/King"
-            >國王</nuxt-link
-          >
+          >有很大的淵源。曼尼普爾王室通常被認為來自於中國的唐朝。曼尼普爾民間一直維持著對龍的崇拜。在十八世紀，當時的國王
           <a href="http://tinyurl.com/y9cq7s5x" target="_blank">帕巴</a
           >把印度教列為國教，而對龍的崇拜依然以各種形式在曼尼普爾保存下來。歷史上曼尼普爾並不屬於緬甸，反而多次與緬甸王國交戰。
         </p>

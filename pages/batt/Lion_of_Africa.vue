@@ -10,7 +10,7 @@
           <p>
             <b>非洲雄獅</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeida"
-              >法蘭西斯科·阿爾梅達</nuxt-link
+              >法蘭西斯科·德·阿爾梅達</nuxt-link
             >》劇情<nuxt-link to="/batt">戰役</nuxt-link>中的第二關。
           </p>
           <p>
@@ -36,9 +36,9 @@
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
                 200<nuxt-link to="/resource/Wood">木頭</nuxt-link
-                >，200<nuxt-link to="/resource/Food">食物</nuxt-link
-                >，100<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >，150<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+                >／200<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／100<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／150<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">28/25</td>
@@ -47,7 +47,7 @@
 
           <br />
           <h3>AI</h3>
-          <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -56,7 +56,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1">玩家1</div>
+                <div class="p1"></div>
+                玩家1
               </td>
               <td class="tc6" colspan="4">主角（藍色）葡萄牙</td>
             </tr>
@@ -65,7 +66,8 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2">玩家2</div>
+                <div class="p2"></div>
+                玩家2
               </td>
               <td class="tc6" colspan="4">
                 埃米爾（紅色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
@@ -76,20 +78,23 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p3">玩家3</div>
+                <div class="p3"></div>
+                玩家3
               </td>
               <td class="tc6" width="35%">
                 <nuxt-link to="/batt/Baria">巴里</nuxt-link
                 >海盜（綠色）<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
               </td>
               <td class="tc6" width="15%">
-                <div class="p4">玩家4</div>
+                <div class="p4"></div>
+                玩家4
               </td>
               <td class="tc6" width="35%">巴努阿魯斯（黃色）柏柏</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p7">玩家5</div>
+                <div class="p7"></div>
+                玩家5
               </td>
               <td class="tc6" width="35%">
                 凱馬律．列伊斯（灰色）<nuxt-link to="/civs/Turks"
@@ -97,13 +102,15 @@
                 >
               </td>
               <td class="tc6" width="15%">
-                <div class="p4">玩家6</div>
+                <div class="p4"></div>
+                玩家6
               </td>
               <td class="tc6" width="35%">巴努阿魯斯（黃色）柏柏</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p6">玩家7</div>
+                <div class="p6"></div>
+                玩家7
               </td>
               <td class="tc6" width="35%">
                 關契斯人（紫色）<nuxt-link to="/civs/Malians">馬利</nuxt-link>
@@ -207,21 +214,16 @@
         <div class="n1">
           <ul>
             <li>
-              法蘭西斯科·阿爾梅達控制著盧克斯河中的一座島上的格拉西奧薩堡（藍）。
-              這座島的資源十分有限，需要依靠河兩岸的柏柏城鎮來提供糧草。
+              法蘭西斯科·德·阿爾梅達控制著盧克斯河中的一座島上的格拉西奧薩堡（藍）。這座島的資源十分有限，需要依靠河兩岸的柏柏城鎮來提供糧草。
             </li>
             <li>
-              當地的埃米爾人（紅）統治著拉萊什城，守衛著格拉西奧薩堡以西的河口。
-              他們訓練劍兵，<nuxt-link to="/units/Elite_Skirmisher"
+              當地的埃米爾人（紅）統治著拉萊什城，守衛著格拉西奧薩堡以西的河口。他們訓練劍兵，<nuxt-link
+                to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
-              >和騎士，還有一隻強大的海軍。
-              在我們葡萄牙槍砲的攻擊距離內他們對我們葡萄牙只得表現得十分友好。
-              在我們擊退巴巴里海盜（綠）之前，他們應該都是一個值得爭取的異教徒盟軍。
+              >和騎士，還有一隻強大的海軍。在我們葡萄牙槍砲的射程內他們對我們葡萄牙只得表現得十分友好。在我們擊退巴巴里海盜（綠）之前，他們應該都是一個值得爭取的異教徒盟軍。
             </li>
             <li>
-              巴巴里海盜（綠）佔據了一個舊商隊旅館和河北岸的港口。
-              只要他們的艦隊繼續壯大，能肆意截取基督徒和穆斯林的商旅貨物，他們就會是一個難啃的骨頭。
-              海盜們不僅是久經風雨的水手，也是富有經驗的弓箭手和<nuxt-link
+              巴巴里海盜（綠）佔據了一個舊商隊旅館和河北岸的港口。只要他們的艦隊繼續壯大，能肆意截取基督徒和穆斯林的商旅貨物，他們就會是一個難啃的骨頭。海盜們不僅是久經風雨的水手，也是富有經驗的弓箭手和<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
               >。
@@ -230,15 +232,10 @@
               巴努阿魯斯（黃）的<nuxt-link to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
               >和<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-              >遍佈沙漠和東南邊境。
-              他們是一支古老的族群，儘管伊斯蘭法典在當地延續了七百多年的影響，
-              他們仍然像他們的怒米迪亞祖先在漢尼拔時代一樣，供奉有圖騰的女人。
-              潛入沙漠，摧毀他們的營帳是終結他們入侵的唯一方法。
+              >遍佈沙漠和東南邊境。他們是一支古老的族群，儘管伊斯蘭法典在當地延續了七百多年的影響，他們仍然像他們的怒米迪亞祖先在漢尼拔時代一樣，供奉有圖騰的女人。潛入沙漠，摧毀他們的營帳是終結他們入侵的唯一方法。
             </li>
             <li>
-              在茅利塔尼亞海岸外的是加那利群島，卡斯提爾帝國的領土。
-              歐洲條例在這個危險的前線是毫無效力的，然而這片島嶼可以提供豐富的資源，
-              只要我們能招安當地的關契斯人（紫）。 異教徒是<nuxt-link
+              在茅利塔尼亞海岸外的是加那利群島，卡斯提爾帝國的領土。歐洲條例在這個危險的前線是毫無效力的，然而這片島嶼可以提供豐富的資源，只要我們能招安當地的關契斯人（紫）。異教徒是<nuxt-link
                 to="/civs/Berbers"
                 >柏柏人</nuxt-link
               >的親戚，他們時代都有將屍體做成木乃伊的傳統。 他們披著<nuxt-link
@@ -247,8 +244,7 @@
               >皮，帶著由骨頭和貝殼做成的項鍊，他們是久經沙場的戰矛兵和船夫。
             </li>
             <li>
-              據說有人看到奧斯曼私掠船長凱瑪律‧列伊斯的旗艦（灰）為了幫格蘭納達的埃米爾解圍，
-              在海上攻擊基督艦隊。打敗他們是我們未來征服摩爾人和奧斯曼人的必經之路。
+              據說有人看到奧斯曼私掠船長凱瑪律‧列伊斯的旗艦（灰）為了幫格蘭納達的埃米爾解圍，在海上攻擊基督艦隊。打敗他們是我們未來征服摩爾人和奧斯曼人的必經之路。
             </li>
             <li>
               在非洲海岸的不遠處，有傳言說杜阿爾特帕切科佩雷拉率領的遠征軍神秘消失了...
@@ -348,7 +344,7 @@
             <ol>
               <li>
                 據官方開發者之一Filthydelphia
-                Creations的說法:此關戰役原本設計阿方索阿爾布開特為葡萄牙戰役的第一關場景並為全篇的主角，但最終方案還是選擇了法蘭西斯科·阿爾梅達。
+                Creations的說法:此關戰役原本設計阿方索阿爾布開特為葡萄牙戰役的第一關場景並為全篇的主角，但最終方案還是選擇了法蘭西斯科·德·阿爾梅達。
               </li>
             </ol>
           </div>
@@ -385,7 +381,7 @@
             <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Francisco_de_Almeida"
-                >法蘭西斯科·阿爾梅達</nuxt-link
+                >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </td>
           </tr>

@@ -151,6 +151,7 @@
                 >失落的帝國</nuxt-link
               ><br /><nuxt-link to="/games/ak">非洲王國</nuxt-link
               ><br /><nuxt-link to="/games/aor">王者崛起</nuxt-link>
+              <br /><nuxt-link to="/games/de">決定版</nuxt-link>
             </td>
           </tr>
         </table>
@@ -237,20 +238,16 @@
           <p>
             <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
-          <p>
-            帝王世紀中共有5個劇情戰役，全都是歷史上著名的人與事物，例如貞德率領<nuxt-link
-              to="/civs/Franks"
-              >法國</nuxt-link
-            >人與<nuxt-link to="/civs/Britons">英國</nuxt-link
-            >人戰鬥，又或是跟著<nuxt-link to="/units/hero/Genghis_Khan"
-              >成吉思汗</nuxt-link
-            >入侵歐亞大陸。總計有：<nuxt-link to="/batt/William_Wallacea"
-              >威廉華勒斯</nuxt-link
-            >、<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
-            >、<nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link
-            >、成吉思汗、<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
-            >，其中威廉華勒斯為教學戰役。
-          </p>
+          帝王世紀中共有5個劇情戰役，其中威廉華勒斯為教學關卡：
+          <ul>
+            <li>
+              <nuxt-link to="/batt/William_Wallacea">威廉華勒斯</nuxt-link>
+            </li>
+            <li><nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link></li>
+            <li><nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link></li>
+            <li><nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link></li>
+            <li><nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link></li>
+          </ul>
         </div>
       </div>
     </div>

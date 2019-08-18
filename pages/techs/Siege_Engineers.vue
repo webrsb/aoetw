@@ -16,7 +16,7 @@
             >(包括<nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
             >)對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
             >傷害+20%(<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
-            >+200攻擊)，攻擊距離+1(除了<nuxt-link to="/units/Battering_Ram"
+            >+200攻擊)，射程+1(除了<nuxt-link to="/units/Battering_Ram"
               >衝撞車</nuxt-link
             >)。
           </p>
@@ -213,7 +213,7 @@
               研發後所有<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >傷害+20%(<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
-              >+200攻擊)，攻擊距離+1(除了衝撞車)。
+              >+200攻擊)，射程+1(除了衝撞車)。
             </td>
           </tr>
         </table>

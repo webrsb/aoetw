@@ -10,7 +10,7 @@
           <p>
             <b>黃金國的傳說</b>為<nuxt-link to="/batt/El_Doradoa"
               >黃金國戰役</nuxt-link
-            >的第一關劇情關卡，在這關故事中，法蘭西斯科.德.奧雷利亞納開始前往基多與貢薩洛.皮薩羅會面並整頓人手，招兵買馬前往尋找傳說中黃金國。
+            >的第一關劇情關卡，在這關故事中，法蘭西斯科·德·奧雷利亞納開始前往基多與貢薩洛·皮薩羅會面並整頓人手，招兵買馬前往尋找傳說中黃金國。
           </p>
         </div>
         <h2>玩家</h2>
@@ -31,7 +31,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -39,7 +39,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家1</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Spanish">西班牙人</nuxt-link>（藍色）
               </td>
@@ -48,43 +51,64 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="9%"><div class="p6">玩家2</div></td>
+              <td class="tc6" width="14%">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6" width="46%">
                 當地人（紫色）<nuxt-link to="/civs/Incas">印加</nuxt-link>
               </td>
-              <td class="tc6" width="10%"><div class="p2">玩家4</div></td>
+              <td class="tc6" width="14%">
+                <div class="p2"></div>
+                玩家4
+              </td>
               <td class="tc6" width="35%">
-                貢薩洛.皮薩羅（紅色）<nuxt-link to="/civs/Spanish"
+                貢薩洛·皮薩羅（紅色）<nuxt-link to="/civs/Spanish"
                   >西班牙</nuxt-link
                 >
               </td>
             </tr>
             <tr>
-              <td class="tc6" width="9%"><div class="p5">玩家5</div></td>
+              <td class="tc6" width="14%">
+                <div class="p5"></div>
+                玩家5
+              </td>
               <td class="tc6" width="46%">庫拉塔（水藍色）印加</td>
-              <td class="tc6" width="10%"><div class="p8">玩家6</div></td>
+              <td class="tc6" width="14%">
+                <div class="p8"></div>
+                玩家6
+              </td>
               <td class="tc6" width="35%">基多（橘色）印加</td>
             </tr>
             <tr>
-              <td class="tc6" width="9%"><div class="p4">玩家8</div></td>
+              <td class="tc6" width="14%">
+                <div class="p4"></div>
+                玩家8
+              </td>
               <td class="tc6" width="46%">
-                貢薩洛.迪亞斯.德.皮內達（黃色）西班牙
+                貢薩洛·迪亞斯·德·皮內達（黃色）西班牙
               </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#999999;">中立</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6" width="9%"><div class="p7">玩家7</div></td>
+              <td class="tc6" width="14%">
+                <div class="p7"></div>
+                玩家7
+              </td>
               <td class="tc6" width="46%">印加廢墟（灰色）印加</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p3">玩家3</div></td>
+              <td class="tc6" width="14%">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6">叛軍（綠色）印加</td>
             </tr>
           </table>
@@ -93,7 +117,7 @@
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
-              法蘭西斯科.德.奧雷利亞納、2位<nuxt-link to="/units/Conquistador"
+              法蘭西斯科·德·奧雷利亞納、2位<nuxt-link to="/units/Conquistador"
                 >西班牙征服者</nuxt-link
               >（HP75）、2位<nuxt-link to="/units/Scout_Cavalry"
                 >斥候騎兵</nuxt-link
@@ -111,7 +135,7 @@
                   >斥候</nuxt-link
                 >必須活著。
               </li>
-              <li>去基多 找貢薩洛.皮薩羅。</li>
+              <li>去基多 找貢薩洛·皮薩羅。</li>
               <li>
                 殺死皮內達的4名軍士（標記著旗幟的）。別驚動皮內達的其他手下。
               </li>
@@ -184,7 +208,7 @@
               在廢墟城鎮中用且戰且退的策略。不要深入南部作戰，要把敵人引到北邊來消滅。
             </li>
             <li>
-              法蘭西斯科.德.奧雷利亞納無法升級<nuxt-link
+              法蘭西斯科·德·奧雷利亞納無法升級<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >。
@@ -196,13 +220,13 @@
         <div class="n1">
           <ul>
             <li>
-              法蘭西斯科.德.奧雷利亞納（藍色）帶著城堡時代的小股部隊在庫拉塔開始了征途，他沒有<nuxt-link
+              法蘭西斯科·德·奧雷利亞納（藍色）帶著城堡時代的小股部隊在庫拉塔開始了征途，他沒有<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >和基地。他需要找到貢薩洛.皮薩羅接洽.庫拉塔（水藍色）是地圖西岸的一個友好城鎮。和皮薩羅交談之後你就可以在那裡招兵買馬了。
+              >和基地。他需要找到貢薩洛·皮薩羅接洽·庫拉塔（水藍色）是地圖西岸的一個友好城鎮。和皮薩羅交談之後你就可以在那裡招兵買馬了。
             </li>
             <li>
-              基多（橙色）是庫拉塔東邊的一座城，位於地圖中央貢薩洛.皮薩羅（紅色）是你的同盟。他可以給你提供部隊和給你指令。住在基多的貢薩洛.迪亞斯.德.皮內達（黃色）是和你搶地盤的征服者，他目前和保持你中立。
+              基多（橙色）是庫拉塔東邊的一座城，位於地圖中央貢薩洛·皮薩羅（紅色）是你的同盟。他可以給你提供部隊和給你指令。住在基多的貢薩洛·迪亞斯·德·皮內達（黃色）是和你搶地盤的征服者，他目前和保持你中立。
             </li>
             <li>
               當地人（紫色）很友好，他們的士兵可以加入你軍隊，他們村民也願意給你提供食物。
@@ -330,14 +354,14 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的貢薩洛.皮薩羅（英文）
+            維基百科上的貢薩洛·皮薩羅（英文）
             <div style="margin-left: 10px;">
               <i
                 ><b
                   ><a
                     href="https://en.wikipedia.org/wiki/Gonzalo_Pizarro"
                     target="_blank"
-                    >貢薩洛.皮薩羅</a
+                    >貢薩洛·皮薩羅</a
                   ></b
                 ></i
               >

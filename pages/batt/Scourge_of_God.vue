@@ -33,7 +33,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -41,7 +41,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p4">玩家1</div></td>
+              <td class="tc6">
+                <div class="p4"></div>
+                玩家1
+              </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
               </td>
@@ -50,27 +53,39 @@
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%"><div class="p6">玩家2</div></td>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家2
+              </td>
               <td class="tc6" width="38%">貝里達的匈奴人（紫色）匈奴</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-            <tr></tr>
+
             <tr>
-              <td class="tc6"><div class="p3">玩家3</div></td>
+              <td class="tc6">
+                <div class="p3"></div>
+                玩家3
+              </td>
               <td class="tc6">
                 西徐亞人（綠色）<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
                 >敵對
               </td>
-              <td class="tc6"><div class="p2">玩家4</div></td>
+              <td class="tc6">
+                <div class="p2"></div>
+                玩家4
+              </td>
               <td class="tc6">
                 <nuxt-link to="/civs/Persians">波斯人</nuxt-link
                 >（紅色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p1">玩家5</div></td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家5
+              </td>
               <td class="tc6">
                 西羅馬帝國（藍色）<nuxt-link to="/civs/Byzantines"
                   >拜占庭</nuxt-link
@@ -154,8 +169,7 @@
               >作戰。
             </li>
             <li>
-              西徐亞人 （綠色）
-              在西面有廣闊的活動空間。因為西徐亞人是遊牧民族，他們不需要採集<nuxt-link
+              西徐亞人（綠色）在西面有廣闊的活動空間。因為西徐亞人是遊牧民族，他們不需要採集<nuxt-link
                 to="/resource/Stone"
                 >石頭</nuxt-link
               >。由於西徐亞人跟羅馬人並沒有很好的交情，所以它可能會倒向其中一邊，與另外一邊對抗。
@@ -195,7 +209,7 @@
                 >會出來指控阿提拉。這時候韃靼騎兵的領袖會站出來攻擊他們、守護阿提拉。韃靼騎兵打弓兵可說是輕而易舉，只要把弓兵全數殺死，所有人都會聽命於阿提拉。
               </li>
               <li>
-                第二：讓貝里達死於意外貝里達傻傻地去打鐵野豬，當然不會有好下場，等鐵野豬跑出來，讓阿提拉跑掉，貝里達就會被鐵野豬腳滑給撞死。貝里達死後，一樣回到匈奴人的營地、靠近韃靼騎兵，對話就會跟上一種方式一樣。殺掉弓兵，匈奴人就聽命於阿提拉。
+                第二：讓貝里達死於意外貝里達傻傻地去打鐵野豬，當然不會有好下場，等鐵野豬跑出來，讓阿提拉直接跑回匈奴人營地，貝里達就會被鐵野豬腳滑給撞死。貝里達死後，弓兵就會指控阿提拉殺掉貝里達，最後所有觸發事件一次觸發，全部貝里達軍隊都歸玩家所有。
               </li>
               <li>
                 逃離匈奴營地：如果阿提拉決定逃走，一樣靠近那群韃靼騎兵，其中有些人會自願加入你的行列。他們會告訴阿提拉，可以渡河去找他們的家人，帶著阿提拉跟這些韃靼騎兵前往西南方的橋梁，貝理達會將阿提拉改為敵對狀態。過河之後你會遇到一群村民，他們會加入你的行列、給予你起始資源。不過你很快就會遭遇貝理達和他手下的韃靼騎兵的攻擊，這時候單單把貝理達殺掉還不夠，還要殺掉更多韃靼騎兵，其餘匈奴人才會聽命於阿提拉。這也是唯一一個可以得到額外的村民與資源的方式，如果阿提拉先成為匈奴人的領袖，這群村民就不會出現。

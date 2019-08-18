@@ -21,9 +21,9 @@
         <div class="n1">
           <ul>
             <li>
-              雖然在團隊遊戲之外沒有太多的用處，絲綢之路可以在很重要的遊戲中節省大量的資源。
-              如果一條貿易路線被摧毀後需要重建，那麼絲綢之路將大大降低重建的成本。
-              另外，研發<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              雖然在團隊遊戲之外沒有太多的用處，絲綢之路可以在很重要的遊戲中節省大量的資源。如果一條貿易路線被摧毀後需要重建，那麼絲綢之路將大大降低重建的成本。另外，研發<nuxt-link
+                to="/techs/Shipwright"
+                >造船匠</nuxt-link
               >和絲綢之路後，<nuxt-link to="/units/Trade_Cog"
                 >貿易商旅</nuxt-link
               >只要30<nuxt-link to="/resource/Wood">木材</nuxt-link

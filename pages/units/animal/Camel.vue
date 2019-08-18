@@ -40,7 +40,7 @@
                 ><img
                   class="imgn hg"
                   width="250"
-                  src="~assets/Camellos.png"
+                  src="~assets/Camellos.jpg"
                   alt=""
               /></gallery>
               <p><em>駱駝的視野很小不適合作為斥侯。</em></p>
@@ -52,7 +52,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">駱駝</div>
             </td>
           </tr>
@@ -64,7 +64,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 <nuxt-link to="">單位介紹</nuxt-link>
               </div>
@@ -83,7 +83,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
           </tr>

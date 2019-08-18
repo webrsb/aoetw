@@ -22,7 +22,7 @@
             >的外觀，但攻擊方式是像<nuxt-link to="/units/Throwing_Axeman"
               >擲斧兵</nuxt-link
             >丟斧頭，<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
-            >極快（比起一般單位的2.03，他的攻擊間隔僅有1)，然而命中率卻是可憐的30%，移動速度也遠比狂戰士快(1.32的移動速度可媲美<nuxt-link
+            >極快（比起一般單位的2.03，他的開火間隔僅有1)，然而命中率卻是可憐的30%，移動速度也遠比狂戰士快(1.32的移動速度可媲美<nuxt-link
               to="/units/Knight"
               >騎士</nuxt-link
             >的1.35)。
@@ -154,7 +154,7 @@
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
-          <tr></tr>
+
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>

@@ -40,7 +40,10 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p2">玩家1</div></td>
+            <td class="tc6">
+              <div class="p2"></div>
+              玩家1
+            </td>
             <td class="tc6" colspan="3">
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>（紅色）
             </td>
@@ -49,7 +52,10 @@
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
+            <td class="tc6">
+              <div class="p1"></div>
+              玩家2
+            </td>
             <td class="tc6" width="38%">
               瓦拉幾亞人（藍色）<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
             </td>
@@ -60,14 +66,20 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p6" width="12%">玩家3</div></td>
+            <td class="tc6">
+              <div class="p6"></div>
+              玩家3
+            </td>
             <td class="tc6" width="38%">奧斯曼帝國（紫色）土耳其</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p7">玩家4</div></td>
+            <td class="tc6">
+              <div class="p7"></div>
+              玩家4
+            </td>
             <td class="tc6">達斯特（灰色）土耳其</td>
           </tr>
           <tr>
@@ -76,17 +88,29 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p8" width="12%">玩家5</div></td>
+            <td class="tc6">
+              <div class="p8"></div>
+              玩家5
+            </td>
             <td class="tc6" width="38%">諾沃賽洛（橙色）斯拉夫</td>
-            <td class="tc6"><div class="p3" width="12%">玩家6</div></td>
+            <td class="tc6">
+              <div class="p3"></div>
+              玩家6
+            </td>
             <td class="tc6" width="38%">歐布魯西薩（綠色）斯拉夫</td>
           </tr>
           <tr>
-            <td class="tc6"><div class="p4">玩家7</div></td>
+            <td class="tc6">
+              <div class="p4"></div>
+              玩家7
+            </td>
             <td class="tc6">
               歐索瓦（黃色）<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
             </td>
-            <td class="tc6"><div class="p5">玩家8</div></td>
+            <td class="tc6">
+              <div class="p5"></div>
+              玩家8
+            </td>
             <td class="tc6">拉霍瓦（淡藍色）斯拉夫</td>
           </tr>
         </table>
@@ -118,7 +142,7 @@
                 to="/units/Trade_Cart"
                 >貿易車隊</nuxt-link
               >，玩家抓住它後德古拉會把自己偽裝成一個貿易商（表面上是<nuxt-link
-                to="/units/King"
+                to="/units/edmap/King"
                 >國王</nuxt-link
               >），而在貿易車裡將會有兩個重裝長槍兵和兩個火槍兵。玩家將德古拉和貿易車隊帶入朱爾朱城。德古拉剩下的部隊將被留下，等待德古拉的信號。
             </li>
@@ -152,8 +176,8 @@
               >對付其他敵人單位。
             </li>
             <li>
-              一旦奪取朱爾朱，玩家將準備征服剩下的五個奧斯曼城鎮。
-              讓你的部隊駐紮在城堡<nuxt-link to="/elements/Regeneration"
+              一旦奪取朱爾朱，玩家將準備征服剩下的五個奧斯曼城鎮。讓你的部隊駐紮在城堡<nuxt-link
+                to="/elements/Regeneration"
                 >回血</nuxt-link
               >，玩家應該征服四個小城鎮破壞敵人的物資。他們會向玩家求和，並給予資源。現在馬上在斷掉的橋和兩座建塔中間圍至少兩座牆，在<nuxt-link
                 to="/building/Dock"
@@ -248,7 +272,10 @@
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
-            <td class="unit4"><font color="red">紅色</font></td>
+            <td class="unit4">
+              <div class="p2"></div>
+              綠色
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -259,7 +286,7 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">失落的帝國戰役第二章第三</td>
+            <td class="unit4">失落的帝國戰役第二章之三</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
