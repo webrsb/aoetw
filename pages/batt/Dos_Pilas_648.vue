@@ -1,4 +1,3 @@
-
 <template>
   <div class="container">
     <div class="row padtop">
@@ -431,16 +430,3 @@ export default {
 }
 </script>
 <style></style>
- ProTip! Use n and p to navigate between commits in a pull request.
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
