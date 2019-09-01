@@ -660,8 +660,7 @@
         </table>
 
         <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
-       <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
-         <div class="wiki" style="margin-top: 5px;">
+        <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
@@ -684,7 +683,7 @@
                     >蒂卡爾</a
                   ></strong
                 ></em
-               >、<em
+              >、<em
                 ><strong
                   ><a
                     href="https://en.wikipedia.org/wiki/Uaxactun"
