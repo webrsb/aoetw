@@ -212,7 +212,7 @@
           </tr>
           <tr>
             <td class="unit3">steam版本</td>
-            <td class="unit4">2019年秋季</td>
+            <td class="unit4">2019年11月15日</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#356a98;">
