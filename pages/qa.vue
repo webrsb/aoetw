@@ -331,7 +331,7 @@
       <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.c-1 class="m-1" variant="success"
-            >3-1.遊戲的村民閒置驚嘆號、小樹、格子怎麼用？</b-btn
+            >3-1.遊戲的村民閒置驚嘆號、小樹、格子、巨羊怎麼用？</b-btn
           >
           <b-collapse id="c-1">
             <div class="well">
@@ -339,13 +339,6 @@
               <p>使用方式:登入訂閱，遊戲重開一次即可</p>
               <h4>常用套件</h4>
               <ul>
-				<li>
-                  <a
-                    href="https://steamcommunity.com/sharedfiles/filedetails/?id=1682487346"
-                    target="_blank"
-                    >羊羊巨大化</a
-                  >
-                </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=176096493"
@@ -399,7 +392,13 @@
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=824164427"
                     target="_blank"
-                    >sort civ</a
+                    >sort civ(依照資料片排序文明)</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://steamcommunity.com/sharedfiles/filedetails/?id=1682487346&searchtext=big+sheep"
+                    >巨羊模組</a
                   >
                 </li>
               </ul>
