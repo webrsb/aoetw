@@ -26,8 +26,8 @@
             >
               <div style="text-align: center;"><strong>目錄</strong></div>
               <ul>
-                <li><nuxt-link to="#a1">WK前 1v1</nuxt-link></li>
-                <li><nuxt-link to="#a2">WK前 TG</nuxt-link></li>
+                <li><nuxt-link to="#a1">AOC 1v1</nuxt-link></li>
+                <li><nuxt-link to="#a2">AOC TG</nuxt-link></li>
                 <li><nuxt-link to="#a3">BO21</nuxt-link></li>
                 <li><nuxt-link to="#a4">WK 1v1 (綜合圖)</nuxt-link></li>
                 <li><nuxt-link to="#a5">WK 1v1 (單一圖)</nuxt-link></li>
@@ -40,7 +40,7 @@
             &nbsp;
             <li>&nbsp;</li>
           </ul>
-          <h4><strong>WK前 1v1</strong></h4>
+          <h4><strong>AOC 1v1</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
             <ul class="list-unstyled">
@@ -1455,7 +1455,7 @@
             &nbsp;
             <li>&nbsp;</li>
           </ul>
-          <h4><strong>WK前 TG</strong></h4>
+          <h4><strong>AOC TG</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
             <ul class="list-unstyled">
@@ -2961,9 +2961,22 @@
                 ><a
                   href="https://www.aoezone.net/forums/2017-return-of-the-kings.1464/"
                   target="_blank"
-                  >王者歸來 (EGM RotK)</a
+                  >王者歸來 (RotK)</a
                 ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1487412009.A.65C.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT" target="_blank"
+              /></a>
+              <a href="https://challonge.com/rotk2v2" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL18-XpQU3nZMrbE2Ku65nNc83KhhHKUbt"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <table>
                 <tr>
                   <td>
@@ -2994,26 +3007,41 @@
                   <td><img src="~assets/vn.png" class="flg" alt="" />ACCM</td>
                 </tr>
               </table>
+
+              <li>&nbsp;</li>
             </ul>
 
             <ul class="list-unstyled">
               2018年
               <strong
-                >圍城巨神賽 (<a
+                ><a
                   href="https://www.aoezone.net/forums/2018-titans-of-arina.1781/"
                   target="_blank"
-                  >ToA/AreD18</a
-                >)</strong
+                  >圍城巨神 (ToA/AreD18)</a
+                ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1527262742.A.1FF.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT"
+              /></a>
+              <a href="https://challonge.com/toa2v2gb" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PLh2LX9OKzPcWqfu_18UOhT8TgKX1ZrPIr"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <table>
                 <tr>
                   <td>
                     <i class="fas fa-trophy" style="color:#ffca00" />冠軍
-                    <img src="~assets/fr.png" class="flg" alt="" />Edie
+                    <img src="~assets/rs.png" class="flg" alt="" />DauT
                   </td>
                   <td>
-                    <img src="~assets/rs.png" class="flg" alt="" />DauT
                     <img src="~assets/br.png" class="flg" alt="" />miguel
+                    <img src="~assets/fr.png" class="flg" alt="" />Edie
                   </td>
                 </tr>
                 <tr>
@@ -3035,7 +3063,7 @@
                     <i class="fas fa-trophy" style="color:#b79355" />四強
                     <img src="~assets/ie.png" class="flg" alt="" />Timo
                   </td>
-                  <td><img src="~assets/ie.png" class="flg" alt="" />Matt</td>
+                  <td><img src="~assets/ie.png" class="flg" alt="" />Melkor</td>
                 </tr>
               </table>
             </ul>
@@ -3043,17 +3071,30 @@
             <ul class="list-unstyled">
               2018年
               <strong
-                >游牧2v2 (<a
+                ><a
                   href="https://www.aoezone.net/forums/2018-nomad-battlegrounds.1794/"
                   target="_blank"
-                  >NBG/ND18</a
-                >)</strong
+                  >游牧戰場 (NBG/ND18)</a
+                ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1530249369.A.DFA.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT"
+              /></a>
+              <a href="https://challonge.com/NBGGoldDE" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL7gYbgiZlUqqC8TS_eKe7micQZcloNzvx"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <table>
                 <tr>
                   <td>
                     <i class="fas fa-trophy" style="color:#ffca00" />冠軍
-                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
+                    <img src="~assets/fi.png" class="flg" alt="" />Max
                   </td>
                   <td>
                     <img src="~assets/fi.png" class="flg" alt="" />Villese
@@ -3084,23 +3125,34 @@
                   <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
                 </tr>
               </table>
+
+              <li>&nbsp;</li>
             </ul>
 
             <ul class="list-unstyled">
-              2018年
+              2018~2019年
               <strong
                 ><a
                   href="https://www.aoezone.net/forums/escape-champions-league.1802/"
-                  target="_blank"
-                  >ECL
-                </a>
-                <a
-                  href="https://escapeaoe.challonge.com/ECLAfrica1"
-                  target="_blank"
-                  >非洲主題 2v2</a
+                  >Escape 冠軍聯賽 (ECL)</a
                 ></strong
               >
               <table>
+                <tr>
+                  <td colspan="2">
+                    非洲主題 2v2
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLAfrica1"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpqp_eqawuBH6Sw-Yabn0uab"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
+                  </td>
+                </tr>
                 <tr>
                   <td>
                     <i class="fas fa-trophy" style="color:#ffca00" />冠軍
@@ -3116,41 +3168,24 @@
                   <td><img src="~assets/cn.png" class="flg" alt="" />CL</td>
                 </tr>
                 <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />四強
-                    <img src="~assets/vn.png" class="flg" alt="" />BacT
+                  <td colspan="2">
+                    東亞主題 2v2
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLAsia1"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpoxR6kPssHIhVMmFIvPu4nE"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
-                  <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
                 </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />四強
-                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
-                  </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />Zuppi</td>
-                </tr>
-              </table>
-            </ul>
-
-            <ul class="list-unstyled">
-              2018年
-              <strong
-                ><a
-                  href="https://www.aoezone.net/forums/escape-champions-league.1802/"
-                  target="_blank"
-                  >ECL
-                </a>
-                <a
-                  href="https://escapeaoe.challonge.com/ECLAfrica1"
-                  target="_blank"
-                  >亞洲主題 2v2</a
-                ></strong
-              >
-              <table>
                 <tr>
                   <td>
                     <i class="fas fa-trophy" style="color:#ffca00" />冠軍
-                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
+                    <img src="~assets/fi.png" class="flg" alt="" />Max
                   </td>
                   <td>
                     <img src="~assets/fi.png" class="flg" alt="" />Villese
@@ -3164,20 +3199,37 @@
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                 </tr>
                 <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />四強
-                    <img src="~assets/br.png" class="flg" alt="" />miguel
+                  <td colspan="2">
+                    美洲主題 2v2
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLAmericas1"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpq6dTTA6jZZq4wQ1yr2fTCa"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
-                  <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />四強
-                    <img src="~assets/cn.png" class="flg" alt="" />Tim
+                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <img src="~assets/at.png" class="flg" alt="" />Lierey
                   </td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
+                  <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <img src="~assets/no.png" class="flg" alt="" />Viper
+                  </td>
+                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                 </tr>
               </table>
+
+              <li>&nbsp;</li>
             </ul>
 
             <ul class="list-unstyled">
@@ -3186,14 +3238,27 @@
                 ><a
                   href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
                   target="_blank"
-                  >世界盃</a
+                  >World Cup 世界盃</a
                 ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1543253916.A.651.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT"
+              /></a>
+              <a href="https://challonge.com/aoe2worldcup" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL7gYbgiZlUqpIPeJOQx-5t-wIUS2qwP_1"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <table>
                 <tr>
                   <td>
                     <i class="fas fa-trophy" style="color:#ffca00" />冠軍
-                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
+                    <img src="~assets/fi.png" class="flg" alt="" />Max
                   </td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
                 </tr>
@@ -3207,11 +3272,11 @@
                 <tr>
                   <td>
                     <i class="fas fa-trophy" style="color:#b79355" />季軍
-                    <img src="~assets/vn.png" class="flg" alt="" />Yellow
+                    <img src="~assets/vn.png" class="flg" alt="" />BacT
                   </td>
                   <td>
-                    <img src="~assets/vn.png" class="flg" alt="" />BacT
                     <img src="~assets/vn.png" class="flg" alt="" />ACCM
+                    <img src="~assets/vn.png" class="flg" alt="" />Yellow
                   </td>
                 </tr>
                 <tr>
@@ -3226,43 +3291,110 @@
 
             <ul class="list-unstyled">
               2019年
-              <strong
-                ><a href="https://www.aoezone.net/forums/doubles-age.1958/"
-                  >Doubles Age 雙打時代</a
+              <strong>
+                <a
+                  href="https://www.aoezone.net/forums/doubles-age.1958/"
+                  target="_blank"
+                  ><img src="~assets/DA8.jpg" alt="D" />oubles Age 雙打時代</a
                 ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1555590640.A.2C2.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT"
+              /></a>
+              <a href="https://challonge.com/DoublesAge/" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL7gYbgiZlUqq4Ip3XS_p8zZkDX6WAVW4v"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
+              <table>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
+                  <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
+                  <td><img src="~assets/pe.png" class="flg" alt="" />Heart</td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><img src="~assets/vn.png" class="flg" alt="" />ACCM</td>
+                  <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
+                  <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#343a40" />殿軍</td>
+                  <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
+                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
+                  <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
+                </tr>
+                <tr>
+                  <td>金聯盟</td>
+                  <td><img src="~assets/jp.png" class="flg" alt="" />chart</td>
+                  <td><img src="~assets/tw.png" class="flg" alt="" />cloud</td>
+                </tr>
+              </table>
+            </ul>
+
+            <ul class="list-unstyled">
+              2019年
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/two-pools-tournament.2069/"
+                  target="_blank"
+                  >Two Pools 雙池盃</a
+                ></strong
+              >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1566474542.A.34D.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT"
+              /></a>
+              <a href="https://challonge.com/TwoPools" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL3HG7YZDvGLnMJ3pVqiyJiu7U0PRNTRzS"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <table>
                 <tr>
                   <td>
                     <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <img src="~assets/ar.png" class="flg" alt="" />Nicov
+                  </td>
+                  <td>
+                    <img src="~assets/no.png" class="flg" alt="" />MbL
+                    <img src="~assets/ca.png" class="flg" alt="" />Hera
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <img src="~assets/no.png" class="flg" alt="" />Viper
+                  </td>
+                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />四強
                     <img src="~assets/rs.png" class="flg" alt="" />DauT
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
+                    <i class="fas fa-trophy" style="color:#b79355" />四強
+                    <img src="~assets/br.png" class="flg" alt="" />dogao
                   </td>
-                  <td>
-                    <img src="~assets/pe.png" class="flg" alt="" />Hearttt
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />季軍
-                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
-                  </td>
-                  <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
-                  <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />殿軍
-                    <img src="~assets/no.png" class="flg" alt="" />Viper
-                  </td>
-                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
-                  <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
+                  <td><img src="~assets/br.png" class="flg" alt="" />miguel</td>
                 </tr>
               </table>
             </ul>
@@ -3277,71 +3409,409 @@
             <ul class="list-unstyled">
               2018年
               <strong
-                ><a href="https://www.aoezone.net/forums/1742/" target="_blank"
-                  >逐鹿非洲 (Battle of Africa)</a
+                ><a
+                  href="https://www.aoezone.net/forums/2018-battle-of-africa.1742/"
+                  target="_blank"
+                  >逐鹿非洲 (BoA)</a
                 ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1523756925.A.419.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt=""
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL7gYbgiZlUqpCfbvFKWclcuslG_duROXA"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt=""
+              /></a>
               <table>
                 <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> TyRanT
+                  <td colspan="4">
+                    <i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img
+                      src="~assets/TyRanT.jpg"
+                      alt=""
+                    />&nbsp;TyRanT
                   </td>
+                </tr>
+                <tr>
+                  <td colspan="4">
+                    <i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="4">
+                    <i
+                      class="fas fa-trophy"
+                      style="color:#b79355"
+                    />四強&nbsp;<img
+                      src="~assets/Suomi.jpg"
+                      alt=""
+                    />&nbsp;Suomi
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="4">
+                    <i
+                      class="fas fa-trophy"
+                      style="color:#b79355"
+                    />四強&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
+                  </td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /> aM</td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /></td>
+                  <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/pe.png" class="flg" alt="" />Heart</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
+                  <td></td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /> FIN</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Zuppi</td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />TheMax</td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                   <td>
                     <img src="~assets/fi.png" class="flg" alt="" />Villese
                   </td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /> SY</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
+                  <td></td>
                 </tr>
               </table>
 
               <li>&nbsp;</li>
             </ul>
 
-            <h5>
+            <ul class="list-unstyled">
+              2018~2019年
               <strong
                 ><a
                   href="https://www.aoezone.net/forums/escape-champions-league.1802/"
                   target="_blank"
-                  >冠軍聯賽 (Escape Champions League)</a
-                ></strong
-              >
-            </h5>
-            <ul class="list-unstyled">
-              2018年
-              <strong
-                ><a
-                  href="https://escapeaoe.challonge.com/ECLEUE2"
-                  target="_blank"
-                  >東歐主題 4v4</a
+                  >Escape 冠軍聯賽 (ECL)</a
                 ></strong
               >
               <table>
                 <tr>
+                  <td colspan="2">&nbsp;&nbsp;&nbsp;東歐主題&nbsp;4v4</td>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> Secret:
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img
+                      src="~assets/secret.jpg"
+                      alt=""
+                    />&nbsp;Secret
                   </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right">
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLEUE2"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                    >&nbsp;
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpqH29a41EmfCF6bX09fHga0"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
+                  </td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">&nbsp;&nbsp;&nbsp;非洲主題&nbsp;3v3</td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img
+                      src="~assets/secret.jpg"
+                      alt=""
+                    />&nbsp;Secret
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right">
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLAfrica2"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                    >&nbsp;
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpo2v-ihyx-0FRZW7P2we4-Y"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
+                  </td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img
+                      src="~assets/Frantic.jpg"
+                      alt=""
+                    />&nbsp;Frantic
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">&nbsp;&nbsp;&nbsp;中東主題&nbsp;3v3</td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right">
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLMidEast2"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                    >&nbsp;
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpqs7w5dxpAGl6-9iIW3Wz6Q"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
+                  </td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">&nbsp;&nbsp;&nbsp;東亞主題&nbsp;4v4</td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img
+                      src="~assets/Suomi.jpg"
+                      alt=""
+                    />&nbsp;Suomi
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right">
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLAsia2"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                    >&nbsp;
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavprc9o06xn4bdrUWkVsFyQtM"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
+                  </td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img
+                      src="~assets/secret.jpg"
+                      alt=""
+                    />&nbsp;Secret
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">&nbsp;&nbsp;&nbsp;南洋主題&nbsp;3v3</td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right">
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLSEA2"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                    >&nbsp;
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavprtn-CMjyzdOaXmDuZz02hF"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
+                  </td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img
+                      src="~assets/secret.jpg"
+                      alt=""
+                    />&nbsp;Secret
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">&nbsp;&nbsp;&nbsp;美洲主題&nbsp;4v4</td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right">
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLAmericas2"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                    >&nbsp;
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpp4N1dQ9tlyyraHEEd0ujSN"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
+                  </td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img
+                      src="~assets/Suomi.jpg"
+                      alt=""
+                    />&nbsp;Suomi
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">&nbsp;&nbsp;&nbsp;西歐主題&nbsp;3v3</td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img
+                      src="~assets/secret.jpg"
+                      alt=""
+                    />&nbsp;Secret
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:right">
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLEUW2"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                    >&nbsp;
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavprzwxBOdkKVHS3dNdguqakM"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
+                  </td>
+                  <td>
+                    &nbsp;<i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img
+                      src="~assets/Suomi.jpg"
+                      alt=""
+                    />&nbsp;Suomi
+                  </td>
+                </tr>
+                <tr>
+                  <td><strong>總排名</strong></td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpq_5b_LRkqloU_t-lDcyQ2-"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
+                    <a
+                      href="https://www.ptt.cc/bbs/AOE/M.1567070994.A.923.html"
+                      target="_blank"
+                      ><img src="~assets/PTT2.jpg" alt=""
+                    /></a>
+                  </td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <table>
+                <tr>
+                  <td colspan="5">
+                    <i
+                      class="fas fa-trophy"
+                      style="color:#ffca00"
+                    />冠軍&nbsp;<img
+                      src="~assets/secret.jpg"
+                      alt=""
+                    />&nbsp;Secret
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="5">
+                    <i
+                      class="fas fa-trophy"
+                      style="color:#9ca1a5"
+                    />亞軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="5">
+                    <i
+                      class="fas fa-trophy"
+                      style="color:#b79355"
+                    />季軍&nbsp;<img
+                      src="~assets/Suomi.jpg"
+                      alt=""
+                    />&nbsp;Suomi
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="5">
+                    <i
+                      class="fas fa-trophy"
+                      style="color:#343a40"
+                    />殿軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
+                  </td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
@@ -3349,175 +3819,30 @@
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /> SY:</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />櫻花</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />封心</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />雞窩</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> LoS:
-                  </td>
-                  <td><img src="~assets/br.png" class="flg" alt="" />miguel</td>
-                  <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
-                  <td><img src="~assets/br.png" class="flg" alt="" />F1Re</td>
-                  <td><img src="~assets/br.png" class="flg" alt="" />dogao</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> VNA:
-                  </td>
-                  <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
-                  <td><img src="~assets/vn.png" class="flg" alt="" />ACCM</td>
-                  <td><img src="~assets/vn.png" class="flg" alt="" />CooL</td>
-                  <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
-                </tr>
-              </table>
-            </ul>
-
-            <ul class="list-unstyled">
-              2018年
-              <strong
-                ><a
-                  href="https://escapeaoe.challonge.com/ECLAfrica2"
-                  target="_blank"
-                  >非洲主題3v3</a
-                ></strong
-              >
-              <table>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> Secret:
-                  </td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
-                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
-                  <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> Frantic:
-                  </td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />CL</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
-                </tr>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /> aM:</td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
-                  <td>
-                    <img src="~assets/pe.png" class="flg" alt="" />Hearttt
-                  </td>
-                </tr>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /> SY:</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />雞窩</td>
-                </tr>
-              </table>
-            </ul>
-
-            <ul class="list-unstyled">
-              2018年
-              <strong
-                ><a
-                  href="https://escapeaoe.challonge.com/ECLMidEast2"
-                  target="_blank"
-                  >中東主題3v3</a
-                ></strong
-              >
-              <table>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" /> aM:</td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /></td>
+                  <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
-                  <td>
-                    <img src="~assets/pe.png" class="flg" alt="" />Hearttt
-                  </td>
-                </tr>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /> SY:</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />櫻花</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> Suomi:
-                  </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />TheMax</td>
-                  <td>
-                    <img src="~assets/fi.png" class="flg" alt="" />Villese
-                  </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />Zuppi</td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> Frantic:
-                  </td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />CL</td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
-                </tr>
-              </table>
-            </ul>
-
-            <ul class="list-unstyled">
-              2018年
-              <strong
-                ><a
-                  href="https://escapeaoe.challonge.com/ECLAsia2"
-                  target="_blank"
-                  >亞洲主題 4v4</a
-                ></strong
-              >
-              <table>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> Suomi:
-                  </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />TheMax</td>
-                  <td>
-                    <img src="~assets/fi.png" class="flg" alt="" />Villese
-                  </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />Zuppi</td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> Secret:
-                  </td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
-                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
-                  <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
-                  <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
-                </tr>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /> aM:</td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
-                  <td>
-                    <img src="~assets/pe.png" class="flg" alt="" />Hearttt
-                  </td>
+                  <td><img src="~assets/pe.png" class="flg" alt="" />Heart</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Hera</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /> SY:</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
+                  <td>
+                    <img src="~assets/fi.png" class="flg" alt="" />Villese
+                  </td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Zuppi</td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#343a40" /></td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />櫻花</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />封心</td>
+                  <td></td>
                 </tr>
               </table>
 
