@@ -11,14 +11,16 @@
             <b>鐵野豬</b>在世紀帝國II中是一個特殊的單位。他比<nuxt-link
               to="/units/animal/Wild_Boar"
               >野豬</nuxt-link
-            >更加強壯，任何人攻擊他都會是一個艱難的挑戰。他擁有350的<nuxt-link
+            >更加強壯，任何人攻擊他都會是一個艱難的挑戰。牠擁有350的<nuxt-link
               to="/elements/Hit_points"
               >生命值</nuxt-link
-            >，而且具有強大的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-            >。由於他不像一般野豬一樣可以提供肉，所以<nuxt-link
+            >，且具有強大的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >。會主動攻擊村民，而不像一般野豬一樣可以用<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
-            >或其他士兵是無法攻擊她的(他們只會站著被鐵野豬殺死）。
+            >射箭的方式攻擊而是用小刀去砍，<nuxt-link to="/civs/Goths"
+              >哥德人</nuxt-link
+            >對其也沒有加乘效果。
           </p>
           <p>
             牠出現在<nuxt-link to="/batt">戰役</nuxt-link>《<nuxt-link
