@@ -17,11 +17,7 @@
       <div class="hrn1"></div>
       <div class="n1">
         <ul class="list-unstyled">
-          本頁面介紹世紀帝國II界的知名玩家，單挑團戰後寫的是最高積分
-          <li>
-            比賽的縮寫可參考<nuxt-link to="/history">歷年比賽結果</nuxt-link
-            >，2v2 的縮寫以「地圖D年份」表示
-          </li>
+          本頁面介紹世紀帝國II界的知名玩家，積分指單挑與團戰的最高積分，比賽的縮寫可參考<nuxt-link to="/history">歷年比賽結果</nuxt-link>
         </ul>
       </div>
       <div class="row" style="margin-top: 10px;border-top: 1px solid #c7c7c7;">
@@ -37,8 +33,8 @@
                       href="https://www.voobly.com/profile/view/123211439/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a target="_blank" href="https://www.twitch.tv/theviper"
-                      ><img src="~assets/Twitch.jpg" alt=""
+                    <a target="_blank" href="https://mixer.com/theviper"
+                      ><img src="~assets/Mixer.jpg" alt=""
                     /></a>
                     <a
                       target="_blank"
@@ -59,17 +55,15 @@
                   src="~assets/no.png"
                   width="24"
                   alt=""
-                />&nbsp;挪威&nbsp;&nbsp;
-                <a
-                  target="_blank"
-                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
-                >
+                />&nbsp;挪威&nbsp;&nbsp;<img
+                  src="~assets/secret.jpg"
+                  alt=""
+                />&nbsp;Secret
               </td>
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2729&nbsp;&nbsp;團戰2220&nbsp;&nbsp;1991年次
+                積分2729/2220&nbsp;&nbsp;1991年次
               </td>
             </tr>
             <tr>
@@ -78,7 +72,7 @@
               </td>
             </tr>
             <tr>
-              <td>近期成就：NAC兩冠、KotD兩冠、AD兩冠、BoA冠軍</td>
+              <td>近期成就：NAC兩冠、KotD兩冠、ECL冠軍(東歐1v1冠軍)</td>
             </tr>
           </table>
         </div>
@@ -120,7 +114,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2625&nbsp;&nbsp;團戰2275&nbsp;&nbsp;2002年次
+                積分2625/2275&nbsp;&nbsp;2002年次
               </td>
             </tr>
             <tr>
@@ -130,7 +124,56 @@
               </td>
             </tr>
             <tr>
-              <td>KotD 兩度惜敗 Viper 獲亞軍；AreD17亞軍、BoA亞軍</td>
+              <td>KotD兩亞、雙打時代亞軍、ECL亞軍(美洲2v2冠軍)</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >TheMax
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/123282211/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a target="_blank" href="https://www.twitch.tv/themax_"
+                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/TheMax2.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/fi.png"
+                  width="24"
+                  alt=""
+                />&nbsp;芬蘭&nbsp;&nbsp;Suomi
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                積分2599/2265&nbsp;&nbsp;1999年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                團戰最頂級玩家，主宰能力隱隱有凌駕 Viper
+                的趨勢，戰術上極具創造力。Barbarian AI 作者。
+              </td>
+            </tr>
+            <tr>
+              <td>HC2亞軍、KotD1四強、ND18冠軍、世界盃冠軍、ECL季軍(東亞2v2冠軍)</td>
             </tr>
           </table>
         </div>
@@ -172,125 +215,18 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2693&nbsp;&nbsp;團戰2286&nbsp;&nbsp;1992年次
+                積分2693/2286&nbsp;&nbsp;1992年次
               </td>
             </tr>
             <tr>
               <td>
-                單挑團戰皆屬最頂級，各種地圖理解都很好，擅長後期多線與控圖，能逆轉極大的劣勢。曾來臺灣留學
+                單挑團戰皆屬最頂級，各種地圖理解都很好，擅長後期多線與控圖，能逆轉極大的劣勢。曾來臺灣留學。
               </td>
             </tr>
             <tr>
               <td>
-                WSVG亞軍、阿拉伯邀請賽冠軍、KotD2四強、世界盃亞軍、4v4三冠
+                近期成就：MSC冠軍、KotD2四強、世界盃亞軍、ECL殿軍(非洲2v2冠軍)
               </td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >TheMax
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/123282211/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a target="_blank" href="https://www.twitch.tv/themax_"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/TheMax2.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/fi.png"
-                  width="24"
-                  alt=""
-                />&nbsp;芬蘭&nbsp;&nbsp;Suomi
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                單挑2593&nbsp;&nbsp;團戰2265&nbsp;&nbsp;1999年次
-              </td>
-            </tr>
-            <tr>
-              <td>
-                團戰最頂級玩家，主宰能力隱隱有凌駕 Viper
-                的趨勢，戰術也極具創意。Barbarian AI 作者。
-              </td>
-            </tr>
-            <tr>
-              <td>AD17季軍、NC17亞軍、ND18冠軍、KotD1四強、世界盃冠軍</td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >DauT
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/12926/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a target="_blank" href="https://www.twitch.tv/daut"
-                      ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      target="_blank"
-                      href="https://www.youtube.com/channel/UC8m8Iah2xOHZvnBbpyOcEOA/videos"
-                      ><img src="~assets/YouTube2.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/DauT.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/rs.png"
-                  width="24"
-                  alt=""
-                />&nbsp;賽爾維亞&nbsp;&nbsp;
-                <a
-                  target="_blank"
-                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
-                >
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">單挑2638&nbsp;&nbsp;1986年次</td>
-            </tr>
-            <tr>
-              <td>
-                Viper
-                前的世界王者，2003以來獲獎無數。擅長在壓力下爆經濟，對新文明的優勢如何發揮判斷精準，開發了許多
-                WK 新戰術。
-              </td>
-            </tr>
-            <tr>
-              <td>2003~2010年間26個大賽中拿下12冠8亞、BoA冠軍、4v4五冠</td>
             </tr>
           </table>
         </div>
@@ -332,17 +268,15 @@
                   src="~assets/es.png"
                   width="24"
                   alt=""
-                />&nbsp;西班牙&nbsp;&nbsp;
-                <a
-                  target="_blank"
-                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
-                >
+                />&nbsp;西班牙&nbsp;&nbsp;<img
+                  src="~assets/secret.jpg"
+                  alt=""
+                />&nbsp;Secret
               </td>
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2630&nbsp;&nbsp;團戰2244&nbsp;&nbsp;1989年次
+                積分2636/2268&nbsp;&nbsp;1989年次
               </td>
             </tr>
             <tr>
@@ -352,8 +286,65 @@
             </tr>
             <tr>
               <td>
-                NAC2亞軍、全明星賽亞軍、MoA5亞軍、MoMR冠軍、MoI亞軍、RotK亞軍、BoA冠軍
+                NAC2 MoA5 MSC RotK ND18 全明星 雙池盃皆獲亞軍、ECL冠軍(1v1一冠一亞)
               </td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >DauT
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/12926/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a target="_blank" href="https://www.twitch.tv/daut"
+                      ><img src="~assets/Twitch.jpg" alt=""
+                    /></a>
+                    <a
+                      target="_blank"
+                      href="https://www.youtube.com/channel/UC8m8Iah2xOHZvnBbpyOcEOA/videos"
+                      ><img src="~assets/YouTube2.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/DauT.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/rs.png"
+                  width="24"
+                  alt=""
+                />&nbsp;賽爾維亞&nbsp;&nbsp;<img
+                  src="~assets/secret.jpg"
+                  alt=""
+                />&nbsp;Secret
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                積分2638/2150&nbsp;&nbsp;1986年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Viper
+                前的世界王者，2003以來獲獎無數。擅長在壓力下爆經濟，對新文明的優勢判斷精準，開發許多 WK 新戰術。
+              </td>
+            </tr>
+            <tr>
+              <td>2003~2010年間26個大賽中拿下12冠8亞、WK2v2三冠兩亞、團戰七冠</td>
             </tr>
           </table>
         </div>
@@ -394,16 +385,14 @@
                   src="~assets/de.png"
                   width="24"
                   alt=""
-                />&nbsp;德國&nbsp;&nbsp;
-                <a
-                  target="_blank"
-                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
-                >
+                />&nbsp;德國&nbsp;&nbsp;<img
+                  src="~assets/secret.jpg"
+                  alt=""
+                />&nbsp;Secret
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2546&nbsp;&nbsp;1991年次</td>
+              <td style="text-align:center">積分2546/1989&nbsp;&nbsp;1991年次</td>
             </tr>
             <tr>
               <td>
@@ -413,8 +402,7 @@
             </tr>
             <tr>
               <td>
-                BO21贏過Viper、AD13冠軍、BoA冠軍、4v4三冠；CoT 贏 Viper
-                但積分較低而居亞軍
+                BO21贏過Viper、AD13冠軍、團戰五冠；CoT 贏 Viper 但積分較低而居亞軍
               </td>
             </tr>
           </table>
@@ -454,16 +442,14 @@
                   src="~assets/ca.png"
                   width="24"
                   alt=""
-                />&nbsp;加拿大&nbsp;&nbsp;
-                <a
-                  target="_blank"
-                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
-                >
+                />&nbsp;加拿大&nbsp;&nbsp;<img
+                  src="~assets/secret.jpg"
+                  alt=""
+                />&nbsp;Secret
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2576&nbsp;&nbsp;1988年次</td>
+              <td style="text-align:center">積分2576/2116&nbsp;&nbsp;1988年次</td>
             </tr>
             <tr>
               <td>
@@ -472,59 +458,8 @@
             </tr>
             <tr>
               <td>
-                VoC冠軍、MoA2冠軍、隱藏盃四強、ND16季軍、AreD兩季、4v4四亞
+                VoC冠軍、HC1四強、AreD兩季、雙打時代冠軍、4v4四亞、ECL冠軍
               </td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >MbL
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/123844441/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a target="_blank" href="https://www.twitch.tv/mblaoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/MbL.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/no.png"
-                  width="24"
-                  alt=""
-                />&nbsp;挪威&nbsp;&nbsp;<img
-                  src="~assets/aM.jpg"
-                  alt=""
-                />&nbsp;aM
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                單挑2725&nbsp;&nbsp;團戰2298&nbsp;&nbsp;1994年次
-              </td>
-            </tr>
-            <tr>
-              <td>
-                前期弄人（偷動物、卡村民、圍資源等）的技術無人可比，單挑強於團戰。曾來過臺灣。
-              </td>
-            </tr>
-            <tr>
-              <td>LotH2冠軍、隱藏盃亞軍、NAC2四強、BoA亞軍、ND18季軍</td>
             </tr>
           </table>
         </div>
@@ -566,17 +501,72 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2602&nbsp;&nbsp;團戰2257&nbsp;&nbsp;1992年次
+                積分2607/2271&nbsp;&nbsp;1992年次
               </td>
             </tr>
             <tr>
               <td>
                 團戰最頂級玩家，發展迅速、僧投控制優秀，一開始是從游牧發跡。不設編隊，時常
-                FP。
+                FP
               </td>
             </tr>
             <tr>
-              <td>EGM2冠軍、ND16冠軍、ND18季軍、AD17亞軍、RotK亞軍</td>
+              <td>EGM2冠軍、雙池盃冠軍、ECL亞軍(西歐1v1冠軍)</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >MbL
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/123844441/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a target="_blank" href="https://www.twitch.tv/mblaoc"
+                      ><img src="~assets/Twitch.jpg" alt=""/></a>
+                    <a
+                      target="_blank"
+                      href="https://www.youtube.com/channel/UCHKDFOufgTikGmb7y-sZQ2w/videos"
+                      ><img src="~assets/YouTube2.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/MbL.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/no.png"
+                  width="24"
+                  alt=""
+                />&nbsp;挪威&nbsp;&nbsp;<img
+                  src="~assets/aM.jpg"
+                  alt=""
+                />&nbsp;aM
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                積分2742/2298&nbsp;&nbsp;1994年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                前期弄人（偷動物、卡村民、圍資源等）的技術無人可比，單挑強於團戰。曾來過臺灣。
+              </td>
+            </tr>
+            <tr>
+              <td>EGM3亞軍、HC1亞軍、NAC2 HC2四強、雙池盃冠軍、ECL亞軍(南洋1v1亞軍)</td>
             </tr>
           </table>
         </div>
@@ -618,7 +608,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2544&nbsp;&nbsp;團戰2254&nbsp;&nbsp;1996年次
+                積分2544/2254&nbsp;&nbsp;1996年次
               </td>
             </tr>
             <tr>
@@ -628,7 +618,7 @@
               </td>
             </tr>
             <tr>
-              <td>KotD1四強、AreD17亞軍、BoA亞軍</td>
+              <td>KotD1四強、AreD17 ECL 雙打時代皆獲亞軍</td>
             </tr>
           </table>
         </div>
@@ -674,15 +664,203 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2646&nbsp;&nbsp;1999年次</td>
+              <td style="text-align:center">積分2646/2152&nbsp;&nbsp;1999年次</td>
             </tr>
             <tr>
               <td>
-                早期精通阿拉伯匈奴，攻勢凌厲，肉馬與弓兵的控制都很驚人。2015突然開竅在一個月內爆增五百分打上單挑榜第一。
+                早期精通阿拉伯匈奴，攻勢凌厲，肉馬與弓兵的控制都很驚人。2015突然開竅一個月內爆增五百分打上單挑榜第一。
               </td>
             </tr>
             <tr>
-              <td>匈奴傳說賽季軍、NC15亞軍</td>
+              <td>MSC四強、雙池盃冠軍、ECL亞軍</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >Zuppi
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/123961442/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a target="_blank" href="https://www.twitch.tv/toreeeee"
+                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/zu.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/fi.png"
+                  width="24"
+                  alt=""
+                />&nbsp;芬蘭&nbsp;&nbsp;Suomi&nbsp;&nbsp;<img
+                  src="~assets/NaBs.jpg"
+                  alt=""
+                />&nbsp;NaBs
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">積分2466/2187&nbsp;&nbsp;1990年次</td>
+            </tr>
+            <tr>
+              <td>
+                團戰主要負責蒙古，擅常在配兵上智商壓制，經濟和控制都很出色，圍牆時非常穩固。
+              </td>
+            </tr>
+            <tr>
+              <td>ND16殿軍、AD17季軍、NC17亞軍、ECL季軍</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >Villese
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/124166670/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""/></a>
+                    <a target="_blank" href="https://www.twitch.tv/villese"
+                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/vill.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/fi.png"
+                  width="24"
+                  alt=""
+                />&nbsp;芬蘭&nbsp;&nbsp;Suomi
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                積分2568/2236&nbsp;&nbsp;1994年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                原先在阿拉伯場場打小弓，發展其他戰術後曾 18
+                連勝衝到最高積分榜第五名。
+              </td>
+            </tr>
+            <tr>
+              <td>NC17亞軍、ND18冠軍、ECL季軍(東亞2v2冠軍)</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >Ruben
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/123417449/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/Ruben.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/fi.png"
+                  width="24"
+                  alt=""
+                />&nbsp;芬蘭&nbsp;&nbsp;Suomi
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">積分2366/2202</td>
+            </tr>
+            <tr>
+              <td>
+                死鬥玩家，芬蘭隊在偏後期或戰術奇特的地圖會排他上場。有多次
+                TC 爆建功的紀錄。
+              </td>
+            </tr>
+            <tr>
+              <td>NC17亞軍、世界盃冠軍、ECL季軍</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >Pike
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/123162283/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a target="_blank" href="https://www.twitch.tv/pikeaoc"
+                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/Pike.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/fi.png"
+                  width="24"
+                  alt=""
+                />&nbsp;芬蘭&nbsp;&nbsp;Suomi&nbsp;&nbsp;<img
+                  src="~assets/NaBs.jpg"
+                  alt=""
+                />&nbsp;NaBs
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">積分2299/2159&nbsp;&nbsp;1995年次</td>
+            </tr>
+            <tr>
+              <td>海戰頂尖玩家，團戰中會負責維京的位置，陸戰中規中矩。</td>
+            </tr>
+            <tr>
+              <td>MoI季軍、NC17亞軍、WiC與王者之師第五名</td>
             </tr>
           </table>
         </div>
@@ -724,17 +902,17 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2458&nbsp;&nbsp;團戰2232&nbsp;&nbsp;1987年次
+                積分2458/2245&nbsp;&nbsp;1987年次
               </td>
             </tr>
             <tr>
               <td>
-                箭塔愛用者，當外家時能強軍事拖住兩家，當內家時也有優秀表現，被
+                箭塔愛用者，外家時能強軍事拖住兩家，內家時也有優秀表現，被
                 Yo 評為最好的隊友。
               </td>
             </tr>
             <tr>
-              <td>BoA四強、王者之師冠軍、世界盃亞軍</td>
+              <td>王者之師冠軍、世界盃亞軍、ECL殿軍(非洲2v2冠軍)</td>
             </tr>
           </table>
         </div>
@@ -775,13 +953,13 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2413&nbsp;&nbsp;1987年次</td>
+              <td style="text-align:center">積分2413/2114&nbsp;&nbsp;1987年次</td>
             </tr>
             <tr>
-              <td>團戰頂級，經濟與軍事極為均衡，爆馬能力強。</td>
+              <td>團戰頂級玩家，經濟與軍事極為均衡，爆馬能力強。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
             </tr>
             <tr>
-              <td>WSVG第五名、TTW亞軍、王者之師冠軍、NC兩冠</td>
+              <td>WSVG第五名、王者之師冠軍、NC兩冠、ECL殿軍</td>
             </tr>
           </table>
         </div>
@@ -798,7 +976,7 @@
                       href="https://www.voobly.com/profile/view/123835916/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a target="_blank" href="https://www.douyu.com/294359"
+                    <a target="_blank" href="https://www.huya.com/diguo2"
                       ><img src="~assets/douyu.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -823,7 +1001,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2300&nbsp;&nbsp;團戰2224&nbsp;&nbsp;1984年次
+                積分2343/2224&nbsp;&nbsp;1984年次
               </td>
             </tr>
             <tr>
@@ -832,7 +1010,7 @@
               </td>
             </tr>
             <tr>
-              <td>ND16亞軍、TTW亞軍、4v4三冠</td>
+              <td>ND16亞軍、TTW亞軍、4v4三冠、ECL殿軍</td>
             </tr>
           </table>
         </div>
@@ -843,232 +1021,42 @@
               <td style="text-align:center">
                 <h4>
                   <strong
-                    >Chris
+                    >Vivi (肥龍)
                     <a
                       target="_blank"
-                      href="https://www.voobly.com/profile/view/123397426/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/Chris.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/ca.png"
-                  width="24"
-                  alt=""
-                />&nbsp;加拿大&nbsp;&nbsp;<img
-                  src="~assets/LClan.jpg"
-                  alt=""
-                />&nbsp;L Clan
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                單挑2514&nbsp;&nbsp;團戰2281&nbsp;&nbsp;1987年次
-              </td>
-            </tr>
-            <tr>
-              <td>
-                與 DauT
-                霸佔了早期大多比賽的冠亞軍，擅長無休止的進攻，現已幾乎退休。著有一部
-                AOC 教科書。
-              </td>
-            </tr>
-            <tr>
-              <td>2002~2008年間31個大賽中拿下10冠6亞、4v4兩冠五亞</td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >Villese
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/124166670/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/vill.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/fi.png"
-                  width="24"
-                  alt=""
-                />&nbsp;芬蘭&nbsp;&nbsp;Suomi
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                單挑2568&nbsp;&nbsp;團戰2236&nbsp;&nbsp;1994年次
-              </td>
-            </tr>
-            <tr>
-              <td>
-                原先在阿拉伯場場打小弓，發展其他戰術後曾 18
-                連勝衝到最高積分榜第五名。
-              </td>
-            </tr>
-            <tr>
-              <td>NC17亞軍、ND18冠軍</td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >Ruben
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/123417449/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/Ruben.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/fi.png"
-                  width="24"
-                  alt=""
-                />&nbsp;芬蘭&nbsp;&nbsp;Suomi
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">單挑2366&nbsp;&nbsp;團戰2202</td>
-            </tr>
-            <tr>
-              <td>
-                死鬥玩家，芬蘭隊在偏後期的地圖會安排他上場，圍牆時非常穩固。有多次
-                TC 爆成功的紀錄。
-              </td>
-            </tr>
-            <tr>
-              <td>NC17亞軍、世界盃冠軍</td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >Zuppi
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/123961442/Matches"
+                      href="https://www.voobly.com/profile/view/123493096/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a target="_blank" href="https://www.twitch.tv/toreeeee"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    <a target="_blank" href="https://www.douyu.com/1052202"
+                      ><img src="~assets/douyu.jpg" alt=""/></a
                   ></strong>
                 </h4>
               </td>
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/zu.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/5c.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/fi.png"
+                  src="~assets/cn.png"
                   width="24"
                   alt=""
-                />&nbsp;芬蘭&nbsp;&nbsp;Suomi&nbsp;&nbsp;<img
-                  src="~assets/NaBs.jpg"
-                  alt=""
-                />&nbsp;NaBs
+                />&nbsp;中國
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2426&nbsp;&nbsp;1990年次</td>
+              <td style="text-align:center">積分2722/2234&nbsp;&nbsp;1994年次</td>
             </tr>
             <tr>
               <td>
-                團戰主要負責蒙古，擅常在配兵上智商壓制，經濟和控制都很出色。
+                阿拉伯單挑有世界前五水準，各種前置戰術非常強勢，西征甩槍享譽國際。團戰較弱，不擅圍牆。
               </td>
             </tr>
             <tr>
-              <td>ND16殿軍、AD17季軍、NC17亞軍、WiC與王者之師第五名</td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >Pike
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/123162283/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a target="_blank" href="https://www.twitch.tv/pikeaoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/Pike.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/fi.png"
-                  width="24"
-                  alt=""
-                />&nbsp;芬蘭&nbsp;&nbsp;Suomi&nbsp;&nbsp;<img
-                  src="~assets/NaBs.jpg"
-                  alt=""
-                />&nbsp;NaBs
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">單挑2260&nbsp;&nbsp;1995年次</td>
-            </tr>
-            <tr>
-              <td>海戰頂尖玩家，團戰中會負責維京的位置，陸戰中規中矩。</td>
-            </tr>
-            <tr>
-              <td>MoI季軍、ND16殿軍、NC17亞軍、WiC與王者之師第五名</td>
+              <td>DERAC冠軍、KotD2四強、ECL東歐1v1亞軍</td>
             </tr>
           </table>
         </div>
@@ -1114,7 +1102,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2540&nbsp;&nbsp;1989年次</td>
+              <td style="text-align:center">積分2550/2191&nbsp;&nbsp;1989年次</td>
             </tr>
             <tr>
               <td>
@@ -1124,7 +1112,7 @@
             </tr>
             <tr>
               <td>
-                王者之師季軍、TTW殿軍、世界盃季軍、AreD17殿軍、MoI殿軍、KotD1
+                王者之師季軍、MoI殿軍、&nbsp; 世界盃季軍、雙打時代季軍；KotD1
                 擊敗 Vivi 進八強
               </td>
             </tr>
@@ -1167,7 +1155,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">1992年次</td>
+              <td style="text-align:center">積分2374/2115&nbsp;&nbsp;1992年次</td>
             </tr>
             <tr>
               <td>
@@ -1215,10 +1203,10 @@
                   src="~assets/vn.png"
                   width="24"
                   alt=""
-                />&nbsp;越南&nbsp;&nbsp;<img
+                />&nbsp;越南&nbsp;<img
                   src="~assets/VNA.jpg"
                   alt=""
-                />&nbsp;VNA&nbsp;&nbsp;<img
+                />&nbsp;VNA&nbsp;<img
                   src="~assets/TyRanT.jpg"
                   alt=""
                 />&nbsp;TyRanT
@@ -1226,18 +1214,18 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2575&nbsp;&nbsp;團戰2301&nbsp;&nbsp;1989年次
+                積分2575/2301&nbsp;&nbsp;1989年次
               </td>
             </tr>
             <tr>
               <td>
                 早期以精準的兵種戰術選擇聞名。顛峰期 2013~2016,
-                現今風格偏向前期，長於微操，受貢發揮強。
+                現今風格偏向前期，長於微操，收資源發揮強。
               </td>
             </tr>
             <tr>
               <td>
-                王者之師季軍、AD13亞軍、ECLME1v1冠軍、WSVG殿軍、WiC亞軍、世界盃季軍
+                王者之師季軍、AD13亞軍、ECL中東1v1冠軍、DERAC冠軍、WK2v2四度季軍
               </td>
             </tr>
           </table>
@@ -1247,9 +1235,9 @@
           <table class="table">
             <tr>
               <td style="text-align:center">
-                <h4 style="font-size: 18px">
+                <h4>
                   <strong
-                    >saymyname (Yellow)
+                    >Yellow
                     <a
                       target="_blank"
                       href="https://www.voobly.com/profile/view/123174138/Matches"
@@ -1281,61 +1269,15 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2500&nbsp;&nbsp;1989年次</td>
+              <td style="text-align:center">積分2533/2175&nbsp;&nbsp;1989年次</td>
             </tr>
             <tr>
               <td>
-                後期能力強，常常初期被抄之後復國竟然發展比敵人快，做出出乎意料的兵量。
+                即為 saymyname。後期能力強，常常初期被抄之後復國竟然發展比敵人快，做出出乎意料的兵量。
               </td>
             </tr>
             <tr>
-              <td>王者之師季軍、AD13亞軍、CoT第五名</td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >Vivi (肥龍)
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/123303397/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a target="_blank" href="https://www.douyu.com/1052202"
-                      ><img src="~assets/douyu.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/5c.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/cn.png"
-                  width="24"
-                  alt=""
-                />&nbsp;中國&nbsp;&nbsp;Frantic
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">單挑2722&nbsp;&nbsp;1994年次</td>
-            </tr>
-            <tr>
-              <td>
-                阿拉伯單挑有世界前五水準，各種前置戰術非常強勢，西征甩槍享譽國際。團戰較弱，不擅圍牆。
-              </td>
-            </tr>
-            <tr>
-              <td>KotD2四強、BoA四強、王者之師殿軍、NC17季軍</td>
+              <td>王者之師季軍、AD13亞軍、世界盃季軍、雙打時代季軍、CoT第五名</td>
             </tr>
           </table>
         </div>
@@ -1374,12 +1316,12 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2559&nbsp;&nbsp;團戰2220&nbsp;&nbsp;1985年次
+                積分2577/2220&nbsp;&nbsp;1985年次
               </td>
             </tr>
             <tr>
               <td>
-                Yo 前的中國第一，原本圍牆非常有名但現在已較少圍了。間接使 grass
+                Yo 前的中國第一，以非常喜歡圍牆聞名。間接使 grass
                 在世紀圈成為罵人用語。
               </td>
             </tr>
@@ -1422,7 +1364,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2425&nbsp;&nbsp;1986年次</td>
+              <td style="text-align:center">積分2425/2000&nbsp;&nbsp;1986年次</td>
             </tr>
             <tr>
               <td>
@@ -1442,15 +1384,13 @@
               <td style="text-align:center">
                 <h4>
                   <strong
-                    >Vinch
+                    >miguel
                     <a
                       target="_blank"
-                      href="https://www.voobly.com/profile/view/123397463/Matches"
+                      href="https://www.voobly.com/profile/view/123600879/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a
-                      target="_blank"
-                      href="https://www.twitch.tv/vik_vinchester"
+                    <a target="_blank" href="https://www.twitch.tv/miguelaoc"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1458,28 +1398,89 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Vinch.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/miguel.png" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/ru.png"
+                  src="~assets/br.png"
                   width="24"
                   alt=""
-                />&nbsp;俄羅斯&nbsp;&nbsp;VIK
+                />&nbsp;巴西&nbsp;&nbsp;<img
+                  src="~assets/Heresy.jpg"
+                  alt=""
+                />&nbsp;Heresy
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2470&nbsp;&nbsp;1998年次</td>
+              <td style="text-align:center">
+                積分2476/2257&nbsp;&nbsp;1992年次
+              </td>
             </tr>
             <tr>
               <td>
-                擅長阿拉伯，習於練好一種打法之後，整個比賽都以很高相似度複製貼上。
+                團戰頂級玩家，擅長快速發展爆遊俠。提倡內家肉馬並在 NC17
+                奪冠後改變了團戰生態
               </td>
             </tr>
             <tr>
-              <td>阿拉伯邀請賽亞軍、KotD1八強、MoA5第五名</td>
+              <td>
+                AreD兩冠、NC17冠軍、AD17亞軍；HC1 擊敗 Liereyy 進四強
+              </td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >dogao
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/123444726/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a target="_blank" href="https://www.twitch.tv/dogaoaoc"
+                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/dogao.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/br.png"
+                  width="24"
+                  alt=""
+                />&nbsp;巴西&nbsp;&nbsp;<img
+                  src="~assets/Heresy.jpg"
+                  alt=""
+                />&nbsp;Heresy
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                積分2572/2246&nbsp;&nbsp;1991年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                團戰頂級玩家，經驗豐富大約2009活躍至今。在單挑賽曾有很好成績但已很少參加了。
+              </td>
+            </tr>
+            <tr>
+              <td>
+                MoRM亞軍、WSVG第七名、AD17殿軍、TMW亞軍、王者之師冠軍、NC兩冠
+              </td>
             </tr>
           </table>
         </div>
@@ -1526,7 +1527,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2475&nbsp;&nbsp;團戰2230&nbsp;&nbsp;1993年次
+                積分2475/2230&nbsp;&nbsp;1993年次
               </td>
             </tr>
             <tr>
@@ -1537,7 +1538,7 @@
             </tr>
             <tr>
               <td>
-                近期成就：WSVG季軍、SLU亞軍、4v4一冠四亞；阿拉伯邀請賽曾擊敗
+                近期成就：WSVG季軍、SLU亞軍、4v4一冠四亞；阿拉伯邀請賽擊敗
                 Viper 最後獲季軍
               </td>
             </tr>
@@ -1586,12 +1587,12 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2510&nbsp;&nbsp;團戰2259&nbsp;&nbsp;1988年次
+                積分2551/2259&nbsp;&nbsp;1988年次
               </td>
             </tr>
             <tr>
               <td>
-                海戰的代表人物，據說單機練習了島嶼升級數百次。陸上的團戰也能有所發揮。
+                AOC 海戰的代表人物，據說單機練習了島嶼升級數百次。陸地圖的團戰也能有所發揮。直播時不喜歡穿上衣。
               </td>
             </tr>
             <tr>
@@ -1644,7 +1645,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2410&nbsp;&nbsp;1991年次</td>
+              <td style="text-align:center">積分2437/2027&nbsp;&nbsp;1991年次</td>
             </tr>
             <tr>
               <td>
@@ -1666,10 +1667,10 @@
               <td style="text-align:center">
                 <h4>
                   <strong
-                    >mentalist
+                    >Chris
                     <a
                       target="_blank"
-                      href="https://www.voobly.com/profile/view/123805043/Matches"
+                      href="https://www.voobly.com/profile/view/123397426/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1677,7 +1678,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/mentalist.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/Chris.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
@@ -1687,24 +1688,25 @@
                   width="24"
                   alt=""
                 />&nbsp;加拿大&nbsp;&nbsp;<img
-                  src="~assets/NaBs.jpg"
+                  src="~assets/LClan.jpg"
                   alt=""
-                />&nbsp;NaBs&nbsp;&nbsp;<img
-                  src="~assets/BzK.jpg"
-                  alt=""
-                />&nbsp;BzK
+                />&nbsp;L Clan
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2359&nbsp;&nbsp;團戰2216</td>
-            </tr>
-            <tr>
-              <td>想法獨特、能力全面，特別擅長游牧。</td>
+              <td style="text-align:center">
+                積分2439/2281&nbsp;&nbsp;1987年次
+              </td>
             </tr>
             <tr>
               <td>
-                阿拉伯邀請賽殿軍、ND16冠軍、NC15亞軍、WiC與王者之師皆隨NaBs獲第五名
+                與 DauT
+                霸佔了早期大多比賽的冠亞軍，擅長無休止的進攻，現已幾乎退休。著有一部
+                AOC 教科書。
               </td>
+            </tr>
+            <tr>
+              <td>2002~2008年間31個大賽中拿下10冠6亞、4v4兩冠五亞</td>
             </tr>
           </table>
         </div>
@@ -1715,13 +1717,15 @@
               <td style="text-align:center">
                 <h4>
                   <strong
-                    >miguel
+                    >Vinch
                     <a
                       target="_blank"
-                      href="https://www.voobly.com/profile/view/123600879/Matches"
+                      href="https://www.voobly.com/profile/view/123397463/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a target="_blank" href="https://www.twitch.tv/miguelaoc"
+                    <a
+                      target="_blank"
+                      href="https://www.twitch.tv/vik_vinchester"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1729,90 +1733,28 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/miguel.png" class="img-thumbnail" alt="" />
+                <img src="~assets/Vinch.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/br.png"
+                  src="~assets/ru.png"
                   width="24"
                   alt=""
-                />&nbsp;巴西&nbsp;&nbsp;<img
-                  src="~assets/Heresy.jpg"
-                  alt=""
-                />&nbsp;Heresy
+                />&nbsp;俄羅斯&nbsp;&nbsp;VIK
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">
-                單挑2423&nbsp;&nbsp;團戰2257&nbsp;&nbsp;1992年次
-              </td>
+              <td style="text-align:center">積分2479/1963&nbsp;&nbsp;1998年次</td>
             </tr>
             <tr>
               <td>
-                團戰頂級玩家，擅長快速發展爆大量遊俠。提倡內家肉馬並在 NC17
-                奪冠後改變了陸圖團戰的生態。
+                擅長阿拉伯，習於練好一種打法之後，整個比賽都以很高相似度複製貼上。
               </td>
             </tr>
             <tr>
-              <td>
-                MoRM季軍、AD17亞軍、AreD兩冠、WiC季軍、NC17冠軍； &nbsp;
-                隱藏盃擊敗 Liereyy 進四強
-              </td>
-            </tr>
-          </table>
-        </div>
-
-        <div class="col-lg-3 col-md-4 col-sm-6">
-          <table class="table">
-            <tr>
-              <td style="text-align:center">
-                <h4>
-                  <strong
-                    >dogao
-                    <a
-                      target="_blank"
-                      href="https://www.voobly.com/profile/view/123444726/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a target="_blank" href="https://www.twitch.tv/dogaoaoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
-                  ></strong>
-                </h4>
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                <img src="~assets/dogao.jpg" class="img-thumbnail" alt="" />
-              </td>
-            </tr>
-            <tr>
-              <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/br.png"
-                  width="24"
-                  alt=""
-                />&nbsp;巴西&nbsp;&nbsp;<img
-                  src="~assets/Heresy.jpg"
-                  alt=""
-                />&nbsp;Heresy
-              </td>
-            </tr>
-            <tr>
-              <td style="text-align:center">
-                單挑2516&nbsp;&nbsp;團戰2246&nbsp;&nbsp;1991年次
-              </td>
-            </tr>
-            <tr>
-              <td>
-                團戰頂級玩家，經驗豐富大約2009活躍至今。在單挑賽曾有很好成績但已很少參加了。
-              </td>
-            </tr>
-            <tr>
-              <td>
-                MoRM亞軍、WSVG第七名、AD17殿軍、TMW亞軍、王者之師冠軍、NC兩冠
-              </td>
+              <td>阿拉伯邀請賽亞軍、KotD1八強、MoA5第五名</td>
             </tr>
           </table>
         </div>
@@ -1858,7 +1800,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2426&nbsp;&nbsp;1996年次</td>
+              <td style="text-align:center">積分2457/2109&nbsp;&nbsp;1996年次</td>
             </tr>
             <tr>
               <td>
@@ -1867,7 +1809,7 @@
               </td>
             </tr>
             <tr>
-              <td>圍城邀請賽冠軍、AreD18季軍；AD17 淘汰 Liereyy + Hearttt</td>
+              <td>圍城邀請賽冠軍、AreD18季軍；AD17 淘汰 L+H</td>
             </tr>
           </table>
         </div>
@@ -1878,7 +1820,60 @@
               <td style="text-align:center">
                 <h4>
                   <strong
-                    >Cloud (雲)
+                    >chart
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/124206032/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/124322377/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/no.jpg" class="img-thumbnail" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/jp.png"
+                  width="24"
+                  alt=""
+                />&nbsp;日本&nbsp;&nbsp;<img
+                  src="~assets/Alliance.jpg"
+                  alt=""
+                />&nbsp;Alliance
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                積分2417/1940&nbsp;&nbsp;1996年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                加入 Alliance 後開始跟雲配合良好，負責弓兵國2TC速帝，海戰也有高水準表現。
+              </td>
+            </tr>
+            <tr>
+              <td>雙打時代金聯盟冠軍</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >cloud (雲)
                     <a
                       target="_blank"
                       href="https://www.voobly.com/profile/view/123198508/Matches"
@@ -1914,19 +1909,20 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2384&nbsp;&nbsp;團戰2035&nbsp;&nbsp;1984年次
+                積分2384/2035&nbsp;&nbsp;1984年次
               </td>
             </tr>
             <tr>
               <td>
-                臺灣目前唯一能站上世界舞臺的高手。裝甲起手熟練，後期比前期的水準更高。
+                臺灣目前唯一能站上世界舞臺的高手。裝甲起手熟練，後期比前期更強。
               </td>
             </tr>
             <tr>
-              <td>KotD1 從 Liereyy 手中拿到一勝；EGM3第五名、世界盃16強</td>
+              <td>雙打時代金聯盟冠軍、EGM3第五名；KotD1 從 Liereyy 手中拿到一勝</td>
             </tr>
           </table>
         </div>
+
       </div>
       <div>
         <ul class="list-unstyled">
@@ -1937,16 +1933,21 @@
           >、<a target="_blank" href="https://teamsecret.gg/">Secret 授權</a
           >、<a target="_blank" href="https://www.facebook.com/gametvgiaidau/"
             >GameTV 授權</a
-          >、選手本人提供
-          <li>&nbsp;&nbsp;&nbsp;本頁面由 Lanchi 整理，最後更新 2019/2/18</li>
+          >、選手本人提供。本頁面由藍琦整理、更新。
+          <li>&nbsp;</li>
         </ul>
       </div>
     </div>
   </div>
 </template>
+
 <script>
 export default {
-  layout: 'foot',
+  head() {
+    return {
+      title: '知名玩家 - Aoetw'
+    }
+  },
   components: {}
 }
 </script>
