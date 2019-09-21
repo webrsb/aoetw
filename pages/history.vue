@@ -30,7 +30,7 @@
                 <li><nuxt-link to="#a2">AOC TG</nuxt-link></li>
                 <li><nuxt-link to="#a3">BO21</nuxt-link></li>
                 <li><nuxt-link to="#a4">WK 1v1 (綜合圖)</nuxt-link></li>
-                <li><nuxt-link to="#a5">WK 1v1 (單一圖)</nuxt-link></li>
+                <li><nuxt-link to="#a5">WK 1v1 (單圖/相似圖)</nuxt-link></li>
                 <li><nuxt-link to="#a6">WK 2v2</nuxt-link></li>
                 <li><nuxt-link to="#a7">WK 3v3 4v4</nuxt-link></li>
               </ul>
@@ -2197,7 +2197,7 @@
                     <i class="fas fa-trophy" style="color:#ffca00" />
                     <img src="~assets/fi.png" class="flg" alt="" />Pike
                   </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />TheMax</td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Zuppi</td>
                 </tr>
                 <tr>
@@ -2256,7 +2256,7 @@
                     <i class="fas fa-trophy" style="color:#b79355" />
                     <img src="~assets/fi.png" class="flg" alt="" />Zuppi
                   </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />TheMax</td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                 </tr>
                 <tr>
                   <td>
@@ -2290,9 +2290,7 @@
                     <i class="fas fa-trophy" style="color:#9ca1a5" />
                     <img src="~assets/pe.png" class="flg" alt="" />Heart
                   </td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
+                  <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                 </tr>
                 <tr>
                   <td>
@@ -2466,7 +2464,7 @@
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
-                />Zuppi, Pike, Ruben, TheMax
+                />Zuppi, Pike, Ruben, Max
               </li>
               <li>
                 <i class="fas fa-trophy" style="color:#343a40" /><img
@@ -2497,7 +2495,7 @@
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
-                />Zuppi, TheMax, Villese, Pike, Ruben
+                />Zuppi, Max, Villese, Pike, Ruben
               </li>
               <li>
                 <i class="fas fa-trophy" style="color:#b79355" /><img
@@ -2582,6 +2580,14 @@
                   </td>
                   <td>Viper</td>
                   <td><img src="~assets/no.png" class="flg" alt="" /></td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhx3XBEyh0NOZB47km0tKRDN"
+                      target="_blank"
+                    >
+                      <img src="~assets/YouTubeh.jpg" alt="YT" />
+                    </a>
+                  </td>
                 </tr>
                 <tr>
                   <td>2017</td>
@@ -2599,6 +2605,13 @@
                     >
                   </td>
                   <td><img src="~assets/rs.png" class="flg" alt="" /></td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL3HG7YZDvGLnhuX1oVzA1RLx3T3ZRD9f6"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
+                  </td>
                 </tr>
               </table>
             </ul>
@@ -2620,22 +2633,46 @@
                     <a
                       href="https://www.aoezone.net/forums/2017-escape-gaming-masters-1.1462/"
                       target="_blank"
-                      >EGM1</a
+                      >1</a
                     >
+                    <a href="https://challonge.com/escmasters" target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL18-XpQU3nZPL0LLigl96oKZtvkwrnqlA"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                   <td>
                     <a
                       href="https://www.aoezone.net/forums/2017-escape-gaming-masters-2.1463/"
                       target="_blank"
-                      >EGM2</a
+                      >2</a
                     >
+                    <a href="https://challonge.com/egm2main"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL18-XpQU3nZOpNhso2gK8MOrUFKfQCy66"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                   <td>
                     <a
                       href="https://www.aoezone.net/forums/2017-escape-gaming-masters-3.1639/"
                       target="_blank"
-                      >EGM3</a
+                      >RE</a
                     >
+                    <a href="https://challonge.com/EGMRE" target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL18-XpQU3nZNzkV9NmFZyv2fCFSA_8zCV"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                 </tr>
                 <tr>
@@ -2659,9 +2696,7 @@
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#343a40" />殿軍</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
+                  <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                 </tr>
                 <tr>
@@ -2681,13 +2716,23 @@
 
             <ul class="list-unstyled">
               2017年
-              <strong
-                ><a
+              <strong>
+                <a
                   href="https://www.aoezone.net/forums/2017-elimination-draft.1494/"
                   target="_blank"
-                  >淘汰計劃 (EGM Elimination Draft)</a
+                  >Elimination Draft 淘汰計劃</a
                 ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1489737036.A.F68.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL18-XpQU3nZM-OjgRzMFQOfItDA-KjNVP"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
                   src="~assets/no.png"
@@ -2720,13 +2765,23 @@
 
             <ul class="list-unstyled">
               2017年
-              <strong
-                ><a
+              <strong>
+                <a
                   href="https://www.aoezone.net/forums/2017-aoe-all-stars.1515/"
                   target="_blank"
-                  >全明星賽 (EGM All-Stars)</a
+                  >All-Stars 全明星賽</a
                 ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1494714843.A.F3E.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL18-XpQU3nZPMFPWDdcX3Of0RZkS0rvFa"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
                   src="~assets/no.png"
@@ -2762,28 +2817,39 @@
               2018年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/escape-champions-league.1802/"
+                  href="https://www.aoezone.net/forums/2019-escape-champions-league.1802/"
                   target="_blank"
-                  >ECL 冠軍聯賽</a
-                >
-                1v1</strong
+                  >Escape 冠軍聯賽 1v1 (ECL)</a
+                ></strong
               >
               <table>
                 <tr style="text-align:center">
                   <td></td>
                   <td>
+                    東歐
                     <a
                       href="https://escapeaoe.challonge.com/ECLEUE1"
                       target="_blank"
-                      >東歐主題</a
-                    >
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpq5RNWKKx0jqx1NqIvOzarD"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                   <td>
+                    中東
                     <a
                       href="https://escapeaoe.challonge.com/ECLMidEast1"
                       target="_blank"
-                      >中東主題</a
-                    >
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpr_zfEfZBpLIMYPprYSjePL"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                 </tr>
                 <tr>
@@ -2798,15 +2864,77 @@
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
+                  <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
+                </tr>
+              </table>
+            </ul>
+
+            <ul class="list-unstyled">
+              2019年
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2019-escape-champions-league.1802/"
+                  target="_blank"
+                  >Escape 冠軍聯賽 1v1 (ECL)</a
+                ></strong
+              >
+              <table>
+                <tr style="text-align:center">
+                  <td></td>
+                  <td>
+                    南洋
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLEUE1"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavpq53FpUMW24vuFx_7WOho25"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
+                  </td>
+                  <td>
+                    西歐
+                    <a
+                      href="https://escapeaoe.challonge.com/ECLEUW1"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL2XbFFOFavppkOO1T1y41CF6oGf4-U2BF"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
+                  <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
+                  <td>
+                    <img src="~assets/fi.png" class="flg" alt="" />Villese
+                  </td>
+                  <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
+                </tr>
+                <tr>
+                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
                 </tr>
               </table>
 
@@ -2817,11 +2945,21 @@
               2019年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/nilis-apartment-cup-2.1885/"
+                  href="https://www.aoezone.net/forums/2019-nilis-apartment-cup-2.1885/"
                   target="_blank"
-                  >Nili公寓盃2 (NAC2)</a
+                  >第二屆Nili公寓盃 (NAC2)</a
                 ></strong
               >
+              <a
+                href="https://www.ptt.cc/bbs/AOE/M.1549549703.A.07A.html"
+                target="_blank"
+                ><img src="~assets/PTT2.jpg" alt="PTT"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PL2XbFFOFavppkOO1T1y41CF6oGf4-U2BF"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
                   src="~assets/no.png"
@@ -2841,22 +2979,70 @@
                   src="~assets/at.png"
                   class="flg"
                   alt=""
-                />Liereyy
+                />Lierey
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />四強<img
+                <i class="fas fa-trophy" style="color:#b79355" />四強<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />MbL
               </li>
             </ul>
+
+            <ul class="list-unstyled">
+              2019年
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2019-hidden-cup-2.1921/"
+                  target="_blank"
+                  >第二屆隱藏盃 (HC2)</a
+                ></strong
+              >
+              <a href="https://challonge.com/HiddenCup2" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PLGVjiUKVQd73iBXaaOz8ZupCwKsCocjf1"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                  src="~assets/no.png"
+                  class="flg"
+                  alt=""
+                />Viper
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                  src="~assets/fi.png"
+                  class="flg"
+                  alt=""
+                />Max
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                  src="~assets/at.png"
+                  class="flg"
+                  alt=""
+                />Lierey
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                  src="~assets/no.png"
+                  class="flg"
+                  alt=""
+                />MbL
+              </li>
+              <li>NAC1/HC1 皆為邀請賽，故不列入</li>
+            </ul>
           </div>
           <ul class="list-unstyled" id="a5">
             &nbsp;
             <li>&nbsp;</li>
           </ul>
-          <h4><strong>WK 1v1 (單一圖)</strong></h4>
+          <h4><strong>WK 1v1 (單圖/相似圖)</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
             <ul class="list-unstyled">
@@ -2871,13 +3057,29 @@
                       target="_blank"
                       >KotD1</a
                     >
+                    <a href="https://challonge.com/kotdaoc" target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL7gYbgiZlUqrA-W2XJF4duJePfB_wXoVl"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"/></a
+                    >&nbsp;
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/categories/king-of-the-desert-2.1903/"
+                      href="https://www.aoezone.net/categories/2019-king-of-the-desert-2.1903/"
                       target="_blank"
                       >KotD2</a
                     >
+                    <a href="https://challonge.com/kotd2" target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PL7gYbgiZlUqrTioAOM38dz2LhTeP6hzkC"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                 </tr>
                 <tr>
@@ -2887,43 +3089,52 @@
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
+                  <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
+                  <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
-                  <td>
-                    <img src="~assets/pe.png" class="flg" alt="" />Hearttt
-                  </td>
+                  <td><img src="~assets/pe.png" class="flg" alt="" />Heart</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />TheMax</td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
                 </tr>
               </table>
+
+              <li>&nbsp;</li>
             </ul>
 
             <ul class="list-unstyled">
               2018年
               <strong
-                >第五屆圍城大師賽 (<a
+                ><a
                   href="https://www.aoezone.net/forums/2018-masters-of-arena-5.1740/"
                   target="_blank"
-                  >MoA5</a
-                >)</strong
+                  >第五屆圍城大師賽 (MoA5)</a
+                ></strong
               >
+              <a href="https://challonge.com/MoA5S2" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2Od9gNFXzSN8Tx6Ld1BFRSH"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
+                <a
+                  href="https://www.youtube.com/playlist?list=PLrFe08sgKX4_A0EVgRm36mPYqoiRxvxNl"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </li>
               <li>
                 <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
@@ -2945,6 +3156,101 @@
                   class="flg"
                   alt=""
                 />CL
+              </li>
+            </ul>
+
+            <ul class="list-unstyled">
+              2019年
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2019-demeyesred-arena-cup.1951/"
+                  target="_blank"
+                  >DER圍城盃 (DERAC)</a
+                ></strong
+              >
+              <a href="https://challonge.com/derac" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PLCQmq08Zso2wjY2qKnsj5IMkcsbUtYqag"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                  src="~assets/vn.png"
+                  class="flg"
+                  alt=""
+                />BacT
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                  src="~assets/cn.png"
+                  class="flg"
+                  alt=""
+                />Vivi
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                  src="~assets/rs.png"
+                  class="flg"
+                  alt=""
+                />DauT
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                  src="~assets/ie.png"
+                  class="flg"
+                  alt=""
+                />Melkor
+              </li>
+              <li>&nbsp;</li>
+            </ul>
+
+            <ul class="list-unstyled">
+              2019年
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2019-msc-mangrove-shallows-cup.2038/"
+                  target="_blank"
+                  >淺灘盃 (MSC)</a
+                ></strong
+              >
+              <a href="https://challonge.com/MSC_" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
+              <a
+                href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2O0D0hzossZHC1ejiOuzjAY"
+                target="_blank"
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
+              /></a>
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                  src="~assets/cn.png"
+                  class="flg"
+                  alt=""
+                />Yo
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                  src="~assets/es.png"
+                  class="flg"
+                  alt=""
+                />TaToH
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                  src="~assets/rs.png"
+                  class="flg"
+                  alt=""
+                />DauT
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                  src="~assets/ca.png"
+                  class="flg"
+                  alt=""
+                />Hera
               </li>
             </ul>
           </div>
@@ -3133,14 +3439,14 @@
               2018~2019年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/escape-champions-league.1802/"
+                  href="https://www.aoezone.net/forums/2019-escape-champions-league.1802/"
                   >Escape 冠軍聯賽 (ECL)</a
                 ></strong
               >
               <table>
                 <tr>
                   <td colspan="2">
-                    非洲主題 2v2
+                    &nbsp;&nbsp;&nbsp;&nbsp;非洲主題 2v2
                     <a
                       href="https://escapeaoe.challonge.com/ECLAfrica1"
                       target="_blank"
@@ -3169,7 +3475,7 @@
                 </tr>
                 <tr>
                   <td colspan="2">
-                    東亞主題 2v2
+                    &nbsp;&nbsp;&nbsp;&nbsp;東亞主題 2v2
                     <a
                       href="https://escapeaoe.challonge.com/ECLAsia1"
                       target="_blank"
@@ -3200,7 +3506,7 @@
                 </tr>
                 <tr>
                   <td colspan="2">
-                    美洲主題 2v2
+                    &nbsp;&nbsp;&nbsp;&nbsp;美洲主題 2v2
                     <a
                       href="https://escapeaoe.challonge.com/ECLAmericas1"
                       target="_blank"
@@ -3236,7 +3542,7 @@
               2018年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
+                  href="https://www.aoezone.net/forums/2018-aoe-2-world-cup.1889/"
                   target="_blank"
                   >World Cup 世界盃</a
                 ></strong
@@ -3293,7 +3599,7 @@
               2019年
               <strong>
                 <a
-                  href="https://www.aoezone.net/forums/doubles-age.1958/"
+                  href="https://www.aoezone.net/forums/2019-doubles-age.1958/"
                   target="_blank"
                   ><img src="~assets/DA8.jpg" alt="D" />oubles Age 雙打時代</a
                 ></strong
@@ -3346,7 +3652,7 @@
               2019年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/two-pools-tournament.2069/"
+                  href="https://www.aoezone.net/forums/2019-two-pools-tournament.2069/"
                   target="_blank"
                   >Two Pools 雙池盃</a
                 ></strong
@@ -3503,7 +3809,7 @@
               2018~2019年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/escape-champions-league.1802/"
+                  href="https://www.aoezone.net/forums/2019-escape-champions-league.1802/"
                   target="_blank"
                   >Escape 冠軍聯賽 (ECL)</a
                 ></strong
@@ -3858,7 +4164,7 @@
 export default {
   head() {
     return {
-      title: '知名玩家 - Aoetw'
+      title: '歷年比賽結果 - Aoetw'
     }
   },
   components: {}
