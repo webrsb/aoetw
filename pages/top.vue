@@ -17,7 +17,10 @@
       <div class="hrn1"></div>
       <div class="n1">
         <ul class="list-unstyled">
-          本頁面介紹世紀帝國II界的知名玩家，積分指單挑與團戰的最高積分，比賽的縮寫可參考<nuxt-link to="/history">歷年比賽結果</nuxt-link>
+          本頁面介紹世紀帝國II界的知名玩家，積分指單挑與團戰的最高積分，比賽的縮寫可參考<nuxt-link
+            to="/history"
+            >歷年比賽結果</nuxt-link
+          >
         </ul>
       </div>
       <div class="row" style="margin-top: 10px;border-top: 1px solid #c7c7c7;">
@@ -173,7 +176,9 @@
               </td>
             </tr>
             <tr>
-              <td>HC2亞軍、KotD1四強、ND18冠軍、世界盃冠軍、ECL季軍(東亞2v2冠軍)</td>
+              <td>
+                HC2亞軍、KotD1四強、ND18冠軍、世界盃冠軍、ECL季軍(東亞2v2冠軍)
+              </td>
             </tr>
           </table>
         </div>
@@ -286,7 +291,8 @@
             </tr>
             <tr>
               <td>
-                NAC2 MoA5 MSC RotK ND18 全明星 雙池盃皆獲亞軍、ECL冠軍(1v1一冠一亞)
+                NAC2 MoA5 MSC RotK ND18 全明星
+                雙池盃皆獲亞軍、ECL冠軍(1v1一冠一亞)
               </td>
             </tr>
           </table>
@@ -340,11 +346,14 @@
             <tr>
               <td>
                 Viper
-                前的世界王者，2003以來獲獎無數。擅長在壓力下爆經濟，對新文明的優勢判斷精準，開發許多 WK 新戰術。
+                前的世界王者，2003以來獲獎無數。擅長在壓力下爆經濟，對新文明的優勢判斷精準，開發許多
+                WK 新戰術。
               </td>
             </tr>
             <tr>
-              <td>2003~2010年間26個大賽中拿下12冠8亞、WK2v2三冠兩亞、團戰七冠</td>
+              <td>
+                2003~2010年間26個大賽中拿下12冠8亞、WK2v2三冠兩亞、團戰七冠
+              </td>
             </tr>
           </table>
         </div>
@@ -392,7 +401,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2546/1989&nbsp;&nbsp;1991年次</td>
+              <td style="text-align:center">
+                積分2546/1989&nbsp;&nbsp;1991年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -402,7 +413,8 @@
             </tr>
             <tr>
               <td>
-                BO21贏過Viper、AD13冠軍、團戰五冠；CoT 贏 Viper 但積分較低而居亞軍
+                BO21贏過Viper、AD13冠軍、團戰五冠；CoT 贏 Viper
+                但積分較低而居亞軍
               </td>
             </tr>
           </table>
@@ -449,7 +461,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2576/2116&nbsp;&nbsp;1988年次</td>
+              <td style="text-align:center">
+                積分2576/2116&nbsp;&nbsp;1988年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -529,7 +543,8 @@
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a target="_blank" href="https://www.twitch.tv/mblaoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a>
+                      ><img src="~assets/Twitch.jpg" alt=""
+                    /></a>
                     <a
                       target="_blank"
                       href="https://www.youtube.com/channel/UCHKDFOufgTikGmb7y-sZQ2w/videos"
@@ -566,7 +581,10 @@
               </td>
             </tr>
             <tr>
-              <td>EGM3亞軍、HC1亞軍、NAC2 HC2四強、雙池盃冠軍、ECL亞軍(南洋1v1亞軍)</td>
+              <td>
+                EGM3亞軍、HC1亞軍、NAC2
+                HC2四強、雙池盃冠軍、ECL亞軍(南洋1v1亞軍)
+              </td>
             </tr>
           </table>
         </div>
@@ -664,7 +682,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2646/2152&nbsp;&nbsp;1999年次</td>
+              <td style="text-align:center">
+                積分2646/2152&nbsp;&nbsp;1999年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -713,7 +733,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2466/2187&nbsp;&nbsp;1990年次</td>
+              <td style="text-align:center">
+                積分2466/2187&nbsp;&nbsp;1990年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -736,7 +758,8 @@
                     <a
                       target="_blank"
                       href="https://www.voobly.com/profile/view/124166670/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""/></a>
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
                     <a target="_blank" href="https://www.twitch.tv/villese"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
@@ -808,8 +831,8 @@
             </tr>
             <tr>
               <td>
-                死鬥玩家，芬蘭隊在偏後期或戰術奇特的地圖會排他上場。有多次
-                TC 爆建功的紀錄。
+                死鬥玩家，芬蘭隊在偏後期或戰術奇特的地圖會排他上場。有多次 TC
+                爆建功的紀錄。
               </td>
             </tr>
             <tr>
@@ -854,7 +877,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2299/2159&nbsp;&nbsp;1995年次</td>
+              <td style="text-align:center">
+                積分2299/2159&nbsp;&nbsp;1995年次
+              </td>
             </tr>
             <tr>
               <td>海戰頂尖玩家，團戰中會負責維京的位置，陸戰中規中矩。</td>
@@ -907,8 +932,8 @@
             </tr>
             <tr>
               <td>
-                箭塔愛用者，外家時能強軍事拖住兩家，內家時也有優秀表現，被
-                Yo 評為最好的隊友。
+                箭塔愛用者，外家時能強軍事拖住兩家，內家時也有優秀表現，被 Yo
+                評為最好的隊友。
               </td>
             </tr>
             <tr>
@@ -953,10 +978,15 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2413/2114&nbsp;&nbsp;1987年次</td>
+              <td style="text-align:center">
+                積分2413/2114&nbsp;&nbsp;1987年次
+              </td>
             </tr>
             <tr>
-              <td>團戰頂級玩家，經濟與軍事極為均衡，爆馬能力強。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+              <td>
+                團戰頂級玩家，經濟與軍事極為均衡，爆馬能力強。
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </td>
             </tr>
             <tr>
               <td>WSVG第五名、王者之師冠軍、NC兩冠、ECL殿軍</td>
@@ -1040,15 +1070,13 @@
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
-                <img
-                  src="~assets/cn.png"
-                  width="24"
-                  alt=""
-                />&nbsp;中國
+                <img src="~assets/cn.png" width="24" alt="" />&nbsp;中國
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2722/2234&nbsp;&nbsp;1994年次</td>
+              <td style="text-align:center">
+                積分2722/2234&nbsp;&nbsp;1994年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -1102,7 +1130,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2550/2191&nbsp;&nbsp;1989年次</td>
+              <td style="text-align:center">
+                積分2550/2191&nbsp;&nbsp;1989年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -1155,7 +1185,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2374/2115&nbsp;&nbsp;1992年次</td>
+              <td style="text-align:center">
+                積分2374/2115&nbsp;&nbsp;1992年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -1269,15 +1301,20 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2533/2175&nbsp;&nbsp;1989年次</td>
-            </tr>
-            <tr>
-              <td>
-                即為 saymyname。後期能力強，常常初期被抄之後復國竟然發展比敵人快，做出出乎意料的兵量。
+              <td style="text-align:center">
+                積分2533/2175&nbsp;&nbsp;1989年次
               </td>
             </tr>
             <tr>
-              <td>王者之師季軍、AD13亞軍、世界盃季軍、雙打時代季軍、CoT第五名</td>
+              <td>
+                即為
+                saymyname。後期能力強，常常初期被抄之後復國竟然發展比敵人快，做出出乎意料的兵量。
+              </td>
+            </tr>
+            <tr>
+              <td>
+                王者之師季軍、AD13亞軍、世界盃季軍、雙打時代季軍、CoT第五名
+              </td>
             </tr>
           </table>
         </div>
@@ -1364,7 +1401,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2425/2000&nbsp;&nbsp;1986年次</td>
+              <td style="text-align:center">
+                積分2425/2000&nbsp;&nbsp;1986年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -1538,8 +1577,8 @@
             </tr>
             <tr>
               <td>
-                近期成就：WSVG季軍、SLU亞軍、4v4一冠四亞；阿拉伯邀請賽擊敗
-                Viper 最後獲季軍
+                近期成就：WSVG季軍、SLU亞軍、4v4一冠四亞；阿拉伯邀請賽擊敗 Viper
+                最後獲季軍
               </td>
             </tr>
           </table>
@@ -1592,7 +1631,8 @@
             </tr>
             <tr>
               <td>
-                AOC 海戰的代表人物，據說單機練習了島嶼升級數百次。陸地圖的團戰也能有所發揮。直播時不喜歡穿上衣。
+                AOC
+                海戰的代表人物，據說單機練習了島嶼升級數百次。陸地圖的團戰也能有所發揮。直播時不喜歡穿上衣。
               </td>
             </tr>
             <tr>
@@ -1645,7 +1685,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2437/2027&nbsp;&nbsp;1991年次</td>
+              <td style="text-align:center">
+                積分2437/2027&nbsp;&nbsp;1991年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -1746,7 +1788,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2479/1963&nbsp;&nbsp;1998年次</td>
+              <td style="text-align:center">
+                積分2479/1963&nbsp;&nbsp;1998年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -1800,7 +1844,9 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">積分2457/2109&nbsp;&nbsp;1996年次</td>
+              <td style="text-align:center">
+                積分2457/2109&nbsp;&nbsp;1996年次
+              </td>
             </tr>
             <tr>
               <td>
@@ -1829,8 +1875,8 @@
                     <a
                       target="_blank"
                       href="https://www.voobly.com/profile/view/124322377/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""
-                    /></a></strong>
+                      ><img src="~assets/Voobly.jpg" alt=""/></a
+                  ></strong>
                 </h4>
               </td>
             </tr>
@@ -1858,7 +1904,8 @@
             </tr>
             <tr>
               <td>
-                加入 Alliance 後開始跟雲配合良好，負責弓兵國2TC速帝，海戰也有高水準表現。
+                加入 Alliance
+                後開始跟雲配合良好，負責弓兵國2TC速帝，海戰也有高水準表現。
               </td>
             </tr>
             <tr>
@@ -1918,11 +1965,12 @@
               </td>
             </tr>
             <tr>
-              <td>雙打時代金聯盟冠軍、EGM3第五名；KotD1 從 Liereyy 手中拿到一勝</td>
+              <td>
+                雙打時代金聯盟冠軍、EGM3第五名；KotD1 從 Liereyy 手中拿到一勝
+              </td>
             </tr>
           </table>
         </div>
-
       </div>
       <div>
         <ul class="list-unstyled">
