@@ -51,7 +51,8 @@
               >。
             </li>
             <li>
-              由於哥德衛隊缺少近戰裝甲，不建議與近戰單位戰鬥，除了<nuxt-link to="/units/Camel"
+              由於哥德衛隊缺少近戰裝甲，不建議與近戰單位戰鬥，除了<nuxt-link
+                to="/units/Camel"
                 >駱駝騎兵</nuxt-link
               >，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link

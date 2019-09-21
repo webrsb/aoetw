@@ -420,6 +420,26 @@
               <nuxt-link to="/batt/The_Final_Fortress">決戰東都</nuxt-link>
             </td>
           </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#3a73c7;">
+              <div class="unititle2">
+                <nuxt-link to="/games/de"
+                  ><img
+                    src="~assets/deicon.png"
+                    style="margin-right:5px"
+                  />決定版</nuxt-link
+                >
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3" style="width: 15%;">
+              最後的可汗
+            </td>
+            <td class="unit4">
+              待推出
+            </td>
+          </tr>
         </table>
       </div>
     </div>

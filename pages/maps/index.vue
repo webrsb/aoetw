@@ -96,7 +96,7 @@
           </div>
           <div class="col-md-2">
             <nuxt-link to="/games/de"
-              ><img src="~assets/deicon.png" />王者崛起</nuxt-link
+              ><img src="~assets/deicon.png" />決定版</nuxt-link
             >
             <ul>
               <li>待推出</li>

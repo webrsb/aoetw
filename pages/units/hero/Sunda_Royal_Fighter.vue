@@ -31,10 +31,9 @@
           </p>
           <strong><li>加查·馬達</li></strong>
           <p>
-            巽他皇家侍衛在戰役"風雲變色"作為Sunda王子的<nuxt-link
-              to="/techs/Squires"
-              >護衛</nuxt-link
-            >要保護王子不受加查·馬達，這個試著奪取政權的人的迫害。
+            巽他皇家侍衛在戰役"<nuxt-link to="/batt/The_Pasunda_Bubat_Tragedy"
+              >風雲變色</nuxt-link
+            >"作為Sunda王子的護衛要保護王子不受加查·馬達，這個試著奪取政權的人的迫害。
           </p>
           <strong><li>勃印曩</li></strong>
           <p>

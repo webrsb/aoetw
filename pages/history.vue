@@ -2650,7 +2650,7 @@
                       target="_blank"
                       >2</a
                     >
-                    <a href="https://challonge.com/egm2main"
+                    <a href="https://challonge.com/egm2main" target="_blank"
                       ><img src="~assets/Challonge.jpg" alt="C"
                     /></a>
                     <a

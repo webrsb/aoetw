@@ -58,7 +58,12 @@
             </div>
             <div class="col-md-6">
               <ol>
-                <li>兄弟鬩牆 &nbsp;&nbsp;(西班牙)</li>
+                <li>
+                  <nuxt-link to="/batt/Brother_against_Brother"
+                    >兄弟鬩牆</nuxt-link
+                  >
+                  &nbsp;&nbsp;(西班牙)
+                </li>
                 <li>
                   <nuxt-link to="/batt/The_Enemy_of_my_Enemy"
                     >我敵人的敵人</nuxt-link

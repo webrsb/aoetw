@@ -405,6 +405,7 @@
                 <li>
                   <a
                     href="https://steamcommunity.com/sharedfiles/filedetails/?id=1682487346&searchtext=big+sheep"
+                    target="_blank"
                     >巨羊模組</a
                   >
                 </li>
