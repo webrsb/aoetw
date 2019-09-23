@@ -709,9 +709,12 @@
 
             <ul class="list-unstyled">
               2007年
-              <strong><a
-                href="https://www.aoezone.net/forums/2007-the-1st-from-china-tournament.161/"
-                target="_blank">來自中國 (1st From China)</a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2007-the-1st-from-china-tournament.161/"
+                  target="_blank"
+                  >來自中國 (1st From China)</a
+                >
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -801,11 +804,15 @@
 
             <ul class="list-unstyled">
               2010年
-              <strong><a
-                href="https://www.aoezone.net/forums/2009-10-master-of-the-huns-season-1.92/"
-                target="_blank">匈奴大師賽 (MotH)</a> <a
-                href="https://i.imgur.com/zlTaiz3.png"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2009-10-master-of-the-huns-season-1.92/"
+                  target="_blank"
+                  >匈奴大師賽 (MotH)</a
+                >
+                <a href="https://i.imgur.com/zlTaiz3.png" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -840,11 +847,15 @@
 
             <ul class="list-unstyled">
               2012年
-              <strong><a
-                href="https://www.aoezone.net/forums/2012-masters-of-arabia.536/"
-                target="_blank">阿拉伯大師賽 (MoAra)</a> <a
-                href="https://vcom.challonge.com/moa_"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2012-masters-of-arabia.536/"
+                  target="_blank"
+                  >阿拉伯大師賽 (MoAra)</a
+                >
+                <a href="https://vcom.challonge.com/moa_" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -878,11 +889,15 @@
 
             <ul class="list-unstyled">
               2012年
-              <strong><a
-                href="https://www.aoezone.net/forums/2012-masters-of-random-map.596/"
-                target="_blank">隨機地圖大師賽 (MoRM)</a> <a
-                href="https://vcom.challonge.com/MoRM"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2012-masters-of-random-map.596/"
+                  target="_blank"
+                  >隨機地圖大師賽 (MoRM)</a
+                >
+                <a href="https://vcom.challonge.com/MoRM" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -921,21 +936,39 @@
               <table>
                 <tr style="text-align:center">
                   <td></td>
-                  <td><a
-                    href="https://www.aoezone.net/categories/2013-clash-of-the-titans.779/"
-                    target="_blank">CoT</a> <a
-                    href="https://www.aoezone.net/threads/cot-grand-finals-round-robin-bracket.96608/"
-                    target="_blank"><img src="~assets/Challonge.jpg" alt=""/></a> <a
-                    href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhz8i3Ax24dPf9wAlXAOPxXj"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+                  <td>
+                    <a
+                      href="https://www.aoezone.net/categories/2013-clash-of-the-titans.779/"
+                      target="_blank"
+                      >CoT</a
+                    >
+                    <a
+                      href="https://www.aoezone.net/threads/cot-grand-finals-round-robin-bracket.96608/"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhz8i3Ax24dPf9wAlXAOPxXj"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
-                  <td><a
-                    href="https://www.aoezone.net/categories/2014-veterans-of-the-clash.826/"
-                    target="_blank">VoC</a> <a
-                    href="https://www.aoezone.net/threads/veterans-of-the-clash-table.97821/"
-                    target="_blank"><img src="~assets/Challonge.jpg" alt=""/></a> <a
-                    href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy-XvY16dE3wtg-CueCQpJW"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+                  <td>
+                    <a
+                      href="https://www.aoezone.net/categories/2014-veterans-of-the-clash.826/"
+                      target="_blank"
+                      >VoC</a
+                    >
+                    <a
+                      href="https://www.aoezone.net/threads/veterans-of-the-clash-table.97821/"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt=""
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy-XvY16dE3wtg-CueCQpJW"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                 </tr>
                 <tr>
@@ -963,11 +996,15 @@
 
             <ul class="list-unstyled">
               2013~2014年
-              <strong><a
-                href="https://www.aoezone.net/categories/2014-top-experts-league-series.1678/"
-                target="_blank">頂尖聯賽 (TEL)</a> <a
-                href="https://challonge.com/2014TEL"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2014-top-experts-league-series.1678/"
+                  target="_blank"
+                  >頂尖聯賽 (TEL)</a
+                >
+                <a href="https://challonge.com/2014TEL" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
               </strong>
               <table>
                 <tr style="text-align:center">
@@ -977,36 +1014,52 @@
                   <td>第三名</td>
                 </tr>
                 <tr>
-                  <td>#1 <a
-                    href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxLFjcuPAcuESoq6n9y8yZ0"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt=""/></a>
+                  <td>
+                    #1
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxLFjcuPAcuESoq6n9y8yZ0"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
                   </td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                 </tr>
                 <tr>
-                  <td>#2 <a
-                    href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhw0x9a72OlDb1cfK_3PUMuc"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt=""/></a>
+                  <td>
+                    #2
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhw0x9a72OlDb1cfK_3PUMuc"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
                   </td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                 </tr>
                 <tr>
-                  <td>#3 <a
-                    href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzAwRPCTu3MlRacjbCDFqli"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt=""/></a>
+                  <td>
+                    #3
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzAwRPCTu3MlRacjbCDFqli"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />F1Re</td>
                 </tr>
                 <tr>
-                  <td>#4 <a
-                    href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzF-VmoLgQQjU4NTa_i0ByG"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt=""/></a>
+                  <td>
+                    #4
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzF-VmoLgQQjU4NTa_i0ByG"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt=""
+                    /></a>
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
@@ -1014,9 +1067,13 @@
                 </tr>
               </table>
 
-              <li>四屆第一名再對戰 (BacT 傷退) <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzF-VmoLgQQjU4NTa_i0ByG"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt=""/></a>
+              <li>
+                四屆第一名再對戰 (BacT 傷退)
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzF-VmoLgQQjU4NTa_i0ByG"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt=""
+                /></a>
               </li>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1054,19 +1111,32 @@
               <table>
                 <tr style="text-align:center">
                   <td></td>
-                  <td><a
-                    href="https://www.aoezone.net/forums/2013-masters-of-arena-1.681/"
-                    target="_blank">MoA1</a> <a
-                    href="https://vcom.challonge.com/MoAre_Second_Stage"
-                    target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+                  <td>
+                    <a
+                      href="https://www.aoezone.net/forums/2013-masters-of-arena-1.681/"
+                      target="_blank"
+                      >MoA1</a
+                    >
+                    <a
+                      href="https://vcom.challonge.com/MoAre_Second_Stage"
+                      target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
                   </td>
-                  <td><a
-                    href="https://www.aoezone.net/forums/2013-masters-of-arena-1.681/"
-                    target="_blank">MoA2</a> <a
-                    href="https://challonge.com/maoare2"
-                    target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                    href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2N5fIIQYA0LcGRxUrmDRL3f"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+                  <td>
+                    <a
+                      href="https://www.aoezone.net/forums/2013-masters-of-arena-1.681/"
+                      target="_blank"
+                      >MoA2</a
+                    >
+                    <a href="https://challonge.com/maoare2" target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2N5fIIQYA0LcGRxUrmDRL3f"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                 </tr>
                 <tr>
@@ -1094,13 +1164,22 @@
 
             <ul class="list-unstyled">
               2014年
-              <strong><a
-                href="https://www.aoezone.net/categories/2014-the-arabian-conquest.932/"
-                target="_blank">征服阿拉伯 (TAC)</a> <a
-                href="https://www.aoezone.net/threads/tac-brackets-final-stages.103820/"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy-a-HsC2_l8OzVfIAYvgmm"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2014-the-arabian-conquest.932/"
+                  target="_blank"
+                  >征服阿拉伯 (TAC)</a
+                >
+                <a
+                  href="https://www.aoezone.net/threads/tac-brackets-final-stages.103820/"
+                  target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy-a-HsC2_l8OzVfIAYvgmm"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1134,11 +1213,15 @@
 
             <ul class="list-unstyled">
               2014年
-              <strong><a
-                href="https://www.aoezone.net/forums/2014-out-of-sync-cup.839/"
-                target="_blank">不同步盃 (OOS)</a> <a
-                href="https://challonge.com/OOSC"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2014-out-of-sync-cup.839/"
+                  target="_blank"
+                  >不同步盃 (OOS)</a
+                >
+                <a href="https://challonge.com/OOSC" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1173,13 +1256,20 @@
 
             <ul class="list-unstyled">
               2015年
-              <strong><a
-                href="https://www.aoezone.net/categories/2015-wsvg-world-championship.1009/"
-                target="_blank">WSVG</a> <a
-                href="https://challonge.com/maldivesaoc"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxLNsZwLp5EEXnQo_bhml6d"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2015-wsvg-world-championship.1009/"
+                  target="_blank"
+                  >WSVG</a
+                >
+                <a href="https://challonge.com/maldivesaoc" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxLNsZwLp5EEXnQo_bhml6d"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               (WCG 後最大單挑賽)
               <li>
@@ -1214,13 +1304,22 @@
 
             <ul class="list-unstyled">
               2015年
-              <strong><a
-                href="https://www.aoezone.net/forums/2015-the-empire-collective-cup.1593/"
-                target="_blank">世紀全集 (TEC)</a> <a
-                href="http://challonge.com/EmpireCollectivePlatinum/"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PL18-XpQU3nZMsbRAAyp_4Ea1mf0c2rFZA"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2015-the-empire-collective-cup.1593/"
+                  target="_blank"
+                  >世紀全集 (TEC)</a
+                >
+                <a
+                  href="http://challonge.com/EmpireCollectivePlatinum/"
+                  target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PL18-XpQU3nZMsbRAAyp_4Ea1mf0c2rFZA"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1254,11 +1353,17 @@
 
             <ul class="list-unstyled">
               2015年
-              <strong><a
-                href="https://www.aoezone.net/forums/2015-polaris-challenge-2k.767/"
-                target="_blank">北極星擂臺賽 (Polaris)</a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy1g-yLQkXsgwpfZWXEDzrv"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2015-polaris-challenge-2k.767/"
+                  target="_blank"
+                  >北極星擂臺賽 (Polaris)</a
+                >
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy1g-yLQkXsgwpfZWXEDzrv"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1286,11 +1391,17 @@
 
             <ul class="list-unstyled">
               2016年
-              <strong><a
-                href="https://www.aoezone.net/forums/2016-call-to-arms.1189/"
-                target="_blank">武裝召喚擂臺賽 (C2A)</a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzLYum_1TU15KWMkFRT0PIv"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2016-call-to-arms.1189/"
+                  target="_blank"
+                  >武裝召喚擂臺賽 (C2A)</a
+                >
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzLYum_1TU15KWMkFRT0PIv"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1317,13 +1428,20 @@
 
             <ul class="list-unstyled">
               2016年
-              <strong><a
-                href="https://www.aoezone.net/categories/2016-arabia-1v1-invitational.1247/"
-                target="_blank">阿拉伯邀請賽 (AraInv)</a> <a
-                href="https://i.imgur.com/9U6qSmu.png"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxFUnv3H62XJhctV01Nhs8O"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2016-arabia-1v1-invitational.1247/"
+                  target="_blank"
+                  >阿拉伯邀請賽 (AraInv)</a
+                >
+                <a href="https://i.imgur.com/9U6qSmu.png" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxFUnv3H62XJhctV01Nhs8O"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1361,21 +1479,35 @@
               <table>
                 <tr style="text-align:center">
                   <td></td>
-                  <td><a
-                    href="https://www.aoezone.net/categories/2016-masters-of-arena-3.1152/"
-                    target="_blank">MoA3</a> <a
-                    href="https://challonge.com/moa3"
-                    target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                    href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2MuUL8m1hFM0eReCn5R37-t"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+                  <td>
+                    <a
+                      href="https://www.aoezone.net/categories/2016-masters-of-arena-3.1152/"
+                      target="_blank"
+                      >MoA3</a
+                    >
+                    <a href="https://challonge.com/moa3" target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2MuUL8m1hFM0eReCn5R37-t"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
-                  <td><a
-                    href="https://www.aoezone.net/categories/2016-masters-of-arena-4.1372/"
-                    target="_blank">MoA4</a> <a
-                    href="https://challonge.com/MoAre4"
-                    target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                    href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2P-6CQGW6_ApiVL-kolO0to"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+                  <td>
+                    <a
+                      href="https://www.aoezone.net/categories/2016-masters-of-arena-4.1372/"
+                      target="_blank"
+                      >MoA4</a
+                    >
+                    <a href="https://challonge.com/MoAre4" target="_blank"
+                      ><img src="~assets/Challonge.jpg" alt="C"
+                    /></a>
+                    <a
+                      href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2P-6CQGW6_ApiVL-kolO0to"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                 </tr>
                 <tr>
@@ -1403,13 +1535,20 @@
 
             <ul class="list-unstyled">
               2016年
-              <strong><a
-                href="https://www.aoezone.net/categories/2016-master-of-islands.1294/"
-                target="_blank">島嶼大師賽 (MoI)</a> <a
-                href="https://challonge.com/moisla3"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhyV48oJO5H8_DYJ8oYiKAuZ"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2016-master-of-islands.1294/"
+                  target="_blank"
+                  >島嶼大師賽 (MoI)</a
+                >
+                <a href="https://challonge.com/moisla3" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhyV48oJO5H8_DYJ8oYiKAuZ"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1443,13 +1582,20 @@
 
             <ul class="list-unstyled">
               2016年
-              <strong><a
-                href="https://www.aoezone.net/categories/2016-masters-of-megarandom.1266/"
-                target="_blank">MR大師賽 (MoMR)</a> <a
-                href="https://challonge.com/momr"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2Nhb0Ezs-FxV_20rexfYkWy"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2016-masters-of-megarandom.1266/"
+                  target="_blank"
+                  >MR大師賽 (MoMR)</a
+                >
+                <a href="https://challonge.com/momr" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2Nhb0Ezs-FxV_20rexfYkWy"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
@@ -1505,7 +1651,9 @@
             <ul class="list-unstyled">
               2002年
               <strong>世界電競大賽 (WCG 2002 2v2)</strong>
-              <a href="http://challonge.com/WCG2002AOE2v2" target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <a href="http://challonge.com/WCG2002AOE2v2" target="_blank"
+                ><img src="~assets/Challonge.jpg" alt="C"
+              /></a>
               <table>
                 <tr>
                   <td>
@@ -1781,11 +1929,15 @@
 
             <ul class="list-unstyled">
               2011年
-              <strong><a
-                href="https://www.aoezone.net/forums/2011-world-clan-league-7.487/"
-                target="_blank">WCL7</a> <a
-                href="https://challonge.com/2011WCL7"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/forums/2011-world-clan-league-7.487/"
+                  target="_blank"
+                  >WCL7</a
+                >
+                <a href="https://challonge.com/2011WCL7" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -1833,11 +1985,17 @@
 
             <ul class="list-unstyled">
               2012年
-              <strong><a
-                href="https://www.aoezone.net/categories/ln-tournament-2012.502/"
-                target="_blank">部落戰爭 (TTW)</a> <a
-                href="https://www.aoezone.net/threads/the-tribal-wars-2012-finals-bracket.75945/"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/ln-tournament-2012.502/"
+                  target="_blank"
+                  >部落戰爭 (TTW)</a
+                >
+                <a
+                  href="https://www.aoezone.net/threads/the-tribal-wars-2012-finals-bracket.75945/"
+                  target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -1889,13 +2047,20 @@
 
             <ul class="list-unstyled">
               2013年
-              <strong><a
-                href="https://www.aoezone.net/categories/2013-the-medieval-wars.715/"
-                target="_blank">中世紀戰爭 (TMW)</a> <a
-                href="https://challonge.com/2013TMW"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PL18-XpQU3nZNGulF1i8rDEAzzEtAB8VHo"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2013-the-medieval-wars.715/"
+                  target="_blank"
+                  >中世紀戰爭 (TMW)</a
+                >
+                <a href="https://challonge.com/2013TMW" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PL18-XpQU3nZNGulF1i8rDEAzzEtAB8VHo"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -1944,11 +2109,15 @@
 
             <ul class="list-unstyled">
               2013年
-              <strong><a
-                href="https://www.aoezone.net/categories/2013-masters-of-arabia-2v2-1.610/"
-                target="_blank">阿拉伯雙打大師賽 (MoA2v2/AD13)</a> <a
-                href="https://vcom.challonge.com/MoA_2v2"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2013-masters-of-arabia-2v2-1.610/"
+                  target="_blank"
+                  >阿拉伯雙打大師賽 (MoA2v2/AD13)</a
+                >
+                <a href="https://vcom.challonge.com/MoA_2v2" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -1989,13 +2158,22 @@
 
             <ul class="list-unstyled">
               2014年
-              <strong><a
-                href="https://www.aoezone.net/categories/2014-saiyanhood-legends-united.900/"
-                target="_blank">賽亞人傳說 (SLU2v2)</a> <a
-                href="https://www.aoezone.net/threads/brackets-final-stage.104007/"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzPBvDTV_OqeK_et1TX5gvN"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2014-saiyanhood-legends-united.900/"
+                  target="_blank"
+                  >賽亞人傳說 (SLU2v2)</a
+                >
+                <a
+                  href="https://www.aoezone.net/threads/brackets-final-stage.104007/"
+                  target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzPBvDTV_OqeK_et1TX5gvN"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -2035,34 +2213,58 @@
 
             <ul class="list-unstyled">
               2015年
-              <strong><a
-                href="https://www.aoezone.net/categories/2015-war-is-coming.836/"
-                target="_blank">戰爭來臨 (WiC)</a> <a
-                href="https://www.aoezone.net/forums/brackets.967/"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxUMLk4O4tT5BHchW0SoMfa"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhx-9VJyCXg0cHXAtxbdf6lA"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhwsn5XsWC6jNEHSJ4FXnVPV"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2015-war-is-coming.836/"
+                  target="_blank"
+                  >戰爭來臨 (WiC)</a
+                >
+                <a
+                  href="https://www.aoezone.net/forums/brackets.967/"
+                  target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxUMLk4O4tT5BHchW0SoMfa"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhx-9VJyCXg0cHXAtxbdf6lA"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhwsn5XsWC6jNEHSJ4FXnVPV"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <table>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
-                  <td colspan="6"><img src="~assets/TyRanT.jpg" alt=""/> TyRanT Legends</td>
+                  <td colspan="6">
+                    <img src="~assets/TyRanT.jpg" alt="" /> TyRanT Legends
+                  </td>
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#9ca1a5" /></td>
-                  <td colspan="6"><img src="~assets/TyRanT.jpg" alt=""/> TyRanT Warlords</td>
+                  <td colspan="6">
+                    <img src="~assets/TyRanT.jpg" alt="" /> TyRanT Warlords
+                  </td>
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#b79355" /></td>
-                  <td colspan="6"><img src="~assets/LClan.jpg" alt=""/> The Legion Clan (L_Clan)</td>
+                  <td colspan="6">
+                    <img src="~assets/LClan.jpg" alt="" /> The Legion Clan
+                    (L_Clan)
+                  </td>
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#343a40" /></td>
-                  <td colspan="6"><img src="~assets/SY.jpg" alt=""/> Sexy boY (SY)</td>
+                  <td colspan="6">
+                    <img src="~assets/SY.jpg" alt="" /> Sexy boY (SY)
+                  </td>
                 </tr>
                 <tr>
                   <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
@@ -2100,13 +2302,20 @@
 
             <ul class="list-unstyled">
               2016年
-              <strong><a
-                href="https://www.aoezone.net/categories/2016-clan-masters-the-final-showdown.1303/"
-                target="_blank">王者之師</a> <a
-                href="https://i.imgur.com/DFGipjl.png"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxJh0f-n_8C7dd2Fr089wKG"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2016-clan-masters-the-final-showdown.1303/"
+                  target="_blank"
+                  >王者之師</a
+                >
+                <a href="https://i.imgur.com/DFGipjl.png" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxJh0f-n_8C7dd2Fr089wKG"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -2151,13 +2360,22 @@
 
             <ul class="list-unstyled">
               2016年
-              <strong><a
-                href="https://www.aoezone.net/categories/2016-poisns-nomadness-1.1183/"
-                target="_blank">游牧2v2 (PoN1/ND16)</a> <a
-                href="https://vcom.challonge.com/Poisn_s_NOMADNESS_2v2"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2NZHP4b6VSIY6VPpL_iln2e"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2016-poisns-nomadness-1.1183/"
+                  target="_blank"
+                  >游牧2v2 (PoN1/ND16)</a
+                >
+                <a
+                  href="https://vcom.challonge.com/Poisn_s_NOMADNESS_2v2"
+                  target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2NZHP4b6VSIY6VPpL_iln2e"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -2195,13 +2413,20 @@
 
             <ul class="list-unstyled">
               2017年
-              <strong><a
-                href="https://www.aoezone.net/categories/2017-masters-of-arabia-2v2.1392/"
-                target="_blank">阿拉伯雙打大師賽 (MoA2v2/AD17)</a> <a
-                href="https://challonge.com/moa2v2"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLh2LX9OKzPcWAhQjVIRTKL9XxC_Ujd-Va"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2017-masters-of-arabia-2v2.1392/"
+                  target="_blank"
+                  >阿拉伯雙打大師賽 (MoA2v2/AD17)</a
+                >
+                <a href="https://challonge.com/moa2v2" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLh2LX9OKzPcWAhQjVIRTKL9XxC_Ujd-Va"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -2237,13 +2462,20 @@
 
             <ul class="list-unstyled">
               2017年
-              <strong><a
-                href="https://www.aoezone.net/categories/2017-gladiators-of-the-arena.1483/"
-                target="_blank">圍城雙鬥士賽 (GotA/AreD17)</a> <a
-                href="https://challonge.com/GotADE"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLh2LX9OKzPcWTxvdCeg9yQRupER1hjWKJ"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2017-gladiators-of-the-arena.1483/"
+                  target="_blank"
+                  >圍城雙鬥士賽 (GotA/AreD17)</a
+                >
+                <a href="https://challonge.com/GotADE" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLh2LX9OKzPcWTxvdCeg9yQRupER1hjWKJ"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <table>
                 <tr>
@@ -2368,13 +2600,20 @@
             </ul>
 
             <ul class="list-unstyled">
-              <strong><a
-                href="https://www.aoezone.net/categories/2014-sy-nations-cup-i.851/"
-                target="_blank">2014年</a> <a
-                href="https://i.imgur.com/d7gfRYd.png"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhwjyASgX1QxVXhcRfBlMJc5"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2014-sy-nations-cup-i.851/"
+                  target="_blank"
+                  >2014年</a
+                >
+                <a href="https://i.imgur.com/d7gfRYd.png" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhwjyASgX1QxVXhcRfBlMJc5"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" /><img
@@ -2407,13 +2646,20 @@
             </ul>
 
             <ul class="list-unstyled">
-              <strong><a
-                href="https://www.aoezone.net/categories/2015-sy-nations-cup-ii.1041/"
-                target="_blank">2015年</a> <a
-                href="https://i.imgur.com/e886Eur.png"
-                target="_blank"><img src="~assets/Challonge.jpg" alt="C"/></a> <a
-                href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy9DKiuT6q2h-vv5HSKAcGd"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2015-sy-nations-cup-ii.1041/"
+                  target="_blank"
+                  >2015年</a
+                >
+                <a href="https://i.imgur.com/e886Eur.png" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy9DKiuT6q2h-vv5HSKAcGd"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" /><img
@@ -2446,13 +2692,22 @@
             </ul>
 
             <ul class="list-unstyled">
-              <strong><a
-                href="https://www.aoezone.net/categories/2017-sy-nations-cup-iii.1523/"
-                target="_blank">2017年</a> <a
-                href="https://www.ptt.cc/bbs/AOE/M.1501840072.A.246.html"
-                target="_blank"><img src="~assets/PTT2.jpg" alt=""/></a> <a
-                href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2N1SqlY__ivBq4S0pNbJuug"
-                target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2017-sy-nations-cup-iii.1523/"
+                  target="_blank"
+                  >2017年</a
+                >
+                <a
+                  href="https://www.ptt.cc/bbs/AOE/M.1501840072.A.246.html"
+                  target="_blank"
+                  ><img src="~assets/PTT2.jpg" alt=""
+                /></a>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2N1SqlY__ivBq4S0pNbJuug"
+                  target="_blank"
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
+                /></a>
               </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" /><img
@@ -3593,9 +3848,12 @@
                   <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
-                  <td>&nbsp;<a
-                    href="https://www.youtube.com/playlist?list=PLh2LX9OKzPcUNt3-c7ywIjGIKWJ6YypCQ"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+                  <td>
+                    &nbsp;<a
+                      href="https://www.youtube.com/playlist?list=PLh2LX9OKzPcUNt3-c7ywIjGIKWJ6YypCQ"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                 </tr>
                 <tr>
@@ -3619,9 +3877,12 @@
                   <td>金聯盟</td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />chart</td>
                   <td><img src="~assets/tw.png" class="flg" alt="" />cloud</td>
-                  <td>&nbsp;<a
-                    href="https://www.youtube.com/watch?v=VoCLfoHKwPo&list=PL7gYbgiZlUqq4Ip3XS_p8zZkDX6WAVW4v"
-                    target="_blank"><img src="~assets/YouTubeh.jpg" alt="YT"/></a>
+                  <td>
+                    &nbsp;<a
+                      href="https://www.youtube.com/watch?v=VoCLfoHKwPo&list=PL7gYbgiZlUqq4Ip3XS_p8zZkDX6WAVW4v"
+                      target="_blank"
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
+                    /></a>
                   </td>
                 </tr>
               </table>
