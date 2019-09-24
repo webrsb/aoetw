@@ -17,7 +17,7 @@
         </div>
         <div class="n1">
           <ul class="list-unstyled">
-            <li>本頁面記錄歷史上重要的比賽結果，由藍琦整理、更新。</li>
+            <li>本頁面記錄歷史上重要比賽的結果，由藍琦整理、更新。</li>
           </ul>
           <div class="col-md-12">
             <div
@@ -77,8 +77,13 @@
                   href="https://www.aoezone.net/forums/microsofts-international-tournament-2001.178/"
                   target="_blank"
                   >微軟國際大賽</a
-                ></strong
-              >
+                >
+                <a
+                  href="https://www.aoezone.net/threads/microsofts-international-tournament-play-off-brackets.23749/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
+                /></a>
+              </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
                   src="~assets/kr.png"
@@ -102,8 +107,13 @@
                   href="https://www.aoezone.net/forums/wcg-2001.177/"
                   target="_blank"
                   >世界電競大賽 (WCG 2001)</a
-                ></strong
-              >
+                >
+                <a
+                  href="https://www.aoezone.net/threads/world-cyber-games-2001-playoff-brackets.23753/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
+                /></a>
+              </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
                   src="~assets/tw.png"
@@ -138,10 +148,15 @@
             <ul class="list-unstyled">
               2002年
               <strong
-                ><a href="http://challonge.com/WCG2002AOE1v1" target="_blank"
+                ><a
+                  href="https://www.aoezone.net/forums/wcg-2002.174/"
+                  target="_blank"
                   >世界電競大賽 (WCG 2002)</a
-                ></strong
-              >
+                >
+                <a href="https://challonge.com/WCG2002AOE1v1" target="_blank"
+                  ><img src="~assets/Challonge.jpg" alt="C"
+                /></a>
+              </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
                   src="~assets/jp.png"
@@ -305,6 +320,11 @@
                       target="_blank"
                       >第二屆</a
                     >
+                    <a
+                      href="https://www.aoezone.net/threads/mfo-the-conquering-hero-2003-brackets.28407/"
+                      target="_blank"
+                      ><img src="~assets/AoEZone.jpg" alt="a"
+                    /></a>
                   </td>
                 </tr>
                 <tr>
@@ -810,8 +830,10 @@
                   target="_blank"
                   >匈奴大師賽 (MotH)</a
                 >
-                <a href="https://i.imgur.com/zlTaiz3.png" target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                <a
+                  href="https://www.aoezone.net/threads/master-of-the-huns-s1-results-and-brackets.23995/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
               </strong>
               <li>
@@ -945,7 +967,7 @@
                     <a
                       href="https://www.aoezone.net/threads/cot-grand-finals-round-robin-bracket.96608/"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""
+                      ><img src="~assets/AoEZone.jpg" alt="a"
                     /></a>
                     <a
                       href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhz8i3Ax24dPf9wAlXAOPxXj"
@@ -962,7 +984,7 @@
                     <a
                       href="https://www.aoezone.net/threads/veterans-of-the-clash-table.97821/"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""
+                      ><img src="~assets/AoEZone.jpg" alt="a"
                     /></a>
                     <a
                       href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy-XvY16dE3wtg-CueCQpJW"
@@ -1019,7 +1041,7 @@
                     <a
                       href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxLFjcuPAcuESoq6n9y8yZ0"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
@@ -1032,7 +1054,7 @@
                     <a
                       href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhw0x9a72OlDb1cfK_3PUMuc"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
@@ -1045,7 +1067,7 @@
                     <a
                       href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzAwRPCTu3MlRacjbCDFqli"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
@@ -1058,7 +1080,7 @@
                     <a
                       href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzF-VmoLgQQjU4NTa_i0ByG"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
@@ -1072,7 +1094,7 @@
                 <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzF-VmoLgQQjU4NTa_i0ByG"
                   target="_blank"
-                  ><img src="~assets/YouTubeh.jpg" alt=""
+                  ><img src="~assets/YouTubeh.jpg" alt="YT"
                 /></a>
               </li>
               <li>
@@ -1173,7 +1195,7 @@
                 <a
                   href="https://www.aoezone.net/threads/tac-brackets-final-stages.103820/"
                   target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
                 <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy-a-HsC2_l8OzVfIAYvgmm"
@@ -1398,6 +1420,11 @@
                   >武裝召喚擂臺賽 (C2A)</a
                 >
                 <a
+                  href="https://www.aoezone.net/forums/recorded-games.1192/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
+                /></a>
+                <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzLYum_1TU15KWMkFRT0PIv"
                   target="_blank"
                   ><img src="~assets/YouTubeh.jpg" alt="YT"
@@ -1434,8 +1461,10 @@
                   target="_blank"
                   >阿拉伯邀請賽 (AraInv)</a
                 >
-                <a href="https://i.imgur.com/9U6qSmu.png" target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                <a
+                  href="https://www.aoezone.net/threads/arabia-1v1-invitational-bracket.118501/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
                 <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxFUnv3H62XJhctV01Nhs8O"
@@ -1862,8 +1891,13 @@
                   href="https://www.aoezone.net/forums/wcl-5.153/"
                   target="_blank"
                   >WCL5</a
-                ></strong
-              >
+                >
+                <a
+                  href="https://www.aoezone.net/threads/world-clan-league-5-winners-and-brackets.29468/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
+                /></a>
+              </strong>
               <table>
                 <tr>
                   <td>
@@ -1994,7 +2028,7 @@
                 <a
                   href="https://www.aoezone.net/threads/the-tribal-wars-2012-finals-bracket.75945/"
                   target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
               </strong>
               <table>
@@ -2167,7 +2201,7 @@
                 <a
                   href="https://www.aoezone.net/threads/brackets-final-stage.104007/"
                   target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
                 <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhzPBvDTV_OqeK_et1TX5gvN"
@@ -2222,7 +2256,7 @@
                 <a
                   href="https://www.aoezone.net/forums/brackets.967/"
                   target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
                 <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxUMLk4O4tT5BHchW0SoMfa"
@@ -2308,8 +2342,10 @@
                   target="_blank"
                   >王者之師</a
                 >
-                <a href="https://i.imgur.com/DFGipjl.png" target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                <a
+                  href="https://www.aoezone.net/threads/clan-masters-the-final-showdown-knockout-stage-bracket.121145/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
                 <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhxJh0f-n_8C7dd2Fr089wKG"
@@ -2466,7 +2502,7 @@
                 ><a
                   href="https://www.aoezone.net/categories/2017-gladiators-of-the-arena.1483/"
                   target="_blank"
-                  >圍城雙鬥士賽 (GotA/AreD17)</a
+                  >圍城雙鬥士 (GotA/AreD17)</a
                 >
                 <a href="https://challonge.com/GotADE" target="_blank"
                   ><img src="~assets/Challonge.jpg" alt="C"
@@ -2543,8 +2579,13 @@
                   href="https://www.aoezone.net/forums/nations-cup-2005.131/"
                   target="_blank"
                   >2005年</a
-                ></strong
-              >
+                >
+                <a
+                  href="https://www.aoezone.net/threads/nations-cup-2005-results-and-brackets.26867/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
+                /></a>
+              </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" /><img
                   src="~assets/cn.png"
@@ -2574,8 +2615,13 @@
                   href="https://www.aoezone.net/forums/nations-cup-2009.130/"
                   target="_blank"
                   >2009年</a
-                ></strong
-              >
+                >
+                <a
+                  href="https://www.aoezone.net/threads/2009-nations-cup-finals-pack.103452/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
+                /></a>
+              </strong>
               <li>
                 <i class="fas fa-trophy" style="color:#ffca00" /><img
                   src="~assets/br.png"
@@ -2606,8 +2652,10 @@
                   target="_blank"
                   >2014年</a
                 >
-                <a href="https://i.imgur.com/d7gfRYd.png" target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                <a
+                  href="https://www.aoezone.net/threads/sy-china-nations-cup-final-stage-brackets.103011/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
                 <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhwjyASgX1QxVXhcRfBlMJc5"
@@ -2652,8 +2700,10 @@
                   target="_blank"
                   >2015年</a
                 >
-                <a href="https://i.imgur.com/e886Eur.png" target="_blank"
-                  ><img src="~assets/Challonge.jpg" alt="C"
+                <a
+                  href="https://www.aoezone.net/threads/sy-china-nations-cup-ii-final-stages.115049/"
+                  target="_blank"
+                  ><img src="~assets/AoEZone.jpg" alt="a"
                 /></a>
                 <a
                   href="https://www.youtube.com/playlist?list=PLlcjJUMVOWhy9DKiuT6q2h-vv5HSKAcGd"
@@ -2701,7 +2751,7 @@
                 <a
                   href="https://www.ptt.cc/bbs/AOE/M.1501840072.A.246.html"
                   target="_blank"
-                  ><img src="~assets/PTT2.jpg" alt=""
+                  ><img src="~assets/PTT2.jpg" alt="PTT"
                 /></a>
                 <a
                   href="https://www.youtube.com/playlist?list=PLfKUKNqtHS2N1SqlY__ivBq4S0pNbJuug"
@@ -3261,7 +3311,7 @@
                   alt=""
                 />MbL
               </li>
-              <li>NAC1/HC1 皆為邀請賽，故不列入</li>
+              <li>NAC1/HC1 為邀請較少選手且有條件限制的邀請賽，故不列入</li>
             </ul>
           </div>
           <ul class="list-unstyled" id="a5">
@@ -3964,12 +4014,12 @@
               <a
                 href="https://www.ptt.cc/bbs/AOE/M.1523756925.A.419.html"
                 target="_blank"
-                ><img src="~assets/PTT2.jpg" alt=""
+                ><img src="~assets/PTT2.jpg" alt="PTT"
               /></a>
               <a
                 href="https://www.youtube.com/playlist?list=PL7gYbgiZlUqpCfbvFKWclcuslG_duROXA"
                 target="_blank"
-                ><img src="~assets/YouTubeh.jpg" alt=""
+                ><img src="~assets/YouTubeh.jpg" alt="YT"
               /></a>
               <table>
                 <tr>
@@ -4072,14 +4122,14 @@
                     <a
                       href="https://escapeaoe.challonge.com/ECLEUE2"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                      ><img src="~assets/Challonge.jpg" alt="C"/></a
                     >&nbsp;
                   </td>
                   <td>
                     <a
                       href="https://www.youtube.com/playlist?list=PL2XbFFOFavpqH29a41EmfCF6bX09fHga0"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td>
@@ -4106,14 +4156,14 @@
                     <a
                       href="https://escapeaoe.challonge.com/ECLAfrica2"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                      ><img src="~assets/Challonge.jpg" alt="C"/></a
                     >&nbsp;
                   </td>
                   <td>
                     <a
                       href="https://www.youtube.com/playlist?list=PL2XbFFOFavpo2v-ihyx-0FRZW7P2we4-Y"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td>
@@ -4140,14 +4190,14 @@
                     <a
                       href="https://escapeaoe.challonge.com/ECLMidEast2"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                      ><img src="~assets/Challonge.jpg" alt="C"/></a
                     >&nbsp;
                   </td>
                   <td>
                     <a
                       href="https://www.youtube.com/playlist?list=PL2XbFFOFavpqs7w5dxpAGl6-9iIW3Wz6Q"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td>
@@ -4174,14 +4224,14 @@
                     <a
                       href="https://escapeaoe.challonge.com/ECLAsia2"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                      ><img src="~assets/Challonge.jpg" alt="C"/></a
                     >&nbsp;
                   </td>
                   <td>
                     <a
                       href="https://www.youtube.com/playlist?list=PL2XbFFOFavprc9o06xn4bdrUWkVsFyQtM"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td>
@@ -4208,14 +4258,14 @@
                     <a
                       href="https://escapeaoe.challonge.com/ECLSEA2"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                      ><img src="~assets/Challonge.jpg" alt="C"/></a
                     >&nbsp;
                   </td>
                   <td>
                     <a
                       href="https://www.youtube.com/playlist?list=PL2XbFFOFavprtn-CMjyzdOaXmDuZz02hF"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td>
@@ -4242,14 +4292,14 @@
                     <a
                       href="https://escapeaoe.challonge.com/ECLAmericas2"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                      ><img src="~assets/Challonge.jpg" alt="C"/></a
                     >&nbsp;
                   </td>
                   <td>
                     <a
                       href="https://www.youtube.com/playlist?list=PL2XbFFOFavpp4N1dQ9tlyyraHEEd0ujSN"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td>
@@ -4279,14 +4329,14 @@
                     <a
                       href="https://escapeaoe.challonge.com/ECLEUW2"
                       target="_blank"
-                      ><img src="~assets/Challonge.jpg" alt=""/></a
+                      ><img src="~assets/Challonge.jpg" alt="C"/></a
                     >&nbsp;
                   </td>
                   <td>
                     <a
                       href="https://www.youtube.com/playlist?list=PL2XbFFOFavprzwxBOdkKVHS3dNdguqakM"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                   </td>
                   <td>
@@ -4305,12 +4355,12 @@
                     <a
                       href="https://www.youtube.com/playlist?list=PL2XbFFOFavpq_5b_LRkqloU_t-lDcyQ2-"
                       target="_blank"
-                      ><img src="~assets/YouTubeh.jpg" alt=""
+                      ><img src="~assets/YouTubeh.jpg" alt="YT"
                     /></a>
                     <a
                       href="https://www.ptt.cc/bbs/AOE/M.1567070994.A.923.html"
                       target="_blank"
-                      ><img src="~assets/PTT2.jpg" alt=""
+                      ><img src="~assets/PTT2.jpg" alt="PTT"
                     /></a>
                   </td>
                   <td></td>
