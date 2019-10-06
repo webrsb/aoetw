@@ -217,7 +217,7 @@
                       to="/civs/Indians"
                       >印度</nuxt-link
                     >原生宗教進行打壓。遊戲中將婆羅門的靈修者視為女巫。僅以<nuxt-link
-                      to="/units/Unique_Unit$"
+                      to="/units/Unique_Unit"
                       >特殊單位</nuxt-link
                     >
                     &nbsp;-&nbsp;納茲靈女巫（形象為西徐亞的野女人）存於地圖上。

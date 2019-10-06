@@ -291,7 +291,7 @@
                 >馬戰車</nuxt-link
               ><br />
               <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
-                to="/units/Turtle_Ship$"
+                to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >
             </td>

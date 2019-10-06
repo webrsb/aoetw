@@ -260,7 +260,7 @@
           <tr>
             <td class="unit3">分類文明</td>
             <td class="unit4">
-              <nuxt-link to="/units/Archer_Units$">弓兵</nuxt-link>
+              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -290,7 +290,7 @@
               >
               <br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/El_Dorado$"
+                to="/techs/El_Dorado"
                 >黃金國</nuxt-link
               >
             </td>

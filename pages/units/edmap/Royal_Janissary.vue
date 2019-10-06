@@ -145,7 +145,7 @@
               >、<nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >
-              、<nuxt-link to="/units/Unique_Unit$">特殊單位</nuxt-link>
+              、<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
             </td>
           </tr>
           <tr>

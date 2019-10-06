@@ -152,10 +152,12 @@
                   </tr>
                   <tr>
                     <td>
-                      《最後的可汗》
+                      《<nuxt-link to="/games/de">
+                        世紀帝國II：決定版 </nuxt-link
+                      >》
                     </td>
                     <td>2019年11月15日</td>
-                    <td>保加利亞、立陶宛、庫曼、韃靼</td>
+                    <td>保加利亞，立陶宛，庫曼，韃靼</td>
                   </tr>
                 </tbody>
               </table>

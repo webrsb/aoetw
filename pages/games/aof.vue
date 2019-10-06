@@ -289,7 +289,7 @@
               >訓練從19秒加快到16秒。
             </li>
           </ul>
-          <nuxt-link to="/civs/Franks$">法蘭克</nuxt-link>
+          <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
           <ul>
             <li>果樹採集快25%。</li>
             <li>

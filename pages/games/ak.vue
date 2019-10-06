@@ -248,7 +248,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p><strong>種族平衡</strong></p>
-          <nuxt-link to="/civs/Franks$">法蘭克</nuxt-link>
+          <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
           <ul>
             <li>
               <nuxt-link to="/units/Knight">騎士</nuxt-link

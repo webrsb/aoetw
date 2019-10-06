@@ -268,7 +268,7 @@
                 to="/elements/Conversion"
                 >招降</nuxt-link
               >敵方的騎士，這樣也能透過招降的騎士來打<nuxt-link
-                to="/units/Siege_Weapons$"
+                to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
               >
             </li>

@@ -278,7 +278,7 @@
           <tr>
             <td class="unit3">分類文明</td>
             <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units$">騎兵</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
             </td>
           </tr>
           <tr>

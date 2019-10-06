@@ -544,7 +544,7 @@
             <td class="unit3">特殊單位</td>
             <td class="unit4">
               <img class="gg" src="~assets/WarElephantIcon.jpg" /><nuxt-link
-                to="/units/War_Elephant$"
+                to="/units/War_Elephant"
                 >戰象</nuxt-link
               >
             </td>

@@ -149,7 +149,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>馬弓騎兵
-              vs.<nuxt-link to="/building$">建築</nuxt-link>+4 適用於標槍騎兵
+              vs.<nuxt-link to="/building">建築</nuxt-link>+4 適用於標槍騎兵
             </li>
           </ul>
         </div>

@@ -78,7 +78,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
-              >：生產<nuxt-link to="/units/Siege_Weapons$">攻城武器</nuxt-link>
+              >：生產<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>
             </li>
           </ul>
           <strong>防禦建築</strong>
@@ -285,7 +285,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
-              >：每個文明都有一種<nuxt-link to="/units/Unique_Unit$"
+              >：每個文明都有一種<nuxt-link to="/units/Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </li>

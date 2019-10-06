@@ -205,7 +205,9 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;">東歐</td>
-              <td class="unit4">保加利亞• 立陶宛• 庫曼• 韃靼</td>
+              <td class="unit4">保加利亞• 立陶宛</td>
+              <td class="unit3" style="width: 15%;">中亞</td>
+              <td class="unit4">庫曼• 韃靼</td>
             </tr>
           </tbody>
         </table>

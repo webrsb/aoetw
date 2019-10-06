@@ -92,7 +92,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Dock">碼頭</nuxt-link
-              >:訓練和升級<nuxt-link to="/units/Naval_Vessels$">船隻</nuxt-link>
+              >:訓練和升級<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>
             </li>
             <em
               ><nuxt-link to="/building/Dock">碼頭</nuxt-link>演進到<nuxt-link
@@ -110,7 +110,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Barracks">軍營</nuxt-link
-              >:訓練和升級<nuxt-link to="/units/Infantry_Units$"
+              >:訓練和升級<nuxt-link to="/units/Infantry_Units"
                 >步兵單位</nuxt-link
               >
             </li>

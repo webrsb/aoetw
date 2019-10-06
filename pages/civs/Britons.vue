@@ -226,7 +226,7 @@
           <tr>
             <td class="unit3">分類文明</td>
             <td class="unit4">
-              <nuxt-link to="/units/Archer_Units$">弓兵</nuxt-link>
+              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>
             </td>
           </tr>
           <tr>

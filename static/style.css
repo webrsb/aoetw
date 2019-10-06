@@ -248,6 +248,7 @@ body {
   font-size: 90%;
   background: #f9f9f9;
   width: 300px;
+  max-width: 100%;
   padding: 4px;
   text-align: left;
   float: right;
