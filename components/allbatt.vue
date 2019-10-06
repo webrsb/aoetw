@@ -274,7 +274,7 @@
               <nuxt-link to="/Dos_Pilas(648).php">雙柱城(648)</nuxt-link>•
               <nuxt-link to="/York(865).php">約克(865)</nuxt-link>•
               <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>•
-              <nuxt-link to="/Langshan_Jiang(919).php">狼山江(919)</nuxt-link>•
+              <nuxt-link to="/batt/Langshan_Jiang_919">狼山江(919)</nuxt-link>•
               <nuxt-link to="/Kaesong(936).php">開城(936)</nuxt-link>•
               <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>•
               <nuxt-link to="/Cyprus(1191).php">塞普勒斯(1191)</nuxt-link>•
