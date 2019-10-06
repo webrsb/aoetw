@@ -55,7 +55,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/no.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/no.svg"
                   width="24"
                   alt=""
                 />&nbsp;挪威&nbsp;&nbsp;<img
@@ -106,7 +106,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/at.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/at.svg"
                   width="24"
                   alt=""
                 />&nbsp;奧地利&nbsp;&nbsp;<img
@@ -152,13 +152,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/TheMax2.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/TheMax3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/fi.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/fi.svg"
                   width="24"
                   alt=""
                 />&nbsp;芬蘭&nbsp;&nbsp;Suomi
@@ -209,7 +209,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/cn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg"
                   width="24"
                   alt=""
                 />&nbsp;中國&nbsp;&nbsp;<img
@@ -270,7 +270,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/es.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/es.svg"
                   width="24"
                   alt=""
                 />&nbsp;西班牙&nbsp;&nbsp;<img
@@ -329,7 +329,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/rs.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/rs.svg"
                   width="24"
                   alt=""
                 />&nbsp;賽爾維亞&nbsp;&nbsp;<img
@@ -391,7 +391,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/de.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/de.svg"
                   width="24"
                   alt=""
                 />&nbsp;德國&nbsp;&nbsp;<img
@@ -451,7 +451,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/ca.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/ca.svg"
                   width="24"
                   alt=""
                 />&nbsp;加拿大&nbsp;&nbsp;<img
@@ -498,13 +498,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Nicov2.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/Nicov3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/ar.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/ar.svg"
                   width="24"
                   alt=""
                 />&nbsp;阿根廷&nbsp;&nbsp;<img
@@ -555,13 +555,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/MbL.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/MbL3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/no.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/no.svg"
                   width="24"
                   alt=""
                 />&nbsp;挪威&nbsp;&nbsp;<img
@@ -609,13 +609,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Hearttt.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/Hearttt3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/pe.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/pe.svg"
                   width="24"
                   alt=""
                 />&nbsp;秘魯&nbsp;&nbsp;<img
@@ -666,13 +666,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Hera.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/Hera3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/ca.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/ca.svg"
                   width="24"
                   alt=""
                 />&nbsp;加拿大&nbsp;&nbsp;<img
@@ -717,13 +717,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/zu.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/Zuppi3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/fi.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/fi.svg"
                   width="24"
                   alt=""
                 />&nbsp;芬蘭&nbsp;&nbsp;Suomi&nbsp;&nbsp;<img
@@ -768,13 +768,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/vill.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/Villese3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/fi.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/fi.svg"
                   width="24"
                   alt=""
                 />&nbsp;芬蘭&nbsp;&nbsp;Suomi
@@ -814,13 +814,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Ruben.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/Ruben3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/fi.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/fi.svg"
                   width="24"
                   alt=""
                 />&nbsp;芬蘭&nbsp;&nbsp;Suomi
@@ -861,13 +861,13 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Pike.jpg" class="img-thumbnail" alt="" />
+                <img src="~assets/Pike3.jpg" class="img-thumbnail" alt="" />
               </td>
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/fi.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/fi.svg"
                   width="24"
                   alt=""
                 />&nbsp;芬蘭&nbsp;&nbsp;Suomi&nbsp;&nbsp;<img
@@ -916,7 +916,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/cn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg"
                   width="24"
                   alt=""
                 />&nbsp;中國&nbsp;&nbsp;<img
@@ -968,7 +968,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/cn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg"
                   width="24"
                   alt=""
                 />&nbsp;中國&nbsp;&nbsp;<img
@@ -1020,7 +1020,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/cn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg"
                   width="24"
                   alt=""
                 />&nbsp;中國&nbsp;&nbsp;<img
@@ -1070,7 +1070,7 @@
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
-                <img src="~assets/cn.png" width="24" alt="" />&nbsp;中國
+                <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg" width="24" alt="" />&nbsp;中國
               </td>
             </tr>
             <tr>
@@ -1120,7 +1120,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/vn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/vn.svg"
                   width="24"
                   alt=""
                 />&nbsp;越南&nbsp;&nbsp;<img
@@ -1175,7 +1175,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/vn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/vn.svg"
                   width="24"
                   alt=""
                 />&nbsp;越南&nbsp;&nbsp;<img
@@ -1232,7 +1232,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/vn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/vn.svg"
                   width="24"
                   alt=""
                 />&nbsp;越南&nbsp;<img
@@ -1291,7 +1291,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/vn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/vn.svg"
                   width="24"
                   alt=""
                 />&nbsp;越南&nbsp;&nbsp;<img
@@ -1345,7 +1345,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/cn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg"
                   width="24"
                   alt=""
                 />&nbsp;中國&nbsp;&nbsp;Frantic
@@ -1394,7 +1394,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/cn.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg"
                   width="24"
                   alt=""
                 />&nbsp;中國&nbsp;&nbsp;Frantic
@@ -1443,7 +1443,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/br.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/br.svg"
                   width="24"
                   alt=""
                 />&nbsp;巴西&nbsp;&nbsp;<img
@@ -1497,7 +1497,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/br.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/br.svg"
                   width="24"
                   alt=""
                 />&nbsp;巴西&nbsp;&nbsp;<img
@@ -1555,7 +1555,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/br.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/br.svg"
                   width="24"
                   alt=""
                 />&nbsp;巴西&nbsp;&nbsp;<img
@@ -1615,7 +1615,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/br.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/br.svg"
                   width="24"
                   alt=""
                 />&nbsp;巴西&nbsp;&nbsp;<img
@@ -1672,7 +1672,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/br.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/br.svg"
                   width="24"
                   alt=""
                 />&nbsp;巴西&nbsp;&nbsp;<img
@@ -1726,7 +1726,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/ca.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/ca.svg"
                   width="24"
                   alt=""
                 />&nbsp;加拿大&nbsp;&nbsp;<img
@@ -1781,7 +1781,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/ru.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/ru.svg"
                   width="24"
                   alt=""
                 />&nbsp;俄羅斯&nbsp;&nbsp;VIK
@@ -1834,7 +1834,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/ie.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/ie.svg"
                   width="24"
                   alt=""
                 />&nbsp;愛爾蘭&nbsp;&nbsp;<img
@@ -1888,7 +1888,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/jp.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/jp.svg"
                   width="24"
                   alt=""
                 />&nbsp;日本&nbsp;&nbsp;<img
@@ -1945,7 +1945,7 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img
-                  src="~assets/tw.png"
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/tw.svg"
                   width="24"
                   alt=""
                 />&nbsp;臺灣&nbsp;&nbsp;<img
