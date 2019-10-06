@@ -1070,7 +1070,11 @@
             </tr>
             <tr>
               <td class="tor" style="text-align:center">
-                <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg" width="24" alt="" />&nbsp;中國
+                <img
+                  src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/1.4.0/flags/4x3/cn.svg"
+                  width="24"
+                  alt=""
+                />&nbsp;中國
               </td>
             </tr>
             <tr>
