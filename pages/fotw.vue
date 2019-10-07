@@ -1304,6 +1304,15 @@
           <tr>
             <td>
               <h4>
+               <h4><strong>GT[YellowJacket]</strong></h4>
+            </td>
+          </tr>
+          <tr>
+            <td>a48，旅居美國的中國玩家，實力steam2k1，阿拉伯選手，打世界帝國是他在讀博士期間唯一的消遣，曾在cheap連輸數局之後幫他找回自信，挑戰用越南斗笠打哥衛</td>
+          </tr>
+          <tr>
+            <td>
+              <h4>
                 <strong>長安</strong
                 ><img src="~assets/tor.png" width="45" alt="" />
               </h4>
