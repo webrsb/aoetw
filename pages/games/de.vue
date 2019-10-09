@@ -136,32 +136,115 @@
         <div class="n1">
           <ul>
             <li>
-              <strong>保加利亞</strong>
+              <strong>保加利亞</strong>(東歐)
             </li>
             <li>
-              <strong>立陶宛</strong>
+              <strong>立陶宛</strong>(東歐)
             </li>
             <li>
-              <strong>庫曼</strong>
+              <strong>庫曼</strong>(新中亞建築)
             </li>
             <li>
-              <strong>韃靼</strong>
+              <strong>韃靼</strong>(中亞)
             </li>
           </ul>
-
+       <h3>單位</h3>
+        <div class="n1">
+        <h4>一般單位</h4>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>草原槍兵</strong>:庫曼與韃靼於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
+            </li>
+          </ul>
+        <h4>特殊單位</h4>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>保加利亞騎兵</strong>:保加利亞特殊單位。平常為重騎兵單位被擊殺後會下馬變成重裝步兵單位(不須額外費用)。
+            </li>
+            <li>
+              <strong>烈提司</strong>:立陶宛特殊騎兵單位，攻擊可無視護甲值。
+            </li>
+            <li>
+              <strong>欽察騎射手</strong>:庫曼特殊馬弓騎兵單位，可射出多發箭矢。
+            </li>
+            <li>
+              <strong>蒙古騎射手</strong>:韃靼特殊騎兵單位，攻擊時可得到額外黃金。
+            </li>
+          </ul>
+          <h4>建築</h4>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>堡壘</strong>:保加利亞特殊建築。可於城堡時代建造生產保加利亞騎兵的小城堡，但無法研發科技。
+            </li>
+          </ul>
+         <h4>動物</h4>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>豬</strong>(可訓養，名字還未確定)
+            </li>
+            <li>
+              <strong>山羊</strong>(可獵捕，名字還未確定)
+            </li>
+          </ul>
+         <h4>未知</h4>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>大型牛車</strong>(名字未發布)
+            </li>
+            <li>
+              <strong>小型牛車</strong>(名字未發布)
+            </li>
+            <li>
+              <strong>運貨駱駝</strong>(名字未發布)
+            </li>
+            <li>
+              <strong>戰車</strong>(名字未發布)
+            </li>
+          </ul>
+          <h3>科技</h3>
+        <div class="n1">
+        <h4>一般科技</h4>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>供給</strong>:150F 100G 民兵系成本-15食物，除哥德之外所有文明皆有。
+            </li>
+          </ul>
+        <h4>特殊科技</h4>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>保加利亞騎兵</strong>:保加利亞特殊單位。平常為重騎兵單位被擊殺後會下馬變成重裝步兵單位(不須額外費用)。
+            </li>
+            <li>
+              <strong>烈提司</strong>:立陶宛特殊騎兵單位，攻擊可無視護甲值。
+            </li>
+            <li>
+              <strong>欽察騎射手</strong>:庫曼特殊馬弓騎兵單位，可射出多發箭矢。
+            </li>
+            <li>
+              <strong>蒙古騎射手</strong>:韃靼特殊騎兵單位，攻擊時可得到額外黃金。
+            </li>
+          </ul>
+          
           <h3>戰役</h3>
           <p>
             <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
           <ul>
             <li>
-              最後的可汗
+              伊瓦洛(保加利亞)
             </li>
             <li>
-              尚未發布
+              坦瑪琳(韃靼)
             </li>
             <li>
-              尚未發布
+              科滕·汗(庫曼)
             </li>
           </ul>
         </div>
