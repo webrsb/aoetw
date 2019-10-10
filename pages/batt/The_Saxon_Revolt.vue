@@ -117,35 +117,7 @@
               <li>您必須將3件遺失的遺跡歸還給您的修道院。</li>              
             </ol>
           </div>
-          <h3>次要任務</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ol>
-              <li>
-                
-              </li>
-            </ol>
-          </div>
-          <h3>任務提示</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>
-                
-              </li>
-              
-            </ul>
-          </div>
-          <h3>斥候</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>
-                。
-              </li>
-              
-            </ul>
-          </div>
+          
           <h3>攻略</h3>
           <div class="hrn1"></div>
           <ul>
