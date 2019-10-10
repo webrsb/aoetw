@@ -8,11 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>撒克遜起義</b>（德語原稱：Anno 782-Sachsenaufstand）是<nuxt-link
-              to="/batt/Battles_of_the_Forgotten"
-              >失落的帝國戰役</nuxt-link
-            >的隱藏戰役。該戰役的歷史背景是法蘭克國王查理曼大帝與撒克遜公爵維杜金德之間的戰爭。更具體地說，該場景涵蓋了
-            782年在Süntel的戰役和Verden的大屠殺。玩家控制法蘭克人對陣撒克遜人及其盟友。
+            <b>撒克遜起義(原德語版本是Anno 782 - Sachsenaufstand)</b
+            >是《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
+            >》中的隱藏戰役。該戰役的歷史背景是法蘭克國王查理曼與撒克遜公爵維杜金德之間的戰爭。
+            更具體地說，該場景涵蓋了Süntel戰役和782年的費爾登大屠殺。玩家控制法蘭克人對陣撒克遜人及其盟友。
           </p>
         </div>
         <h2>玩家</h2>
@@ -197,98 +196,38 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              遊戲一開始有十幾個軍事單位與必須保護的貿易車，帶領他們以最快速度進入木曾義仲的城寨，若碰到敵軍則盡量以騎兵引誘，其他單位砍殺的方式解決，能夠減少傷亡。
+              玩家在辛特爾的法蘭克營地開始遊戲。 首先玩家會獲得以法蘭克將軍厄爾·沃拉德（Earl Worad）為首的一支部隊。不過很快的敵人就會攻過來，
+              你會看著大軍最後無一倖免地倒臥血泊中。只剩下齊格弗里德在戰鬥中倖存下來，這時玩家會獲得他的控制權並將他往北移動。一路上會遭遇許多敵人，
+              在經過重重阻礙後來到Verden城。 讓他逃脫，然後按照進一步的指示進行操作。。
             </li>
             <li>
-              木曾義仲的城寨裡面有不少軍隊，而礦藏都在城外，把軍隊部署在外面以保護你的村民。
+              直到玩家到達Verden城，查理曼的部隊才能得到加強。必須有50個單位存活才行。將其小心地穿過茂密的威斯特伐利亞沼澤地，因為它不適合開闊作戰。
+              敵人會有埋伏在各個地方。因此，玩家必須有效地分散部隊並注意伏擊。
             </li>
             <li>
-              城寨東邊有一座農場，但是沒有<nuxt-link to="/building/Gate"
-                >城門</nuxt-link
-              >，補上城門好安然採集<nuxt-link to="/resource/Food"
-                >食物</nuxt-link
-              >。
+              進入Verden城時，必須讓查理曼走在隊伍的最前方。否則門將無法打開。讓其餘的部隊待在大門前。在屠殺了Verden的撒克遜貴族之後，
+              該城市及其所有剩餘居民就歸玩家操控。趁現在花時間收集資源並訓練升級軍隊。
             </li>
             <li>
-              先挖取<nuxt-link to="/resource/Stone">石頭</nuxt-link
-              >來蓋城堡，城堡蓋在離礦藏近的地方，或是直接蓋在第一個平家軍軍營的門口，利用城堡來壓制他們。
+              在Verden發生大屠殺後，齊格弗里德將再次出現在辛特爾戰鬥後的藏身地方。他知道讓玩家可以穿過亨特河到達另一岸的地方。
+              如果在發送消息之前齊格弗里德被殺死的話，玩家必須找到自己的方式來渡河。
             </li>
             <li>
-              敵人大部分以步兵為主，<nuxt-link to="/units/Cavalry_Archer"
-                >馬弓騎兵</nuxt-link
-              >能夠有效防衛，但是別忘了針對<nuxt-link to="/units/Battering_Ram"
-                >衝撞車</nuxt-link
-              >生產一些步兵。
+              最後的任務是歸還三個遺失的遺跡。其中一個被名叫塔克兄弟的法蘭克僧侶保管著。找到他之後他會雙手奉上。 把另一個遺跡當作戰利品，
+              在亨特河之外被發現。過河只有一種方法：掌握河的控制權。對付Frisians時請不要低估他們，玩家將有一場硬仗。最後，第三個遺物在Westphalians
+              。收集三個遺跡並放在修道院後玩家將獲得勝利。
             </li>
-            <li>
-              敵人不會生產投石機，所以城堡加上數個<nuxt-link
-                to="/building/Watch_Tower"
-                >箭塔</nuxt-link
-              >，再搭配十幾個<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
-              >就足以防守。
-            </li>
-            <li>
-              木曾義仲基地南方有個金礦地，清除第一個前線基地之後可以在這裡建築城堡防守。
-            </li>
-            <li>
-              北条氏可以協助你清理地圖上的平家守衛，兩台投石機是很好的投資。
-            </li>
-            <li>
-              必須把四個平家軍的前線基地拆除（所有軍事建築），還有五位平家將軍殺死，才能觸發源氏劇情。
-            </li>
-            <li>
-              五位敵方將軍分別是：靠最近的平通盛，南邊的平經正，中央基地城堡前的平知盛，靠近西方基地的平忠度，以及北方與平家守衛一同佔領燈塔的平清房。
-            </li>
-            <li>
-              海戰不是必要的，若要使用海戰來殲滅平家軍的前線基地，則必須先殺死平清房奪取燈塔。
-            </li>
-            <li>
-              源氏帶來的軍隊是很強大的騎兵，擁有8/6的防禦，12的<nuxt-link
-                to="/elements/Attack"
-                >攻擊力</nuxt-link
-              >，還有250的變態<nuxt-link to="/elements/Hit_points"
-                >生命值</nuxt-link
-              >與自然<nuxt-link to="/elements/Regeneration">回血</nuxt-link
-              >。只要他們沒有死，都可以加入下一場戰鬥。
-            </li>
-            <li>京都的防守非常厚實，善用投石機。</li>
-            <li>
-              <nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
-              >無法傷到京都，注意投資的量。
-            </li>
+            
           </ul>
           <h3>遊戲內細節</h3>
           <div class="hrn1"></div>
           <ul>
             <li>
-              遊戲中的＂燈塔＂看起來就是<nuxt-link to="/civs/Koreans"
-                >韓國</nuxt-link
-              >的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>。
+              
             </li>
             <li>
-              除了京都之外的敵方勢力都不能進入<nuxt-link
-                to="/techs/age/Imperial_Age"
-                >帝王時代</nuxt-link
-              >。
+              
             </li>
-            <li>
-              電腦很笨，不會出<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-              >。
-            </li>
-            <li>所有宮殿看起來都一樣，但是真正的金閣寺只有在奈良。</li>
-            <li>
-              很神奇的，源氏帶來的軍隊沒有中文名稱，英文名稱是Elite Mounted
-              Samurai，這是很奇怪的名稱，因為遊戲內沒有Mounted
-              Samurai這種單位，而Elite是精銳的意思。
-            </li>
-            <li>
-              木曾義仲把城寨與兵權交給玩家之後似乎就去睡覺了（從地圖上消失）。
-            </li>
-            <li>
-              你可以吸引平清盛遠離京都裡面的紅色世界奇觀，並用你的部隊靠近，屆時世界奇觀會變成你的藍色。
-            </li>
-            <li>北条通常從他們基地的南方出兵，而那裏是最沒有效率的。</li>
-            <li>地圖上的狼全都是恐狼。</li>
           </ul>
           <h3>歷史</h3>
           <div class="hrn1"></div>
@@ -307,6 +246,34 @@
             </li>            
             
           </ul>
+          <h3>芝麻小事</h3>
+          <div class="hrn1"></div>
+          <ul>
+            <li>玩家無法在這個場景訓練海軍、城堡或火藥單位。</li>
+            <li>在英文版本中查里曼的名字是用德文Karl der Grosse念的 (實際上寫做Karl der Große)</li>
+            <li>儘管查理曼在歷史上無情的屠殺，玩家不必完全摧毀撒克遜人和弗里斯蘭人。</li>
+            <li>Engern這個撒克森部落在英語裡面可唸成Angeri or Angrivarii。</li>
+            <li>作者 Andreas Marscheider 的名字以城市的名字出現在Verden。</li>
+            <li>Andreas Marscheider也是德國戰役設計社群AgeArena的管理者。</li>
+            
+          </ul>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="row">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Saxonrevolt_army.png" alt=""
+            /></gallery>
+            <p><em>最初在辛特爾的法蘭克軍隊。</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Saxonrevolt_verden.jpg" alt=""
+            /></gallery>
+            <p><em>Verden城</em></p>
+          </div>
+          
         </div>
       </div>
       <div class="col-md-4">
@@ -333,13 +300,12 @@
           <tr>
             <td class="unit3">版本</td>
             <td class="unit4">
-              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4"><nuxt-link to="/games/aok">帝王世紀</nuxt-link>戰役擴充版
-              >
+            <td class="unit4"><nuxt-link to="/games/aoc">征服者入侵</nuxt-link>戰役擴充版
             </td>
           </tr>
           <tr>
@@ -358,7 +324,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>戰役擴充版
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>戰役擴充版
             </td>
           </tr>
           <tr>
@@ -375,7 +341,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝！此頁面由賜齡協助編輯。</div>
+        <div class="thanks">感謝！此頁面由賜齡，裕暉協助編輯。</div>
 
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
