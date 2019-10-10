@@ -135,37 +135,195 @@
         <h3>文明</h3>
         <div class="n1">
           <ul>
+            <li><strong>保加利亞</strong>(東歐)</li>
+            <li><strong>立陶宛</strong>(東歐)</li>
+            <li><strong>庫曼</strong>(新中亞建築)</li>
+            <li><strong>韃靼</strong>(中亞)</li>
+          </ul>
+        </div>
+        <h3>單位</h3>
+        <div class="hrn1"></div>
+        <h5>一般單位</h5>
+        <div class="n1">
+          <ul>
             <li>
-              <strong>保加利亞</strong>
-            </li>
-            <li>
-              <strong>立陶宛</strong>
-            </li>
-            <li>
-              <strong>庫曼</strong>
-            </li>
-            <li>
-              <strong>韃靼</strong>
+              <strong>草原槍兵</strong
+              >:庫曼與韃靼於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
             </li>
           </ul>
-
-          <h3>戰役</h3>
+        </div>
+        <h5>特殊單位</h5>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>保加利亞騎兵</strong
+              >:保加利亞特殊單位。平常為重騎兵單位被擊殺後會下馬變成重裝步兵單位(不須額外費用)。
+            </li>
+            <li>
+              <strong>烈提司</strong>:立陶宛特殊騎兵單位，攻擊可無視護甲值。
+            </li>
+            <li>
+              <strong>欽察騎射手</strong>:庫曼特殊馬弓騎兵單位，可射出多發箭矢。
+            </li>
+            <li>
+              <strong>蒙古騎射手</strong
+              >:韃靼特殊騎兵單位，攻擊時可得到額外黃金。
+            </li>
+          </ul>
+        </div>
+        <h4>建築</h4>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>堡壘</strong
+              >:保加利亞特殊建築。可於城堡時代建造生產保加利亞騎兵的小城堡，但無法研發科技。
+            </li>
+          </ul>
+        </div>
+        <h4>動物</h4>
+        <div class="n1">
+          <ul>
+            <li><strong>豬</strong>(可訓養，名字還未確定)</li>
+            <li><strong>山羊</strong>(可獵捕，名字還未確定)</li>
+          </ul>
+        </div>
+        <h4>未知</h4>
+        <div class="n1">
+          <ul>
+            <li><strong>大型牛車</strong>(名字未發布)</li>
+            <li><strong>小型牛車</strong>(名字未發布)</li>
+            <li><strong>運貨駱駝</strong>(名字未發布)</li>
+            <li><strong>戰車</strong>(名字未發布)</li>
+          </ul>
+        </div>
+        <h3>科技</h3>
+        <div class="hrn1"></div>
+        <h5>一般科技</h5>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>供給</strong>:150F 100G
+              民兵系成本-15食物，除哥德之外所有文明皆有。
+            </li>
+          </ul>
+        </div>
+        <h5>特殊科技</h5>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>絲護甲</strong>:韃靼特殊科技。斥侯系和馬弓騎兵遠程護甲+1。
+            </li>
+            <li>
+              <strong>帖木兒攻城術</strong>:韃靼特殊科技。巨型投石機射程+1。
+            </li>
+            <li>
+              <strong>馬鐙</strong
+              >:保加利亞特殊科技。斥侯系與保加利亞騎兵攻擊速度+25%。
+            </li>
+            <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+3。</li>
+          </ul>
+        </div>
+        <h3>利益</h3>
+        <div class="hrn1"></div>
+        <h5>文明利益</h5>
+        <div class="n1">
+          <ul>
+            <li>
+              <strong>韃靼</strong
+              >:綿羊多50%肉量。單位的高地傷害加成多25%(額外加在一般高地傷害上)。安息人戰術免費。
+            </li>
+            <li>
+              <strong>保加利亞</strong
+              >:民兵系升級免費(但無劍兵勇士)。建造城鎮中心只花50石頭。可蓋堡壘。
+            </li>
+          </ul>
+        </div>
+        <h5>團隊利益</h5>
+        <div class="n1">
+          <ul>
+            <li><strong>韃靼</strong>:馬弓騎兵視野+2。</li>
+            <li><strong>保加利亞</strong>:兵工廠工作效率+50%。</li>
+          </ul>
+        </div>
+        <h3>戰役</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
           <p>
             <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
           <ul>
             <li>
-              最後的可汗
+              伊瓦伊洛 (保加利亞)
             </li>
             <li>
-              尚未發布
+              帖木兒(韃靼)
             </li>
             <li>
-              尚未發布
+              科滕·汗(庫曼)
             </li>
           </ul>
         </div>
+
+        <h2>修改項目</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              移除追蹤技術。現在所有文明只要升級到封建時代就會自動獲得追蹤技術的效果。斯拉夫則獲得免費供給技術。
+            </li>
+            <li>箭塔的血量被降低。</li>
+            <li>Camel 改名為Camel Rider(中文還是叫駱駝騎兵)。</li>
+            <li>Arbalest 更名為Arbalester(中文還是叫強弩兵)。</li>
+          </ul>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Bulgarians.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>保加利亞預覽圖</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Cumans.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>庫曼預覽圖</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Lithuanians.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>立陶宛預覽圖</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Tatars.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>韃靼預覽圖</em></p>
+            </div>
+          </div>
+        </div>
       </div>
+
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
