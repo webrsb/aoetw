@@ -297,16 +297,6 @@
               >，同時觀看騎兵軍隊慢慢屠殺一切。
             </li>
           </ul>
-          <h3>遊戲內細節</h3>
-          <div class="hrn1"></div>
-          <ul>
-            <li></li>
-          </ul>
-          <h3>芝麻小事</h3>
-          <div class="hrn1"></div>
-          <ul>
-            <li></li>
-          </ul>
         </div>
       </div>
       <div class="col-md-4">
