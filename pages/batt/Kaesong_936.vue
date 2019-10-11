@@ -12,9 +12,15 @@
             >是《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
             >》中<nuxt-link to="/batt/Battles_of_the_Forgotten"
               >失落的帝國的戰役</nuxt-link
-            >的其中一個戰役。該<nuxt-link to="/batt">戰役</nuxt-link
-            >描述獅心王理查在第三次十字軍東征之前佔領西西里島與賽普勒斯的事蹟。
+            >的其中一個戰役。曾是官方計畫加入的韓國戰役，最後因"時間限制"而取消。
+            Steam上有下載網址，有英文與西班牙版本。(搜尋Kaesong即可)
           </p>
+          <em
+              >玩家將化身一位著名的韓國將軍並再次統一韓國。這戰役考驗您面對多個敵人時的計畫謀略。您能扭轉局勢並為人民帶來勝利嗎？”</em
+            >
+            <p style="text-align: right;margin-top: 10px;">
+              -開發者對於開城戰役的簡短介紹
+            </p>
         </div>
         <h2>玩家</h2>
         <div class="hrn1"></div>
@@ -24,14 +30,14 @@
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
               <td class="tc2" width="15%">
-                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">
-                無
+              <td class="tc2">200肉、200木、100黃金
+                
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">200</td>
+              <td class="tc2" width="5%">150</td>
             </tr>
           </table>
 
@@ -47,7 +53,7 @@
                 <div class="p2"></div>
                 玩家1
               </td>
-              <td class="tc6" colspan="3">不列顛（紅色）
+              <td class="tc6" colspan="3">韓國（紅色）
               </td>
             </tr>
 
@@ -77,7 +83,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4" style="background:#ea6153;">同盟→敵對→同盟</td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             
             <tr>
@@ -95,7 +101,7 @@
               <td class="tc6">（紫色）拜占庭</td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4" style="background:#ea6153;">同盟→敵對</td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
             </tr>
             
             <tr>
@@ -115,52 +121,33 @@
 
           <h3>開場</h3>
           <li>
-             獅心王理查X、長弓兵X10、投石車X2、衝撞車X3、弩兵X5、騎士X9、長槍兵X10、長劍兵X10
+             王通、弓兵X10、矛兵X2、長槍兵X3、村民X5、戰船X9、長劍兵X10
           </li>
 
-          <h3>主要任務</h3>
+          <h3>任務</h3>
           <div class="hrn1"></div>
+          <h5>主要任務</h3>
           <div class="n1">
              <ul>
               <li>
-                理查必須存活。
+                王通必須存活。
               </li>
               <li>
-                瓊那必須存活。(得到瓊那到上船之前)
+                城堡不能倒下
+              </li>
+              <li>
+                擊敗
               </li>
             </ul>
-            <ol>
-              
+          <h5>選擇性任務</h3> 
+            <ul>
               <li>
-                在西西里登陸並把軍隊派到安營點。
+                給中國人400黃金他們會與你結盟。
               </li>
               <li>
-                讓理查去會見其他的王公。
+                給中國人800黃金他們會給你中國連弩兵XX隻。
               </li>
-              <li>
-                把理查和瓊那帶回營地。
-              </li>
-              <li>
-                摧毀墨西拿城所有的倉庫(貿易工坊)來佔領墨西拿城(共五座倉庫)。
-              </li>
-              <li>
-                把理查、瓊那還有她的財產都帶到紅旗處的運輸船那。
-              </li>
-              <li>
-                把你想派去東征的軍隊都派上五支運輸船。包括英雄在內你一共可以運50個單位，
-                別忘了帶上能幫你攻城拔寨的武器，而且先讓單位坐進衝撞車再把衝撞車運上運輸船的話可以節省空間。
-                如果你的艦隊已經就緒要準備揚帆啟程的話就點擊坦克雷德在地圖西邊的城堡(綠色)。
-              </li>
-              <li>
-                找到艦隊其餘的船艦。
-              </li>
-              <li>
-                登陸利馬索港並奪下她的兩座城堡。想奪下城堡你只需要把理查帶到它旁邊去。
-              </li>
-              <li>
-                打敗賽普勒斯軍隊。
-              </li>
-            </ol>
+            </ul>
           </div>
           
           <h3>任務提示</h3>
@@ -265,7 +252,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Saxonrevolt_map.png" alt="" />
+                <img src="~assets/Kaesong_936_map.jpg" alt="" />
               </div>
             </td>
           </tr>
@@ -290,7 +277,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4">c韓國
+            <td class="unit4">韓國
             </td>
           </tr>
           <tr>
