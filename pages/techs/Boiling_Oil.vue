@@ -77,6 +77,16 @@
             </li>
           </ul>
         </div>
+      <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">         
+          <h3>
+            <em><nuxt-link to="/games/aoe">最後可汗</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>移除沸油。</li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
