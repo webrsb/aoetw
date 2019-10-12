@@ -350,6 +350,12 @@
           <ul>
             <li>追蹤技術需要花費50食物。</li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aoe">最後可汗</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>移除追蹤技術，改為各文明升級封建時代後自動擁有。</li>
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
