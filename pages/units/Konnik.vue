@@ -821,7 +821,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />1600食物800黃金
+              />1000食物750黃金
             </td>
           </tr>
           <tr>
