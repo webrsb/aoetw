@@ -487,6 +487,14 @@
               一開始海港的HP是2200然後開火速率為2.5，在5.3改版後HP降到2000開火速率也降為3.05。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aoe">最後可汗</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              對船艦攻擊加成變為+10。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">
@@ -568,7 +576,7 @@
           <tr>
             <td class="unit3">攻擊加城</td>
             <td class="unit4">
-              對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>攻擊+9
+              對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>攻擊+10
             </td>
           </tr>
           <tr>
