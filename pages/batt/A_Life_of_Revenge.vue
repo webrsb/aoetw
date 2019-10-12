@@ -145,7 +145,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/A_life_of_revenge.png" alt="" />
+                <img src="~assets/MO2.jpg" alt="" />
               </div>
             </td>
           </tr>
