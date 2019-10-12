@@ -408,7 +408,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">50</td>
+            <td class="unit4">100</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
