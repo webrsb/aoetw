@@ -97,10 +97,8 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              /><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link
-              >：城堡對於<nuxt-link to="/armor/Armor_Class_Ram"
-                >衝撞車系</nuxt-link
-              >的傷害+9
+              /><nuxt-link to="/techs/">波斯步弓手</nuxt-link
+              >：訓練徒步弓兵系消耗額外木材，而不消耗黃金。
             </li>
             <li>
               <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
@@ -561,8 +559,8 @@
             <td class="unit3">特殊技術</td>
             <td class="unit4">
               <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
-                to="/techs/Boiling_Oil"
-                >沸油</nuxt-link
+                to="/techs/"
+                >波斯步弓手</nuxt-link
               ><br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
                 to="/techs/Mahouts"
