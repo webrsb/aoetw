@@ -34,6 +34,8 @@
                 >港灣大商站</nuxt-link
               >•
               <nuxt-link to="/building/Harbor">海港</nuxt-link>
+              •
+              <nuxt-link to="/building/Krepost">堡壘</nuxt-link>
             </td>
           </tr>
           <tr>
