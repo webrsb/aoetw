@@ -127,7 +127,7 @@
                 </div></nuxt-link
               >
             </td>
-            <td class="t15 trm">
+            <td class="t15 trm not">
               <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><nuxt-link
                 to="/units/Hand_Cannoneer"
                 ><div>
