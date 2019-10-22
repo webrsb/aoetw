@@ -42,7 +42,7 @@
             <td style="vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
-            <td class="t15 trm not">
+            <td class="t15 trm">
               <img class="gg" src="~assets/CrossbowmanIcon.jpg" /><nuxt-link
                 to="/units/Crossbowman"
               >
@@ -323,6 +323,11 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
+              <img class="gg" src="~assets/CavalierIcon.jpg" />
+              <div><nuxt-link to="/units/Steppe_Lancer">草原槍兵</nuxt-link></div>
+              <i class="fas fa-arrow-down"></i>
+            </td>
+            <td class="t19 trm">
               <img class="gg" src="~assets/Husbandry.jpg" alt="" />
               <div><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link></div>
             </td>
@@ -368,13 +373,9 @@
               </div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/CavalierIcon.jpg" />
-              <div><nuxt-link to="/units/Steppe_Lancer">草原槍兵</nuxt-link></div>
-              <i class="fas fa-arrow-down"></i><br /><img
-                class="gg"
-                src="~assets/PaladinIcon.jpg"
-              />
-              <div><nuxt-link to="/units/Elite_Steppe_Lancer">精銳草原槍兵</nuxt-link></div>
+              <<img  class="gg"  src="~assets/PaladinIcon.jpg" />
+              <div>
+              <nuxt-link to="/units/Elite_Steppe_Lancer">精銳草原槍兵</nuxt-link></div>
             </td>
           </tr>
         </table>
@@ -572,7 +573,7 @@
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm">
+            <td class="t19 trm not">
               <img class="gg" src="~assets/Chainmailarmor.jpg" alt="" />
               <div>
                 <nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>
