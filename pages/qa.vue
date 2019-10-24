@@ -19,6 +19,20 @@
           >發問！</em
         >
       </div>
+      <p>
+        <span class="small">
+          由於2019 《世紀帝國II：決定版》發布，2013 發行的《世紀帝國II：HD》在
+          Steam 商店的遊戲名稱由
+          <span class="badge badge-secondary text-wrap" style="width: 6rem;"
+            >Age of Empires II: HD</span
+          >
+          改為
+          <span class="badge badge-secondary text-wrap" style="width: 6rem;"
+            >Age of Empires II (2013)</span
+          >
+          以下統稱為《世紀帝國II (2013)》
+        </span>
+      </p>
       <h3>1.系統相關-購買前</h3>
       <div class="row">
         <div class="col-md-12">
@@ -34,6 +48,8 @@
                     <th>發布日期</th>
                     <th>新增文明</th>
                   </tr>
+                </tbody>
+                <tbody class="table-info">
                   <tr>
                     <td>
                       《<nuxt-link
@@ -150,6 +166,8 @@
                       >
                     </td>
                   </tr>
+                </tbody>
+                <tbody class="table-danger">
                   <tr>
                     <td>
                       《<nuxt-link to="/games/de">
@@ -157,7 +175,34 @@
                       >》
                     </td>
                     <td>2019年11月15日</td>
-                    <td>保加利亞，立陶宛，庫曼，韃靼</td>
+                    <td>
+                      <nuxt-link
+                        to="/civs/Bulgarians"
+                        class="mw-redirect"
+                        title="保加利亞"
+                        >保加利亞</nuxt-link
+                      >，<nuxt-link to="/civs/Lithuanians" title="立陶宛"
+                        >立陶宛</nuxt-link
+                      >，<nuxt-link
+                        to="/civs/Cumans"
+                        class="mw-disambig"
+                        title="庫曼"
+                        >庫曼</nuxt-link
+                      >，<nuxt-link
+                        to="/civs/Tatars"
+                        class="mw-disambig"
+                        title="韃靼"
+                        >韃靼</nuxt-link
+                      >
+                    </td>
+                  </tr>
+                </tbody>
+                <tbody>
+                  <tr>
+                    <td colspan="4">
+                      注意：《世紀帝國II：決定版》為獨立資料片，包含《世紀帝國II
+                      (2013)》所有的文明，且不能互相進行連線
+                    </td>
                   </tr>
                 </tbody>
               </table>
@@ -168,11 +213,71 @@
       <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.a-2 class="m-1" variant="primary"
-            >1-2.世紀帝國II HD版要如何購買？怎麼玩？</b-btn
+            >1-2.世紀帝國II要如何購買？</b-btn
           >
           <b-collapse id="a-2">
             <div class="well">
-              <p>必須使用信用卡購買</p>
+              <p>
+                目前有《世紀帝國II：決定版》和《世紀帝國II (2013)》兩種，都是在
+                Steam 以信用卡購買：
+              </p>
+
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II：決定版》
+              </div>
+              <p class="font-italic">
+                以下皆為11/15前預購優惠, 11/15上市後會不會變回原價不知道
+              </p>
+              <p>
+                Q1:
+                是否已擁有世紀帝國一代：決定版或想一起購買世紀帝國一代：決定版?<br />
+
+                <span class="badge badge-success">是</span>
+                <a
+                  href=" https://store.steampowered.com/bundle/11831/"
+                  target="_blank"
+                  >(內含世紀帝國一代：決定版& 世紀帝國二代：決定版,
+                  若已擁有其中一項會自動扣除)</a
+                ><br />
+
+                <span class="badge badge-warning">否</span> :接Q2
+              </p>
+              <p>
+                Q2: 是否已擁有Age of Empires II
+                (2013)<sup>註1</sup>或想一起購買Age of Empires II (2013)?<br />
+
+                <span class="badge badge-success">是</span>:
+                <a
+                  href="https://store.steampowered.com/bundle/11830/"
+                  target="_blank"
+                  >內含世紀帝國二代：決定版 & Age of Empires
+                  II(2013)(若已擁有其中一項會自動扣除)</a
+                >
+                <br />
+                <span class="badge badge-warning">否</span>:接Q3
+              </p>
+              <p>
+                Q3: 我只想購買決定版就好<br />
+                <span class="badge badge-success">是</span>
+                <a
+                  href="https://store.steampowered.com/app/813780"
+                  target="_blank"
+                  >直接到Steam商店購買決定版</a
+                >。另外，許多有購買HD版的人
+                都有這個-25%的折價卷可以找人贈送給你,
+                就可以純購買決定版一樣有優惠, 需注意有效期限至
+                11/15。若找不到人贈送, 可以到<a
+                  href=" https://discord.gg/ymNuMVg"
+                  target="_blank"
+                >
+                  詢問</a
+                >
+                。<br /><img width="180" src="../assets/de_coupon.png" />
+              </p>
+
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II (2013)》
+              </div>
               <p>
                 <a
                   href="http://store.steampowered.com/app/221380/"
@@ -180,7 +285,6 @@
                   >HD主程式 (舊版帝王+征服者) 原價468</a
                 >
               </p>
-              <h3></h3>
               <p>
                 <a
                   href="http://store.steampowered.com/bundle/2149/"
@@ -208,11 +312,21 @@
       <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.a-4 class="m-1" variant="primary"
-            >1-4.只要購買主程式就好了嗎?還是要連同三種資料片一起買，版本才不會有問題?</b-btn
+            >1-4.要買哪個版本？要把所有資料片一起買下，版本才不會有問題?</b-btn
           >
           <b-collapse id="a-4">
             <div class="well">
-              可以只買主程式，且HD主程式與資料片全部都可互連。但如果只買主程式，則沒辦法用新文明，沒差多少錢，建議全買。
+              新玩家建議直接購買 《世紀帝國II：決定版》，包含了《世紀帝國II
+              (2013)》所有的資料片，因此不需另外購買DLC會比較便宜。
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II：決定版》
+              </div>
+              包含2013版所有文明，幾乎重製了整個遊戲，畫面更加精緻及更多新功特性。詳見：
+              《<nuxt-link to="/games/de"> 世紀帝國II：決定版 </nuxt-link>》
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II (2013)》
+              </div>
+              除非你的電腦不是windows10，不然建議直接購買決定版就好。若一定要買2013版，可以只買主程式，且HD主程式與資料片全部都可互連。但如果只買主程式，則沒辦法用新文明，沒差多少錢，建議全買
             </div>
           </b-collapse>
         </div>
@@ -224,8 +338,16 @@
           >
           <b-collapse id="a-5">
             <div class="well">
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II：決定版》
+              </div>
+
+              決定版提供專用伺服器可以大幅減少連線延遲，也是目前唯一的連線方案。並注意，決定版與2013版不能互連。
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II (2013)》
+              </div>
               現在玩家大多使用Steam平台對戰，也就是購買上述所說的Aoe
-              HD版本，即有內建連線平台。另外也有人數較少，使用稍微比較不方便，但水平較高、品質更好的Voobly平台，教學<a
+              2013版本，即有內建連線平台。另外也有人數較少，使用稍微比較不方便，但水平較高、品質更好的Voobly平台，教學<a
                 target="_blank"
                 href="https://www.ptt.cc/bbs/AOE/M.1511542311.A.669.html"
                 >請點此</a
@@ -241,7 +363,22 @@
           >
           <b-collapse id="a-6">
             <div class="well">
-              <h3>系統需求</h3>
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II：決定版》
+              </div>
+              <p>
+                最低配備: 需要 64 位元的處理器<br />
+                作業系統: <b>Windows 10 64bit</b><br />
+                處理器: Intel Core 2 Duo or AMD Athlon 64x2 5600+<br />
+                記憶體: 4 GB 記憶體<br />
+                顯示卡: NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850<br />
+                DirectX: 版本：11<br />
+                網路: 寬頻網際網路連線<br />
+                儲存空間: 30 GB 可用空間<br />
+              </p>
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II (2013)》
+              </div>
               <p>
                 最低配備：作業系統：Windows Vista, 7, 8 Pro+<br />
                 處理器：1.2GHZ CPU<br />
@@ -261,6 +398,15 @@
           >
           <b-collapse id="b-1">
             <div class="well">
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II：決定版》
+              </div>
+
+              決定版提供內建繁體中文，但戰役配音重新配過，可能會比較不習慣，後續可能會有志願者推出舊版音檔作為替換。
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II (2013)》
+              </div>
+
               <p>
                 1.請將遊戲語言轉換至簡體中文（收藏庫>AOE II>右鍵>內容>語言）
               </p>
@@ -287,7 +433,7 @@
       <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.b-2 class="m-1" variant="primary"
-            >2-2.怎麼更改遊戲解析度?</b-btn
+            >2-2.怎麼更改遊戲解析度?(2013版)</b-btn
           >
           <b-collapse id="b-2">
             <div class="well">
@@ -306,7 +452,7 @@
       <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.b-3 class="m-1" variant="primary"
-            >2-3.連線出現握手狀態圖示，無法開始遊戲</b-btn
+            >2-3.連線出現握手狀態圖示，無法開始遊戲(2013版)</b-btn
           >
           <b-collapse id="b-3">
             <div class="well">
@@ -344,6 +490,19 @@
           >
           <b-collapse id="c-1">
             <div class="well">
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II：決定版》
+              </div>
+              格線已經有內建提供此功能，其它模組上市後有, 到時候會開放在<a
+                href="https://www.ageofempires.com/mods"
+                target="_blank"
+                >工作坊</a
+              >。
+
+              <div class="rounded d-block bg-info text-white">
+                《世紀帝國II (2013)》
+              </div>
+
               <p>這是steam工作坊的套件，目的是更方便使用者</p>
               <p>使用方式:登入訂閱，遊戲重開一次即可</p>
               <h4>常用套件</h4>
@@ -419,7 +578,7 @@
       <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.c-2 class="m-1" variant="success"
-            >3-2.有推薦的強AI嗎?</b-btn
+            >3-2.有推薦的強AI嗎?(2013版)</b-btn
           >
           <b-collapse id="c-2">
             <div class="well">
@@ -489,7 +648,7 @@
       <div class="row zo">
         <div class="col-md-12">
           <b-btn v-b-toggle.c-3 class="m-1" variant="success"
-            >3-3.語音指令沒聲音</b-btn
+            >3-3.語音指令沒聲音(2013版)</b-btn
           >
           <b-collapse id="c-3">
             <div class="well">
