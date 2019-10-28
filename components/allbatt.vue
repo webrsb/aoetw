@@ -271,14 +271,14 @@
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>•
-              <nuxt-link to="/Dos_Pilas(648).php">雙柱城(648)</nuxt-link>•
-              <nuxt-link to="/York(865).php">約克(865)</nuxt-link>•
+              <nuxt-link to="/batt/Dos_Pilas_648">雙柱城(648)</nuxt-link>•
+              <nuxt-link to="/batt/York_865">約克(865)</nuxt-link>•
               <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>•
               <nuxt-link to="/batt/Langshan_Jiang_919">狼山江(919)</nuxt-link>•
-              <nuxt-link to="/Kaesong(936).php">開城(936)</nuxt-link>•
+              <nuxt-link to="/batt/Kaesong_936">開城(936)</nuxt-link>•
               <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>•
-              <nuxt-link to="/Cyprus(1191).php">塞普勒斯(1191)</nuxt-link>•
-              <nuxt-link to="/Bapheus(1302).php">巴菲烏斯(1302)</nuxt-link>
+              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯(1191)</nuxt-link>•
+              <nuxt-link to="/batt/Bapheus_1302">巴菲烏斯(1302)</nuxt-link>
             </td>
           </tr>
           <tr>

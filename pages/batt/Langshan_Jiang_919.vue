@@ -379,7 +379,7 @@
                   >成吉思汗(戰役)</nuxt-link
                 >的<nuxt-link to="/batt/Into_China">進入中國</nuxt-link
                 >關卡，<nuxt-link to="/civs/Koreans">韓國</nuxt-link
-                >戰役<nuxt-link to="/batt/Kyoto_1582">洛陽點</nuxt-link
+                >戰役<nuxt-link to="/batt/Noryang_Point_1598">洛陽點</nuxt-link
                 >(露梁海戰)的鄧子龍將軍，<nuxt-link to="/civs/Vietnamese"
                   >越南</nuxt-link
                 ><nuxt-link to="/batt/Le_Loi">黎利戰役</nuxt-link>的大明勢力。

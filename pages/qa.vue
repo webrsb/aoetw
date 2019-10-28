@@ -230,40 +230,40 @@
               </p>
               <p>
                 Q1:
-                是否已擁有世紀帝國一代：決定版或想一起購買世紀帝國一代：決定版?<br />
+                是否已擁有《世紀帝國一代：決定版》或想一起購買《世紀帝國一代：決定版》?<br />
 
-                <span class="badge badge-success">是</span>
+                <span class="badge badge-success">是</span>:
                 <a
                   href=" https://store.steampowered.com/bundle/11831/"
                   target="_blank"
-                  >(內含世紀帝國一代：決定版& 世紀帝國二代：決定版,
+                  >(內含《世紀帝國一代：決定版》& 《世紀帝國II：決定版》,
                   若已擁有其中一項會自動扣除)</a
                 ><br />
 
-                <span class="badge badge-warning">否</span> :接Q2
+                <span class="badge badge-warning">否</span>:接Q2
               </p>
               <p>
-                Q2: 是否已擁有Age of Empires II
-                (2013)<sup>註1</sup>或想一起購買Age of Empires II (2013)?<br />
+                Q2: 是否已擁有《世紀帝國II (2013)》或想一起購買《世紀帝國II
+                (2013)》?<br />
 
                 <span class="badge badge-success">是</span>:
                 <a
                   href="https://store.steampowered.com/bundle/11830/"
                   target="_blank"
-                  >內含世紀帝國二代：決定版 & Age of Empires
-                  II(2013)(若已擁有其中一項會自動扣除)</a
+                  >內含《世紀帝國II (2013)》 &
+                  《世紀帝國II：決定版》(若已擁有其中一項會自動扣除)</a
                 >
                 <br />
                 <span class="badge badge-warning">否</span>:接Q3
               </p>
               <p>
                 Q3: 我只想購買決定版就好<br />
-                <span class="badge badge-success">是</span>
+                <span class="badge badge-success">是</span>:
                 <a
                   href="https://store.steampowered.com/app/813780"
                   target="_blank"
                   >直接到Steam商店購買決定版</a
-                >。另外，許多有購買HD版的人
+                >。另外，許多有購買2013版的人
                 都有這個-25%的折價卷可以找人贈送給你,
                 就可以純購買決定版一樣有優惠, 需注意有效期限至
                 11/15。若找不到人贈送, 可以到<a
@@ -321,12 +321,12 @@
               <div class="rounded d-block bg-info text-white">
                 《世紀帝國II：決定版》
               </div>
-              包含2013版所有文明，幾乎重製了整個遊戲，畫面更加精緻及更多新功特性。詳見：
+              包含2013版所有文明，幾乎重製了整個遊戲，畫面更加精緻及更多新特性。詳見：
               《<nuxt-link to="/games/de"> 世紀帝國II：決定版 </nuxt-link>》
               <div class="rounded d-block bg-info text-white">
                 《世紀帝國II (2013)》
               </div>
-              除非你的電腦不是windows10，不然建議直接購買決定版就好。若一定要買2013版，可以只買主程式，且HD主程式與資料片全部都可互連。但如果只買主程式，則沒辦法用新文明，沒差多少錢，建議全買
+              除非你的電腦不是windows10，不然建議直接購買決定版就好。若一定要買2013版，可以只買主程式，且2013版主程式與資料片全部都可互連。但如果只買主程式，則沒辦法用新文明，沒差多少錢，建議全買
             </div>
           </b-collapse>
         </div>
@@ -346,8 +346,7 @@
               <div class="rounded d-block bg-info text-white">
                 《世紀帝國II (2013)》
               </div>
-              現在玩家大多使用Steam平台對戰，也就是購買上述所說的Aoe
-              2013版本，即有內建連線平台。另外也有人數較少，使用稍微比較不方便，但水平較高、品質更好的Voobly平台，教學<a
+              現在玩家大多使用Steam平台對戰，也就是購買上述所說的2013版本，即有內建連線平台。另外也有人數較少，使用稍微比較不方便，但水平較高、品質更好的Voobly平台，教學<a
                 target="_blank"
                 href="https://www.ptt.cc/bbs/AOE/M.1511542311.A.669.html"
                 >請點此</a
@@ -368,7 +367,7 @@
               </div>
               <p>
                 最低配備: 需要 64 位元的處理器<br />
-                作業系統: <b>Windows 10 64bit</b><br />
+                作業系統: <b class="text-danger">Windows 10 64bit</b><br />
                 處理器: Intel Core 2 Duo or AMD Athlon 64x2 5600+<br />
                 記憶體: 4 GB 記憶體<br />
                 顯示卡: NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850<br />

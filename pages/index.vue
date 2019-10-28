@@ -17,7 +17,7 @@
           </p>
         </div>
         <div class="col-md-4" style="text-align: right;font-size: 25px;">
-          已有758篇條目
+          已有779篇條目
         </div>
       </div>
       <div class="row">
@@ -182,21 +182,10 @@
             <h4 style="margin-top:30px;"><strong>最新消息</strong></h4>
             <ul>
               <li>
+                <nuxt-link to="/qa">常見問題</nuxt-link>頁面新增決定版的相關解答
+              </li>
+              <li>
                 增加線上修改功能，歡迎點擊每頁下方的「協助改善此頁面」提交修改
-              </li>
-              <li>
-                各文明的<nuxt-link to="/tree/vie">科技樹</nuxt-link>完成拉！
-              </li>
-              <li>
-                2018年9月7日:5.8改版上線，<nuxt-link to="/news/ver5-8"
-                  >改版內容</nuxt-link
-                >
-              </li>
-              <li>新增<a href="http://aoetw.com/save/">記錄檔上傳區</a></li>
-              <li>
-                2018年1月25日:5.7改版上線，<nuxt-link to="/news/ver5-7"
-                  >改版內容</nuxt-link
-                >
               </li>
             </ul>
           </div>

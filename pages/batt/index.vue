@@ -1148,7 +1148,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Langshan_Jiang_919 "
+                    <nuxt-link to="/batt/Langshan_Jiang_919"
                       >狼山江（919）</nuxt-link
                     >
                   </div>
