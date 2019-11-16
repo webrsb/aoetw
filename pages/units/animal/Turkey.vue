@@ -57,7 +57,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Turkey-icon-aoe2.jpg" width="80" alt="" />
+                <img src="~assets/Turkey.jpg" width="80" alt="" />
               </div>
             </td>
           </tr>
