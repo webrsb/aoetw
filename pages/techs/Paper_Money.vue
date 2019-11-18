@@ -33,16 +33,21 @@
             </li>
           </ul>
         </div>
-        <h3>更新日誌</h3> <div class="hrn1"></div> <div class="n1"><h3><em><a href="/games/aor">王者崛起</a></em></h3> <ul><li>紙幣花費800食物，200黃金
-          </li></ul>
-   <h3><em>決定版</em></h3> <ul><li>紙幣花費500食物，300木材
-          </li></ul>     
-        
-        
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><a href="/games/aor">王者崛起</a></em>
+          </h3>
+          <ul>
+            <li>紙幣花費800食物，200黃金</li>
+          </ul>
+          <h3><em>決定版</em></h3>
+          <ul>
+            <li>紙幣花費500食物，300木材</li>
+          </ul>
         </div>
-        
-        
-        
+
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -139,7 +144,7 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/resource/Gold">木材</nuxt-link>
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
             <td class="unit4">300</td>
           </tr>
