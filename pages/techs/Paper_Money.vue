@@ -23,16 +23,26 @@
           <ul>
             <li>
               黃金在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >早期是非常重要的，因此應盡快研究紙幣。玩家擁有的盟友數量會隨著紙幣的影響而增加。例如一個3人的團隊可以800個<nuxt-link
+              >早期是非常重要的，因此應盡快研究紙幣。玩家擁有的盟友數量會隨著紙幣的影響而增加。例如一個3人的團隊可以500個<nuxt-link
                 to="/resource/Food"
                 >食物</nuxt-link
-              >獲得1300金幣，這是一個超值的交易。
+              >300木材換取1500金幣，這是一個超值的交易。
             </li>
             <li>
               即使玩家沒有盟友，如果地圖上的黃金已經用完了，它仍然可以使用。
             </li>
           </ul>
         </div>
+        <h3>更新日誌</h3> <div class="hrn1"></div> <div class="n1"><h3><em><a href="/games/aor">王者崛起</a></em></h3> <ul><li>紙幣花費800食物，200黃金
+          </li></ul>
+   <h3><em>決定版</em></h3> <ul><li>紙幣花費500食物，300木材
+          </li></ul>     
+        
+        
+        </div>
+        
+        
+        
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -125,13 +135,13 @@
             <td class="unit3">
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
-            <td class="unit4">800</td>
+            <td class="unit4">500</td>
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+              <nuxt-link to="/resource/Gold">木材</nuxt-link>
             </td>
-            <td class="unit4">200</td>
+            <td class="unit4">300</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
