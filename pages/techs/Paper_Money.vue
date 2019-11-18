@@ -37,12 +37,14 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>紙幣花費800食物，200黃金</li>
           </ul>
-          <h3><em>決定版</em></h3>
+          <h3>
+            <em><nuxt-link to="/games/de">王者崛起</nuxt-link></em>
+          </h3>
           <ul>
             <li>紙幣花費500食物，300木材</li>
           </ul>
