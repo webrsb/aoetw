@@ -11,7 +11,7 @@
             <b>供給</b>於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
-            >研發。研發後民兵系食物成本-15。
+            >研發。研發後民兵系食物成本-15%。
           </p>
         </div>
         <h3>戰術</h3>
@@ -24,7 +24,6 @@
                 >食物</nuxt-link
               >，非常的實用，建議研發。
             </li>
-            
           </ul>
         </div>
         <h3>受影響的單位</h3>
@@ -322,8 +321,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：研發供給速度快20%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發供給速度快20%。
             </li>
           </ul>
         </div>
@@ -331,12 +329,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aoe">最後可汗</nuxt-link></em>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
             <li>新增供給科技。</li>
           </ul>
-          
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -356,7 +353,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Tracking.jpg" width="45" alt="" />
+                <img src="~assets/Suplliesicon.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -405,6 +402,8 @@
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
             <td class="unit4">150</td>
+          </tr>
+          <tr>
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
@@ -417,7 +416,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">民兵系食物成本-15</td>
+            <td class="unit4">民兵系食物成本-15%</td>
           </tr>
         </table>
       </div>

@@ -58,8 +58,8 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Tracking.jpg" alt="" />
-              <div><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link></div>
+              <img class="gg" src="~assets/Suplliesicon.png" alt="" />
+              <div><nuxt-link to="/techs/Supplies">供給</nuxt-link></div>
             </td>
             <td class="t19 trm"></td>
           </tr>
