@@ -9,12 +9,15 @@
         <div class="n1">
           <p>
             <b>沸油</b>是<nuxt-link to="/civs/Persians">波斯</nuxt-link
-            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >先前的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發，研發後<nuxt-link to="/building/Castle">城堡</nuxt-link
             >對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車系</nuxt-link
-            >的傷害+9。
+            >的傷害+9。此科技於《<nuxt-link to="/games/de">
+              世紀帝國II：決定版 </nuxt-link
+            >》移除，由<nuxt-link to="/techs/Kamandaran">波斯步弓手</nuxt-link
+            >取代之。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -75,6 +78,16 @@
                 >聚居堡壘</nuxt-link
               >能夠加速沸油的研發速度(+25%)。
             </li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>移除沸油。</li>
           </ul>
         </div>
       </div>
