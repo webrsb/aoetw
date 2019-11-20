@@ -356,7 +356,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊範圍</td>
+            <td class="tta1" style="width:10%">射程</td>
             <td class="tta4">
               <img
                 class="gg"
@@ -377,6 +377,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
+              <br />
+              <img
+                class="gg"
+                src="~assets/Murderholes.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
+              >:消除最小射程
             </td>
           </tr>
           <tr>
@@ -487,6 +495,20 @@
               一開始海港的HP是2200然後開火速率為2.5，在5.3改版後HP降到2000開火速率也降為3.05。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              攻擊力從6減為3。對船艦攻擊加成從+9變為+10。
+            </li>
+            <li>
+              最小攻擊距離增加為1(原本為0)。需要<nuxt-link
+                to="/techs/Murder_Holes"
+                >垛孔</nuxt-link
+              >才能減少為0。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">
@@ -568,7 +590,7 @@
           <tr>
             <td class="unit3">攻擊加城</td>
             <td class="unit4">
-              對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>攻擊+9
+              對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>攻擊+10
             </td>
           </tr>
           <tr>
@@ -580,8 +602,16 @@
             <td class="unit4">100%</td>
           </tr>
           <tr>
-            <td class="unit3">投射物飛行速度</td>
+            <td class="unit3">投射物速度</td>
             <td class="unit4">6</td>
+          </tr>
+          <tr>
+            <td class="unit3">射程</td>
+            <td class="unit4">7</td>
+          </tr>
+          <tr>
+            <td class="unit3">最小範圍</td>
+            <td class="unit4">1</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
