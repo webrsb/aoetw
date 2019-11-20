@@ -205,7 +205,7 @@
             </td>
 
             <td class="t19 trm">
-              <img class="gg" src="~assets/Arson.jpg" alt="" />
+              <img class="gg" src="~assets/Suplliesicon.png" alt="" />
               <div><nuxt-link to="/techs/Supplies">供給</nuxt-link></div>
             </td>
             <td class="t19 trm"></td>
