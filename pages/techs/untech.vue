@@ -409,12 +409,12 @@
               /><nuxt-link to="/civs/Persians">波斯</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>
+              <nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link>
             </td>
-            <td class="tunitc5">200W 100S</td>
+            <td class="tunitc5">200F 200G</td>
             <td class="tunitc6">
-              城堡對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link
-              >攻擊+9。
+              訓練徒步<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
+              >消耗額外木材，而不消耗黃金。
             </td>
           </tr>
           <tr>

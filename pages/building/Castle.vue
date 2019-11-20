@@ -441,15 +441,6 @@
                 alt=""
               /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
               >(+4，僅對<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>)
-              <br />
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link
-              >(+9僅對衝撞車系，<nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >限定)
             </td>
           </tr>
           <tr>
@@ -649,6 +640,17 @@
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>:引入<nuxt-link
+                to="/techs/Boiling_Oil"
+                >沸油</nuxt-link
+              >。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>:移除<nuxt-link
                 to="/techs/Boiling_Oil"
                 >沸油</nuxt-link
               >。

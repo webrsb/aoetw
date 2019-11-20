@@ -482,28 +482,6 @@
                   </li>
                 </ul>
               </div>
-              以下科技會給以下單位對攻城塔有額外攻擊
-              <div class="n1">
-                <img
-                  class="gg"
-                  src="~assets/CastleAgeUnique.png"
-                  width="22"
-                  alt=""
-                /><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>(<nuxt-link
-                  to="/civs/Persians"
-                  >波斯</nuxt-link
-                >限定)
-                <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
-                <ul>
-                  <li>
-                    <img
-                      class="gg"
-                      src="~assets/Castleicon.png"
-                      alt=""
-                    /><nuxt-link to="/building/Castle">城堡</nuxt-link>
-                  </li>
-                </ul>
-              </div>
             </div>
           </div>
         </div>

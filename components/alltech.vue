@@ -260,7 +260,7 @@
                   <nuxt-link to="/techs/Nomads">游牧</nuxt-link>/
                   <nuxt-link to="/techs/Drill">演習</nuxt-link>
                   (<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>)<br />
-                  <nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>/
+                  <nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link>/
                   <nuxt-link to="/techs/Mahouts">象伕</nuxt-link>
                   (<nuxt-link to="/civs/Persians">波斯</nuxt-link>)<br />
                   <nuxt-link to="/techs/Carrack">克拉克帆船</nuxt-link>/
