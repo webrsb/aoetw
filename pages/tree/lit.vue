@@ -375,16 +375,14 @@
             <td class="t19 trm not">
               <img class="gg" src="~assets/Kipchakicon.png" />
               <div>
-                <nuxt-link to="/units/Steppe_Lancer">草原槍兵</nuxt-link>
+                <nuxt-link to="/units/Kipchak">草原槍兵</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
                 src="~assets/Kipchakicon.png"
               />
               <div>
-                <nuxt-link to="/units/Elite_Steppe_Lancer"
-                  >精銳草原槍兵</nuxt-link
-                >
+                <nuxt-link to="/units/Kipchak">精銳草原槍兵</nuxt-link>
               </div>
             </td>
           </tr>
