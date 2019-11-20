@@ -8,7 +8,7 @@
       <tree />
       <div class="hrn1"></div>
       <div class="n1">
-         <table class="table" style="margin-top:50px;">
+        <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" style="border-top: none;" colspan="7">
               <nuxt-link to="/building/Archery_Range"
@@ -42,7 +42,7 @@
             <td style="vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
-            <td class="t15 trm not">
+            <td class="t15 trm">
               <img class="gg" src="~assets/CrossbowmanIcon.jpg" /><nuxt-link
                 to="/units/Crossbowman"
               >
@@ -153,6 +153,7 @@
             </td>
           </tr>
         </table>
+
         <table class="table">
           <tr>
             <td class="trm" colspan="6" style="border-top: none;">
@@ -201,10 +202,12 @@
               <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
               <div><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
+            </td>
+
             <td class="t19 trm">
               <img class="gg" src="~assets/Arson.jpg" alt="" />
               <div><nuxt-link to="/techs/Supplies">供給</nuxt-link></div>
-            </td>  
+            </td>
             <td class="t19 trm"></td>
           </tr>
           <tr>
@@ -270,6 +273,7 @@
             <td class="t19 trm"></td>
           </tr>
         </table>
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" style="border-top: none;" colspan="6">
@@ -310,7 +314,7 @@
               <div><nuxt-link to="/units/Knight">騎士</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm not">
+            <td class="t19 trm">
               <img class="gg" src="~assets/CamelIcon.jpg" />
               <div><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
@@ -358,7 +362,8 @@
                   >帝王駱駝騎兵</nuxt-link
                 >
               </div>
-              
+            </td>
+
             <td class="t19 trm not">
               <img class="gg" src="~assets/Battleelephanticon.png" />
               <div>
@@ -368,13 +373,19 @@
               </div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/CavalierIcon.jpg" />
-              <div><nuxt-link to="/units/Steppe_Lancer">草原槍兵</nuxt-link></div>
+              <img class="gg" src="~assets/Kipchakicon.png" />
+              <div>
+                <nuxt-link to="/units/Steppe_Lancer">草原槍兵</nuxt-link>
+              </div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
-                src="~assets/PaladinIcon.jpg"
+                src="~assets/Kipchakicon.png"
               />
-              <div><nuxt-link to="/units/Elite_Steppe_Lancer">精銳草原槍兵</nuxt-link></div>
+              <div>
+                <nuxt-link to="/units/Elite_Steppe_Lancer"
+                  >精銳草原槍兵</nuxt-link
+                >
+              </div>
             </td>
           </tr>
         </table>
@@ -494,6 +505,7 @@
             </td>
           </tr>
         </table>
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" colspan="6" style="border-top: none;">
@@ -512,7 +524,8 @@
             <td class="t19 trm">
               <img class="gg" src="~assets/Paddedarcherarmor.jpg" alt="" />
               <div>
-                <nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link></div>
+                <nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link>
+              </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
@@ -614,7 +627,7 @@
             </td>
           </tr>
         </table>
-        
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" colspan="10" style="border-top: none;">
@@ -814,8 +827,8 @@
               <div><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link></div>
             </td>
           </tr>
-        </table>       
-        
+        </table>
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" colspan="9" style="border-top: none;">
@@ -918,7 +931,7 @@
             <td class="t11 trm"></td>
           </tr>
         </table>
-        
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" style="border-top: none;" colspan="8">
@@ -963,7 +976,9 @@
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/Arambaiicon.png" width="30" alt="" />
-              <div><nuxt-link to="/units/Konnik">精銳欽察步弓手</nuxt-link></div>
+              <div>
+                <nuxt-link to="/units/Konnik">精銳欽察步弓手</nuxt-link>
+              </div>
             </td>
             <td class="t13 trm">
               <img
@@ -1010,7 +1025,7 @@
             </td>
           </tr>
         </table>
-        
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" colspan="9" style="border-top: none;">
@@ -1115,6 +1130,7 @@
             <td class="t11 trm"></td>
           </tr>
         </table>
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
@@ -1191,7 +1207,7 @@
             <td class="t23 trm"></td>
           </tr>
         </table>
-        
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
@@ -1241,8 +1257,8 @@
             <td class="t23 trm"></td>
             <td class="t23 trm"></td>
           </tr>
-        </table> 
-        
+        </table>
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
@@ -1294,7 +1310,7 @@
             <td class="t23 trm"></td>
             <td class="t23 trm"></td>
           </tr>
-        </table>                   
+        </table>
 
         <table class="table" style="margin-top:50px;">
           <tr>
@@ -1310,7 +1326,7 @@
           <tr>
             <td style="vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
-            </td>            
+            </td>
             <td class="t23 trm">
               <img class="gg" src="~assets/TradeCartIcon.jpg" />
               <div><nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link></div>
@@ -1353,7 +1369,8 @@
             <td class="t23 trm"></td>
             <td class="t23 trm"></td>
           </tr>
-        </table>     
+        </table>
+
         <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
@@ -1414,9 +1431,9 @@
             <td class="t23 trm"></td>
           </tr>
         </table>
-       </div>
- </div>
- </div>
+      </div>
+    </div>
+  </div>
 </template>
 <script>
 import tree from '~/components/alltree'
