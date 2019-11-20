@@ -10,30 +10,10 @@
           <p>
             <b>追蹤技術</b>於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
-            >研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
+            >自動擁有。所有的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>+2。
           </p>
-        </div>
-        <h3>戰術</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              讓所有<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-              >具有+2視野，卻只要50<nuxt-link to="/resource/Food"
-                >食物</nuxt-link
-              >，非常的實用，建議研發。
-            </li>
-            <li>
-              打<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
-              >快攻的玩家一定要研發，+2視野攸關著你能不能抓到對方落單的<nuxt-link
-                to="/units/Villager"
-                >村民</nuxt-link
-              >，且能及早迴避敵人的裝甲步兵。
-            </li>
-          </ul>
         </div>
         <h3>受影響的單位</h3>
         <div class="hrn1"></div>
@@ -301,40 +281,6 @@
             <td class="tta4">+177%，+177%</td>
           </tr>
         </table>
-
-        <h3>文明加成</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
-              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >各便宜10%/15%/20%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：<nuxt-link
-                to="/techs/Perfusion"
-                >灌注士氣</nuxt-link
-              >讓追蹤技術研發快100%
-            </li>
-            <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：追蹤技術免費。
-            </li>
-          </ul>
-        </div>
-        <h3>團隊加分</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：研發追蹤技術速度快20%。
-            </li>
-          </ul>
-        </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -351,7 +297,7 @@
             <li>追蹤技術需要花費50食物。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aoe">最後可汗</nuxt-link></em>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
             <li>移除追蹤技術，改為各文明升級封建時代後自動擁有。</li>
@@ -402,29 +348,14 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">研發於</td>
-            <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Barracks-logo.jpg"
-                alt=""
-              /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">研發時間</td>
-            <td class="unit4">35秒</td>
-          </tr>
-          <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
-            <td class="unit3">
-              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            <td colspan="2" class="unit3">
+              無。升級封建時代後自動擁有
             </td>
-            <td class="unit4">50</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
