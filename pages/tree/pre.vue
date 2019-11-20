@@ -528,7 +528,7 @@
                 width="30"
                 alt=""
               />
-              <div><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link></div>
+              <div><nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
             <td class="t13 trm"></td>

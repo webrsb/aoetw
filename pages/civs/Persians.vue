@@ -66,14 +66,7 @@
               >與三級遠程攻擊，面對垃圾海的消耗戰，顯然吃不消。
             </li>
             <li>
-              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-              ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
-              ><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>，讓<nuxt-link
-                to="/building/Castle"
-                >城堡</nuxt-link
-              >對於<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >有了更好的防禦力。<nuxt-link to="/techs/age/Imperial_Age"
-                >帝王時代</nuxt-link
+              <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >的特殊科技為<nuxt-link to="/techs/Mahouts">象伕</nuxt-link
               >，這個<nuxt-link to="/techs">科技</nuxt-link
               >則減輕了戰象最大的弱點：緩慢的移動速度。
@@ -97,8 +90,9 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              /><nuxt-link to="/techs/">波斯步弓手</nuxt-link
-              >：訓練徒步弓兵系消耗額外木材，而不消耗黃金。
+              /><nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link
+              >：訓練徒步<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
+              >消耗額外木材，而不消耗黃金。
             </li>
             <li>
               <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
@@ -505,6 +499,51 @@
                 </p>
               </div>
             </div>
+          </div>
+          <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                只有精銳戰象可以有<nuxt-link to="/elements/Area_of_Effect"
+                  >踐踏傷害</nuxt-link
+                >。
+              </li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>戰象和精銳戰象都可以有踐踏傷害。</li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                <nuxt-link to="/building/Dock">碼頭</nuxt-link>與<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
+                >的工作速度(生產速度與研發速度)於<nuxt-link
+                  to="/techs/age/Dark_Age"
+                  >黑暗時代</nuxt-link
+                >+5%
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>被<nuxt-link
+                  to="/techs/Kamandaran"
+                  >波斯弓兵</nuxt-link
+                >取代。波斯弓兵(200F, 200G)訓練徒步<nuxt-link
+                  to="/units/Archer_Units"
+                  >弓兵系</nuxt-link
+                >消耗額外木材，而不消耗黃金。
+              </li>
+            </ul>
           </div>
         </div>
       </div>
