@@ -652,6 +652,14 @@
               >最初給予矛象伕+30HP，5.7版後增加為+50HP。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              攻擊力由16調降為14
+            </li>
+          </ul>
         </div>
         <h3>豆知識</h3>
         <div class="hrn1"></div>
@@ -815,7 +823,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">16(近戰)</td>
+            <td class="unit4">14(近戰)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>

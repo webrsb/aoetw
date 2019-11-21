@@ -122,6 +122,18 @@
             “雖然古典社會推動解剖學和生理學的研究，但在18世紀和19世紀的科學和工業革命之前，醫學是建立在實踐知識基礎之上的一種不精確的科學，首先是藉由口頭傳統和書面記錄傳遞經驗上累積的治療方法和程序。治療的主要媒介是草藥，通過實驗發現了具有療效的草藥化合物的應用，在中世紀的城鎮或村莊中草藥專家的出現對居民是一種福音。”
           </p>
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              回復力由4倍提升為6倍
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -192,7 +204,7 @@
             <td class="unit3">影響</td>
             <td class="unit4">
               可讓駐紮在<nuxt-link to="/building">建築物</nuxt-link
-              >內的單位回復力提升至四倍
+              >內的單位回復力提升至6倍
             </td>
           </tr>
         </table>

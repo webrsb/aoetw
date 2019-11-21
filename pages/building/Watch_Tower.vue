@@ -534,6 +534,14 @@
               125S → 50W 125S
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              生命值由1020減為700
+            </li>
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -620,7 +628,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
             </td>
-            <td class="unit4">1020</td>
+            <td class="unit4">700</td>
           </tr>
           <tr>
             <td class="unit3">

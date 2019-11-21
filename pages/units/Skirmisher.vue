@@ -580,6 +580,12 @@
               >會影響戰矛兵，4.8版本後移除。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>升級精銳戰矛兵成本增加為230W/130G。</li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
@@ -796,7 +802,7 @@
                 class="gg"
                 src="~assets/Elite-skirmisher-research.jpg"
                 alt=""
-              />200木材100黃金
+              />230木材130黃金
             </td>
           </tr>
           <tr>

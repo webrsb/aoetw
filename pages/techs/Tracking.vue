@@ -281,6 +281,7 @@
             <td class="tta4">+177%，+177%</td>
           </tr>
         </table>
+
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">

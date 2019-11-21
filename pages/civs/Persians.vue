@@ -532,8 +532,6 @@
                   >黑暗時代</nuxt-link
                 >+5%
               </li>
-            </ul>
-            <ul>
               <li>
                 <nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>被<nuxt-link
                   to="/techs/Kamandaran"
@@ -599,7 +597,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
                 to="/techs/"
-                >波斯步弓手</nuxt-link
+                >波斯弓兵</nuxt-link
               ><br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
                 to="/techs/Mahouts"

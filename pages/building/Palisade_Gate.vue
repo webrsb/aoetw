@@ -114,6 +114,37 @@
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：木門便宜50%</li>
           </ul>
+          <h3>圖庫</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="180"
+                  src="~assets/Palisadegate.jpg"
+                  alt=""
+              /></gallery>
+              <div class="lightbox-caption" style="width:220px">
+                <p><em>木門和木牆。</em></p>
+              </div>
+            </div>
+          </div>
+          <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                成本由20W調整為30W
+              </li>
+              <li>
+                建造期間的護甲減少為0/0
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
@@ -168,7 +199,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">20</td>
+            <td class="unit4">30</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
@@ -211,24 +242,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由Wun和賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="180"
-                src="~assets/Palisadegate.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>木門和木牆。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

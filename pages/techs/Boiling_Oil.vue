@@ -16,7 +16,7 @@
             >對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車系</nuxt-link
             >的傷害+9。此科技於《<nuxt-link to="/games/de">
               世紀帝國II：決定版 </nuxt-link
-            >》移除，由<nuxt-link to="/techs/Kamandaran">波斯步弓手</nuxt-link
+            >》移除，由<nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link
             >取代之。
           </p>
         </div>

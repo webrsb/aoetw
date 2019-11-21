@@ -922,7 +922,7 @@
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">350G</td>
-              <td class="tunitc6">駐紮單位自身治療速度變為4倍。</td>
+              <td class="tunitc6">駐紮單位自身治療速度變為6倍。</td>
             </tr>
             <tr>
               <td class="tunitc6">

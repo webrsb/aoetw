@@ -110,7 +110,7 @@
                   src="~assets/Herbalmedicine.png"
                   alt=""
                 /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
-                >:駐紮單位自身治療速度變為4倍。
+                >:駐紮單位自身治療速度變為6倍。
               </li>
               <li>
                 <img class="gg" src="~assets/Heresy.png" alt="" /><nuxt-link

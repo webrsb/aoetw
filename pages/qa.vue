@@ -27,7 +27,7 @@
             >Age of Empires II: HD</span
           >
           改為
-          <span class="badge badge-secondary text-wrap" style="width: 6rem;"
+          <span class="badge badge-secondary text-wrap" style="width: 7rem;"
             >Age of Empires II (2013)</span
           >
           以下統稱為《世紀帝國II (2013)》
@@ -225,9 +225,6 @@
               <div class="rounded d-block bg-info text-white">
                 《世紀帝國II：決定版》
               </div>
-              <p class="font-italic">
-                以下皆為11/15前預購優惠, 11/15上市後會不會變回原價不知道
-              </p>
               <p>
                 Q1:
                 是否已擁有《世紀帝國一代：決定版》或想一起購買《世紀帝國一代：決定版》?<br />
@@ -263,16 +260,7 @@
                   href="https://store.steampowered.com/app/813780"
                   target="_blank"
                   >直接到Steam商店購買決定版</a
-                >。另外，許多有購買2013版的人
-                都有這個-25%的折價卷可以找人贈送給你,
-                就可以純購買決定版一樣有優惠, 需注意有效期限至
-                11/15。若找不到人贈送, 可以到<a
-                  href=" https://discord.gg/ymNuMVg"
-                  target="_blank"
-                >
-                  詢問</a
-                >
-                。<br /><img width="180" src="../assets/de_coupon.png" />
+                >。
               </p>
 
               <div class="rounded d-block bg-info text-white">
@@ -368,6 +356,13 @@
               <p>
                 最低配備: 需要 64 位元的處理器<br />
                 作業系統: <b class="text-danger">Windows 10 64bit</b><br />
+                ∟<em
+                  >若要在 Windows 7 遊玩，<a
+                    target="_blank"
+                    href="https://forum.gamer.com.tw/C.php?bsn=1122&snA=14941"
+                    >請參考</a
+                  ></em
+                ><br />
                 處理器: Intel Core 2 Duo or AMD Athlon 64x2 5600+<br />
                 記憶體: 4 GB 記憶體<br />
                 顯示卡: NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850<br />
@@ -379,7 +374,7 @@
                 《世紀帝國II (2013)》
               </div>
               <p>
-                最低配備：作業系統：Windows Vista, 7, 8 Pro+<br />
+                最低配備：作業系統 Windows Vista, 7, 8 Pro+<br />
                 處理器：1.2GHZ CPU<br />
                 記憶體：1 GB RAM<br />
                 顯示卡：相容 Direct X 9.0c 的顯示晶片DirectX® 版本：9.0c<br />

@@ -41,12 +41,12 @@
               >
             </td>
             <td class="tunitc4">封建</td>
-            <td class="tunitc5">50F</td>
+            <td class="tunitc5">免費</td>
             <td class="tunitc6">
               <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>+2<nuxt-link
                 to="/elements/Line_of_Sight"
                 >視野</nuxt-link
-              >
+              >。
             </td>
           </tr>
           <tr>
@@ -279,7 +279,7 @@
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">350G</td>
-            <td class="tunitc6">駐紮單位自身治療速度變為4倍。</td>
+            <td class="tunitc6">駐紮單位自身治療速度變為6倍。</td>
           </tr>
           <tr>
             <td class="tunitc6">
