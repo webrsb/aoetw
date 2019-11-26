@@ -43,7 +43,7 @@
             <li>紙幣花費800食物，200黃金</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/de">王者崛起</nuxt-link></em>
+            <em>決定版</em>
           </h3>
           <ul>
             <li>紙幣花費500食物，300木材</li>
