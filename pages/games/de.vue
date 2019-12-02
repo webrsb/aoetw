@@ -43,17 +43,26 @@
               世紀帝國II HD版及所有擴充版都包含在決定版中。
             </li>
             <li>
-              新圖像與效果，包括<nuxt-link to="/building">建築物</nuxt-link
-              >倒塌時的動畫。
+              會有挑戰<nuxt-link to="/batt">戰役</nuxt-link
+              >教導玩家如何誘殺<nuxt-link to="/units/animal/Wild_Boar"
+                >野豬</nuxt-link
+              >或設定建築清單。
             </li>
             <li>
-              音軌重製。
+              <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link>和<nuxt-link
+                to="/civs/Spanish"
+                >西班牙人</nuxt-link
+              >的建築物現在使用歐洲地中海的模板。<br>
+              越南使用東南亞的模板。
             </li>
             <li>
-              有提供老玩家們切換的選項(未知)。
+              各種種族的國徽。
             </li>
             <li>
-              <nuxt-link to="/building/Farm">農田</nuxt-link>自動補種系統。
+              支援在Steam和Windows Store兩個平台共同對戰遊玩。
+            </li>
+            <li>
+              世紀之戰遊戲模式。
             </li>
             <li>
               在螢幕上方中間，您可以看到任何<nuxt-link
@@ -67,66 +76,84 @@
               >物也會顯示它們正在創建的單元的進度條。
             </li>
             <li>
-              訓練中的<nuxt-link to="/units">單位</nuxt-link>和<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
-              >研發可以同時在上方排程內看到。
-            </li>
-            <li>
-              科技研發的進度條會顯示出來。正在研發科技的建築會顯示出視覺特效（尚未完成）
-            </li>
-            <li>
-              可放大縮小畫面。
-            </li>
-            <li>
-              會有挑戰<nuxt-link to="/batt">戰役</nuxt-link
-              >教導玩家如何誘殺<nuxt-link to="/units/animal/Wild_Boar"
-                >野豬</nuxt-link
-              >或設定建築清單。
-            </li>
-            <li>
-              多人遊戲有新的伺服器。
-            </li>
-            <li>
-              現在有不作弊的AI，並且設立新的電腦難度:極端。
-            </li>
-            <li>
-              在頂端的資源欄下方會顯示各種資源的工作<nuxt-link
-                to="/units/Villager"
-                >村民</nuxt-link
-              >數量。
-            </li>
-            <li>
               改進及重新設計舊戰役，某些<nuxt-link to="/civs">文明</nuxt-link
               >現在被HD版文明（例如<nuxt-link to="/civs/Italians"
                 >義大利人</nuxt-link
               >）替換更新。
             </li>
             <li>
-              <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link>和<nuxt-link
-                to="/civs/Spanish"
-                >西班牙人</nuxt-link
-              >的建築物現在使用歐洲地中海的模板。
-            </li>
-            <li>
-              常用的模組，如矮樹叢模組及網格模組依然可用。
-            </li>
-            <li>
-              可能可以透過<a
-                href="https://www.ageofempires.com/mods"
-                target="_blank"
-                >Age of Empires web</a
-              >修改模組。
-            </li>
-            <li>
-              新的單位和物體，並重新設計一些舊的（p.e“海上圍牆”）。
-            </li>
-            <li>
               改善觀戰模式和多人遊戲模式以及串流功能。
             </li>
             <li>
-              支援在Steam和Windows Store兩個平台共同對戰遊玩。
+              手動改變城門建造方向(用滑鼠滾輪)。
             </li>
+            <li>
+              訓練中的<nuxt-link to="/units">單位</nuxt-link>和<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >研發可以同時在上方排程內看到。
+            </li>
+            <li>
+              可以透過<a
+                href="https://www.ageofempires.com/mods"
+                target="_blank"
+                >Age of Empires web</a
+              >或直接在遊戲設定中修改訂閱模組。
+            </li>
+            <li>
+              現在有不作弊的AI，並且設立新的電腦難度:極端。
+            </li>
+            <li>主選單新功能
+            <ol>
+              <li>。</li>
+              <li>。</li>
+              <li>。</li>
+              <li>。</li>
+              <li>。</li>
+            </ol>
+            </li>
+            ---------------------------------------------20191202修改位置
+            <li>
+              新圖像與效果，包括<nuxt-link to="/building">建築物</nuxt-link
+              >倒塌時的動畫。
+            </li>
+            <li>
+              音軌重製。
+            </li>
+            <li>
+              有提供老玩家們切換的選項(未知)。
+            </li>
+            <li>
+              <nuxt-link to="/building/Farm">農田</nuxt-link>自動補種系統。
+            </li>
+            
+            
+            <li>
+              科技研發的進度條會顯示出來。正在研發科技的建築會顯示出視覺特效（尚未完成）
+            </li>
+            <li>
+              可放大縮小畫面。
+            </li>
+            
+            <li>
+              多人遊戲有新的伺服器。
+            </li>
+            
+            <li>
+              在頂端的資源欄下方會顯示各種資源的工作<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >數量。
+            </li>
+          
+            <li>
+              常用的模組，如矮樹叢模組及網格模組依然可用。
+            </li>
+            
+            <li>
+              新的單位和物體，並重新設計一些舊的（p.e“海上圍牆”）。
+            </li>
+                       
           </ul>
         </div>
 
