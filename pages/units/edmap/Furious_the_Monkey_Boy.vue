@@ -19,6 +19,9 @@
             狂猴不能乘坐<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >。
           </p>
+          <p>
+            如果狂猴是蓋亞的單位時，無法像其他蓋亞單位被馴化。
+          </p>
         </div>
         <h3>外觀</h3>
         <div class="hrn1"></div>
