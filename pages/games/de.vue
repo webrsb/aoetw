@@ -178,12 +178,12 @@
               >:庫曼與韃靼於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
             </li>
             <li>
-              <strong>草原槍兵</strong
-              >:庫曼與韃靼於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
+              <strong>索洛托勇士</strong
+              >:騎馬的豹勇士，類似一般騎士，印加與阿茲特克招降敵方馬廄後才能生產的特殊單位。
             </li>
           </ul>
         </div>
-                    ---------------------------------------------20191203修改位置
+
         <h5>特殊單位</h5>
         <div class="n1">
           <ul>
@@ -202,7 +202,49 @@
             </li>
           </ul>
         </div>
-        <h4>建築</h4>
+        <h5>動物</h5>
+        <div class="n1">
+          <ul>
+            <li><strong>豬</strong>(可訓養)</li>
+            <li><strong>鵝</strong>(可訓養)</li>
+            <li><strong>乳牛/strong>(可訓養，分ABCD四種)</li>
+            <li><strong>野山羊</strong>(可獵捕)</li>
+            <li><strong>馬/strong>(分ABCDE五種)</li>
+            <li><strong>雙峰駱駝</strong></li>
+            <li><strong>野生雙峰駱駝</strong></li>
+            <li><strong>雪豹</strong>(具攻擊性)</li>
+          </ul>
+        </div>
+        <h5>英雄</h5>
+        <div class="n1">
+          <ul>
+            <li><strong>哥德人亞拉里克</strong></li>
+            <li><strong>阿陶爾夫</strong></li>
+            <li><strong>康斯坦丁沙皇</strong></li>            
+          </ul>
+        </div>
+        <h5>其他</h5>
+        <div class="n1">
+          <ul>
+            <li><strong>火焰駱駝</strong></li>
+            <li><strong>牛戰車</strong></li>
+            <li><strong>牛推車</strong></li> 
+            <li><strong></strong></li>
+            <li><strong>可汗</strong></li>
+            <li><strong>商人</strong></li>  
+            <li><strong>忍者</strong></li>
+            <li><strong>易洛揆戰士</strong></li>
+            <li><strong>Mounted Samurai</strong></li>  
+            <li><strong>城鎮中心(組裝)</strong></li>
+          </ul>
+        </div>
+        <h5>作弊單位</h5>
+        <div class="n1">
+          <ul>
+            <li><strong>照相手</strong></li>           
+          </ul>
+        </div>
+        <h3>建築</h3>
         <div class="n1">
           <ul>
             <li>
@@ -211,20 +253,17 @@
             </li>
           </ul>
         </div>
-        <h4>動物</h4>
+        
+        <h5>未知</h5>
         <div class="n1">
           <ul>
-            <li><strong>豬</strong>(可訓養，名字還未確定)</li>
-            <li><strong>山羊</strong>(可獵捕，名字還未確定)</li>
-          </ul>
-        </div>
-        <h4>未知</h4>
-        <div class="n1">
-          <ul>
-            <li><strong>大型牛車</strong>(名字未發布)</li>
-            <li><strong>小型牛車</strong>(名字未發布)</li>
-            <li><strong>運貨駱駝</strong>(名字未發布)</li>
-            <li><strong>戰車</strong>(名字未發布)</li>
+            <li><strong>Shrine</strong></li>
+            <li><strong>倫敦塔</strong></li>
+            <li><strong>聖母安息主教座堂</strong></li>
+            <li><strong>Paifang Gate</strong></li>
+            <li><strong>桑科雷穆斯林學墊</strong></li>
+            <li><strong>大教堂</strong></li>
+            <li><strong>磐石教堂</strong></li>
           </ul>
         </div>
         <h3>科技</h3>
@@ -241,19 +280,18 @@
         <h5>特殊科技</h5>
         <div class="n1">
           <ul>
-            <li>
-              <strong>絲護甲</strong>:韃靼特殊科技。斥侯系和馬弓騎兵遠程護甲+1。
-            </li>
-            <li>
-              <strong>帖木兒攻城術</strong>:韃靼特殊科技。巨型投石機射程+1。
-            </li>
-            <li>
-              <strong>馬鐙</strong
-              >:保加利亞特殊科技。斥侯系與保加利亞騎兵攻擊速度+25%。
-            </li>
+            <li><strong>絲護甲</strong>:韃靼特殊科技。斥侯系和馬弓騎兵遠程護甲+1。</li>
+            <li><strong>絲護甲</strong>:韃靼特殊科技。斥侯系和馬弓騎兵遠程護甲+1。</li>
+            <li><strong>帖木兒攻城術</strong>:韃靼特殊科技。巨型投石機射程+1。</li>
+            <li><strong>帖木兒攻城術</strong>:韃靼特殊科技。巨型投石機射程+1。</li>
+            <li><strong>馬鐙</strong>:保加利亞特殊科技。斥侯系與保加利亞騎兵攻擊速度+25%。</li>
+            <li><strong>馬鐙</strong>:保加利亞特殊科技。斥侯系與保加利亞騎兵攻擊速度+25%。</li>
+            <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+3。</li>
+            <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+3。</li>
             <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+3。</li>
           </ul>
         </div>
+        ------------------------------20191204修改位置
         <h3>利益</h3>
         <div class="hrn1"></div>
         <h5>文明利益</h5>
