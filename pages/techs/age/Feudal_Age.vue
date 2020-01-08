@@ -446,6 +446,10 @@
                   <nuxt-link to="/civs/Malay">馬來</nuxt-link
                   >：研究封建時代速度快80。
                 </li>
+                <li>
+                  <nuxt-link to="/civs/Persian">波斯</nuxt-link
+                  >：研究封建時代速度快5%。
+                </li>
               </ul>
               <h3>戰術</h3>
               <div class="hrn1"></div>
