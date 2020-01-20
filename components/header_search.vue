@@ -41,8 +41,8 @@ export default {
   methods: {
     addInstantSearch() {
       window.docsearch({
-        apiKey: 'ffdf87071942648caf147e59d2a97368',
-        appId: 'VI0DDXCIA7',
+        apiKey: '6dafd30e17d18a8243b814b94ece126f',
+        appId: 'YDP87BGJ2G',
         indexName: 'aoetw',
         inputSelector: '#algolia',
         debug: true // Set debug to true if you want to inspect the dropdown

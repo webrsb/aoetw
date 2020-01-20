@@ -66,7 +66,7 @@ export default {
     updateTime() {
       var that = this
       axios
-        .get(`http://aoetw.com/getUpTime.php?path=${this.page}`)
+        .get(`http://aoetw.com/2013/getUpTime.php?path=${this.page}`)
         .then(res => {
           if (res.data === '') {
             that.upTime = ''

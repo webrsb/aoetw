@@ -7,7 +7,8 @@ export const state = () => ({
   chat: {
     show: false,
     text: ''
-  }
+  },
+  de_tip: true
 })
 
 export const mutations = {
@@ -16,5 +17,8 @@ export const mutations = {
   },
   setText (state, payload) {
     state.chat.text = payload
-  }
+  },
+  closeTip (state) {
+    state.de_tip = false
+  },
 }

@@ -1,7 +1,7 @@
 {
-  "name": "aoetw",
+  "name": "aoetw-2013",
   "version": "0.1.0",
-  "description": "完整、準確的世紀帝國百科全書",
+  "description": "完整、準確的世紀帝國百科全書2013版",
   "author": "leeci",
   "private": true,
   "scripts": {

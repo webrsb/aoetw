@@ -1,7 +1,7 @@
 <template>
   <b-navbar ref="navbar" toggleable="md" type="dark" variant="dark" sticky>
     <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-    <b-navbar-brand to="/">Aoetw</b-navbar-brand>
+    <b-navbar-brand to="/">Aoetw<sup>2013</sup></b-navbar-brand>
     <b-navbar-nav right>
       <b-nav-form>
         <header_search />
