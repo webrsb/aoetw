@@ -1,7 +1,7 @@
 <template>
   <div class="article">
     <b-alert :show="show" dismissible @dismissed="close">
-      注意：您目前檢視的是已封存的2013版舊版資料，請 {{link}}
+      注意：您目前檢視的是已封存的2013版舊版資料，請
         <a :href="link"><b>點此</b></a> 進入<nuxt-link to="/games/de"
                   >決定版</nuxt-link>頁面。
     </b-alert>

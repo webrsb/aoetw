@@ -332,7 +332,7 @@ export default {
     },
     github_page() {
       return (
-        'https://github.com/webrsb/aoetw/blob/dev/pages/' +
+        'https://github.com/webrsb/aoetw/blob/aoe2013/pages/' +
         this.$route.query.page +
         '.vue'
       )
@@ -576,7 +576,7 @@ export default {
         let src = img_tags[key].getAttribute('src')
 
         if (src !== '') {
-          src = src.replace('~assets/', 'http://www.aoetw.com/aoe2013/img/')
+          src = src.replace('~assets/', 'http://www.aoetw.com/img/')
           img_tags[key].setAttribute('src', src)
         }
       }
