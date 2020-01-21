@@ -38,7 +38,7 @@
                 >／200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
-              <td class="tc2" width="5%">75→125</td>
+              <td class="tc2" width="5%">125</td>
             </tr>
           </table>
 
@@ -67,7 +67,7 @@
                 玩家2
               </td>
               <td class="tc6">
-                波蘭人（藍色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>→斯拉夫
+                波蘭人（藍色）<nuxt-link to="/civs/Slavs/">斯拉夫</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p3"></div>
@@ -97,7 +97,7 @@
             </dd>
             <dt>大地之母單位：</dt>
             <dd>
-              8位<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，1位憎侶。→精銳烈提斯，1位僧侶。
+              8位<nuxt-link to="/units/Konnik">精銳烈提司</nuxt-link>，1位僧侶。
             </dd>
           </dl>
           <h2>主要任務</h2>
@@ -119,14 +119,6 @@
           <ul>
             <li>
               千萬不要把你所有的石頭拿到市場上賣掉，因為你將會需要用到它。
-            </li>
-          </ul>
-                  <h2>決定版變更點</h2>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              人口上限由75改為125，波蘭種族改為斯拉夫人，大地之母的單位由哥德衛隊改為精銳烈提斯且科技全滿。
             </li>
           </ul>
           <h2>芝麻小事</h2>
@@ -153,6 +145,18 @@
               </li>
             </ul>
           </div>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              人口上限由75改為125，波蘭種族改為斯拉夫人，大地之母的單位由哥德衛隊改為精銳烈提司且科技全滿。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">
@@ -224,23 +228,24 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由裕暉，竺叡協助編輯</div>
-        <div class="wiki" style="margin-top: 5px;"></div>
-        <div style="float: left;">
-          <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
-        </div>
-        <div style="margin-left: 60px;">
-          維基百科上蒙古入侵波蘭的戰役資訊(英文)
-        </div>
-        <div style="margin-left: 10px;">
-          <em
-            ><strong
-              ><a
-                href="https://en.wikipedia.org/wiki/First_Mongol_invasion_of_Poland"
-                target="_blank"
-                >蒙古入侵波蘭</a
-              ></strong
-            ></em
-          >
+        <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
+          </div>
+          <div style="margin-left: 60px;">
+            維基百科上蒙古入侵波蘭的戰役資訊(英文)
+            <div style="margin-left: 10px;">
+              <em
+                ><strong
+                  ><a
+                    href="https://en.wikipedia.org/wiki/First_Mongol_invasion_of_Poland"
+                    target="_blank"
+                    >蒙古入侵波蘭</a
+                  ></strong
+                ></em
+              >
+            </div>
+          </div>
         </div>
       </div>
       <div class="row"></div>
