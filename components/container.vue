@@ -12,7 +12,7 @@ export default {
   methods: {
     redirect () {
       if (process.client) {
-        window.location.href = window.location.href.replace(/(?<=[^\/])\/((?<=$)|(?=[^\/]))/, '/2013/')
+        window.location.href = window.location.href.replace(/(.+\/\/.+?)\/(.*)/, '$1/2013/$2')
       }
     }
   }
