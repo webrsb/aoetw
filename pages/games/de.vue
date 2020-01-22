@@ -43,16 +43,9 @@
               世紀帝國II HD版及所有擴充版都包含在決定版中。
             </li>
             <li>
-              會有挑戰<nuxt-link to="/batt">戰役</nuxt-link
-              >教導玩家如何誘殺<nuxt-link to="/units/animal/Wild_Boar"
-                >野豬</nuxt-link
-              >或設定建築清單。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link>和<nuxt-link
-                to="/civs/Spanish"
-                >西班牙人</nuxt-link
-              >的建築物現在使用歐洲地中海的模板。<br>
+              地中海、東歐建築模版重新製作。<br>       
+              <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link>和<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
+              >的建築物現在使用歐洲地中海的模版。<br>
               越南使用東南亞的模板。
             </li>
             <li>
@@ -65,21 +58,8 @@
               世紀之戰遊戲模式。
             </li>
             <li>
-              在螢幕上方中間，您可以看到任何<nuxt-link
-                to="/armor/Armor_Class_Building"
-                >建築物</nuxt-link
-              >中正在生產的所有單元，您可以單擊直接進入該<nuxt-link
-                to="/building"
-                >建築</nuxt-link
-              >物。 當您點擊它們時，<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
-              >物也會顯示它們正在創建的單元的進度條。
-            </li>
-            <li>
-              改進及重新設計舊戰役，某些<nuxt-link to="/civs">文明</nuxt-link
-              >現在被HD版文明（例如<nuxt-link to="/civs/Italians"
-                >義大利人</nuxt-link
-              >）替換更新。
+              改進及重新設計舊戰役，某些<nuxt-link to="/civs">文明</nuxt-link>現在被HD版文明（例如<nuxt-link to="/civs/Italians"
+                >義大利人</nuxt-link>）替換更新。失落的帝國戰役增加旁白。
             </li>
             <li>
               改善觀戰模式和多人遊戲模式以及串流功能。
@@ -88,28 +68,15 @@
               手動改變城門建造方向(用滑鼠滾輪)。
             </li>
             <li>
-              訓練中的<nuxt-link to="/units">單位</nuxt-link>和<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
-              >研發可以同時在上方排程內看到。
-            </li>
-            <li>
-              可以透過<a
-                href="https://www.ageofempires.com/mods"
-                target="_blank"
-                >Age of Empires web</a
-              >或直接在遊戲設定中修改訂閱模組。
-            </li>
-            <li>
               現在有不作弊的AI，並且設立新的電腦難度:極端。
             </li>
             <li>主選單新功能
             <ol>
               <li>戰役以地理位置做分類。</li>
-              <li>戰役難度顯示於圖像旁(劍數越多越南!)。</li>
-              <li>歷史戰役區(包含征服者與失落的帝國戰役並重新命名)。</li>
-              <li>孫子兵法(學習進階遊戲技術，例如早期發展，繁榮帝國、快速達到城堡時代等)。</li>
-              
+              <li>戰役難度顯示於圖像旁(劍數越多越難!)。</li>
+              <li>歷史戰役區(包含征服者與失落的帝國戰役)。</li>
+              <li>孫子兵法(學習進階遊戲技術，例如早期發展，壯大帝國、快速達到城堡時代等)。</li>
+
             </ol>
             </li>
             <li>
@@ -117,10 +84,7 @@
               >倒塌時的動畫。
             </li>
             <li>
-              新戰役編輯器，新的遊戲情節觸發系統。
-            </li>
-            <li>
-              新多人遊戲伺服器。
+              新的單位和物體，並重新設計一些舊的（p.e“海上圍牆”）。
             </li>
             <li>音軌重製。
             <ol>
@@ -131,29 +95,28 @@
             </ol>
             </li>
             <li>
-              新的單位和物體，並重新設計一些舊的（p.e“海上圍牆”）。
+              新戰役編輯器，新的遊戲情節觸發系統。
+            </li>
+            <li>
+              新多人遊戲伺服器。
             </li>
             <li>
               科技研發的進度條會顯示出來。正在研發科技的建築會顯示出視覺特效（有光往上的感覺）
             </li>
             <li>
-              有提供老玩家們切換的選項。
+              在頂端的資源欄下方會顯示各種資源的工作<nuxt-link to="/units/Villager">村民</nuxt-link>數量。
+            </li>
+            <li>
+              會有挑戰<nuxt-link to="/batt">戰役</nuxt-link>教導玩家如何誘殺<nuxt-link to="/units/animal/Wild_Boar"
+                >野豬</nuxt-link>或設定建築清單。
             </li>
             <li>
               <nuxt-link to="/building/Farm">農田</nuxt-link>與漁網自動補種系統。
             </li>
             <li>
-              可放大縮小畫面。
+              可自動放大縮小畫面。
             </li>
-            <li>
-              在頂端的資源欄下方會顯示各種資源的工作<nuxt-link
-                to="/units/Villager"
-                >村民</nuxt-link
-              >數量。
-            </li>
-            <li>
-              常用的模組，如矮樹叢模組及網格模組依然可用。
-            </li>      
+            
           </ul>
         </div>
 
@@ -162,10 +125,16 @@
         <h3>文明</h3>
         <div class="n1">
           <ul>
-            <li><strong>保加利亞</strong>(東歐)</li>
-            <li><strong>立陶宛</strong>(東歐)</li>
-            <li><strong>庫曼</strong>(新中亞建築)</li>
-            <li><strong>韃靼</strong>(中亞)</li>
+            <li><strong>保加利亞</strong>(東歐):當游牧的保加利亞騎兵在7世紀到達多瑙河並遇到當地的斯拉夫部落時，
+            他們的到來從此改變了歐洲的騎兵作戰方式。用強大的堡壘加固附近的山口，並用強大的騎兵，步兵和攻城武器聯合部隊痛擊過度自信的侵略者！
+            您軍隊的驕傲，英勇的保加利亞騎兵，即使他們的馬匹已倒地不起，也將繼續無所畏懼地戰鬥。</li>
+            <li><strong>立陶宛</strong>(東歐):波羅的海以東的森林沼澤地比目測的實際上多更多。立陶宛用新宗教將波羅的海各部落凝聚成一個大公國，
+            並用強大的騎兵和機動長矛兵和javelineers對抗入侵者，並建立了中世紀晚期歐洲最大的帝國！
+            立陶宛獨特的重型騎兵部隊列提斯（Leitis）是一支攻擊力極強的軍隊，所有裝甲在他的武器前都毫無作用。</li>
+            <li><strong>庫曼</strong>(新中亞建築):廣闊的歐亞平原曾是游牧民族的家，游牧騎兵的強大和無情的侵略仍然存在於被侵略國家的記錄中。
+            您可以帶領庫曼-基普查克（Cuman-Kipchak）部落盡情發動戰爭，或向外國國王提供傭兵雇用服務。
+            當更大的威脅向東方襲來時，您是否會向西遷移學習鄰國過著安逸的生活，還是在不可阻擋的蒙古征服侵略朝中消失？</li>
+            <li><strong>韃靼</strong>(中亞):</li>
           </ul>
         </div>
         <h3>單位</h3>
@@ -174,12 +143,10 @@
         <div class="n1">
           <ul>
             <li>
-              <strong>草原槍兵</strong
-              >:庫曼與韃靼於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
+              <strong>草原槍兵</strong>:庫曼與韃靼於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
             </li>
             <li>
-              <strong>索洛托勇士</strong
-              >:騎馬的豹勇士，類似一般騎士，印加與阿茲特克招降敵方馬廄後才能生產的特殊單位。
+              <strong>索洛托勇士</strong>:騎馬的豹勇士，類似一般騎士，只有印加與阿茲特克招降敵方馬廄後才能生產的特殊單位。
             </li>
           </ul>
         </div>
@@ -188,14 +155,13 @@
         <div class="n1">
           <ul>
             <li>
-              <strong>保加利亞騎兵</strong
-              >:保加利亞特殊單位。平常為重騎兵單位被擊殺後會下馬變成重裝步兵單位(不須額外費用)。
+              <strong>保加利亞騎兵</strong>:保加利亞特殊單位。平常為重騎兵單位被擊殺後會下馬變成重裝步兵單位(不須額外費用)。
             </li>
             <li>
               <strong>烈提司</strong>:立陶宛特殊騎兵單位，攻擊可無視護甲值。
             </li>
             <li>
-              <strong>欽察騎射手</strong>:庫曼特殊馬弓騎兵單位，可射出多發箭矢。
+              <strong>欽察騎射手</strong>:庫曼特殊馬弓騎兵單位，一次攻擊可射出多發箭矢。
             </li>
             <li>
               <strong>蒙古騎射手</strong>:韃靼特殊騎兵單位，攻擊時可得到額外黃金。
@@ -207,12 +173,13 @@
           <ul>
             <li><strong>豬</strong>(可訓養)</li>
             <li><strong>鵝</strong>(可訓養)</li>
-            <li><strong>乳牛/strong>(可訓養，分ABCD四種)</li>
+            <li><strong>乳牛/strong>(可訓養，有四種)</li>
             <li><strong>野山羊</strong>(可獵捕)</li>
             <li><strong>馬/strong>(分ABCDE五種)</li>
             <li><strong>雙峰駱駝</strong></li>
             <li><strong>野生雙峰駱駝</strong></li>
             <li><strong>雪豹</strong>(具攻擊性)</li>
+            <li><strong>蝴蝶/strong>(可訓養，有三種)</li>
           </ul>
         </div>
         <h5>英雄</h5>
@@ -229,12 +196,12 @@
             <li><strong>火焰駱駝</strong></li>
             <li><strong>牛戰車</strong></li>
             <li><strong>牛推車</strong></li> 
-            <li><strong></strong></li>
+            <li><strong>Sosso Guard</strong></li>
             <li><strong>可汗</strong></li>
             <li><strong>商人</strong></li>  
             <li><strong>忍者</strong></li>
             <li><strong>易洛揆戰士</strong></li>
-            <li><strong>Mounted Samurai</strong></li>  
+            <li><strong>馬騎武士</strong></li>  
             <li><strong>城鎮中心(組裝)</strong></li>
           </ul>
         </div>
@@ -248,8 +215,7 @@
         <div class="n1">
           <ul>
             <li>
-              <strong>堡壘</strong
-              >:保加利亞特殊建築。可於城堡時代建造生產保加利亞騎兵的小城堡，但無法研發科技。
+              <strong>堡壘</strong>:保加利亞特殊建築。可於城堡時代建造並生產保加利亞騎兵的小城堡，但無法研發科技。
             </li>
           </ul>
         </div>
@@ -272,8 +238,7 @@
         <div class="n1">
           <ul>
             <li>
-              <strong>供給</strong>:150F 100G
-              民兵系成本-15食物，除哥德之外所有文明皆有。
+              <strong>供給</strong>:150肉 100金，民兵系成本-15食物，除哥德之外所有文明皆有。
             </li>
           </ul>
         </div>
@@ -281,17 +246,72 @@
         <div class="n1">
           <ul>
             <li><strong>絲護甲</strong>:韃靼特殊科技。斥侯系和馬弓騎兵遠程護甲+1。</li>
-            <li><strong>絲護甲</strong>:韃靼特殊科技。斥侯系和馬弓騎兵遠程護甲+1。</li>
             <li><strong>帖木兒攻城術</strong>:韃靼特殊科技。巨型投石機射程+1。</li>
-            <li><strong>帖木兒攻城術</strong>:韃靼特殊科技。巨型投石機射程+1。</li>
-            <li><strong>馬鐙</strong>:保加利亞特殊科技。斥侯系與保加利亞騎兵攻擊速度+25%。</li>
-            <li><strong>馬鐙</strong>:保加利亞特殊科技。斥侯系與保加利亞騎兵攻擊速度+25%。</li>
-            <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+3。</li>
-            <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+3。</li>
-            <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+3。</li>
+            <li><strong>馬鐙</strong>:保加利亞特殊科技。斥侯系與保加利亞騎兵(騎馬狀態)的攻擊速度+25%。</li>
+            <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+5。</li>
+            <li><strong>大草原耕種技術</strong>:庫曼特殊科技。斥侯系和馬弓騎兵訓練速度提升至400%(遊戲內寫80%為誤植)。</li>            
+            <li><strong>庫曼傭兵</strong>:庫曼特殊科技。隊伍成員能在城堡免費訓練10名精銳欽察。</li>
+            <li><strong>山城堡</strong>:立陶宛特殊科技。城鎮中心射程+3。</li>
+            <li><strong>塔盾</strong>:立陶宛特殊科技。長槍兵系和矛兵系的遠程護甲+1。</li>
+            <li><strong>波斯弓兵</strong>:波斯特殊科技。生產弓兵系額外消耗25木材而不消耗黃金。</li>
           </ul>
         </div>
-        ------------------------------20191204修改位置
+
+        <h3>戰役</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
+          </p>
+          <li>
+              帖木兒(韃靼):十四世紀，蒙古四分五裂，疆土不斷被蠶食瓜分，帖木兒卻把這一切視為機遇。這位才華出眾，個人魅力十足的軍事家，
+              能否在這動盪的河中地區，即使犧牲半數的蒙古人，也能重現蒙古帝國昔日的輝煌呢?
+            </li>
+          <ul>
+            <li>
+              伊瓦伊洛(保加利亞):在蒙古人入侵時，一個保加利亞的養豬農夫率領著一支民兵隊伍，保住了家園，這次勝利讓沙皇和貴族們感到不安，
+              他被迫扛起起義的大旗。這樣一個出身卑微的人能否違抗既定的秩序，為人們帶來自由呢?
+            </li> 
+            <li>
+              可泰安汗(庫曼):幾個世紀以來，庫曼人在歐亞大陸廣闊的平原上繁衍生息。然而現在，蒙古人從東方而來，威脅著他們，蒙古鐵騎無情，不可戰勝。
+              作為一個小部落的可汗，可泰安必須團結庫曼人來抵抗這些入侵者。他是否會願意放棄自己祖祖輩輩生活的土地，放棄自己古老的傳統，拯救自己的人民呢?
+            </li>
+            <li>
+              帕查庫特克(印加):在南美州陡峭的山谷和茂密的叢林中，有無數的部落正在爭奪霸主之位。究竟誰能得到眾神垂青，一舉勝出呢?
+              背叛、紛爭一直都在侵蝕著新建立不久的印加帝國，現在整個民族的命運都掌握在一人手中。
+            </li>
+            <li>
+              孫子兵法(挑戰戰役):揭開孫子對於戰術的研究，並在一系列的簡短挑戰中演練您的Age of Empires II戰技。在各個挑戰中，您要竭盡全力爭取勳章，
+              並向好友及敵人證明您的實力。
+            </li>
+          </ul>
+        </div>
+
+       <h2>重製的戰役和歷史場景</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+        <h3>戰役</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>阿拉里克(歌德)</li>
+            <li>巴里(拜占庭)</li>
+            <li>德古拉(馬札爾/斯拉夫/土耳其，特別是"火龍展翅"和"撥雲見月"這兩個改動最多。)</li>
+            <li>阿拉里克(歌德)</li>
+            <li>阿拉里克(歌德)</li>
+            <li>阿拉里克(歌德)</li>
+          </ul>
+        </div>
+        <h3>歷史場景</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>阿拉里克(歌德)</li>
+            <li>阿拉里克(歌德)</li>
+            <li>阿拉里克(歌德)</li>
+          </ul>
+        </div>
+        </div>
         <h3>利益</h3>
         <div class="hrn1"></div>
         <h5>文明利益</h5>
@@ -314,25 +334,7 @@
             <li><strong>保加利亞</strong>:兵工廠工作效率+50%。</li>
           </ul>
         </div>
-        <h3>戰役</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <p>
-            <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
-          </p>
-          <ul>
-            <li>
-              伊瓦伊洛 (保加利亞)
-            </li>
-            <li>
-              帖木兒(韃靼)
-            </li>
-            <li>
-              科滕·汗(庫曼)
-            </li>
-          </ul>
-        </div>
-
+        
         <h2>修改項目</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -392,7 +394,7 @@
           </div>
         </div>
       </div>
-
+        ------------------------------20191204修改位置
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
