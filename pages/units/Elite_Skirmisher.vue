@@ -734,8 +734,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +5對<nuxt-link to="/armor/Armor_Class_Archer">弓箭手</nuxt-link
-              ><br />+4對<nuxt-link to="/armor/Armor_Class_Spearman"
+              +4對<nuxt-link to="/armor/Armor_Class_Archer">弓箭手</nuxt-link
+              ><br />+3對<nuxt-link to="/armor/Armor_Class_Spearman"
                 >槍兵類</nuxt-link
               >
               <br />+2對<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
