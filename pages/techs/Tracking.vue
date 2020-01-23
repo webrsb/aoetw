@@ -8,15 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>追蹤技術</b>於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>追蹤技術</b>可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >自動擁有。所有的<nuxt-link to="/units/Infantry_Units"
+            >在軍營中研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>+2。
           </p>
+          <p>
+            在《世紀帝國II:決定版》中移除了追蹤技術，改為所有文明只要升級到封建時代就會自動擁有該技術效果
+          </p>
         </div>
         <h3>受影響的單位</h3>
-        <div class="hrn1"></div>
+        <div class="hrn1">
         <div class="n1"><p>下面列出所有受追蹤技術影響的單位。</p></div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
@@ -281,7 +284,7 @@
             <td class="tta4">+177%，+177%</td>
           </tr>
         </table>
-
+        </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -346,6 +349,16 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">研發於</td>
+            <td class="unit4">
+              <img
+                class="gg"
+                src="~assets/Barracks-logo.jpg"
+                alt=""
+              /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
             </td>
           </tr>
           <tr>
