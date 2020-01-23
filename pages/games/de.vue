@@ -138,7 +138,7 @@
           </ul>
         </div>
         <h3>單位</h3>
-        <div class="hrn1"></div>
+        <div class="n1"></div>
         <h5>一般單位</h5>
         <div class="n1">
           <ul>
@@ -161,10 +161,10 @@
               <strong>烈提司</strong>:立陶宛特殊騎兵單位，攻擊可無視護甲值。
             </li>
             <li>
-              <strong>欽察騎射手</strong>:庫曼特殊馬弓騎兵單位，一次攻擊可射出多發箭矢。
+              <strong>欽察</strong>:庫曼特殊馬弓騎兵單位，一次攻擊可射出多發箭矢。
             </li>
             <li>
-              <strong>蒙古騎射手</strong>:韃靼特殊騎兵單位，攻擊時可得到額外黃金。
+              <strong>怯薛</strong>:韃靼特殊騎兵單位，攻擊時可得到額外黃金。
             </li>
           </ul>
         </div>
@@ -173,13 +173,13 @@
           <ul>
             <li><strong>豬</strong>(可訓養)</li>
             <li><strong>鵝</strong>(可訓養)</li>
-            <li><strong>乳牛/strong>(可訓養，有四種)</li>
+            <li><strong>乳牛</strong>(可訓養，有四種)</li>
             <li><strong>野山羊</strong>(可獵捕)</li>
-            <li><strong>馬/strong>(分ABCDE五種)</li>
+            <li><strong>馬</strong>(分ABCDE五種)</li>
             <li><strong>雙峰駱駝</strong></li>
             <li><strong>野生雙峰駱駝</strong></li>
             <li><strong>雪豹</strong>(具攻擊性)</li>
-            <li><strong>蝴蝶/strong>(可訓養，有三種)</li>
+            <li><strong>蝴蝶</strong>(可訓養，有三種)</li>
           </ul>
         </div>
         <h5>英雄</h5>
@@ -233,7 +233,7 @@
           </ul>
         </div>
         <h3>科技</h3>
-        <div class="hrn1"></div>
+        <div class="n1"></div>
         <h5>一般科技</h5>
         <div class="n1">
           <ul>
@@ -258,16 +258,16 @@
         </div>
 
         <h3>戰役</h3>
-        <div class="hrn1"></div>
+        <div class="n1"></div>
         <div class="n1">
           <p>
             <em>主要文章:<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
-          <li>
+          <ul>
+            <li>
               帖木兒(韃靼):十四世紀，蒙古四分五裂，疆土不斷被蠶食瓜分，帖木兒卻把這一切視為機遇。這位才華出眾，個人魅力十足的軍事家，
               能否在這動盪的河中地區，即使犧牲半數的蒙古人，也能重現蒙古帝國昔日的輝煌呢?
             </li>
-          <ul>
             <li>
               伊瓦伊洛(保加利亞):在蒙古人入侵時，一個保加利亞的養豬農夫率領著一支民兵隊伍，保住了家園，這次勝利讓沙皇和貴族們感到不安，
               他被迫扛起起義的大旗。這樣一個出身卑微的人能否違抗既定的秩序，為人們帶來自由呢?
@@ -288,10 +288,10 @@
         </div>
 
        <h3>重製的戰役和歷史場景</h3>
-        <div class="hrn1"></div>
+        <div class="n1"></div>
         <div class="n1">
-        <h4>戰役</h4>
-        <div class="hrn1"></div>
+        <h5>戰役</h5>
+        <div class="n1"></div>
         <div class="n1">
           <ul>
             <li>阿拉里克(歌德)</li>
@@ -302,8 +302,8 @@
             <li>斯福爾扎(義大利)</li>
           </ul>
         </div>
-        <h4>歷史場景</h4>
-        <div class="hrn1"></div>
+        <h5>歷史場景</h5>
+        <div class="n1"></div>
         <div class="n1">
           <ul>
             <li>巴菲烏斯(土耳其)</li>
@@ -313,10 +313,10 @@
         </div>
         </div>
         <h3>地圖編輯器改動項目</h3>
-        <div class="hrn1"></div>
+        <div class="n1"></div>
         <div class="n1">
-        <h4>新觸發情況</h4>
-        <div class="hrn1"></div>
+        <h5>新觸發情況</h5>
+        <div class="n1"></div>
         <div class="n1">
           <ul>
             <li>外交狀態</li>
@@ -329,8 +329,8 @@
             
           </ul>
         </div>
-        <h4>新觸發效果</h4>
-        <div class="hrn1"></div>
+        <h5>新觸發效果</h5>
+        <div class="n1"></div>
         <div class="n1">
           <ul>
             <li>確認AI信號</li>
@@ -354,8 +354,8 @@
             <li>設置玩家能見度</li>
           </ul>
         </div>
-        <h4>新物件</h4>
-        <div class="hrn1"></div>
+        <h5>新物件</h5>
+        <div class="n1"></div>
         <div class="n1">
           <ul>
             <li>鎖鏈-與木牆相似，只出現在地圖編輯器和特定戰役中，例如阿提拉戰役。</li>
@@ -504,7 +504,7 @@
           <ul>
             <li>(精銳)西班牙征服者對反馬弓騎兵的攻擊會受到額外傷害。</li>
             <li>傳教士治療速度變成與僧侶相同。</li>
-            <li>傳教士受畜牧技術的影響(加生命值)。</li>
+            <li>傳教士受耕種技術的影響(加生命值)。</li>
           </ul>
         </div>
         <h5>斯拉夫</h5>
@@ -524,7 +524,7 @@
           <h5>越南</h5>
         <div class="n1">
           <ul>
-            <li>獲得畜牧技術。</li>
+            <li>獲得耕種技術。</li>
             <li>紙幣成本由800肉200金降為500肉300木，研發時間由40s增為60s。</li>
           </ul>
         </div>
@@ -573,10 +573,61 @@
               /></gallery>
               <p><em>韃靼預覽圖</em></p>
             </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Bulgarian_Konnik.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>保加利亞騎兵</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Cuman_UU.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>欽察</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Lithuanian_UU.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>烈提司</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Tatar_Keshik.png"
+                  alt=""
+              /></gallery>
+              <p><em>怯薛</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/AoEIIDE-mainmenu_bg.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>主選單背景</em></p>
+            </div>
           </div>
-        </div>
-      </div>
-        ------------------------------20191204修改位置
+  </div>
+  </div>
+            </div>
+          </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
@@ -661,10 +712,7 @@
               >
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
 </template>
 <script>
 export default {
