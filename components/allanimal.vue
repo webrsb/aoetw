@@ -16,11 +16,11 @@
               <nuxt-link to="/units/animal/Deer">鹿</nuxt-link>•
               <nuxt-link to="/units/animal/Iron_Boar">鐵野豬</nuxt-link>•
               <nuxt-link to="/units/animal/Wild_Boar">野豬</nuxt-link>•
-              <nuxt-link to="/units/animal/Zebra">斑馬</nuxt-link>•
               <nuxt-link to="/units/animal/Elephant">象</nuxt-link>•
               <nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link>•
+              <nuxt-link to="/units/animal/Zebra">斑馬</nuxt-link>•
               <nuxt-link to="/units/animal/Rhinoceros">犀牛</nuxt-link>•
-              <nuxt-link to="/units/animal/fish">魚類</nuxt-link>
+              <nuxt-link to="/units/animal/Ibex">野山羊</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -31,29 +31,37 @@
               <nuxt-link to="/units/animal/Llama">羊駝</nuxt-link>•
               <nuxt-link to="/units/animal/Cow">牛</nuxt-link>•
               <nuxt-link to="/units/animal/Goat">山羊</nuxt-link>•
-              <nuxt-link to="/units/animal/Water_Buffalo">水牛</nuxt-link>
+              <nuxt-link to="/units/animal/Water_Buffalo">水牛</nuxt-link>•
+              <nuxt-link to="/units/animal/Pig">豬</nuxt-link>•
+              <nuxt-link to="/units/animal/Goose">鵝</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3" style="width: 8%;">不可食用</td>
             <td class="unit3">
               <nuxt-link to="/units/animal/Wolf">狼</nuxt-link>•
-              <nuxt-link to="//units/animal/Jaguar">豹</nuxt-link>•
-              <nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link>•
+              <nuxt-link to="//units/animal/Jaguar">豹</nuxt-link>•              
               <nuxt-link to="/units/animal/Bear">熊</nuxt-link>•
+              <nuxt-link to="/units/animal/Crocodile">鱷魚</nuxt-link>•
+              <nuxt-link to="/units/animal/Lion">獅子</nuxt-link>•
+              <nuxt-link to="/units/animal/Bactrian_Camel">科莫多巨蜥</nuxt-link>•
+              <nuxt-link to="/units/animal/Tiger">虎</nuxt-link>•
+              <nuxt-link to="//units/animal/Snow_Leopard">雪豹</nuxt-link>•             
+              <nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link>•
               <nuxt-link to="/units/animal/Camel">駱駝</nuxt-link>•
               <nuxt-link to="/units/animal/Donkey">驢</nuxt-link>•
-              <nuxt-link to="/units/animal/Tiger">虎</nuxt-link>•
-              <nuxt-link to="/units/animal/Lion">獅子</nuxt-link>•
-              <nuxt-link to="/units/animal/Crocodile">鱷魚</nuxt-link>•
-              <nuxt-link to="/units/animal/Komodo_Dragon">科莫多巨蜥</nuxt-link>
+              <nuxt-link to="//units/animal/Snow_Leopard">雙峰駱駝</nuxt-link>•
+              <nuxt-link to="//units/animal/Wild_Snow_Leopard">野生雙峰駱駝</nuxt-link>
+              
             </td>
           </tr>
           <tr>
             <td class="unit3" style="width: 8%;">裝飾動物</td>
             <td class="unit3">
               <nuxt-link to="/units/animal/Hawk">鷹</nuxt-link>•
-              <nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link>•<nuxt-link to="/units/animal/Vulture">禿鷹</nuxt-link>
+              <nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link>•
+              <nuxt-link to="/units/animal/Vulture">禿鷹</nuxt-link>•
+              <nuxt-link to="/units/animal/Butterflies">蝴蝶</nuxt-link>
             </td>
           </tr>
         </table>
