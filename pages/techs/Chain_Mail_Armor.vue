@@ -77,21 +77,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/blacksmith.png"
-                alt=""
-              /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
+              <img class="gg" src="~assets/blacksmith.png" alt="" /><nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >
             </td>
           </tr>
           <tr>

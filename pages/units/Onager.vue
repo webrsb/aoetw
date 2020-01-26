@@ -119,9 +119,11 @@
               <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Furor_Celtica"
-                >塞爾特狂暴</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
               >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
@@ -143,9 +145,11 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Torsion_Engines"
-                >扭力彈射器</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
               >：攻城器製造所的單位傷害範圍增加。<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
@@ -163,30 +167,34 @@
               >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
               >除外)<br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Shinkichon"
-                >神機箭</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link
               >(+1，<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Ironclad"
+                >鋼鐵甲</nuxt-link
               >(+4/+0，<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Drill"
-                >演習</nuxt-link
-              >(+50%，<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>)
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Drill">演習</nuxt-link>(+50%，<nuxt-link
+                to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >)
             </td>
           </tr>
           <tr>

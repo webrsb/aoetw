@@ -253,11 +253,9 @@
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
               >:馬廄工作速率快40%，<nuxt-link to="/civs/Franks"
                 >法蘭克</nuxt-link
               >限定
@@ -266,13 +264,10 @@
           <tr>
             <td class="tta1" style="width:10%">其他</td>
             <td class="tta4">
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>:<nuxt-link
-                to="/units/Tarkan"
-                >韃靼騎兵</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Marauders"
+                >掠奪者</nuxt-link
+              >:<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
               >可在馬廄訓練，<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定
             </td>
           </tr>
@@ -486,18 +481,10 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/feudal_age.png"
-                width="30"
-                alt=""
-              />1 <br />
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                width="30"
-                alt=""
-              />2 <br />
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />1
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />2
+              <br />
               <img
                 class="gg"
                 src="~assets/imperial_age.png"
@@ -509,18 +496,10 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/feudal_age.png"
-                width="30"
-                alt=""
-              />8 <br />
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                width="30"
-                alt=""
-              />9 <br />
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />8
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />9
+              <br />
               <img
                 class="gg"
                 src="~assets/imperial_age.png"

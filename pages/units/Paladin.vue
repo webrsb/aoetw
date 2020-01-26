@@ -258,13 +258,10 @@
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link>：<nuxt-link
-                to="/building/Stable"
-                >馬廄</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
+              >：<nuxt-link to="/building/Stable">馬廄</nuxt-link
               >工作速率快40%。<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
               >限定
             </td>

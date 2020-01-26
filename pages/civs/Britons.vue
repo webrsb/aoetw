@@ -252,10 +252,10 @@
                 >義勇騎兵</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Warwolf"
-                >戰狼</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>
             </td>
           </tr>
         </table>

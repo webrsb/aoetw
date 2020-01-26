@@ -102,10 +102,10 @@
                 >堡壘</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Furor_Celtica"
-                >塞爾特狂暴</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link>
             </td>
           </tr>
         </table>
@@ -201,9 +201,10 @@
               >攻擊速度+20%
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Furor_Celtica"
-                >塞爾特狂暴</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
               >:攻城器製造所的單位血量+40%
             </li>
           </ul>

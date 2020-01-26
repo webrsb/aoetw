@@ -125,18 +125,20 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Panokseon">板屋船</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Panokseon"
+                >板屋船</nuxt-link
               >:龜甲船移動速度快15%。
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Shinkichon"
-                >神機箭</nuxt-link
-              >:<nuxt-link to="/units/Mangonel">投石車</nuxt-link>+1射程。
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>:<nuxt-link
+                to="/units/Mangonel"
+                >投石車</nuxt-link
+              >+1射程。
             </li>
           </ul>
         </div>
@@ -307,10 +309,10 @@
                 to="/techs/Panokseon"
                 >板屋船</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Shinkichon"
-                >神機箭</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>
             </td>
           </tr>
         </table>

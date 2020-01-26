@@ -371,10 +371,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              ><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>、<nuxt-link
-                to="/techs/Arson"
-                >縱火</nuxt-link
-              >的時間快20%。
+              ><nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -535,11 +532,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

@@ -33,11 +33,10 @@
             <div class="col-md-3">
               <ul>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/house.png"
-                    alt=""
-                  /><nuxt-link to="/building/House">房屋</nuxt-link>
+                  <img class="gg" src="~assets/house.png" alt="" /><nuxt-link
+                    to="/building/House"
+                    >房屋</nuxt-link
+                  >
                 </li>
                 <li>
                   <img
@@ -73,11 +72,10 @@
                   /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/market.png"
-                    alt=""
-                  /><nuxt-link to="/building/Market">市集</nuxt-link>
+                  <img class="gg" src="~assets/market.png" alt="" /><nuxt-link
+                    to="/building/Market"
+                    >市集</nuxt-link
+                  >
                 </li>
                 <li>
                   <img
@@ -111,11 +109,10 @@
                   >
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/barracks.png"
-                    alt=""
-                  /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
+                  <img class="gg" src="~assets/barracks.png" alt="" /><nuxt-link
+                    to="/building/Barracks"
+                    >軍營</nuxt-link
+                  >
                 </li>
                 <li>
                   <img
@@ -125,11 +122,10 @@
                   /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/stable.png"
-                    alt=""
-                  /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
+                  <img class="gg" src="~assets/stable.png" alt="" /><nuxt-link
+                    to="/building/Stable"
+                    >馬廄</nuxt-link
+                  >
                 </li>
                 <li>
                   <img
@@ -141,18 +137,16 @@
                   >
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/castle.png"
-                    alt=""
-                  /><nuxt-link to="/building/Castle">城堡</nuxt-link>(8)
+                  <img class="gg" src="~assets/castle.png" alt="" /><nuxt-link
+                    to="/building/Castle"
+                    >城堡</nuxt-link
+                  >(8)
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/palisade.png"
-                    alt=""
-                  /><nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>
+                  <img class="gg" src="~assets/palisade.png" alt="" /><nuxt-link
+                    to="/building/Palisade_Wall"
+                    >木牆</nuxt-link
+                  >
                 </li>
                 <li>
                   <img
@@ -187,32 +181,28 @@
                   >(20)
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/outpost.png"
-                    alt=""
-                  /><nuxt-link to="/building/Outpost">哨站</nuxt-link>
+                  <img class="gg" src="~assets/outpost.png" alt="" /><nuxt-link
+                    to="/building/Outpost"
+                    >哨站</nuxt-link
+                  >
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/tower.png"
-                    alt=""
-                  /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>
+                  <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                    to="/building/Watch_Tower"
+                    >暸望箭塔</nuxt-link
+                  >
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/tower.png"
-                    alt=""
-                  /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
+                  <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                    to="/building/Guard_Tower"
+                    >防禦箭塔</nuxt-link
+                  >
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/tower.png"
-                    alt=""
-                  /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                  <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                    to="/building/Keep"
+                    >大型箭塔</nuxt-link
+                  >
                 </li>
                 <li>
                   <img
@@ -222,18 +212,14 @@
                   /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/wonder.png"
-                    alt=""
-                  /><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>
+                  <img class="gg" src="~assets/wonder.png" alt="" /><nuxt-link
+                    to="/building/Wonder"
+                    >世界奇觀</nuxt-link
+                  >
                 </li>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/feitoria.png"
-                    alt=""
-                  /><nuxt-link to="/building/Feitoriaicon_Feitoria"
+                  <img class="gg" src="~assets/feitoria.png" alt="" /><nuxt-link
+                    to="/building/Feitoriaicon_Feitoria"
                     >港灣大商站</nuxt-link
                   >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                 </li>

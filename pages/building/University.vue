@@ -136,11 +136,10 @@
                     >
                   </li>
                   <li>
-                    <img
-                      class="gg"
-                      src="~assets/keep.png"
-                      alt=""
-                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                    <img class="gg" src="~assets/keep.png" alt="" /><nuxt-link
+                      to="/building/Keep"
+                      >大型箭塔</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -476,12 +475,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                width="30"
-                alt=""
-              />2 <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />2
+              <br />
               <img
                 class="gg"
                 src="~assets/imperial_age.png"
@@ -493,12 +488,8 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                width="30"
-                alt=""
-              />9 <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />9
+              <br />
               <img
                 class="gg"
                 src="~assets/imperial_age.png"

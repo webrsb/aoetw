@@ -94,9 +94,11 @@
               <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/batt/El_Doradoa"
-                >黃金國</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link
               >(+40，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
             </td>
           </tr>
@@ -168,9 +170,11 @@
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
               >(+1/+2) <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Couriers"
-                >信使</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
               >(+1/+2，<nuxt-link to="/civs/Incas">印加</nuxt-link
               >，從<nuxt-link to="/games/ak">非洲王國</nuxt-link>資料片開始)
             </td>
@@ -184,9 +188,11 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%) <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Couriers"
-                >信使</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
               >(+10%，<nuxt-link to="/civs/Incas">印加</nuxt-link
               >限定，只在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
               >資料片有)
@@ -597,21 +603,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/feudal_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              <img class="gg" src="~assets/feudal_age.png" alt="" /><nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/barracks.png"
-                alt=""
-              /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
+              <img class="gg" src="~assets/barracks.png" alt="" /><nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >
             </td>
           </tr>
           <tr>

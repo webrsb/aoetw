@@ -631,11 +631,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -686,17 +685,14 @@
               <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
             </td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>:61
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >:61
               <br />
-              <img
-                class="gg"
-                src="~assets/imperial_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
               >:64/75(精銳)
             </td>
           </tr>

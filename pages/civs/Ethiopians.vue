@@ -87,17 +87,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Royal_Heirs"
+                >皇族血脈</nuxt-link
               >：彎刀勇士生產時間減半，從8秒減為4秒。
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Torsion_Engines"
-                >扭力彈射器</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
               >：<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
               >的攻擊範圍增加。
             </li>
@@ -225,10 +225,10 @@
                 >皇族血脈</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Torsion_Engines"
-                >扭力彈射器</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link>
             </td>
           </tr>
         </table>

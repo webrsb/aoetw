@@ -681,21 +681,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                src="~assets/castle_age.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img src="~assets/castle_age.png" class="gg" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                src="~assets/university.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/building/University">學院</nuxt-link>
+              <img src="~assets/university.png" class="gg" alt="" /><nuxt-link
+                to="/building/University"
+                >學院</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -823,11 +821,10 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/keep.png"
-                alt=""
-              /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+              <img class="gg" src="~assets/keep.png" alt="" /><nuxt-link
+                to="/building/Keep"
+                >大型箭塔</nuxt-link
+              >
             </td>
           </tr>
           <tr>

@@ -362,11 +362,7 @@
               <br />
               <img src="~assets/castle_age.png" width="22" alt="" />10
               <br />
-              <img
-                src="~assets/imperial_age.png"
-                width="22"
-                alt=""
-              />12
+              <img src="~assets/imperial_age.png" width="22" alt="" />12
             </td>
           </tr>
         </table>

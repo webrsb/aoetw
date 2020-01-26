@@ -51,6 +51,19 @@
           </tr>
           <tr>
             <td class="tunitc6">
+              <img class="gg" src="~assets/Suplliesicon.png" alt="" /><nuxt-link
+                to="/techs/Supplies"
+                >供給</nuxt-link
+              >
+            </td>
+            <td class="tunitc4">封建</td>
+            <td class="tunitc5">150F 100G</td>
+            <td class="tunitc6">
+              民兵系食物成本-15
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
               <img class="gg" src="~assets/squires.png" alt="" /><nuxt-link
                 to="/techs/Squires"
                 >護衛</nuxt-link
@@ -452,10 +465,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/spies_treason.png" alt="" /><nuxt-link
-                to="/techs/Spies"
-                >間諜</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/spies_treason.png"
+                alt=""
+              /><nuxt-link to="/techs/Spies">間諜</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">每個敵方村民耗費200G，最高花費30000G。</td>
@@ -463,10 +477,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/spies_treason.png" alt="" /><nuxt-link
-                to="/techs/Spies"
-                >叛徒</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/spies_treason.png"
+                alt=""
+              /><nuxt-link to="/techs/Spies">叛徒</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">400G</td>
@@ -635,11 +650,10 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img
-                class="gg"
-                src="~assets/tower.png"
-                alt=""
-              /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
+              <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                to="/building/Guard_Tower"
+                >防禦箭塔</nuxt-link
+              >
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">100F 250W</td>
@@ -730,11 +744,10 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img
-                class="gg"
-                src="~assets/tower.png"
-                alt=""
-              /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+              <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                to="/building/Keep"
+                >大型箭塔</nuxt-link
+              >
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">500F 350W</td>
@@ -883,10 +896,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/blast_furnace.png" alt="" /><nuxt-link
-                to="/techs/Blast_Furnace"
-                >鼓風爐</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/blast_furnace.png"
+                alt=""
+              /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">275F 225G</td>
@@ -1037,10 +1051,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/double-bit_axe.png" alt="" /><nuxt-link
-                to="/techs/Double-Bit_Axe"
-                >雙刃斧</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/double-bit_axe.png"
+                alt=""
+              /><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">100F 50W</td>
@@ -1105,10 +1120,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/crop_rotation.png" alt="" /><nuxt-link
-                to="/techs/Crop_Rotation"
-                >輪耕</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/crop_rotation.png"
+                alt=""
+              /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">250F 250W</td>

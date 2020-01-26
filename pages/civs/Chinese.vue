@@ -63,18 +63,18 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Great_Wall">長城</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Great_Wall"
+                >長城</nuxt-link
               >：塔與<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
               >+30%<nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Rocketry"
-                >火箭術</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Rocketry">火箭術</nuxt-link
               >：連弩兵攻擊+2，弩砲攻擊+4
             </li>
           </ul>
@@ -639,10 +639,10 @@
               <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Great_Wall"
                 >長城</nuxt-link
-              ><br /><img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Rocketry"
-                >火箭術</nuxt-link
-              >
+              ><br /><img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>
             </td>
           </tr>
         </table>

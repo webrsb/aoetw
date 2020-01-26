@@ -705,11 +705,10 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/tower.png"
-                alt=""
-              /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
+              <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                to="/building/Guard_Tower"
+                >防禦箭塔</nuxt-link
+              >
             </td>
           </tr>
           <tr>

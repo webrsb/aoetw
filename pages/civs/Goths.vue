@@ -115,17 +115,17 @@
           <h3><strong>特殊科技</strong></h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Anarchy"
+                >無政府狀態</nuxt-link
               >：軍營可以生產哥德衛隊。
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Perfusion"
-                >灌注士氣</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
               >：軍營生產單位速度快100%。
             </li>
           </ul>
@@ -753,10 +753,10 @@
                 >無政府狀態</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Perfusion"
-                >灌注士氣</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>
             </td>
           </tr>
         </table>

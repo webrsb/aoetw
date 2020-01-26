@@ -130,19 +130,14 @@
               (2 變成0)
             </li>
             <li>
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Howdah">象轎</nuxt-link>從200F
-              300W，提升至400F 300W
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Howdah"
+                >象轎</nuxt-link
+              >從200F 300W，提升至400F 300W
             </li>
             <li>
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              />象轎+1/+2 裝甲變成 +1/+1
+              <img src="~assets/unique_tech.png" class="gg" alt="" />象轎+1/+2
+              裝甲變成 +1/+1
             </li>
             <li>
               <img
@@ -204,12 +199,10 @@
           增強
           <ul>
             <li>
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link>從
-              +30HP提升至 +50HP
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Chatras"
+                >恰特拉傘</nuxt-link
+              >從 +30HP提升至 +50HP
             </li>
             <li>
               <img
@@ -233,9 +226,11 @@
               便宜提升至 30%
             </li>
             <li>
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Arquebus"
-                >火繩槍</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
               >增加了<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >與<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >投<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>度 從 0

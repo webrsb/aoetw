@@ -83,17 +83,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Yasama"
+                >射箭孔</nuxt-link
               >：塔可以多射兩支箭
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Kataparuto"
-                >彈射器</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
               >：投石機拆裝速度四倍，且攻擊速率快33%
             </li>
           </ul>
@@ -542,10 +542,10 @@
                 to="/techs/Yasama"
                 >射箭孔</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Kataparuto"
-                >彈射器</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link>
             </td>
           </tr>
         </table>

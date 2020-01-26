@@ -136,10 +136,10 @@
                 >希臘之火</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Logistica"
-                >後勤學</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             </td>
           </tr>
         </table>

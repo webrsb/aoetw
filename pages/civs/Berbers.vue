@@ -153,17 +153,17 @@
           <h3>特殊科技</h3>
           <ul>
             <p>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >：你和同盟城堡工作效率+25%。
             </p>
             <p>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Maghrabi_Camels"
-                >馬格拉比駱駝</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
               >：駱駝單位會自動回血。
             </p>
           </ul>
@@ -307,10 +307,10 @@
                 >聚居堡壘</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Maghrabi_Camels"
-                >馬格拉比駱駝</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link>
             </td>
           </tr>
         </table>

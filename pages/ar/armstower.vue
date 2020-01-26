@@ -32,11 +32,9 @@
               >，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。
             </li>
             <li>
-              <img
-                width="25px"
-                src="~assets/tower.png"
-                alt=""
-              /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link
+              <img width="25px" src="~assets/tower.png" alt="" /><nuxt-link
+                to="/building/Watch_Tower"
+                >暸望箭塔</nuxt-link
               >:遊戲說明<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
               >為防禦建築，其實為非常兇猛的進攻手段，射程高達8，可以輕易封鎖任何資源點，駐紮村民後也不怕<nuxt-link
                 to="/techs/age/Feudal_Age"

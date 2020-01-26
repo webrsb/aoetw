@@ -139,14 +139,10 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link>(+1，<nuxt-link
-                to="/civs/Aztecs"
-                >阿茲特克</nuxt-link
-              >限定)
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Atlatl"
+                >擲矛器</nuxt-link
+              >(+1，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -171,27 +167,18 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link>(+1，<nuxt-link
-                to="/civs/Aztecs"
-                >阿茲特克</nuxt-link
-              >限定) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>(+1,<nuxt-link
-                to="/civs/Britons"
-                >不列顛</nuxt-link
-              >限定) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Atlatl"
+                >擲矛器</nuxt-link
+              >(+1，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
+              <br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Yeomen"
+                >義勇騎兵</nuxt-link
+              >(+1,<nuxt-link to="/civs/Britons">不列顛</nuxt-link>限定) <br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Andean_Sling"
+                >安地斯彈弓</nuxt-link
               >:<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>和<nuxt-link
                 to="/units/Slinger"
                 >投石手</nuxt-link
@@ -567,11 +554,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/imperial_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

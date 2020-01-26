@@ -322,11 +322,9 @@
                     /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
                   </li>
                   <li>
-                    <img
-                      class="gg"
-                      src="~assets/tower.png"
-                      alt=""
-                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
+                    <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                      to="/building/Watch_Tower"
+                      >瞭望箭塔</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -335,11 +333,10 @@
                       alt=""
                     /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
                     >→
-                    <img
-                      class="gg"
-                      src="~assets/tower.png"
-                      alt=""
-                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                    <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                      to="/building/Keep"
+                      >大型箭塔</nuxt-link
+                    >
                   </li>
                   <li>
                     <img

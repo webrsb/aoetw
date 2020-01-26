@@ -230,10 +230,10 @@
                 >擲矛器</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Garland_Wars"
-                >榮冠戰爭</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link>
             </td>
           </tr>
         </table>

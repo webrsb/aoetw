@@ -50,12 +50,10 @@
               >生產時間從32s → 35s(跟鷹勇士一樣了)
             </li>
             <li>
-              <img
-                src="~assets/tower.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>花費25W
-              125S → 50W 125S
+              <img src="~assets/tower.png" class="gg" alt="" /><nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >花費25W 125S → 50W 125S
             </li>
             <li>
               <img
@@ -73,20 +71,17 @@
               25F 10G → 30F 15G
             </li>
             <li>
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/civs/Incas">印加</nuxt-link
               ><nuxt-link to="/techs/Couriers">金冠</nuxt-link>花費400F 200G →
               600F 600G
             </li>
             <li>
-              <img
-                src="~assets/tower.png"
-                class="gg"
-                alt=""
-              />韓國蓋塔時間60s → 75s (其他<nuxt-link to="/civs"
-                >文明</nuxt-link
-              >
+              <img src="~assets/tower.png" class="gg" alt="" />韓國蓋塔時間60s →
+              75s (其他<nuxt-link to="/civs">文明</nuxt-link>
               80s)
             </li>
             <li>

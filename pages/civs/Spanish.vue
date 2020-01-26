@@ -144,17 +144,17 @@
           </li>
           <h3>特殊科技</h3>
           <li>
-            <img
-              class="gg"
-              src="~assets/unique_tech.png"
-              alt=""
-            /><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
+            <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+              to="/techs/Inquisition"
+              >異端審判</nuxt-link
             >：加快僧侶招降速度。
           </li>
           <li>
-            <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-              to="/techs/Supremacy"
-              >霸權</nuxt-link
+            <img
+              class="gg"
+              src="~assets/unique_tech_imperial.png"
+              alt=""
+            /><nuxt-link to="/techs/Supremacy">霸權</nuxt-link
             >：村民具有超強作戰能力。
           </li>
         </div>
@@ -328,10 +328,10 @@
                 >異端審判</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Supremacy"
-                >霸權</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Supremacy">霸權</nuxt-link>
             </td>
           </tr>
         </table>

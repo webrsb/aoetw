@@ -198,20 +198,21 @@
           <h3><nuxt-link to="/techs/untech">特殊科技</nuxt-link></h3>
           <ul>
             <p>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>：<nuxt-link
-                to="/armor/Armor_Class_Cavalry_Archer"
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Sipahi"
+                >采邑騎兵</nuxt-link
+              >：<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵系</nuxt-link
               >血量+20。
             </p>
             <p>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Artillery"
-                >火砲術</nuxt-link
-              >：<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Artillery">火砲術</nuxt-link>：<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火炮</nuxt-link
               >、<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >射程+2。
@@ -356,10 +357,10 @@
                 to="/techs/Sipahi"
                 >采邑騎兵</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Artillery"
-                >火砲術</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Artillery">火砲術</nuxt-link>
             </td>
           </tr>
         </table>

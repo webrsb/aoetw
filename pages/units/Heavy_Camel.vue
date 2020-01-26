@@ -139,9 +139,11 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20) <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Zealotry"
-                >狂熱舉動</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link
               >(+30，<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
             </td>
           </tr>
@@ -169,10 +171,13 @@
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Farimba"
-                >驃悍精神</nuxt-link
-              >：<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link>：<nuxt-link
+                to="/building/Stable"
+                >馬廄</nuxt-link
               >單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定
             </td>
           </tr>
@@ -246,9 +251,11 @@
           <tr>
             <td class="tta1" style="width:10%">其他</td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Maghrabi_Camels"
-                >馬格拉比駱駝</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
               >:<nuxt-link to="/units/Camel">駱駝</nuxt-link>部隊獲得<nuxt-link
                 to="/elements/Regeneration"
                 >回血</nuxt-link
@@ -403,11 +410,9 @@
                     /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
                   </li>
                   <li>
-                    <img
-                      class="gg"
-                      src="~assets/tower.png"
-                      alt=""
-                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
+                    <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                      to="/building/Watch_Tower"
+                      >瞭望箭塔</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -416,11 +421,10 @@
                       alt=""
                     /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
                     >→
-                    <img
-                      class="gg"
-                      src="~assets/tower.png"
-                      alt=""
-                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                    <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                      to="/building/Keep"
+                      >大型箭塔</nuxt-link
+                    >
                   </li>
                   <li>
                     <img

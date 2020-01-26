@@ -105,14 +105,10 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link>(+1，<nuxt-link
-                to="/civs/Aztecs"
-                >阿茲特克</nuxt-link
-              >限定)
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Atlatl"
+                >擲矛器</nuxt-link
+              >(+1，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -137,27 +133,18 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link>(+1，<nuxt-link
-                to="/civs/Aztecs"
-                >阿茲特克</nuxt-link
-              >限定) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>(+1,<nuxt-link
-                to="/civs/Britons"
-                >不列顛</nuxt-link
-              >限定) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Atlatl"
+                >擲矛器</nuxt-link
+              >(+1，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
+              <br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Yeomen"
+                >義勇騎兵</nuxt-link
+              >(+1,<nuxt-link to="/civs/Britons">不列顛</nuxt-link>限定) <br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Andean_Sling"
+                >安地斯彈弓</nuxt-link
               >:戰矛兵和<nuxt-link to="/units/Slinger">投石手</nuxt-link
               >取消最小射程，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定
             </td>

@@ -123,17 +123,17 @@
           </li>
           <h3>特殊科技</h3>
           <li>
-            <img
-              class="gg"
-              src="~assets/unique_tech.png"
-              alt=""
-            /><nuxt-link to="/techs/Carrack">克拉克帆船</nuxt-link
+            <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+              to="/techs/Carrack"
+              >克拉克帆船</nuxt-link
             >：船的盔甲與遠距裝甲值分別 +1。
           </li>
           <li>
-            <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-              to="/techs/Arquebus"
-              >火繩槍</nuxt-link
+            <img
+              class="gg"
+              src="~assets/unique_tech_imperial.png"
+              alt=""
+            /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
             >：火藥單位均受益於彈道學，使火藥單位針對移動中的單位也有較好的命中率。
           </li>
         </div>
@@ -329,10 +329,10 @@
                 >克拉克帆船</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Arquebus"
-                >火繩槍</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>
             </td>
           </tr>
         </table>

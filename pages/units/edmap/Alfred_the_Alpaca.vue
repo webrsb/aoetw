@@ -135,11 +135,10 @@
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/town_center.png"
-                alt=""
-              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
+              <img class="gg" src="~assets/town_center.png" alt="" /><nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >
             </td>
           </tr>
           <tr>

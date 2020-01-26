@@ -72,11 +72,10 @@
             <ul>
               <li>
                 <strong>起始時代：</strong>
-                <img
-                  class="gg"
-                  src="~assets/feudal_age.png"
-                  alt=""
-                /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+                <img class="gg" src="~assets/feudal_age.png" alt="" /><nuxt-link
+                  to="/techs/age/Feudal_Age"
+                  >封建時代</nuxt-link
+                >
               </li>
               <li>
                 <strong>起始資源：</strong>500<nuxt-link to="/resource/Food"

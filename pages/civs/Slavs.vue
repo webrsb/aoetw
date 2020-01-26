@@ -135,7 +135,15 @@
         <div class="n1">
           <ul>
             <li>農民工作效率提升15%</li>
-            <li><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>免費</li>
+            <li>
+              <nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>免費 (2013版)
+            </li>
+            <li>
+              <nuxt-link to="/techs/Supplies">供給</nuxt-link>免費 (<nuxt-link
+                to="/games/de"
+                >世紀帝國II：決定版</nuxt-link
+              >)
+            </li>
             <li>攻城器製造所單位便宜15%</li>
             <li>
               <strong
@@ -252,10 +260,10 @@
                 to="/techs/Orthodoxy"
                 >東正教</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Druzhina"
-                >王家侍從</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link>
             </td>
           </tr>
         </table>

@@ -149,11 +149,9 @@
                 to="/techs/Theocracy"
                 >神權統治</nuxt-link
               >:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。<br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Inquisition"
+                >異端審判</nuxt-link
               >:僧侶招降速度變快(對單位時間-1，對建築物時間-7)，<nuxt-link
                 to="/civs/Spanish"
                 >西班牙</nuxt-link
@@ -619,21 +617,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/monastery.png"
-                alt=""
-              /><nuxt-link to="/building/Monastery">修道院</nuxt-link>
+              <img class="gg" src="~assets/monastery.png" alt="" /><nuxt-link
+                to="/building/Monastery"
+                >修道院</nuxt-link
+              >
             </td>
           </tr>
           <tr>

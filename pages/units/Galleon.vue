@@ -313,11 +313,10 @@
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
                 <ul>
                   <li>
-                    <img
-                      class="gg"
-                      src="~assets/tower.png"
-                      alt=""
-                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                    <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                      to="/building/Keep"
+                      >大型箭塔</nuxt-link
+                    >
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
@@ -361,11 +360,10 @@
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                   <li>
-                    <img
-                      class="gg"
-                      src="~assets/tower.png"
-                      alt=""
-                    /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
+                    <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                      to="/building/Guard_Tower"
+                      >防禦箭塔</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -414,11 +412,10 @@
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
-                    <img
-                      class="gg"
-                      src="~assets/tower.png"
-                      alt=""
-                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
+                    <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                      to="/building/Watch_Tower"
+                      >瞭望箭塔</nuxt-link
+                    >
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -525,21 +522,19 @@
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/tower.png"
-                    alt=""
-                  /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                  <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                    to="/building/Keep"
+                    >大型箭塔</nuxt-link
+                  >
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+11攻擊</strong></div>
               <ul>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/tower.png"
-                    alt=""
-                  /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
+                  <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                    to="/building/Guard_Tower"
+                    >防禦箭塔</nuxt-link
+                  >
                 </li>
               </ul>
             </div>
@@ -547,11 +542,10 @@
               <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
               <ul>
                 <li>
-                  <img
-                    class="gg"
-                    src="~assets/tower.png"
-                    alt=""
-                  /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
+                  <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                    to="/building/Watch_Tower"
+                    >瞭望箭塔</nuxt-link
+                  >
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -800,11 +794,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/imperial_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

@@ -86,18 +86,18 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Kamandaran"
+                >波斯弓兵</nuxt-link
               >：訓練徒步<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
               >消耗額外木材，而不消耗黃金。
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Mahouts"
-                >象伕</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Mahouts">象伕</nuxt-link
               >：戰象的移動速度+30%
             </li>
           </ul>
@@ -599,10 +599,10 @@
                 to="/techs/"
                 >波斯弓兵</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Mahouts"
-                >象伕</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Mahouts">象伕</nuxt-link>
             </td>
           </tr>
         </table>

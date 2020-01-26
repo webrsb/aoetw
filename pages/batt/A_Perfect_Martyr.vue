@@ -151,11 +151,10 @@
         <ul>
           <li>
             <strong>起始時代：</strong>
-            <img
-              class="gg"
-              src="~assets/castle_age.png"
-              alt=""
-            /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+            <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >
           </li>
           <li><strong>起始資源：</strong>無</li>
           <li><strong>人口上限：</strong>75</li>

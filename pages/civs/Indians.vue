@@ -154,17 +154,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Sultans"
+                >蘇丹</nuxt-link
               >：黃金收入的效率一律+10%。
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Shatagni"
-                >印度火槍</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link
               >：火槍兵射程+1。
             </li>
           </ul>
@@ -336,10 +336,10 @@
                 to="/techs/Sultans"
                 >蘇丹</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Shatagni"
-                >印度火槍</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link>
             </td>
           </tr>
         </table>

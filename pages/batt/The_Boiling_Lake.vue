@@ -43,11 +43,10 @@
           <ul>
             <li>
               起始時代：
-              <img
-                src="~assets/imperial_age.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img src="~assets/imperial_age.png" class="gg" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </li>
             <li>
               起始資源：500<nuxt-link to="/resource/Wood">木頭</nuxt-link

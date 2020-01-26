@@ -182,11 +182,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Obsidian_Arrows"
+                >黑曜石之箭</nuxt-link
               >:<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
               ><nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Standard_Building"
@@ -218,14 +216,10 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>(+1,<nuxt-link
-                to="/civs/Britons"
-                >不列顛</nuxt-link
-              >限定)
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Yeomen"
+                >義勇騎兵</nuxt-link
+              >(+1,<nuxt-link to="/civs/Britons">不列顛</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -282,13 +276,10 @@
                 alt=""
               /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
               >(+1/+2) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Pavise">巨盾</nuxt-link>(+1/+1，<nuxt-link
-                to="/games/ak"
-                >非洲王國</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Pavise"
+                >巨盾</nuxt-link
+              >(+1/+1，<nuxt-link to="/games/ak">非洲王國</nuxt-link
               >資料片後的<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
             </td>
           </tr>

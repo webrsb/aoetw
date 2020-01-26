@@ -517,11 +517,10 @@
                     /><nuxt-link to="/building/Castle">城堡</nuxt-link>
                   </li>
                   <li>
-                    <img
-                      class="gg"
-                      src="~assets/tower.png"
-                      alt=""
-                    /><nuxt-link to="/building/Watch_Tower">箭塔系列</nuxt-link>
+                    <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                      to="/building/Watch_Tower"
+                      >箭塔系列</nuxt-link
+                    >
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
@@ -909,21 +908,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/imperial_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/barracks.png"
-                alt=""
-              /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
+              <img class="gg" src="~assets/barracks.png" alt="" /><nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >
             </td>
           </tr>
           <tr>

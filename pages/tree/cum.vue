@@ -954,12 +954,7 @@
               <div><nuxt-link to="/units/Petard">爆炸桶</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                width="30"
-                alt=""
-              />
+              <img class="gg" src="~assets/unique_tech.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Howdah">大草原畜牧</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
@@ -988,7 +983,12 @@
               <div><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img class="gg" src="~assets/unique_tech_imperial.png" width="30" alt="" />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              />
               <div>
                 <nuxt-link to="/techs/Manipur_Cavalry">庫曼顧傭兵</nuxt-link>
               </div>

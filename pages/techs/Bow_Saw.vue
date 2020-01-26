@@ -71,30 +71,29 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/lumber_camp.png"
-                alt=""
-              /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
+              <img class="gg" src="~assets/lumber_camp.png" alt="" /><nuxt-link
+                to="/building/Lumber_Camp"
+                >伐木場</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/double-bit_axe.png" alt="" /><nuxt-link
-                to="/techs/Double-Bit_Axe"
-                >雙刃斧</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/double-bit_axe.png"
+                alt=""
+              /><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>
             </td>
           </tr>
           <tr>

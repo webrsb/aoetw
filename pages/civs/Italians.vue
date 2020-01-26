@@ -172,17 +172,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Pavise">巨盾</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Pavise"
+                >巨盾</nuxt-link
               >：弓兵近防/遠防+1。
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Silk_Road"
-                >絲綢之路</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link
               >：貿易單位便宜50%。
             </li>
           </ul>
@@ -359,10 +359,10 @@
                 to="/techs/Pavise"
                 >巨盾</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Silk_Road"
-                >絲綢之路</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link>
             </td>
           </tr>
         </table>

@@ -58,8 +58,8 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/tracking.png" alt="" />
-              <div><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link></div>
+              <img class="gg" src="~assets/Suplliesicon.png" alt="" />
+              <div><nuxt-link to="/techs/Supplies">供給</nuxt-link></div>
             </td>
             <td class="t19 trm"></td>
           </tr>
@@ -516,12 +516,7 @@
               <div><nuxt-link to="/units/Petard">爆炸桶</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                width="30"
-                alt=""
-              />
+              <img class="gg" src="~assets/unique_tech.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
@@ -550,7 +545,12 @@
               <div><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img class="gg" src="~assets/unique_tech_imperial.png" width="30" alt="" />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              />
               <div>
                 <nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link>
               </div>

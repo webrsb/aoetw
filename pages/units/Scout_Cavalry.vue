@@ -132,14 +132,18 @@
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Farimba"
-                >驃悍精神</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link
               >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
               >限定<br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
@@ -210,11 +214,9 @@
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
               >：馬廄工作速率快40%。
             </td>
           </tr>

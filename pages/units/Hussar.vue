@@ -196,9 +196,11 @@
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊+3。

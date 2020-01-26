@@ -167,11 +167,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Andean_Sling"
+                >安地斯彈弓</nuxt-link
               >:<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >和投石手取消最小射程，<nuxt-link to="/civs/Incas">印加</nuxt-link
               >限定
@@ -220,9 +218,11 @@
                 alt=""
               /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
               >(+1/+2) <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Couriers"
-                >信使</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
               >(+1/+2，從<nuxt-link to="/games/ak">非洲王國</nuxt-link
               >資料片開始)
             </td>
@@ -230,9 +230,11 @@
           <tr>
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Couriers"
-                >信使</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
               >(+10%，只在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
               >資料片有)
             </td>
@@ -425,11 +427,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >的研究時間(快25%)
             </li>
@@ -585,11 +585,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

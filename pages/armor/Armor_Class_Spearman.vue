@@ -180,11 +180,10 @@
                 /><nuxt-link to="/building/Castle">城堡</nuxt-link>
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/tower.png"
-                  alt=""
-                /><nuxt-link to="/building/Watch_Tower">箭塔系列</nuxt-link>
+                <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Watch_Tower"
+                  >箭塔系列</nuxt-link
+                >
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>

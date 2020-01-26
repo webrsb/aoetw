@@ -142,11 +142,9 @@
           <h3>特殊科技</h3>
           <ul>
             <p>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Obsidian_Arrows"
+                >黑曜石之箭</nuxt-link
               >：弓兵、弩兵、勁弩兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >攻擊+6。
@@ -289,10 +287,10 @@
                 >黑曜石之箭</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/El_Dorado"
-                >黃金國</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/El_Dorado">黃金國</nuxt-link>
             </td>
           </tr>
         </table>

@@ -161,11 +161,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Yeomen"
+                >義勇騎兵</nuxt-link
               >(+1，<nuxt-link to="/civs/Britons">不列顛</nuxt-link>限定)
             </td>
           </tr>
@@ -401,11 +399,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏人</nuxt-link>：
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠提高長弓兵的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
                 >徵兵制度</nuxt-link
@@ -465,11 +461,10 @@
               >
             </li>
             <li>
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>引入。
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Yeomen"
+                >義勇騎兵</nuxt-link
+              >引入。
             </li>
           </ul>
           <h3>
@@ -563,11 +558,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

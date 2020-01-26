@@ -91,41 +91,34 @@
                 >:5(6)
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/stone_wall.png"
-                  alt=""
-                /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>:2
+                <img class="gg" src="~assets/stone_wall.png" alt="" /><nuxt-link
+                  to="/building/Stone_Wall"
+                  >石牆</nuxt-link
+                >:2
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/stone_wall.png"
-                  alt=""
-                /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>:2
+                <img class="gg" src="~assets/stone_wall.png" alt="" /><nuxt-link
+                  to="/building/Fortified_Wall"
+                  >垛牆</nuxt-link
+                >:2
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/tower.png"
-                  alt=""
-                /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link
+                <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Watch_Tower"
+                  >暸望箭塔</nuxt-link
                 >:2(3)
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/tower.png"
-                  alt=""
-                /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
+                <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Guard_Tower"
+                  >防禦箭塔</nuxt-link
                 >:3(4)
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/tower.png"
-                  alt=""
-                /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>:5(6)
+                <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Keep"
+                  >大型箭塔</nuxt-link
+                >:5(6)
               </li>
               <li>
                 <img class="gg" src="~assets/castle.png" alt="" /><nuxt-link
@@ -157,39 +150,34 @@
                 >:4(5)
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/stone_wall.png"
-                  alt=""
-                /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>:2
+                <img class="gg" src="~assets/stone_wall.png" alt="" /><nuxt-link
+                  to="/building/Stone_Wall"
+                  >石牆</nuxt-link
+                >:2
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/stone_wall.png"
-                  alt=""
-                /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>:2(3)
+                <img class="gg" src="~assets/stone_wall.png" alt="" /><nuxt-link
+                  to="/building/Fortified_Wall"
+                  >垛牆</nuxt-link
+                >:2(3)
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/tower.png"
-                  alt=""
-                /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>:2
+                <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Watch_Tower"
+                  >暸望箭塔</nuxt-link
+                >:2
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/tower.png"
-                  alt=""
-                /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>:3
+                <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Guard_Tower"
+                  >防禦箭塔</nuxt-link
+                >:3
               </li>
               <li>
-                <img
-                  class="gg"
-                  src="~assets/tower.png"
-                  alt=""
-                /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>:4
+                <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Keep"
+                  >大型箭塔</nuxt-link
+                >:4
               </li>
               <li>
                 <img class="gg" src="~assets/castle.png" alt="" /><nuxt-link
@@ -572,11 +560,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

@@ -591,11 +591,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/imperial_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -724,11 +723,7 @@
           <tr>
             <td class="unit3">升級成本</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/siege_ram.png"
-                alt=""
-              />1000食物
+              <img class="gg" src="~assets/siege_ram.png" alt="" />1000食物
             </td>
           </tr>
           <tr>

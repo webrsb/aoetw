@@ -123,11 +123,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Sipahi"
+                >采邑騎兵</nuxt-link
               >(+20，<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定 )
             </td>
           </tr>
@@ -921,11 +919,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

@@ -151,9 +151,11 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Warwolf"
-                >戰狼</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Warwolf">戰狼</nuxt-link
               >:巨型投石機有範圍傷害。<nuxt-link to="/civs/Britons"
                 >不列顛</nuxt-link
               >限定
@@ -173,18 +175,22 @@
           <tr>
             <td class="tta1" style="width:10%">開火速率</td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Kataparuto"
-                >彈射器</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
               >(+33%，<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">命中率</td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Warwolf"
-                >戰狼</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Warwolf">戰狼</nuxt-link
               >:對靜止單位有100%命中率。<nuxt-link to="/civs/Britons"
                 >不列顛</nuxt-link
               >限定
@@ -238,9 +244,11 @@
           <tr>
             <td class="tta1" style="width:10%">其他</td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Kataparuto"
-                >彈射器</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
               >:投石機組裝/拆裝速度加快四倍，<nuxt-link to="/civs/Japanese"
                 >日本</nuxt-link
               >限定
@@ -605,11 +613,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/imperial_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

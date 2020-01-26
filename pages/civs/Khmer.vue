@@ -257,10 +257,10 @@
                 to="/techs/Tusk_Swords"
                 >象牙劍</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Double_Crossbow"
-                >雙弩箭</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link>
             </td>
           </tr>
         </table>

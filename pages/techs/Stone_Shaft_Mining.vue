@@ -139,11 +139,10 @@
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/mining_camp.png"
-                alt=""
-              /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
+              <img class="gg" src="~assets/mining_camp.png" alt="" /><nuxt-link
+                to="/building/Mining_Camp"
+                >採礦營地</nuxt-link
+              >
             </td>
           </tr>
           <tr>

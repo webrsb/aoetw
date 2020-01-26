@@ -626,11 +626,10 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link>
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Thalassocracy"
+                >海上霸主</nuxt-link
+              >
             </td>
           </tr>
         </table>

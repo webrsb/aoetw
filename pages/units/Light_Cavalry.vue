@@ -182,15 +182,20 @@
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Farimba"
-                >驃悍精神</nuxt-link
-              >：<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link>：<nuxt-link
+                to="/building/Stable"
+                >馬廄</nuxt-link
               >單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定
               <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
@@ -263,11 +268,9 @@
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
               >：馬廄工作速率快40%。<nuxt-link to="/civs/Franks"
                 >法蘭克</nuxt-link
               >限定
@@ -865,11 +868,7 @@
           <tr>
             <td class="unit3">升級成本</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/hussar.png"
-                alt=""
-              />500食物600黃金
+              <img class="gg" src="~assets/hussar.png" alt="" />500食物600黃金
             </td>
           </tr>
           <tr>

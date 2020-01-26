@@ -103,10 +103,11 @@
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/blast_furnace.png" alt="" /><nuxt-link
-                to="/techs/Blast_Furnace"
-                >鼓風爐</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/blast_furnace.png"
+                alt=""
+              /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -182,9 +182,11 @@
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
               >(+1/+2) <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Couriers"
-                >信使</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
               >(+1/+2，從<nuxt-link to="/games/ak">非洲王國</nuxt-link
               >資料片開始)
             </td>
@@ -198,9 +200,11 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%) <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Couriers"
-                >信使</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
               >(+10%，只在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
               >資料片有)
             </td>
@@ -419,10 +423,10 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              ><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>、<nuxt-link
-                to="/techs/Squires"
-                >護衛</nuxt-link
-              >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              ><nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -551,11 +555,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/castle_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

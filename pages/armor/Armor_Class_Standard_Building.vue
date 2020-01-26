@@ -52,18 +52,16 @@
                     /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
                   </li>
                   <li>
-                    <img
-                      width="25px"
-                      src="~assets/mill.png"
-                      alt=""
-                    /><nuxt-link to="/building/Mill">磨坊</nuxt-link>
+                    <img width="25px" src="~assets/mill.png" alt="" /><nuxt-link
+                      to="/building/Mill"
+                      >磨坊</nuxt-link
+                    >
                   </li>
                   <li>
-                    <img
-                      width="25px"
-                      src="~assets/farm.png"
-                      alt=""
-                    /><nuxt-link to="/building/Farm">農田</nuxt-link>
+                    <img width="25px" src="~assets/farm.png" alt="" /><nuxt-link
+                      to="/building/Farm"
+                      >農田</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -112,11 +110,10 @@
               <div class="col-md-4">
                 <ul>
                   <li>
-                    <img
-                      width="25px"
-                      src="~assets/dock.png"
-                      alt=""
-                    /><nuxt-link to="/building/Dock">碼頭</nuxt-link>
+                    <img width="25px" src="~assets/dock.png" alt="" /><nuxt-link
+                      to="/building/Dock"
+                      >碼頭</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -188,11 +185,10 @@
               <div class="col-md-4">
                 <ul>
                   <li>
-                    <img
-                      width="25px"
-                      src="~assets/gate.png"
-                      alt=""
-                    /><nuxt-link to="/building/Gate">城門</nuxt-link>
+                    <img width="25px" src="~assets/gate.png" alt="" /><nuxt-link
+                      to="/building/Gate"
+                      >城門</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -239,11 +235,9 @@
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
-                    <img
-                      width="25px"
-                      src="~assets/dock.png"
-                      alt=""
-                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    <img width="25px" src="~assets/dock.png" alt="" /><nuxt-link
+                      to="/building/Harbor"
+                      >海港</nuxt-link
                     >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>

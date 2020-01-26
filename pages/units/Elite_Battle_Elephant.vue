@@ -175,11 +175,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Chatras"
+                >恰特拉傘</nuxt-link
               >(+50，<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
             </td>
           </tr>
@@ -207,19 +205,19 @@
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定<br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Tusk_Swords">象牙劍</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Tusk_Swords"
+                >象牙劍</nuxt-link
               >(+3。<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定 )
             </td>
           </tr>
@@ -247,14 +245,10 @@
                 alt=""
               /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
               >(+1/+2) <br />
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Howdah">象轎</nuxt-link>(+1/+1，<nuxt-link
-                to="/civs/Burmese"
-                >緬甸</nuxt-link
-              >限定)
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Howdah"
+                >象轎</nuxt-link
+              >(+1/+1，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
             </td>
           </tr>
           <tr>

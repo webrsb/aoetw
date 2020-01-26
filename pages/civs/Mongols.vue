@@ -69,9 +69,10 @@
               >:房子被拆後，人口不會減少
             </li>
             <li>
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Drill"
-                >演習</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Drill">演習</nuxt-link
               >:使得攻城武器+50%移動速度
             </li>
           </ul>
@@ -216,10 +217,10 @@
                 >游牧</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Drill"
-                >演習</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Drill">演習</nuxt-link>
             </td>
           </tr>
         </table>

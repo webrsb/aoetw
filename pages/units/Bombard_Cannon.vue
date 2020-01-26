@@ -167,9 +167,11 @@
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊加成+20%。<br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Torsion_Engines"
-                >扭力彈射器</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
               >：<nuxt-link to="/units//building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >的單位傷害範圍增加。<nuxt-link to="/civs/Ethiopians"
@@ -188,19 +190,26 @@
               >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
               >除外)<br />
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Artillery"
-                >砲兵</nuxt-link
-              >(+2，<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定)
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Artillery">砲兵</nuxt-link>(+2，<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">命中率</td>
             <td class="tta4">
-              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Arquebus"
-                >火繩槍</nuxt-link
-              >:<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>:<nuxt-link
+                to="/units/Gunpowder_Unit"
+                >火藥單位</nuxt-link
               >對移動目標的命中率提升。<nuxt-link to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >限定
@@ -209,11 +218,9 @@
           <tr>
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
-              <img
-                src="~assets/unique_tech.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Ironclad"
+                >鋼鐵甲</nuxt-link
               >(+4/+0，<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定)
             </td>
           </tr>

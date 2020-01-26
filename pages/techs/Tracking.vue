@@ -14,6 +14,11 @@
               >步兵</nuxt-link
             ><nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>+2。
           </p>
+          <p>
+            此科技原先在<nuxt-link to="/building/Barracks">軍營</nuxt-link
+            >中研發，在《<nuxt-link to="/games/de">世紀帝國II：決定版</nuxt-link
+            >》中移除了追蹤技術，改為所有文明只要升級到封建時代就會自動擁有該技術效果。
+          </p>
         </div>
         <h3>受影響的單位</h3>
         <div class="hrn1"></div>
@@ -308,8 +313,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            隨著<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
-            >的消逝和野蠻人部族成為訓練有素的軍隊，軍事技術有了新的改善。新的軍隊為選舉和演習做好了充分的準備。這些改進的另一個好處是不容易出現意外和伏擊。
+            隨著黑暗時代的消逝和野蠻人部族成為訓練有素的軍隊，軍事技術有了新的改善。新的軍隊為選舉和演習做好了充分的準備。這些改進的另一個好處是不容易出現意外和伏擊。
           </p>
         </div>
       </div>
@@ -341,11 +345,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/feudal_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              <img class="gg" src="~assets/feudal_age.png" alt="" /><nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

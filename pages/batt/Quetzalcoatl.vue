@@ -29,17 +29,13 @@
           <ul>
             <li>
               起始時代:
-              <img
-                src="~assets/imperial_age.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              <img src="~assets/imperial_age.png" class="gg" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
               >(難度:標準)；
-              <img
-                src="~assets/castle_age.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              <img src="~assets/castle_age.png" class="gg" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
               >(難度:中、難)
             </li>
             <li>

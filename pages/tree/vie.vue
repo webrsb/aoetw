@@ -58,8 +58,8 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/tracking.png" alt="" />
-              <div><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link></div>
+              <img class="gg" src="~assets/Suplliesicon.png" alt="" />
+              <div><nuxt-link to="/techs/Supplies">供給</nuxt-link></div>
             </td>
             <td class="t19 trm"></td>
           </tr>
@@ -530,12 +530,7 @@
               <div><nuxt-link to="/units/Petard">爆炸桶</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                width="30"
-                alt=""
-              />
+              <img class="gg" src="~assets/unique_tech.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
@@ -569,7 +564,12 @@
               <div><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img class="gg" src="~assets/unique_tech_imperial.png" width="30" alt="" />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              />
               <div><nuxt-link to="/techs/Paper_Money">紙幣</nuxt-link></div>
             </td>
             <td class="t13 trm">
@@ -732,10 +732,11 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/crop_rotation.png" alt="" /><nuxt-link
-                to="/techs/Crop_Rotation"
-                >輪耕</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/crop_rotation.png"
+                alt=""
+              /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>
             </td>
             <td class="t23 trm"></td>
             <td class="t23 trm"></td>

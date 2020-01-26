@@ -784,21 +784,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/imperial_age.png"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/barracks.png"
-                alt=""
-              /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
+              <img class="gg" src="~assets/barracks.png" alt="" /><nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >
             </td>
           </tr>
           <tr>

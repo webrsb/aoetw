@@ -116,17 +116,17 @@
           <h3>特殊科技</h3>
           <ul>
             <p>
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                alt=""
-              /><nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Mercenaries"
+                >僱傭兵</nuxt-link
               >：生產馬扎爾驃騎兵時不需要黃金。
             </p>
             <p>
-              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
-                to="/techs/Recurve_Bow"
-                >反曲弓</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
               >：馬弓騎兵攻擊與距離額外+1。
             </p>
           </ul>
@@ -246,10 +246,10 @@
                 to="/techs/Mercenaries"
                 >僱傭兵</nuxt-link
               ><br />
-              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
-                to="/techs/Recurve_Bow"
-                >反曲弓</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>
             </td>
           </tr>
         </table>
