@@ -38,7 +38,6 @@
               <nuxt-link to="//units/animal/Jaguar">豹</nuxt-link>• 
               <nuxt-link to="/units/animal/Bactrian_Camel">科莫多巨蜥</nuxt-link>•
               <nuxt-link to="/units/animal/Lion">獅子</nuxt-link>•
-              <nuxt-link to="/units/animal/Rabid_Wolf">Rabid_Wolf</nuxt-link>•
               <nuxt-link to="//units/animal/Snow_Leopard">雪豹</nuxt-link>• 
               <nuxt-link to="/units/animal/Tiger">虎</nuxt-link>•
               <nuxt-link to="//units/animal/Wild_Bactrian_Camel">野生雙峰駱駝</nuxt-link> •
@@ -62,7 +61,7 @@
           <tr>
             <td class="unit3" style="width: 8%;">水域可食用</td>
             <td class="unit3">
-              <nuxt-link to="/units/animal/Box_Turtle">海龜</nuxt-link>•
+              <nuxt-link to="/units/animal/Box_Turtle">箱龜</nuxt-link>•
               <nuxt-link to="/units/animal/Dolphin">海豚</nuxt-link>•
               <nuxt-link to="/units/animal/Dorado">鬼頭刀</nuxt-link>•
               <nuxt-link to="/units/animal/Marlin">馬林魚</nuxt-link>•
