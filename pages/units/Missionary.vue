@@ -96,7 +96,7 @@
               <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </td>
             <td class="tta4">
-              <img class="gg" src="~assets/Sanctity.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/sanctity.png" alt="" /><nuxt-link
                 to="/techs/Sanctity"
                 >聖潔虔誠</nuxt-link
               >(+15) <br />
@@ -113,7 +113,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Blockprinting.jpg"
+                src="~assets/block_printing.png"
                 alt=""
               /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link>(+3)
             </td>
@@ -121,7 +121,7 @@
           <tr>
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Fervor.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/fervor.png" alt="" /><nuxt-link
                 to="/techs/Fervor"
                 >宗教狂熱</nuxt-link
               >(+15%)
@@ -130,17 +130,17 @@
           <tr>
             <td class="tta1" style="width:10%">招降</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/redemption.png" alt="" /><nuxt-link
                 to="/techs/Redemption"
                 >信仰救贖</nuxt-link
               >:僧侶可招降大部分建築物和<nuxt-link to="/units/Siege_Weapons"
                 >攻城單位</nuxt-link
               >。<br />
-              <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/atonement.png" alt="" /><nuxt-link
                 to="/techs/Atonement"
                 >贖罪</nuxt-link
               >:僧侶可招降對方的僧侶。<br />
-              <img class="gg" src="~assets/Illumination.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/illumination.png" alt="" /><nuxt-link
                 to="/techs/Illumination"
                 >啟發教化</nuxt-link
               >:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
@@ -150,7 +150,7 @@
                 >神權統治</nuxt-link
               >:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。<br />
               <img
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
@@ -165,7 +165,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -191,7 +191,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HalberdierIcon.jpg"
+                      src="~assets/HalberdierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
@@ -201,7 +201,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/PikemanIcon.jpg"
+                      src="~assets/PikemanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                   </li>
@@ -211,7 +211,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HeavyCamelIcon.jpg"
+                      src="~assets/HeavyCamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
@@ -231,20 +231,20 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SpearmanIcon.jpg"
+                      src="~assets/SpearmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
@@ -256,7 +256,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EliteEagleWarriorIcon.jpg"
+                      src="~assets/EliteEagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Eagle_Warrior"
                       >精銳鷹勇士</nuxt-link
@@ -284,12 +284,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HussarIcon.jpg"
+                      src="~assets/HussarIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                       to="/units/Samurai"
                       >精銳日本武士</nuxt-link
                     >(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)
@@ -302,7 +302,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EagleWarriorIcon.jpg"
+                      src="~assets/EagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
                   </li>
@@ -312,12 +312,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/LightCavalryIcon.jpg"
+                      src="~assets/LightCavalryIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                       to="/units/Samurai"
                       >日本武士</nuxt-link
                     >(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)
@@ -328,7 +328,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CamelIcon.jpg"
+                      src="~assets/CamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
                   </li>
@@ -354,7 +354,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EagleScoutIcon.jpg"
+                      src="~assets/EagleScoutIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
                   </li>
@@ -376,7 +376,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/ScoutCavalryIcon.jpg"
+                      src="~assets/ScoutCavalryIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link>
                   </li>
@@ -400,7 +400,7 @@
           <div class="n1">
             <img
               class="gg"
-              src="~assets/CastleAgeUnique.png"
+              src="~assets/unique_tech.png"
               width="22"
               alt=""
             /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
@@ -413,50 +413,50 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/MilitiaIcon.jpg"
+                  src="~assets/MilitiaIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/ManAtArmsIcon.jpg"
+                  src="~assets/ManAtArmsIcon.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/LongswordsManIcon.jpg"
+                  src="~assets/LongswordsManIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/2HandedswordsmanIcon.jpg"
+                  src="~assets/2HandedswordsmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Two-Handed_Swordsman"
                   >雙手劍兵</nuxt-link
                 >→
                 <img
                   class="gg"
-                  src="~assets/ChampionIcon.jpg"
+                  src="~assets/ChampionIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/SpearmanIcon.jpg"
+                  src="~assets/SpearmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/PikemanIcon.jpg"
+                  src="~assets/PikemanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </li>
               <li>
-                <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >狂戰士</nuxt-link
-                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                >→ <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >精銳狂戰士</nuxt-link
                 >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
@@ -464,7 +464,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/CondottieroNewIcon.jpg"
+                  src="~assets/CondottieroIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                 >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -592,7 +592,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/MissionaryIcon.jpg" width="45" alt="" />
+                <img src="~assets/MissionaryIcon.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -621,7 +621,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -631,7 +631,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Monasteryicon.png"
+                src="~assets/monastery.png"
                 alt=""
               /><nuxt-link to="/building/Monastery">修道院</nuxt-link>
             </td>

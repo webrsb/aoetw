@@ -28,7 +28,7 @@
               <td class="tc2" width="17%">
                 <img
                   class="gg"
-                  src="~assets/Castle-age-reseach.jpg"
+                  src="~assets/castle_age.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
@@ -127,7 +127,7 @@
             <dd>
               <img
                 class="gg"
-                src="~assets/TransportShipIcon.jpg"
+                src="~assets/TransportShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>*3
             </dd>

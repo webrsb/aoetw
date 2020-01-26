@@ -132,26 +132,26 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Forging.jpg"
+                src="~assets/forging.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Ironcasting.jpg"
+                src="~assets/iron_casting.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Blastfurnace.jpg"
+                src="~assets/blast_furnace.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
               <img
                 class="gg"
-                src="~assets/Arson.jpg"
+                src="~assets/Arson.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
@@ -161,7 +161,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Unique-tech.jpg"
+                src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
@@ -174,7 +174,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Scalemailarmor.jpg"
+                src="~assets/scale_mail_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link
@@ -188,7 +188,7 @@
               >(+1/+1) <br />
               <img
                 class="gg"
-                src="~assets/Platemailarmor.jpg"
+                src="~assets/plate_mail_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
@@ -200,7 +200,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Squires.jpg"
+                src="~assets/squires.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
@@ -213,7 +213,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Tracking.jpg"
+                src="~assets/tracking.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
@@ -226,7 +226,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -243,7 +243,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
@@ -263,13 +263,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
@@ -281,13 +281,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CataphractIcon.jpg"
+                      src="~assets/CataphractIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                       to="/units/Samurai"
                       >精銳日本武士</nuxt-link
                     >(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)
@@ -298,7 +298,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/JaguarWarriorIcon.jpg"
+                      src="~assets/JaguarWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Jaguar_Warrior"
                       >精銳豹勇士</nuxt-link
@@ -310,7 +310,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HandCannoneerIcon.jpg"
+                      src="~assets/HandCannoneerIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
                   </li>
@@ -325,13 +325,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/JaguarWarriorIcon.jpg"
+                      src="~assets/JaguarWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
                     >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                       to="/units/Samurai"
                       >日本武士</nuxt-link
                     >(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)
@@ -344,7 +344,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CataphractIcon.jpg"
+                      src="~assets/CataphractIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
@@ -355,7 +355,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/PlumedArcherIcon.jpg"
+                      src="~assets/PlumedArcherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
@@ -367,7 +367,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/PlumedArcherIcon.jpg"
+                      src="~assets/PlumedArcherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
@@ -381,7 +381,7 @@
         <div class="n1">
           <img
             class="gg"
-            src="~assets/Unique-tech.jpg"
+            src="~assets/unique_tech_imperial.png"
             width="22"
             alt=""
           /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
@@ -390,12 +390,12 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CataphractIcon.jpg"
+                src="~assets/CataphractIcon.png"
                 alt=""
               /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/CataphractIcon.jpg"
+                src="~assets/CataphractIcon.png"
                 alt=""
               /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
               >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
@@ -514,7 +514,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/JaguarWarriorIcon.jpg" width="45" alt="" />
+                <img src="~assets/JaguarWarriorIcon.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -544,7 +544,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -657,7 +657,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/JaguarWarriorIcon.jpg"
+                src="~assets/JaguarWarriorIcon.png"
                 alt=""
               />精銳豹勇士
             </td>
@@ -667,7 +667,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Elite-unique-research.jpg"
+                src="~assets/elit_unique_unit.png"
                 alt=""
               />1000食物500黃金
             </td>

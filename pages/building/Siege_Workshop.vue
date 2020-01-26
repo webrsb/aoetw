@@ -30,7 +30,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/BatteringRamIcon.jpg"
+                    src="~assets/BatteringRamIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>
@@ -38,7 +38,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/MangonelIcon.jpg"
+                    src="~assets/MangonelIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>
@@ -46,7 +46,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/ScorpionIcon.jpg"
+                    src="~assets/ScorpionIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
@@ -71,7 +71,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/CappedRamIcon.jpg"
+                    src="~assets/CappedRamIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>
@@ -79,7 +79,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/SiegeRamIcon.jpg"
+                    src="~assets/SiegeRamIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>
@@ -87,7 +87,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/OnagerIcon.jpg"
+                    src="~assets/OnagerIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Onager">中型投石車</nuxt-link>
@@ -95,7 +95,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/SiegeOnagerIcon.jpg"
+                    src="~assets/SiegeOnagerIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
@@ -103,7 +103,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/HeavyScorpionIcon.jpg"
+                    src="~assets/HeavyScorpionIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
@@ -111,7 +111,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/BombardCannonIcon.jpg"
+                    src="~assets/BombardCannonIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
@@ -149,13 +149,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -166,7 +166,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
@@ -174,7 +174,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -188,14 +188,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -208,7 +208,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -225,7 +225,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -435,7 +435,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Siegeworkshopicon.png" width="45" alt="" />
+                <img src="~assets/siege_workshop.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -493,13 +493,13 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />1800 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />2100
@@ -514,13 +514,13 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />2 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />3
@@ -531,13 +531,13 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />9 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />10

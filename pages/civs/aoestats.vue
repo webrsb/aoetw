@@ -65,43 +65,43 @@
 </template>
 <script>
 import axios from 'axios'
-import Britons from '@/assets/LongbowmanIcon.jpg'
+import Britons from '@/assets/LongbowmanIcon.png'
 
 const civ_wrap = {
-  Aztecs: { name: '阿茲特克', img: require('@/assets/JaguarWarriorIcon.jpg') },
-  Berbers: { name: '柏柏', img: require('@/assets/CamelArcherIcon.jpg') },
-  Britons: { name: '不列顛', img: require('@/assets/LongbowmanIcon.jpg') },
+  Aztecs: { name: '阿茲特克', img: require('@/assets/JaguarWarriorIcon.png') },
+  Berbers: { name: '柏柏', img: require('@/assets/CamelArcherIcon.png') },
+  Britons: { name: '不列顛', img: require('@/assets/LongbowmanIcon.png') },
   Burmese: { name: '緬甸', img: require('@/assets/Arambaiicon.png') },
-  Byzantines: { name: '拜占庭', img: require('@/assets/CataphractIcon.jpg') },
-  Celts: { name: '塞爾特', img: require('@/assets/WBRSK.jpg') },
-  Chinese: { name: '中國', img: require('@/assets/ChuKoNuIcon.jpg') },
+  Byzantines: { name: '拜占庭', img: require('@/assets/CataphractIcon.png') },
+  Celts: { name: '塞爾特', img: require('@/assets/WBRSK.png') },
+  Chinese: { name: '中國', img: require('@/assets/ChuKoNuIcon.png') },
   Ethiopians: { name: '衣索比亞', img: require('@/assets/ShotelIcon.png') },
-  Franks: { name: '法蘭克', img: require('@/assets/TAXEM.jpg') },
-  Goths: { name: '哥德', img: require('@/assets/HuskarlIcon.jpg') },
-  Huns: { name: '匈奴', img: require('@/assets/TarkanIcon.jpg') },
+  Franks: { name: '法蘭克', img: require('@/assets/TAXEM.png') },
+  Goths: { name: '哥德', img: require('@/assets/HuskarlIcon.png') },
+  Huns: { name: '匈奴', img: require('@/assets/TarkanIcon.png') },
   Incas: { name: '印加', img: require('@/assets/Kamayuk_Icon.jpg') },
-  Indians: { name: '印度', img: require('@/assets/ElephantArcherIcon.jpg') },
+  Indians: { name: '印度', img: require('@/assets/ElephantArcherIcon.png') },
   Italians: {
     name: '義大利',
     img: require('@/assets/New_Genoese_Crossbowman.png')
   },
-  Japanese: { name: '日本', img: require('@/assets/SMURI.jpg') },
+  Japanese: { name: '日本', img: require('@/assets/SMURI.png') },
   Khmer: { name: '高棉', img: require('@/assets/Ballistaelephanticon.png') },
-  Koreans: { name: '韓國', img: require('@/assets/WarWagonIcon.jpg') },
-  Magyars: { name: '馬札爾', img: require('@/assets/Magyar_Huszar_icon.jpg') },
+  Koreans: { name: '韓國', img: require('@/assets/WarWagonIcon.png') },
+  Magyars: { name: '馬札爾', img: require('@/assets/Magyar_Huszar_icon.png') },
   Malay: { name: '馬來', img: require('@/assets/Karambitwarrioricon.png') },
   Malians: { name: '馬利', img: require('@/assets/GbetoIcon.png') },
-  Mayans: { name: '馬雅', img: require('@/assets/PlumedArcherIcon.jpg') },
-  Mongols: { name: '蒙古', img: require('@/assets/MangudaiIcon.jpg') },
-  Persians: { name: '波斯', img: require('@/assets/WarElephantIcon.jpg') },
-  Portuguese: { name: '葡萄牙', img: require('@/assets/OrganGunIcon.jpg') },
+  Mayans: { name: '馬雅', img: require('@/assets/PlumedArcherIcon.png') },
+  Mongols: { name: '蒙古', img: require('@/assets/MangudaiIcon.png') },
+  Persians: { name: '波斯', img: require('@/assets/WarElephantIcon.png') },
+  Portuguese: { name: '葡萄牙', img: require('@/assets/OrganGunIcon.png') },
   Saracens: { name: '薩拉森', img: require('@/assets/Saracenmamluk_icon.png') },
   Slavs: { name: '斯拉夫', img: require('@/assets/New_Boyar.png') },
-  Spanish: { name: '西班牙', img: require('@/assets/ConquistadorIcon.jpg') },
+  Spanish: { name: '西班牙', img: require('@/assets/ConquistadorIcon.png') },
   Teutons: { name: '條頓', img: require('@/assets/Crusade_avatar.png') },
-  Turks: { name: '土耳其', img: require('@/assets/JanissaryIcon.jpg') },
+  Turks: { name: '土耳其', img: require('@/assets/JanissaryIcon.png') },
   Vietnamese: { name: '越南', img: require('@/assets/RattanarcherIcon2.png') },
-  Vikings: { name: '維京', img: require('@/assets/VBRSK.jpg') }
+  Vikings: { name: '維京', img: require('@/assets/VBRSK.png') }
 }
 
 export default {

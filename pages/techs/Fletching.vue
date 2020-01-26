@@ -61,7 +61,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Fletching.jpg" width="45" alt="" />
+                <img src="~assets/fletching.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -93,7 +93,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Bodkinarrow.jpg"
+                src="~assets/bodkin_arrow.png"
                 width="45"
                 alt=""
               /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>

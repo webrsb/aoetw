@@ -135,7 +135,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Illumination.jpg" width="45" alt="" />
+                <img src="~assets/illumination.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -155,7 +155,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
@@ -165,7 +165,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Monasteryicon.png"
+                src="~assets/monastery.png"
                 alt=""
               /><nuxt-link to="/building/Monastery">修道院</nuxt-link>
             </td>

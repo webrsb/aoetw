@@ -30,7 +30,7 @@
           <ul>
             <li>
               起始時代：<img
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>

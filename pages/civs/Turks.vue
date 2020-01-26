@@ -187,7 +187,7 @@
             <p>
               <img
                 class="gg"
-                src="~assets/JanissaryIcon.jpg"
+                src="~assets/JanissaryIcon.png"
                 alt=""
               /><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >:更強大火力更遠射程的<nuxt-link to="/units/Hand_Cannoneer"
@@ -200,7 +200,7 @@
             <p>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 alt=""
               /><nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>：<nuxt-link
                 to="/armor/Armor_Class_Cavalry_Archer"
@@ -208,7 +208,7 @@
               >血量+20。
             </p>
             <p>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Artillery"
                 >火砲術</nuxt-link
               >：<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
@@ -333,7 +333,7 @@
               <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
             </td>
             <td class="unit4">
-              <img class="gg" src="~assets/JanissaryIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/JanissaryIcon.png" /><nuxt-link
                 to="/units/Janissary"
                 >土耳其火槍兵</nuxt-link
               >
@@ -352,11 +352,11 @@
               <nuxt-link to="/techs/untech">特殊技術</nuxt-link>
             </td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Sipahi"
                 >采邑騎兵</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Artillery"
                 >火砲術</nuxt-link
               >

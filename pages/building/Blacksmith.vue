@@ -47,7 +47,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Paddedarcherarmor.jpg"
+                      src="~assets/padded_archer_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Padded_Archer_Armor"
                       >弓兵布甲</nuxt-link
@@ -56,21 +56,21 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Fletching.jpg"
+                      src="~assets/fletching.png"
                       alt=""
                     /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Forging.jpg"
+                      src="~assets/forging.png"
                       alt=""
                     /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Scalebardingarmor.jpg"
+                      src="~assets/scale_barding_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Scale_Barding_Armor"
                       >騎兵鱗甲</nuxt-link
@@ -79,7 +79,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Scalemailarmor.jpg"
+                      src="~assets/scale_mail_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Scale_Mail_Armor"
                       >步兵鱗甲</nuxt-link
@@ -97,7 +97,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Leatherarcherarmor.jpg"
+                      src="~assets/leather_archer_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Leather_Archer_Armor"
                       >弓兵皮甲</nuxt-link
@@ -106,14 +106,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Bodkinarrow.jpg"
+                      src="~assets/bodkin_arrow.png"
                       alt=""
                     /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Ironcasting.jpg"
+                      src="~assets/iron_casting.png"
                       alt=""
                     /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>
                   </li>
@@ -147,7 +147,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Ringarcherarmor.jpg"
+                      src="~assets/ring_archer_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Ring_Archer_Armor"
                       >弓兵環甲</nuxt-link
@@ -162,14 +162,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Blastfurnace.jpg"
+                      src="~assets/blast_furnace.png"
                       alt=""
                     /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Platebardingarmor.jpg"
+                      src="~assets/scale_barding_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Plate_Barding_Armor"
                       >騎兵板甲</nuxt-link
@@ -178,7 +178,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Platemailarmor.jpg"
+                      src="~assets/plate_mail_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Plate_Mail_Armor"
                       >步兵板甲</nuxt-link
@@ -214,14 +214,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Masonry.jpg"
+                  src="~assets/masonry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -232,14 +232,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Masonry.jpg"
+                  src="~assets/masonry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                 >(護甲+1/+1，+3建築護甲) <br />
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -253,14 +253,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Townwatch.jpg"
+                  src="~assets/tower_watch.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Townpatrol.jpg"
+                  src="~assets/town_patrol.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -273,7 +273,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Faith.jpg"
+                  src="~assets/faith.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -290,7 +290,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Treadmillcrane.jpg"
+                  src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -477,7 +477,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Blacksmithicon.png" width="45" alt="" />
+                <img src="~assets/blacksmith.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -539,19 +539,19 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="30"
                 alt=""
               />1800 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />2100 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />2100
@@ -562,19 +562,19 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="30"
                 alt=""
               />1 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />2 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />3
@@ -585,19 +585,19 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="30"
                 alt=""
               />8 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />9 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />10

@@ -107,7 +107,7 @@
             <p>
               <img
                 class="gg"
-                src="~assets/Magyar_Huszar_icon.jpg"
+                src="~assets/Magyar_Huszar_icon.png"
                 alt=""
               /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
               >：便宜的輕騎兵，對攻城器有加成。
@@ -118,13 +118,13 @@
             <p>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 alt=""
               /><nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link
               >：生產馬扎爾驃騎兵時不需要黃金。
             </p>
             <p>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Recurve_Bow"
                 >反曲弓</nuxt-link
               >：馬弓騎兵攻擊與距離額外+1。
@@ -224,7 +224,7 @@
               <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
             </td>
             <td class="unit4">
-              <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/Magyar_Huszar_icon.png" /><nuxt-link
                 to="/units/Magyar_Huszar"
                 >馬扎爾驃騎兵</nuxt-link
               >
@@ -242,11 +242,11 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Mercenaries"
                 >僱傭兵</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Recurve_Bow"
                 >反曲弓</nuxt-link
               >

@@ -92,27 +92,27 @@
             </td>
             <td class="tta4">
               <p>
-                <img src="~assets/Forging.jpg" width="30" alt="" /><nuxt-link
+                <img src="~assets/forging.png" width="30" alt="" /><nuxt-link
                   to="/techs/Forging"
                   >鍛造</nuxt-link
                 >(+1)
               </p>
               <p>
                 <img
-                  src="~assets/Ironcasting.jpg"
+                  src="~assets/iron_casting.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
               </p>
               <p>
                 <img
-                  src="~assets/Blastfurnace.jpg"
+                  src="~assets/blast_furnace.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               </p>
               <p>
-                <img src="~assets/Arson.jpg" width="30" alt="" /><nuxt-link
+                <img src="~assets/Arson.png" width="30" alt="" /><nuxt-link
                   to="/techs/Arson"
                   >縱火</nuxt-link
                 >(步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Building"
@@ -126,7 +126,7 @@
             <td class="tta4">
               <p>
                 <img
-                  src="~assets/Scalemailarmor.jpg"
+                  src="~assets/scale_mail_armor.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link
@@ -142,7 +142,7 @@
               </p>
               <p>
                 <img
-                  src="~assets/Platemailarmor.jpg"
+                  src="~assets/plate_mail_armor.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
@@ -154,7 +154,7 @@
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
               <p>
-                <img src="~assets/Squires.jpg" width="30" alt="" /><nuxt-link
+                <img src="~assets/squires.png" width="30" alt="" /><nuxt-link
                   to="/techs/Squires"
                   >護衛</nuxt-link
                 >(+10%)
@@ -167,7 +167,7 @@
             </td>
             <td class="tta4">
               <p>
-                <img src="~assets/Tracking.jpg" width="30" alt="" /><nuxt-link
+                <img src="~assets/tracking.png" width="30" alt="" /><nuxt-link
                   to="/techs/Tracking"
                   >追蹤技術</nuxt-link
                 >(+2)
@@ -188,7 +188,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ChampionIcon.jpg" width="80" alt="" />
+                <img src="~assets/ChampionIcon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

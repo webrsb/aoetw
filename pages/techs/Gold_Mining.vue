@@ -54,7 +54,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Goldmining.jpg" width="45" alt="" />
+                <img src="~assets/gold_mining.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -74,7 +74,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
@@ -84,7 +84,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Miningcampicon.png"
+                src="~assets/mining_camp.png"
                 alt=""
               /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
             </td>
@@ -94,7 +94,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Goldshaftmining.jpg"
+                src="~assets/gold_shaft_mining.png"
                 alt=""
               /><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
             </td>

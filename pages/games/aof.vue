@@ -92,14 +92,14 @@
             <li>
               <img
                 class="gg"
-                src="~assets/EagleScoutIcon.jpg"
+                src="~assets/EagleScoutIcon.png"
                 alt=""
               /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
             </li>
             <li>
               <img
                 class="gg"
-                src="~assets/CondottieroNewIcon.jpg"
+                src="~assets/CondottieroIcon.png"
                 alt=""
               /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
             </li>
@@ -135,14 +135,14 @@
             <li>
               <img
                 class="gg"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>
             </li>
             <li>
               <img
                 class="gg"
-                src="~assets/Magyar_Huszar_icon.jpg"
+                src="~assets/Magyar_Huszar_icon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>

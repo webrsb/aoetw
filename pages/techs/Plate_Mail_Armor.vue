@@ -132,7 +132,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Platemailarmor.jpg" width="45" alt="" />
+                <img src="~assets/plate_mail_armor.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -152,7 +152,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
@@ -162,7 +162,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Blacksmithicon.png"
+                src="~assets/blacksmith.png"
                 alt=""
               /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             </td>

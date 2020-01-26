@@ -24,12 +24,12 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/ArcherIcon.jpg" />
+              <img class="gg" src="~assets/ArcherIcon.png" />
               <div><nuxt-link to="/units/Archer">弓兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/SkirmisherIcon.jpg" />
+              <img class="gg" src="~assets/SkirmisherIcon.png" />
               <div><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -43,7 +43,7 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/CrossbowmanIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/CrossbowmanIcon.png" /><nuxt-link
                 to="/units/Crossbowman"
               >
                 <div>
@@ -52,7 +52,7 @@
               ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/EliteSkirmisherIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/EliteSkirmisherIcon.png" /><nuxt-link
                 to="/units/Elite_Skirmisher"
                 ><div>
                   <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
@@ -60,7 +60,7 @@
               ><i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/CavalryArcherIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/CavalryArcherIcon.png" /><nuxt-link
                 to="/units/Cavalry_Archer"
                 ><div>
                   <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
@@ -76,7 +76,7 @@
               >
             </td>
             <td class="t15 trm not">
-              <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/GenitourIcon.png" /><nuxt-link
                 to="/units/Genitour"
                 ><div>
                   <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
@@ -98,7 +98,7 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t15 trm not">
-              <img class="gg" src="~assets/ArbalestIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/ArbalestIcon.png" /><nuxt-link
                 to="/units/Arbalest"
                 ><div>
                   <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
@@ -118,7 +118,7 @@
               >
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/HeavyCavArcherIcon.png" /><nuxt-link
                 to="/units/Heavy_Cavalry_Archer"
                 ><div>
                   <nuxt-link to="/units/Heavy_Cavalry_Archer"
@@ -128,7 +128,7 @@
               >
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/HandCannoneerIcon.png" /><nuxt-link
                 to="/units/Hand_Cannoneer"
                 ><div>
                   <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
@@ -136,7 +136,7 @@
               >
             </td>
             <td class="t15 trm not">
-              <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/GenitourIcon.png" /><nuxt-link
                 to="/units/Genitour"
                 ><div>
                   <nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link>
@@ -144,7 +144,7 @@
               >
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/Parthian-Tactics.jpg" /><nuxt-link
+              <img class="gg" src="~assets/parthian_tactics.png" /><nuxt-link
                 to="/techs/Parthian_Tactics"
                 ><div>
                   <nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
@@ -158,7 +158,7 @@
           <tr>
             <td class="trm" colspan="6" style="border-top: none;">
               <nuxt-link to="/building/Barracks"
-                ><img class="ng" src="~assets/Barracks-logo.jpg" alt=""
+                ><img class="ng" src="~assets/barracks.png" alt=""
               /></nuxt-link>
               <div id="軍營">
                 <nuxt-link to="/building/Barracks">軍營</nuxt-link>
@@ -170,7 +170,7 @@
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/MilitiaIcon.jpg" alt="" />
+              <img class="gg" src="~assets/MilitiaIcon.png" alt="" />
               <div><nuxt-link to="/units/Militia">民兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -186,7 +186,7 @@
             <td class="t19 trm">
               <img
                 class="gg"
-                src="~assets/ManAtArmsIcon.jpg"
+                src="~assets/ManAtArmsIcon.png"
                 width="22"
                 alt=""
               />
@@ -194,12 +194,12 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
+              <img class="gg" src="~assets/SpearmanIcon.png" alt="" />
               <div><nuxt-link to="/units/Spearman">長槍兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm not">
-              <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
+              <img class="gg" src="~assets/EagleScoutIcon.png" alt="" />
               <div><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -215,29 +215,29 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" />
+              <img class="gg" src="~assets/LongswordsManIcon.png" alt="" />
               <div>
                 <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
+              <img class="gg" src="~assets/PikemanIcon.png" alt="" />
               <div><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <!--<i class="fas fa-times"></i>-->
             <td class="t19 trm not">
-              <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" />
+              <img class="gg" src="~assets/EagleWarriorIcon.png" alt="" />
               <div><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Squires.jpg" alt="" />
+              <img class="gg" src="~assets/squires.png" alt="" />
               <div><nuxt-link to="/techs/Squires">護衛</nuxt-link></div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Arson.jpg" alt="" />
+              <img class="gg" src="~assets/Arson.png" alt="" />
               <div><nuxt-link to="/techs/Arson">縱火</nuxt-link></div>
             </td>
           </tr>
@@ -246,20 +246,20 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt="" />
+              <img class="gg" src="~assets/2HandedswordsmanIcon.png" alt="" />
               <div>
                 <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i><br />
-              <img class="gg not" src="~assets/ChampionIcon.jpg" alt="" />
+              <img class="gg not" src="~assets/ChampionIcon.png" alt="" />
               <div><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link></div>
             </td>
             <td class="t19 trm not">
-              <img class="gg" src="~assets/HalberdierIcon.jpg" alt="" />
+              <img class="gg" src="~assets/HalberdierIcon.png" alt="" />
               <div><nuxt-link to="/units/Halberdier">戟兵</nuxt-link></div>
             </td>
             <td class="t19 trm not">
-              <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="" />
+              <img class="gg" src="~assets/EliteEagleWarriorIcon.png" alt="" />
               <div>
                 <nuxt-link to="/units/Elite_Eagle_Warrior"
                   >精銳鷹勇士</nuxt-link
@@ -267,7 +267,7 @@
               </div>
             </td>
             <td class="t19 trm not">
-              <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" />
+              <img class="gg" src="~assets/CondottieroIcon.png" alt="" />
               <div><nuxt-link to="/units/Condottiero">傭兵</nuxt-link></div>
             </td>
             <td class="t19 trm"></td>
@@ -278,7 +278,7 @@
           <tr>
             <td class="trm" style="border-top: none;" colspan="6">
               <nuxt-link to="/building/Stable"
-                ><img class="ng" src="~assets/Stableicon.png" alt=""
+                ><img class="ng" src="~assets/stable.png" alt=""
               /></nuxt-link>
               <div><nuxt-link to="/building/Stable">馬廄</nuxt-link></div>
             </td>
@@ -288,7 +288,7 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" />
+              <img class="gg" src="~assets/ScoutCavalryIcon.png" />
               <div><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -305,17 +305,17 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/LightCavalryIcon.jpg" />
+              <img class="gg" src="~assets/LightCavalryIcon.png" />
               <div><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/KnightIcon.jpg" />
+              <img class="gg" src="~assets/KnightIcon.png" />
               <div><nuxt-link to="/units/Knight">騎士</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/CamelIcon.jpg" />
+              <img class="gg" src="~assets/CamelIcon.png" />
               <div><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -334,7 +334,7 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Husbandry.jpg" alt="" />
+              <img class="gg" src="~assets/husbandry.png" alt="" />
               <div><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link></div>
             </td>
           </tr>
@@ -343,20 +343,20 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/HussarIcon.jpg" />
+              <img class="gg" src="~assets/HussarIcon.png" />
               <div><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link></div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/CavalierIcon.jpg" />
+              <img class="gg" src="~assets/CavalierIcon.png" />
               <div><nuxt-link to="/units/Cavalier">騎兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
-                src="~assets/PaladinIcon.jpg"
+                src="~assets/PaladinIcon.png"
               />
               <div><nuxt-link to="/units/Paladin">遊俠</nuxt-link></div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/HeavyCamelIcon.jpg" />
+              <img class="gg" src="~assets/HeavyCamelIcon.png" />
               <div>
                 <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
               </div>
@@ -392,7 +392,7 @@
           <tr>
             <td class="trm" style="border-top: none;" colspan="5">
               <nuxt-link to="/building/Siege_Workshop"
-                ><img class="ng" src="~assets/Siegeworkshopicon.png" alt=""
+                ><img class="ng" src="~assets/siege_workshop.png" alt=""
               /></nuxt-link>
               <div id="攻城器製造所">
                 <nuxt-link to="/building/Siege_Workshop"
@@ -408,7 +408,7 @@
             <td class="t23 trm">
               <img
                 class="gg"
-                src="~assets/BatteringRamIcon.jpg"
+                src="~assets/BatteringRamIcon.png"
                 width="30"
                 alt=""
               />
@@ -418,7 +418,7 @@
             <td class="t23 trm">
               <img
                 class="gg"
-                src="~assets/MangonelIcon.jpg"
+                src="~assets/MangonelIcon.png"
                 width="30"
                 alt=""
               />
@@ -428,7 +428,7 @@
             <td class="t23 trm">
               <img
                 class="gg"
-                src="~assets/ScorpionIcon.jpg"
+                src="~assets/ScorpionIcon.png"
                 width="30"
                 alt=""
               />
@@ -452,7 +452,7 @@
             <td class="t23 trm">
               <img
                 class="gg"
-                src="~assets/CappedRamIcon.jpg"
+                src="~assets/CappedRamIcon.png"
                 width="30"
                 alt=""
               />
@@ -461,19 +461,19 @@
               </div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
-                src="~assets/SiegeRamIcon.jpg"
+                src="~assets/SiegeRamIcon.png"
                 width="30"
                 alt=""
               />
               <div><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link></div>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/OnagerIcon.png" width="30" alt="" />
               <div><nuxt-link to="/units/Onager">中型投石車</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
               <img
                 class="gg not"
-                src="~assets/SiegeOnagerIcon.jpg"
+                src="~assets/SiegeOnagerIcon.png"
                 width="30"
                 alt=""
               />
@@ -484,7 +484,7 @@
             <td class="t23 trm">
               <img
                 class="gg"
-                src="~assets/HeavyScorpionIcon.jpg"
+                src="~assets/HeavyScorpionIcon.png"
                 width="30"
                 alt=""
               />
@@ -495,7 +495,7 @@
             <td class="t23 trm not">
               <img
                 class="gg"
-                src="~assets/BombardCannonIcon.jpg"
+                src="~assets/BombardCannonIcon.png"
                 width="30"
                 alt=""
               />
@@ -508,7 +508,7 @@
           <tr>
             <td class="trm" colspan="6" style="border-top: none;">
               <nuxt-link to="/building/Blacksmith"
-                ><img class="ng" src="~assets/Blacksmithicon.png" alt=""
+                ><img class="ng" src="~assets/blacksmith.png" alt=""
               /></nuxt-link>
               <div id="兵工廠">
                 <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
@@ -520,31 +520,31 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Paddedarcherarmor.jpg" alt="" />
+              <img class="gg" src="~assets/padded_archer_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Fletching.jpg" alt="" />
+              <img class="gg" src="~assets/fletching.png" alt="" />
               <div><nuxt-link to="/techs/Fletching">箭羽</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Forging.jpg" alt="" />
+              <img class="gg" src="~assets/forging.png" alt="" />
               <div><nuxt-link to="/techs/Forging">鍛造</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Scalebardingarmor.jpg" alt="" />
+              <img class="gg" src="~assets/scale_barding_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Scalemailarmor.jpg" alt="" />
+              <img class="gg" src="~assets/scale_mail_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link>
               </div>
@@ -558,21 +558,21 @@
               </div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Leatherarcherarmor.jpg" alt="" />
+              <img class="gg" src="~assets/leather_archer_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Bodkinarrow.jpg" alt="" />
+              <img class="gg" src="~assets/bodkin_arrow.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Ironcasting.jpg" alt="" />
+              <img class="gg" src="~assets/iron_casting.png" alt="" />
               <div><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -598,7 +598,7 @@
               </div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Ringarcherarmor.jpg" alt="" />
+              <img class="gg" src="~assets/ring_archer_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>
               </div>
@@ -608,17 +608,17 @@
               <div><nuxt-link to="/techs/Bracer">護腕</nuxt-link></div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Blastfurnace.jpg" alt="" />
+              <img class="gg" src="~assets/blast_furnace.png" alt="" />
               <div><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link></div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Platebardingarmor.jpg" alt="" />
+              <img class="gg" src="~assets/scale_barding_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link>
               </div>
             </td>
             <td class="t19 trm not">
-              <img class="gg" src="~assets/Platemailarmor.jpg" alt="" />
+              <img class="gg" src="~assets/plate_mail_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link>
               </div>
@@ -630,7 +630,7 @@
           <tr>
             <td class="trm" colspan="10" style="border-top: none;">
               <nuxt-link to="/building/Dock"
-                ><img class="ng" src="~assets/Dockicon.png" alt=""
+                ><img class="ng" src="~assets/dock.png" alt=""
               /></nuxt-link>
               <div id="碼頭">
                 <nuxt-link to="/building/Dock">碼頭</nuxt-link>
@@ -642,11 +642,11 @@
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/FishingShipIcon.jpg" />
+              <img class="gg" src="~assets/FishingShipIcon.png" />
               <div><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link></div>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/TransportShipIcon.jpg" />
+              <img class="gg" src="~assets/TransportShipIcon.png" />
               <div>
                 <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>
               </div>
@@ -664,24 +664,24 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/FireGalleyIcon.jpg" />
+              <img class="gg" src="~assets/FireGalleyIcon.png" />
               <div><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/DemoRaftIcon.jpg" />
+              <img class="gg" src="~assets/DemoRaftIcon.png" />
               <div>
                 <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/Galley.jpg" />
+              <img class="gg" src="~assets/Galley.png" />
               <div><nuxt-link to="/units/Galley">戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/TradeCogIcon.jpg" />
+              <img class="gg" src="~assets/TradeCogIcon.png" />
               <div><nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link></div>
             </td>
             <td class="t10 trm"></td>
@@ -689,7 +689,7 @@
             <td class="t10 trm"></td>
             <td class="t10 trm"></td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/Fishtrapicon.png" />
+              <img class="gg" src="~assets/fish_trap.png" />
               <div><nuxt-link to="/building/Fish_Trap">漁網</nuxt-link></div>
             </td>
           </tr>
@@ -698,34 +698,34 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/FireShipIcon.jpg" />
+              <img class="gg" src="~assets/FireShipIcon.png" />
               <div><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/DemoShipIcon.jpg" />
+              <img class="gg" src="~assets/DemoShipIcon.png" />
               <div>
                 <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/WarGalley.jpg" />
+              <img class="gg" src="~assets/WarGalley.png" />
               <div><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm not">
-              <img class="gg" src="~assets/LongboatIcon.jpg" />
+              <img class="gg" src="~assets/LongboatIcon.png" />
               <div><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm not">
-              <img class="gg" src="~assets/TurtleShipIcon.jpg" />
+              <img class="gg" src="~assets/TurtleShipIcon.png" />
               <div><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm not">
-              <img class="gg" src="~assets/CaravelIcon2.jpg" />
+              <img class="gg" src="~assets/CaravelIcon.png" />
               <div><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -733,7 +733,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/Gillnetsicon.jpg"
+                src="~assets/gillnets.png"
                 alt=""
               />
               <div><nuxt-link to="/techs/Gillnets">流刺網</nuxt-link></div>
@@ -742,7 +742,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/Careening.jpg"
+                src="~assets/careening.png"
                 alt=""
               />
               <div><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link></div>
@@ -756,13 +756,13 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/FastFireShipIcon.jpg" />
+              <img class="gg" src="~assets/FastFireShipIcon.png" />
               <div>
                 <nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
               </div>
             </td>
             <td class="t10 trm not">
-              <img class="gg" src="~assets/HeavyDemoShipIcon.jpg" />
+              <img class="gg" src="~assets/HeavyDemoShipIcon.png" />
               <div>
                 <nuxt-link to="/units/Heavy_Demolition_Ship"
                   >重型神風船</nuxt-link
@@ -770,35 +770,35 @@
               </div>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/GalleonAoE2.jpg" />
+              <img class="gg" src="~assets/GalleonAoE2.png" />
               <div><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link></div>
             </td>
             <td class="t10 trm not">
-              <img class="gg" src="~assets/LongboatIcon.jpg" />
+              <img class="gg" src="~assets/LongboatIcon.png" />
               <div>
                 <nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link>
               </div>
             </td>
             <td class="t10 trm not">
-              <img class="gg" src="~assets/TurtleShipIcon.jpg" />
+              <img class="gg" src="~assets/TurtleShipIcon.png" />
               <div>
                 <nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>
               </div>
             </td>
             <td class="t10 trm not">
-              <img class="gg" src="~assets/CaravelIcon2.jpg" />
+              <img class="gg" src="~assets/CaravelIcon.png" />
               <div>
                 <nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link>
               </div>
             </td>
             <td class="t10 trm">
-              <img class="gg" src="~assets/CannonGalleonIcon.jpg" />
+              <img class="gg" src="~assets/CannonGalleonIcon.png" />
               <div>
                 <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
-                src="~assets/CannonGalleonIcon.jpg"
+                src="~assets/CannonGalleonIcon.png"
               />
               <div>
                 <nuxt-link to="/units/Elite_Cannon_Galleon"
@@ -810,7 +810,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/Drydock.jpg"
+                src="~assets/dry_dock.png"
                 alt=""
               />
               <div><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link></div>
@@ -819,7 +819,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/Shipwright.jpg"
+                src="~assets/shipwright.png"
                 alt=""
               />
               <div><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link></div>
@@ -831,7 +831,7 @@
           <tr>
             <td class="trm" colspan="9" style="border-top: none;">
               <nuxt-link to="/building/University"
-                ><img class="ng" src="~assets/Universityicon.png" alt=""
+                ><img class="ng" src="~assets/university.png" alt=""
               /></nuxt-link>
               <div id="學院">
                 <nuxt-link to="/building/University">學院</nuxt-link>
@@ -845,7 +845,7 @@
               </div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Masonry.jpg" alt="" />
+              <img class="gg" src="~assets/masonry.png" alt="" />
               <div><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -864,14 +864,14 @@
               <div><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Guard-tower-research.jpg" alt="" />
+              <img class="gg" src="~assets/guard_tower.png" alt="" />
               <div>
                 <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Heatedshot.png" alt="" />
+              <img class="gg" src="~assets/heated_shot.png" alt="" />
               <div><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link></div>
             </td>
             <td class="t11 trm">
@@ -879,7 +879,7 @@
               <div><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Treadmillcrane.jpg" alt="" />
+              <img class="gg" src="~assets/treadmill_crane.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>
               </div>
@@ -893,11 +893,11 @@
               </div>
             </td>
             <td class="t11 trm not">
-              <img class="gg" src="~assets/Architecture.jpg" alt="" />
+              <img class="gg" src="~assets/architecture.png" alt="" />
               <div><nuxt-link to="/techs/Architecture">建築學</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Chemistry.jpg" alt="" />
+              <img class="gg" src="~assets/chemistry.png" alt="" />
               <div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
@@ -917,11 +917,11 @@
               </div>
             </td>
             <td class="t11 trm not">
-              <img class="gg" src="~assets/Keep-research.jpg" alt="" />
+              <img class="gg" src="~assets/keep.png" alt="" />
               <div><nuxt-link to="/building/Keep">大型箭塔</nuxt-link></div>
             </td>
             <td class="t11 trm not">
-              <img class="gg" src="~assets/Arrowlits.jpg" alt="" />
+              <img class="gg" src="~assets/arrowslits.png" alt="" />
               <div><nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link></div>
             </td>
             <td class="t11 trm"></td>
@@ -934,7 +934,7 @@
           <tr>
             <td class="trm" style="border-top: none;" colspan="8">
               <nuxt-link to="/building/Castle"
-                ><img class="ng" src="~assets/Castleicon.png" alt=""
+                ><img class="ng" src="~assets/castle.png" alt=""
               /></nuxt-link>
               <div id="城堡">
                 <nuxt-link to="/building/Castle">城堡</nuxt-link>
@@ -950,13 +950,13 @@
               <div><nuxt-link to="/units/Konnik">蒙古騎射手</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img class="gg" src="~assets/PetardIcon.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/PetardIcon.png" width="30" alt="" />
               <div><nuxt-link to="/units/Petard">爆炸桶</nuxt-link></div>
             </td>
             <td class="t13 trm">
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               />
@@ -981,30 +981,30 @@
             <td class="t13 trm">
               <img
                 class="gg"
-                src="~assets/TrebuchetPackedIcon.jpg"
+                src="~assets/TrebuchetPackedIcon.png"
                 width="30"
                 alt=""
               />
               <div><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/unique_tech_imperial.png" width="30" alt="" />
               <div>
                 <nuxt-link to="/techs/Manipur_Cavalry">帖木兒攻城術</nuxt-link>
               </div>
             </td>
             <td class="t13 trm not">
-              <img class="gg" src="~assets/Hoardings.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/hoardings.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link></div>
             </td>
             <td class="t13 trm">
-              <img class="gg" src="~assets/Sappers.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/sappers.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link></div>
             </td>
             <td class="t13 trm">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               />
@@ -1015,7 +1015,7 @@
             <td class="t13 trm">
               <img
                 class="gg"
-                src="~assets/Spiestreason.jpg"
+                src="~assets/spies_treason.png"
                 width="30"
                 alt=""
               />
@@ -1028,7 +1028,7 @@
           <tr>
             <td class="trm" colspan="9" style="border-top: none;">
               <nuxt-link to="/building/Monastery"
-                ><img class="ng" src="~assets/Monasteryicon.png" alt=""
+                ><img class="ng" src="~assets/monastery.png" alt=""
               /></nuxt-link>
               <div id="修道院">
                 <nuxt-link to="/building/Monastery">修道院</nuxt-link>
@@ -1042,24 +1042,24 @@
               </div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/MonkIcon.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/MonkIcon.png" width="30" alt="" />
               <div><nuxt-link to="/units/Monk">僧侶</nuxt-link></div>
             </td>
             <td class="t11 trm not">
               <img
                 class="gg"
-                src="~assets/MissionaryIcon.jpg"
+                src="~assets/MissionaryIcon.png"
                 width="30"
                 alt=""
               />
               <div><nuxt-link to="/units/Missionary">傳教士</nuxt-link></div>
             </td>
             <td class="t11 trm not">
-              <img class="gg" src="~assets/Redemption.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/redemption.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Atonement.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/atonement.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Atonement">贖罪</nuxt-link></div>
             </td>
             <td class="t11 trm">
@@ -1078,11 +1078,11 @@
               <div><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link></div>
             </td>
             <td class="t11 trm not">
-              <img class="gg" src="~assets/Sanctity.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/sanctity.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Fervor.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/fervor.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link></div>
             </td>
           </tr>
@@ -1093,13 +1093,13 @@
               </div>
             </td>
             <td class="t11 trm not">
-              <img class="gg" src="~assets/Faith.jpg" width="30" alt="" />
+              <img class="gg" src="~assets/faith.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link></div>
             </td>
             <td class="t11 trm">
               <img
                 class="gg"
-                src="~assets/Illumination.jpg"
+                src="~assets/illumination.png"
                 width="30"
                 alt=""
               />
@@ -1110,7 +1110,7 @@
             <td class="t11 trm">
               <img
                 class="gg"
-                src="~assets/Blockprinting.jpg"
+                src="~assets/block_printing.png"
                 width="30"
                 alt=""
               />
@@ -1133,7 +1133,7 @@
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
               <nuxt-link to="/building/Town_Center"
-                ><img class="ng" src="~assets/Towncentericon.png" alt=""
+                ><img class="ng" src="~assets/town_center.png" alt=""
               /></nuxt-link>
               <div>
                 <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
@@ -1145,11 +1145,11 @@
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt="" />
+              <img class="gg" src="~assets/VillagerMaleIcon.png" alt="" />
               <div><nuxt-link to="/units/Villager">村民</nuxt-link></div>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" />
+              <img class="gg" src="~assets/feudal_age.png" alt="" />
               <div>
                 <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </div>
@@ -1166,19 +1166,19 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Townwatch.jpg" alt="" />
+              <img class="gg" src="~assets/tower_watch.png" alt="" />
               <div><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" />
+              <img class="gg" src="~assets/castle_age.png" alt="" />
               <div>
                 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Wheelbarrow.jpg" alt="" />
+              <img class="gg" src="~assets/wheelbarrow.png" alt="" />
               <div><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -1189,17 +1189,17 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Townpatrol.jpg" alt="" />
+              <img class="gg" src="~assets/town_patrol.png" alt="" />
               <div><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link></div>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Imperial-age-research.jpg" alt="" />
+              <img class="gg" src="~assets/imperial_age.png" alt="" />
               <div>
                 <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </div>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Handcart.jpg" alt="" />
+              <img class="gg" src="~assets/hand_cart.png" alt="" />
               <div><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
@@ -1210,7 +1210,7 @@
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
               <nuxt-link to="/building/Mining_Camp"
-                ><img class="ng" src="~assets/Miningcampicon.png" alt=""
+                ><img class="ng" src="~assets/mining_camp.png" alt=""
               /></nuxt-link>
               <div>
                 <nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
@@ -1222,12 +1222,12 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Goldmining.jpg" alt="" />
+              <img class="gg" src="~assets/gold_mining.png" alt="" />
               <div><nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Stonemining.jpg" alt="" />
+              <img class="gg" src="~assets/stone_mining.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link>
               </div>
@@ -1241,13 +1241,13 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Goldshaftmining.jpg" alt="" />
+              <img class="gg" src="~assets/gold_shaft_mining.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
               </div>
             </td>
             <td class="t23 trm not">
-              <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt="" />
+              <img class="gg" src="~assets/stone_shaft_mining.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>
               </div>
@@ -1261,7 +1261,7 @@
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
               <nuxt-link to="/building/Mill"
-                ><img class="ng" src="~assets/Lumbercampicon.png" alt=""
+                ><img class="ng" src="~assets/lumber_camp.png" alt=""
               /></nuxt-link>
               <div>
                 <nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
@@ -1273,7 +1273,7 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Doublebitaxe.jpg" alt="" />
+              <img class="gg" src="~assets/double-bit_axe.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>
               </div>
@@ -1288,7 +1288,7 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Bowsaw.jpg" alt="" />
+              <img class="gg" src="~assets/bow_saw.png" alt="" />
               <div><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -1301,7 +1301,7 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t23 trm not">
-              <img class="gg" src="~assets/Twomansaw.jpg" alt="" />
+              <img class="gg" src="~assets/two-man_saw.png" alt="" />
               <div><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
@@ -1314,7 +1314,7 @@
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
               <nuxt-link to="/building/Market"
-                ><img class="ng" src="~assets/Marketicon.png" alt=""
+                ><img class="ng" src="~assets/market.png" alt=""
               /></nuxt-link>
               <div id="市集">
                 <nuxt-link to="/building/Market">市集</nuxt-link>
@@ -1326,7 +1326,7 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/TradeCartIcon.jpg" />
+              <img class="gg" src="~assets/TradeCartIcon.png" />
               <div><nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
@@ -1339,11 +1339,11 @@
               </div>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/CaravanII.png" />
+              <img class="gg" src="~assets/caravan.png" />
               <div><nuxt-link to="/techs/Caravan">大商隊</nuxt-link></div>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Coinage.jpg" />
+              <img class="gg" src="~assets/coinage.png" />
               <div><nuxt-link to="/techs/Coinage">鑄幣術</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -1357,11 +1357,11 @@
               </div>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Guilds.jpg" />
+              <img class="gg" src="~assets/guilds.png" />
               <div><nuxt-link to="/techs/Guilds">行會制度</nuxt-link></div>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Banking.jpg" />
+              <img class="gg" src="~assets/banking.png" />
               <div><nuxt-link to="/techs/Banking">銀行制度</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
@@ -1373,7 +1373,7 @@
           <tr>
             <td class="trm" colspan="5" style="border-top: none;">
               <nuxt-link to="/building/Mill"
-                ><img class="ng" src="~assets/Millicon.png" alt=""
+                ><img class="ng" src="~assets/mill.png" alt=""
               /></nuxt-link>
               <div><nuxt-link to="/building/Mill">磨坊</nuxt-link></div>
             </td>
@@ -1383,7 +1383,7 @@
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Farmicon.png" alt="" />
+              <img class="gg" src="~assets/farm.png" alt="" />
               <div><nuxt-link to="/building/Farm">農田</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
@@ -1395,7 +1395,7 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Horsecollar.jpg" alt="" />
+              <img class="gg" src="~assets/horse_collar.png" alt="" />
               <div><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -1408,7 +1408,7 @@
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Heavyplow.jpg" alt="" />
+              <img class="gg" src="~assets/heavy_plow.png" alt="" />
               <div><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -1421,7 +1421,7 @@
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Croprotation.jpg" alt="" />
+              <img class="gg" src="~assets/crop_rotation.png" alt="" />
               <div><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>

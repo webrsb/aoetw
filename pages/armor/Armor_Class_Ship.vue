@@ -33,35 +33,35 @@
             <li>
               <img
                 class="gg"
-                src="~assets/FishingShipIcon.jpg"
+                src="~assets/FishingShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>
             </li>
             <li>
               <img
                 class="gg"
-                src="~assets/TransportShipIcon.jpg"
+                src="~assets/TransportShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/TradeCogIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/TradeCogIcon.png" alt="" /><nuxt-link
                 to="/units/Trade_Cog"
                 >貿易商旅</nuxt-link
               >
             </li>
             <li>
-              <img class="gg" src="~assets/Galley.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/Galley.png" alt="" /><nuxt-link
                 to="/units/Galley"
                 >戰船</nuxt-link
               >→
               <img
                 class="gg"
-                src="~assets/WarGalley.jpg"
+                src="~assets/WarGalley.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>→
-              <img class="gg" src="~assets/GalleonAoE2.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/GalleonAoE2.png" alt="" /><nuxt-link
                 to="/units/Galleon"
                 >重型弩砲戰船</nuxt-link
               >
@@ -69,72 +69,72 @@
             <li>
               <img
                 class="gg"
-                src="~assets/FireGalleyIcon.jpg"
+                src="~assets/FireGalleyIcon.png"
                 alt=""
               /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>(6)→
               <img
                 class="gg"
-                src="~assets/FireShipIcon.jpg"
+                src="~assets/FireShipIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>(6)→
               <img
                 class="gg"
-                src="~assets/FastFireShipIcon.jpg"
+                src="~assets/FastFireShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>(9)
             </li>
             <li>
-              <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/DemoRaftIcon.png" alt="" /><nuxt-link
                 to="/units/Demolition_Raft"
                 >自爆筏</nuxt-link
               >(1)→
               <img
                 class="gg"
-                src="~assets/DemoShipIcon.jpg"
+                src="~assets/DemoShipIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>(3)→
               <img
                 class="gg"
-                src="~assets/HeavyDemoShipIcon.jpg"
+                src="~assets/HeavyDemoShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Heavy_Demolition_Ship"
                 >重型神風船</nuxt-link
               >5()
             </li>
             <li>
-              <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
+              <img src="~assets/CannonGalleonIcon.png" alt="" /><nuxt-link
                 to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
-              >→ <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
+              >→ <img src="~assets/CannonGalleonIcon.png" alt="" /><nuxt-link
                 to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
               >
             </li>
             <li>
-              <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
+              <img src="~assets/LongboatIcon.png" alt="" /><nuxt-link
                 to="/units/Longboat"
                 >維京大戰船</nuxt-link
-              >→ <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
+              >→ <img src="~assets/LongboatIcon.png" alt="" /><nuxt-link
                 to="/units/Longboat"
                 >精銳維京大戰船</nuxt-link
               >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
             </li>
             <li>
-              <img src="~assets/TurtleShipIcon.jpg" alt="" /><nuxt-link
+              <img src="~assets/TurtleShipIcon.png" alt="" /><nuxt-link
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
-              >(8)→ <img src="~assets/TurtleShipIcon.jpg" alt="" /><nuxt-link
+              >(8)→ <img src="~assets/TurtleShipIcon.png" alt="" /><nuxt-link
                 to="/units/Turtle_Ship"
                 >精銳龜甲船</nuxt-link
               >(11)(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
             </li>
             <li>
-              <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+              <img src="~assets/CaravelIcon.png" alt="" /><nuxt-link
                 to="/units/Caravel"
                 >卡拉維爾戰船</nuxt-link
-              >→ <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+              >→ <img src="~assets/CaravelIcon.png" alt="" /><nuxt-link
                 to="/units/Caravel"
                 >精銳卡拉維爾戰船</nuxt-link
               >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
@@ -153,14 +153,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Bombardtowericon.png"
+                      src="~assets/bombard_tower.png"
                       alt=""
                     /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/BombardCannonIcon.jpg"
+                      src="~assets/BombardCannonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
                   </li>
@@ -170,7 +170,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HalberdierIcon.jpg"
+                      src="~assets/HalberdierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
@@ -180,7 +180,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/PikemanIcon.jpg"
+                      src="~assets/PikemanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                   </li>
@@ -190,12 +190,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/GalleonAoE2.jpg"
+                      src="~assets/GalleonAoE2.png"
                       alt=""
                     /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
-                    <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
+                    <img src="~assets/LongboatIcon.png" alt="" /><nuxt-link
                       to="/units/Longboat"
                       >精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
@@ -206,7 +206,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Watchtowericon.png"
+                      src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
@@ -218,14 +218,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SpearmanIcon.jpg"
+                      src="~assets/SpearmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HeavyCamelIcon.jpg"
+                      src="~assets/HeavyCamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
@@ -240,7 +240,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/WarGalley.jpg"
+                      src="~assets/WarGalley.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
@@ -248,7 +248,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/LongboatIcon.jpg"
+                      src="~assets/LongboatIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
@@ -256,14 +256,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Watchtowericon.png"
+                      src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Dockicon.png"
+                      src="~assets/dock.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/building/Harbor">海港</nuxt-link
@@ -273,7 +273,7 @@
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Galley.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/Galley.png" alt="" /><nuxt-link
                       to="/units/Galley"
                       >戰船</nuxt-link
                     >
@@ -299,7 +299,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CaravelIcon2.jpg"
+                      src="~assets/CaravelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
@@ -307,7 +307,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Watchtowericon.png"
+                      src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                   </li>
@@ -319,7 +319,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CaravelIcon2.jpg"
+                      src="~assets/CaravelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
@@ -330,7 +330,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CamelIcon.jpg"
+                      src="~assets/CamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
                   </li>
@@ -358,7 +358,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/FastFireShipIcon.jpg"
+                      src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
                       >快速火戰船</nuxt-link
@@ -370,12 +370,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/FireGalleyIcon.jpg"
+                      src="~assets/FireGalleyIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/FireShipIcon.jpg"
+                      src="~assets/FireShipIcon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>
@@ -386,7 +386,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EliteEagleWarriorIcon.jpg"
+                      src="~assets/EliteEagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Eagle_Warrior"
                       >精銳鷹勇士</nuxt-link
@@ -398,7 +398,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EagleWarriorIcon.jpg"
+                      src="~assets/EagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
                   </li>
@@ -412,7 +412,7 @@
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
-              <img src="~assets/Heatedshot.png" width="22" alt="" /><nuxt-link
+              <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
                 >預熱射擊</nuxt-link
               >
@@ -421,7 +421,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Watchtowericon.png"
+                    src="~assets/tower.png"
                     alt=""
                   /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                 </li>
@@ -431,7 +431,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Watchtowericon.png"
+                    src="~assets/tower.png"
                     alt=""
                   /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                 </li>
@@ -441,7 +441,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Watchtowericon.png"
+                    src="~assets/tower.png"
                     alt=""
                   /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                 </li>
@@ -453,7 +453,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Castleicon.png"
+                    src="~assets/castle.png"
                     width="22"
                     alt=""
                   /><nuxt-link to="/building/Castle">城堡</nuxt-link>
@@ -461,7 +461,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Dockicon.png"
+                    src="~assets/dock.png"
                     width="22"
                     alt=""
                   /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link

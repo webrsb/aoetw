@@ -40,7 +40,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/SpearmanIcon.jpg" width="80" alt="" />
+                <img src="~assets/SpearmanIcon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

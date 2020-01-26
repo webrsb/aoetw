@@ -94,7 +94,7 @@
               <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </td>
             <td class="tta4">
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
                 to="/batt/El_Doradoa"
                 >黃金國</nuxt-link
               >(+40，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
@@ -107,26 +107,26 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Forging.jpg"
+                src="~assets/forging.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Ironcasting.jpg"
+                src="~assets/iron_casting.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Blastfurnace.jpg"
+                src="~assets/blast_furnace.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
               <img
                 class="gg"
-                src="~assets/Arson.jpg"
+                src="~assets/Arson.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
@@ -136,7 +136,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Unique-tech.jpg"
+                src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
@@ -149,7 +149,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Scalemailarmor.jpg"
+                src="~assets/scale_mail_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link
@@ -163,12 +163,12 @@
               >(+1/+1) <br />
               <img
                 class="gg"
-                src="~assets/Platemailarmor.jpg"
+                src="~assets/plate_mail_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
               >(+1/+2) <br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Couriers"
                 >信使</nuxt-link
               >(+1/+2，<nuxt-link to="/civs/Incas">印加</nuxt-link
@@ -180,11 +180,11 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Squires.jpg"
+                src="~assets/squires.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%) <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Couriers"
                 >信使</nuxt-link
               >(+10%，<nuxt-link to="/civs/Incas">印加</nuxt-link
@@ -199,7 +199,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Tracking.jpg"
+                src="~assets/tracking.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
@@ -212,7 +212,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -229,7 +229,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
@@ -254,14 +254,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/2HandedswordsmanIcon.jpg"
+                      src="~assets/2HandedswordsmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Two-Handed_Swordsman"
                       >雙手劍兵</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/ChampionIcon.jpg"
+                      src="~assets/ChampionIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                   </li>
@@ -271,7 +271,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/LongswordsManIcon.jpg"
+                      src="~assets/LongswordsManIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
                   </li>
@@ -297,13 +297,13 @@
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                       to="/units/Woad_Raider"
                       >精銳菘藍武士</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                       to="/units/Samurai"
                       >精銳日本武士</nuxt-link
                     >
@@ -312,12 +312,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HuskarlIcon.jpg"
+                      src="~assets/HuskarlIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                       to="/units/Berserk"
                       >精銳狂戰士</nuxt-link
                     >
@@ -330,19 +330,19 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/ManAtArmsIcon.jpg"
+                      src="~assets/ManAtArmsIcon.png"
                       alt=""
                       width="22"
                     /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                       to="/units/Woad_Raider"
                       >菘藍武士</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                       to="/units/Samurai"
                       >日本武士</nuxt-link
                     >
@@ -350,18 +350,18 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HuskarlIcon.jpg"
+                      src="~assets/HuskarlIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                       to="/units/Berserk"
                       >狂戰士</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                       to="/units/Throwing_Axeman"
                       >精銳擲斧兵</nuxt-link
                     >
@@ -400,12 +400,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/JaguarWarriorIcon.jpg"
+                      src="~assets/JaguarWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/JaguarWarriorIcon.jpg"
+                      src="~assets/JaguarWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Jaguar_Warrior"
                       >精銳豹勇士</nuxt-link
@@ -417,22 +417,22 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SpearmanIcon.jpg"
+                      src="~assets/SpearmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/PikemanIcon.jpg"
+                      src="~assets/PikemanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/HalberdierIcon.jpg"
+                      src="~assets/HalberdierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                       to="/units/Throwing_Axeman"
                       >擲斧兵</nuxt-link
                     >
@@ -569,7 +569,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/EagleScoutIcon.jpg" width="45" alt="" />
+                <img src="~assets/EagleScoutIcon.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -599,7 +599,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
@@ -609,7 +609,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Barracks-logo.jpg"
+                src="~assets/barracks.png"
                 alt=""
               /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
             </td>
@@ -710,7 +710,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/EagleWarriorIcon.jpg"
+                src="~assets/EagleWarriorIcon.png"
                 alt=""
               /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
             </td>
@@ -720,7 +720,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Elite-eagle-warrior-researc.jpg"
+                src="~assets/eagle_warrior.png"
                 alt=""
               />300食物200黃金
             </td>

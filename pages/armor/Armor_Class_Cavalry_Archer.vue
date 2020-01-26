@@ -30,23 +30,23 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CavalryArcherIcon.jpg"
+                src="~assets/CavalryArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/HeavyCavArcherIcon.jpg"
+                src="~assets/HeavyCavArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >
             </li>
             <li>
-              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/GenitourIcon.png" alt="" /><nuxt-link
                 to="/units/Genitour"
                 >標槍騎兵</nuxt-link
               >(1)→
-              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/GenitourIcon.png" alt="" /><nuxt-link
                 to="/units/Genitour"
                 >精銳標槍騎兵</nuxt-link
               >(1)(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>及其同盟限定)
@@ -56,7 +56,7 @@
                 class="gg"
                 style="margin: 2px;"
                 width="22"
-                src="~assets/MangudaiIcon.jpg"
+                src="~assets/MangudaiIcon.png"
                 alt=""
               /><nuxt-link to="/units/Mangudai">蒙古突騎(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
@@ -65,7 +65,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/WarWagonIcon.jpg"
+                src="~assets/WarWagonIcon.png"
                 alt=""
               /><nuxt-link to="/units/War_Wagon">馬戰車(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
@@ -74,7 +74,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">象弓騎兵(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
@@ -83,7 +83,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
@@ -112,7 +112,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/CamelArcherIcon.jpg"
+                      src="~assets/CamelArcherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Camel_Archer"
                       >精銳駱駝弓騎兵</nuxt-link
@@ -125,7 +125,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/CamelArcherIcon.jpg"
+                      src="~assets/CamelArcherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
@@ -150,14 +150,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EliteSkirmisherIcon.jpg"
+                      src="~assets/EliteSkirmisherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/GenitourIcon.jpg"
+                      src="~assets/GenitourIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link>
                   </li>

@@ -29,7 +29,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/ScoutCavalryIcon.jpg"
+                    src="~assets/ScoutCavalryIcon.png"
                   /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>
                 </li>
                 <li>
@@ -51,17 +51,17 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/LightCavalryIcon.jpg"
+                    src="~assets/LightCavalryIcon.png"
                   /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/KnightIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/KnightIcon.png" /><nuxt-link
                     to="/units/Knight"
                     >騎士</nuxt-link
                   >
                 </li>
                 <li>
-                  <img class="gg" src="~assets/CamelIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/CamelIcon.png" /><nuxt-link
                     to="/units/Camel"
                     >駱駝騎兵</nuxt-link
                   >
@@ -75,7 +75,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Husbandry.jpg"
+                    src="~assets/husbandry.png"
                     alt=""
                   /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>
                 </li>
@@ -89,25 +89,25 @@
               </h4>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/HussarIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/HussarIcon.png" /><nuxt-link
                     to="/units/Hussar"
                     >匈牙利輕騎兵</nuxt-link
                   >
                 </li>
                 <li>
-                  <img class="gg" src="~assets/CavalierIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/CavalierIcon.png" /><nuxt-link
                     to="/units/Cavalier"
                     >騎兵</nuxt-link
                   >
                 </li>
                 <li>
-                  <img class="gg" src="~assets/PaladinIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/PaladinIcon.png" /><nuxt-link
                     to="/units/Paladin"
                     >遊俠</nuxt-link
                   >
                 </li>
                 <li>
-                  <img class="gg" src="~assets/HeavyCamelIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/HeavyCamelIcon.png" /><nuxt-link
                     to="/units/Heavy_Camel"
                     >重裝駱駝騎兵</nuxt-link
                   >
@@ -161,13 +161,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -178,14 +178,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >(護甲+1/+1，+3建築護甲) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -199,14 +199,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -219,7 +219,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -236,7 +236,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -248,13 +248,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
               <img
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
@@ -267,7 +267,7 @@
             <td class="tta1" style="width:10%">其他</td>
             <td class="tta4">
               <img
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>:<nuxt-link
@@ -398,7 +398,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Stableicon.png" width="45" alt="" />
+                <img src="~assets/stable.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -461,19 +461,19 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="30"
                 alt=""
               />1500 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />1800 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />2100
@@ -488,19 +488,19 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="30"
                 alt=""
               />1 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />2 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />3
@@ -511,19 +511,19 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="30"
                 alt=""
               />8 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />9 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />10

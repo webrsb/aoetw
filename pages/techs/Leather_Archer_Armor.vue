@@ -122,7 +122,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Leatherarcherarmor.jpg" width="45" alt="" />
+                <img src="~assets/leather_archer_armor.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -154,7 +154,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Paddedarcherarmor.jpg"
+                src="~assets/padded_archer_armor.png"
                 alt=""
               /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link>
             </td>
@@ -164,7 +164,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Ringarcherarmor.jpg"
+                src="~assets/ring_archer_armor.png"
                 width="45"
                 alt=""
               /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>

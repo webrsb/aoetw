@@ -118,7 +118,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CataphractIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/CataphractIcon.png" /><nuxt-link
                 to="/units/Cataphract"
                 >聖騎兵</nuxt-link
               >
@@ -131,12 +131,12 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Greek_Fire"
                 >希臘之火</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Logistica"
                 >後勤學</nuxt-link
               >
@@ -151,7 +151,7 @@
     <div class="hrn1"></div>
     <div class="n1">
       <p>
-        <img class="gg" src="~assets/CataphractIcon.jpg" /><nuxt-link
+        <img class="gg" src="~assets/CataphractIcon.png" /><nuxt-link
           to="/units/Cataphract"
           >聖騎兵</nuxt-link
         >：對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
@@ -160,13 +160,13 @@
       <h3>特殊科技</h3>
       <div class="hrn1"></div>
       <p>
-        <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+        <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
           to="/techs/Greek_Fire"
           >希臘之火</nuxt-link
         >：火戰船射程+1
       </p>
       <p>
-        <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+        <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
           to="/techs/Logistica"
           >後勤學</nuxt-link
         >：聖騎兵會對周遭單位造成傷害

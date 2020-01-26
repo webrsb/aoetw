@@ -85,7 +85,7 @@
           </p>
           <h3>特殊單位</h3>
           <p>
-            <img class="gg" src="~assets/JaguarWarriorIcon.jpg" /><nuxt-link
+            <img class="gg" src="~assets/JaguarWarriorIcon.png" /><nuxt-link
               to="/units/Jaguar_Warrior"
               >豹勇士</nuxt-link
             >:反<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
@@ -93,13 +93,13 @@
           </p>
           <h3>特殊科技</h3>
           <p>
-            <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+            <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
               to="/techs/Atlatl"
               >擲矛器</nuxt-link
             >:矛兵額外獲得+1攻擊，+1射程
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+            <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
               to="/techs/Garland_Wars"
               >榮冠戰爭</nuxt-link
             >:所有步兵額外獲得+4攻擊
@@ -206,7 +206,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/JaguarWarriorIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/JaguarWarriorIcon.png" /><nuxt-link
                 to="/units/Jaguar_Warrior"
                 >豹勇士</nuxt-link
               >
@@ -225,12 +225,12 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Atlatl"
                 >擲矛器</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Garland_Wars"
                 >榮冠戰爭</nuxt-link
               >

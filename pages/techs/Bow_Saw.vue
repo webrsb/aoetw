@@ -53,7 +53,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bowsaw.jpg" width="45" alt="" />
+                <img src="~assets/bow_saw.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -73,7 +73,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -83,7 +83,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Lumbercampicon.png"
+                src="~assets/lumber_camp.png"
                 alt=""
               /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
             </td>
@@ -91,7 +91,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Doublebitaxe.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/double-bit_axe.png" alt="" /><nuxt-link
                 to="/techs/Double-Bit_Axe"
                 >雙刃斧</nuxt-link
               >
@@ -100,7 +100,7 @@
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Twomansaw.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/two-man_saw.png" alt="" /><nuxt-link
                 to="/techs/Two-Man_Saw"
                 >雙人鋸</nuxt-link
               >

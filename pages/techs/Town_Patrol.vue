@@ -73,7 +73,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Townpatrol.jpg" width="45" alt="" />
+                <img src="~assets/town_patrol.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -93,7 +93,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -103,7 +103,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Town-center-logo.jpg"
+                src="~assets/town_center.png"
                 alt=""
               /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
@@ -111,7 +111,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Townwatch.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/tower_watch.png" alt="" /><nuxt-link
                 to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
               >

@@ -197,7 +197,7 @@
             <strong>起始時代：</strong>
             <img
               class="gg"
-              src="~assets/Castle-age-reseach.jpg"
+              src="~assets/castle_age.png"
               alt=""
             /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
           </li>
@@ -218,33 +218,33 @@
           <li>
             <img
               class="gg"
-              src="~assets/VillagerMaleIcon.jpg"
+              src="~assets/VillagerMaleIcon.png"
               alt=""
             /><nuxt-link to="/units/Villager">村民</nuxt-link> 6
           </li>
           <li>
             <img
               class="gg"
-              src="~assets/LightCavalryIcon.jpg"
+              src="~assets/LightCavalryIcon.png"
               alt=""
             /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link> 1
           </li>
           <li>
-            <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/KnightIcon.png" alt="" /><nuxt-link
               to="/units/Knight"
               >騎士</nuxt-link
             >
             3
           </li>
           <li>
-            <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/ManAtArmsIcon.png" alt="" /><nuxt-link
               to="/units/Man-at-Arms"
               >裝甲步兵</nuxt-link
             >
             3
           </li>
           <li>
-            <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/MangonelIcon.png" alt="" /><nuxt-link
               to="/units/Mangonel"
               >輕型投石車</nuxt-link
             >

@@ -110,7 +110,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/VBRSK.jpg"
+                src="~assets/VBRSK.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Berserk">狂戰士</nuxt-link
@@ -119,7 +119,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/LongboatIcon.jpg"
+                src="~assets/LongboatIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
@@ -130,7 +130,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 alt=""
               /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
               >：步兵對<nuxt-link to="/armor/Armor_Class_Cavalry"
@@ -138,7 +138,7 @@
               >有+5攻擊
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Berserkergang"
                 >狂戰士幫</nuxt-link
               >：狂戰士自我療傷速度加快
@@ -274,12 +274,12 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/VBRSK.jpg" /><nuxt-link
+              <img class="gg" src="~assets/VBRSK.png" /><nuxt-link
                 to="/units/Berserk"
                 >狂戰士</nuxt-link
               ><br /><img
                 class="gg"
-                src="~assets/LongboatIcon.jpg"
+                src="~assets/LongboatIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
@@ -294,11 +294,11 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Berserkergang"
                 >狂戰士幫</nuxt-link
               >

@@ -50,7 +50,7 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/ChuKoNuIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ChuKoNuIcon.png" alt="" /><nuxt-link
                 to="/units/Chu_Ko_Nu"
                 >連弩兵</nuxt-link
               >:可以一次射出許多箭矢的<nuxt-link to="/units/Archer_Units"
@@ -65,14 +65,14 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 alt=""
               /><nuxt-link to="/techs/Great_Wall">長城</nuxt-link
               >：塔與<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
               >+30%<nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Rocketry"
                 >火箭術</nuxt-link
               >：連弩兵攻擊+2，弩砲攻擊+4
@@ -620,7 +620,7 @@
               <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
             </td>
             <td class="unit4">
-              <img class="gg" src="~assets/ChuKoNuIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/ChuKoNuIcon.png" /><nuxt-link
                 to="/units/Chu_Ko_Nu"
                 >連弩兵</nuxt-link
               >
@@ -636,10 +636,10 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Great_Wall"
                 >長城</nuxt-link
-              ><br /><img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              ><br /><img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Rocketry"
                 >火箭術</nuxt-link
               >

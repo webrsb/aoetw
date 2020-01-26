@@ -28,13 +28,13 @@
           下列的單位都是駱駝系單位
           <ul>
             <li>
-              <img class="gg" src="~assets/CamelIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/CamelIcon.png" alt="" /><nuxt-link
                 to="/units/Camel"
                 >駱駝騎兵</nuxt-link
               >→
               <img
                 class="gg"
-                src="~assets/HeavyCamelIcon.jpg"
+                src="~assets/HeavyCamelIcon.png"
                 alt=""
               /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
               <img
@@ -60,12 +60,12 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
               >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
@@ -84,7 +84,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HalberdierIcon.jpg"
+                      src="~assets/HalberdierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
@@ -94,7 +94,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/PikemanIcon.jpg"
+                      src="~assets/PikemanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                   </li>
@@ -104,7 +104,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SpearmanIcon.jpg"
+                      src="~assets/SpearmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
@@ -125,7 +125,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HeavyCamelIcon.jpg"
+                      src="~assets/HeavyCamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
@@ -165,7 +165,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CamelIcon.jpg"
+                      src="~assets/CamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
                   </li>
@@ -187,7 +187,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EliteEagleWarriorIcon.jpg"
+                      src="~assets/EliteEagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Eagle_Warrior"
                       >精銳鷹勇士</nuxt-link
@@ -199,7 +199,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EagleWarriorIcon.jpg"
+                      src="~assets/EagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
                   </li>
@@ -209,7 +209,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Towncentericon.png"
+                      src="~assets/town_center.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
@@ -217,26 +217,26 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Watchtowericon.png"
+                      src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/Watchtowericon.png"
+                      src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/Watchtowericon.png"
+                      src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Bombardtowericon.png"
+                      src="~assets/bombard_tower.png"
                       alt=""
                     /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
@@ -249,7 +249,7 @@
           <div class="n1">
             <img
               class="gg"
-              src="~assets/CastleAgeUnique.png"
+              src="~assets/unique_tech.png"
               width="22"
               alt=""
             /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
@@ -262,50 +262,50 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/MilitiaIcon.jpg"
+                  src="~assets/MilitiaIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/ManAtArmsIcon.jpg"
+                  src="~assets/ManAtArmsIcon.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/LongswordsManIcon.jpg"
+                  src="~assets/LongswordsManIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/2HandedswordsmanIcon.jpg"
+                  src="~assets/2HandedswordsmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Two-Handed_Swordsman"
                   >雙手劍兵</nuxt-link
                 >→
                 <img
                   class="gg"
-                  src="~assets/ChampionIcon.jpg"
+                  src="~assets/ChampionIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/SpearmanIcon.jpg"
+                  src="~assets/SpearmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/PikemanIcon.jpg"
+                  src="~assets/PikemanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </li>
               <li>
-                <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >狂戰士</nuxt-link
-                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                >→ <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >精銳狂戰士</nuxt-link
                 >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)

@@ -79,7 +79,7 @@
                 <strong>起始時代：</strong>
                 <img
                   class="gg"
-                  src="~assets/Imperial-age-research.jpg"
+                  src="~assets/imperial_age.png"
                   alt=""
                 /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </li>
@@ -120,49 +120,49 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/LightCavalryIcon.jpg"
+                  src="~assets/LightCavalryIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>*1
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/CavalierIcon.jpg"
+                  src="~assets/CavalierIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>*4
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/PaladinIcon.jpg"
+                  src="~assets/PaladinIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>*6
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/PikemanIcon.jpg"
+                  src="~assets/PikemanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>*18
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/CrossbowmanIcon.jpg"
+                  src="~assets/CrossbowmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>*20
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/BombardCannonIcon.jpg"
+                  src="~assets/BombardCannonIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>*4
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/TrebuchetPackedIcon.jpg"
+                  src="~assets/TrebuchetPackedIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>*2
               </li>
@@ -174,25 +174,25 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/VillagerMaleIcon.jpg"
+                  src="~assets/VillagerMaleIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Villager">村民</nuxt-link>*10
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/MilitiaIcon.jpg"
+                  src="~assets/MilitiaIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Militia">民兵</nuxt-link>*16
               </li>
               <li>
-                <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/KnightIcon.png" alt="" /><nuxt-link
                   to="/units/Knight"
                   >騎士</nuxt-link
                 >*2
               </li>
               <li>
-                <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                   to="/units/Throwing_Axeman"
                   >擲斧兵</nuxt-link
                 >*2
@@ -200,7 +200,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/HeavyScorpionIcon.jpg"
+                  src="~assets/HeavyScorpionIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>*2
               </li>

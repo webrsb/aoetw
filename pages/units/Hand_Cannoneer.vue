@@ -163,7 +163,7 @@
           <tr>
             <td class="tta1" style="width:10%">攻擊範圍</td>
             <td class="tta4">
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Shatagni"
                 >印度火槍</nuxt-link
               >(+1，<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
@@ -174,7 +174,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Unique-tech.jpg"
+                src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
@@ -188,21 +188,21 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Paddedarcherarmor.jpg"
+                src="~assets/padded_archer_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
-                src="~assets/Leatherarcherarmor.jpg"
+                src="~assets/leather_archer_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
-                src="~assets/Ringarcherarmor.jpg"
+                src="~assets/ring_archer_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
@@ -216,7 +216,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -233,7 +233,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
@@ -253,13 +253,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
@@ -271,7 +271,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HuskarlIcon.jpg"
+                      src="~assets/HuskarlIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
@@ -280,7 +280,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/CondottieroNewIcon.jpg"
+                      src="~assets/CondottieroIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -292,7 +292,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HuskarlIcon.jpg"
+                      src="~assets/HuskarlIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
@@ -305,7 +305,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/GenitourIcon.jpg"
+                      src="~assets/GenitourIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
@@ -326,14 +326,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EliteSkirmisherIcon.jpg"
+                      src="~assets/EliteSkirmisherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/GenitourIcon.jpg"
+                      src="~assets/GenitourIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
@@ -344,7 +344,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SkirmisherIcon.jpg"
+                      src="~assets/SkirmisherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
                   </li>
@@ -367,17 +367,17 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/KnightIcon.jpg"
+                      src="~assets/KnightIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Knight">騎士</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/CavalierIcon.jpg"
+                      src="~assets/CavalierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/PaladinIcon.jpg"
+                      src="~assets/PaladinIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>
                   </li>
@@ -562,7 +562,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/HandCannoneerIcon.jpg" width="45" alt="" />
+                <img src="~assets/HandCannoneerIcon.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -586,7 +586,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
@@ -597,7 +597,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Archery-range-logo.jpg"
+                src="~assets/archery_range.png"
                 alt=""
               /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
             </td>
@@ -710,7 +710,7 @@
           <tr>
             <td class="unit3">需要</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Chemistry.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/chemistry.png" alt="" /><nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >

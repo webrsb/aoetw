@@ -73,7 +73,7 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
               >：<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
@@ -85,13 +85,13 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 alt=""
               /><nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
               >：塔可以多射兩支箭
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Kataparuto"
                 >彈射器</nuxt-link
               >：投石機拆裝速度四倍，且攻擊速率快33%
@@ -525,7 +525,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/SMURI.jpg" /><nuxt-link
+              <img class="gg" src="~assets/SMURI.png" /><nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
               >
@@ -538,11 +538,11 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Yasama"
                 >射箭孔</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Kataparuto"
                 >彈射器</nuxt-link
               >

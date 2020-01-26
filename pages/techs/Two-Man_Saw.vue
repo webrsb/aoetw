@@ -122,7 +122,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Twomansaw.jpg" width="45" alt="" />
+                <img src="~assets/two-man_saw.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -142,7 +142,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
@@ -152,7 +152,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Lumbercampicon.png"
+                src="~assets/lumber_camp.png"
                 alt=""
               /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
             </td>
@@ -160,7 +160,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Bowsaw.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/bow_saw.png" alt="" /><nuxt-link
                 to="/techs/Bow_Saw"
                 >弓鋸</nuxt-link
               >

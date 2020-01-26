@@ -34,7 +34,7 @@
           <ul>
             <li>
               <img
-                src="~assets/CondottieroNewIcon.jpg"
+                src="~assets/CondottieroIcon.png"
                 class="gg"
                 alt=""
               />傭兵將擁有獨特裝甲，將只會減少 火槍單位的反<nuxt-link
@@ -44,14 +44,14 @@
             </li>
             <li>
               <img
-                src="~assets/CondottieroNewIcon.jpg"
+                src="~assets/CondottieroIcon.png"
                 class="gg"
                 alt=""
               />傭兵減少1穿刺裝甲(原始 1)
             </li>
             <li>
               <img
-                src="~assets/CondottieroNewIcon.jpg"
+                src="~assets/CondottieroIcon.png"
                 class="gg"
                 alt=""
               />傭兵減少1<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
@@ -59,7 +59,7 @@
             </li>
             <li>
               <img
-                src="~assets/EliteBattleElephantIcon2.png"
+                src="~assets/EliteBattleElephantIcon.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/units/Elite_Battle_Elephant"
@@ -68,7 +68,7 @@
             </li>
             <li>
               <img
-                src="~assets/EliteBattleElephantIcon2.png"
+                src="~assets/EliteBattleElephantIcon.png"
                 class="gg"
                 alt=""
               />精銳矛象伕升級時間從 80秒 提升至 100秒
@@ -83,7 +83,7 @@
             </li>
             <li>
               <img
-                src="~assets/EliteBattleElephantIcon2.png"
+                src="~assets/EliteBattleElephantIcon.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
@@ -92,7 +92,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               />駱駝弓騎兵(包含精銳)<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
@@ -101,7 +101,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               />駱駝弓騎兵(包含精銳) -2裝甲 vs.<nuxt-link to="/units/Camel"
                 >駱駝</nuxt-link
@@ -111,7 +111,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               />駱駝弓騎兵(包含精銳) -2裝甲 vs.<nuxt-link
                 to="/armor/Armor_Class_Cavalry_Archer"
@@ -121,7 +121,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               />駱駝弓騎兵(包含精銳) -2 攻擊 vs.<nuxt-link
                 to="/units/Battering_Ram"
@@ -131,7 +131,7 @@
             </li>
             <li>
               <img
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Howdah">象轎</nuxt-link>從200F
@@ -139,7 +139,7 @@
             </li>
             <li>
               <img
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 class="gg"
                 alt=""
               />象轎+1/+2 裝甲變成 +1/+1
@@ -168,7 +168,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/EliteEagleWarriorIcon.jpg"
+                src="~assets/EliteEagleWarriorIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
               >訓練時間從 32秒提升至 35秒
@@ -176,14 +176,14 @@
             <li>
               <img
                 class="gg"
-                src="~assets/EliteEagleWarriorIcon.jpg"
+                src="~assets/EliteEagleWarriorIcon.png"
                 alt=""
               />精銳鷹勇士移動速度從 1.2 下降至 1.15
             </li>
             <li>
               <img
                 class="gg"
-                src="~assets/CamelIcon.jpg"
+                src="~assets/CamelIcon.png"
                 alt=""
               />反駱駝傷害將增加給所有反<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
@@ -193,7 +193,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Goldshaftmining.jpg"
+                src="~assets/gold_shaft_mining.png"
                 alt=""
               /><nuxt-link to="/civs/Malians">馬利</nuxt-link>失去<nuxt-link
                 to="/techs/Gold_Shaft_Mining"
@@ -205,7 +205,7 @@
           <ul>
             <li>
               <img
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link>從
@@ -214,7 +214,7 @@
             <li>
               <img
                 width="22px"
-                src="~assets/Farmicon.png"
+                src="~assets/farm.png"
                 alt=""
                 class="gg"
               /><nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>的<nuxt-link
@@ -226,14 +226,14 @@
             </li>
             <li>
               <img
-                src="~assets/EliteBattleElephantIcon2.png"
+                src="~assets/EliteBattleElephantIcon.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/civs/Malay">馬來</nuxt-link>矛象伕從 25%
               便宜提升至 30%
             </li>
             <li>
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/unique_tech_imperial.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Arquebus"
                 >火繩槍</nuxt-link
               >增加了<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
@@ -242,7 +242,7 @@
               增至 0.2
             </li>
             <li>
-              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/OrganGunIcon.png" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
                 >風琴砲</nuxt-link
               >增加 +1 散射傷害(從1 增至 2)

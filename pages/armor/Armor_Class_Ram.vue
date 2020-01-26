@@ -26,16 +26,16 @@
             <li>
               <img
                 class="gg"
-                src="~assets/BatteringRamIcon.jpg"
+                src="~assets/BatteringRamIcon.png"
                 alt=""
               /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/CappedRamIcon.jpg"
+                src="~assets/CappedRamIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>(1)→
-              <img class="gg" src="~assets/SiegeRamIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/SiegeRamIcon.png" alt="" /><nuxt-link
                 to="/units/Siege_Ram"
                 >重型衝撞車</nuxt-link
               >(2)
@@ -43,7 +43,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TrebuchetPackedIcon.jpg"
+                src="~assets/TrebuchetPackedIcon.png"
                 alt=""
               /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
             </li>
@@ -68,7 +68,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/ConquistadorIcon.jpg"
+                      src="~assets/ConquistadorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Conquistador">精銳征服者</nuxt-link
                     >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
@@ -79,31 +79,31 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/ConquistadorIcon.jpg"
+                      src="~assets/ConquistadorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Conquistador">征服者</nuxt-link
                     >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
                   </li>
                   <li>
-                    <img src="~assets/WarGalley.jpg" alt="" /><nuxt-link
+                    <img src="~assets/WarGalley.png" alt="" /><nuxt-link
                       to="/units/War_Galley"
                       >弩砲戰船</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/GalleonAoE2.jpg"
+                      src="~assets/GalleonAoE2.png"
                       alt=""
                     /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/LongboatIcon.jpg"
+                      src="~assets/LongboatIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/LongboatIcon.jpg"
+                      src="~assets/LongboatIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
@@ -111,12 +111,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CaravelIcon2.jpg"
+                      src="~assets/CaravelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/CaravelIcon2.jpg"
+                      src="~assets/CaravelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
@@ -127,13 +127,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Slinger_Icon.jpg"
+                      src="~assets/Slinger_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Slinger">投石手</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Galley.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/Galley.png" alt="" /><nuxt-link
                       to="/units/Galley"
                       >戰船</nuxt-link
                     >
@@ -141,7 +141,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/JanissaryIcon.jpg"
+                      src="~assets/JanissaryIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Janissary"
                       >精銳土耳其火槍兵</nuxt-link
@@ -155,21 +155,21 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HandCannoneerIcon.jpg"
+                      src="~assets/HandCannoneerIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HeavyScorpionIcon.jpg"
+                      src="~assets/HeavyScorpionIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/JanissaryIcon.jpg"
+                      src="~assets/JanissaryIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
                     >(<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定)
@@ -177,7 +177,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Magyar_Huszar_icon.jpg"
+                      src="~assets/Magyar_Huszar_icon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
@@ -190,14 +190,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/ScorpionIcon.jpg"
+                      src="~assets/ScorpionIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Magyar_Huszar_icon.jpg"
+                      src="~assets/Magyar_Huszar_icon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
@@ -207,12 +207,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/OrganGunIcon.jpg"
+                      src="~assets/OrganGunIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/OrganGunIcon.jpg"
+                      src="~assets/OrganGunIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Organ_Gun">精銳風琴砲</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)

@@ -102,14 +102,14 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Andean_Sling"
                 >安地斯彈弓</nuxt-link
               >：取消<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >和投石手的最小射程。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Couriers"
                 >信使</nuxt-link
               >：槍隊長、投石手和<nuxt-link to="/units/Eagle_Warrior"
@@ -233,12 +233,12 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Andean_Sling"
                 >安地斯彈弓</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Couriers"
                 >信使</nuxt-link
               >

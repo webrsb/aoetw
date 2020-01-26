@@ -21,7 +21,7 @@
           <ul>
             <li>
               <img
-                src="~assets/ManAtArmsIcon.jpg"
+                src="~assets/ManAtArmsIcon.png"
                 width="25"
                 alt=""
               /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
@@ -34,7 +34,7 @@
             <li>
               <img
                 width="25px"
-                src="~assets/Watchtowericon.png"
+                src="~assets/tower.png"
                 alt=""
               /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link
               >:遊戲說明<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
@@ -281,8 +281,8 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="45px" src="~assets/ManAtArmsIcon.jpg" alt="" />
-                <img width="45px" src="~assets/Watchtowericon.png" alt="" />
+                <img width="45px" src="~assets/ManAtArmsIcon.png" alt="" />
+                <img width="45px" src="~assets/tower.png" alt="" />
               </div>
             </td>
           </tr>

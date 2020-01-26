@@ -133,7 +133,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Dark-age-logo-small.jpg"
+                src="~assets/dark_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
@@ -143,7 +143,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Town-center-logo.jpg"
+                src="~assets/town_center.png"
                 alt=""
               /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>

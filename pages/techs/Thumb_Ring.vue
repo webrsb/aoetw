@@ -359,7 +359,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -369,7 +369,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Archery-range-logo.jpg"
+                src="~assets/archery_range.png"
                 alt=""
               /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
             </td>

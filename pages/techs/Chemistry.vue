@@ -108,7 +108,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Chemistry.jpg" width="45" alt="" />
+                <img src="~assets/chemistry.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -128,7 +128,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
@@ -138,7 +138,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Universityicon.png"
+                src="~assets/university.png"
                 alt=""
               /><nuxt-link to="/building/University">學院</nuxt-link>
             </td>

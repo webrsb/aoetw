@@ -92,7 +92,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Arson.jpg" width="45" alt="" />
+                <img src="~assets/Arson.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -112,7 +112,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -122,7 +122,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Barracks-logo.jpg"
+                src="~assets/barracks.png"
                 alt=""
               /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
             </td>

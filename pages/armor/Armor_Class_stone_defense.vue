@@ -29,7 +29,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Stonewallicon.png"
+                src="~assets/stone_wall.png"
                 alt=""
               /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>
             </li>
@@ -37,7 +37,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Stonewallicon.png"
+                src="~assets/stone_wall.png"
                 alt=""
               /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
             </li>
@@ -45,7 +45,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Gateicon.png"
+                src="~assets/gate.png"
                 alt=""
               /><nuxt-link to="/building/Gate">城門</nuxt-link>
             </li>
@@ -53,7 +53,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Watchtowericon.png"
+                src="~assets/tower.png"
                 alt=""
               /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>
             </li>
@@ -61,7 +61,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Watchtowericon.png"
+                src="~assets/tower.png"
                 alt=""
               /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
             </li>
@@ -69,7 +69,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Watchtowericon.png"
+                src="~assets/tower.png"
                 alt=""
               /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
             </li>
@@ -77,7 +77,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Bombardtowericon.png"
+                src="~assets/bombard_tower.png"
                 alt=""
               /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
             </li>
@@ -85,7 +85,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Dockicon.png"
+                src="~assets/dock.png"
                 alt=""
               /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link
                 to="/civs/Malay"
@@ -107,7 +107,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/BombardCannonIcon.jpg"
+                      src="~assets/BombardCannonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
                   </li>
@@ -118,13 +118,13 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/TarkanIcon.jpg"
+                      src="~assets/TarkanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>→
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/TarkanIcon.jpg"
+                      src="~assets/TarkanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
@@ -146,7 +146,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/WarElephantIcon.jpg"
+                      src="~assets/WarElephantIcon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
@@ -167,7 +167,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/WarElephantIcon.jpg"
+                      src="~assets/WarElephantIcon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link
@@ -182,7 +182,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/VillagerMaleIcon.jpg"
+                      src="~assets/VillagerMaleIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Villager">村民</nuxt-link>
                   </li>
@@ -193,7 +193,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/ElephantArcherIcon.jpg"
+                      src="~assets/ElephantArcherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elephant_Archer"
                       >精銳象弓騎兵</nuxt-link
@@ -216,7 +216,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/ElephantArcherIcon.jpg"
+                      src="~assets/ElephantArcherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
@@ -243,7 +243,7 @@
             <p>
               <img
                 class="gg"
-                src="~assets/Sappers.jpg"
+                src="~assets/sappers.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>
@@ -254,7 +254,7 @@
                 <img
                   class="gg"
                   style="margin: 2px;"
-                  src="~assets/VillagerMaleIcon.jpg"
+                  src="~assets/VillagerMaleIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Villager">村民</nuxt-link>
               </li>
@@ -262,7 +262,7 @@
             <p>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
@@ -271,18 +271,18 @@
             <ul>
               <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
               <li>
-                <img class="gg" src="~assets/ArcherIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/ArcherIcon.png" alt="" /><nuxt-link
                   to="/units/Archer"
                   >弓兵</nuxt-link
                 >→
                 <img
                   class="gg"
-                  src="~assets/CrossbowmanIcon.jpg"
+                  src="~assets/CrossbowmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/ArbalestIcon.jpg"
+                  src="~assets/ArbalestIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
               </li>

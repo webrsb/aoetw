@@ -109,20 +109,20 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
               <br />
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Great_Wall">長城</nuxt-link>:+30%
@@ -134,13 +134,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Fletching.jpg"
+                src="~assets/fletching.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Bodkinarrow.jpg"
+                src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
@@ -153,17 +153,17 @@
               /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Chemistry.jpg"
+                src="~assets/chemistry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
-              <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/arrowslits.png" alt="" /><nuxt-link
                 to="/techs/Arrowslits"
                 >箭狹槽</nuxt-link
               >(+1) <br />
               <img
                 class="gg"
-                src="~assets/Heatedshot.png"
+                src="~assets/heated_shot.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
@@ -171,7 +171,7 @@
               >) <br />
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link
@@ -181,7 +181,7 @@
               >限定<br />
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
@@ -195,13 +195,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Fletching.jpg"
+                src="~assets/fletching.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Bodkinarrow.jpg"
+                src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
@@ -226,7 +226,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Stronghold">堡壘</nuxt-link
@@ -247,14 +247,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >(+1/+1，+3建築護甲) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -266,14 +266,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -286,7 +286,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -303,7 +303,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -322,7 +322,7 @@
               >:駐紮單位治療速度加快<br />
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
@@ -565,7 +565,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Watchtowericon.png" width="45" alt="" />
+                <img src="~assets/tower.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -707,7 +707,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Watchtowericon.png"
+                src="~assets/tower.png"
                 alt=""
               /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
             </td>
@@ -717,7 +717,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Guard-tower-research.jpg"
+                src="~assets/guard_tower.png"
                 alt=""
               />100食物250木材
             </td>

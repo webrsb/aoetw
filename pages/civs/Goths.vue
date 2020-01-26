@@ -104,7 +104,7 @@
           <h3><strong>特殊單位</strong></h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/HuskarlIcon.png" alt="" /><nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >：快速的步兵，且有異常高的<nuxt-link to="/armor"
@@ -117,13 +117,13 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 alt=""
               /><nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
               >：軍營可以生產哥德衛隊。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Perfusion"
                 >灌注士氣</nuxt-link
               >：軍營生產單位速度快100%。
@@ -732,7 +732,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/HuskarlIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/HuskarlIcon.png" /><nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >
@@ -748,12 +748,12 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Anarchy"
                 >無政府狀態</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Perfusion"
                 >灌注士氣</nuxt-link
               >

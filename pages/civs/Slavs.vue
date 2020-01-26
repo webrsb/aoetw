@@ -117,13 +117,13 @@
           </li>
           <h3>特殊科技</h3>
           <li>
-            <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+            <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
               to="/techs/Orthodoxy"
               >東正教</nuxt-link
             >：僧侶護甲各+3
           </li>
           <li>
-            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+            <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
               to="/techs/Druzhina"
               >王家侍從</nuxt-link
             >：<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
@@ -248,11 +248,11 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Orthodoxy"
                 >東正教</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Druzhina"
                 >王家侍從</nuxt-link
               >

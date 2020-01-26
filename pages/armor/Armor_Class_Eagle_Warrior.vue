@@ -30,17 +30,17 @@
             <li>
               <img
                 class="gg"
-                src="~assets/EagleScoutIcon.jpg"
+                src="~assets/EagleScoutIcon.png"
                 alt=""
               /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/EagleWarriorIcon.jpg"
+                src="~assets/EagleWarriorIcon.png"
                 alt=""
               /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/EliteEagleWarriorIcon.jpg"
+                src="~assets/EliteEagleWarriorIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elite_Eagle_Warrior"
                 >精銳鷹勇士</nuxt-link
@@ -63,14 +63,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/2HandedswordsmanIcon.jpg"
+                      src="~assets/2HandedswordsmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Two-Handed_Swordsman"
                       >雙手劍兵</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/ChampionIcon.jpg"
+                      src="~assets/ChampionIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                   </li>
@@ -80,7 +80,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/LongswordsManIcon.jpg"
+                      src="~assets/LongswordsManIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
                   </li>
@@ -106,13 +106,13 @@
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                       to="/units/Woad_Raider"
                       >精銳菘藍武士</nuxt-link
                     >(<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                       to="/units/Samurai"
                       >精銳日本武士</nuxt-link
                     >(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)
@@ -120,13 +120,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HuskarlIcon.jpg"
+                      src="~assets/HuskarlIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                       to="/units/Berserk"
                       >精銳狂戰士</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
@@ -139,19 +139,19 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/ManAtArmsIcon.jpg"
+                      src="~assets/ManAtArmsIcon.png"
                       alt=""
                       width="22"
                     /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                       to="/units/Woad_Raider"
                       >菘藍武士</nuxt-link
                     >(<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                       to="/units/Samurai"
                       >日本武士</nuxt-link
                     >(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)
@@ -159,19 +159,19 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HuskarlIcon.jpg"
+                      src="~assets/HuskarlIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                       to="/units/Berserk"
                       >狂戰士</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                       to="/units/Throwing_Axeman"
                       >精銳擲斧兵</nuxt-link
                     >(<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>限定)
@@ -210,12 +210,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/JaguarWarriorIcon.jpg"
+                      src="~assets/JaguarWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/JaguarWarriorIcon.jpg"
+                      src="~assets/JaguarWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Jaguar_Warrior"
                       >精銳豹勇士</nuxt-link
@@ -229,22 +229,22 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SpearmanIcon.jpg"
+                      src="~assets/SpearmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/PikemanIcon.jpg"
+                      src="~assets/PikemanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/HalberdierIcon.jpg"
+                      src="~assets/HalberdierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                       to="/units/Throwing_Axeman"
                       >擲斧兵</nuxt-link
                     >(<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>限定)

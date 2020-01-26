@@ -52,7 +52,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Doublebitaxe.jpg" width="45" alt="" />
+                <img src="~assets/double-bit_axe.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -72,7 +72,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
@@ -82,7 +82,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Lumbercampicon.png"
+                src="~assets/lumber_camp.png"
                 alt=""
               /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
             </td>
@@ -90,7 +90,7 @@
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Bowsaw.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/bow_saw.png" alt="" /><nuxt-link
                 to="/techs/Bow_Saw"
                 >弓鋸</nuxt-link
               >

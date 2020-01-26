@@ -21,7 +21,7 @@
             <li>
               起始時代:
               <img
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
@@ -38,14 +38,14 @@
               <ul>
                 <li>
                   <img
-                    src="~assets/VillagerMaleIcon.jpg"
+                    src="~assets/VillagerMaleIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Villager">村民</nuxt-link>3個
                 </li>
                 <li>
                   <img
-                    src="~assets/EagleWarriorIcon.jpg"
+                    src="~assets/EagleWarriorIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>3個

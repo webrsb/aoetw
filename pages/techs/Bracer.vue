@@ -186,7 +186,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Bodkinarrow.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/bodkin_arrow.png" alt="" /><nuxt-link
                 to="/techs/Bodkin_Arrow"
                 >錐狀箭頭</nuxt-link
               >

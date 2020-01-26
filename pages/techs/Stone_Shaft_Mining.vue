@@ -121,7 +121,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Stone_Shaft_Mining.jpg" width="45" alt="" />
+                <img src="~assets/stone_shaft_mining.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -141,7 +141,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Miningcampicon.png"
+                src="~assets/mining_camp.png"
                 alt=""
               /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
             </td>
@@ -149,7 +149,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Stonemining.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/stone_mining.png" alt="" /><nuxt-link
                 to="/techs/Stone_Mining"
                 >採石技術</nuxt-link
               >

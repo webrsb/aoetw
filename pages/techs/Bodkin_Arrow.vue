@@ -67,7 +67,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bodkinarrow.jpg" width="45" alt="" />
+                <img src="~assets/bodkin_arrow.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -97,7 +97,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Fletching.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/fletching.png" alt="" /><nuxt-link
                 to="/techs/Fletching"
                 >箭羽</nuxt-link
               >

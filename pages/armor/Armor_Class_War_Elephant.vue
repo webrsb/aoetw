@@ -44,13 +44,13 @@
             <li>
               <img
                 class="gg"
-                src="~assets/WarElephantIcon.jpg"
+                src="~assets/WarElephantIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/WarElephantIcon.jpg"
+                src="~assets/WarElephantIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
@@ -59,12 +59,12 @@
             <li>
               <img
                 class="gg"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">精銳象弓騎兵</nuxt-link
               >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
@@ -96,7 +96,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HalberdierIcon.jpg"
+                      src="~assets/HalberdierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
@@ -106,7 +106,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/PikemanIcon.jpg"
+                      src="~assets/PikemanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                   </li>
@@ -132,7 +132,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SpearmanIcon.jpg"
+                      src="~assets/SpearmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
@@ -144,7 +144,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HeavyScorpionIcon.jpg"
+                      src="~assets/HeavyScorpionIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>

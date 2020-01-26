@@ -34,7 +34,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Jaguar-icon-aoe2.jpg" width="80" alt="" />
+                <img src="~assets/Jaguar-icon-aoe2.png" width="80" alt="" />
               </div>
             </td>
           </tr>

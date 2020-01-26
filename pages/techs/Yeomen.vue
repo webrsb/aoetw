@@ -106,7 +106,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/CastleAgeUnique.png" width="45" alt="" />
+                <img src="~assets/unique_tech.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -128,7 +128,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -136,7 +136,7 @@
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/castle.png" alt="" /><nuxt-link
                 to="/building/Castle"
                 >城堡</nuxt-link
               >

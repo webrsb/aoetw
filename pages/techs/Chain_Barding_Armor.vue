@@ -159,7 +159,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Scalebardingarmor.jpg"
+                src="~assets/scale_barding_armor.png"
                 alt=""
               /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link>
             </td>
@@ -169,7 +169,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Platebardingarmor.jpg"
+                src="~assets/scale_barding_armor.png"
                 alt=""
               /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link>
             </td>

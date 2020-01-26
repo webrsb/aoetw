@@ -100,7 +100,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Great_Wall">長城</nuxt-link>:+30%
@@ -112,7 +112,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -245,7 +245,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Stonewallicon.png" width="45" alt="" />
+                <img src="~assets/stone_wall.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -299,19 +299,19 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="22"
                 alt=""
               />900 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="22"
                 alt=""
               />1800 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="22"
                 alt=""
               />1800
@@ -356,7 +356,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Stonewallicon.png"
+                src="~assets/stone_wall.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>

@@ -89,7 +89,7 @@
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             <ul>
               <li>
-                <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/redemption.png" alt="" /><nuxt-link
                   to="/techs/Redemption"
                   >信仰救贖</nuxt-link
                 >:僧侶可<nuxt-link to="/elements/Conversion">招降</nuxt-link
@@ -99,7 +99,7 @@
                 >。
               </li>
               <li>
-                <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/atonement.png" alt="" /><nuxt-link
                   to="/techs/Atonement"
                   >贖罪</nuxt-link
                 >:僧侶可招降對方的僧侶。
@@ -119,20 +119,20 @@
                 >:被招降的單位/建築物立即死亡/毀壞)。
               </li>
               <li>
-                <img class="gg" src="~assets/Sanctity.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/sanctity.png" alt="" /><nuxt-link
                   to="/techs/Sanctity"
                   >聖潔虔誠</nuxt-link
                 >:僧侶+15 HP。
               </li>
               <li>
-                <img class="gg" src="~assets/Fervor.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/fervor.png" alt="" /><nuxt-link
                   to="/techs/Fervor"
                   >宗教狂熱</nuxt-link
                 >:僧侶移動速度+15%。
               </li>
               <li>
                 <img
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   class="gg"
                   alt=""
                 /><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
@@ -140,7 +140,7 @@
               </li>
               <li>
                 <img
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   class="gg"
                   alt=""
                 /><nuxt-link to="/techs/Madrasah">穆斯林學墊</nuxt-link
@@ -149,7 +149,7 @@
               </li>
               <li>
                 <img
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   class="gg"
                   alt=""
                 /><nuxt-link to="/techs/Orthodoxy">東正教</nuxt-link
@@ -162,7 +162,7 @@
             <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             <ul>
               <li>
-                <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
                   to="/techs/Faith"
                   >忠誠信仰</nuxt-link
                 >:單位對僧侶(<nuxt-link to="/units/Missionary">傳教士</nuxt-link
@@ -171,7 +171,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Illumination.jpg"
+                  src="~assets/illumination.png"
                   alt=""
                 /><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link
                 >:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
@@ -179,7 +179,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Blockprinting.jpg"
+                  src="~assets/block_printing.png"
                   alt=""
                 /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
                 >:僧侶(傳教士)的招降範圍+3。
@@ -331,7 +331,7 @@
             <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/HussarIcon.png" alt="" /><nuxt-link
                   to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 >
@@ -342,7 +342,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/EliteEagleWarriorIcon.jpg"
+                  src="~assets/EliteEagleWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Elite_Eagle_Warrior"
                   >精銳鷹勇士</nuxt-link
@@ -351,7 +351,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/LightCavalryIcon.jpg"
+                  src="~assets/LightCavalryIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
               </li>
@@ -361,12 +361,12 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/EagleScoutIcon.jpg"
+                  src="~assets/EagleScoutIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/EagleWarriorIcon.jpg"
+                  src="~assets/EagleWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
               </li>
@@ -377,7 +377,7 @@
                 <img
                   class="gg"
                   style="margin: 2px;"
-                  src="~assets/ScoutCavalryIcon.jpg"
+                  src="~assets/ScoutCavalryIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>
               </li>
@@ -566,10 +566,10 @@
               <div class="unititle">
                 <b-tabs no-fade>
                   <b-tab title="一般國家">
-                    <img src="~assets/MonkIcon.jpg" width="45" alt="" />
+                    <img src="~assets/MonkIcon.png" width="45" alt="" />
                   </b-tab>
                   <b-tab title="美洲">
-                    <img src="~assets/MonkIcon2.jpg" width="45" alt="" />
+                    <img src="~assets/MonkIcon2.png" width="45" alt="" />
                   </b-tab>
                 </b-tabs>
               </div>

@@ -182,7 +182,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Great_Wall">長城</nuxt-link>:+30%
@@ -194,7 +194,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -325,7 +325,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -399,7 +399,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Stonewallicon.png"
+                src="~assets/stone_wall.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>

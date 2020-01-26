@@ -50,7 +50,7 @@
           </p>
           <ul>
             <li>
-              <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/redemption.png" alt="" /><nuxt-link
                 to="/techs/Redemption"
                 >信仰救贖</nuxt-link
               >:僧侶可招降大部分建築物和<nuxt-link to="/units/Siege_Weapons"
@@ -58,19 +58,19 @@
               >。
             </li>
             <li>
-              <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/atonement.png" alt="" /><nuxt-link
                 to="/techs/Atonement"
                 >贖罪</nuxt-link
               >:僧侶可招降對方的僧侶。
             </li>
             <li>
-              <img class="gg" src="~assets/Fervor.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/fervor.png" alt="" /><nuxt-link
                 to="/techs/Fervor"
                 >宗教狂熱</nuxt-link
               >:僧侶移動速度+15%。
             </li>
             <li>
-              <img class="gg" src="~assets/Illumination.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/illumination.png" alt="" /><nuxt-link
                 to="/techs/Illumination"
                 >啟發教化</nuxt-link
               >:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)
@@ -78,7 +78,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Blockprinting.jpg"
+                src="~assets/block_printing.png"
                 alt=""
               /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
               >:僧侶(傳教士)的招降範圍+3。
@@ -125,17 +125,17 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/EagleScoutIcon.jpg"
+                  src="~assets/EagleScoutIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/EagleWarriorIcon.jpg"
+                  src="~assets/EagleWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/EliteEagleWarriorIcon.jpg"
+                  src="~assets/EliteEagleWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Elite_Eagle_Warrior"
                   >精銳鷹勇士</nuxt-link
@@ -144,15 +144,15 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/ScoutCavalryIcon.jpg"
+                  src="~assets/ScoutCavalryIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/LightCavalryIcon.jpg"
+                  src="~assets/LightCavalryIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
-                <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/HussarIcon.png" alt="" /><nuxt-link
                   to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 >
@@ -161,7 +161,7 @@
             科技
             <ul>
               <li>
-                <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
                   to="/techs/Faith"
                   >忠誠信仰</nuxt-link
                 >：增加2~4個CI，跟增加兩個level，也就是說需要6～10個CI才有法力。

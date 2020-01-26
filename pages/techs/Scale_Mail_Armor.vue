@@ -54,7 +54,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Scalemailarmor.jpg" width="45" alt="" />
+                <img src="~assets/scale_mail_armor.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -74,7 +74,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
@@ -84,7 +84,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Blacksmithicon.png"
+                src="~assets/blacksmith.png"
                 alt=""
               /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             </td>

@@ -77,7 +77,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/WarElephantIcon.jpg"
+                src="~assets/WarElephantIcon.png"
                 alt=""
               /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >：笨重緩慢，但是戰鬥力近乎恐怖的騎兵
@@ -88,14 +88,14 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 alt=""
               /><nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link
               >：訓練徒步<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
               >消耗額外木材，而不消耗黃金。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Mahouts"
                 >象伕</nuxt-link
               >：戰象的移動速度+30%
@@ -578,7 +578,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/WarElephantIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/WarElephantIcon.png" /><nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
               >
@@ -595,11 +595,11 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/"
                 >波斯弓兵</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Mahouts"
                 >象伕</nuxt-link
               >

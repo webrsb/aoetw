@@ -19,7 +19,7 @@
           <ul>
             <li>
               <img
-                src="~assets/ManAtArmsIcon.jpg"
+                src="~assets/ManAtArmsIcon.png"
                 width="25"
                 alt=""
               /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
@@ -163,7 +163,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ManAtArmsIcon.jpg" width="45" alt="" />
+                <img src="~assets/ManAtArmsIcon.png" width="45" alt="" />
               </div>
             </td>
           </tr>

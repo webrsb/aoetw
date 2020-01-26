@@ -125,12 +125,12 @@
             <td class="tta1">
               <img
                 class="gg"
-                src="~assets/CavalryArcherIcon.jpg"
+                src="~assets/CavalryArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/HeavyCavArcherIcon.jpg"
+                src="~assets/HeavyCavArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
@@ -141,11 +141,11 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/MangudaiIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/MangudaiIcon.png" alt="" /><nuxt-link
                 to="/units/Mangudai"
                 >蒙古突騎</nuxt-link
               >→
-              <img class="gg" src="~assets/MangudaiIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/MangudaiIcon.png" alt="" /><nuxt-link
                 to="/units/Mangudai"
                 >精銳蒙古突騎</nuxt-link
               >
@@ -157,12 +157,12 @@
             <td class="tta1">
               <img
                 class="gg"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">精銳象弓騎兵</nuxt-link>
             </td>
@@ -173,12 +173,12 @@
             <td class="tta1">
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link>
             </td>
@@ -233,7 +233,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Parthian-Tactics.jpg" width="45" alt="" />
+                <img src="~assets/parthian_tactics.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -253,7 +253,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
@@ -263,7 +263,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Archery-range-logo.jpg"
+                src="~assets/archery_range.png"
                 alt=""
               /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
             </td>

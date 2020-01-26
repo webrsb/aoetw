@@ -49,7 +49,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Paddedarcherarmor.jpg" width="45" alt="" />
+                <img src="~assets/padded_archer_armor.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -82,7 +82,7 @@
               <nuxt-link to="/techs/Leather_Archer_Armor"
                 ><img
                   class="gg"
-                  src="~assets/Leatherarcherarmor.jpg"
+                  src="~assets/leather_archer_armor.png"
                   width="45"
                   alt=""
                 />弓兵皮甲</nuxt-link

@@ -44,7 +44,7 @@
             <li>
               起始時代:
               <img
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
@@ -61,7 +61,7 @@
               <ul>
                 <li>
                   <img
-                    src="~assets/JaguarWarriorIcon.jpg"
+                    src="~assets/JaguarWarriorIcon.png"
                     class="gg"
                     alt=""
                   />豹勇士1個
@@ -72,32 +72,32 @@
               大地之母單位:
               <ul>
                 <li>
-                  <img src="~assets/MonkIcon2.jpg" class="gg" alt="" />僧侶3個
+                  <img src="~assets/MonkIcon2.png" class="gg" alt="" />僧侶3個
                 </li>
                 <li>
                   <img
-                    src="~assets/EagleWarriorIcon.jpg"
+                    src="~assets/EagleWarriorIcon.png"
                     class="gg"
                     alt=""
                   />鷹勇士22個
                 </li>
                 <li>
                   <img
-                    src="~assets/JaguarWarriorIcon.jpg"
+                    src="~assets/JaguarWarriorIcon.png"
                     class="gg"
                     alt=""
                   />豹勇士8個
                 </li>
                 <li>
                   <img
-                    src="~assets/PikemanIcon.jpg"
+                    src="~assets/PikemanIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>5個
                 </li>
                 <li>
                   <img
-                    src="~assets/EliteSkirmisherIcon.jpg"
+                    src="~assets/EliteSkirmisherIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
@@ -105,21 +105,21 @@
                 </li>
                 <li>
                   <img
-                    src="~assets/OnagerIcon.jpg"
+                    src="~assets/OnagerIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Onager">中型投石車</nuxt-link>1個
                 </li>
                 <li>
                   <img
-                    src="~assets/TransportShipIcon.jpg"
+                    src="~assets/TransportShipIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>7個
                 </li>
                 <li>
                   <img
-                    src="~assets/FastFireShipIcon.jpg"
+                    src="~assets/FastFireShipIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link

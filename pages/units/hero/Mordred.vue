@@ -100,21 +100,21 @@
             </td>
             <td class="tta4">
               <p>
-                <img src="~assets/Forging.jpg" width="30" alt="" /><nuxt-link
+                <img src="~assets/forging.png" width="30" alt="" /><nuxt-link
                   to="/techs/Forging"
                   >鍛造</nuxt-link
                 >(+1)
               </p>
               <p>
                 <img
-                  src="~assets/Ironcasting.jpg"
+                  src="~assets/iron_casting.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
               </p>
               <p>
                 <img
-                  src="~assets/Blastfurnace.jpg"
+                  src="~assets/blast_furnace.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
@@ -126,7 +126,7 @@
             <td class="tta4">
               <p>
                 <img
-                  src="~assets/Scalebardingarmor.jpg"
+                  src="~assets/scale_barding_armor.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
@@ -142,7 +142,7 @@
               </p>
               <p>
                 <img
-                  src="~assets/Platebardingarmor.jpg"
+                  src="~assets/scale_barding_armor.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
@@ -154,7 +154,7 @@
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
               <p>
-                <img src="~assets/Husbandry.jpg" width="30" alt="" /><nuxt-link
+                <img src="~assets/husbandry.png" width="30" alt="" /><nuxt-link
                   to="/techs/Husbandry"
                   >畜牧培育</nuxt-link
                 >(+10%)
@@ -175,7 +175,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/PaladinIcon.jpg" width="80" alt="" />
+                <img src="~assets/PaladinIcon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

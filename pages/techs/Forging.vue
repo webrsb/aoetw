@@ -62,7 +62,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Forging.jpg" width="45" alt="" />
+                <img src="~assets/forging.png" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -92,7 +92,7 @@
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/iron_casting.png" alt="" /><nuxt-link
                 to="/techs/Iron_Casting"
                 >鑄造</nuxt-link
               >

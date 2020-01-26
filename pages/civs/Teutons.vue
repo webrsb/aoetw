@@ -138,14 +138,14 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 alt=""
               /><nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link
               >：給予<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
               >+4的近防
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" alt="" /><nuxt-link
                 to="/techs/Crenellations"
                 >垛口</nuxt-link
               >：城堡射程+3、且步兵可以射箭
@@ -294,11 +294,11 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Ironclad"
                 >鋼鐵甲</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
                 to="/techs/Crenellations"
                 >垛口</nuxt-link
               >

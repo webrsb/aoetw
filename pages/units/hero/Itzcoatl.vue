@@ -42,7 +42,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/JaguarWarriorIcon.jpg" width="80" alt="" />
+                <img src="~assets/JaguarWarriorIcon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

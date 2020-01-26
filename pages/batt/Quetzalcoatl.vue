@@ -30,13 +30,13 @@
             <li>
               起始時代:
               <img
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >(難度:標準)；
               <img
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
@@ -54,14 +54,14 @@
               <ul>
                 <li>
                   <img
-                    src="~assets/VillagerMaleIcon.jpg"
+                    src="~assets/VillagerMaleIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Villager">村民</nuxt-link>6個
                 </li>
                 <li>
                   <img
-                    src="~assets/EagleWarriorIcon.jpg"
+                    src="~assets/EagleWarriorIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>1個

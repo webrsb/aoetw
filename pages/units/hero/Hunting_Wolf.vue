@@ -65,7 +65,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Wolf-icon-aoe2.jpg" width="80" alt="" />
+                <img src="~assets/Wolf-icon-aoe2.png" width="80" alt="" />
               </div>
             </td>
           </tr>

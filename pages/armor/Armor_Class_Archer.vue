@@ -28,16 +28,16 @@
           下列的單位都是射手系單位
           <ul>
             <li>
-              <img class="gg" src="~assets/ArcherIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ArcherIcon.png" alt="" /><nuxt-link
                 to="/units/Archer"
                 >弓兵</nuxt-link
               >→
               <img
                 class="gg"
-                src="~assets/CrossbowmanIcon.jpg"
+                src="~assets/CrossbowmanIcon.png"
                 alt=""
               /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>→
-              <img class="gg" src="~assets/ArbalestIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ArbalestIcon.png" alt="" /><nuxt-link
                 to="/units/Arbalest"
                 >強弩兵</nuxt-link
               >
@@ -45,12 +45,12 @@
             <li>
               <img
                 class="gg"
-                src="~assets/SkirmisherIcon.jpg"
+                src="~assets/SkirmisherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/EliteSkirmisherIcon.jpg"
+                src="~assets/EliteSkirmisherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>→
               <img
@@ -63,12 +63,12 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CavalryArcherIcon.jpg"
+                src="~assets/CavalryArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/HeavyCavArcherIcon.jpg"
+                src="~assets/HeavyCavArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
@@ -77,25 +77,25 @@
             <li>
               <img
                 class="gg"
-                src="~assets/HandCannoneerIcon.jpg"
+                src="~assets/HandCannoneerIcon.png"
                 alt=""
               /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/Slinger_Icon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/Slinger_Icon.png" alt="" /><nuxt-link
                 to="/units/Slinger"
                 >投石手</nuxt-link
               >
               (<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
             </li>
             <li>
-              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/GenitourIcon.png" alt="" /><nuxt-link
                 to="/units/Genitour"
                 >標槍騎兵</nuxt-link
               >→
               <img
                 class="gg"
-                src="~assets/GenitourIcon.jpg"
+                src="~assets/GenitourIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
               >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>及其同盟限定)
@@ -105,14 +105,14 @@
                 class="gg"
                 style="margin: 2px;"
                 width="22"
-                src="~assets/LongbowmanIcon.jpg"
+                src="~assets/LongbowmanIcon.png"
                 alt=""
               /><nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
                 width="22"
-                src="~assets/LongbowmanIcon.jpg"
+                src="~assets/LongbowmanIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
               >(<nuxt-link to="/civs/Britons">不列顛</nuxt-link>限定)
@@ -122,14 +122,14 @@
                 class="gg"
                 style="margin: 2px;"
                 width="22"
-                src="~assets/MangudaiIcon.jpg"
+                src="~assets/MangudaiIcon.png"
                 alt=""
               /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
                 width="22"
-                src="~assets/MangudaiIcon.jpg"
+                src="~assets/MangudaiIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
               >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
@@ -138,13 +138,13 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/ChuKoNuIcon.jpg"
+                src="~assets/ChuKoNuIcon.png"
                 alt=""
               /><nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/ChuKoNuIcon.jpg"
+                src="~assets/ChuKoNuIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
               >(<nuxt-link to="/civs/Chinese">中國</nuxt-link>限定)
@@ -168,13 +168,13 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/JanissaryIcon.jpg"
+                src="~assets/JanissaryIcon.png"
                 alt=""
               /><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/JanissaryIcon.jpg"
+                src="~assets/JanissaryIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >(<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定)
@@ -183,13 +183,13 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/WarWagonIcon.jpg"
+                src="~assets/WarWagonIcon.png"
                 alt=""
               /><nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/WarWagonIcon.jpg"
+                src="~assets/WarWagonIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link
               >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
@@ -198,13 +198,13 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/PlumedArcherIcon.jpg"
+                src="~assets/PlumedArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/PlumedArcherIcon.jpg"
+                src="~assets/PlumedArcherIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
@@ -213,13 +213,13 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/ConquistadorIcon.jpg"
+                src="~assets/ConquistadorIcon.png"
                 alt=""
               /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/ConquistadorIcon.jpg"
+                src="~assets/ConquistadorIcon.png"
                 alt=""
               /><nuxt-link to="/units/Conquistador">精銳征服者</nuxt-link
               >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
@@ -228,13 +228,13 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>(-2)→
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
               >(-2)(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
@@ -260,13 +260,13 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
@@ -315,13 +315,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
@@ -333,7 +333,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HuskarlIcon.jpg"
+                      src="~assets/HuskarlIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
@@ -344,7 +344,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HuskarlIcon.jpg"
+                      src="~assets/HuskarlIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
@@ -357,7 +357,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/GenitourIcon.jpg"
+                      src="~assets/GenitourIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
@@ -378,14 +378,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EliteSkirmisherIcon.jpg"
+                      src="~assets/EliteSkirmisherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/GenitourIcon.jpg"
+                      src="~assets/GenitourIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)
@@ -396,7 +396,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SkirmisherIcon.jpg"
+                      src="~assets/SkirmisherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
                   </li>
@@ -408,29 +408,29 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/KnightIcon.jpg"
+                      src="~assets/KnightIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Knight">騎士</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/CavalierIcon.jpg"
+                      src="~assets/CavalierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/PaladinIcon.jpg"
+                      src="~assets/PaladinIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CataphractIcon.jpg"
+                      src="~assets/CataphractIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/CataphractIcon.jpg"
+                      src="~assets/CataphractIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
@@ -438,12 +438,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/TarkanIcon.jpg"
+                      src="~assets/TarkanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/TarkanIcon.jpg"
+                      src="~assets/TarkanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
@@ -494,17 +494,17 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/KnightIcon.jpg"
+                      src="~assets/KnightIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Knight">騎士</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/CavalierIcon.jpg"
+                      src="~assets/CavalierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/PaladinIcon.jpg"
+                      src="~assets/PaladinIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>
                   </li>

@@ -180,7 +180,7 @@
             <strong>起始時代：</strong>
             <img
               class="gg"
-              src="~assets/Imperial-age-research.jpg"
+              src="~assets/imperial_age.png"
               alt=""
             /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
           </li>
@@ -192,7 +192,7 @@
         <h3>起始單位</h3>
         <ul>
           <li>
-            <img class="gg" src="~assets/PikemanIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/PikemanIcon.png" alt="" /><nuxt-link
               to="/units/Pikeman"
               >重裝長槍兵</nuxt-link
             >
@@ -206,7 +206,7 @@
             14
           </li>
           <li>
-            <img class="gg" src="~assets/PaladinIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/PaladinIcon.png" alt="" /><nuxt-link
               to="/units/Paladin"
               >遊俠</nuxt-link
             >
@@ -215,12 +215,12 @@
           <li>
             <img
               class="gg"
-              src="~assets/CrossbowmanIcon.jpg"
+              src="~assets/CrossbowmanIcon.png"
               alt=""
             /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link> 10
           </li>
           <li>
-            <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/MonkIcon.png" alt="" /><nuxt-link
               to="/units/Monk"
               >僧侶</nuxt-link
             >
@@ -229,21 +229,21 @@
           <li>
             <img
               class="gg"
-              src="~assets/SiegeOnagerIcon.jpg"
+              src="~assets/SiegeOnagerIcon.png"
               alt=""
             /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link> 2
           </li>
           <li>
             <img
               class="gg"
-              src="~assets/TrebuchetPackedIcon.jpg"
+              src="~assets/TrebuchetPackedIcon.png"
               alt=""
             /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link> 3
           </li>
           <li>
             <img
               class="gg"
-              src="~assets/ScoutCavalryIcon.jpg"
+              src="~assets/ScoutCavalryIcon.png"
               alt=""
             /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link> 2
           </li>
@@ -253,7 +253,7 @@
         <h3>大地之母</h3>
         <ul>
           <li>
-            <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
               to="/units/Throwing_Axeman"
               >擲斧兵</nuxt-link
             >
@@ -262,7 +262,7 @@
           <li>
             <img
               class="gg"
-              src="~assets/HeavyCavArcherIcon.jpg"
+              src="~assets/HeavyCavArcherIcon.png"
               alt=""
             /><nuxt-link to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link
@@ -271,19 +271,19 @@
           <li>
             <img
               class="gg"
-              src="~assets/TransportShipIcon.jpg"
+              src="~assets/TransportShipIcon.png"
               alt=""
             /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link> 4
           </li>
           <li>
             <img
               class="gg"
-              src="~assets/SiegeOnagerIcon.jpg"
+              src="~assets/SiegeOnagerIcon.png"
               alt=""
             /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link> 4
           </li>
           <li>
-            <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/MonkIcon.png" alt="" /><nuxt-link
               to="/units/Monk"
               >僧侶</nuxt-link
             >
@@ -292,7 +292,7 @@
           <li>
             <img
               class="gg"
-              src="~assets/TrebuchetPackedIcon.jpg"
+              src="~assets/TrebuchetPackedIcon.png"
               alt=""
             /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link> 1
           </li>

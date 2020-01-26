@@ -79,7 +79,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
@@ -89,7 +89,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Blacksmithicon.png"
+                src="~assets/blacksmith.png"
                 alt=""
               /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             </td>
@@ -99,7 +99,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Scalemailarmor.jpg"
+                src="~assets/scale_mail_armor.png"
                 alt=""
               /><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link>
             </td>
@@ -109,7 +109,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Platemailarmor.jpg"
+                src="~assets/plate_mail_armor.png"
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link>
             </td>

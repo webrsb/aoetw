@@ -196,7 +196,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
@@ -207,7 +207,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Stableicon.png"
+                src="~assets/stable.png"
                 alt=""
               /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
             </td>

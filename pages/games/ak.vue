@@ -57,7 +57,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >:移動快速，素質良好的<nuxt-link to="/units/Camel_Archer"
@@ -82,7 +82,7 @@
               >步兵，攻擊與移動都非常優秀。
             </li>
             <li>
-              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/OrganGunIcon.png" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
                 >風琴砲</nuxt-link
               >:少數在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
@@ -92,7 +92,7 @@
               >有加成傷害。
             </li>
             <li>
-              <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/CaravelIcon.png" alt="" /><nuxt-link
                 to="/units/Caravel"
                 >卡拉維爾戰船</nuxt-link
               >:有貫穿效果的<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
@@ -111,14 +111,14 @@
             >的<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link>具。
           </li>
           <li>
-            <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/FireGalleyIcon.png" alt="" /><nuxt-link
               to="/units/Fire_Galley"
               >火蒙衝</nuxt-link
             >:<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >就能生產<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>。
           </li>
           <li>
-            <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/DemoRaftIcon.png" alt="" /><nuxt-link
               to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
             >:封建時代就能生產的<nuxt-link to="/units/Demolition_Ship"
@@ -129,7 +129,7 @@
         <p><nuxt-link to="/building">建築</nuxt-link></p>
         <ul>
           <li>
-            <img width="25px" src="~assets/Feitoriaicon.png" alt="" /><nuxt-link
+            <img width="25px" src="~assets/feitoria.png" alt="" /><nuxt-link
               to="/building/Feitoriaicon_Feitoria"
               >港灣大商站</nuxt-link
             >:<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
@@ -152,13 +152,13 @@
         <p>一般<nuxt-link to="/techs">科技</nuxt-link></p>
         <ul>
           <li>
-            <img class="gg" src="~assets/Arson.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/Arson.png" alt="" /><nuxt-link
               to="/techs/Arson"
               >縱火</nuxt-link
             >
           </li>
           <li>
-            <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/arrowslits.png" alt="" /><nuxt-link
               to="/techs/Arrowslits"
               >箭狹槽</nuxt-link
             >

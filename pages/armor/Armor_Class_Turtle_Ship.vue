@@ -30,12 +30,12 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TurtleShipIcon.jpg"
+                src="~assets/TurtleShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/TurtleShipIcon.jpg"
+                src="~assets/TurtleShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
               >(1)(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
@@ -52,7 +52,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/FastFireShipIcon.jpg"
+                  src="~assets/FastFireShipIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
               </li>
@@ -62,7 +62,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/FireShipIcon.jpg"
+                  src="~assets/FireShipIcon.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>
@@ -73,7 +73,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/FireGalleyIcon.jpg"
+                  src="~assets/FireGalleyIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>
               </li>
