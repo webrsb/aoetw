@@ -32,13 +32,16 @@
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多獵取20%的肉量
             </li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:獵人攜帶量+15
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>遊戲中的鹿都有角，然而現實中只有公鹿才有角。而且只有在每年的特定季節才會長出角</li>
+            <li>遊戲中的鹿都有角，然而現實中只有公鹿才有角。而且只有在每年的特定季節角才會長出來。</li>
             <li>儘管許多情況下鹿是溫順的，但可以使用“場景編輯器”中的觸發事件使它們攻擊。芬特蘭撒格(1000)場景中的Bug證明了這一點，
             該錯誤是由一隻鹿不知不覺地走進狼王歐魯先前佔領的地磚而引起的。鹿的“攻擊”看起來像是一隻吃草的瞪羚，它迅速搖晃角，但幾秒鐘的攻擊僅造成1點傷害。</li>
             
@@ -58,20 +61,6 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/Deer-icon-aoe2.png" width="80" alt="" />
-              </div>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <div class="unititle">
-                <b-tabs no-fade>
-                  <b-tab title="鹿(決定版)">
-                    <img src="~assets/Deer-icon-aoe2.png" width="45" alt="" />
-                  </b-tab>
-                  <b-tab title="鹿(原始版)">
-                    <img src="~assets/Deer-icon-aoe2.jpg" width="45" alt="" />
-                  </b-tab>
-                </b-tabs>
               </div>
             </td>
           </tr>
