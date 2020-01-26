@@ -91,7 +91,7 @@
               <nuxt-link to="/units/animal/Alfred_the_Alpaca">羊駝阿佛烈</nuxt-link>•
               <nuxt-link to="/units/animal/Flaming_Camel">火焰駱駝</nuxt-link>•
               <nuxt-link to="/units/animal/Furious_the_Monkey_Boy">狂暴猴孩</nuxt-link>•
-              <nuxt-link to="/units/animal/Penguin">企鵝</nuxt-link>•
+              <nuxt-link to="/units/animal/Penguin">企鵝</nuxt-link>
               
             </td>
           </tr>
