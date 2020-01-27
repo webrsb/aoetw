@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>神聖羅馬皇帝</h1>
+        <h1>羅馬皇帝</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>神聖羅馬皇帝</b>為<nuxt-link to="/batt/Barbarossa"
+            <b>羅馬皇帝</b> (舊譯：神聖羅馬皇帝) 為<nuxt-link to="/batt/Barbarossa"
               >巴巴羅薩戰役</nuxt-link
             >的第一關劇情關卡，為<nuxt-link to="/batt/Barbarossa"
               >巴巴羅薩</nuxt-link
@@ -28,20 +28,19 @@
               >：遊戲者本身，將從地圖中央開始。
             </li>
           </ul>
-          <h3>中立</h3>
+          <h3>同盟</h3>
           <ul>
             <li>
               <div class="p7"></div>
               <strong
-                ><nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
-                >（蒙古）</strong
-              >：蒙古人對玩家的立場是“盟友”。（玩家可以將他們的立場改為“盟友”以便看到他們）。他們在地圖東邊，擁有軍隊，但沒有城鎮和<nuxt-link
+                ><nuxt-link to="/civs/Mongols">庫曼人</nuxt-link
+                >（庫曼）</strong
+              >：他們在地圖東邊，擁有軍隊，但沒有城鎮和<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >。蒙古軍隊由三台<nuxt-link to="/units/Siege_Onager"
+              >。庫曼軍隊由三台<nuxt-link to="/units/Siege_Onager"
                 >重型投石車</nuxt-link
-              >、七名<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
-              >和三名<nuxt-link to="/units/Cavalry_ArcADr">馬弓騎兵</nuxt-link
+              >、七名精銳欽察和三名<nuxt-link to="/units/Cavalry_ArcADr">馬弓騎兵</nuxt-link
               >組成。只要給他們200黃金作為貢品他們就會加入玩家麾下。
             </li>
           </ul>
@@ -86,8 +85,8 @@
           <ul>
             <li>
               <div class="p8"></div>
-              <strong>斯瓦比亞（條頓）</strong
-              >：斯瓦比亞位於西北部。他們的軍隊主要是<nuxt-link
+              <strong>洛林（條頓）</strong
+              >：洛林位於西北部。他們的軍隊主要是<nuxt-link
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
               >和騎士以及一些<nuxt-link to="/units/Mangonel">投石車</nuxt-link
@@ -97,7 +96,7 @@
           <ul>
             <li>
               <div class="p5"></div>
-              <strong>波希米亞（條頓）</strong
+              <strong>波希米亞（斯拉夫）</strong
               >：波希米亞人起初相當薄弱，只有東部的一個小鎮。儘管如此，隨著遊戲的進展，它們會迅速成長並成為一個強大的陣營。
             </li>
           </ul>
@@ -127,7 +126,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                神聖羅馬皇帝
+                羅馬皇帝
               </div>
             </td>
           </tr>
@@ -195,10 +194,11 @@
         <ul>
           <li>
             <strong>起始時代：</strong>
-            <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
-              to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >
+            <img
+              class="gg"
+              src="~assets/castle_age.png"
+              alt=""
+            /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
           </li>
           <li>
             <strong>起始資源：</strong>200<nuxt-link to="/resource/Wood"
@@ -208,7 +208,7 @@
               >黃金</nuxt-link
             >，500<nuxt-link to="/resource/Stone">石頭</nuxt-link>
           </li>
-          <li><strong>人口上限：</strong>75</li>
+          <li><strong>人口上限：</strong>125</li>
         </ul>
       </div>
       <div class="col-md-4">
@@ -281,6 +281,17 @@
           >上方是否標有旗子，判斷是否有遺跡在內。要奪回存放於敵軍修道院中的遺跡的唯一方法，就是將該修道院摧毀。
         </li>
       </ul>
+          <h2>決定版變更點</h2>
+    <div class="hrn1"></div>
+    <div class="n1">
+      <ul>
+        <li>
+          人口上限由75改為125，波希米亞改成斯拉夫人，舊版斯瓦比亞更名洛林，蒙古人改為庫曼人，連帶地蒙古突騎改為精銳欽察。
+        </li>
+        <li>
+          成就「條頓狂暴」：以全滅敵人的方式過關（庫曼勢力需存活）。
+        </li>
+      </ul>
       <h2>芝麻小事</h2>
       <div class="hrn1"></div>
       <div class="n1">
@@ -292,7 +303,7 @@
           </li>
           <li>巴巴羅薩其實是斯瓦比亞公爵。</li>
           <li>
-            雖然斯瓦比亞出現在地圖北邊，但其實斯瓦比亞是在德國（日耳曼）境內的南邊而且就在巴伐利亞西邊、勃艮第東邊。
+            雖然斯瓦比亞出現在地圖北邊，但其實斯瓦比亞是在德國（日耳曼）境內的南邊而且就在巴伐利亞西邊、勃艮第東邊。決定版將該國更名成洛林。
           </li>
         </ul>
       </div>
@@ -341,13 +352,14 @@
           >和城堡保護，他們也會訓練弩砲、騎士抵禦攻擊，是比較不好進攻的城鎮，不過玩家若想挑戰自己也可試試。波希米亞則會訓練弩兵和騎士，城鎮內有一個城堡，不過你也可以輕易摧毀他們奪取遺跡。
         </li>
         <li>
+          地圖右下的庫曼人如果你給他們兩百黃金就可以獲得七隻精銳欽察、三隻馬弓騎兵和三台重型投石車，不過你不用他們幫助也可以贏得遊戲。
+        </li>
+                <li>
           <strong
-            >注意！這個場景即使擊敗所有敵人也不會獲得勝利，一定要把四個遺跡放回修道院（不一定要同個修道院）才能獲得勝利。</strong
+            >注意！此關如果要拿到成就，則不能動到庫曼人，因為成就是靠觸發跳出來的，所以如果含庫曼滅掉就會瞬間勝利，造成成就來不及觸發。</strong
           >
         </li>
-        <li>
-          地圖右下的蒙古人如果你給他們兩百黃金就可以獲得七隻蒙古突騎、三隻馬弓騎兵和三台重型投石車，不過你不用他們幫助也可以贏得遊戲。
-        </li>
+
       </ul>
     </div>
   </div>
