@@ -42,7 +42,7 @@
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
                 to="/civs/Teutons"
                 >條頓</nuxt-link
-              >。
+              >、庫曼、保加利亞、立陶宛。
             </div>
           </div>
         </div>
@@ -88,7 +88,7 @@
               >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
                 to="/civs/Vietnamese"
                 >越南</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、韃靼。
             </div>
           </div>
         </div>
@@ -102,7 +102,7 @@
             to="/building"
             >建築</nuxt-link
           >。<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-          >遊俠比一般遊俠多12HP，是全遊戲最強大的遊俠。而<nuxt-link
+          >遊俠比一般遊俠多12HP，是全遊戲最強大的遊俠；波斯（和其同盟）則是可以給弓兵多2的額外傷害，尤其對付打馬弓騎兵猶為明顯；立陶宛遊俠則每擁有1個聖物就能加1攻，最多加4攻可達到22攻。而<nuxt-link
             to="/civs/Byzantines"
             >拜占庭</nuxt-link
           >與塞爾特遊俠則是重看不重用。
@@ -258,10 +258,13 @@
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
-              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
-                to="/techs/Chivalry"
-                >騎士精神</nuxt-link
-              >：<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech.png"
+                alt=""
+              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link>：<nuxt-link
+                to="/building/Stable"
+                >馬廄</nuxt-link
               >工作速率快40%。<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
               >限定
             </td>
@@ -546,6 +549,10 @@
                     >兵工廠</nuxt-link
                   >升級科技免黃金
                 </li>
+                                                <li>
+                  立陶宛：每擁有1個聖物，就額外多1攻擊力，最多額外多4攻。
+                </li>
+
               </ul>
             </div>
             <h3>團隊加分</h3>
@@ -606,6 +613,15 @@
                   >：引進<nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link>。
                 </li>
               </ul>
+                            <h3>
+                <em><nuxt-link to="/games/aof">決定版</nuxt-link></em>
+              </h3>
+              <ul>
+                <li>
+                  <nuxt-link to="/civs/Franks">立陶宛</nuxt-link
+                  >：原本可以額外多5攻擊力，更新檔34055後下修為最多額外4攻。
+                </li>
+              </ul>
             </div>
             <h3>趣事</h3>
             <div class="hrn1"></div>
@@ -657,7 +673,7 @@
                   <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>是<nuxt-link
                     to="/games/aof"
                     >失落的帝國</nuxt-link
-                  >後唯一的遊俠文明。
+                  >後唯一的遊俠文明。而決定版實裝的四個新文明有三個文明有遊俠且科技都全滿，只有韃靼文明沒有遊俠。
                 </li>
               </ul>
             </div>
