@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>復仇的人生</h1>
+        <h1>復仇人生</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>復仇的人生</b>為<nuxt-link to="/batt/Genghis_Khana"
+            <b>復仇人生</b>為<nuxt-link to="/batt/Genghis_Khana"
               >成吉思汗(戰役)</nuxt-link
             >的第二關劇情關卡，此關描述<nuxt-link to="/units/hero/Genghis_Khan"
               >成吉思汗</nuxt-link
@@ -34,7 +34,7 @@
                 >，200<nuxt-link to="/resource/Food">食物</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限:</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">125</td>
             </tr>
           </table>
 
@@ -64,7 +64,7 @@
                 玩家2
               </td>
               <td class="tc6">
-                加拉凱台（紅色）<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
+                西遼（紅色）<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p3"></div>
@@ -74,10 +74,10 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4"></div>
+                <div class="p6"></div>
                 玩家4
               </td>
-              <td class="tc6">泰依齊烏特人（黃色）蒙古 敵對</td>
+              <td class="tc6">泰赤烏人（紫色）蒙古 敵對</td>
             </tr>
           </table>
 
@@ -109,9 +109,9 @@
           <div class="n1">
             <ul>
               <li>
-                為「說服」泰依齊烏特<nuxt-link to="/units/Villager"
+                為「說服」泰赤烏<nuxt-link to="/units/Villager"
                   >村民</nuxt-link
-                >加入你的陣營，首先，你必須先殺掉他們所有的士兵。既然加拉凱台人對<nuxt-link
+                >加入你的陣營，首先，你必須先殺掉他們所有的士兵。既然西遼人對<nuxt-link
                   to="/units/Siege_Weapons"
                   >攻城武器</nuxt-link
                 >不甚熟悉，那麼建造<nuxt-link to="/building/Watch_Tower"
@@ -120,12 +120,21 @@
               </li>
               <li>注意：在此關玩家蒙古人無法建造攻城武器。</li>
             </ul>
+                      <h2>決定版變更點</h2>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                翻譯正名為HD版，人口上限由75改為125，泰赤烏人改紫色。
+              </li>
+              <li>成就「暗殺屈出律」：遊戲時間20分鐘以內殺死屈出律。標準模式下，利用一開始的兵可以辦到。用一隻輕騎兵引開西遼的軍隊，其他人趁機砍破木牆之後小心繞過防線直接把屈出律殺掉即可。</li>
+            </ul>
             <h2>芝麻小事</h2>
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
                 <li>
-                  本頁面保留原版翻譯的部落名稱，HD版目前漢化名稱比較:加拉凱台→西遼，泰依齊烏特→泰赤烏，闊實魯→屈出律。
+                  本頁面已更新成決定版翻譯的部落名稱，HD版與決定版和舊版名稱比較:加拉凱台→西遼，泰依齊烏特→泰赤烏，闊實魯→屈出律。
                 </li>
                 <li>歷史上，屈出律是西遼最後的統治者。</li>
               </ul>
@@ -138,7 +147,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                復仇的人生
+                復仇人生
               </div>
             </td>
           </tr>
@@ -184,13 +193,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
+              <nuxt-link to="/batt/Crucible">統一各部</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>
+              <nuxt-link to="/batt/Into_China">入主中原</nuxt-link>
             </td>
           </tr>
         </table>
