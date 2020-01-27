@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>遊牧民族的西遷</h1>
+        <h1>策馬西征</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>遊牧民族的西遷</b>為<nuxt-link to="/batt/Genghis_Khana"
+            <b>策馬西征</b>（舊譯：遊牧民族的西遷）為<nuxt-link to="/batt/Genghis_Khana"
               >成吉思汗(戰役)</nuxt-link
             >的第四關劇情關卡，此關描述<nuxt-link to="/civs/Mongols"
               >蒙古</nuxt-link
@@ -36,7 +36,7 @@
                 >／200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">125</td>
             </tr>
           </table>
 
@@ -65,13 +65,13 @@
                 <div class="p3"></div>
                 玩家2
               </td>
-              <td class="tc6" width="38%">麥凱特人（綠色）蒙古</td>
+              <td class="tc6" width="38%">欽察（綠色）庫曼人</td>
               <td class="tc6">
                 <div class="p2"></div>
                 玩家3
               </td>
               <td class="tc6" width="38%">
-                俄羅斯人（紅色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
+                俄羅斯人（紅色）<nuxt-link to="/civs/Goths">斯拉夫人</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -80,7 +80,7 @@
                 玩家4
               </td>
               <td class="tc6">
-                瓜利密（黃色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
+                花剌子模（黃色）<nuxt-link to="/civs/Persians">波斯人</nuxt-link>
               </td>
             </tr>
           </table>
@@ -97,18 +97,18 @@
               5位<nuxt-link to="/units/Villager">村民</nuxt-link>、2台<nuxt-link
                 to="/units/Trade_Cart"
                 >貿易車隊</nuxt-link
-              >、1位書部台、2隻野狼、7位馬弓騎兵。
+              >、1位速不台、2隻野狼、7位馬弓騎兵。
             </dd>
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>在北方，部署書部台的牧民去征服俄羅斯。</li>
+              <li>在北方，部署速不台的牧民去征服俄羅斯。</li>
               <li>
-                在南方，瓜利密國王正期待著貢品，可是他將會察覺有刺客埋伏在我們的商隊裡面。所以我們一定要在他與我們決裂之前，儘快把車隊開到他那裡去。
+                在南方，花剌子模國王正期待著貢品，可是他將會察覺有刺客埋伏在我們的商隊裡面。所以我們一定要在他與我們決裂之前，儘快把車隊開到他那裡去。
               </li>
-              <li>打敗瓜利密帝國。</li>
+              <li>打敗花剌子模。</li>
             </ol>
           </div>
         </div>
@@ -123,22 +123,23 @@
               >在期待他們的貢品。如果他們還沒有收到的話，就一定會向你宣戰。
             </li>
           </ul>
+                  <h2>決定版變更點</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              人口上限由75改為125，綠色更名欽察（種族改庫曼），俄羅斯人種族正名為斯拉夫人。
+            </li>
+            <li>
+              修正偷吃步打法，刺客出現後波斯下一秒馬上改敵對。波斯人收貢品的時間底限也提早到遊戲時間約12分鐘，否則馬上宣戰。
+            </li>
+          </ul>
           <h2>芝麻小事</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
               <li>
-                刺客從車隊中現身後，在刺殺大汗之前都不會被波斯軍隊攻擊，可以運用這個優勢，把王宮前的儀仗隊也一併屠戮殆盡。（這些儀仗隊是波斯多數的軍隊，把大汗放在最後再殺，就不怕波斯人報復。這裡的波斯人，在歷史上應該被稱作花剌子模。）單單這兩個刺客，就可以在你的軍隊到達前給波斯人造成強大的破壞。
-              </li>
-              <li>
-                此外，只要摧毀<nuxt-link to="/building/Castle">城堡</nuxt-link
-                >與奇觀就能擊敗波斯人，所以也可以考慮在刺殺大汗之情就打掉這些<nuxt-link
-                  to="/building"
-                  >建築物</nuxt-link
-                >。在波斯領地上蓋<nuxt-link to="/units//building/Siege_Workshop"
-                  >攻城器製造所</nuxt-link
-                >，直接用<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-                >撞掉它們就好了。
+                決定版之前，刺客從車隊中現身後，在刺殺大汗之前都不會被波斯軍隊攻擊，可以運用這個優勢，把王宮前的儀仗隊也一併屠戮殆盡。（這些儀仗隊是波斯多數的軍隊，把大汗放在最後再殺，就不怕波斯人報復。這裡的波斯人，在歷史上應該被稱作花剌子模。）單單這兩個刺客，就可以在你的軍隊到達前給波斯人造成強大的破壞。決定版已修正在刺客出來後馬上就會改敵對，無法用這招偷吃步。
               </li>
               <li>
                 如果刺殺失敗，波斯人會立即得到2000食物、2000黃金，並且生產40個村民，而非25個。雖然這樣還是可以擊敗他們，只是會變得困難許多。
@@ -155,7 +156,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                遊牧民族的西遷
+                策馬西征
               </div>
             </td>
           </tr>
@@ -205,13 +206,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>
+              <nuxt-link to="/batt/Into_China">入主中原</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Promise">承諾</nuxt-link>
+              <nuxt-link to="/batt/The_Promise">臨風夙願</nuxt-link>
             </td>
           </tr>
         </table>
