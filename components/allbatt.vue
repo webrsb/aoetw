@@ -80,7 +80,7 @@
               <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>•
               <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>•
               <nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
+                >策馬西征</nuxt-link
               >• <nuxt-link to="/batt/The_Promise">承諾</nuxt-link>•
               <nuxt-link to="/batt/Pax_Mongolia">蒙古治下的和平</nuxt-link>
             </td>

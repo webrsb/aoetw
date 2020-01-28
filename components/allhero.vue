@@ -87,7 +87,7 @@
               <nuxt-link to="/units/hero/Sieur_de_Metz">梅茲爵士</nuxt-link>•
               <nuxt-link to="/units/hero/Sir_John_Fastolf"
                 >約翰霍士道夫爵士</nuxt-link
-              >• <nuxt-link to="/units/hero/Subotai">速不臺</nuxt-link>•
+              >• <nuxt-link to="/units/hero/Subotai">速不台</nuxt-link>•
               <nuxt-link to="/units/hero/Tamerlane">帖木兒</nuxt-link>•
               <nuxt-link to="/units/hero/The_Black_Prince">黑親王</nuxt-link>•
               <nuxt-link to="/units/hero/Theodoric_the_Goth"

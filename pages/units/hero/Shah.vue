@@ -12,7 +12,7 @@
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
-            >"遊牧民族的西遷"和戰役編輯器中找到。沙赫是根據<nuxt-link
+            >"策馬西征"和戰役編輯器中找到。沙赫是根據<nuxt-link
               to="/civs/Persians"
               >波斯</nuxt-link
             >統治者作為模板而設計。沙赫不能攻擊，但移動速度快而且有很大的<nuxt-link

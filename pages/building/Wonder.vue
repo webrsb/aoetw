@@ -758,7 +758,7 @@
             </p>
             <p>
               登場戰役：成吉思汗4-<nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
+                >策馬西征</nuxt-link
               >
             </p>
             <br />
