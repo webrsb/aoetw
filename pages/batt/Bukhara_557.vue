@@ -356,7 +356,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Dos_Pilas_648">雙柱城（648）</nuxt-link>
+              <nuxt-link to="/batt/Dos_Pilas_648">雙池城記（648）</nuxt-link>
             </td>
           </tr>
         </table>
