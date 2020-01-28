@@ -27,7 +27,7 @@
             <li>
               灰狼歐魯出現在<nuxt-link to="/batt/Genghis_Khana"
                 >成吉思汗(戰役)</nuxt-link
-              >的第一個戰役"嚴酷的考驗"，為了贏得維吾爾人的效忠，玩家必須殺死牠。
+              >的第一個戰役"統一各部"，為了贏得維吾爾人的效忠，玩家必須殺死牠。
             </li>
             <li>
               在<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link

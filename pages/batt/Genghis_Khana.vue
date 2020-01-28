@@ -61,7 +61,7 @@
             </div>
             <div class="col-md-6">
               <ol>
-                <li><nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link></li>
+                <li><nuxt-link to="/batt/Crucible">統一各部</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>
                 </li>

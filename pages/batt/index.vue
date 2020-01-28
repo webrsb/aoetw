@@ -343,7 +343,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
+                    <nuxt-link to="/batt/Crucible">統一各部</nuxt-link>
                   </div>
                 </td>
               </tr>

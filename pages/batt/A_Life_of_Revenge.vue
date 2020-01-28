@@ -184,7 +184,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
+              <nuxt-link to="/batt/Crucible">統一各部</nuxt-link>
             </td>
           </tr>
           <tr>
