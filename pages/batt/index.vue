@@ -412,7 +412,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/Holy_Roman_Emperor"
-                      >神聖羅馬皇帝</nuxt-link
+                      >羅馬皇帝</nuxt-link
                     >
                   </div>
                 </td>

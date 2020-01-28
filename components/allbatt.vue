@@ -90,7 +90,7 @@
               <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</nuxt-link>•
+              <nuxt-link to="/batt/Holy_Roman_Emperor">羅馬皇帝</nuxt-link>•
               <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>•
               <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link
               >• <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>•
