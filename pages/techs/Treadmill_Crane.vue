@@ -186,7 +186,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/treadmill_crane.png" width="45" alt="" />
+                <img src="~assets/treadmill_crane.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

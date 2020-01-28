@@ -809,7 +809,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/imperial_age.png" width="45" alt="" />
+                <img src="~assets/imperial_age.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

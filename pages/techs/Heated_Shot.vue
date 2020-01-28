@@ -192,7 +192,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/heated_shot.png" width="45" alt="" />
+                <img src="~assets/heated_shot.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

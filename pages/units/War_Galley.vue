@@ -793,7 +793,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/WarGalley.png" width="45" alt="" />
+                <img src="~assets/WarGalley.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

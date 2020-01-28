@@ -869,7 +869,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Ballistaelephanticon.png" width="45" alt="" />
+                <img src="~assets/Ballistaelephanticon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

@@ -705,7 +705,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/TransportShipIcon.png" width="45" alt="" />
+                <img src="~assets/TransportShipIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

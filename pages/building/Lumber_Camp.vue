@@ -294,7 +294,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/lumber_camp.png" width="45" alt="" />
+                <img src="~assets/lumber_camp.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

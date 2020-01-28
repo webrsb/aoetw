@@ -621,7 +621,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Magyar_Huszar_icon.png" width="45" alt="" />
+                <img src="~assets/Magyar_Huszar_icon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

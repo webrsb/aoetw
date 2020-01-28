@@ -655,7 +655,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/DemoRaftIcon.png" width="45" alt="" />
+                <img src="~assets/DemoRaftIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

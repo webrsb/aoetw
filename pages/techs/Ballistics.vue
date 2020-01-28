@@ -103,7 +103,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Ballistics.jpg" width="45" alt="" />
+                <img src="~assets/Ballistics.jpg" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

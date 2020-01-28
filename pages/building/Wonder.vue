@@ -231,7 +231,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/wonder.png" width="45px;" alt="" />
+                <img src="~assets/wonder.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

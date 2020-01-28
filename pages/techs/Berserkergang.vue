@@ -82,7 +82,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech_imperial.png" width="45" alt="" />
+                <img src="~assets/unique_tech_imperial.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

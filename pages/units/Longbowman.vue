@@ -534,7 +534,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/LongbowmanIcon.png" width="45" alt="" />
+                <img src="~assets/LongbowmanIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

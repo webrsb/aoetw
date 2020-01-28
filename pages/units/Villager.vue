@@ -1082,7 +1082,7 @@
               <div class="unititle">
                 <b-tabs no-fade>
                   <b-tab title="男村民">
-                    <img src="~assets/VillagerMaleIcon.png" width="45" alt="" />
+                    <img src="~assets/VillagerMaleIcon.png" class="img-fluid" alt="" />
                   </b-tab>
                   <b-tab title="女村民">
                     <img

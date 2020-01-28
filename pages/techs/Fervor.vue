@@ -161,7 +161,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/fervor.png" width="45" alt="" />
+                <img src="~assets/fervor.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

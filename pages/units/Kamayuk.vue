@@ -529,7 +529,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Kamayukicon.png" width="45" alt="" />
+                <img src="~assets/Kamayukicon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

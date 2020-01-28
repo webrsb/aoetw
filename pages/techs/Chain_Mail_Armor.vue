@@ -59,7 +59,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Chainmailarmor.jpg" width="45" alt="" />
+                <img src="~assets/Chainmailarmor.jpg" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
