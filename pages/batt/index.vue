@@ -350,9 +350,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Life_of_Revenge"
-                      >復仇的人生</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_Life_of_Revenge">復仇人生</nuxt-link>
                   </div>
                 </td>
               </tr>

@@ -31,7 +31,7 @@
               <td class="tc1" width="15%">起始資源:</td>
               <td class="tc2">
                 400<nuxt-link to="/resource/Wood">木頭</nuxt-link
-                >，200<nuxt-link to="/resource/Food">食物</nuxt-link>
+                >／200<nuxt-link to="/resource/Food">食物</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限:</td>
               <td class="tc2" width="5%">125</td>
@@ -109,8 +109,7 @@
           <div class="n1">
             <ul>
               <li>
-                為「說服」泰赤烏<nuxt-link to="/units/Villager"
-                  >村民</nuxt-link
+                為「說服」泰赤烏<nuxt-link to="/units/Villager">村民</nuxt-link
                 >加入你的陣營，首先，你必須先殺掉他們所有的士兵。既然西遼人對<nuxt-link
                   to="/units/Siege_Weapons"
                   >攻城武器</nuxt-link
@@ -120,25 +119,31 @@
               </li>
               <li>注意：在此關玩家蒙古人無法建造攻城武器。</li>
             </ul>
-                      <h2>決定版變更點</h2>
+          </div>
+          <h2>芝麻小事</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
               <li>
+                本頁面已更新成決定版翻譯的部落名稱，2013版與決定版和舊版名稱比較:加拉凱台→西遼，泰依齊烏特→泰赤烏，闊實魯→屈出律。
+              </li>
+              <li>歷史上，屈出律是西遼最後的統治者。</li>
+            </ul>
+          </div>
+          <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
                 翻譯正名為HD版，人口上限由75改為125，泰赤烏人改紫色。
               </li>
-              <li>成就「暗殺屈出律」：遊戲時間20分鐘以內殺死屈出律。標準模式下，利用一開始的兵可以辦到。用一隻輕騎兵引開西遼的軍隊，其他人趁機砍破木牆之後小心繞過防線直接把屈出律殺掉即可。</li>
+              <li>
+                成就「暗殺屈出律」：遊戲時間20分鐘以內殺死屈出律。標準模式下，利用一開始的兵可以辦到。用一隻輕騎兵引開西遼的軍隊，其他人趁機砍破木牆之後小心繞過防線直接把屈出律殺掉即可。
+              </li>
             </ul>
-            <h2>芝麻小事</h2>
-            <div class="hrn1"></div>
-            <div class="n1">
-              <ul>
-                <li>
-                  本頁面已更新成決定版翻譯的部落名稱，HD版與決定版和舊版名稱比較:加拉凱台→西遼，泰依齊烏特→泰赤烏，闊實魯→屈出律。
-                </li>
-                <li>歷史上，屈出律是西遼最後的統治者。</li>
-              </ul>
-            </div>
           </div>
         </div>
       </div>

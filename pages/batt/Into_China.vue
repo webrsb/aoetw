@@ -247,7 +247,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>
+              <nuxt-link to="/batt/A_Life_of_Revenge">復仇人生</nuxt-link>
             </td>
           </tr>
           <tr>
