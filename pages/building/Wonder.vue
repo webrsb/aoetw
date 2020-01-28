@@ -630,7 +630,7 @@
             </p>
             <p>
               登場戰役：成吉思汗3-<nuxt-link to="/batt/Into_China"
-                >進入中國</nuxt-link
+                >入主中原</nuxt-link
               >
             </p>
           </div>

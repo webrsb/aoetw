@@ -377,7 +377,7 @@
                 在其他官方戰役中國文明都是玩家的敵人或盟友，例如:<nuxt-link
                   to="/batt/Genghis_Khana"
                   >成吉思汗(戰役)</nuxt-link
-                >的<nuxt-link to="/batt/Into_China">進入中國</nuxt-link
+                >的<nuxt-link to="/batt/Into_China">入主中原</nuxt-link
                 >關卡，<nuxt-link to="/civs/Koreans">韓國</nuxt-link
                 >戰役<nuxt-link to="/batt/Noryang_Point_1598">洛陽點</nuxt-link
                 >(露梁海戰)的鄧子龍將軍，<nuxt-link to="/civs/Vietnamese"

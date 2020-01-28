@@ -359,7 +359,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>
+                    <nuxt-link to="/batt/Into_China">入主中原</nuxt-link>
                   </div>
                 </td>
               </tr>
