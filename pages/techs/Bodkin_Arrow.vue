@@ -67,7 +67,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/bodkin_arrow.png" width="45" alt="" />
+                <img src="~assets/bodkin_arrow.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

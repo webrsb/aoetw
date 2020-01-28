@@ -127,7 +127,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Chainbardingarmor.jpg" width="45" alt="" />
+                <img src="~assets/Chainbardingarmor.jpg" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

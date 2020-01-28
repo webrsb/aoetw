@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>嚴酷的考驗</h1>
+        <h1>統一各部</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>嚴酷的考驗</b>為<nuxt-link to="/batt/Genghis_Khana"
+            <b>統一各部</b>舊譯<b>嚴酷的考驗</b>為<nuxt-link
+              to="/batt/Genghis_Khana"
               >成吉思汗(戰役)</nuxt-link
             >的第一關劇情關卡，此關描述<nuxt-link to="/units/hero/Genghis_Khan"
               >成吉思汗</nuxt-link
@@ -63,32 +64,35 @@
                 玩家4
               </td>
               <td class="tc6" width="38%">
-                克里依特人（藍色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+                克烈人（藍色）<nuxt-link to="/civs/Turks">蒙古</nuxt-link>
+              </td>
+            </tr>
+            <tr>
+              <td class="tc6" width="12%">
+                <div class="p6"></div>
+                玩家5
+              </td>
+              <td class="tc6" width="38%">泰赤烏人（綠色）蒙古</td>
+              <td class="tc6" width="12%">
+                <div class="p5"></div>
+                玩家6
+              </td>
+              <td class="tc6" width="38%">
+                回鶻人（藍綠色）<nuxt-link to="/civs/Tatars">蒙古</nuxt-link
+                >韃靼
               </td>
             </tr>
             <tr>
               <td class="tc6" width="12%">
                 <div class="p3"></div>
-                玩家5
-              </td>
-              <td class="tc6" width="38%">泰依齊烏特人（綠色）蒙古</td>
-              <td class="tc6" width="12%">
-                <div class="p5"></div>
-                玩家6
-              </td>
-              <td class="tc6" width="38%">烏依古爾人（藍綠色）蒙古</td>
-            </tr>
-            <tr>
-              <td class="tc6" width="12%">
-                <div class="p6"></div>
                 玩家7
               </td>
-              <td class="tc6" width="38%">紐曼人（紫色）蒙古</td>
+              <td class="tc6" width="38%">乃蠻人（紫色）蒙古</td>
               <td class="tc6" width="12%">
                 <div class="p7"></div>
                 玩家8
               </td>
-              <td class="tc6" width="38%">安吉特拉人（灰色）蒙古</td>
+              <td class="tc6" width="38%">弘吉刺人（灰色）蒙古</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #999999;">中立</td>
@@ -98,7 +102,7 @@
                 <div class="p2"></div>
                 玩家2
               </td>
-              <td class="tc6" width="38%">加拉凱台（紅色）蒙古</td>
+              <td class="tc6" width="38%">西遼（紅色）蒙古</td>
             </tr>
           </table>
 
@@ -137,7 +141,7 @@
               >並放在<nuxt-link to="/building/Monastery">修道院</nuxt-link>裡。
             </li>
             <li>
-              克里依特人對信仰的虔誠度是眾所皆知的。他們的營帳附近應該會有一些僧侶。使用[任務]鈕來隨時注意新的任務或任務變動。
+              克烈人對信仰的虔誠度是眾所皆知的。他們的營帳附近應該會有一些僧侶。使用[任務]鈕來隨時注意新的任務或任務變動。
             </li>
           </ul>
         </div>
@@ -147,7 +151,7 @@
           <ul>
             <li>此關是成吉思汗本人唯一出現在劇情的關卡。</li>
             <li>
-              本頁面保留原版翻譯的部落名稱，HD版目前漢化名稱比較：
+              本頁面保留原版翻譯的部落名稱，2013版目前漢化名稱比較：
               <ul>
                 <li>加拉凱台→西遼</li>
                 <li>克里依特→克烈</li>
@@ -162,26 +166,38 @@
               在取得初始的輕騎兵、馬弓騎兵之前，玩家擁有一名<nuxt-link
                 to="/units/Archer"
                 >弓箭手</nuxt-link
-              >，在靠近克里依特人的樹林中，避免玩家因為沒有單位而自動輸掉遊戲。
+              >，在靠近克烈人的樹林中，避免玩家因為沒有單位而自動輸掉遊戲。
             </li>
             <li>
               你可以把同盟部落的外交關係改為中立，然後一一<nuxt-link
                 to="/elements/Conversion"
                 >招降</nuxt-link
-              >他們的單位，如此一來便不用施恩給這些部落以換取他們的部隊。這招在對付泰依齊烏特與紐曼時特別有用。
+              >他們的單位，如此一來便不用施恩給這些部落以換取他們的部隊。這招在對付泰赤烏與乃蠻時特別有用。（決定版已修正，一旦更改對方會立刻改敵對）
             </li>
             <li>
-              試圖招降加拉凱台四散在地圖上的部隊也可以補充你的軍力，然而這有點困難、需要一點運氣。
+              試圖招降西遼四散在地圖上的部隊也可以補充你的軍力，然而這有點困難、需要一點運氣。
             </li>
             <li>
               雖然克里依特人顯示為<nuxt-link to="/civs/Turks"
                 >土耳其人</nuxt-link
-              >、烏依古爾人則是蒙古人，但事實上是相反的。克里依特實際上像其他部族一樣是蒙古部落，而烏依古爾人／安吉特拉人則是突厥人。
+              >、回鶻人則是蒙古人，但事實上是相反的。克里依特實際上像其他部族一樣是蒙古部落，而回鶻人／弘吉刺人則是突厥人。決定版已修正。
             </li>
             <li>
               在比較舊的版本中（直到1.0c或1.0e）成吉思汗有機會被他的部隊留在可控制範圍內，讓他可以被玩家操作，這樣一來任務就無比簡單了。
             </li>
             <li>歷史上，成吉思汗是乞顏部人的一員。</li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              各族名統一為2013版翻譯版本且種族修正（克烈人由土耳其改蒙古，回鶻由蒙古改韃靼），乃蠻和泰赤烏換顏色，修正偷吃步戰法。
+            </li>
           </ul>
         </div>
       </div>
@@ -190,7 +206,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                嚴酷的考驗
+                統一各部
               </div>
             </td>
           </tr>

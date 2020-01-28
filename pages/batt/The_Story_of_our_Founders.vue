@@ -192,8 +192,7 @@
                   <li>
                     開頭就像是<nuxt-link to="/batt/Genghis_Khana"
                       >成吉思汗</nuxt-link
-                    >第一關「<nuxt-link to="/batt/Crucible"
-                      >嚴酷的考驗</nuxt-link
+                    >第一關「<nuxt-link to="/batt/Crucible">統一各部</nuxt-link
                     >」一樣，必須等待<nuxt-link to="/units/hero">英雄</nuxt-link
                     >的命令。
                   </li>

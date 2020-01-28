@@ -620,7 +620,7 @@
               <div class="unititle">
                 <img
                   src="~assets/Bombard-tower-research.jpg"
-                  width="45"
+                  class="img-fluid"
                   alt=""
                 />
               </div>

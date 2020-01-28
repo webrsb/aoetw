@@ -311,7 +311,7 @@
             <tr>
               <td class="tta1">
                 <nuxt-link to="/batt/Into_China">成吉思汗</nuxt-link
-                >3-<nuxt-link to="/batt/Into_China">進入中國</nuxt-link>
+                >3-<nuxt-link to="/batt/Into_China">入主中原</nuxt-link>
               </td>
               <td class="tta2">
                 <span

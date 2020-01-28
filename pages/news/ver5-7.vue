@@ -298,7 +298,7 @@
             <li>戰役的開場音效並不會因為使用 ALT TAB 導致不協調</li>
             <li>戰役 征服家園 現在正確顯示任務</li>
             <li>
-              戰役 雙柱城記 將不會在第一個任務失去<nuxt-link to="/building/Gate"
+              戰役 雙池城記 將不會在第一個任務失去<nuxt-link to="/building/Gate"
                 >城門</nuxt-link
               >
             </li>

@@ -731,7 +731,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ArbalestIcon.png" width="45" alt="" />
+                <img src="~assets/ArbalestIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

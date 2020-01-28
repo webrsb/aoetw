@@ -900,7 +900,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/GenitourIcon.png" width="45" alt="" />
+                <img src="~assets/GenitourIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

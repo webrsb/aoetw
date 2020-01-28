@@ -231,7 +231,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/wonder.png" width="45px;" alt="" />
+                <img src="~assets/wonder.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -630,7 +630,7 @@
             </p>
             <p>
               登場戰役：成吉思汗3-<nuxt-link to="/batt/Into_China"
-                >進入中國</nuxt-link
+                >入主中原</nuxt-link
               >
             </p>
           </div>
@@ -912,7 +912,7 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
               >6-<nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link
-              >、失落的帝國戰役-雙柱城(648)
+              >、失落的帝國戰役-雙池城記(648)
             </p>
           </div>
           <div class="col-md-4">
@@ -984,7 +984,7 @@
             <p>
               位於現今瓜地馬拉的叢林中，蒂卡爾早在2世紀就有人類活動，而大美洲豹則是當地的神廟，傾斜70度角的高聳神廟與哥德式建築有幾分相似，因而得名叢林大教堂。
             </p>
-            <p>登場戰役：失落的帝國戰役-雙柱城(648)</p>
+            <p>登場戰役：失落的帝國戰役-雙池城記(648)</p>
           </div>
           <div class="col-md-4">
             <h3>

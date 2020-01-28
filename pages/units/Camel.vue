@@ -728,7 +728,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/CamelIcon.png" width="45" alt="" />
+                <img src="~assets/CamelIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

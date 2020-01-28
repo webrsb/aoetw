@@ -343,7 +343,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
+                    <nuxt-link to="/batt/Crucible">統一各部</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -357,7 +357,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>
+                    <nuxt-link to="/batt/Into_China">入主中原</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -410,7 +410,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/Holy_Roman_Emperor"
-                      >神聖羅馬皇帝</nuxt-link
+                      >羅馬皇帝</nuxt-link
                     >
                   </div>
                 </td>

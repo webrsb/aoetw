@@ -219,7 +219,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/arrowslits.png" width="45" alt="" />
+                <img src="~assets/arrowslits.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

@@ -121,7 +121,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/stone_shaft_mining.png" width="45" alt="" />
+                <img src="~assets/stone_shaft_mining.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

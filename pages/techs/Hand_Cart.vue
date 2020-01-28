@@ -53,7 +53,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/hand_cart.png" width="45" alt="" />
+                <img src="~assets/hand_cart.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

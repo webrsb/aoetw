@@ -76,9 +76,9 @@
               <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>•
+              <nuxt-link to="/batt/Crucible">統一各部</nuxt-link>•
               <nuxt-link to="/batt/A_Life_of_Revenge">復仇人生</nuxt-link>•
-              <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>•
+              <nuxt-link to="/batt/Into_China">入主中原</nuxt-link>•
               <nuxt-link to="/batt/The_Horde_Rides_West"
                 >遊牧民族的西遷</nuxt-link
               >• <nuxt-link to="/batt/The_Promise">承諾</nuxt-link>•
@@ -90,7 +90,7 @@
               <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</nuxt-link>•
+              <nuxt-link to="/batt/Holy_Roman_Emperor">羅馬皇帝</nuxt-link>•
               <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>•
               <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link
               >• <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>•
@@ -271,7 +271,7 @@
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>•
-              <nuxt-link to="/batt/Dos_Pilas_648">雙柱城(648)</nuxt-link>•
+              <nuxt-link to="/batt/Dos_Pilas_648">雙池城記(648)</nuxt-link>•
               <nuxt-link to="/batt/York_865">約克(865)</nuxt-link>•
               <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>•
               <nuxt-link to="/batt/Langshan_Jiang_919">狼山江(919)</nuxt-link>•

@@ -176,7 +176,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bloodlines.png" width="45" alt="" />
+                <img src="~assets/Bloodlines.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

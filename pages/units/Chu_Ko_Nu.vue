@@ -595,7 +595,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ChuKoNuIcon.png" width="45" alt="" />
+                <img src="~assets/ChuKoNuIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

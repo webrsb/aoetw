@@ -62,7 +62,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/forging.png" width="45" alt="" />
+                <img src="~assets/forging.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

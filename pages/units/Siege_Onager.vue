@@ -628,7 +628,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/SiegeOnagerIcon.png" width="45" alt="" />
+                <img src="~assets/SiegeOnagerIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

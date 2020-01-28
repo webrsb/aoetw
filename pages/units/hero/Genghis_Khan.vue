@@ -40,7 +40,7 @@
           <ul>
             <li>
               成吉思汗在他自己的<nuxt-link to="/batt">戰役</nuxt-link
-              >第一關:<nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link
+              >第一關:<nuxt-link to="/batt/Crucible">統一各部</nuxt-link
               >中登場，第一次也是最後一次。
             </li>
             <li>

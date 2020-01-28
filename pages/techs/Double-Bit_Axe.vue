@@ -52,7 +52,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/double-bit_axe.png" width="45" alt="" />
+                <img src="~assets/double-bit_axe.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

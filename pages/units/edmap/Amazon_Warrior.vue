@@ -48,7 +48,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Amazonwarrioricon.png" width="45" alt="" />
+                <img src="~assets/Amazonwarrioricon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

@@ -335,9 +335,7 @@
             <tr>
               <td class="tta1">
                 <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
-                >1-<nuxt-link to="/batt/Holy_Roman_Emperor"
-                  >神聖羅馬皇帝</nuxt-link
-                >
+                >1-<nuxt-link to="/batt/Holy_Roman_Emperor">羅馬皇帝</nuxt-link>
               </td>
               <td class="tta2">
                 <span class="fas fa-times" style="color: #d9534f;"></span>

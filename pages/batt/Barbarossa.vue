@@ -46,9 +46,7 @@
             <div class="col-md-6">
               <ol>
                 <li>
-                  <nuxt-link to="/batt/Holy_Roman_Emperor"
-                    >神聖羅馬皇帝</nuxt-link
-                  >
+                  <nuxt-link to="/batt/Holy_Roman_Emperor">羅馬皇帝</nuxt-link>
                 </li>
                 <li>
                   <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>

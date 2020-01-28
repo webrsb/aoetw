@@ -608,7 +608,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/MilitiaIcon.png" width="45" alt="" />
+                <img src="~assets/MilitiaIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

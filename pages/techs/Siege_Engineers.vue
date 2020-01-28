@@ -146,7 +146,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Siegeengineers.jpg" width="45" alt="" />
+                <img src="~assets/Siegeengineers.jpg" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

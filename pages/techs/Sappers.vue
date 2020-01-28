@@ -154,7 +154,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/sappers.png" width="45" alt="" />
+                <img src="~assets/sappers.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

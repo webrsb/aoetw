@@ -778,7 +778,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Saracenmamluk_icon.png" width="45" alt="" />
+                <img src="~assets/Saracenmamluk_icon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

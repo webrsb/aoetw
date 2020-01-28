@@ -42,7 +42,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Centurionicon.png" width="45" alt="" />
+                <img src="~assets/Centurionicon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

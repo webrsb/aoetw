@@ -591,7 +591,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/TrebuchetPackedIcon.png" width="45" alt="" />
+                <img src="~assets/TrebuchetPackedIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
