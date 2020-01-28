@@ -136,7 +136,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Atonement.jpg" width="45" alt="" />
+                <img src="~assets/atonement.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -154,21 +154,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Monasteryicon.png"
-                alt=""
-              /><nuxt-link to="/building/Monastery">修道院</nuxt-link>
+              <img class="gg" src="~assets/monastery.png" alt="" /><nuxt-link
+                to="/building/Monastery"
+                >修道院</nuxt-link
+              >
             </td>
           </tr>
           <tr>

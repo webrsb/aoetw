@@ -73,7 +73,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/CastleAgeUnique.png" width="45" alt="" />
+                <img src="~assets/unique_tech.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

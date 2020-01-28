@@ -122,7 +122,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Twomansaw.jpg" width="45" alt="" />
+                <img src="~assets/two-man_saw.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -140,27 +140,25 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Lumbercampicon.png"
-                alt=""
-              /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
+              <img class="gg" src="~assets/lumber_camp.png" alt="" /><nuxt-link
+                to="/building/Lumber_Camp"
+                >伐木場</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Bowsaw.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/bow_saw.png" alt="" /><nuxt-link
                 to="/techs/Bow_Saw"
                 >弓鋸</nuxt-link
               >

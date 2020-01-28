@@ -31,7 +31,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Elite-unique-research.jpg"
+                    src="~assets/elit_unique_unit.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
@@ -39,7 +39,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/PetardIcon.jpg"
+                    src="~assets/PetardIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
@@ -47,7 +47,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/CastleAgeUnique.png"
+                    src="~assets/unique_tech.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/untech">城堡特殊科技</nuxt-link>
@@ -64,7 +64,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Elite-unique-research.jpg"
+                    src="~assets/elit_unique_unit.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Unique_Unit">精銳特殊單位</nuxt-link>
@@ -72,7 +72,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/TrebuchetPackedIcon.jpg"
+                    src="~assets/TrebuchetPackedIcon.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
@@ -80,7 +80,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/untech">帝王特殊科技</nuxt-link>
@@ -88,7 +88,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Hoardings.jpg"
+                    src="~assets/hoardings.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>
@@ -96,7 +96,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Sappers.jpg"
+                    src="~assets/sappers.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>
@@ -104,7 +104,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Conscription.jpg"
+                    src="~assets/conscription.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
@@ -112,7 +112,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Spiestreason.jpg"
+                    src="~assets/spies_treason.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Spies">間諜</nuxt-link>
@@ -275,7 +275,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/VillagerMaleIcon.jpg"
+                  src="~assets/VillagerMaleIcon.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/units/Villager">村民</nuxt-link>
@@ -287,7 +287,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/ArcherIcon.jpg"
+                  src="~assets/ArcherIcon.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/units/Archer">弓兵</nuxt-link>
@@ -299,7 +299,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/CrossbowmanIcon.jpg"
+                  src="~assets/CrossbowmanIcon.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>
@@ -311,13 +311,13 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/ArbalestIcon.jpg"
+                  src="~assets/ArbalestIcon.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
                 ><img
                   class="gg"
-                  src="~assets/CavalryArcherIcon.jpg"
+                  src="~assets/CavalryArcherIcon.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
@@ -329,7 +329,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/HandCannoneerIcon.jpg"
+                  src="~assets/HandCannoneerIcon.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
@@ -385,20 +385,20 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
               <br />
               <img
                 class="gg"
-                src="~assets/Hoardings.jpg"
+                src="~assets/hoardings.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>(+1000)
@@ -411,13 +411,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Fletching.jpg"
+                src="~assets/fletching.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Bodkinarrow.jpg"
+                src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
@@ -430,13 +430,13 @@
               /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Chemistry.jpg"
+                src="~assets/chemistry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Heatedshot.png"
+                src="~assets/heated_shot.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
@@ -448,13 +448,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Fletching.jpg"
+                src="~assets/fletching.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Bodkinarrow.jpg"
+                src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
@@ -474,7 +474,7 @@
               >:消除最小射程<br />
               <img
                 class="gg"
-                src="~assets/Unique-tech.jpg"
+                src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
@@ -486,7 +486,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Stronghold">堡壘</nuxt-link
@@ -510,14 +510,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >(+1/+1，+3建築護甲) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -531,14 +531,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -549,7 +549,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -561,14 +561,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link
@@ -588,7 +588,7 @@
               >:駐紮單位治療速度加快<br />
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
@@ -731,7 +731,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Castleicon.png" width="45" alt="" />
+                <img src="~assets/castle.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

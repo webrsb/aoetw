@@ -53,7 +53,7 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/MangudaiIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/MangudaiIcon.png" /><nuxt-link
                 to="/units/Mangudai"
                 >蒙古突騎</nuxt-link
               >:<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
@@ -63,15 +63,16 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Nomads"
                 >游牧</nuxt-link
               >:房子被拆後，人口不會減少
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Drill"
-                >演習</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Drill">演習</nuxt-link
               >:使得攻城武器+50%移動速度
             </li>
           </ul>
@@ -194,7 +195,7 @@
               <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
             </td>
             <td class="unit4">
-              <img class="gg" src="~assets/MangudaiIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/MangudaiIcon.png" /><nuxt-link
                 to="/units/Mangudai"
                 >蒙古突騎</nuxt-link
               >
@@ -211,15 +212,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Nomads"
                 >游牧</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Drill"
-                >演習</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Drill">演習</nuxt-link>
             </td>
           </tr>
         </table>

@@ -108,7 +108,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Chemistry.jpg" width="45" alt="" />
+                <img src="~assets/chemistry.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -126,21 +126,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Universityicon.png"
-                alt=""
-              /><nuxt-link to="/building/University">學院</nuxt-link>
+              <img class="gg" src="~assets/university.png" alt="" /><nuxt-link
+                to="/building/University"
+                >學院</nuxt-link
+              >
             </td>
           </tr>
           <tr>

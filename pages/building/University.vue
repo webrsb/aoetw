@@ -55,7 +55,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Masonry.jpg"
+                      src="~assets/masonry.png"
                       alt=""
                     /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>
                   </li>
@@ -76,14 +76,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Guard-tower-research.jpg"
+                      src="~assets/guard_tower.png"
                       alt=""
                     /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Heatedshot.png"
+                      src="~assets/heated_shot.png"
                       alt=""
                     /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link>
                   </li>
@@ -97,7 +97,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Treadmillcrane.jpg"
+                      src="~assets/treadmill_crane.png"
                       alt=""
                     /><nuxt-link to="/techs/Treadmill_Crane"
                       >滑輪起重機</nuxt-link
@@ -115,14 +115,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Architecture.jpg"
+                      src="~assets/architecture.png"
                       alt=""
                     /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Chemistry.jpg"
+                      src="~assets/chemistry.png"
                       alt=""
                     /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>
                   </li>
@@ -136,16 +136,15 @@
                     >
                   </li>
                   <li>
-                    <img
-                      class="gg"
-                      src="~assets/Keep-research.jpg"
-                      alt=""
-                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                    <img class="gg" src="~assets/keep.png" alt="" /><nuxt-link
+                      to="/building/Keep"
+                      >大型箭塔</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Arrowlits.jpg"
+                      src="~assets/arrowslits.png"
                       alt=""
                     /><nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>
                   </li>
@@ -188,14 +187,14 @@
                 <td class="tta4">
                   <img
                     class="gg"
-                    src="~assets/Masonry.jpg"
+                    src="~assets/masonry.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                   <br />
                   <img
                     class="gg"
-                    src="~assets/Architecture.jpg"
+                    src="~assets/architecture.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -206,14 +205,14 @@
                 <td class="tta4">
                   <img
                     class="gg"
-                    src="~assets/Masonry.jpg"
+                    src="~assets/masonry.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                   >(護甲+1/+1，+3建築護甲) <br />
                   <img
                     class="gg"
-                    src="~assets/Architecture.jpg"
+                    src="~assets/architecture.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -227,14 +226,14 @@
                 <td class="tta4">
                   <img
                     class="gg"
-                    src="~assets/Townwatch.jpg"
+                    src="~assets/tower_watch.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                   <br />
                   <img
                     class="gg"
-                    src="~assets/Townpatrol.jpg"
+                    src="~assets/town_patrol.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -247,7 +246,7 @@
                 <td class="tta4">
                   <img
                     class="gg"
-                    src="~assets/Faith.jpg"
+                    src="~assets/faith.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -264,7 +263,7 @@
                 <td class="tta4">
                   <img
                     class="gg"
-                    src="~assets/Treadmillcrane.jpg"
+                    src="~assets/treadmill_crane.png"
                     width="30"
                     alt=""
                   /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -416,7 +415,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Universityicon.png" width="45" alt="" />
+                <img src="~assets/university.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -476,15 +475,11 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />2
+              <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />2 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />3
@@ -493,15 +488,11 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />9
+              <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />9 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />10

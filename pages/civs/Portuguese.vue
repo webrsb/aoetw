@@ -98,7 +98,7 @@
           </p>
           <h3>特殊單位</h3>
           <li>
-            <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/OrganGunIcon.png" alt="" /><nuxt-link
               to="/units/Organ_Gun"
               >風琴砲</nuxt-link
             >：可射出一排子彈的<nuxt-link to="/units/Siege_Weapons"
@@ -106,14 +106,14 @@
             >，擅於掃射大量敵軍。
           </li>
           <li>
-            <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/CaravelIcon.png" alt="" /><nuxt-link
               to="/units/Caravel"
               >卡拉維爾戰船</nuxt-link
             >：葡萄牙特色槳帆戰船，擅於攻擊敵軍大群艦隊，因為每一砲都能打擊多艘敵船。
           </li>
           <h3>特殊建築</h3>
           <li>
-            <img class="gg" src="~assets/Feitoriaicon.png" alt="" /><nuxt-link
+            <img class="gg" src="~assets/feitoria.png" alt="" /><nuxt-link
               to="/building/Feitoriaicon_Feitoria"
               >港灣大商站</nuxt-link
             >：經濟<nuxt-link to="/building">建築</nuxt-link>，不需要<nuxt-link
@@ -123,17 +123,17 @@
           </li>
           <h3>特殊科技</h3>
           <li>
-            <img
-              class="gg"
-              src="~assets/CastleAgeUnique.png"
-              alt=""
-            /><nuxt-link to="/techs/Carrack">克拉克帆船</nuxt-link
+            <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+              to="/techs/Carrack"
+              >克拉克帆船</nuxt-link
             >：船的盔甲與遠距裝甲值分別 +1。
           </li>
           <li>
-            <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-              to="/techs/Arquebus"
-              >火繩槍</nuxt-link
+            <img
+              class="gg"
+              src="~assets/unique_tech_imperial.png"
+              alt=""
+            /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
             >：火藥單位均受益於彈道學，使火藥單位針對移動中的單位也有較好的命中率。
           </li>
         </div>
@@ -296,11 +296,11 @@
               <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
             </td>
             <td class="unit4">
-              <img class="gg" src="~assets/OrganGunIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/OrganGunIcon.png" /><nuxt-link
                 to="/units/Organ_Gun"
                 >風琴砲</nuxt-link
               ><br />
-              <img class="gg" src="~assets/CaravelIcon2.jpg" /><nuxt-link
+              <img class="gg" src="~assets/CaravelIcon.png" /><nuxt-link
                 to="/units/Caravel"
                 >卡拉維爾戰船</nuxt-link
               >
@@ -309,7 +309,7 @@
           <tr>
             <td class="unit3">特殊建築</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feitoriaicon.png" /><nuxt-link
+              <img class="gg" src="~assets/feitoria.png" /><nuxt-link
                 to="/building/Feitoriaicon_Feitoria"
                 >港灣大商站</nuxt-link
               >
@@ -324,15 +324,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Carrack"
                 >克拉克帆船</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Arquebus"
-                >火繩槍</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>
             </td>
           </tr>
         </table>

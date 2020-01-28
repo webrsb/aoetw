@@ -221,7 +221,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ScoutCavalryIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/ScoutCavalryIcon.png" /><nuxt-link
                   to="/units/Scout_Cavalry"
                   >斥候騎兵</nuxt-link
                 >
@@ -236,7 +236,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/LightCavalryIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/LightCavalryIcon.png" /><nuxt-link
                   to="/units/Light_Cavalry"
                   >輕騎兵</nuxt-link
                 >
@@ -258,7 +258,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/HussarIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/HussarIcon.png" /><nuxt-link
                   to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 >
@@ -280,7 +280,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/KnightIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/KnightIcon.png" /><nuxt-link
                   to="/units/Knight"
                   >騎士</nuxt-link
                 >
@@ -302,7 +302,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CavalierIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/CavalierIcon.png" /><nuxt-link
                   to="/units/Cavalier"
                   >騎兵</nuxt-link
                 >
@@ -324,7 +324,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/PaladinIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/PaladinIcon.png" /><nuxt-link
                   to="/units/Paladin"
                   >遊俠</nuxt-link
                 >
@@ -346,7 +346,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CamelIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/CamelIcon.png" /><nuxt-link
                   to="/units/Camel"
                   >駱駝騎兵</nuxt-link
                 >
@@ -368,7 +368,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/HeavyCamelIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/HeavyCamelIcon.png" /><nuxt-link
                   to="/units/Heavy_Camel"
                   >重裝駱駝騎兵</nuxt-link
                 >
@@ -458,7 +458,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CataphractIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/CataphractIcon.png" /><nuxt-link
                   to="/units/Cataphract"
                   >拜占庭聖騎兵</nuxt-link
                 >
@@ -483,7 +483,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/CataphractIcon.jpg"
+                  src="~assets/CataphractIcon.png"
                 /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link>
               </td>
               <td class="tta3">150</td>
@@ -506,7 +506,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/WarElephantIcon.jpg"
+                  src="~assets/WarElephantIcon.png"
                 /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link>
               </td>
               <td class="tta3">450</td>
@@ -529,7 +529,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/WarElephantIcon.jpg"
+                  src="~assets/WarElephantIcon.png"
                 /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link>
               </td>
               <td class="tta3">600</td>
@@ -596,7 +596,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/TarkanIcon.jpg"
+                  src="~assets/TarkanIcon.png"
                 /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
               </td>
               <td class="tta3">100</td>
@@ -619,7 +619,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/TarkanIcon.jpg"
+                  src="~assets/TarkanIcon.png"
                 /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link>
               </td>
               <td class="tta3">150</td>
@@ -642,7 +642,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/Magyar_Huszar_icon.jpg"
+                  src="~assets/Magyar_Huszar_icon.png"
                 /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>
               </td>
               <td class="tta3">70</td>
@@ -665,7 +665,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/Magyar_Huszar_icon.jpg"
+                  src="~assets/Magyar_Huszar_icon.png"
                 /><nuxt-link to="/units/Magyar_Huszar"
                   >精銳馬扎爾驃騎兵</nuxt-link
                 >
@@ -809,7 +809,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Husbandry.jpg"
+                  src="~assets/husbandry.png"
                   alt=""
                 /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>
               </td>
@@ -823,7 +823,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Forging.jpg"
+                  src="~assets/forging.png"
                   alt=""
                 /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>
               </td>
@@ -837,7 +837,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Ironcasting.jpg"
+                  src="~assets/iron_casting.png"
                   alt=""
                 /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>
               </td>
@@ -851,7 +851,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Blastfurnace.jpg"
+                  src="~assets/blast_furnace.png"
                   alt=""
                 /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
               </td>
@@ -865,7 +865,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Scalebardingarmor.jpg"
+                  src="~assets/scale_barding_armor.png"
                   alt=""
                 /><nuxt-link to="/techs/Scale_Barding_Armor"
                   >騎兵鱗甲</nuxt-link
@@ -900,7 +900,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Platebardingarmor.jpg"
+                  src="~assets/scale_barding_armor.png"
                   alt=""
                 /><nuxt-link to="/techs/Plate_Barding_Armor"
                   >騎兵板甲</nuxt-link
@@ -948,7 +948,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Faith.jpg"
+                  src="~assets/faith.png"
                   alt=""
                 /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
               </td>
@@ -967,7 +967,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Conscription.jpg"
+                  src="~assets/conscription.png"
                   alt=""
                 /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
               </td>
@@ -997,7 +997,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
@@ -1013,7 +1013,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
@@ -1033,7 +1033,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
@@ -1052,7 +1052,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
@@ -1072,7 +1072,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
@@ -1093,7 +1093,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
@@ -1109,7 +1109,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Huns">匈奴</nuxt-link>
@@ -1127,7 +1127,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Khmer">高棉</nuxt-link>
@@ -1143,7 +1143,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
@@ -1159,7 +1159,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Malians">馬利</nuxt-link>
@@ -1175,7 +1175,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Persians">波斯</nuxt-link>
@@ -1194,7 +1194,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
@@ -1215,7 +1215,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
                 /><nuxt-link to="/civs/Vietnamese">越南</nuxt-link>

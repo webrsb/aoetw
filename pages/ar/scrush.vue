@@ -16,7 +16,7 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/ScoutCavalryIcon.jpg" alt="" /><nuxt-link
+              <img src="~assets/ScoutCavalryIcon.png" alt="" /><nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
               >:<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
@@ -209,7 +209,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ScoutCavalryIcon.jpg" width="45" alt="" />
+                <img src="~assets/ScoutCavalryIcon.png" width="45" alt="" />
               </div>
             </td>
           </tr>

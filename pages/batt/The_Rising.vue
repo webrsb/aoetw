@@ -145,11 +145,10 @@
         <ul>
           <li>
             <strong>起始時代：</strong>
-            <img
-              class="gg"
-              src="~assets/Castle-age-reseach.jpg"
-              alt=""
-            /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+            <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >
           </li>
           <li>
             <strong>起始資源：</strong>200<nuxt-link to="/resource/Wood"
@@ -174,18 +173,18 @@
           <li>
             <img
               class="gg"
-              src="~assets/ScoutCavalryIcon.jpg"
+              src="~assets/ScoutCavalryIcon.png"
               alt=""
             /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>*2
           </li>
           <li>
-            <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/KnightIcon.png" alt="" /><nuxt-link
               to="/units/Knight"
               >騎士</nuxt-link
             >*6
           </li>
           <li>
-            <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/ManAtArmsIcon.png" alt="" /><nuxt-link
               to="/units/Man-at-Arms"
               >裝甲步兵</nuxt-link
             >*4
@@ -193,12 +192,12 @@
           <li>
             <img
               class="gg"
-              src="~assets/CrossbowmanIcon.jpg"
+              src="~assets/CrossbowmanIcon.png"
               alt=""
             /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>*4
           </li>
           <li>
-            <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/MonkIcon.png" alt="" /><nuxt-link
               to="/units/Monk"
               >僧侶</nuxt-link
             >*2
@@ -211,7 +210,7 @@
           <li>
             <img
               class="gg"
-              src="~assets/VillagerMaleIcon.jpg"
+              src="~assets/VillagerMaleIcon.png"
               alt=""
             /><nuxt-link to="/units/Villager">村民</nuxt-link>*6
           </li>

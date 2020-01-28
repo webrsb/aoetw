@@ -151,11 +151,10 @@
         <ul>
           <li>
             <strong>起始時代：</strong>
-            <img
-              class="gg"
-              src="~assets/Castle-age-reseach.jpg"
-              alt=""
-            /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+            <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >
           </li>
           <li><strong>起始資源：</strong>無</li>
           <li><strong>人口上限：</strong>75</li>
@@ -172,7 +171,7 @@
             /><nuxt-link to="/units/hero/Guy_Josselyne">蓋佐斯爾立</nuxt-link>
           </li>
           <li>
-            <img class="gg" src="~assets/TradeCartIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/TradeCartIcon.png" alt="" /><nuxt-link
               to="/units/Trade_Cart"
               >貿易車隊</nuxt-link
             >*1
@@ -204,19 +203,19 @@
             >
           </li>
           <li>
-            <img class="gg" src="~assets/ArbalestIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/ArbalestIcon.png" alt="" /><nuxt-link
               to="/units/Arbalest"
               >強弩兵</nuxt-link
             >*16
           </li>
           <li>
-            <img class="gg" src="~assets/ChampionIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/ChampionIcon.png" alt="" /><nuxt-link
               to="/units/Champion"
               >劍兵勇士</nuxt-link
             >*8
           </li>
           <li>
-            <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/HussarIcon.png" alt="" /><nuxt-link
               to="/units/Hussar"
               >匈牙利輕騎兵</nuxt-link
             >*8
@@ -224,19 +223,19 @@
           <li>
             <img
               class="gg"
-              src="~assets/HandCannoneerIcon.jpg"
+              src="~assets/HandCannoneerIcon.png"
               alt=""
             /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>*8
           </li>
           <li>
             <img
               class="gg"
-              src="~assets/VillagerMaleIcon.jpg"
+              src="~assets/VillagerMaleIcon.png"
               alt=""
             /><nuxt-link to="/units/Villager">村民</nuxt-link>*6
           </li>
           <li>
-            <img class="gg" src="~assets/PaladinIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/PaladinIcon.png" alt="" /><nuxt-link
               to="/units/Paladin"
               >遊俠</nuxt-link
             >*6
@@ -244,14 +243,14 @@
           <li>
             <img
               class="gg"
-              src="~assets/BombardCannonIcon.jpg"
+              src="~assets/BombardCannonIcon.png"
               alt=""
             /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>*6
           </li>
           <li>
             <img
               class="gg"
-              src="~assets/TrebuchetPackedIcon.jpg"
+              src="~assets/TrebuchetPackedIcon.png"
               alt=""
             /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>*2
           </li>
@@ -259,11 +258,11 @@
             <strong
               >*困難模式為1台<img
                 class="gg"
-                src="~assets/TrebuchetPackedIcon.jpg"
+                src="~assets/TrebuchetPackedIcon.png"
                 alt=""
               /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>和3台<img
                 class="gg"
-                src="~assets/BombardCannonIcon.jpg"
+                src="~assets/BombardCannonIcon.png"
                 alt=""
               /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。</strong
             >

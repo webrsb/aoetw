@@ -167,9 +167,11 @@
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊加成+20%。<br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
-                to="/techs/Torsion_Engines"
-                >扭力彈射器</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
               >：<nuxt-link to="/units//building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >的單位傷害範圍增加。<nuxt-link to="/civs/Ethiopians"
@@ -188,19 +190,26 @@
               >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
               >除外)<br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
-                to="/techs/Artillery"
-                >砲兵</nuxt-link
-              >(+2，<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定)
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Artillery">砲兵</nuxt-link>(+2，<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">命中率</td>
             <td class="tta4">
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
-                to="/techs/Arquebus"
-                >火繩槍</nuxt-link
-              >:<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>:<nuxt-link
+                to="/units/Gunpowder_Unit"
+                >火藥單位</nuxt-link
               >對移動目標的命中率提升。<nuxt-link to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >限定
@@ -209,11 +218,9 @@
           <tr>
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
-              <img
-                src="~assets/CastleAgeUnique.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Ironclad"
+                >鋼鐵甲</nuxt-link
               >(+4/+0，<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定)
             </td>
           </tr>
@@ -222,7 +229,7 @@
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
-              <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
               >
@@ -249,7 +256,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SiegeRamIcon.jpg"
+                      src="~assets/SiegeRamIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>
                   </li>
@@ -259,7 +266,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/PetardIcon.jpg"
+                      src="~assets/PetardIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
                   </li>
@@ -269,7 +276,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CappedRamIcon.jpg"
+                      src="~assets/CappedRamIcon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>
@@ -280,18 +287,18 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/BatteringRamIcon.jpg"
+                      src="~assets/BatteringRamIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Battering_Ram"
                       >輕型衝撞車</nuxt-link
                     >
                   </li>
                   <li>
-                    <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
+                    <img src="~assets/CannonGalleonIcon.png" alt="" /><nuxt-link
                       to="/units/Cannon_Galleon"
                       >火砲戰船</nuxt-link
                     >→
-                    <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
+                    <img src="~assets/CannonGalleonIcon.png" alt="" /><nuxt-link
                       to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
@@ -302,7 +309,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/BombardCannonIcon.jpg"
+                      src="~assets/BombardCannonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
                   </li>
@@ -312,17 +319,17 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/MangonelIcon.jpg"
+                      src="~assets/MangonelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/OnagerIcon.jpg"
+                      src="~assets/OnagerIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Onager">中型投石車</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/SiegeOnagerIcon.jpg"
+                      src="~assets/SiegeOnagerIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
@@ -335,7 +342,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/CondottieroNewIcon.jpg"
+                      src="~assets/CondottieroIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -347,7 +354,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Magyar_Huszar_icon.jpg"
+                      src="~assets/Magyar_Huszar_icon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
@@ -360,7 +367,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EliteEagleWarriorIcon.jpg"
+                      src="~assets/EliteEagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Eagle_Warrior"
                       >精銳鷹勇士</nuxt-link
@@ -369,7 +376,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/MangudaiIcon.jpg"
+                      src="~assets/MangudaiIcon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
@@ -378,7 +385,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Magyar_Huszar_icon.jpg"
+                      src="~assets/Magyar_Huszar_icon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
@@ -391,19 +398,19 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EagleScoutIcon.jpg"
+                      src="~assets/EagleScoutIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/EagleWarriorIcon.jpg"
+                      src="~assets/EagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/MangudaiIcon.jpg"
+                      src="~assets/MangudaiIcon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
@@ -629,7 +636,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/BombardCannonIcon.jpg" width="45" alt="" />
+                <img src="~assets/BombardCannonIcon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -654,7 +661,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
@@ -666,7 +673,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Siegeworkshopicon.png"
+                src="~assets/siege_workshop.png"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
@@ -793,7 +800,7 @@
           <tr>
             <td class="unit3">需要</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Chemistry.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/chemistry.png" alt="" /><nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >

@@ -214,9 +214,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
             </td>
           </tr>
           <tr>

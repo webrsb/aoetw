@@ -32,8 +32,8 @@
           <ul>
             <li>
               <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link
-              >的第四個戰役"遊牧民族的西遷"，<nuxt-link to="/units/hero/Subotai"
-                >速不臺</nuxt-link
+              >的第四個戰役"策馬西征"，<nuxt-link to="/units/hero/Subotai"
+                >速不台</nuxt-link
               >一開始會帶著兩隻獵狼。
             </li>
             <li>
@@ -65,7 +65,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Wolf-icon-aoe2.jpg" width="80" alt="" />
+                <img src="~assets/Wolf-icon-aoe2.png" width="80" alt="" />
               </div>
             </td>
           </tr>

@@ -176,7 +176,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bloodlines.png" width="45" alt="" />
+                <img src="~assets/Bloodlines.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -194,11 +194,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              <img class="gg" src="~assets/feudal_age.png" alt="" /><nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -207,7 +206,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Stableicon.png"
+                src="~assets/stable.png"
                 alt=""
               /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
             </td>

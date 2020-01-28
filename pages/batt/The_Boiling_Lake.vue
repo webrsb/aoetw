@@ -43,11 +43,10 @@
           <ul>
             <li>
               起始時代：
-              <img
-                src="~assets/Imperial-age-research.jpg"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img src="~assets/imperial_age.png" class="gg" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </li>
             <li>
               起始資源：500<nuxt-link to="/resource/Wood">木頭</nuxt-link
@@ -61,42 +60,42 @@
               <ul>
                 <li>
                   <img
-                    src="~assets/VillagerMaleIcon.jpg"
+                    src="~assets/VillagerMaleIcon.png"
                     class="gg"
                     alt=""
                   />村民4個
                 </li>
                 <li>
                   <img
-                    src="~assets/EagleWarriorIcon.jpg"
+                    src="~assets/EagleWarriorIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>15個
                 </li>
                 <li>
                   <img
-                    src="~assets/JaguarWarriorIcon.jpg"
+                    src="~assets/JaguarWarriorIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>11個
                 </li>
                 <li>
                   <img
-                    src="~assets/ArbalestIcon.jpg"
+                    src="~assets/ArbalestIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>10個
                 </li>
                 <li>
                   <img
-                    src="~assets/WarGalley.jpg"
+                    src="~assets/WarGalley.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>4個
                 </li>
                 <li>
                   <img
-                    src="~assets/FireShipIcon.jpg"
+                    src="~assets/FireShipIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>2個
@@ -108,7 +107,7 @@
               <ul>
                 <li>
                   <img
-                    src="~assets/TradeCartIcon.jpg"
+                    src="~assets/TradeCartIcon.png"
                     class="gg"
                     alt=""
                   />貿易車隊9個

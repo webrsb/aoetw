@@ -123,7 +123,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   alt=""
                 /><nuxt-link to="/techs/Tusk_Swords">象牙劍</nuxt-link
                 >：矛象伕<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>+3。
@@ -131,7 +131,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   alt=""
                 /><nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link
                 >：弩砲象和弩砲發射雙箭(第二發的傷害比起第一發較低)。
@@ -253,14 +253,14 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Tusk_Swords"
                 >象牙劍</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Double_Crossbow"
-                >雙弩箭</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link>
             </td>
           </tr>
         </table>

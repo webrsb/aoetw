@@ -211,7 +211,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/MilitiaIcon.jpg"
+                  src="~assets/MilitiaIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Militia">民兵</nuxt-link>
               </td>
@@ -227,7 +227,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/ManAtArmsIcon.jpg"
+                  src="~assets/ManAtArmsIcon.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>
@@ -251,7 +251,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/LongswordsManIcon.jpg"
+                  src="~assets/LongswordsManIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
               </td>
@@ -274,7 +274,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/2HandedswordsmanIcon.jpg"
+                  src="~assets/2HandedswordsmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Two-Handed_Swordsman"
                   >雙手劍兵</nuxt-link
@@ -299,7 +299,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/ChampionIcon.jpg"
+                  src="~assets/ChampionIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               </td>
@@ -322,7 +322,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/SpearmanIcon.jpg"
+                  src="~assets/SpearmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
               </td>
@@ -345,7 +345,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/PikemanIcon.jpg"
+                  src="~assets/PikemanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </td>
@@ -368,7 +368,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/HalberdierIcon.jpg"
+                  src="~assets/HalberdierIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
               </td>
@@ -391,7 +391,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/EagleScoutIcon.jpg"
+                  src="~assets/EagleScoutIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
               </td>
@@ -414,7 +414,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/EagleWarriorIcon.jpg"
+                  src="~assets/EagleWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
               </td>
@@ -437,7 +437,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/EliteEagleWarriorIcon.jpg"
+                  src="~assets/EliteEagleWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Elite_Eagle_Warrior"
                   >精銳鷹勇士</nuxt-link
@@ -462,7 +462,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/CondottieroNewIcon.jpg"
+                  src="~assets/CondottieroIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
               </td>
@@ -483,7 +483,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                   to="/units/Woad_Raider"
                   >菘藍武士</nuxt-link
                 >
@@ -505,7 +505,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                   to="/units/Woad_Raider"
                   >精銳菘藍武士</nuxt-link
                 >
@@ -527,7 +527,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                   to="/units/Throwing_Axeman"
                   >擲斧兵</nuxt-link
                 >
@@ -549,7 +549,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                   to="/units/Throwing_Axeman"
                   >精銳擲斧兵</nuxt-link
                 >
@@ -573,7 +573,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/HuskarlIcon.jpg"
+                  src="~assets/HuskarlIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
               </td>
@@ -596,7 +596,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/HuskarlIcon.jpg"
+                  src="~assets/HuskarlIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link>
               </td>
@@ -617,7 +617,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                   to="/units/Samurai"
                   >日本武士</nuxt-link
                 >
@@ -639,7 +639,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                   to="/units/Samurai"
                   >精銳日本武士</nuxt-link
                 >
@@ -709,7 +709,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >狂戰士</nuxt-link
                 >
@@ -731,7 +731,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >精銳狂戰士</nuxt-link
                 >
@@ -755,7 +755,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/JaguarWarriorIcon.jpg"
+                  src="~assets/JaguarWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>
               </td>
@@ -778,7 +778,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/JaguarWarriorIcon.jpg"
+                  src="~assets/JaguarWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Jaguar_Warrior">精銳豹勇士</nuxt-link>
               </td>
@@ -995,7 +995,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/Tracking.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/tracking.png" alt="" /><nuxt-link
                   to="/techs/Tracking"
                   >追蹤技術</nuxt-link
                 >
@@ -1006,7 +1006,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/Squires.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/squires.png" alt="" /><nuxt-link
                   to="/techs/Squires"
                   >護衛</nuxt-link
                 >
@@ -1017,7 +1017,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/Arson.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/Arson.png" alt="" /><nuxt-link
                   to="/techs/Arson"
                   >縱火</nuxt-link
                 >
@@ -1032,7 +1032,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/Forging.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/forging.png" alt="" /><nuxt-link
                   to="/techs/Forging"
                   >鍛造</nuxt-link
                 >
@@ -1045,7 +1045,7 @@
               <td class="tunitc6">
                 <img
                   class="gg"
-                  src="~assets/Ironcasting.jpg"
+                  src="~assets/iron_casting.png"
                   alt=""
                 /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>
               </td>
@@ -1057,7 +1057,7 @@
               <td class="tunitc6">
                 <img
                   class="gg"
-                  src="~assets/Blastfurnace.jpg"
+                  src="~assets/blast_furnace.png"
                   alt=""
                 /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
               </td>
@@ -1069,7 +1069,7 @@
               <td class="tunitc6">
                 <img
                   class="gg"
-                  src="~assets/Scalemailarmor.jpg"
+                  src="~assets/scale_mail_armor.png"
                   alt=""
                 /><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link>
               </td>
@@ -1093,7 +1093,7 @@
               <td class="tunitc6">
                 <img
                   class="gg"
-                  src="~assets/Platemailarmor.jpg"
+                  src="~assets/plate_mail_armor.png"
                   alt=""
                 /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link>
               </td>
@@ -1130,7 +1130,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
                   to="/techs/Faith"
                   >忠誠信仰</nuxt-link
                 >
@@ -1146,7 +1146,7 @@
               <td class="tunitc6">
                 <img
                   class="gg"
-                  src="~assets/Conscription.jpg"
+                  src="~assets/conscription.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
@@ -1175,7 +1175,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   class="gg"
                   alt=""
                 /><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
@@ -1189,7 +1189,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1207,7 +1207,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1225,7 +1225,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1244,7 +1244,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1259,7 +1259,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1277,7 +1277,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1292,7 +1292,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1313,7 +1313,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1328,7 +1328,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1345,7 +1345,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""
@@ -1364,7 +1364,7 @@
             <tr>
               <td class="tunitc6">
                 <img
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   class="gg"
                   style="margin: 2px;"
                   alt=""

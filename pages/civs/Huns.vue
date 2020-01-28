@@ -117,7 +117,7 @@
           <h3>特殊單位</h3>
           <ul>
             <p>
-              <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                 to="/units/Tarkan"
                 >韃靼騎兵</nuxt-link
               >：中型騎兵，對<nuxt-link to="/armor/Armor_Class_Building"
@@ -128,17 +128,17 @@
           <h3>特殊科技</h3>
           <ul>
             <p>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Marauders"
+                >掠奪者</nuxt-link
               >：馬場可生產韃靼騎兵。
             </p>
             <p>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Atheism"
-                >無神論</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Atheism">無神論</nuxt-link
               >：遺跡/<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
               >勝利時間+100年、研發<nuxt-link to="/techs/Spies">間諜</nuxt-link
               >便宜50%。
@@ -284,7 +284,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/TarkanIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/TarkanIcon.png" /><nuxt-link
                 to="/units/Tarkan"
                 >韃靼騎兵</nuxt-link
               >
@@ -302,14 +302,14 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Marauders"
                 >掠奪者</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Atheism"
-                >無神論</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Atheism">無神論</nuxt-link>
             </td>
           </tr>
         </table>

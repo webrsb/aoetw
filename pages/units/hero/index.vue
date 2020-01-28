@@ -50,7 +50,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/MonkIcon.png" alt="" /><nuxt-link
                 to="/units/hero/Archbishop"
                 >大主教</nuxt-link
               >
@@ -264,7 +264,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/MonkIcon.png" alt="" /><nuxt-link
                 to="/units/hero/Friar_Tuck"
                 >塔克修士</nuxt-link
               >
@@ -300,7 +300,7 @@
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
+              <nuxt-link to="/batt/Crucible">統一各部</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -342,7 +342,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/MonkIcon.png" alt="" /><nuxt-link
                 to="/units/hero/Harold_Haardraade"
                 >哈拉爾·哈德拉達</nuxt-link
               >
@@ -353,7 +353,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                 to="/units/hero/Hrolf_the_Ganger"
                 >首領荷夫</nuxt-link
               >
@@ -366,7 +366,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/Wolf-icon-aoe2.jpg"
+                src="~assets/Wolf-icon-aoe2.png"
                 alt=""
               /><nuxt-link to="/units/hero/Hunting_Wolf">獵狼</nuxt-link>
             </td>
@@ -376,7 +376,11 @@
               <nuxt-link to="/batt/The_Horde_Rides_West"
                 >遊牧民族的西遷</nuxt-link
               >
-              <br /><nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
+              <br /><nuxt-link to="/batt/Pax_Mongolia"></nuxt-link>
+              <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
+              <br /><nuxt-link to="/batt/Pax_Mongolia"
+                >蒙古太平</nuxt-link
+              >
               <br /><nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
               ><br /><nuxt-link to="/batt/Honfoglalas_895"
                 >征服家園（895）</nuxt-link
@@ -458,7 +462,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/ChampionIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ChampionIcon.png" alt="" /><nuxt-link
                 to="/units/hero/King_Arthur"
                 >亞瑟王</nuxt-link
               >
@@ -469,7 +473,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                 to="/units/hero/Kitabatake"
                 >北畠將軍</nuxt-link
               >
@@ -490,7 +494,7 @@
             <td class="tunitc4">騎士</td>
             <td class="tunitc6">騎兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link
+              <nuxt-link to="/batt/A_Life_of_Revenge">復仇人生</nuxt-link
               ><br /><nuxt-link to="/batt/Emperor_of_the_West"
                 >西域之君</nuxt-link
               >
@@ -517,7 +521,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/PaladinIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/PaladinIcon.png" alt="" /><nuxt-link
                 to="/units/hero/Lancelot"
                 >藍斯洛特</nuxt-link
               >
@@ -575,7 +579,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/PaladinIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/PaladinIcon.png" alt="" /><nuxt-link
                 to="/units/hero/Mordred"
                 >莫德雷德</nuxt-link
               >
@@ -594,7 +598,7 @@
             <td class="tunitc4">動物</td>
             <td class="tunitc6">狼</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link
+              <nuxt-link to="/batt/Crucible">統一各部</nuxt-link
               ><br /><nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
               ><br /><nuxt-link to="/batt/Vindlandsaga_1000"
                 >芬特蘭撒格(1000)</nuxt-link
@@ -651,7 +655,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/LongbowmanIcon.jpg"
+                src="~assets/LongbowmanIcon.png"
                 alt=""
               /><nuxt-link to="/units/hero/Robin_Hood">羅賓漢</nuxt-link>
             </td>
@@ -663,7 +667,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/KnightIcon.png" alt="" /><nuxt-link
                 to="/units/hero/Roland"
                 >羅蘭</nuxt-link
               >
@@ -674,7 +678,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
                 to="/units/hero/Saboteur"
                 >破壞者</nuxt-link
               >
@@ -699,9 +703,7 @@
             </td>
             <td class="tunitc6">國王</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -722,7 +724,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/ChampionIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ChampionIcon.png" alt="" /><nuxt-link
                 to="/units/hero/Siegfried"
                 >齊格非</nuxt-link
               >
@@ -788,7 +790,7 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/Subotaiicon.png" alt="" /><nuxt-link
                 to="/units/hero/Subotai"
-                >速不臺</nuxt-link
+                >速不台</nuxt-link
               >
             </td>
             <td class="tunitc4">馬弓騎兵</td>
@@ -798,9 +800,7 @@
               >
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
               <br /><nuxt-link to="/batt/The_Promise">承諾</nuxt-link
               ><br /><nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
             </td>
@@ -1109,7 +1109,7 @@
                 <td class="tunitc6">
                   <img
                     class="gg"
-                    src="~assets/LightCavalryIcon.jpg"
+                    src="~assets/LightCavalryIcon.png"
                     alt=""
                   /><nuxt-link to="/units/hero/Scythian_Scout"
                     >斯基泰斥候</nuxt-link
@@ -1508,7 +1508,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/WarElephantIcon.jpg"
+                            src="~assets/WarElephantIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Abraha_Elephant"
                             >阿伯哈拉戰象</nuxt-link
@@ -1606,7 +1606,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/2HandedswordsmanIcon.jpg"
+                            src="~assets/2HandedswordsmanIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Henry_II"
                             >亨利二世</nuxt-link
@@ -1640,7 +1640,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/JaguarWarriorIcon.jpg"
+                            src="~assets/JaguarWarriorIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Itzcoatl"
                             >伊茲柯阿特爾</nuxt-link
@@ -1658,7 +1658,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/SpearmanIcon.jpg"
+                            src="~assets/SpearmanIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Little_John"
                             >小約翰</nuxt-link
@@ -1674,7 +1674,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/Magyar_Huszar_icon.jpg"
+                            src="~assets/Magyar_Huszar_icon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Miklos_Toldi"
                             >米克羅斯·陶笛</nuxt-link
@@ -1710,7 +1710,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/JanissaryIcon.jpg"
+                            src="~assets/JanissaryIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Mustafa_Pasha"
                             >穆斯塔法帕夏</nuxt-link
@@ -1728,7 +1728,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/PlumedArcherIcon.jpg"
+                            src="~assets/PlumedArcherIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Pacal_II"
                             >巴加爾二世</nuxt-link
@@ -1794,7 +1794,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/ChuKoNuIcon.jpg"
+                            src="~assets/ChuKoNuIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Su_Dingfang"
                             >蘇定方</nuxt-link
@@ -1868,7 +1868,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/Magyar_Huszar_icon.jpg"
+                            src="~assets/Magyar_Huszar_icon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Tristan"
                             >崔斯坦</nuxt-link
@@ -1912,7 +1912,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/HussarIcon.jpg"
+                            src="~assets/HussarIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Zawisza_the_Black"
                             >茲瓦斯艾黑騎士</nuxt-link

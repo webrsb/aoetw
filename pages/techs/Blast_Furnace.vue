@@ -136,7 +136,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Blastfurnace.jpg" width="45" alt="" />
+                <img src="~assets/blast_furnace.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -166,7 +166,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/iron_casting.png" alt="" /><nuxt-link
                 to="/techs/Iron_Casting"
                 >鑄造</nuxt-link
               >

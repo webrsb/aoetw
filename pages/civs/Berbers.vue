@@ -142,7 +142,7 @@
             <p>
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >：開火間隔低、對<nuxt-link to="/units/Cavalry_Archer"
@@ -153,17 +153,17 @@
           <h3>特殊科技</h3>
           <ul>
             <p>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >：你和同盟城堡工作效率+25%。
             </p>
             <p>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Maghrabi_Camels"
-                >馬格拉比駱駝</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
               >：駱駝單位會自動回血。
             </p>
           </ul>
@@ -281,12 +281,12 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CamelArcherIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/CamelArcherIcon.png" /><nuxt-link
                 to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/GenitourIcon.png" /><nuxt-link
                 to="/units/Genitour"
                 >標槍騎兵</nuxt-link
               >
@@ -302,15 +302,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Maghrabi_Camels"
-                >馬格拉比駱駝</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link>
             </td>
           </tr>
         </table>

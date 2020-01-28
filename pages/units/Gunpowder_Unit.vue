@@ -111,7 +111,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/HandCannoneerIcon.png" /><nuxt-link
                   to="/units/Hand_Cannoneer"
                   >火槍兵</nuxt-link
                 >
@@ -135,7 +135,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/BombardCannonIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/BombardCannonIcon.png" /><nuxt-link
                   to="/units/Bombard_Cannon"
                   >火砲</nuxt-link
                 >
@@ -159,7 +159,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/CannonGalleonIcon.png" /><nuxt-link
                   to="/units/Cannon_Galleon"
                   >火砲戰船</nuxt-link
                 >
@@ -183,7 +183,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/CannonGalleonIcon.png" /><nuxt-link
                   to="/units/Elite_Cannon_Galleon"
                   >精銳火砲戰船</nuxt-link
                 >
@@ -207,7 +207,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/TurtleShipIcon.png" /><nuxt-link
                   to="/units/Turtle_Ship"
                   >龜甲船</nuxt-link
                 >
@@ -231,7 +231,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/TurtleShipIcon.png" /><nuxt-link
                   to="/units/Turtle_Ship"
                   >精銳龜甲船</nuxt-link
                 >
@@ -255,7 +255,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/JanissaryIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/JanissaryIcon.png" /><nuxt-link
                   to="/units/Janissary"
                   >土耳其火槍兵</nuxt-link
                 >
@@ -279,7 +279,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/JanissaryIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/JanissaryIcon.png" /><nuxt-link
                   to="/units/Janissary"
                   >精銳土耳其火槍兵</nuxt-link
                 >
@@ -303,7 +303,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/ConquistadorIcon.png" /><nuxt-link
                   to="/units/Conquistador"
                   >征服者</nuxt-link
                 >
@@ -327,7 +327,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/ConquistadorIcon.png" /><nuxt-link
                   to="/units/Conquistador"
                   >精銳征服者</nuxt-link
                 >
@@ -351,7 +351,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/OrganGunIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/OrganGunIcon.png" /><nuxt-link
                   to="/units/Organ_Gun"
                   >風琴砲</nuxt-link
                 >
@@ -375,7 +375,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/OrganGunIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/OrganGunIcon.png" /><nuxt-link
                   to="/units/Organ_Gun"
                   >精銳風琴砲</nuxt-link
                 >

@@ -42,7 +42,7 @@
           <ul>
             <li>
               <img
-                src="~assets/EagleScoutIcon.jpg"
+                src="~assets/EagleScoutIcon.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
@@ -50,12 +50,10 @@
               >生產時間從32s → 35s(跟鷹勇士一樣了)
             </li>
             <li>
-              <img
-                src="~assets/Watchtowericon.png"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>花費25W
-              125S → 50W 125S
+              <img src="~assets/tower.png" class="gg" alt="" /><nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >花費25W 125S → 50W 125S
             </li>
             <li>
               <img
@@ -73,32 +71,29 @@
               25F 10G → 30F 15G
             </li>
             <li>
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/civs/Incas">印加</nuxt-link
               ><nuxt-link to="/techs/Couriers">金冠</nuxt-link>花費400F 200G →
               600F 600G
             </li>
             <li>
-              <img
-                src="~assets/Watchtowericon.png"
-                class="gg"
-                alt=""
-              />韓國蓋塔時間60s → 75s (其他<nuxt-link to="/civs"
-                >文明</nuxt-link
-              >
+              <img src="~assets/tower.png" class="gg" alt="" />韓國蓋塔時間60s →
+              75s (其他<nuxt-link to="/civs">文明</nuxt-link>
               80s)
             </li>
             <li>
               <img
-                src="~assets/FishingShipIcon.jpg"
+                src="~assets/FishingShipIcon.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/civs/Italians">義大利</nuxt-link>魚船花費60W →
               64W (其他文明 75W)
             </li>
             <li>
-              <img src="~assets/Coinage.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/coinage.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Coinage"
                 >鑄幣術</nuxt-link
               >移至城堡時代, 銀行技術移至<nuxt-link to="/techs/age/Imperial_Age"
@@ -106,7 +101,7 @@
               >
             </li>
             <li>
-              <img src="~assets/Farmicon.png" class="gg" alt="" /><nuxt-link
+              <img src="~assets/farm.png" class="gg" alt="" /><nuxt-link
                 to="/civs/Mayans"
                 >馬雅</nuxt-link
               ><nuxt-link to="/units/Villager">農夫</nuxt-link
@@ -114,7 +109,7 @@
             </li>
             <li>
               <img
-                src="~assets/FireGalleyIcon.jpg"
+                src="~assets/FireGalleyIcon.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
@@ -123,21 +118,21 @@
             </li>
             <li>
               <img
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
               >生產時間 21s → 25s
             </li>
             <li>
-              <img src="~assets/CamelIcon.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/CamelIcon.png" class="gg" alt="" /><nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               ><nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
               ><nuxt-link to="/armor">近防</nuxt-link>加成 +1 → +0
             </li>
             <li>
-              <img src="~assets/Farmicon.png" class="gg" alt="" /><nuxt-link
+              <img src="~assets/farm.png" class="gg" alt="" /><nuxt-link
                 to="/civs/Slavs"
                 >斯拉夫</nuxt-link
               ><nuxt-link to="/building/Farm">農田</nuxt-link>加成倍率1.31 →
@@ -157,7 +152,7 @@
             </li>
             <li>
               <img
-                src="~assets/Archery-range-logo.jpg"
+                src="~assets/archery_range.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/civs/Vietnamese">越南</nuxt-link
@@ -165,7 +160,7 @@
               >單位血量加成原本+10%/+15%/+20% → 皆 +20%
             </li>
             <li>
-              <img src="~assets/ArbalestIcon.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/ArbalestIcon.png" class="gg" alt="" /><nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
               >得到強弩
@@ -187,7 +182,7 @@
             </li>
             <li>
               <img
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link

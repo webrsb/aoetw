@@ -2,19 +2,19 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>速不臺</h1>
+        <h1>速不台</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>速不臺</strong>或稱<b>書部台</b>是《<nuxt-link
+            <b>速不台</b>或稱<b>速不臺</b>是《<nuxt-link
               to="/games/aok"
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名重裝<nuxt-link to="/units/Archer_Units"
               >馬弓騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
-            >"遊牧民族的西遷"和戰役編輯器中找到。速不臺是<nuxt-link
+            >"策馬西征"和戰役編輯器中找到。速不臺是<nuxt-link
               to="/units/hero/Genghis_Khan"
               >成吉思汗</nuxt-link
             >和窩闊台旗下的將軍和戰略家，他著名的事蹟是在兩天內擊敗匈牙利和波蘭軍隊，後來成為《世紀帝國II
@@ -37,7 +37,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle" style="color: #fff;">速不臺</div>
+              <div class="unititle" style="color: #fff;">速不台</div>
             </td>
           </tr>
           <tr>

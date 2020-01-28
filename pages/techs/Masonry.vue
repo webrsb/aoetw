@@ -177,7 +177,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Masonry.jpg" width="45" alt="" />
+                <img src="~assets/masonry.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -195,27 +195,25 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Universityicon.png"
-                alt=""
-              /><nuxt-link to="/building/University">學院</nuxt-link>
+              <img class="gg" src="~assets/university.png" alt="" /><nuxt-link
+                to="/building/University"
+                >學院</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Architecture.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/architecture.png" alt="" /><nuxt-link
                 to="/techs/Architecture"
                 >建築學</nuxt-link
               >

@@ -98,11 +98,11 @@
           <tr>
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
-              <img src="~assets/Fletching.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/fletching.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Fletching"
                 >箭羽</nuxt-link
               >(+1) <br />
-              <img src="~assets/Bodkinarrow.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/bodkin_arrow.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Bodkin_Arrow"
                 >錐狀箭頭</nuxt-link
               >(+1) <br />
@@ -110,7 +110,7 @@
                 to="/techs/Bracer"
                 >護腕</nuxt-link
               >(+1) <br />
-              <img src="~assets/Chemistry.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/chemistry.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >(+1)
@@ -119,11 +119,11 @@
           <tr>
             <td class="tta1" style="width:10%">攻擊範圍</td>
             <td class="tta4">
-              <img src="~assets/Fletching.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/fletching.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Fletching"
                 >箭羽</nuxt-link
               >(+1) <br />
-              <img src="~assets/Bodkinarrow.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/bodkin_arrow.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Bodkin_Arrow"
                 >錐狀箭頭</nuxt-link
               >(+1) <br />
@@ -159,19 +159,19 @@
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
               <img
-                src="~assets/Paddedarcherarmor.jpg"
+                src="~assets/padded_archer_armor.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
               >(+1/+1) <br />
               <img
-                src="~assets/Leatherarcherarmor.jpg"
+                src="~assets/leather_archer_armor.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
               >(+1/+1) <br />
               <img
-                src="~assets/Ringarcherarmor.jpg"
+                src="~assets/ring_archer_armor.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
@@ -183,7 +183,7 @@
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
-              <img src="~assets/Faith.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/faith.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
               >
@@ -192,7 +192,7 @@
           <tr>
             <td class="tta1" style="width:10%">生產速度</td>
             <td class="tta4">
-              <img src="~assets/Conscription.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/conscription.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Conscription"
                 >徵兵制度</nuxt-link
               >(+33%)
@@ -316,7 +316,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/RattanarcherIcon2.png" width="45" alt="" />
+                <img src="~assets/RattanarcherIcon2.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -340,11 +340,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>

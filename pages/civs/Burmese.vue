@@ -115,17 +115,17 @@
           </p>
           <h3>特殊科技</h3>
           <p>
-            <img
-              class="gg"
-              src="~assets/CastleAgeUnique.png"
-              alt=""
-            /><nuxt-link to="/techs/Howdah">象轎</nuxt-link>：矛象伕的近戰防禦
-            +1，遠距離防禦 +1。
+            <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+              to="/techs/Howdah"
+              >象轎</nuxt-link
+            >：矛象伕的近戰防禦 +1，遠距離防禦 +1。
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-              to="/techs/Manipur_Cavalry"
-              >曼尼普爾騎兵</nuxt-link
+            <img
+              class="gg"
+              src="~assets/unique_tech_imperial.png"
+              alt=""
+            /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
             >：<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >與飛鏢騎兵對建築攻擊力+6。
           </p>
@@ -236,14 +236,14 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Howdah"
                 >象轎</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link>
             </td>
           </tr>
         </table>

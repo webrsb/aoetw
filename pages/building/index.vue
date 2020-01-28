@@ -14,7 +14,7 @@
       <div class="col-md-3">
         <h3>
           <img
-            src="~assets/Dark-age-logo-small.jpg"
+            src="~assets/dark_age.png"
             style="bottom: 3px; position: relative;"
             width="30"
             alt=""
@@ -27,7 +27,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Towncentericon.png"
+                src="~assets/town_center.png"
                 alt=""
               />城鎮中心</nuxt-link
             >
@@ -37,7 +37,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Houseicon.png"
+                src="~assets/house.png"
                 alt=""
               />房屋</nuxt-link
             >
@@ -47,7 +47,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Millicon.png"
+                src="~assets/mill.png"
                 alt=""
               />磨坊</nuxt-link
             >
@@ -57,7 +57,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Farmicon.png"
+                src="~assets/farm.png"
                 alt=""
               />農田</nuxt-link
             >
@@ -67,7 +67,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Lumbercampicon.png"
+                src="~assets/lumber_camp.png"
                 alt=""
               />伐木場</nuxt-link
             >
@@ -77,7 +77,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Miningcampicon.png"
+                src="~assets/mining_camp.png"
                 alt=""
               />採礦營地</nuxt-link
             >
@@ -87,7 +87,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Dockicon.png"
+                src="~assets/dock.png"
                 alt=""
               />碼頭</nuxt-link
             >
@@ -97,7 +97,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Barracks-logo.jpg"
+                src="~assets/barracks.png"
                 alt=""
               />軍營</nuxt-link
             >
@@ -107,7 +107,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Palisadewallicon.png"
+                src="~assets/palisade.png"
                 alt=""
               />木牆</nuxt-link
             >
@@ -117,7 +117,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Palisadegateicon.png"
+                src="~assets/palisade_gate.png"
                 alt=""
               />木門</nuxt-link
             >
@@ -127,7 +127,7 @@
               ><img
                 class="gg"
                 width="25px"
-                src="~assets/Outposticon.png"
+                src="~assets/outpost.png"
                 alt=""
               />哨站</nuxt-link
             >
@@ -138,7 +138,7 @@
         <h3>
           <nuxt-link to="/techs/age/Feudal_Age"
             ><img
-              src="~assets/Feudal-age-reseach.jpg"
+              src="~assets/feudal_age.png"
               style="bottom: 3px; position: relative;"
               width="30"
               alt=""
@@ -151,7 +151,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Marketicon.png"
+              src="~assets/market.png"
               alt=""
             /><nuxt-link to="/building/Market">市集</nuxt-link>
           </li>
@@ -159,7 +159,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Blacksmithicon.png"
+              src="~assets/blacksmith.png"
               alt=""
             /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
           </li>
@@ -167,7 +167,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Fishtrapicon.png"
+              src="~assets/fish_trap.png"
               alt=""
             /><nuxt-link to="/building/Fish_Trap">漁網</nuxt-link>
           </li>
@@ -175,7 +175,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Archery-range-logo.jpg"
+              src="~assets/archery_range.png"
               alt=""
             /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
           </li>
@@ -183,7 +183,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Stableicon.png"
+              src="~assets/stable.png"
               alt=""
             /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
           </li>
@@ -191,7 +191,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Stonewallicon.png"
+              src="~assets/stone_wall.png"
               alt=""
             /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>
           </li>
@@ -199,7 +199,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Gateicon.png"
+              src="~assets/gate.png"
               alt=""
             /><nuxt-link to="/building/Gate">城門</nuxt-link>
           </li>
@@ -207,7 +207,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Watchtowericon.png"
+              src="~assets/tower.png"
               alt=""
             /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>
           </li>
@@ -217,7 +217,7 @@
         <h3>
           <nuxt-link to="/techs/age/Castle_Age"
             ><img
-              src="~assets/Castle-age-reseach.jpg"
+              src="~assets/castle_age.png"
               style="bottom: 3px; position: relative;"
               width="30"
               alt=""
@@ -230,7 +230,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Towncentericon.png"
+              src="~assets/town_center.png"
               alt=""
             /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
           </li>
@@ -238,7 +238,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Monasteryicon.png"
+              src="~assets/monastery.png"
               alt=""
             /><nuxt-link to="/building/Monastery">修道院</nuxt-link>
           </li>
@@ -246,7 +246,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Universityicon.png"
+              src="~assets/university.png"
               alt=""
             /><nuxt-link to="/building/University">學院</nuxt-link>
           </li>
@@ -254,7 +254,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Siegeworkshopicon.png"
+              src="~assets/siege_workshop.png"
               alt=""
             /><nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link>
           </li>
@@ -262,7 +262,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Castleicon.png"
+              src="~assets/castle.png"
               alt=""
             /><nuxt-link to="/building/Castle">城堡</nuxt-link>
           </li>
@@ -270,7 +270,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Stonewallicon.png"
+              src="~assets/stone_wall.png"
               alt=""
             /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
           </li>
@@ -278,7 +278,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Watchtowericon.png"
+              src="~assets/tower.png"
               alt=""
             /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
           </li>
@@ -286,7 +286,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Dockicon.png"
+              src="~assets/dock.png"
               alt=""
             /><nuxt-link to="/building/Harbor">海港</nuxt-link>
           </li>
@@ -296,7 +296,7 @@
         <h3>
           <nuxt-link to="/techs/age/Imperial_Age"
             ><img
-              src="~assets/Imperial-age-research.jpg"
+              src="~assets/imperial_age.png"
               style="bottom: 3px; position: relative;"
               width="30"
               alt=""
@@ -309,7 +309,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Watchtowericon.png"
+              src="~assets/tower.png"
               alt=""
             /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
           </li>
@@ -317,7 +317,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Wondericon.png"
+              src="~assets/wonder.png"
               alt=""
             /><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>
           </li>
@@ -325,7 +325,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Bombardtowericon.png"
+              src="~assets/bombard_tower.png"
               alt=""
             /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
           </li>
@@ -333,7 +333,7 @@
             <img
               class="gg"
               width="25px"
-              src="~assets/Feitoriaicon.png"
+              src="~assets/feitoria.png"
               alt=""
             /><nuxt-link to="/building/Feitoriaicon_Feitoria"
               >港灣大商站</nuxt-link

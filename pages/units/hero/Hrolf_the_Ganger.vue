@@ -43,7 +43,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/VBRSK.jpg" width="80" alt="" />
+                <img src="~assets/VBRSK.png" width="80" alt="" />
               </div>
             </td>
           </tr>

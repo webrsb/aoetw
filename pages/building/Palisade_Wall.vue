@@ -93,7 +93,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Great_Wall">長城</nuxt-link>:+30%
@@ -105,7 +105,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -218,7 +218,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Palisadewallicon.png" width="45" alt="" />
+                <img src="~assets/palisade.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

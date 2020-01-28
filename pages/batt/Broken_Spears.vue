@@ -22,11 +22,10 @@
           <ul>
             <li>
               起始時代：
-              <img
-                src="~assets/Imperial-age-research.jpg"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              <img src="~assets/imperial_age.png" class="gg" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </li>
             <li>
               起始資源：2,000<nuxt-link to="/resource/Wood">木頭</nuxt-link
@@ -40,28 +39,28 @@
               <ul>
                 <li>
                   <img
-                    src="~assets/VillagerMaleIcon.jpg"
+                    src="~assets/VillagerMaleIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Villager">村民</nuxt-link>14個
                 </li>
                 <li>
                   <img
-                    src="~assets/EagleWarriorIcon.jpg"
+                    src="~assets/EagleWarriorIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>12個
                 </li>
                 <li>
                   <img
-                    src="~assets/JaguarWarriorIcon.jpg"
+                    src="~assets/JaguarWarriorIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>8個
                 </li>
                 <li>
                   <img
-                    src="~assets/MonkIcon2.jpg"
+                    src="~assets/MonkIcon2.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Monk">僧侶</nuxt-link>2個
@@ -73,7 +72,7 @@
               <ul>
                 <li>
                   <img
-                    src="~assets/TurtleShipIcon.jpg"
+                    src="~assets/TurtleShipIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>3個

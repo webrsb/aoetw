@@ -126,7 +126,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Platebardingarmor.jpg" width="45" alt="" />
+                <img src="~assets/scale_barding_armor.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

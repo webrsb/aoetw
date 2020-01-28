@@ -96,19 +96,19 @@
               <div class="unititle">
                 <b-tabs no-fade>
                   <b-tab title="EU">
-                    <img src="~assets/KingA.png" width="45" alt="" />
+                    <img src="~assets/KingA.png" class="img-fluid" alt="" />
                   </b-tab>
                   <b-tab title="NA">
-                    <img src="~assets/KingB.png" width="45" alt="" />
+                    <img src="~assets/KingB.png" class="img-fluid" alt="" />
                   </b-tab>
                   <b-tab title="ME">
-                    <img src="~assets/KingC.png" width="45" alt="" />
+                    <img src="~assets/KingC.png" class="img-fluid" alt="" />
                   </b-tab>
                   <b-tab title="EA">
-                    <img src="~assets/KingD.png" width="45" alt="" />
+                    <img src="~assets/KingD.png" class="img-fluid" alt="" />
                   </b-tab>
                   <b-tab title="AF">
-                    <img src="~assets/KingE.png" width="45" alt="" />
+                    <img src="~assets/KingE.png" class="img-fluid" alt="" />
                   </b-tab>
                 </b-tabs>
               </div>

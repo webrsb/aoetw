@@ -85,7 +85,7 @@
           </p>
           <h3>特殊科技</h3>
           <p>
-            <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+            <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
               to="/techs/Yeomen"
               >義勇騎兵</nuxt-link
             >:步行弓兵射程+1，<nuxt-link to="/building/Watch_Tower"
@@ -93,7 +93,7 @@
             >攻擊+2
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+            <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
               to="/techs/Warwolf"
               >戰狼</nuxt-link
             >:<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
@@ -232,7 +232,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/LongbowmanIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/LongbowmanIcon.png" /><nuxt-link
                 to="/units/Longbowman"
                 >長弓兵</nuxt-link
               >
@@ -247,15 +247,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Yeomen"
                 >義勇騎兵</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Warwolf"
-                >戰狼</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>
             </td>
           </tr>
         </table>

@@ -102,31 +102,35 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Forging.jpg"
+                src="~assets/forging.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Ironcasting.jpg"
+                src="~assets/iron_casting.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Blastfurnace.jpg"
+                src="~assets/blast_furnace.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
-                to="/techs/Farimba"
-                >驃悍精神</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link
               >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
               >限定<br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
-                to="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
@@ -139,7 +143,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Scalebardingarmor.jpg"
+                src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
@@ -153,7 +157,7 @@
               >(+1/+1) <br />
               <img
                 class="gg"
-                src="~assets/Platebardingarmor.jpg"
+                src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
@@ -165,7 +169,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Husbandry.jpg"
+                src="~assets/husbandry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
@@ -176,7 +180,7 @@
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
-              <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
               >
@@ -194,16 +198,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
               >：馬廄工作速率快40%。<nuxt-link to="/civs/Franks"
                 >法蘭克</nuxt-link
               >限定
@@ -223,7 +225,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HalberdierIcon.jpg"
+                      src="~assets/HalberdierIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
@@ -233,7 +235,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/PikemanIcon.jpg"
+                      src="~assets/PikemanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                   </li>
@@ -243,7 +245,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HeavyCamelIcon.jpg"
+                      src="~assets/HeavyCamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
@@ -263,20 +265,20 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/SpearmanIcon.jpg"
+                      src="~assets/SpearmanIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
@@ -309,7 +311,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CamelIcon.jpg"
+                      src="~assets/CamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
                   </li>
@@ -362,7 +364,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EliteEagleWarriorIcon.jpg"
+                      src="~assets/EliteEagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Eagle_Warrior"
                       >精銳鷹勇士</nuxt-link
@@ -374,7 +376,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/EagleWarriorIcon.jpg"
+                      src="~assets/EagleWarriorIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
                   </li>
@@ -386,7 +388,7 @@
           <div class="n1">
             <img
               class="gg"
-              src="~assets/CastleAgeUnique.png"
+              src="~assets/unique_tech.png"
               width="22"
               alt=""
             /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
@@ -399,50 +401,50 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/MilitiaIcon.jpg"
+                  src="~assets/MilitiaIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/ManAtArmsIcon.jpg"
+                  src="~assets/ManAtArmsIcon.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/LongswordsManIcon.jpg"
+                  src="~assets/LongswordsManIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/2HandedswordsmanIcon.jpg"
+                  src="~assets/2HandedswordsmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Two-Handed_Swordsman"
                   >雙手劍兵</nuxt-link
                 >→
                 <img
                   class="gg"
-                  src="~assets/ChampionIcon.jpg"
+                  src="~assets/ChampionIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/SpearmanIcon.jpg"
+                  src="~assets/SpearmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/PikemanIcon.jpg"
+                  src="~assets/PikemanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </li>
               <li>
-                <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >狂戰士</nuxt-link
-                >→ <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                >→ <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                   to="/units/Berserk"
                   >精銳狂戰士</nuxt-link
                 >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
@@ -450,7 +452,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/CondottieroNewIcon.jpg"
+                  src="~assets/CondottieroIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                 >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -651,7 +653,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/KnightIcon.jpg" alt="" width="45" />
+                <img src="~assets/KnightIcon.png" alt="" width="45" />
               </div>
             </td>
           </tr>
@@ -673,11 +675,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -758,7 +759,7 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CavalierIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/CavalierIcon.png" alt="" /><nuxt-link
                 to="/units/Cavalier"
                 >騎兵</nuxt-link
               >
@@ -769,7 +770,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Cavalier-research.jpg"
+                src="~assets/cavaliers.png"
                 alt=""
               />300食物300黃金
             </td>

@@ -127,13 +127,13 @@
           <li>
             <img
               class="gg"
-              src="~assets/ConquistadorIcon.jpg"
+              src="~assets/ConquistadorIcon.png"
               alt=""
             /><nuxt-link to="/units/Conquistador">征服者</nuxt-link
             >：命中率較低，但殺傷力強大的火槍單位，適合集群攻擊。
           </li>
           <li>
-            <img class="gg" src="~assets/MissionaryIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/MissionaryIcon.png" alt="" /><nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
             >：移動速度較快研發科技後<nuxt-link to="/elements/Hit_points"
@@ -144,17 +144,17 @@
           </li>
           <h3>特殊科技</h3>
           <li>
-            <img
-              class="gg"
-              src="~assets/CastleAgeUnique.png"
-              alt=""
-            /><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
+            <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+              to="/techs/Inquisition"
+              >異端審判</nuxt-link
             >：加快僧侶招降速度。
           </li>
           <li>
-            <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-              to="/techs/Supremacy"
-              >霸權</nuxt-link
+            <img
+              class="gg"
+              src="~assets/unique_tech_imperial.png"
+              alt=""
+            /><nuxt-link to="/techs/Supremacy">霸權</nuxt-link
             >：村民具有超強作戰能力。
           </li>
         </div>
@@ -299,13 +299,13 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/ConquistadorIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/ConquistadorIcon.png" /><nuxt-link
                 to="/units/Conquistador"
                 >征服者</nuxt-link
               >
               <br />
               <p>
-                <img class="gg" src="~assets/MissionaryIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/MissionaryIcon.png" /><nuxt-link
                   to="/units/Missionary"
                   >傳教士</nuxt-link
                 >
@@ -323,15 +323,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Inquisition"
                 >異端審判</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Supremacy"
-                >霸權</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Supremacy">霸權</nuxt-link>
             </td>
           </tr>
         </table>

@@ -103,14 +103,14 @@
           </p>
           <h3>特殊科技</h3>
           <p>
-            <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+            <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
               to="/techs/Tigui"
               >部落領袖</nuxt-link
             >：<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >無須駐紮即可放箭。
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+            <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
               to="/techs/Farimba"
               >驃悍精神</nuxt-link
             >：所有騎兵額外獲得+5攻擊。
@@ -241,15 +241,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Tigui"
                 >部落領袖</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Farimba"
-                >驃悍精神</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link>
             </td>
           </tr>
         </table>

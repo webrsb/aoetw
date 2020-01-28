@@ -131,17 +131,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Madrasah">穆斯林學墊</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Madrasah"
+                >穆斯林學墊</nuxt-link
               >：僧侶被殺害後會返回33%資源。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Zealotry"
-                >狂熱舉動</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link
               >：駱駝騎兵/奴隸兵血量+30。
             </li>
           </ul>
@@ -296,15 +296,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Madrasah"
                 >穆斯林學墊</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Zealotry"
-                >狂熱舉動</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link>
             </td>
           </tr>
         </table>

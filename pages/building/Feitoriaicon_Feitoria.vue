@@ -70,13 +70,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -87,7 +87,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
@@ -96,7 +96,7 @@
               >) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -110,14 +110,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -128,7 +128,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -145,7 +145,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -196,7 +196,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Feitoriaicon.png" width="45" alt="" />
+                <img src="~assets/feitoria.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

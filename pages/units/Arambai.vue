@@ -176,9 +176,11 @@
           <tr>
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
-                to="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</nuxt-link
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
@@ -201,7 +203,7 @@
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
               <img
-                src="~assets/Paddedarcherarmor.jpg"
+                src="~assets/padded_archer_armor.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
@@ -211,7 +213,7 @@
           <tr>
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
-              <img src="~assets/Husbandry.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/husbandry.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
               >(+10%)
@@ -222,7 +224,7 @@
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
-              <img src="~assets/Faith.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/faith.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
               >
@@ -231,7 +233,7 @@
           <tr>
             <td class="tta1" style="width:10%">生產速度</td>
             <td class="tta4">
-              <img src="~assets/Conscription.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/conscription.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Conscription"
                 >徵兵制度</nuxt-link
               >(+33%)
@@ -416,7 +418,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Arambaiicon.png" width="45" alt="" />
+                <img src="~assets/Arambaiicon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -447,11 +449,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -459,7 +460,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castleicon.png"
+                src="~assets/castle.png"
                 width="45"
                 alt=""
               /><nuxt-link to="/building/Castle">城堡</nuxt-link>
@@ -589,7 +590,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Elite-unique-research.jpg"
+                src="~assets/elit_unique_unit.png"
                 alt=""
               />1100<nuxt-link to="/resource/Food">食物</nuxt-link>675黃金
             </td>

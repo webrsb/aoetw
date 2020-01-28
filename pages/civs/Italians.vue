@@ -160,7 +160,7 @@
               >有攻擊加成但射程比一般弓兵短。
             </li>
             <li>
-              <img class="gg" src="~assets/CondottieroNewIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/CondottieroIcon.png" /><nuxt-link
                 to="/techs/Mercenaries"
                 >僱傭兵</nuxt-link
               >：義大利的第二種特殊單位，能夠在帝王時代的<nuxt-link
@@ -172,17 +172,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Pavise">巨盾</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Pavise"
+                >巨盾</nuxt-link
               >：弓兵近防/遠防+1。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Silk_Road"
-                >絲綢之路</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link
               >：貿易單位便宜50%。
             </li>
           </ul>
@@ -340,7 +340,7 @@
                 src="~assets/New_Genoese_Crossbowman.png"
               /><nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
               ><br />
-              <img class="gg" src="~assets/CondottieroNewIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/CondottieroIcon.png" /><nuxt-link
                 to="/units/Condottiero"
                 >傭兵</nuxt-link
               >
@@ -355,14 +355,14 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Pavise"
                 >巨盾</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Silk_Road"
-                >絲綢之路</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link>
             </td>
           </tr>
         </table>

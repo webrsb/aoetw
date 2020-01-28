@@ -121,13 +121,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -138,14 +138,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >(護甲+1/+1，+3建築護甲) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -159,14 +159,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -179,7 +179,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -196,7 +196,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -208,7 +208,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Unique-tech.jpg"
+                src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Atheism">無神論</nuxt-link>(<nuxt-link
@@ -231,7 +231,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Wondericon.png" width="45px;" alt="" />
+                <img src="~assets/wonder.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -630,7 +630,7 @@
             </p>
             <p>
               登場戰役：成吉思汗3-<nuxt-link to="/batt/Into_China"
-                >進入中國</nuxt-link
+                >入主中原</nuxt-link
               >
             </p>
           </div>
@@ -728,7 +728,7 @@
             </p>
             <p>
               登場戰役：成吉思汗2-<nuxt-link to="/batt/A_Life_of_Revenge"
-                >復仇的人生</nuxt-link
+                >復仇人生</nuxt-link
               >
             </p>
           </div>
@@ -758,7 +758,7 @@
             </p>
             <p>
               登場戰役：成吉思汗4-<nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
+                >策馬西征</nuxt-link
               >
             </p>
             <br />
@@ -912,7 +912,7 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
               >6-<nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link
-              >、失落的帝國戰役-雙柱城(648)
+              >、失落的帝國戰役-雙池城記(648)
             </p>
           </div>
           <div class="col-md-4">
@@ -984,7 +984,7 @@
             <p>
               位於現今瓜地馬拉的叢林中，蒂卡爾早在2世紀就有人類活動，而大美洲豹則是當地的神廟，傾斜70度角的高聳神廟與哥德式建築有幾分相似，因而得名叢林大教堂。
             </p>
-            <p>登場戰役：失落的帝國戰役-雙柱城(648)</p>
+            <p>登場戰役：失落的帝國戰役-雙池城記(648)</p>
           </div>
           <div class="col-md-4">
             <h3>

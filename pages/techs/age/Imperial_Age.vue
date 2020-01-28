@@ -37,7 +37,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Wondericon.png"
+                src="~assets/wonder.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
@@ -46,7 +46,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Feitoriaicon.png"
+                src="~assets/feitoria.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Feitoriaicon_Feitoria"
@@ -61,7 +61,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Watchtowericon.png"
+                src="~assets/tower.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link
@@ -70,7 +70,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Bombardtowericon.png"
+                src="~assets/bombard_tower.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
@@ -95,7 +95,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/2HandedswordsmanIcon.jpg"
+                src="~assets/2HandedswordsmanIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
@@ -104,7 +104,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/ChampionIcon.jpg"
+                src="~assets/ChampionIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>：劍兵單位。
@@ -112,7 +112,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/HalberdierIcon.jpg"
+                src="~assets/HalberdierIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>：反<nuxt-link
@@ -123,7 +123,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/EliteEagleWarriorIcon.jpg"
+                src="~assets/EliteEagleWarriorIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
@@ -133,7 +133,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CondottieroNewIcon.jpg"
+                src="~assets/CondottieroIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
@@ -149,7 +149,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/ArbalestIcon.jpg"
+                src="~assets/ArbalestIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>：<nuxt-link
@@ -160,7 +160,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/HeavyCavArcherIcon.jpg"
+                src="~assets/HeavyCavArcherIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Heavy_Cavalry_Archer"
@@ -170,7 +170,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/GenitourIcon.jpg"
+                src="~assets/GenitourIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
@@ -181,7 +181,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/HandCannoneerIcon.jpg"
+                src="~assets/HandCannoneerIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
@@ -205,7 +205,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/HeavyCamelIcon.jpg"
+                src="~assets/HeavyCamelIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
@@ -223,7 +223,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CavalierIcon.jpg"
+                src="~assets/CavalierIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>：重裝騎兵單位。
@@ -231,7 +231,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/PaladinIcon.jpg"
+                src="~assets/PaladinIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>：重裝騎兵單位。
@@ -239,7 +239,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/HussarIcon.jpg"
+                src="~assets/HussarIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
@@ -248,7 +248,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/EliteBattleElephantIcon2.png"
+                src="~assets/EliteBattleElephantIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Elite_Battle_Elephant"
@@ -261,7 +261,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Elite-unique-research.jpg"
+                src="~assets/elit_unique_unit.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Unique_Unit">精銳特殊單位</nuxt-link>
@@ -269,7 +269,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TrebuchetUnpackedIcon.jpg"
+                src="~assets/TrebuchetUnpackedIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
@@ -287,7 +287,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/OnagerIcon.jpg"
+                src="~assets/OnagerIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Onager">中型投石車</nuxt-link
@@ -298,7 +298,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/SiegeOnagerIcon.jpg"
+                src="~assets/SiegeOnagerIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
@@ -307,7 +307,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CappedRamIcon.jpg"
+                src="~assets/CappedRamIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
@@ -317,7 +317,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/SiegeRamIcon.jpg"
+                src="~assets/SiegeRamIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
@@ -326,7 +326,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/HeavyScorpionIcon.jpg"
+                src="~assets/HeavyScorpionIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
@@ -335,7 +335,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/BombardCannonIcon.jpg"
+                src="~assets/BombardCannonIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
@@ -349,7 +349,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/GalleonAoE2.jpg"
+                src="~assets/GalleonAoE2.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
@@ -358,7 +358,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/FastFireShipIcon.jpg"
+                src="~assets/FastFireShipIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
@@ -367,7 +367,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/HeavyDemoShipIcon.jpg"
+                src="~assets/HeavyDemoShipIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Heavy_Demolition_Ship"
@@ -377,7 +377,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CannonGalleonIcon.jpg"
+                src="~assets/CannonGalleonIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
@@ -388,7 +388,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CannonGalleonIcon.jpg"
+                src="~assets/CannonGalleonIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Elite_Cannon_Galleon"
@@ -400,7 +400,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/LongboatIcon.jpg"
+                src="~assets/LongboatIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
@@ -411,7 +411,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TurtleShipIcon.jpg"
+                src="~assets/TurtleShipIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
@@ -422,7 +422,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CaravelIcon2.jpg"
+                src="~assets/CaravelIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
@@ -440,7 +440,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Croprotation.jpg"
+                  src="~assets/crop_rotation.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
@@ -454,7 +454,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Twomansaw.jpg"
+                  src="~assets/two-man_saw.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link
@@ -467,7 +467,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Guilds.jpg"
+                  src="~assets/guilds.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Guilds">行會制度</nuxt-link
@@ -481,7 +481,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -498,7 +498,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Parthian-Tactics.jpg"
+                  src="~assets/parthian_tactics.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
@@ -514,7 +514,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Drydock.jpg"
+                  src="~assets/dry_dock.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>：<nuxt-link
@@ -527,7 +527,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Shipwright.jpg"
+                  src="~assets/shipwright.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
@@ -539,7 +539,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/untech">特殊科技</nuxt-link
@@ -550,7 +550,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Hoardings.jpg"
+                  src="~assets/hoardings.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link
@@ -559,7 +559,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Sappers.jpg"
+                  src="~assets/sappers.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link
@@ -568,7 +568,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Conscription.jpg"
+                  src="~assets/conscription.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
@@ -579,7 +579,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Spiestreason.jpg"
+                  src="~assets/spies_treason.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Spies">間諜</nuxt-link
@@ -590,7 +590,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Spiestreason.jpg"
+                  src="~assets/spies_treason.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Spies">叛徒</nuxt-link
@@ -607,7 +607,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Ringarcherarmor.jpg"
+                  src="~assets/ring_archer_armor.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
@@ -631,7 +631,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Blastfurnace.jpg"
+                  src="~assets/blast_furnace.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
@@ -641,7 +641,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Platemailarmor.jpg"
+                  src="~assets/plate_mail_armor.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
@@ -650,7 +650,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Platebardingarmor.jpg"
+                  src="~assets/scale_barding_armor.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
@@ -666,7 +666,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Chemistry.jpg"
+                  src="~assets/chemistry.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Chemistry">化學</nuxt-link
@@ -689,7 +689,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Arrowlits.jpg"
+                  src="~assets/arrowslits.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
@@ -705,7 +705,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Illumination.jpg"
+                  src="~assets/illumination.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link
@@ -716,7 +716,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Faith.jpg"
+                  src="~assets/faith.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
@@ -727,7 +727,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Blockprinting.jpg"
+                  src="~assets/block_printing.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
@@ -809,11 +809,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Imperial-age-research.jpg"
-                  width="45"
-                  alt=""
-                />
+                <img src="~assets/imperial_age.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -831,7 +827,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
@@ -843,19 +839,19 @@
               下面任兩項：<br />
               <img
                 class="gg"
-                src="~assets/Monasteryicon.png"
+                src="~assets/monastery.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Monastery">修道院</nuxt-link><br />
               <img
                 class="gg"
-                src="~assets/Universityicon.png"
+                src="~assets/university.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/University">學院</nuxt-link><br />
               <img
                 class="gg"
-                src="~assets/Siegeworkshopicon.png"
+                src="~assets/siege_workshop.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop"
@@ -864,7 +860,7 @@
               <br />或是直接蓋一座<br />
               <img
                 class="gg"
-                src="~assets/Castleicon.png"
+                src="~assets/castle.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Castle">城堡</nuxt-link>
@@ -875,7 +871,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Towncentericon.png"
+                src="~assets/town_center.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>

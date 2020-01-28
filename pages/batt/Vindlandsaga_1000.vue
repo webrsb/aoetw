@@ -54,7 +54,7 @@
               <img
                 style="margin: 2px;"
                 width="22"
-                src="~assets/VillagerMaleIcon.jpg"
+                src="~assets/VillagerMaleIcon.png"
                 alt=""
               /><nuxt-link to="/units/Villager">村民</nuxt-link>X3
             </li>
@@ -62,7 +62,7 @@
               <img
                 style="margin: 2px;"
                 width="22"
-                src="~assets/VBRSK.jpg"
+                src="~assets/VBRSK.png"
                 alt=""
               /><nuxt-link to="/units/Berserk">狂戰士</nuxt-link>X2
             </li>

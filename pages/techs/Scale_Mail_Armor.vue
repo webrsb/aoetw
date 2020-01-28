@@ -54,7 +54,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Scalemailarmor.jpg" width="45" alt="" />
+                <img src="~assets/scale_mail_armor.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -72,21 +72,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              <img class="gg" src="~assets/feudal_age.png" alt="" /><nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Blacksmithicon.png"
-                alt=""
-              /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
+              <img class="gg" src="~assets/blacksmith.png" alt="" /><nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >
             </td>
           </tr>
           <tr>

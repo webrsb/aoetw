@@ -31,7 +31,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/MonkIcon.jpg"
+                src="~assets/MonkIcon.png"
                 alt=""
               /><nuxt-link to="/units/Monk">僧侶</nuxt-link>
             </li>
@@ -39,7 +39,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/MissionaryIcon.jpg"
+                src="~assets/MissionaryIcon.png"
                 alt=""
               /><nuxt-link to="/units/Missionary">傳教士</nuxt-link>(<nuxt-link
                 to="/civs/Spanish"
@@ -56,7 +56,7 @@
             <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/HussarIcon.png" alt="" /><nuxt-link
                   to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 >
@@ -67,7 +67,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/EliteEagleWarriorIcon.jpg"
+                  src="~assets/EliteEagleWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Elite_Eagle_Warrior"
                   >精銳鷹勇士</nuxt-link
@@ -76,7 +76,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/LightCavalryIcon.jpg"
+                  src="~assets/LightCavalryIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
               </li>
@@ -86,12 +86,12 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/EagleScoutIcon.jpg"
+                  src="~assets/EagleScoutIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/EagleWarriorIcon.jpg"
+                  src="~assets/EagleWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
               </li>
@@ -101,7 +101,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/ScoutCavalryIcon.jpg"
+                  src="~assets/ScoutCavalryIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link>
               </li>

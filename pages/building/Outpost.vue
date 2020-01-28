@@ -70,13 +70,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -87,7 +87,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
@@ -95,7 +95,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -107,14 +107,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -127,7 +127,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -144,7 +144,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -275,7 +275,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Outposticon.png" width="45" alt="" />
+                <img src="~assets/outpost.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -356,17 +356,13 @@
           <tr>
             <td class="unit3">視野</td>
             <td class="unit4">
-              <img src="~assets/Dark-age-logo-small.jpg" width="22" alt="" />6
+              <img src="~assets/dark_age.png" width="22" alt="" />6
               <br />
-              <img src="~assets/Feudal-age-reseach.jpg" width="22" alt="" />8
+              <img src="~assets/feudal_age.png" width="22" alt="" />8
               <br />
-              <img src="~assets/Castle-age-reseach.jpg" width="22" alt="" />10
+              <img src="~assets/castle_age.png" width="22" alt="" />10
               <br />
-              <img
-                src="~assets/Imperial-age-research.jpg"
-                width="22"
-                alt=""
-              />12
+              <img src="~assets/imperial_age.png" width="22" alt="" />12
             </td>
           </tr>
         </table>

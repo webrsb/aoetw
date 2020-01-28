@@ -53,7 +53,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Handcart.jpg" width="45" alt="" />
+                <img src="~assets/hand_cart.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -79,7 +79,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img src="~assets/Wheelbarrow.jpg" alt="" class="gg" /><nuxt-link
+              <img src="~assets/wheelbarrow.png" alt="" class="gg" /><nuxt-link
                 to="/techs/Wheelbarrow"
                 >獨輪推車</nuxt-link
               >

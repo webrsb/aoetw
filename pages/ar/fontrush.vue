@@ -14,7 +14,7 @@
           </p>
           <ul>
             <li>
-              <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/SpearmanIcon.png" alt="" /><nuxt-link
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
               >:攻擊低、<nuxt-link to="/elements/Hit_points">血量</nuxt-link
@@ -24,7 +24,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/SkirmisherIcon.jpg"
+                src="~assets/SkirmisherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>:<nuxt-link
                 to="/units/Skirmisher"
@@ -184,7 +184,7 @@
             <td colspan="2">
               <div class="unititle">
                 <nuxt-link to="/units/Skirmisher"
-                  ><img src="~assets/SkirmisherIcon.jpg" width="45" alt="" />
+                  ><img src="~assets/SkirmisherIcon.png" width="45" alt="" />
                 </nuxt-link>
               </div>
             </td>

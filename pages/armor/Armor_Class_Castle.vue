@@ -30,7 +30,7 @@
         <div class="n1">
           <ul>
             <li>
-              <img width="25px" src="~assets/Castleicon.png" alt="" /><nuxt-link
+              <img width="25px" src="~assets/castle.png" alt="" /><nuxt-link
                 to="/building/Castle"
                 >城堡</nuxt-link
               >
@@ -45,7 +45,7 @@
             <div style="margin:12px 0px;"><strong>+100攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
                   to="/units/Petard"
                   >爆炸桶</nuxt-link
                 >
@@ -54,11 +54,11 @@
             <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                   to="/units/Tarkan"
                   >韃靼騎兵</nuxt-link
                 >→
-                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                   to="/units/Tarkan"
                   >精銳韃靼騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)

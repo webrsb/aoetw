@@ -42,7 +42,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Houseicon.png"
+                src="~assets/house.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/House">房屋</nuxt-link>:提供人口空間
@@ -50,7 +50,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Millicon.png"
+                src="~assets/mill.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Mill">磨坊</nuxt-link>：讓<nuxt-link
@@ -61,7 +61,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Farmicon.png"
+                src="~assets/farm.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Farm">農田</nuxt-link>：提供食物
@@ -69,7 +69,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Lumbercampicon.png"
+                src="~assets/lumber_camp.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
@@ -79,7 +79,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Miningcampicon.png"
+                src="~assets/mining_camp.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
@@ -88,7 +88,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Dockicon.png"
+                src="~assets/dock.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Dock">碼頭</nuxt-link
@@ -106,7 +106,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Barracks-logo.jpg"
+                src="~assets/barracks.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Barracks">軍營</nuxt-link
@@ -120,7 +120,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Outposticon.png"
+                src="~assets/outpost.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Outpost">哨站</nuxt-link
@@ -130,7 +130,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Palisadewallicon.png"
+                src="~assets/palisade.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link
@@ -139,7 +139,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Palisadegateicon.png"
+                src="~assets/palisade_gate.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link
@@ -157,7 +157,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/VillagerMaleIcon.jpg"
+                src="~assets/VillagerMaleIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Villager">村民</nuxt-link
@@ -169,7 +169,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/FishingShipIcon.jpg"
+                src="~assets/FishingShipIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
@@ -178,7 +178,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TransportShipIcon.jpg"
+                src="~assets/TransportShipIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
@@ -197,7 +197,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/MilitiaIcon.jpg"
+                src="~assets/MilitiaIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Militia">民兵</nuxt-link>：基本步兵單位。
@@ -281,7 +281,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Dark-age-logo-small.jpg" width="45" alt="" />
+                <img src="~assets/dark_age.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -299,7 +299,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>

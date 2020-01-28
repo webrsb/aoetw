@@ -10,8 +10,7 @@
           <p>
             <b>屈出律</b>是一位在<nuxt-link to="/batt/Genghis_Khana"
               >成吉思汗</nuxt-link
-            >第二關：<nuxt-link to="/batt/A_Life_of_Revenge"
-              >復仇的人生</nuxt-link
+            >第二關：<nuxt-link to="/batt/A_Life_of_Revenge">復仇人生</nuxt-link
             >中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位。在歷史上，屈出律是乃蠻國的王子，也是成吉思汗的敵人。他在父親被成吉思汗所殺後逃到了西遼並與西遼的公主結婚，但在兩年後便趁著西遼內亂篡奪了岳父的王位。西遼後來被成吉思汗的軍隊所征服，屈出律被俘獲後也被斬首。
           </p>
@@ -19,7 +18,7 @@
             屈出律在遊戲中以<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
             >的外表登場（頭像不一樣），有著極高的能力值。他是成吉思汗第二關：<nuxt-link
               to="/batt/A_Life_of_Revenge"
-              >復仇的人生</nuxt-link
+              >復仇人生</nuxt-link
             >的主要敵人，玩家必須要殺死他才能獲勝。
           </p>
           <p>

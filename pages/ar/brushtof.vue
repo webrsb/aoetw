@@ -13,7 +13,7 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/MilitiaIcon.jpg" alt="" /><nuxt-link
+              <img src="~assets/MilitiaIcon.png" alt="" /><nuxt-link
                 to="/units/Militia"
                 >民兵</nuxt-link
               >:<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
@@ -160,7 +160,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/MilitiaIcon.jpg"
+                  src="~assets/MilitiaIcon.png"
                   width="45"
                   alt=""
                 /><nuxt-link to="/units/Militia"></nuxt-link>

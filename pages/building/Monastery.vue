@@ -71,7 +71,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/MonkIcon.jpg"
+                      src="~assets/MonkIcon.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/units/Monk">僧侶</nuxt-link>
@@ -79,7 +79,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/MissionaryIcon.jpg"
+                      src="~assets/MissionaryIcon.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/units/Missionary">傳教士</nuxt-link>
@@ -87,7 +87,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Redemption.jpg"
+                      src="~assets/redemption.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>
@@ -95,7 +95,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Atonement.jpg"
+                      src="~assets/atonement.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/techs/Atonement">贖罪</nuxt-link>
@@ -119,7 +119,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Sanctity.jpg"
+                      src="~assets/sanctity.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>
@@ -127,7 +127,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Fervor.jpg"
+                      src="~assets/fervor.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link>
@@ -144,7 +144,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Faith.jpg"
+                      src="~assets/faith.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
@@ -152,7 +152,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Illumination.jpg"
+                      src="~assets/illumination.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>
@@ -160,7 +160,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Blockprinting.jpg"
+                      src="~assets/block_printing.png"
                       width="30"
                       alt=""
                     /><nuxt-link to="/techs/Block_Printing"
@@ -208,14 +208,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Masonry.jpg"
+                  src="~assets/masonry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -226,14 +226,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Masonry.jpg"
+                  src="~assets/masonry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                 >(護甲+1/+1，+3建築護甲) <br />
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -247,14 +247,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Townwatch.jpg"
+                  src="~assets/tower_watch.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Townpatrol.jpg"
+                  src="~assets/town_patrol.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -265,7 +265,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Faith.jpg"
+                  src="~assets/faith.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -282,7 +282,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Treadmillcrane.jpg"
+                  src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -454,7 +454,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Monasteryicon.png" width="45" alt="" />
+                <img src="~assets/monastery.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -521,15 +521,11 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />2
+              <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />2 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />3
@@ -538,15 +534,11 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />9
+              <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />9 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />10

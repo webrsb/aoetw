@@ -88,19 +88,19 @@
             <li>
               <img
                 class="gg"
-                src="~assets/BatteringRamIcon.jpg"
+                src="~assets/BatteringRamIcon.png"
                 alt=""
               /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>
             </li>
             <li>
               <img
                 class="gg"
-                src="~assets/BombardCannonIcon.jpg"
+                src="~assets/BombardCannonIcon.png"
                 alt=""
               /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
                 to="/units/Petard"
                 >爆炸桶</nuxt-link
               >
@@ -108,7 +108,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TrebuchetPackedIcon.jpg"
+                src="~assets/TrebuchetPackedIcon.png"
                 alt=""
               /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link>
             </li>
@@ -116,13 +116,13 @@
           <strong>對單位</strong>
           <ul>
             <li>
-              <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/MangonelIcon.png" alt="" /><nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >
             </li>
             <li>
-              <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ScorpionIcon.png" alt="" /><nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
               >
@@ -130,12 +130,12 @@
             <li>
               <img
                 class="gg"
-                src="~assets/BombardCannonIcon.jpg"
+                src="~assets/BombardCannonIcon.png"
                 alt=""
               /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/OrganGunIcon.png" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
                 >風琴砲</nuxt-link
               >
@@ -268,7 +268,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/BatteringRamIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/BatteringRamIcon.png" /><nuxt-link
                   to="/units/Battering_Ram"
                   >輕型衝撞車</nuxt-link
                 >
@@ -290,7 +290,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CappedRamIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/CappedRamIcon.png" /><nuxt-link
                   to="/units/Capped_Ram"
                   >裝甲衝撞車</nuxt-link
                 >
@@ -312,7 +312,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/SiegeRamIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/SiegeRamIcon.png" /><nuxt-link
                   to="/units/Siege_Ram"
                   >重型衝撞車</nuxt-link
                 >
@@ -334,7 +334,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/MangonelIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/MangonelIcon.png" /><nuxt-link
                   to="/units/Mangonel"
                   >輕型投石車</nuxt-link
                 >
@@ -356,7 +356,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/OnagerIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/OnagerIcon.png" /><nuxt-link
                   to="/units/Onager"
                   >中型投石車</nuxt-link
                 >
@@ -378,7 +378,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/SiegeOnagerIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/SiegeOnagerIcon.png" /><nuxt-link
                   to="/units/Siege_Onager"
                   >重型投石車</nuxt-link
                 >
@@ -400,7 +400,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ScorpionIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/ScorpionIcon.png" /><nuxt-link
                   to="/units/Scorpion"
                   >弩砲</nuxt-link
                 >
@@ -422,7 +422,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/HeavyScorpionIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/HeavyScorpionIcon.png" /><nuxt-link
                   to="/units/Heavy_Scorpion"
                   >重型弩砲</nuxt-link
                 >
@@ -466,7 +466,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/BombardCannonIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/BombardCannonIcon.png" /><nuxt-link
                   to="/units/Bombard_Cannon"
                   >火砲</nuxt-link
                 >
@@ -488,7 +488,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/PetardIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/PetardIcon.png" /><nuxt-link
                   to="/units/Petard"
                   >爆炸桶</nuxt-link
                 >
@@ -512,7 +512,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/TrebuchetPackedIcon.jpg"
+                  src="~assets/TrebuchetPackedIcon.png"
                 /><nuxt-link to="/units/Trebuchet">巨型投石機(組裝)</nuxt-link>
               </td>
               <td class="tta3">150</td>
@@ -535,7 +535,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/TrebuchetUnpackedIcon.jpg"
+                  src="~assets/TrebuchetUnpackedIcon.png"
                 /><nuxt-link to="/units/Trebuchet">巨型投石機(拆裝)</nuxt-link>
               </td>
               <td class="tta3">150</td>
@@ -558,7 +558,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/OrganGunIcon.jpg"
+                  src="~assets/OrganGunIcon.png"
                 /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>
               </td>
               <td class="tta3">60</td>
@@ -581,7 +581,7 @@
                 <img
                   class="gg"
                   width="22"
-                  src="~assets/OrganGunIcon.jpg"
+                  src="~assets/OrganGunIcon.png"
                 /><nuxt-link to="/units/Organ_Gun">精銳風琴砲</nuxt-link>
               </td>
               <td class="tta3">70</td>
@@ -678,7 +678,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/Chemistry.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/chemistry.png" alt="" /><nuxt-link
                   to="/techs/Chemistry"
                   >化學</nuxt-link
                 >
@@ -705,7 +705,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
                   to="/techs/Faith"
                   >忠誠信仰</nuxt-link
                 >
@@ -721,7 +721,7 @@
               <td class="tunitc6">
                 <img
                   class="gg"
-                  src="~assets/Conscription.jpg"
+                  src="~assets/conscription.png"
                   alt=""
                 /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
               </td>
@@ -748,7 +748,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/CastleAgeUnique.png"
+                    src="~assets/unique_tech.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
@@ -762,7 +762,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/CastleAgeUnique.png"
+                    src="~assets/unique_tech.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Teutons">條頓</nuxt-link>
@@ -776,7 +776,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Britons">不列顛</nuxt-link>
@@ -792,7 +792,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
@@ -806,7 +806,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Chinese">中國</nuxt-link>
@@ -823,7 +823,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>
@@ -842,7 +842,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Japanese">日本</nuxt-link>
@@ -859,7 +859,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Koreans">韓國</nuxt-link>
@@ -873,7 +873,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
@@ -887,7 +887,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
@@ -901,7 +901,7 @@
               <tr>
                 <td class="tunitc6">
                   <img
-                    src="~assets/Unique-tech.jpg"
+                    src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/civs/Turks">土耳其</nuxt-link>

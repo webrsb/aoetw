@@ -55,7 +55,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/LongbowmanIcon.jpg"
+                src="~assets/LongbowmanIcon.png"
                 alt=""
               /><nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>
             </td>
@@ -71,7 +71,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/CataphractIcon.jpg"
+                src="~assets/CataphractIcon.png"
                 alt=""
               /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>
             </td>
@@ -86,7 +86,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                 to="/units/Woad_Raider"
                 >菘藍武士</nuxt-link
               >
@@ -98,7 +98,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/ChuKoNuIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ChuKoNuIcon.png" alt="" /><nuxt-link
                 to="/units/Chu_Ko_Nu"
                 >連弩兵</nuxt-link
               >
@@ -114,7 +114,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                 to="/units/Throwing_Axeman"
                 >擲斧兵</nuxt-link
               >
@@ -130,7 +130,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/HuskarlIcon.png" alt="" /><nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >
@@ -148,7 +148,7 @@
 
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
               >
@@ -169,7 +169,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/MangudaiIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/MangudaiIcon.png" alt="" /><nuxt-link
                 to="/units/Mangudai"
                 >蒙古突騎</nuxt-link
               >
@@ -187,7 +187,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/WarElephantIcon.jpg"
+                src="~assets/WarElephantIcon.png"
                 alt=""
               /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link>
             </td>
@@ -239,7 +239,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/JanissaryIcon.jpg"
+                src="~assets/JanissaryIcon.png"
                 alt=""
               /><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>
             </td>
@@ -250,7 +250,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                 to="/units/Berserk"
                 >狂戰士</nuxt-link
               >
@@ -283,7 +283,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/JaguarWarriorIcon.jpg"
+                src="~assets/JaguarWarriorIcon.png"
                 alt=""
               /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>
             </td>
@@ -294,7 +294,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                 to="/units/Tarkan"
                 >韃靼騎兵</nuxt-link
               >
@@ -312,7 +312,7 @@
 
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/WarWagonIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/WarWagonIcon.png" alt="" /><nuxt-link
                 to="/units/War_Wagon"
                 >馬戰車</nuxt-link
               >
@@ -331,7 +331,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/PlumedArcherIcon.jpg"
+                src="~assets/PlumedArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>
             </td>
@@ -348,7 +348,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/ConquistadorIcon.jpg"
+                src="~assets/ConquistadorIcon.png"
                 alt=""
               /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>
             </td>
@@ -394,7 +394,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>
             </td>
@@ -427,7 +427,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/Magyar_Huszar_icon.jpg"
+                src="~assets/Magyar_Huszar_icon.png"
                 alt=""
               /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>
             </td>
@@ -467,7 +467,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.jpg"
+                src="~assets/CamelArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
             </td>
@@ -509,7 +509,7 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/OrganGunIcon.png" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
                 >風琴砲</nuxt-link
               >
@@ -610,7 +610,7 @@
                 <td class="tunitc6">
                   <img
                     class="gg"
-                    src="~assets/LongboatIcon.jpg"
+                    src="~assets/LongboatIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
                 </td>
@@ -628,7 +628,7 @@
                 <td class="tunitc6">
                   <img
                     class="gg"
-                    src="~assets/TurtleShipIcon.jpg"
+                    src="~assets/TurtleShipIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>
                 </td>
@@ -641,7 +641,7 @@
                 <td class="tunitc6">
                   <img
                     class="gg"
-                    src="~assets/MissionaryIcon.jpg"
+                    src="~assets/MissionaryIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Missionary">傳教士</nuxt-link>
                 </td>
@@ -703,7 +703,7 @@
                 <td class="tunitc6">
                   <img
                     class="gg"
-                    src="~assets/CaravelIcon2.jpg"
+                    src="~assets/CaravelIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>
                 </td>
@@ -728,7 +728,7 @@
                     <td class="tunitc6">
                       <img
                         class="gg"
-                        src="~assets/CondottieroNewIcon.jpg"
+                        src="~assets/CondottieroIcon.png"
                         alt=""
                       /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
                     </td>
@@ -746,7 +746,7 @@
                     <td class="tunitc6">
                       <img
                         class="gg"
-                        src="~assets/GenitourIcon.jpg"
+                        src="~assets/GenitourIcon.png"
                         alt=""
                       /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
                     </td>

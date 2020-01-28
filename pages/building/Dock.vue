@@ -84,13 +84,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/FishingShipIcon.jpg"
+                      src="~assets/FishingShipIcon.png"
                     /><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/TransportShipIcon.jpg"
+                      src="~assets/TransportShipIcon.png"
                     /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>
                   </li>
                 </ul>
@@ -103,23 +103,23 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/FireGalleyIcon.jpg"
+                      src="~assets/FireGalleyIcon.png"
                     /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/TradeCogIcon.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/TradeCogIcon.png" /><nuxt-link
                       to="/units/Trade_Cog"
                       >貿易商旅</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/DemoRaftIcon.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/DemoRaftIcon.png" /><nuxt-link
                       to="/units/Demolition_Raft"
                       >自爆筏</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Galley.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/Galley.png" /><nuxt-link
                       to="/units/Galley"
                       >戰船</nuxt-link
                     >
@@ -132,25 +132,25 @@
                 <h4>城堡時代</h4>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/FireShipIcon.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/FireShipIcon.png" /><nuxt-link
                       to="/units/Fire_Ship"
                       >火戰船</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/DemoShipIcon.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/DemoShipIcon.png" /><nuxt-link
                       to="/units/Demolition_Ship"
                       >神風船</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/WarGalley.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/WarGalley.png" /><nuxt-link
                       to="/units/War_Galley"
                       >弩砲戰船</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/LongboatIcon.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/LongboatIcon.png" /><nuxt-link
                       to="/units/Longboat"
                       >維京大戰船</nuxt-link
                     >
@@ -158,11 +158,11 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/TurtleShipIcon.jpg"
+                      src="~assets/TurtleShipIcon.png"
                     /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/CaravelIcon2.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/CaravelIcon.png" /><nuxt-link
                       to="/units/Caravel"
                       >卡拉維爾戰船</nuxt-link
                     >
@@ -171,7 +171,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/Careening.jpg"
+                      src="~assets/careening.png"
                       alt=""
                     /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>
                   </li>
@@ -179,7 +179,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/Gillnetsicon.jpg"
+                      src="~assets/gillnets.png"
                       alt=""
                     /><nuxt-link to="/techs/Gillnets">流刺網</nuxt-link>
                   </li>
@@ -193,7 +193,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/FastFireShipIcon.jpg"
+                      src="~assets/FastFireShipIcon.png"
                     /><nuxt-link to="/units/Fast_Fire_Ship"
                       >快速火戰船</nuxt-link
                     >
@@ -201,13 +201,13 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                     /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.jpg"
+                      src="~assets/CannonGalleonIcon.png"
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
@@ -215,19 +215,19 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/HeavyDemoShipIcon.jpg"
+                      src="~assets/HeavyDemoShipIcon.png"
                     /><nuxt-link to="/units/Heavy_Demolition_Ship"
                       >重型神風船</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/GalleonAoE2.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/GalleonAoE2.png" /><nuxt-link
                       to="/units/Galleon"
                       >重型弩砲戰船</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/LongboatIcon.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/LongboatIcon.png" /><nuxt-link
                       to="/units/Longboat"
                       >精銳維京大戰船</nuxt-link
                     >
@@ -235,11 +235,11 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/TurtleShipIcon.jpg"
+                      src="~assets/TurtleShipIcon.png"
                     /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/CaravelIcon2.jpg" /><nuxt-link
+                    <img class="gg" src="~assets/CaravelIcon.png" /><nuxt-link
                       to="/units/Caravel"
                       >精銳卡拉維爾戰船</nuxt-link
                     >
@@ -248,7 +248,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/Drydock.jpg"
+                      src="~assets/dry_dock.png"
                       alt=""
                     /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>
                   </li>
@@ -256,7 +256,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/Shipwright.jpg"
+                      src="~assets/shipwright.png"
                       alt=""
                     /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>
                   </li>
@@ -293,14 +293,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Masonry.jpg"
+                  src="~assets/masonry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -311,14 +311,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Masonry.jpg"
+                  src="~assets/masonry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                 >(護甲+1/+1，+3建築護甲) <br />
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -332,14 +332,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Townwatch.jpg"
+                  src="~assets/tower_watch.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Townpatrol.jpg"
+                  src="~assets/town_patrol.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -352,7 +352,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Faith.jpg"
+                  src="~assets/faith.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -369,7 +369,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Treadmillcrane.jpg"
+                  src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -381,7 +381,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Shipwright.jpg"
+                  src="~assets/shipwright.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
@@ -544,7 +544,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Dockicon.png" width="45" alt="" />
+                <img src="~assets/dock.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -608,27 +608,15 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/dark_age.png" width="30" alt="" />0
+              <br />
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />1
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />2
+              <br />
               <img
                 class="gg"
-                src="~assets/Dark-age-logo-small.jpg"
-                width="30"
-                alt=""
-              />0 <br />
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                width="30"
-                alt=""
-              />1 <br />
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />2 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />3
@@ -637,27 +625,15 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/dark_age.png" width="30" alt="" />7
+              <br />
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />8
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />9
+              <br />
               <img
                 class="gg"
-                src="~assets/Dark-age-logo-small.jpg"
-                width="30"
-                alt=""
-              />7 <br />
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                width="30"
-                alt=""
-              />8 <br />
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />9 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />10

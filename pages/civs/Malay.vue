@@ -153,19 +153,19 @@
           <h3>特殊科技</h3>
           <ul>
             <p>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Thalassocracy"
+                >海上霸主</nuxt-link
               >：碼頭升級成可射箭、更堅固的<nuxt-link to="/building/Harbor"
                 >海港</nuxt-link
               >，簡稱海上城堡。
             </p>
             <p>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Forced_Levy"
-                >強制徵兵</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link
               >：民兵系列不需要黃金。
             </p>
           </ul>
@@ -273,15 +273,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Thalassocracy"
                 >海上霸主</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Forced_Levy"
-                >強制徵兵</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link>
             </td>
           </tr>
         </table>

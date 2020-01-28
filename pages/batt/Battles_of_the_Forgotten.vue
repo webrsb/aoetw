@@ -43,7 +43,7 @@
                   </li>
                   <li>
                     <nuxt-link to="/batt/Dos_Pilas_648"
-                      >雙柱城（648）</nuxt-link
+                      >雙池城記（648）</nuxt-link
                     >
                     <p>
                       <nuxt-link to="/civs">文明</nuxt-link>：<nuxt-link

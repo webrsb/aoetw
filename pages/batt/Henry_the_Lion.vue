@@ -200,7 +200,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</nuxt-link>
+              <nuxt-link to="/batt/Holy_Roman_Emperor">羅馬皇帝</nuxt-link>
             </td>
           </tr>
           <tr>

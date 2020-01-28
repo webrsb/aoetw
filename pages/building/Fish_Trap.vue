@@ -115,13 +115,13 @@
             <td class="tta1">
               <img
                 class="gg"
-                src="~assets/Farmicon.png"
+                src="~assets/farm.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/building/Farm">農田</nuxt-link>(研發
               <img
                 class="gg"
-                src="~assets/Horsecollar.jpg"
+                src="~assets/horse_collar.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>+75)
@@ -133,13 +133,13 @@
             <td class="tta1">
               <img
                 class="gg"
-                src="~assets/Farmicon.png"
+                src="~assets/farm.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/building/Farm">農田</nuxt-link>(研發
               <img
                 class="gg"
-                src="~assets/Heavyplow.jpg"
+                src="~assets/heavy_plow.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>+125)
@@ -151,13 +151,13 @@
             <td class="tta1">
               <img
                 class="gg"
-                src="~assets/Farmicon.png"
+                src="~assets/farm.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/building/Farm">農田</nuxt-link>(研發
               <img
                 class="gg"
-                src="~assets/Croprotation.jpg"
+                src="~assets/crop_rotation.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>+175)
@@ -169,7 +169,7 @@
             <td class="tta1">
               <img
                 class="gg"
-                src="~assets/FishingShipIcon.jpg"
+                src="~assets/FishingShipIcon.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>
@@ -181,13 +181,13 @@
             <td class="tta1">
               <img
                 class="gg"
-                src="~assets/FishingShipIcon.jpg"
+                src="~assets/FishingShipIcon.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>+
               <img
                 class="gg"
-                src="~assets/Fishtrapicon.png"
+                src="~assets/fish_trap.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/building/Fish_Trap">漁網</nuxt-link>
@@ -299,7 +299,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Fishtrapicon.png" width="45" alt="" />
+                <img src="~assets/fish_trap.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

@@ -21,13 +21,13 @@
               </h4>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/ArcherIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/ArcherIcon.png" /><nuxt-link
                     to="/units/Archer"
                     >弓兵</nuxt-link
                   >
                 </li>
                 <li>
-                  <img class="gg" src="~assets/SkirmisherIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/SkirmisherIcon.png" /><nuxt-link
                     to="/units/Skirmisher"
                     >矛兵</nuxt-link
                   >
@@ -42,7 +42,7 @@
               </h4>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/CrossbowmanIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/CrossbowmanIcon.png" /><nuxt-link
                     to="/units/Crossbowman"
                     >弩兵</nuxt-link
                   >
@@ -50,13 +50,13 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/EliteSkirmisherIcon.jpg"
+                    src="~assets/EliteSkirmisherIcon.png"
                   /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                 </li>
                 <li>
                   <img
                     class="gg"
-                    src="~assets/CavalryArcherIcon.jpg"
+                    src="~assets/CavalryArcherIcon.png"
                   /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
                 </li>
                 <li>
@@ -66,7 +66,7 @@
                   >
                 </li>
                 <li>
-                  <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/GenitourIcon.png" /><nuxt-link
                     to="/units/Genitour"
                     >標槍騎兵</nuxt-link
                   >
@@ -87,7 +87,7 @@
               </h4>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/ArbalestIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/ArbalestIcon.png" /><nuxt-link
                     to="/units/Arbalest"
                     >強弩兵</nuxt-link
                   >
@@ -103,7 +103,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/HeavyCavArcherIcon.jpg"
+                    src="~assets/HeavyCavArcherIcon.png"
                   /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                     >重裝馬弓騎兵</nuxt-link
                   >
@@ -111,11 +111,11 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/HandCannoneerIcon.jpg"
+                    src="~assets/HandCannoneerIcon.png"
                   /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+                  <img class="gg" src="~assets/GenitourIcon.png" /><nuxt-link
                     to="/units/Genitour"
                     >精銳標槍騎兵</nuxt-link
                   >
@@ -123,7 +123,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/Parthian-Tactics.jpg"
+                    src="~assets/parthian_tactics.png"
                   /><nuxt-link to="/techs/Parthian_Tactics"
                     >帕提亞戰術</nuxt-link
                   >
@@ -161,14 +161,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>（+10%）
               <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>（+10%）
@@ -179,14 +179,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >（護甲+1／+1，+3建築護甲）<br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -200,14 +200,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>（+4）
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>（+4）
@@ -220,7 +220,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -237,7 +237,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -249,7 +249,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>（+33%）
@@ -376,7 +376,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Acheryrangeicon.png" width="45" alt="" />
+                <img src="~assets/Acheryrangeicon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -434,19 +434,19 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="30"
                 alt=""
               />1500 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />1800 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />2100
@@ -459,21 +459,13 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />1
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />2
+              <br />
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                width="30"
-                alt=""
-              />1 <br />
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />2 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />3
@@ -482,21 +474,13 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />8
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />9
+              <br />
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                width="30"
-                alt=""
-              />8 <br />
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />9 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />10

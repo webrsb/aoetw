@@ -105,7 +105,7 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/WarWagonIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/WarWagonIcon.png" alt="" /><nuxt-link
                 to="/units/War_Wagon"
                 >馬戰車</nuxt-link
               >：韓國特殊單位，重裝的<nuxt-link
@@ -116,7 +116,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TurtleShipIcon.jpg"
+                src="~assets/TurtleShipIcon.png"
                 alt=""
               /><nuxt-link to="/armor/Armor_Class_Turtle_Ship">龜甲船</nuxt-link
               >：慢的鐵製槳帆戰船用於摧毀近距離敵艦。
@@ -125,18 +125,20 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Panokseon">板屋船</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Panokseon"
+                >板屋船</nuxt-link
               >:龜甲船移動速度快15%。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Shinkichon"
-                >神機箭</nuxt-link
-              >:<nuxt-link to="/units/Mangonel">投石車</nuxt-link>+1射程。
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>:<nuxt-link
+                to="/units/Mangonel"
+                >投石車</nuxt-link
+              >+1射程。
             </li>
           </ul>
         </div>
@@ -286,11 +288,11 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/WarWagonIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/WarWagonIcon.png" /><nuxt-link
                 to="/units/War_Wagon"
                 >馬戰車</nuxt-link
               ><br />
-              <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/TurtleShipIcon.png" /><nuxt-link
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >
@@ -303,14 +305,14 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Panokseon"
                 >板屋船</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Shinkichon"
-                >神機箭</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>
             </td>
           </tr>
         </table>

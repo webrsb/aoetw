@@ -177,17 +177,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Chatras"
+                >恰特拉傘</nuxt-link
               >：矛象伕血量+50。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Paper_Money"
-                >紙幣</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Paper_Money">紙幣</nuxt-link
               >：花800食物200黃金換取盟友與自己各收到500黃金。
             </li>
           </ul>
@@ -305,15 +305,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Chatras"
                 >恰特拉傘</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Paper_Money"
-                >紙幣</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Paper_Money">紙幣</nuxt-link>
             </td>
           </tr>
         </table>

@@ -64,7 +64,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Ironcasting.jpg" width="45" alt="" />
+                <img src="~assets/iron_casting.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -94,7 +94,7 @@
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Forging.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/forging.png" alt="" /><nuxt-link
                 to="/techs/Forging"
                 >鍛造</nuxt-link
               >
@@ -103,10 +103,11 @@
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><nuxt-link
-                to="/techs/Blast_Furnace"
-                >鼓風爐</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/blast_furnace.png"
+                alt=""
+              /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
             </td>
           </tr>
           <tr>

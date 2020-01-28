@@ -72,11 +72,10 @@
             <ul>
               <li>
                 <strong>起始時代：</strong>
-                <img
-                  class="gg"
-                  src="~assets/Feudal-age-reseach.jpg"
-                  alt=""
-                /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+                <img class="gg" src="~assets/feudal_age.png" alt="" /><nuxt-link
+                  to="/techs/age/Feudal_Age"
+                  >封建時代</nuxt-link
+                >
               </li>
               <li>
                 <strong>起始資源：</strong>500<nuxt-link to="/resource/Food"
@@ -109,12 +108,12 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/ScoutCavalryIcon.jpg"
+                  src="~assets/ScoutCavalryIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>
               </li>
               <li>
-                <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/KnightIcon.png" alt="" /><nuxt-link
                   to="/units/Knight"
                   >騎士</nuxt-link
                 >*4
@@ -122,21 +121,21 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/PikemanIcon.jpg"
+                  src="~assets/PikemanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>*4
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/CrossbowmanIcon.jpg"
+                  src="~assets/CrossbowmanIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>*12
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/VillagerMaleIcon.jpg"
+                  src="~assets/VillagerMaleIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Villager">村民</nuxt-link>*4
               </li>
@@ -148,14 +147,14 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/TransportShipIcon.jpg"
+                  src="~assets/TransportShipIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>*2
               </li>
               <li>
                 <img
                   class="gg"
-                  src="~assets/DemoShipIcon.jpg"
+                  src="~assets/DemoShipIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>*2
               </li>

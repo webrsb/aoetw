@@ -58,7 +58,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Horsecollar.jpg" width="45" alt="" />
+                <img src="~assets/horse_collar.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -76,11 +76,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                alt=""
-              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              <img class="gg" src="~assets/feudal_age.png" alt="" /><nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -95,7 +94,7 @@
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Heavyplow.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/heavy_plow.png" alt="" /><nuxt-link
                 to="/techs/Heavy_Plow"
                 >重犁</nuxt-link
               >

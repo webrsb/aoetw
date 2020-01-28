@@ -78,14 +78,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/VillagerMaleIcon.jpg"
+                      src="~assets/VillagerMaleIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Villager">村民</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Feudal-age-reseach.jpg"
+                      src="~assets/feudal_age.png"
                       alt=""
                     /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
                   </li>
@@ -107,21 +107,21 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Townwatch.jpg"
+                      src="~assets/tower_watch.png"
                       alt=""
                     /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Castle-age-reseach.jpg"
+                      src="~assets/castle_age.png"
                       alt=""
                     /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Wheelbarrow.jpg"
+                      src="~assets/wheelbarrow.png"
                       alt=""
                     /><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>
                   </li>
@@ -137,14 +137,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Townpatrol.jpg"
+                      src="~assets/town_patrol.png"
                       alt=""
                     /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Imperial-age-research.jpg"
+                      src="~assets/imperial_age.png"
                       alt=""
                     /><nuxt-link to="/techs/age/Imperial_Age"
                       >帝王時代</nuxt-link
@@ -153,7 +153,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Handcart.jpg"
+                      src="~assets/hand_cart.png"
                       alt=""
                     /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>
                   </li>
@@ -196,14 +196,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Masonry.jpg"
+                  src="~assets/masonry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -214,13 +214,13 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Fletching.jpg"
+                  src="~assets/fletching.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
                 <img
                   class="gg"
-                  src="~assets/Bodkinarrow.jpg"
+                  src="~assets/bodkin_arrow.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
@@ -233,13 +233,13 @@
                 /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
                 <img
                   class="gg"
-                  src="~assets/Chemistry.jpg"
+                  src="~assets/chemistry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
                 <img
                   class="gg"
-                  src="~assets/CastleAgeUnique.png"
+                  src="~assets/unique_tech.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Tigui">部落領袖</nuxt-link
@@ -265,14 +265,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Masonry.jpg"
+                  src="~assets/masonry.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                 >(護甲+1/+1，+3建築護甲) <br />
                 <img
                   class="gg"
-                  src="~assets/Architecture.jpg"
+                  src="~assets/architecture.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -286,14 +286,14 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Townwatch.jpg"
+                  src="~assets/tower_watch.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Townpatrol.jpg"
+                  src="~assets/town_patrol.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -304,7 +304,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Treadmillcrane.jpg"
+                  src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -323,7 +323,7 @@
                 >:增加駐守單位回血速度<br />
                 <img
                   class="gg"
-                  src="~assets/Unique-tech.jpg"
+                  src="~assets/unique_tech_imperial.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
@@ -564,7 +564,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Towncentericon.png" width="45" alt="" />
+                <img src="~assets/town_center.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -668,27 +668,15 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/dark_age.png" width="30" alt="" />3
+              <br />
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />4
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />5
+              <br />
               <img
                 class="gg"
-                src="~assets/Dark-age-logo-small.jpg"
-                width="30"
-                alt=""
-              />3 <br />
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                width="30"
-                alt=""
-              />4 <br />
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />5 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />6
@@ -697,27 +685,15 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/dark_age.png" width="30" alt="" />5
+              <br />
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />6
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />7
+              <br />
               <img
                 class="gg"
-                src="~assets/Dark-age-logo-small.jpg"
-                width="30"
-                alt=""
-              />5 <br />
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                width="30"
-                alt=""
-              />6 <br />
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />7 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />8

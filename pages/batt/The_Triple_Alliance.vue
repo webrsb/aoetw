@@ -21,11 +21,10 @@
           <ul>
             <li>
               起始時代:
-              <img
-                src="~assets/Feudal-age-reseach.jpg"
-                class="gg"
-                alt=""
-              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              <img src="~assets/feudal_age.png" class="gg" alt="" /><nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >
             </li>
             <li>
               起始資源:<nuxt-link to="/resource/Wood">木頭</nuxt-link
@@ -39,7 +38,7 @@
               <ul>
                 <li>
                   <img
-                    src="~assets/EagleWarriorIcon.jpg"
+                    src="~assets/EagleWarriorIcon.png"
                     class="gg"
                     alt=""
                   /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>4個

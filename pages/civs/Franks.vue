@@ -134,7 +134,7 @@
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                 to="/units/Throwing_Axeman"
                 >擲斧兵</nuxt-link
               >：<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
@@ -146,17 +146,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
               >：馬廄工作效率+40%。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Bearded_Axe"
-                >倒鉤斧</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link
               >：擲斧兵射程+1。
             </li>
           </ul>
@@ -229,11 +229,9 @@
             </li>
             <li>
               引入特殊科技：
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
               >：馬廄工作效率+40%。
             </li>
           </ul>
@@ -286,7 +284,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/TAXEM.jpg" /><nuxt-link
+              <img class="gg" src="~assets/TAXEM.png" /><nuxt-link
                 to="/units/Throwing_Axeman"
                 >擲斧兵</nuxt-link
               >
@@ -301,15 +299,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Chivalry"
                 >騎士精神</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Bearded_Axe"
-                >倒鉤斧</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link>
             </td>
           </tr>
         </table>

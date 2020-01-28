@@ -104,7 +104,7 @@
           <h3><strong>特殊單位</strong></h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/HuskarlIcon.png" alt="" /><nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >：快速的步兵，且有異常高的<nuxt-link to="/armor"
@@ -115,17 +115,17 @@
           <h3><strong>特殊科技</strong></h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Anarchy"
+                >無政府狀態</nuxt-link
               >：軍營可以生產哥德衛隊。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Perfusion"
-                >灌注士氣</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
               >：軍營生產單位速度快100%。
             </li>
           </ul>
@@ -335,9 +335,7 @@
             <tr>
               <td class="tta1">
                 <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
-                >1-<nuxt-link to="/batt/Holy_Roman_Emperor"
-                  >神聖羅馬皇帝</nuxt-link
-                >
+                >1-<nuxt-link to="/batt/Holy_Roman_Emperor">羅馬皇帝</nuxt-link>
               </td>
               <td class="tta2">
                 <span class="fas fa-times" style="color: #d9534f;"></span>
@@ -365,7 +363,7 @@
               <td class="tta1">
                 <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link
                 >4-<nuxt-link to="/batt/The_Horde_Rides_West"
-                  >遊牧民族的西遷</nuxt-link
+                  >策馬西征</nuxt-link
                 >
               </td>
               <td class="tta2">
@@ -732,7 +730,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/HuskarlIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/HuskarlIcon.png" /><nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >
@@ -748,15 +746,15 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Anarchy"
                 >無政府狀態</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Perfusion"
-                >灌注士氣</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>
             </td>
           </tr>
         </table>

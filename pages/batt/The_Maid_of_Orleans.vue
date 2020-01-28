@@ -25,7 +25,7 @@
               <td class="tc2" width="20%">
                 <img
                   class="gg"
-                  src="~assets/Feudal-age-reseach.jpg"
+                  src="~assets/feudal_age.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
@@ -120,16 +120,16 @@
               ><br />
               <img
                 class="gg"
-                src="~assets/ScoutCavalryIcon.jpg"
+                src="~assets/ScoutCavalryIcon.png"
                 alt=""
               /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link><br />
-              <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/KnightIcon.png" alt="" /><nuxt-link
                 to="/units/Knight"
                 >騎士</nuxt-link
               >*4<br />
               <img
                 class="gg"
-                src="~assets/2HandedswordsmanIcon.jpg"
+                src="~assets/2HandedswordsmanIcon.png"
                 alt=""
               /><nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
               >*2
@@ -138,26 +138,26 @@
             <dd>
               <img
                 class="gg"
-                src="~assets/CrossbowmanIcon.jpg"
+                src="~assets/CrossbowmanIcon.png"
                 alt=""
               /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>*12<br />
-              <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/KnightIcon.png" alt="" /><nuxt-link
                 to="/units/Knight"
                 >騎士</nuxt-link
               >*8<br />
               <img
                 class="gg"
-                src="~assets/TradeCartIcon.jpg"
+                src="~assets/TradeCartIcon.png"
                 alt=""
               /><nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>*6<br />
               <img
                 class="gg"
-                src="~assets/VillagerMaleIcon.jpg"
+                src="~assets/VillagerMaleIcon.png"
                 alt=""
               /><nuxt-link to="/units/Villager">村民</nuxt-link>*3<br />
               <img
                 class="gg"
-                src="~assets/TransportShipIcon.jpg"
+                src="~assets/TransportShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>*2
             </dd>

@@ -46,7 +46,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CondottieroNewIcon.jpg"
+                src="~assets/CondottieroIcon.png"
                 alt=""
               /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>(<nuxt-link
                 to="/civs/Italians"
@@ -65,7 +65,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/CataphractIcon.jpg"
+                  src="~assets/CataphractIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
@@ -73,7 +73,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Slinger_Icon.jpg"
+                  src="~assets/Slinger_Icon.png"
                   alt=""
                 /><nuxt-link to="/units/Slinger">投石手</nuxt-link> (<nuxt-link
                   to="/civs/Incas"
@@ -83,12 +83,12 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/JaguarWarriorIcon.jpg"
+                  src="~assets/JaguarWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/JaguarWarriorIcon.jpg"
+                  src="~assets/JaguarWarriorIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Jaguar_Warrior">精銳豹勇士</nuxt-link
                 >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
@@ -99,7 +99,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/CataphractIcon.jpg"
+                  src="~assets/CataphractIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
@@ -110,7 +110,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/PlumedArcherIcon.jpg"
+                  src="~assets/PlumedArcherIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Plumed_Archer">精銳羽毛箭射手</nuxt-link
                 >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
@@ -121,7 +121,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/PlumedArcherIcon.jpg"
+                  src="~assets/PlumedArcherIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                 >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)

@@ -35,20 +35,20 @@
             >。
           </p>
           <ul>
-            <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><nuxt-link
+            <img class="gg" src="~assets/OnagerIcon.png" alt="" /><nuxt-link
               to="/units/Onager"
               >中型投石車</nuxt-link
             >(從<nuxt-link to="/games/aof">失落的帝國</nuxt-link
             >版本開始)→
             <img
               class="gg"
-              src="~assets/SiegeOnagerIcon.jpg"
+              src="~assets/SiegeOnagerIcon.png"
               alt=""
             /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
             <li>
               <img
                 class="gg"
-                src="~assets/TrebuchetUnpackedIcon.jpg"
+                src="~assets/TrebuchetUnpackedIcon.png"
                 alt=""
               /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
             </li>

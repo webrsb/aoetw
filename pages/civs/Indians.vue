@@ -133,7 +133,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/ElephantArcherIcon.jpg"
+                src="~assets/ElephantArcherIcon.png"
                 alt=""
               /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
               >：超重裝馬弓騎兵，對馬建築物/<nuxt-link to="/building/Stone_Wall"
@@ -154,17 +154,17 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img
-                class="gg"
-                src="~assets/CastleAgeUnique.png"
-                alt=""
-              /><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Sultans"
+                >蘇丹</nuxt-link
               >：黃金收入的效率一律+10%。
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" alt="" /><nuxt-link
-                to="/techs/Shatagni"
-                >印度火槍</nuxt-link
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                alt=""
+              /><nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link
               >：火槍兵射程+1。
             </li>
           </ul>
@@ -308,7 +308,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/ElephantArcherIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/ElephantArcherIcon.png" /><nuxt-link
                 to="/units/Elephant_Archer"
                 >象弓騎兵</nuxt-link
               >
@@ -332,14 +332,14 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Sultans"
                 >蘇丹</nuxt-link
               ><br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="/techs/Shatagni"
-                >印度火槍</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+              /><nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link>
             </td>
           </tr>
         </table>

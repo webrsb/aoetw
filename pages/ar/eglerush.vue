@@ -19,7 +19,7 @@
           <ul>
             <li>
               <img
-                src="~assets/EagleScoutIcon.jpg"
+                src="~assets/EagleScoutIcon.png"
                 width="30px"
                 alt=""
               /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
@@ -168,7 +168,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="45px" src="~assets/EagleScoutIcon.jpg" alt="" />
+                <img width="45px" src="~assets/EagleScoutIcon.png" alt="" />
               </div>
             </td>
           </tr>

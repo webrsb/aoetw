@@ -17,6 +17,7 @@
             <td class="unit3">
               <nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>•
               <nuxt-link to="/techs/Squires">護衛</nuxt-link>•
+              <nuxt-link to="/techs/Supplies">供給</nuxt-link>•
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>
             </td>
           </tr>

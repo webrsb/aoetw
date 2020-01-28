@@ -25,7 +25,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/MilitiaIcon.jpg"
+                  src="~assets/MilitiaIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Militia">民兵</nuxt-link>
               </li>
@@ -40,7 +40,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/ManAtArmsIcon.jpg"
+                    src="~assets/ManAtArmsIcon.png"
                     width="22"
                     alt=""
                   /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>
@@ -48,12 +48,12 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/SpearmanIcon.jpg"
+                    src="~assets/SpearmanIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/Tracking.jpg" alt="" /><nuxt-link
+                  <img class="gg" src="~assets/tracking.png" alt="" /><nuxt-link
                     to="/techs/Tracking"
                     >追蹤技術</nuxt-link
                   >
@@ -61,7 +61,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/EagleScoutIcon.jpg"
+                    src="~assets/EagleScoutIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
                   >(南美<nuxt-link to="/civs">文明</nuxt-link>限定)
@@ -78,33 +78,33 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/LongswordsManIcon.jpg"
+                    src="~assets/LongswordsManIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
                 </li>
                 <li>
                   <img
                     class="gg"
-                    src="~assets/PikemanIcon.jpg"
+                    src="~assets/PikemanIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                 </li>
                 <li>
                   <img
                     class="gg"
-                    src="~assets/EagleWarriorIcon.jpg"
+                    src="~assets/EagleWarriorIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
                   >(南美文明限定)
                 </li>
                 <li>
-                  <img class="gg" src="~assets/Squires.jpg" alt="" /><nuxt-link
+                  <img class="gg" src="~assets/squires.png" alt="" /><nuxt-link
                     to="/techs/Squires"
                     >護衛</nuxt-link
                   >
                 </li>
                 <li>
-                  <img class="gg" src="~assets/Arson.jpg" alt="" /><nuxt-link
+                  <img class="gg" src="~assets/Arson.png" alt="" /><nuxt-link
                     to="/techs/Arson"
                     >縱火</nuxt-link
                   >
@@ -121,7 +121,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/2HandedswordsmanIcon.jpg"
+                    src="~assets/2HandedswordsmanIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Two-Handed_Swordsman"
                     >雙手劍兵</nuxt-link
@@ -130,21 +130,21 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/ChampionIcon.jpg"
+                    src="~assets/ChampionIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                 </li>
                 <li>
                   <img
                     class="gg"
-                    src="~assets/HalberdierIcon.jpg"
+                    src="~assets/HalberdierIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                 </li>
                 <li>
                   <img
                     class="gg"
-                    src="~assets/EliteEagleWarriorIcon.jpg"
+                    src="~assets/EliteEagleWarriorIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Elite_Eagle_Warrior"
                     >精銳鷹勇士</nuxt-link
@@ -153,7 +153,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/CondottieroNewIcon.jpg"
+                    src="~assets/CondottieroIcon.png"
                     alt=""
                   /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
                   >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>和同盟限定)
@@ -191,13 +191,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
@@ -208,14 +208,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Masonry.jpg"
+                src="~assets/masonry.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >(護甲+1/+1，+3建築護甲) <br />
               <img
                 class="gg"
-                src="~assets/Architecture.jpg"
+                src="~assets/architecture.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
@@ -229,14 +229,14 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Townwatch.jpg"
+                src="~assets/tower_watch.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
-                src="~assets/Townpatrol.jpg"
+                src="~assets/town_patrol.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
@@ -249,7 +249,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Faith.jpg"
+                src="~assets/faith.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
@@ -266,7 +266,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Treadmillcrane.jpg"
+                src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
@@ -278,13 +278,13 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Conscription.jpg"
+                src="~assets/conscription.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >(+33%，限單位) <br />
               <img
-                src="~assets/Unique-tech.jpg"
+                src="~assets/unique_tech_imperial.png"
                 class="gg"
                 style="margin: 2px;"
                 alt=""
@@ -296,7 +296,7 @@
             <td class="tta1" style="width:10%">其他</td>
             <td class="tta4">
               <img
-                src="~assets/CastleAgeUnique.png"
+                src="~assets/unique_tech.png"
                 class="gg"
                 style="margin: 2px;"
                 alt=""
@@ -422,7 +422,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Barracks-logo.jpg" width="45" alt="" />
+                <img src="~assets/barracks.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -481,25 +481,25 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Dark-age-logo-small.jpg"
+                src="~assets/dark_age.png"
                 width="30"
                 alt=""
               />1200<br />
               <img
                 class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
+                src="~assets/feudal_age.png"
                 width="30"
                 alt=""
               />1500 <br />
               <img
                 class="gg"
-                src="~assets/Castle-age-reseach.jpg"
+                src="~assets/castle_age.png"
                 width="30"
                 alt=""
               />1800 <br />
               <img
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />2100
@@ -512,27 +512,15 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/dark_age.png" width="30" alt="" />0
+              <br />
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />1
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />2
+              <br />
               <img
                 class="gg"
-                src="~assets/Dark-age-logo-small.jpg"
-                width="30"
-                alt=""
-              />0 <br />
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                width="30"
-                alt=""
-              />1 <br />
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />2 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />3
@@ -541,27 +529,15 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
+              <img class="gg" src="~assets/dark_age.png" width="30" alt="" />7
+              <br />
+              <img class="gg" src="~assets/feudal_age.png" width="30" alt="" />8
+              <br />
+              <img class="gg" src="~assets/castle_age.png" width="30" alt="" />9
+              <br />
               <img
                 class="gg"
-                src="~assets/Dark-age-logo-small.jpg"
-                width="30"
-                alt=""
-              />7 <br />
-              <img
-                class="gg"
-                src="~assets/Feudal-age-reseach.jpg"
-                width="30"
-                alt=""
-              />8 <br />
-              <img
-                class="gg"
-                src="~assets/Castle-age-reseach.jpg"
-                width="30"
-                alt=""
-              />9 <br />
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
+                src="~assets/imperial_age.png"
                 width="30"
                 alt=""
               />10
