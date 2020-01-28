@@ -76,6 +76,7 @@
             <td class="unit3" style="width: 8%;">裝飾動物</td>
             <td class="unit3">
               <nuxt-link to="/units/animal/Butterflies">蝴蝶</nuxt-link>•
+              <nuxt-link to="/units/animal/Falcon">游隼</nuxt-link>•
               <nuxt-link to="/units/animal/Hawk">鷹</nuxt-link>•
               <nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link>•
               <nuxt-link to="/units/animal/Seagulls">海鷗</nuxt-link>•
