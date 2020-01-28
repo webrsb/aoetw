@@ -76,7 +76,7 @@
               <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>•
+              <nuxt-link to="/batt/Crucible">統一各部</nuxt-link>•
               <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>•
               <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>•
               <nuxt-link to="/batt/The_Horde_Rides_West"

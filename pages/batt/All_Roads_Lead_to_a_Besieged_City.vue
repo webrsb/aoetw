@@ -252,7 +252,7 @@
                   >，用來防止玩家過早被擊敗。（就像<nuxt-link
                     to="/batt/Genghis_Khana"
                     >成吉思汗(戰役)</nuxt-link
-                  >第一關<nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link
+                  >第一關<nuxt-link to="/batt/Crucible">統一各部</nuxt-link
                   >一樣）。
                 </li>
                 <li>戰役名稱來源於名言：條條大路通羅馬。</li>

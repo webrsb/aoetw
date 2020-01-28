@@ -235,7 +235,7 @@
             這場玩家須完成五個任務即可獲勝，玩法類似<nuxt-link
               to="/batt/Genghis_Khana"
               >成吉思汗(戰役)</nuxt-link
-            >的第一關<nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link
+            >的第一關<nuxt-link to="/batt/Crucible">統一各部</nuxt-link
             >。開局玩家在南邊及北邊各有一個營地，玩家重心應該放在南邊的營地，北邊營地只有兩名<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
