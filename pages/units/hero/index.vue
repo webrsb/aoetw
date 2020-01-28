@@ -373,9 +373,13 @@
             <td class="tunitc4">動物</td>
             <td class="tunitc6">狼</td>
             <td class="tunitc6">
+              <nuxt-link to="/batt/The_Horde_Rides_West"
+                >遊牧民族的西遷</nuxt-link
+              >
+              <br /><nuxt-link to="/batt/Pax_Mongolia"></nuxt-link>
               <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
               <br /><nuxt-link to="/batt/Pax_Mongolia"
-                >蒙古治下的和平</nuxt-link
+                >蒙古太平</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
               ><br /><nuxt-link to="/batt/Honfoglalas_895"
@@ -684,7 +688,7 @@
               <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Pax_Mongolia">蒙古治下的和平</nuxt-link>
+              <nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -798,9 +802,7 @@
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
               <br /><nuxt-link to="/batt/The_Promise">承諾</nuxt-link
-              ><br /><nuxt-link to="/batt/Pax_Mongolia"
-                >蒙古治下的和平</nuxt-link
-              >
+              ><br /><nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -818,7 +818,7 @@
             <p>
               登場戰役：沙拉丁5-<nuxt-link to="/batt/Jihad">聖戰</nuxt-link
               >、成吉思汗6-<nuxt-link to="/batt/Pax_Mongolia"
-                >蒙古治下的和平</nuxt-link
+                >蒙古太平</nuxt-link
               >、<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
               >4-<nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link
               >、阿提拉6-羅馬的衰落

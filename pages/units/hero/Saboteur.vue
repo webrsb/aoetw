@@ -19,8 +19,7 @@
               >城鎮中心</nuxt-link
             >旁邊，它也會出現在<nuxt-link to="/batt/Genghis_Khana"
               >成吉思汗</nuxt-link
-            >第五戰役"<nuxt-link to="/batt/Pax_Mongolia"
-              >蒙古治下的和平</nuxt-link
+            >第五戰役"<nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link
             >"。破壞者比一般的<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
             >移動速度更快，對<nuxt-link to="/armor/Armor_Class_Building"
               >建築物</nuxt-link

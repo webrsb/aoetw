@@ -220,7 +220,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Pax_Mongolia">蒙古治下的和平</nuxt-link>
+              <nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
             </td>
           </tr>
         </table>

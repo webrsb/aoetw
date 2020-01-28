@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>蒙古治下的和平</h1>
+        <h1>蒙古太平</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>蒙古治下的和平</b>為<nuxt-link to="/batt/Genghis_Khana"
+            <b>蒙古太平</b>舊譯<b>蒙古治下的和平</b>為<nuxt-link
+              to="/batt/Genghis_Khana"
               >成吉思汗(戰役)</nuxt-link
             >的第六關劇情關卡，此關原型為1241年4月11日<nuxt-link
               to="/civs/Mongols"
@@ -34,7 +35,7 @@
                 >／500<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">125</td>
             </tr>
           </table>
 
@@ -65,7 +66,7 @@
                 玩家2
               </td>
               <td class="tc6">
-                匈牙利（紫色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+                匈牙利（紫色）<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
               </td>
             </tr>
           </table>
@@ -87,7 +88,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>生存下來直到速不台的救援部隊趕到，擊敗匈牙利。</li>
+              <li>摧毀所有匈牙利的城鎮中心和城堡。</li>
+              <li>
+                在<nuxt-link to="/units/hero/Subotai">速不台</nuxt-link
+                >的援軍到達前存活下來。
+              </li>
             </ol>
           </div>
         </div>
@@ -96,10 +101,11 @@
         <div class="n1">
           <ul>
             <li>
-              由於沙佐河（或翻蒂薩河）結冰，所以不可能建造船隻。我們一定要好好利用速不台的部隊，因為我們已經沒辦法訓練出自己的部隊了。
+              由於沙約河（或翻蒂薩河）結冰，所以不可能建造船隻。我們一定要好好利用速不台的部隊，因為我們已經沒辦法訓練出自己的部隊了。
             </li>
             <li>
-              <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
+              中型投石車與<nuxt-link to="/units/Siege_Onager"
+                >重型投石車</nuxt-link
               >可以夷平樹林。
             </li>
           </ul>
@@ -117,7 +123,7 @@
                   >條頓人</nuxt-link
                 >代表，在2013<nuxt-link to="/games/aof">失落的帝國</nuxt-link
                 >資料片裡會以<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-                >人之姿現身。
+                >人之姿現身。決定版已變更為馬扎爾人。
               </li>
               <li>
                 雖然蒙古人贏得了蒂薩河橋之戰，但窩闊台汗的過世使得大軍撤退，回到蒙古去參與繼承權之爭。
@@ -125,13 +131,29 @@
             </ul>
           </div>
         </div>
+
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              人口上限由75變更為125，匈牙利種族從條頓變更為正確的馬扎爾人，中央的橋變為兩道並排，速不台援軍變更為破壞者、汗各5隻。勝利條件具體化，擊破所有城堡和城鎮中心即可。
+            </li>
+            <li>
+              成就「進取之心」：在速不台到達前打敗匈牙利人，即可獲得此成就。標準難度打法：開場的5村民1位往橋頭走等石頭滿650蓋堡，其餘4位挖石，挖完兩趟改挖金。開場的500食物生10村民，3位打獵5位砍樹2位挖金，食物用來升化學和護腕，湊到20蒙古突騎、3巨型投石機、2僧侶就可以進攻，在這之前先引誘第一波主力在城堡掩護下擊殺，然後搭配一開始給的破壞者往前推進，進攻之餘別忘了繼續補蒙古突騎。注意敵方也有巨型投石機會砸玩家的投石機。
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                蒙古治下的和平
+                蒙古太平
               </div>
             </td>
           </tr>

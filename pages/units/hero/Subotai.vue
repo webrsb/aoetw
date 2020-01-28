@@ -19,7 +19,7 @@
               >成吉思汗</nuxt-link
             >和窩闊台旗下的將軍和戰略家，他著名的事蹟是在兩天內擊敗匈牙利和波蘭軍隊，後來成為《世紀帝國II
             II: 帝王世紀》<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-            >戰役的"承諾"和"蒙古治下的和平"戰役。速不臺的外觀是<nuxt-link
+            >戰役的"承諾"和"蒙古太平"戰役。速不臺的外觀是<nuxt-link
               to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link
             >，會受<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link

@@ -82,7 +82,7 @@
               <nuxt-link to="/batt/The_Horde_Rides_West"
                 >策馬西征</nuxt-link
               >• <nuxt-link to="/batt/The_Promise">承諾</nuxt-link>•
-              <nuxt-link to="/batt/Pax_Mongolia">蒙古治下的和平</nuxt-link>
+              <nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
             </td>
           </tr>
           <tr>
