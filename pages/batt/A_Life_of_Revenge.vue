@@ -190,7 +190,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>
+              <nuxt-link to="/batt/Into_China">入主中原</nuxt-link>
             </td>
           </tr>
         </table>

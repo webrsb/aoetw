@@ -65,7 +65,7 @@
                 <li>
                   <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>
                 </li>
-                <li><nuxt-link to="/batt/Into_China">進入中國</nuxt-link></li>
+                <li><nuxt-link to="/batt/Into_China">入主中原</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/The_Horde_Rides_West"
                     >遊牧民族的西遷</nuxt-link
