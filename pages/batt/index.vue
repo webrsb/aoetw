@@ -382,9 +382,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Pax_Mongolia"
-                      >蒙古治下的和平</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
                   </div>
                 </td>
               </tr>
