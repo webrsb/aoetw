@@ -728,7 +728,7 @@
             </p>
             <p>
               登場戰役：成吉思汗2-<nuxt-link to="/batt/A_Life_of_Revenge"
-                >復仇的人生</nuxt-link
+                >復仇人生</nuxt-link
               >
             </p>
           </div>

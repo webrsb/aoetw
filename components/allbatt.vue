@@ -77,7 +77,7 @@
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Crucible">統一各部</nuxt-link>•
-              <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>•
+              <nuxt-link to="/batt/A_Life_of_Revenge">復仇人生</nuxt-link>•
               <nuxt-link to="/batt/Into_China">入主中原</nuxt-link>•
               <nuxt-link to="/batt/The_Horde_Rides_West"
                 >遊牧民族的西遷</nuxt-link

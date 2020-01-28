@@ -492,7 +492,7 @@
             <td class="tunitc4">騎士</td>
             <td class="tunitc6">騎兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link
+              <nuxt-link to="/batt/A_Life_of_Revenge">復仇人生</nuxt-link
               ><br /><nuxt-link to="/batt/Emperor_of_the_West"
                 >西域之君</nuxt-link
               >

@@ -205,75 +205,73 @@
           </ul>
         </div>
       </div>
-    </div>
-    <div class="col-md-4">
-      <table class="table-bordered" width="100%">
-        <tr>
-          <td class="unit" colspan="2" style="background-color:#375d96;">
-            <div class="unititle2">
-              入主中原
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <div class="unititle">
-              <img src="~assets/Into_china.png" alt="" />
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td class="unit" colspan="2" style="background-color:#375d96;">
-            <div class="unititle2">情景信息</div>
-          </td>
-        </tr>
-        <tr>
-          <td class="unit3">版本</td>
-          <td class="unit4">
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
-          </td>
-        </tr>
-        <tr>
-          <td class="unit3">戰役</td>
-          <td class="unit4">
-            <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
-          </td>
-        </tr>
-        <tr>
-          <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-          <td class="unit4">
-            <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>
-          </td>
-        </tr>
-        <tr>
-          <td class="unit" colspan="2" style="background-color:#375d96;">
-            <div class="unititle2">
-              戰役關卡編號
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td class="unit3">章節</td>
-          <td class="unit4">
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第四章之三
-          </td>
-        </tr>
-        <tr>
-          <td class="unit3">上一關</td>
-          <td class="unit4">
-            <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>
-          </td>
-        </tr>
-        <tr>
-          <td class="unit3">下一關</td>
-          <td class="unit4">
-            <nuxt-link to="/batt/The_Horde_Rides_West"
-              >遊牧民族的西遷</nuxt-link
-            >
-          </td>
-        </tr>
-      </table>
-
+      <div class="col-md-4">
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                入主中原
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <div class="unititle">
+                <img src="~assets/Into_china.png" alt="" />
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">情景信息</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">版本</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">戰役</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                戰役關卡編號
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">章節</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第四章之三
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">上一關</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/A_Life_of_Revenge">復仇人生</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">下一關</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/The_Horde_Rides_West"
+                >遊牧民族的西遷</nuxt-link
+              >
+            </td>
+          </tr>
+        </table>
       <div class="thanks">感謝！此頁面由裕暉、竺叡協助編輯。</div>
 
       <div class="wiki" style="margin-top: 5px;">
