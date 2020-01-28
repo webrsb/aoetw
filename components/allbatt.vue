@@ -271,7 +271,7 @@
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>•
-              <nuxt-link to="/batt/Dos_Pilas_648">雙柱城(648)</nuxt-link>•
+              <nuxt-link to="/batt/Dos_Pilas_648">雙池城記(648)</nuxt-link>•
               <nuxt-link to="/batt/York_865">約克(865)</nuxt-link>•
               <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>•
               <nuxt-link to="/batt/Langshan_Jiang_919">狼山江(919)</nuxt-link>•
