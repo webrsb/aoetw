@@ -373,9 +373,7 @@
             <td class="tunitc4">動物</td>
             <td class="tunitc6">狼</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
               <br /><nuxt-link to="/batt/Pax_Mongolia"
                 >蒙古治下的和平</nuxt-link
               >
@@ -701,9 +699,7 @@
             </td>
             <td class="tunitc6">國王</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -790,7 +786,7 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/Subotaiicon.png" alt="" /><nuxt-link
                 to="/units/hero/Subotai"
-                >速不臺</nuxt-link
+                >速不台</nuxt-link
               >
             </td>
             <td class="tunitc4">馬弓騎兵</td>
@@ -800,9 +796,7 @@
               >
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
               <br /><nuxt-link to="/batt/The_Promise">承諾</nuxt-link
               ><br /><nuxt-link to="/batt/Pax_Mongolia"
                 >蒙古治下的和平</nuxt-link

@@ -68,7 +68,7 @@
                 <li><nuxt-link to="/batt/Into_China">入主中原</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/The_Horde_Rides_West"
-                    >遊牧民族的西遷</nuxt-link
+                    >策馬西征</nuxt-link
                   >
                 </li>
                 <li><nuxt-link to="/batt/The_Promise">承諾</nuxt-link></li>

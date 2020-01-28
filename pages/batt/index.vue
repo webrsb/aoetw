@@ -365,7 +365,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/The_Horde_Rides_West"
-                      >遊牧民族的西遷</nuxt-link
+                      >策馬西征</nuxt-link
                     >
                   </div>
                 </td>

@@ -353,7 +353,7 @@
               <td class="tta1">
                 <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link
                 >4-<nuxt-link to="/batt/The_Horde_Rides_West"
-                  >遊牧民族的西遷</nuxt-link
+                  >策馬西征</nuxt-link
                 >
               </td>
               <td class="tta2">

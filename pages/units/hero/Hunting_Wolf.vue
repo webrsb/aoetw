@@ -32,12 +32,12 @@
           <ul>
             <li>
               <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link
-              >的第四個戰役"遊牧民族的西遷"，<nuxt-link to="/units/hero/Subotai"
-                >速不臺</nuxt-link
+              >的第四個戰役"策馬西征"，<nuxt-link to="/units/hero/Subotai"
+                >速不台</nuxt-link
               >一開始會帶著兩隻獵狼。
             </li>
             <li>
-              在"蒙古治下的和平"，在遊戲進行45分鐘後，速不臺會帶著許多<nuxt-link
+              在"蒙古治下的和平"，在遊戲進行45分鐘後，速不台會帶著許多<nuxt-link
                 to="/units/Petard"
                 >爆炸桶</nuxt-link
               >和獵狼來支援。
