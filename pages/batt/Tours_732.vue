@@ -41,7 +41,7 @@
                 >／600<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">125</td>
             </tr>
           </table>
 
@@ -69,7 +69,7 @@
               </td>
               <td class="tc6" width="38%">
                 <nuxt-link to="/civs/Berbers">柏柏人</nuxt-link
-                >（黃色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+                >（黃色）<nuxt-link to="/civs/Berbers">柏柏人</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p3"></div>
@@ -77,8 +77,15 @@
               </td>
               <td class="tc6" width="38%">
                 摩爾人（綠色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
-              </td>
+              </td>              
             </tr>
+                          <td class="tc6">
+                <div class="p7"></div>
+                玩家4
+              </td>
+              <td class="tc6" width="38%">
+                法蘭克村莊（灰色）<nuxt-link to="/civs/Saracens">法蘭克</nuxt-link>
+              </td>
           </table>
 
           <br />
@@ -157,6 +164,14 @@
               </li>
             </ul>
           </div>
+                    <h3>決定版變更點</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                人口上限由75改為125，柏柏人由原本的土耳其正式改成柏柏人，同時也會有負責柏柏戰役的第四、五關的英雄阿卜杜勒·拉赫曼·迦菲奇登場在這關。玩家新增了一個法蘭克村民，作為各處被掠劫過的各種即將毀壞的建築物作為佈景。</li>
+            </ul>
+          </div>
           <h3>攻略</h3>
           <div class="hrn1"></div>
           <ul>
@@ -177,7 +192,7 @@
             <li>
               柏柏人配兵較為單純的<nuxt-link to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
-              >、和衝撞車為主，軍隊質量較低威脅不高。
+              >、和衝撞車為主，但現在由於柏柏人的種族已經更新為柏柏人，所以也會有標槍騎兵。
             </li>
             <li>摩爾人的防禦相較來說較高，有城堡防守前期不易進攻。</li>
             <li>摩爾人配兵較多樣化，有駱駝騎兵、弩砲為主。</li>
@@ -222,7 +237,7 @@
               此關為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
               ><nuxt-link to="/batt/Tariq_ibn_Ziyada"
                 >塔里克·伊本·齊亞德</nuxt-link
-              >的續篇。
+              >的續篇。決定版中其英雄阿卜杜勒·拉赫曼·迦菲奇也會出現在柏柏陣營，但是沒有特別設計他被殺死時的台詞。
             </li>
           </ul>
           <h3>
