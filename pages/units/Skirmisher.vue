@@ -2,15 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>戰矛兵</h1>
+        <h1>矛兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>戰矛兵</b>（在HD以前玩家習慣講矛兵，升級後為戰矛兵。）<nuxt-link
-              to="/techs/age/Feudal_Age"
-              >封建時代</nuxt-link
+            <b>矛兵</b
+            ><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >於<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >訓練，能有效對付<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >。
@@ -21,7 +20,7 @@
         <div class="n1">
           <p>
             除了對付<nuxt-link to="/units/Archer">弓箭手</nuxt-link
-            >外，戰矛兵顯得非常虛弱，他們攻擊、<nuxt-link
+            >外，矛兵顯得非常虛弱，他們攻擊、<nuxt-link
               to="/elements/Rate_of_Fire"
               >射速</nuxt-link
             >都低還有最小射程，對<nuxt-link to="/units/Infantry_Units"
@@ -32,19 +31,19 @@
             >。
           </p>
           <p>
-            由於戰矛兵生產不用<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            由於矛兵生產不用<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >，所以是一個<nuxt-link to="/units/Trash_Unit">垃圾兵單位</nuxt-link
             >，在缺少<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。在<nuxt-link
               to="/maps/Arabia"
               >阿拉伯</nuxt-link
-            >單挑時戰矛兵甚至比弓兵還來的好用。
+            >單挑時矛兵甚至比弓兵還來的好用。
           </p>
           <p>
-            戰矛兵對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link
+            矛兵對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link
             >有額外的傷害，雙方數量少時，<nuxt-link to="/units/Spearman"
               >槍兵</nuxt-link
-            >將獲勝，但數量一多起來，戰矛兵將克制槍兵。
+            >將獲勝，但數量一多起來，矛兵將克制槍兵。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -85,20 +84,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -119,20 +118,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Atlatl"
                 >擲矛器</nuxt-link
@@ -145,7 +144,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Andean_Sling"
                 >安地斯彈弓</nuxt-link
-              >:戰矛兵和<nuxt-link to="/units/Slinger">投石手</nuxt-link
+              >:矛兵和<nuxt-link to="/units/Slinger">投石手</nuxt-link
               >取消最小射程，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定
             </td>
           </tr>
@@ -176,7 +175,7 @@
                 src="~assets/padded_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -190,7 +189,7 @@
                 src="~assets/ring_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -221,7 +220,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -305,9 +304,7 @@
                       class="gg"
                       src="~assets/EliteSkirmisherIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Skirmisher"
-                      >精銳戰矛兵</nuxt-link
-                    >
+                    /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -322,7 +319,7 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/SkirmisherIcon.png" alt="" />
-                    戰矛兵
+                    矛兵
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+0攻擊</strong></div>
@@ -337,7 +334,7 @@
                       class="gg"
                       src="~assets/CavalierIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/PaladinIcon.png"
@@ -349,12 +346,14 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
@@ -362,13 +361,13 @@
                       class="gg"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
+                    /><nuxt-link to="/units/Tarkan">精銳答剌罕騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
                   </li>
                   <li>
                     <img
@@ -423,7 +422,7 @@
                     class="gg"
                     src="~assets/CavalierIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                  /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/PaladinIcon.png"
@@ -446,7 +445,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對戰矛兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >：對矛兵有利的<nuxt-link to="/techs">科技</nuxt-link
               >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >各便宜10%/15%/20%。
@@ -468,7 +467,7 @@
               >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
               >增加10%/15%/20%。免費<nuxt-link to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >。
             </li>
           </ul>
@@ -481,17 +480,17 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：戰矛兵生產快20%。研發<nuxt-link to="/techs/Thumb_Ring"
+              >：矛兵生產快20%。研發<nuxt-link to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：戰矛兵<nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵<nuxt-link
                 to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >+2。
@@ -504,13 +503,13 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：戰矛兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >：矛兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：戰矛兵更不容易被招降。
+              >：矛兵更不容易被招降。
             </li>
           </ul>
         </div>
@@ -521,15 +520,14 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>升級到精銳戰矛兵成本為250W/160G。</li>
+            <li>升級到戰矛兵成本為250W/160G。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              戰矛兵對<nuxt-link to="/armor/Armor_Class_Spearman"
-                >槍兵</nuxt-link
+              矛兵對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link
               >攻擊+3。
             </li>
             <li>引入<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>。</li>
@@ -556,22 +554,22 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>4.8版本後升級精銳戰矛兵成本為200W/100G。</li>
+            <li>4.8版本後升級戰矛兵成本為200W/100G。</li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >:戰矛兵有+15％的射擊速度，4.8版本後被移除。
+              >:矛兵有+15％的射擊速度，4.8版本後被移除。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
               >:4.8版本前<nuxt-link to="/techs/Pavise">巨盾</nuxt-link
-              >會影響戰矛兵，4.8版本後移除。
+              >會影響矛兵，4.8版本後移除。
             </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li>升級精銳戰矛兵成本增加為230W/130G。</li>
+            <li>升級戰矛兵成本增加為230W/130G。</li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -579,7 +577,7 @@
         <div class="n1">
           <ul>
             <li>
-              戰矛兵是所有單位最便宜的，與<nuxt-link
+              矛兵是所有單位最便宜的，與<nuxt-link
                 to="/armor/Armor_Class_Spearman"
                 >槍兵</nuxt-link
               >相同，所需60資源，且不用黃金。
@@ -604,13 +602,13 @@
             <gallery
               ><img class="imgn hg" src="~assets/Skirmishers_Line.png" alt=""
             /></gallery>
-            <p><em>戰矛兵系</em></p>
+            <p><em>矛兵系</em></p>
           </div>
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Skirmisher.png" alt=""
             /></gallery>
-            <p><em>一群戰矛兵</em></p>
+            <p><em>一群矛兵</em></p>
           </div>
         </div>
       </div>
@@ -618,13 +616,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">戰矛兵</div>
+              <div class="unititle2">矛兵</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/SkirmisherIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/SkirmisherIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -779,7 +781,7 @@
                 class="gg"
                 src="~assets/EliteSkirmisherIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Elite_Skirmisher">精銳戰矛兵</nuxt-link>
+              /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
             </td>
           </tr>
           <tr>

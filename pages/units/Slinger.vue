@@ -74,7 +74,7 @@
             >，這種組合幾乎可以擊敗所有軍隊，但可惜的是面對<nuxt-link
               to="/units/Hand_Cannoneer"
               >火槍兵</nuxt-link
-            >及<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+            >及<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
             >，他們又顯得如此渺小。
           </p>
         </div>
@@ -123,20 +123,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -153,20 +153,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Andean_Sling"
                 >安地斯彈弓</nuxt-link
@@ -202,7 +202,7 @@
                 src="~assets/padded_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -216,7 +216,7 @@
                 src="~assets/ring_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >(+1/+2) <br />
               <img
                 src="~assets/unique_tech_imperial.png"
@@ -266,7 +266,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -409,7 +409,7 @@
                       class="gg"
                       src="~assets/CavalierIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/PaladinIcon.png"
@@ -430,7 +430,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>

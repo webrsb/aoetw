@@ -57,7 +57,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
@@ -88,7 +88,7 @@
               </h4>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link

@@ -71,7 +71,7 @@
                     >策馬西征</nuxt-link
                   >
                 </li>
-                <li><nuxt-link to="/batt/The_Promise">承諾</nuxt-link></li>
+                <li><nuxt-link to="/batt/The_Promise">臨終夙願</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
                 </li>

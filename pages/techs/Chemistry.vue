@@ -13,7 +13,7 @@
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發。研發後可生產<nuxt-link to="/units/Gunpowder_Unit"></nuxt-link
             ><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-            >（除了<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+            >（除了<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克</nuxt-link
             >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>與<nuxt-link

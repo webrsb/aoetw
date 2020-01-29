@@ -178,7 +178,7 @@
                   >重裝長槍兵</nuxt-link
                 >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
                 >以及一些輕騎兵，因為隨後會有明軍攻來。重裝長槍兵對付<nuxt-link
-                  to="/units/Cavalier"
+                  to="/units/Cavalry_Units"
                   >騎兵</nuxt-link
                 >，戰矛兵打<nuxt-link to="/units/Archer">弓兵</nuxt-link
                 >，輕騎兵繞去打<nuxt-link to="/units/Siege_Weapons"

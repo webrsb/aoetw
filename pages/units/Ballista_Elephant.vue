@@ -126,9 +126,8 @@
               <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
-              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/units/Eagle_Warrior"
-                >鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
@@ -208,21 +207,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -234,7 +233,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -245,7 +244,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -281,7 +280,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+55攻擊</strong></div>
@@ -416,7 +415,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -477,7 +477,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -741,14 +741,14 @@
                 >聚居堡壘</nuxt-link
               >能夠提高弩砲象的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >和<nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
-                >畜牧培育</nuxt-link
+                >耕種技術</nuxt-link
               >和<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。
             </li>
             <li>
@@ -869,7 +869,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Ballistaelephanticon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Ballistaelephanticon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

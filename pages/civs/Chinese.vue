@@ -40,7 +40,7 @@
               >，讓喜歡打大後期的玩家有好的防禦力。<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              >的特殊科技為<nuxt-link to="/techs/Rocketry">火箭術</nuxt-link
+              >的特殊科技為<nuxt-link to="/techs/Rocketry">火箭技術</nuxt-link
               >，這個<nuxt-link to="/techs">科技</nuxt-link
               >則讓本來就已經很強大的中國<nuxt-link to="/units/Archer_Units"
                 >遠程</nuxt-link
@@ -74,7 +74,7 @@
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 alt=""
-              /><nuxt-link to="/techs/Rocketry">火箭術</nuxt-link
+              /><nuxt-link to="/techs/Rocketry">火箭技術</nuxt-link
               >：連弩兵攻擊+2，弩砲攻擊+4
             </li>
           </ul>
@@ -99,7 +99,7 @@
               >便宜10%，城堡時代便宜15%，帝王時代便宜20%
             </li>
             <li>
-              <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+              <nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link
               >多了50%生命值
             </li>
             <p>
@@ -150,9 +150,9 @@
               >。
             </li>
             <li>
-              神風船是有其價值的，若沒有<nuxt-link to="/units/Naval_Vessels"
+              爆破船是有其價值的，若沒有<nuxt-link to="/units/Naval_Vessels"
                 >海軍</nuxt-link
-              >加成的文明，碰到中國的神風船很可能損失整個艦隊。
+              >加成的文明，碰到中國的爆破船很可能損失整個艦隊。
             </li>
             <li>中國騎兵在城堡時代是可靠的。</li>
             <li>
@@ -175,7 +175,7 @@
             </li>
             <li>
               沒有<nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >，但是卻有火箭術，這讓中國的弩砲處在一個尷尬的位置。
+              >，但是卻有火箭技術，這讓中國的弩砲處在一個尷尬的位置。
             </li>
             <li>
               缺少幾個必要的科技，讓中國的<nuxt-link to="/units/Monk"
@@ -198,7 +198,7 @@
             <li>
               沒有<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
               >，連弩兵射程短，而且缺乏<nuxt-link to="/techs/Block_Printing"
-                >雕版印刷術</nuxt-link
+                >印刷技術</nuxt-link
               >，這注定了中國對上僧侶會有吃虧。
             </li>
           </ul>
@@ -237,7 +237,7 @@
               >；但是對於前期強勢或是有良好騎兵的文明會很吃虧，比如<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
-              >或<nuxt-link to="/civs/Huns">匈奴</nuxt-link>。
+              >或<nuxt-link to="/civs/Huns">匈人</nuxt-link>。
             </li>
           </ul>
           <ul>
@@ -276,7 +276,7 @@
                 >高棉</nuxt-link
               >讓中國弩砲更強，且有快速的矛象伕；<nuxt-link to="/civs/Malay"
                 >馬來</nuxt-link
-              >讓中國可以及時生產神風船來對抗來襲的海軍，且農田加成讓馬來的免<nuxt-link
+              >讓中國可以及時生產爆破船來對抗來襲的海軍，且農田加成讓馬來的免<nuxt-link
                 to="/resource/Gold"
                 >黃金</nuxt-link
               ><nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
@@ -295,7 +295,7 @@
             </li>
             <li>善用他們沒有火砲與火槍兵這一點。</li>
             <li>
-              用神風船來對付中國神風船會更有效，因為它們的高生命值在神風船面前其實造成影響不大。
+              用爆破船來對付中國爆破船會更有效，因為它們的高生命值在爆破船面前其實造成影響不大。
             </li>
           </ul>
         </div>
@@ -565,17 +565,17 @@
             </li>
             <li>中國的奇觀是天壇。</li>
             <li>中國沒有獨立的戰役系列，而狼山江之戰其實對中國影響不大。</li>
-            <li>中國研發雕版印刷技術，或稱為活字版印刷，卻沒有雕版印刷術。</li>
+            <li>中國研發雕版印刷技術，或稱為活字版印刷，卻沒有印刷技術。</li>
             <li>中國研發火砲，卻沒有火砲。</li>
             <li>
               值得一提的是，明朝的火器使用率為當時世界第一，諷刺的是中國沒有火槍兵。
             </li>
             <li>
-              <nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
-              >技術是由中國首先發明，而中國卻沒有輪耕可以研發。
+              <nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
+              >技術是由中國首先發明，而中國卻沒有輪耕制度可以研發。
             </li>
             <li>
-              中國的神風船有加成，我們可以從黃蓋用小船火燒連環船這個故事看到蛛絲馬跡
+              中國的爆破船有加成，我們可以從黃蓋用小船火燒連環船這個故事看到蛛絲馬跡
             </li>
             <li>所謂連弩其實有兩種，一種是聯發型，一種是散彈型。</li>
           </ul>
@@ -642,7 +642,7 @@
               ><br /><img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>
+              /><nuxt-link to="/techs/Rocketry">火箭技術</nuxt-link>
             </td>
           </tr>
         </table>

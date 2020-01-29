@@ -52,7 +52,7 @@
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：間諜科技便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
                 to="/techs/Atheism"
                 >無神論</nuxt-link
               >研發後間諜科技便宜50%。

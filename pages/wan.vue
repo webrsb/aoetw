@@ -58,7 +58,7 @@
             >有相當大的淵源。
           </p>
           <p>
-            <nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+            <nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link
             >則補充到發射砲彈前，先用一個鍋爐加熱砲彈，以達到類似古代中國火箭的效果。赤壁之戰中，周瑜也問過孔明大江之上，何以破曹，孔明答了『火+箭』。
           </p>
           <p>

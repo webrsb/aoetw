@@ -55,7 +55,7 @@
           <p>
             在海上擁有特殊的卡拉維爾戰船，卡拉維爾戰船能夠打出穿透的弩砲，但造價昂貴，如果搭配些許的加利恩帆船可以大幅提升其威脅，另一個遺憾的點在於葡萄牙缺少<nuxt-link
               to="/techs/Shipwright"
-              >造船匠</nuxt-link
+              >造船員</nuxt-link
             >與<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
             >，這讓葡萄牙的船艦格外昂貴。
           </p>
@@ -64,7 +64,7 @@
               to="/units/Champion"
               >劍兵勇士</nuxt-link
             >，但由於<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-            >缺少<nuxt-link to="/techs/Squires">護衛</nuxt-link
+            >缺少<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
             >，使其的移動速度較慢，而在<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
             >內則缺少<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
@@ -80,7 +80,7 @@
             >內，擁有除了<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
             >之外的全部科技，在經濟部分也很不錯，只缺少<nuxt-link
               to="/techs/Gold_Shaft_Mining"
-              >礦井採金</nuxt-link
+              >採金裝置</nuxt-link
             >，而文明加成與<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >能夠建造的大商站很好的彌補了這點缺點，而因為火繩槍、<nuxt-link

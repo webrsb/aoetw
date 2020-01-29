@@ -132,7 +132,7 @@
             >，2艘<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >，6艘<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >，4艘<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-            >，3艘<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>。
+            >，3艘<nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link>。
           </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
@@ -378,7 +378,7 @@
                   to="/batt/Genghis_Khana"
                   >成吉思汗(戰役)</nuxt-link
                 >的<nuxt-link to="/batt/Into_China">入主中原</nuxt-link
-                >關卡，<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+                >關卡，<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
                 >戰役<nuxt-link to="/batt/Noryang_Point_1598">洛陽點</nuxt-link
                 >(露梁海戰)的鄧子龍將軍，<nuxt-link to="/civs/Vietnamese"
                   >越南</nuxt-link

@@ -60,7 +60,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：<nuxt-link
                 to="/techs/Perfusion"
-                >灌注士氣</nuxt-link
+                >井噴</nuxt-link
               >讓縱火研發快100%
             </li>
           </ul>

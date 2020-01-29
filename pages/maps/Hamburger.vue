@@ -34,7 +34,7 @@
               >村民</nuxt-link
             >運送到護城河外擴張地盤。在這張地圖有免費箭塔升級的<nuxt-link
               to="/civs/Koreans"
-              >韓國人</nuxt-link
+              >朝鮮人</nuxt-link
             >，有便宜箭塔的<nuxt-link to="/civs/Incas">印加人</nuxt-link
             >，擁有額外箭塔視線的<nuxt-link to="/civs/Ethiopians"
               >衣索比亞人</nuxt-link

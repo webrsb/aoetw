@@ -47,7 +47,8 @@
               to="/building/Archery_Range"
               >射箭場</nuxt-link
             >加一個<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >，並且升級<nuxt-link to="/techs/Fletching">一級箭(箭羽)</nuxt-link
+            >，並且升級<nuxt-link to="/techs/Fletching"
+              >一級箭(絕世好箭)</nuxt-link
             >，靠著一級箭的優勢很容易打殘對方。
           </p>
           <p>國際上的高手Liereey憑藉著其優秀的控兵，非常擅長此打法。</p>
@@ -174,7 +175,7 @@
           </tr>
           <tr>
             <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

@@ -86,7 +86,7 @@
             >，還有全遊戲最強的騎兵、<nuxt-link to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
             >。但也缺乏一些重要科技，如<nuxt-link to="/techs/Bracer"
-              >護腕</nuxt-link
+              >強力護腕</nuxt-link
             >(<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >+1射程)與<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
             >(近戰+2攻擊)，並且是遊戲中唯一有重型投石車卻沒有<nuxt-link
@@ -156,7 +156,7 @@
               馬利的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
               >也是不合時宜的，傑內大清真寺雖然確實是13世紀馬利的建築，但是現在的清真寺其實是1907年重建的，真正的古清真寺可能不是這個模樣。原始的傑內大清真寺出自於埃及建築師之手，所以可能和中世紀埃及的清真寺相似。
             </li>
-            <li>馬利是唯一一個缺乏鼓風爐和護腕的文明。</li>
+            <li>馬利是唯一一個缺乏鼓風爐和強力護腕的文明。</li>
             <li>
               馬利是唯一一個有重型投石車但沒有<nuxt-link
                 to="/techs/Siege_Engineers"

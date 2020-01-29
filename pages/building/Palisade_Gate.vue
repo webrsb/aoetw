@@ -64,7 +64,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%工作效率)
             </td>
           </tr>
@@ -91,7 +91,7 @@
               >/帝王時代價格便宜15％/20％。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：木門建築速度快33%
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：木門建築速度快33%
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：木門造價便宜15%。
@@ -109,7 +109,7 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Treadmill_Crane"
-                >滑輪起重機</nuxt-link
+                >磨坊水車</nuxt-link
               >的速度提高80%。
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：木門便宜50%</li>

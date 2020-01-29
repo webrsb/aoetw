@@ -14,7 +14,7 @@
             >》版本，牠也能在地圖編輯器和一些<nuxt-link to="/batt"
               >戰役</nuxt-link
             >中找到。駱駝沒有<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-            >，不提供肉，<nuxt-link to="/los.php">視野</nuxt-link
+            >，不提供肉，<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
             >範圍也小，對玩家幾乎沒什麼用。在<nuxt-link to="/maps/Megarandom"
               >超級隨機</nuxt-link
             >賽局上有些玩家一開始會有駱駝代替斥侯作為偵測單位。
@@ -110,7 +110,9 @@
             <td class="unit4">1.2</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+            </td>
             <td class="unit4">2</td>
           </tr>
         </table>

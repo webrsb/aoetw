@@ -97,7 +97,7 @@
           </p>
           <p>
             。 軍事單位 -<nuxt-link to="/units/Elite_Skirmisher"
-              >精銳戰矛兵</nuxt-link
+              >戰矛兵</nuxt-link
             >x2、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >x2、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x1
           </p>
@@ -105,10 +105,10 @@
           >重騎兵x1、<nuxt-link to="/units/Heavy_Cavalry_Archer"
             >重裝馬弓騎兵</nuxt-link
           >x2、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
-          >x2、精銳戰矛兵x1、<nuxt-link to="/units/Karambit_Warrior"
+          >x2、戰矛兵x1、<nuxt-link to="/units/Karambit_Warrior"
             >爪刀勇士</nuxt-link
-          >x1、斧槍兵x2、<nuxt-link to="/units/Fast_Fire_Ship"
-            >快速火戰船</nuxt-link
+          >x1、戟兵x2、<nuxt-link to="/units/Fast_Fire_Ship"
+            >重型火戰船</nuxt-link
           >x1、重型爆破船x2、<nuxt-link to="/units/Transport_Ship"
             >運輸船</nuxt-link
           >x2

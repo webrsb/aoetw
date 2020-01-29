@@ -17,8 +17,8 @@
               >世紀帝國II：失落的帝國</nuxt-link
             >》的戰役中出現好幾次。薩瓦蘭重騎兵有<nuxt-link
               to="/units/Cataphract"
-              >聖騎兵</nuxt-link
-            >的外觀，但比一般聖騎兵有較高的HP，不過裝甲和攻擊反而比較低。由於屬於<nuxt-link
+              >拜占庭聖騎兵</nuxt-link
+            >的外觀，但比一般拜占庭聖騎兵有較高的HP，不過裝甲和攻擊反而比較低。由於屬於<nuxt-link
               to="/units/hero"
               >英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"

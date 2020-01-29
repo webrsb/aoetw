@@ -71,7 +71,7 @@
                 世紀帝國II發展到今日，已有近20年歷史，從最早曾政承得到世界第一的雙靶場矛衝戰術到後來臺灣香港流行的城快打法，有所謂的<nuxt-link
                   to="/maps/Continental"
                   >大陸</nuxt-link
-                ><nuxt-link to="/civs/Huns">匈奴</nuxt-link
+                ><nuxt-link to="/civs/Huns">匈人</nuxt-link
                 >馬爆、槍弩，<nuxt-link to="/maps/Arabia">阿拉伯</nuxt-link
                 >地形的<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
                   to="/civs/Turks"

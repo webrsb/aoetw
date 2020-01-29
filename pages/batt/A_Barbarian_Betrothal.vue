@@ -49,7 +49,7 @@
                 玩家1
               </td>
               <td class="tc6" colspan="3">
-                玩家1：<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
+                玩家1：<nuxt-link to="/civs/Huns">匈人</nuxt-link>（黃色）
               </td>
             </tr>
             <tr>
@@ -145,7 +145,7 @@
         <div class="n1">
           <ul>
             <li>
-              在入侵高盧之後，匈奴人開始分散開來。他們必須重新集合，以避免在接近南方的勃根第
+              在入侵高盧之後，匈人開始分散開來。他們必須重新集合，以避免在接近南方的勃根第
               (紫色)、往北方的梅茲 (紅色) 或在西北方的大城市奧爾良 (青色)
               時就瓦解。勃根第訓練<nuxt-link to="/units/Archer">弓兵</nuxt-link
               >、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
@@ -165,7 +165,7 @@
               >和城堡作防禦。他們的軍隊包括了<nuxt-link to="/units/Spearman"
                 >長槍兵</nuxt-link
               >、騎士和<nuxt-link to="/units/Monk">僧侶</nuxt-link
-              >，對匈奴人來說是一大威脅。
+              >，對匈人來說是一大威脅。
             </li>
             <li>
               斥候也報告，西羅馬帝國派出阿哀契烏斯的軍隊去支援高盧。雖然羅馬人在這個地區沒有城鎮，但他們的軍團和<nuxt-link
@@ -203,7 +203,7 @@
                 注意：如果<nuxt-link to="/batt">戰役</nuxt-link
                 >在看似擊敗西羅馬軍隊後還沒有完成，就去尋找可能已經逃到城鎮外，在地圖上亂跑的西羅馬流亡單位你需要找到這樣的單位，殺死他們，以徹底擊敗西羅馬軍隊。在大多數情況下，流亡單位可能是一個精英<nuxt-link
                   to="/units/Cataphract"
-                  >聖騎兵</nuxt-link
+                  >拜占庭聖騎兵</nuxt-link
                 >，只能用斥候或馬弓追殺，因為他傾向於逃跑而不是反擊。
               </li>
             </ul>
@@ -243,7 +243,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4">匈奴人</td>
+            <td class="unit4">匈人</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">

@@ -41,10 +41,10 @@
           <p>
             貿易商旅較貿易車隊的移動速度更快（1.32：1），並且貿易商旅可以從<nuxt-link
               to="/techs/Careening"
-              >傾側維修術</nuxt-link
-            >、<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>、<nuxt-link
+              >航海技術</nuxt-link
+            >、<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>、<nuxt-link
               to="/techs/Shipwright"
-              >造船匠</nuxt-link
+              >造船員</nuxt-link
             >獲得提升（但這不會提高黃金的收益，因為貿易商旅會降低每次所獲得的黃金收益，但相對的會提升船的運行速度）。
             <br />然而，相同距離的碼頭所產生的黃金比市場少了約25%，因此每個貿易車隊與貿易商旅的黃金獲得速度差不多。但是，由於貿易商旅通常都沿著海岸線行走，更容易發生遭遇敵人，所以通常大部分人還是會選擇使用貿易車隊。
           </p>
@@ -93,8 +93,8 @@
                 style="margin: 2px;"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1) <br />
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
@@ -113,7 +113,7 @@
                 style="margin: 2px;"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%) <br />
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%) <br />
               <img
                 class="gg"
                 style="margin: 2px;"
@@ -121,7 +121,7 @@
                 width="22"
                 src="~assets/caravan.png"
                 alt=""
-              /><nuxt-link to="/techs/Caravan">大商隊</nuxt-link>(+50%)
+              /><nuxt-link to="/techs/Caravan">商隊</nuxt-link>(+50%)
             </td>
           </tr>
           <tr>
@@ -151,7 +151,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -162,7 +162,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
               <br />
               <img
                 class="gg"
@@ -390,7 +390,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -401,7 +401,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -444,7 +444,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -530,10 +530,10 @@
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+                >航海技術</nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
-                >造船匠</nuxt-link
+                >造船員</nuxt-link
               >便宜50％。
             </li>
             <li>
@@ -543,10 +543,10 @@
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
               >提高10/15/20%，<nuxt-link to="/techs/Careening"
-                >傾側維修術</nuxt-link
+                >航海技術</nuxt-link
               >的研究速度在城堡/帝王提高15/20％。研究<nuxt-link
                 to="/techs/Dry_Dock"
-                >旱碼頭</nuxt-link
+                >船塢</nuxt-link
               >的速度快20％。
             </li>
             <li>
@@ -577,7 +577,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              <nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >減少20%<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
               ><nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
@@ -587,11 +587,11 @@
           </h3>
           <ul>
             <li>
-              1.0版本<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              1.0版本<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >還可減少35%的船隻訓練時間。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
-            <li>引入<nuxt-link to="/techs/Caravan">大商隊</nuxt-link>。</li>
+            <li>引入<nuxt-link to="/techs/Caravan">商隊</nuxt-link>。</li>
             <li>
               團隊有<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >人時貿易商旅多產生33%黃金。
@@ -621,8 +621,8 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >的貿易商旅當研發<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
-              >和<nuxt-link to="/techs/Caravan">大商隊</nuxt-link
+              >的貿易商旅當研發<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link
+              >和<nuxt-link to="/techs/Caravan">商隊</nuxt-link
               >會是遊戲中最快的單位，移動速度達2.0547！
             </li>
           </ul>

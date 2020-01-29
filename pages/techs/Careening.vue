@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>傾側維修術</h1>
+        <h1>航海技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>傾側維修術</b>於<nuxt-link to="/techs/age/Castle_Age"
+            <b>航海技術</b>(2013版稱<b>傾側維修術</b>)於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >研發。研發後<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
@@ -16,7 +17,7 @@
               to="/units/Transport_Ship"
               >運輸船</nuxt-link
             >運輸量+5(總共可載10個單位)。<nuxt-link to="/techs/Dry_Dock"
-              >旱碼頭</nuxt-link
+              >船塢</nuxt-link
             >是更進一步的<nuxt-link to="/techs">科技</nuxt-link>。
           </p>
         </div>
@@ -26,19 +27,17 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：傾側維修術在<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
+              >：航海技術在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >成本便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
-              >：傾側維修術便宜50%。
+              >：航海技術便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：傾側維修術在<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
+              >：航海技術在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代研究速度快15%/20%。
             </li>
           </ul>
@@ -55,7 +54,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">傾側維修術</div>
+              <div class="unititle2">航海技術</div>
             </td>
           </tr>
           <tr>
@@ -99,7 +98,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/dry_dock.png" alt="" /><nuxt-link
                 to="/techs/Dry_Dock"
-                >旱碼頭</nuxt-link
+                >船塢</nuxt-link
               >
             </td>
           </tr>

@@ -13,8 +13,8 @@
               >文明</nuxt-link
             >，可使用的最初文明之一。拜占庭<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
-            >是<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
-            >，聖騎兵是為數不多真正能有效剋制<nuxt-link
+            >是<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+            >，拜占庭聖騎兵是為數不多真正能有效剋制<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
             >的單位之一。不過，他們整體比<nuxt-link to="/units/Knight"
@@ -26,7 +26,7 @@
               >火戰船</nuxt-link
             >射程變得更遠，<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >的特殊科技<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
+            >的特殊科技<nuxt-link to="/techs/Logistica">後勤</nuxt-link
             >，是讓<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
             >更為強大的<nuxt-link to="/techs">科技</nuxt-link
             >，可以使他們的攻擊讓周遭的敵人受到<nuxt-link
@@ -66,7 +66,7 @@
               to="/units/Skirmisher"
               >矛兵</nuxt-link
             >/<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
-            >做為主力部隊，因為這些部隊的造價比其他文明便宜25%，且他們的僧侶們能提供團隊治療速度提高50%。他們的特殊單位聖騎兵是一個重型<nuxt-link
+            >做為主力部隊，因為這些部隊的造價比其他文明便宜25%，且他們的僧侶們能提供團隊治療速度提高50%。他們的特殊單位拜占庭聖騎兵是一個重型<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
             >，對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
@@ -120,7 +120,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/CataphractIcon.png" /><nuxt-link
                 to="/units/Cataphract"
-                >聖騎兵</nuxt-link
+                >拜占庭聖騎兵</nuxt-link
               >
             </td>
           </tr>
@@ -139,7 +139,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+              /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
             </td>
           </tr>
         </table>
@@ -153,7 +153,7 @@
       <p>
         <img class="gg" src="~assets/CataphractIcon.png" /><nuxt-link
           to="/units/Cataphract"
-          >聖騎兵</nuxt-link
+          >拜占庭聖騎兵</nuxt-link
         >：對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
         >有強大的傷害力
       </p>
@@ -168,8 +168,8 @@
       <p>
         <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
           to="/techs/Logistica"
-          >後勤學</nuxt-link
-        >：聖騎兵會對周遭單位造成傷害
+          >後勤</nuxt-link
+        >：拜占庭聖騎兵會對周遭單位造成傷害
       </p>
       <h3>對戰評價</h3>
       <div class="hrn1"></div>

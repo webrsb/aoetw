@@ -63,7 +63,8 @@
               >是在戰場上比較需要注意的，可以生產<nuxt-link to="/units/Onager"
                 >中型投石車</nuxt-link
               >或<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-              >作反制。對上<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >作反制。對上<nuxt-link to="/units/Cataphract"
+                >拜占庭聖騎兵</nuxt-link
               >阿茲雖然沒有<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >但有高攻擊的<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >替代。
@@ -110,7 +111,7 @@
                 >弩砲</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Cataphract"
-                >聖騎兵</nuxt-link
+                >拜占庭聖騎兵</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
@@ -135,13 +136,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -184,7 +186,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -203,7 +205,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -246,7 +248,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -283,7 +285,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
@@ -346,7 +349,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -384,7 +387,7 @@
             src="~assets/unique_tech_imperial.png"
             width="22"
             alt=""
-          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -392,12 +395,12 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+              /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
               >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
             </li>
           </ul>
@@ -423,14 +426,14 @@
               >能夠提高豹勇士的生產速度還有加速<nuxt-link
                 to="/techs/Garland_Wars"
                 >榮冠戰爭</nuxt-link
-              >和<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >和<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
@@ -514,7 +517,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/JaguarWarriorIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/JaguarWarriorIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

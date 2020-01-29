@@ -47,7 +47,7 @@
               <li>
                 <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
                   to="/units/Petard"
-                  >爆炸桶</nuxt-link
+                  >炸藥桶</nuxt-link
                 >
               </li>
             </ul>
@@ -56,12 +56,12 @@
               <li>
                 <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                   to="/units/Tarkan"
-                  >韃靼騎兵</nuxt-link
+                  >答剌罕騎兵</nuxt-link
                 >→
                 <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                   to="/units/Tarkan"
-                  >精銳韃靼騎兵</nuxt-link
-                >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
+                  >精銳答剌罕騎兵</nuxt-link
+                >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
               </li>
             </ul>
           </div>

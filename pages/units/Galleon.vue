@@ -32,7 +32,7 @@
             <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >在任何海戰中都扮演要角的地位，在好的操作之下弩砲戰船、重型弩砲戰船通常能有效的處理<nuxt-link
               to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >以及<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
             >。除了<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
             >、<nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
@@ -51,7 +51,7 @@
           <p>
             弩砲戰船最主要是被<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
             >克制，但在大部分情況下<nuxt-link to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >也嚴重地克制弩砲戰船。<nuxt-link to="/units/Longboat"
               >維京大戰船</nuxt-link
             >、<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
@@ -81,7 +81,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-              >、<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+              >、<nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
               >和近戰單位。
@@ -116,20 +116,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -146,20 +146,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
             </td>
           </tr>
           <tr>
@@ -182,8 +182,8 @@
                 style="margin: 2px;"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1) <br />
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
@@ -202,7 +202,7 @@
                 style="margin: 2px;"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%)
             </td>
           </tr>
           <tr>
@@ -232,7 +232,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -243,7 +243,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
             </td>
           </tr>
         </table>
@@ -465,7 +465,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -476,7 +476,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -517,7 +517,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -601,19 +601,18 @@
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+                >航海技術</nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
-                >造船匠</nuxt-link
+                >造船員</nuxt-link
               >便宜50％。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：重型弩砲戰船訓練的速度在帝王提高20%，研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >和<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
-              >的速度快20％。
+                >航海技術</nuxt-link
+              >和<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>的速度快20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -676,7 +675,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              <nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
           </ul>
@@ -686,7 +685,7 @@
           <ul>
             <li>戰船現在訓練時間為60秒。</li>
             <li>
-              1.0版本<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              1.0版本<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >還可減少35%的船隻訓練時間。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>

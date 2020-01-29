@@ -59,7 +59,7 @@
                 玩家1
               </td>
               <td class="tc6" colspan="3">
-                <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
+                <nuxt-link to="/civs/Huns">匈人</nuxt-link>（黃色）
               </td>
             </tr>
             <tr>
@@ -125,7 +125,7 @@
               3位<nuxt-link to="/units/Villager">村民</nuxt-link
               >、12隻<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
               >、1位<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-              >、10位<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>。
+              >、10位<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>。
             </dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
@@ -152,13 +152,13 @@
         <div class="n1">
           <ul>
             <li>
-              匈奴人（黃色）和他們的同盟東哥德人（紅色），佔著右手邊的戰場。
+              匈人（黃色）和他們的同盟東哥德人（紅色），佔著右手邊的戰場。
             </li>
             <li>
               羅馬人（藍色）和他們的同盟西哥德人（綠色）和奄蔡人（藍綠色），在左手邊的戰場，列陣橫渡這條小河。
             </li>
             <li>
-              佈防以待的法蘭西人（灰色）則位在戰場的中央，很快就會被消滅。他們的命運都不是匈奴人所關心的。
+              佈防以待的法蘭西人（灰色）則位在戰場的中央，很快就會被消滅。他們的命運都不是匈人所關心的。
             </li>
             <li>
               在你的敵軍中，以羅馬人最為危險。他們的<nuxt-link
@@ -166,7 +166,7 @@
                 >步兵</nuxt-link
               >、<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
               >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-              >，一開如就會試圖攻擊在匈奴人側翼的東哥德人。西哥德人有訓練出<nuxt-link
+              >，一開如就會試圖攻擊在匈人側翼的東哥德人。西哥德人有訓練出<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >和一些<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
@@ -188,7 +188,7 @@
                 >，以便玩家能夠快速生產軍隊。軍隊應該由一些<nuxt-link
                   to="/units/Light_Cavalry"
                   >輕騎兵</nuxt-link
-                >和韃靼騎兵以及很多<nuxt-link to="/units/Cavalry_Archer"
+                >和答剌罕騎兵以及很多<nuxt-link to="/units/Cavalry_Archer"
                   >馬弓騎兵</nuxt-link
                 >組成。
               </li>
@@ -216,7 +216,7 @@
                   >騎士</nuxt-link
                 >，因為他們比輕騎兵更耐用。雙線夾擊西羅馬帝國，他們的軍隊會更快被耗盡，而且在城市被毀時，他們就無法在別處重建（堵住他們）。在他們的軍隊被耗盡之前，不要去攻擊。然後，製造一些<nuxt-link
                   to="/units/Petard"
-                  >爆炸桶</nuxt-link
+                  >炸藥桶</nuxt-link
                 >或攻城武器來摧毀他們的城堡。如果玩家選擇攻城武器，他們必須被保護免受敵方近戰單位的傷害。然後摧毀他們的市鎮中心（如果他們試圖重建，請確保它們石頭用完了，或者摧毀它們），玩家所要做的就是殺死剩下的敵方單位並摧毀剩餘的敵方<nuxt-link
                   to="/building"
                   >建築物</nuxt-link
@@ -225,8 +225,8 @@
               <li>
                 玩家會贏得這場戰役，但史實上並不是完全勝利（勝利後的遊戲解說有提到）。而是羅馬人和西哥特人的戰略性勝利。因為這場戰役阻止了<nuxt-link
                   to="/civs/Huns"
-                  >匈奴</nuxt-link
-                >征服羅馬高盧，並且使匈奴撤退。阿蘭斯被描述成<nuxt-link
+                  >匈人</nuxt-link
+                >征服羅馬高盧，並且使匈人撤退。阿蘭斯被描述成<nuxt-link
                   to="/civs/Vikings"
                   >維京人</nuxt-link
                 >，但它們其實不是。
@@ -277,7 +277,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴人</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">

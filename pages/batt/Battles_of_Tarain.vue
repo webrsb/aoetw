@@ -186,8 +186,9 @@
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >、駱駝騎兵、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
-              >(馬木留克)、騎兵和騎驢僧侶。此外，古爾的軍隊在北邊有座大本營。
+              >、駱駝騎兵、<nuxt-link to="/units/Mameluke"
+                >阿拉伯奴隸兵</nuxt-link
+              >(馬木留克)、重裝騎士和騎驢僧侶。此外，古爾的軍隊在北邊有座大本營。
             </li>
             <li>
               巴廷達（黃）是西北角上的一座防衛森嚴的城池，駐紮軍隊有馬弓騎兵、<nuxt-link

@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>礦井採金</h1>
+        <h1>採金裝置</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>礦井採金</b>是<nuxt-link to="/techs/age/Castle_Age"
+            <b>採金裝置</b>(2013版稱<b>礦井採金</b>)是<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             ><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
             >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
@@ -34,13 +35,13 @@
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -114,7 +115,7 @@
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>:<nuxt-link
                 to="/tree/vie"
                 >科技樹</nuxt-link
-              >沒有礦井採金。
+              >沒有採金裝置。
             </li>
           </ul>
           <h3>
@@ -123,7 +124,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >:科技樹有礦井採金了。
+              >:科技樹有採金裝置了。
             </li>
           </ul>
           <h3>
@@ -131,7 +132,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>:礦井採金免費。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>:採金裝置免費。
             </li>
           </ul>
           <h3>
@@ -140,7 +141,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >:在5.7版本後沒有免費的礦井採金了。
+              >:在5.7版本後沒有免費的採金裝置了。
             </li>
           </ul>
         </div>
@@ -157,13 +158,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">礦井採金</div>
+              <div class="unititle2">採金裝置</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/gold_shaft_mining.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/gold_shaft_mining.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

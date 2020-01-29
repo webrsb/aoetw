@@ -110,7 +110,7 @@
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
               >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
@@ -143,7 +143,7 @@
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -197,7 +197,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%工作效率)
             </td>
           </tr>
@@ -228,7 +228,7 @@
               >同隊伍，則需要2塊石頭)
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：垛牆建築速度快33%
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：垛牆建築速度快33%
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -243,7 +243,7 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Treadmill_Crane"
-                >滑輪起重機</nuxt-link
+                >磨坊水車</nuxt-link
               >團隊速度提高80%。
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：垛牆便宜50%</li>
@@ -270,7 +270,7 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >：垛牆建築速度快33%。
             </li>
           </ul>

@@ -14,7 +14,7 @@
             >時，可以從<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >升級為戟兵。他們專門對付<nuxt-link to="/units/Cavalry_Units"
               >騎兵</nuxt-link
-            >(<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+            >(<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
             >除外)，對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
             >以外所造成的傷害都是微弱的。
           </p>
@@ -69,7 +69,7 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
@@ -77,7 +77,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -163,13 +163,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -216,7 +217,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -235,7 +236,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -278,14 +279,14 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>:<nuxt-link
+              /><nuxt-link to="/techs/Perfusion">井噴</nuxt-link>:<nuxt-link
                 to="/building/Barracks"
                 >軍營</nuxt-link
               >工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
@@ -328,7 +329,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -377,7 +379,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -568,7 +570,7 @@
               src="~assets/unique_tech_imperial.png"
               width="22"
               alt=""
-            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -576,12 +578,12 @@
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+                /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
               </li>
             </ul>
@@ -590,7 +592,7 @@
               src="~assets/parthian_tactics.png"
               width="22"
               alt=""
-            /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
+            /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link>
             <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
             <ul>
               <li>
@@ -669,9 +671,9 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：戟兵便宜35％而且對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >的速度快100%。
@@ -684,8 +686,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-              >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >：免費升級<nuxt-link to="/techs/Forging">鍛造技術</nuxt-link
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
               >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
             </li>
             <li>
@@ -703,7 +705,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >。
             </li>
           </ul>
@@ -716,14 +718,14 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >、的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：戟兵訓練快20%。研發<nuxt-link to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >科技的時間快20%。
@@ -844,7 +846,7 @@
             >的進攻並席捲敵兵的方陣，而使用斧槍、長劍、匕首來進行近身戰鬥。德國人的國土僕人模仿瑞士人的戰鬥方式使用來長槍輔以斧槍來戰鬥，但隨身武器是選擇短劍。
           </p>
           <p>
-            只要長槍兵相互交鋒時，斧槍就會成為當陷入長槍混戰時的有用武器，但是當需要保護慢裝填的鉤銃兵或火繩鳥銃兵避免受騎兵突襲時，斧槍兵的作用就減低了，大約在十六世紀中期，斧槍已經不在一般士兵的武器之中。
+            只要長槍兵相互交鋒時，斧槍就會成為當陷入長槍混戰時的有用武器，但是當需要保護慢裝填的鉤銃兵或火繩鳥銃兵避免受騎兵突襲時，戟兵的作用就減低了，大約在十六世紀中期，斧槍已經不在一般士兵的武器之中。
           </p>
           <p>
             斧槍曾被做為庭院保鑣的武器長達數個世紀，現在也是梵諦岡的瑞士衛隊的儀式武器。
@@ -872,7 +874,7 @@
                 src="~assets/162p0005r99962q1q805.jpg"
                 alt=""
             /></gallery>
-            <p><em>歷史上的瑞士斧槍兵。</em></p>
+            <p><em>歷史上的瑞士戟兵。</em></p>
           </div>
         </div>
       </div>
@@ -886,7 +888,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/HalberdierIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/HalberdierIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

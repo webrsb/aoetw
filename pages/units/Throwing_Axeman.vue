@@ -114,7 +114,7 @@
               >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
-              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
@@ -136,13 +136,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -189,7 +190,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -208,7 +209,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%)
             </td>
           </tr>
 
@@ -252,7 +253,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -289,7 +290,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
@@ -352,7 +354,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -390,7 +392,7 @@
             src="~assets/unique_tech_imperial.png"
             width="22"
             alt=""
-          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -398,12 +400,12 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+              /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
               >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
             </li>
           </ul>
@@ -418,7 +420,7 @@
                 >聚居堡壘</nuxt-link
               >能夠提高擲斧兵的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >、<nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>研究時間(快25%)。
             </li>
@@ -426,7 +428,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >的時間快20%。
@@ -475,7 +477,7 @@
             <li>升級精銳擲斧兵需要1000食物和750黃金。</li>
             <li>
               <nuxt-link to="/units/hero/Friar_Tuck">法蘭克</nuxt-link
-              >:得到<nuxt-link to="/techs/Squires">護衛</nuxt-link>技術。
+              >:得到<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>技術。
             </li>
           </ul>
           <h3>

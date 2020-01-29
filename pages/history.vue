@@ -828,7 +828,7 @@
                 ><a
                   href="https://www.aoezone.net/forums/2009-10-master-of-the-huns-season-1.92/"
                   target="_blank"
-                  >匈奴大師賽 (MotH)</a
+                  >匈人大師賽 (MotH)</a
                 >
                 <a
                   href="https://www.aoezone.net/threads/master-of-the-huns-s1-results-and-brackets.23995/"

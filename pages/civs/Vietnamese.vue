@@ -33,7 +33,7 @@
             >的單位<nuxt-link to="/elements/Hit_points">血量</nuxt-link
             >增加，越南軍隊從古至今大多都是由農民和志願者組成，因此可以迅速上戰場因而有免費<nuxt-link
               to="/techs/Conscription"
-              >徵兵制度</nuxt-link
+              >徵兵技術</nuxt-link
             >，另外為了體現越南強大的游擊戰術(越南利用的叢林和懸崖作為陷阱的優勢，通過越南叢林的陰影來襲擊敵人。這種游擊戰術被用來對付敵人的敵人入侵者和占領者，甚至在越南戰爭時期甚至用美國的軍隊來對付美國的軍隊)給予了<nuxt-link
               to="/units/Imperial_Skirmisher"
               >帝王戰矛兵</nuxt-link
@@ -82,8 +82,8 @@
               >更具抗打擊性，帝王戰矛兵又是反弓兵一大殺器，雖然沒有<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >/<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
-              >，但是獨有的文明加成讓其缺陷並沒很明顯，雖然沒有帕提亞戰術但<nuxt-link
+              >/<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
+              >，但是獨有的文明加成讓其缺陷並沒很明顯，雖然沒有安息人戰術但<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >是遊戲裡血量僅次於<nuxt-link to="/civs/Turks">土耳其</nuxt-link
@@ -113,15 +113,15 @@
                 >匈牙利輕騎兵</nuxt-link
               >)/<nuxt-link to="/units/Paladin">遊俠</nuxt-link>/<nuxt-link
                 to="/techs/Husbandry"
-                >畜牧培育</nuxt-link
+                >耕種技術</nuxt-link
               >/鼓風爐，就算擁有<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
               >還有城堡時代特殊科技技恰特拉傘(矛象伕血量+50)，但攻擊和移動上是欠缺的，只能當肉盾來用。
             </li>
             <li>
               海戰的部分欠缺<nuxt-link to="/units/Fast_Fire_Ship"
-                >快速火戰船</nuxt-link
-              >/<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+                >重型火戰船</nuxt-link
+              >/<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >，因而表現平平，<nuxt-link to="/units/Siege_Weapons"
                 >攻城器</nuxt-link
               >部分欠缺<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
@@ -136,7 +136,7 @@
                 >異端邪說</nuxt-link
               >/<nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link>/<nuxt-link
                 to="/techs/Redemption"
-                >信仰救贖</nuxt-link
+                >神聖思想</nuxt-link
               >，因此兵是有被<nuxt-link to="/elements/Conversion"
                 >招降</nuxt-link
               >的危險整體是堪用的。
@@ -198,7 +198,7 @@
           <ul>
             <li>遊戲開始時顯示敵人城鎮中心位置</li>
             <li>射箭場單位血量從封建時代開始+20%</li>
-            <li>免費擁有徵兵制度</li>
+            <li>免費擁有徵兵技術</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link

@@ -438,7 +438,7 @@
           在舒茲伯利左邊的城門附近建造城堡跟<nuxt-link to="/building/Stable"
             >馬廄</nuxt-link
           >還有<nuxt-link to="/units/Siege_Weapons">攻城器製造所</nuxt-link
-          >，他們只要注意到你馬上就會派<nuxt-link to="/units/Cavalier"
+          >，他們只要注意到你馬上就會派<nuxt-link to="/units/Cavalry_Units"
             >騎兵</nuxt-link
           >、巨型投石機跟<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
           >襲來。用強弩兵盡量射殺敵人，用騎兵摧毀攻城武器，打敗舒茲伯利後你可以開採他們領地內的黃金和石頭，可把<nuxt-link

@@ -71,10 +71,10 @@
                 >拇指環</nuxt-link
               >/<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>/<nuxt-link
                 to="/techs/Ring_Archer_Armor"
-                >弓兵環甲</nuxt-link
-              >/<nuxt-link to="/techs/Bracer">護腕</nuxt-link>/<nuxt-link
+                >弓兵鏈甲</nuxt-link
+              >/<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>/<nuxt-link
                 to="/techs/Parthian_Tactics"
-                >帕提亞戰術</nuxt-link
+                >安息人戰術</nuxt-link
               >使得<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >整體而言相當疲弱。
             </li>
@@ -99,13 +99,13 @@
             <li>
               法蘭克在防禦上，沒有火砲台/<nuxt-link to="/building/Keep"
                 >大型箭塔</nuxt-link
-              >/<nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+              >/<nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link
               >(海邊防禦用(舊稱火箭)，但有著便宜25%的城堡讓防禦上不是說很疲弱，且城堡大多都是用來搶奪地圖控制因此有著不錯的優勢。
             </li>
             <li>
               海上部分只缺少<nuxt-link to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
-              >，但核心的<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              >，但核心的<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >是沒有的，所以得花更多時間和資源建立<nuxt-link
                 to="/units/Naval_Vessels"
                 >海軍</nuxt-link

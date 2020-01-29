@@ -254,7 +254,7 @@
               </li>
               <li>
                 然後賄賂商人卡洛斯（基多東部的<nuxt-link to="/units/Petard"
-                  >爆炸桶</nuxt-link
+                  >炸藥桶</nuxt-link
                 >）推遲發貨。當你（法蘭切斯科·德·奧雷亞納）目睹卡洛斯親吻他的情婦並“威脅”告訴他的妻子時，他會命令他的兩名守衛（<nuxt-link
                   to="/units/Halberdier"
                   >戟兵</nuxt-link

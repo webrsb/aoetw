@@ -25,7 +25,7 @@
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >塞爾特狂暴就是取自於這，然而在對蘇格蘭的戰爭中塞爾特用游擊戰造成蘇格蘭的麻煩，因此菘藍武士得特色也取自游擊戰要的速度/破壞，菘藍武士從赤裸上身/臉上藍漆..等都是有考究歷史的。
+            >塞爾特狂熱就是取自於這，然而在對蘇格蘭的戰爭中塞爾特用游擊戰造成蘇格蘭的麻煩，因此菘藍武士得特色也取自游擊戰要的速度/破壞，菘藍武士從赤裸上身/臉上藍漆..等都是有考究歷史的。
           </p>
           <p>
             歷史上他們木工與金屬加工的優異，因而提高了<nuxt-link
@@ -105,7 +105,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link>
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link>
             </td>
           </tr>
         </table>
@@ -123,7 +123,7 @@
               擁有強大的步兵除了天生的移動速度增加15%步兵的相關<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              >全滿(除了<nuxt-link to="/techs/Squires">護衛</nuxt-link
+              >全滿(除了<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
               >因為平衡)。
             </li>
             <li>
@@ -132,7 +132,7 @@
               >)，此外<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
               >+20%、<nuxt-link to="/elements/Hit_points">血量</nuxt-link
               >+40%(<nuxt-link to="/techs/untech">帝王特殊科技</nuxt-link
-              >塞爾特狂暴)、攻城器製造所工作效率+20%(<nuxt-link
+              >塞爾特狂熱)、攻城器製造所工作效率+20%(<nuxt-link
                 to="/elements/Team_Bonus"
                 >團隊加分</nuxt-link
               >)，因此攻城器的使用是上上選。
@@ -146,8 +146,8 @@
               >統，欠缺<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link
               >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
                 to="/techs/Ring_Archer_Armor"
-                >弓兵環甲</nuxt-link
-              >/<nuxt-link to="/techs/Bracer">護腕</nuxt-link
+                >弓兵鏈甲</nuxt-link
+              >/<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
               >這幾項很重要的科技，因此不適合打<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
@@ -160,7 +160,7 @@
               ><nuxt-link to="/units/Paladin">遊俠</nuxt-link>，卻沒有<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >/<nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              >/<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >這二樣關鍵科技另外也無<nuxt-link to="/units/Camel"
                 >駱駝</nuxt-link
               >科技。
@@ -204,7 +204,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link
               >:攻城器製造所的單位血量+40%
             </li>
           </ul>
@@ -240,7 +240,7 @@
           </h3>
           <ul>
             <li>
-              塞爾特狂暴給予攻城武器40%的<nuxt-link to="/elements/Hit_points"
+              塞爾特狂熱給予攻城武器40%的<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
               >加成，而非50%了
             </li>

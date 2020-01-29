@@ -37,7 +37,7 @@
                 >戟兵</nuxt-link
               >或<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
               >搭配的<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >或是<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </li>
             <li>
@@ -79,7 +79,7 @@
                 to="/units/Champion"
                 >劍兵勇士</nuxt-link
               >（<nuxt-link to="/civs/Ethiopians">衣索比亞人</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉人</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來人</nuxt-link>、<nuxt-link
@@ -146,7 +146,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >、<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
@@ -179,13 +179,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -247,7 +248,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -266,7 +267,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -309,14 +310,14 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              /><nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
@@ -337,7 +338,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -379,7 +381,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -461,7 +463,7 @@
               src="~assets/unique_tech_imperial.png"
               width="22"
               alt=""
-            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -469,12 +471,12 @@
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+                /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
               </li>
             </ul>
@@ -505,9 +507,9 @@
               >：傭兵便宜35%並對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >的速度快100%。
@@ -518,8 +520,8 @@
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：<nuxt-link
                 to="/techs/Forging"
-                >鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+                >鍛造技術</nuxt-link
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
               >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>免費。
             </li>
             <li>
@@ -548,7 +550,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >免費。
             </li>
             <li>
@@ -564,14 +566,14 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：傭兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >科技的時間快20%。
@@ -756,7 +758,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/CondottieroIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/CondottieroIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

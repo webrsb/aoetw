@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>草藥學</h1>
+        <h1>草藥治療</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>草藥學</b>於<nuxt-link to="/techs/age/Castle_Age"
+            <b>草藥治療</b>(2013版稱<b>草藥學</b>)於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link
             >研發後可讓駐紮單位的自癒速度提升300%。<nuxt-link
@@ -18,7 +19,7 @@
             >則是每分鐘回48HP
           </p>
           <p>
-            草藥學可顯著提升防禦部隊的機動性，讓受傷單位駐紮到城堡或箭塔中治療，同時給與火力掩護，治療完後又可重新再出戰
+            草藥治療可顯著提升防禦部隊的機動性，讓受傷單位駐紮到城堡或箭塔中治療，同時給與火力掩護，治療完後又可重新再出戰
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -53,7 +54,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -84,7 +85,7 @@
               </h4>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
@@ -139,13 +140,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">草藥學</div>
+              <div class="unititle2">草藥治療</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Herbalmedicine.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Herbalmedicine.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

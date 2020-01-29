@@ -82,7 +82,7 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;">中歐</td>
-              <td class="unit4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
+              <td class="unit4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;">美洲</td>
@@ -94,7 +94,7 @@
             <tr>
               <td class="unit3" style="width: 15%;">東亞</td>
               <td class="unit4">
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+                <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
               </td>
             </tr>
             <tr>

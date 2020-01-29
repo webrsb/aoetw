@@ -66,7 +66,7 @@
                     src="~assets/gold_shaft_mining.png"
                     alt=""
                   /><nuxt-link to="/techs/Gold_Shaft_Mining"
-                    >礦井採金</nuxt-link
+                    >採金裝置</nuxt-link
                   >
                 </li>
                 <li>
@@ -75,7 +75,7 @@
                     src="~assets/stone_shaft_mining.png"
                     alt=""
                   /><nuxt-link to="/techs/Stone_Shaft_Mining"
-                    >礦井採石</nuxt-link
+                    >採石裝置</nuxt-link
                   >
                 </li>
               </ul>
@@ -189,7 +189,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -238,7 +238,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >的速度快80％。
             </li>
           </ul>

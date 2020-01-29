@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>龜甲船</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            <b>龜甲船</b>是<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
             >在《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
             >》資料片中的第二個<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
@@ -40,7 +40,7 @@
             >也是對付龜甲船的不錯選擇。
           </p>
           <p>
-            玩家不要掉入<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            玩家不要掉入<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
             >只建造龜甲船作為<nuxt-link to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >的迷思。龜甲船還是應該跟其他<nuxt-link to="/units/Naval_Vessels"
@@ -52,7 +52,7 @@
             >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >)，龜甲船的額外防禦加成(+8/+11(精銳))可抵銷這些加成傷害，龜甲船對<nuxt-link
               to="/units/Fast_Fire_Ship"
-              >快速火戰船</nuxt-link
+              >重型火戰船</nuxt-link
             >有+1防禦。
           </p>
         </div>
@@ -98,8 +98,7 @@
                 style="margin: 2px;"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1)
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
             </td>
           </tr>
           <tr>
@@ -110,11 +109,11 @@
                 style="margin: 2px;"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%) <br />
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%) <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Panokseon"
                 >板屋船</nuxt-link
-              >(+15%，<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+              >(+15%，<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -144,7 +143,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -155,7 +154,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
             </td>
           </tr>
         </table>
@@ -402,7 +401,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -413,7 +412,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -456,7 +455,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -583,8 +582,8 @@
         <div class="n1">
           <p>
             在1592年<nuxt-link to="/units/Samurai">日本武士</nuxt-link
-            >的襲擊下，韓國和<nuxt-link to="/civs/Chinese">中國</nuxt-link
-            >的命運依靠打破韓國海峽的入侵者供應線，韓國海軍上將楊善信再龜甲船的幫助下贏得了兩次海上勝利。這些戰艦是歷史上第一艘裝甲戰艦，這些戰艦的外形低調，在它們的寬闊邊緣安裝了一連炮，它們的側面和頂部是圓形的，形狀像扁平的龜甲殼，它們不適合在高處使用但在水域相對平靜的沿海水域相當有用，<nuxt-link
+            >的襲擊下，朝鮮和<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >的命運依靠打破朝鮮海峽的入侵者供應線，朝鮮海軍上將楊善信再龜甲船的幫助下贏得了兩次海上勝利。這些戰艦是歷史上第一艘裝甲戰艦，這些戰艦的外形低調，在它們的寬闊邊緣安裝了一連炮，它們的側面和頂部是圓形的，形狀像扁平的龜甲殼，它們不適合在高處使用但在水域相對平靜的沿海水域相當有用，<nuxt-link
               to="/civs/Japanese"
               >日本</nuxt-link
             >艦艇在與它們作戰時處於劣勢，大多數導彈射擊都是從圓形的盔甲上看到的，它們沒有為敵方登機口提供開口，無人護航的敵方船隻很快就被禁用由他們的大砲。
@@ -633,7 +632,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/TurtleShipIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/TurtleShipIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -652,7 +655,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
             </td>
           </tr>
           <tr>

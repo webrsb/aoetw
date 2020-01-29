@@ -31,8 +31,8 @@
           <p>
             如大多數的兩棲地圖同時發展海上及陸上軍隊是勢在必行的，但在水上游牧這張圖更是如此。尤其是<nuxt-link
               to="/units/Demolition_Ship"
-              >神風船</nuxt-link
-            >在這張圖有奇效。好的玩家能藉由微操作讓神風船順利的殲滅一整群敵人。有優秀<nuxt-link
+              >爆破船</nuxt-link
+            >在這張圖有奇效。好的玩家能藉由微操作讓爆破船順利的殲滅一整群敵人。有優秀<nuxt-link
               to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >的<nuxt-link to="/civs">文明</nuxt-link>例如:<nuxt-link

@@ -60,7 +60,7 @@
           <p>
             每個防禦類型都有一個裝甲值，大多數的單位來看，這個裝甲值都是0，只是說明這個單位在這個防禦類型中，並會受到額外的傷害，但在某些但未中，他並非是0。而是一個數字表示，他可以額外抵抗這類防禦類型的傷害，而如果是負數，則代表會增加更多傷害。例如<nuxt-link
               to="/units/Cataphract"
-              >聖騎兵</nuxt-link
+              >拜占庭聖騎兵</nuxt-link
             >的防禦類型是<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵</nuxt-link
             >，但他的<nuxt-link to="/armor/Armor_Class_Cavalry"
@@ -205,7 +205,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
@@ -251,7 +251,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -285,7 +285,7 @@
                       class="gg"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -339,7 +339,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -350,7 +350,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                   <li>
@@ -363,13 +363,13 @@
                       class="gg"
                       src="~assets/DemoShipIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>→
+                    /><nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/HeavyDemoShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Heavy_Demolition_Ship"
-                      >重型神風船</nuxt-link
+                      >重型爆破船</nuxt-link
                     >
                   </li>
                   <li>
@@ -398,7 +398,7 @@
                       src="~assets/TurtleShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
-                    >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+                    >(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -514,7 +514,9 @@
                       class="gg"
                       src="~assets/ConquistadorIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>
+                    /><nuxt-link to="/units/Conquistador"
+                      >西班牙征服者</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -597,7 +599,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -609,7 +611,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                   <li>
@@ -715,7 +717,7 @@
                         class="gg"
                         src="~assets/TarkanIcon.png"
                         alt=""
-                      /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
+                      /><nuxt-link to="/units/Tarkan">精銳答剌罕騎兵</nuxt-link
                       >（8）
                     </li>
                     <li>
@@ -799,7 +801,7 @@
                         src="~assets/FastFireShipIcon.png"
                         alt=""
                       /><nuxt-link to="/units/Fast_Fire_Ship"
-                        >快速火戰船</nuxt-link
+                        >重型火戰船</nuxt-link
                       >（9）
                     </li>
                     <li>
@@ -864,7 +866,7 @@
                       src="~assets/parthian_tactics.png"
                       alt=""
                     /><nuxt-link to="/techs/Parthian_Tactics"
-                      >帕提亞戰術</nuxt-link
+                      >安息人戰術</nuxt-link
                     >
                   </td>
                   <td class="tunitc4">帝王</td>
@@ -923,7 +925,7 @@
                       style="margin: 2px;"
                       src="~assets/careening.png"
                       alt=""
-                    /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>
+                    /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>
                   </td>
                   <td class="tunitc4">
                     城堡
@@ -995,7 +997,7 @@
                       src="~assets/padded_archer_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Padded_Archer_Armor"
-                      >弓兵布甲</nuxt-link
+                      >弓兵護甲</nuxt-link
                     >
                   </td>
                   <td class="tunitc4">封建</td>
@@ -1028,7 +1030,7 @@
                       src="~assets/ring_archer_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Ring_Archer_Armor"
-                      >弓兵環甲</nuxt-link
+                      >弓兵鏈甲</nuxt-link
                     >
                   </td>
                   <td class="tunitc4">帝王</td>
@@ -1043,7 +1045,7 @@
                       src="~assets/scale_barding_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Scale_Barding_Armor"
-                      >騎兵鱗甲</nuxt-link
+                      >鱗鎧甲</nuxt-link
                     >
                   </td>
                   <td class="tunitc4">封建</td>
@@ -1062,7 +1064,7 @@
                       src="~assets/Chainbardingarmor.jpg"
                       alt=""
                     /><nuxt-link to="/techs/Chain_Barding_Armor"
-                      >騎兵鎖甲</nuxt-link
+                      >鏈鎧甲</nuxt-link
                     >
                   </td>
                   <td class="tunitc4">城堡</td>
@@ -1077,7 +1079,7 @@
                       src="~assets/scale_barding_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Plate_Barding_Armor"
-                      >騎兵板甲</nuxt-link
+                      >鐵鎧甲</nuxt-link
                     >
                   </td>
                   <td class="tunitc4">帝王</td>
@@ -1111,7 +1113,7 @@
                       src="~assets/Chainmailarmor.jpg"
                       alt=""
                     /><nuxt-link to="/techs/Chain_Mail_Armor"
-                      >步兵鎖甲</nuxt-link
+                      >步兵鏈甲</nuxt-link
                     >
                   </td>
                   <td class="tunitc4">城堡</td>

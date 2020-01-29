@@ -119,7 +119,7 @@
             <dt>大地之母單位：</dt>
             <dd>
               9位輕騎兵、2位<nuxt-link to="/units/Knight">騎士</nuxt-link
-              >、4位<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
+              >、4位<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
               >、14位長劍兵、3位<nuxt-link to="/units/Man-at-Arms"
                 >裝甲步兵</nuxt-link
               >、3位長槍兵、1位重裝長槍兵、2位護衛長槍兵（HP75）、13位哥德衛隊、8位弓兵、10位<nuxt-link

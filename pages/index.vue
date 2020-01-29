@@ -218,7 +218,7 @@
                     >是遊戲中移動速度最快的單位？
                   </li>
                   <li>
-                    獨輪推車<nuxt-link to="/techs/Wheelbarrow"
+                    輪軸技術<nuxt-link to="/techs/Wheelbarrow"
                       >最佳研發時機</nuxt-link
                     >怎麼看？
                   </li>

@@ -338,7 +338,7 @@
           </li>
           <li>
             渡過河流後，你會遇到薩拉森的<nuxt-link to="/units/Mameluke"
-              >奴隸兵</nuxt-link
+              >阿拉伯奴隸兵</nuxt-link
             >正在摧毀一座房子。由你條頓武士領軍，傷亡應該會降到最低。當一切都結束後，繼續往南前進。記得，別往加里波里去，<nuxt-link
               to="/civs/Saracens"
               >薩拉森人</nuxt-link

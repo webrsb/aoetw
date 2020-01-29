@@ -156,12 +156,12 @@
               <li>
                 地圖的右側資源非常豐富，擊垮綠色村莊後便可與盟友獨佔這個地區，累積足夠資源往米蘭進發。渡河過程中，河道衛兵會是你的主要障礙，他們會派遣<nuxt-link
                   to="/units/Demolition_Ship"
-                  >神風船</nuxt-link
+                  >爆破船</nuxt-link
                 >、<nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link
                 >，只要用城堡便可輕鬆防禦。條頓人可以研發<nuxt-link
                   to="/units/Cannon_Galleon"
                   >火砲戰船</nuxt-link
-                >，這讓擊垮敵人的岸防變得非常容易，只要當心不時出沒的神風船即可。
+                >，這讓擊垮敵人的岸防變得非常容易，只要當心不時出沒的爆破船即可。
               </li>
               <li>
                 登陸後，米蘭、河道衛兵會傾其所有兵力攻擊玩家登岸的軍隊，建議帶上足夠的村民、<nuxt-link

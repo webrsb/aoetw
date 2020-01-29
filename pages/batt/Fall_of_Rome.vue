@@ -49,7 +49,7 @@
                 玩家1
               </td>
               <td class="tc6" colspan="3">
-                <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
+                <nuxt-link to="/civs/Huns">匈人</nuxt-link>（黃色）
               </td>
             </tr>
             <tr>
@@ -110,7 +110,7 @@
               7位<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
                 to="/units/hero/Attila_the_Hun"
                 >阿提拉</nuxt-link
-              >、8位<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
+              >、8位<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
               >、12位<nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >、4台<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>。
@@ -144,7 +144,7 @@
             <li>
               如果你的對手試圖以取得聖器或<nuxt-link to="/building/Wonder"
                 >世界奇觀</nuxt-link
-              >的勝利，此時<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              >的勝利，此時<nuxt-link to="/civs/Huns">匈人</nuxt-link
               >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
               ><nuxt-link to="/techs/Atheism">無神論</nuxt-link>就非常有用。
             </li>
@@ -161,7 +161,7 @@
         <div class="n1">
           <ul>
             <li>
-              匈奴人（黃色）一開始，在阿爾卑斯山的山腳下，就已經有豐富的資源。在其底下，就是義大利北部最具優良防衛能力的城邦。
+              匈人（黃色）一開始，在阿爾卑斯山的山腳下，就已經有豐富的資源。在其底下，就是義大利北部最具優良防衛能力的城邦。
             </li>
             <li>
               米蘭（綠色）是具有軍事野心，如果你花太長的時間去征戰的話，它就可能會趁你防守空虛時乘機出擊。米蘭會訓練<nuxt-link
@@ -186,13 +186,13 @@
               >和<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </li>
             <li>
-              作為匈奴人進攻義大利的前線，他們都希望能夠跟佛羅蘭（橘色）取得連絡，因為他們的騎士、弓兵和<nuxt-link
+              作為匈人進攻義大利的前線，他們都希望能夠跟佛羅蘭（橘色）取得連絡，因為他們的騎士、弓兵和<nuxt-link
                 to="/units/Throwing_Axeman"
                 >擲斧兵</nuxt-link
               >，是羅馬帝國最後的防衛力量。
             </li>
             <li>
-              羅馬本身（藍色）在高盧與匈奴人作戰時就已經大傷元氣。在匈奴人打敗了這些城市之後，他們就會往羅馬出發，並宣稱他們會繼承羅馬帝國。
+              羅馬本身（藍色）在高盧與匈人作戰時就已經大傷元氣。在匈人打敗了這些城市之後，他們就會往羅馬出發，並宣稱他們會繼承羅馬帝國。
             </li>
           </ul>
           <h2>芝麻小事</h2>
@@ -200,7 +200,7 @@
           <div class="n1">
             <ul>
               <li>
-                阿提拉必須擊敗意大利北部的米蘭，帕度亞，阿奎利亞和佛羅蘭等城市。他們每個人都會建立一個世界奇觀（帕度亞則會建造兩個，第二次會在佛羅蘭城市裡），玩家必須在時間耗盡之前破壞世界奇觀。作為匈奴人，無神論技術對延長倒數計時非常有用。在摧毀了某個特定城市的世界奇觀之後，他們會在你摧毀<nuxt-link
+                阿提拉必須擊敗意大利北部的米蘭，帕度亞，阿奎利亞和佛羅蘭等城市。他們每個人都會建立一個世界奇觀（帕度亞則會建造兩個，第二次會在佛羅蘭城市裡），玩家必須在時間耗盡之前破壞世界奇觀。作為匈人，無神論技術對延長倒數計時非常有用。在摧毀了某個特定城市的世界奇觀之後，他們會在你摧毀<nuxt-link
                   to="/building/Town_Center"
                   >城鎮中心</nuxt-link
                 >時投降。
@@ -268,7 +268,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴人</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">

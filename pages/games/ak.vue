@@ -113,7 +113,7 @@
           <li>
             <img class="gg" src="~assets/FireGalleyIcon.png" alt="" /><nuxt-link
               to="/units/Fire_Galley"
-              >火蒙衝</nuxt-link
+              >火艨艟</nuxt-link
             >:<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >就能生產<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>。
           </li>
@@ -122,7 +122,7 @@
               to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
             >:封建時代就能生產的<nuxt-link to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >。
           </li>
         </ul>
@@ -261,7 +261,7 @@
               >速度從 0.9改為1.0
             </li>
           </ul>
-          <nuxt-link to="/civs/Huns">匈奴</nuxt-link>
+          <nuxt-link to="/civs/Huns">匈人</nuxt-link>
           <ul>
             <li>
               馬弓騎兵花費減少的程度，<nuxt-link to="/techs/age/Castle_Age"
@@ -322,7 +322,7 @@
               400W 300F 改為 300W 300F
             </li>
           </ul>
-          <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+          <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
           <ul>
             <li>
               <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
@@ -428,7 +428,7 @@
               >變為54/62(原為52/60)，訓練時間-2秒(原為16秒)
             </li>
             <li>
-              <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
+              <nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
               >(非精銳)：+1基礎攻擊力(變成8)
             </li>
             <li>

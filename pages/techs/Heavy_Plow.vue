@@ -2,23 +2,25 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>重犁</h1>
+        <h1>重型耕犁</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>重犁</b>可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>重型耕犁</b>(2013版稱<b>重犁</b>)可於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
             >研發。可讓<nuxt-link to="/building/Farm">農田</nuxt-link
             >產量增加125<nuxt-link to="/resource/Food">食物</nuxt-link
             >(總共375食物)，<nuxt-link to="/units/Villager">村民</nuxt-link
-            >食物攜帶量+1。<nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
+            >食物攜帶量+1。<nuxt-link to="/techs/Crop_Rotation"
+              >輪耕制度</nuxt-link
             >是更進一步的<nuxt-link to="/techs">科技</nuxt-link>。
           </p>
           <p>
-            已耕種的農田即便重犁研發完直到再次播種前都會維持原產量250食物，若是正在建造的農田則會吃到完整加成變375食物。
+            已耕種的農田即便重型耕犁研發完直到再次播種前都會維持原產量250食物，若是正在建造的農田則會吃到完整加成變375食物。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -52,7 +54,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">重犁</div>
+              <div class="unititle2">重型耕犁</div>
             </td>
           </tr>
           <tr>
@@ -99,7 +101,7 @@
                 src="~assets/horse_collar.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>
+              /><nuxt-link to="/techs/Horse_Collar">獸耕技術</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -110,7 +112,7 @@
                 src="~assets/crop_rotation.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>
+              /><nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -13,7 +13,7 @@
             >，世紀帝國II的可使用的最初<nuxt-link to="/civs">文明</nuxt-link
             >之一。條頓是從古老文明日耳曼人的分支，在歷史上因為<nuxt-link
               to="/civs/Huns"
-              >匈奴</nuxt-link
+              >匈人</nuxt-link
             >的大遷徙最終定居在現今的德國附近，有些在<nuxt-link
               to="/civs/Italians"
               >義大利</nuxt-link
@@ -37,14 +37,14 @@
                 >城鎮中心</nuxt-link
               >駐紮單位+10，在封建時塔爆對方傷害劇增，免費的<nuxt-link
                 to="/techs/Murder_Holes"
-                >垛孔</nuxt-link
+                >近射孔</nuxt-link
               >，使得在上<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >時封建塔爆下來與城堡的損傷下降。
             </li>
             <li>
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
-              ><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              ><nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link
               >(城堡射程+3、且<nuxt-link to="/units/Infantry_Units"
                 >步兵</nuxt-link
               >可以射箭)，使得條頓城堡成為遊戲裡殺傷力最大的城堡。
@@ -83,7 +83,7 @@
             <li>
               <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >系統也只有<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-              >，無輕騎兵/<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >，無輕騎兵/<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >，但因為有<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
               >遊俠<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >也是滿的<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
@@ -95,8 +95,8 @@
                 >強弩兵</nuxt-link
               >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
                 to="/techs/Parthian_Tactics"
-                >帕提亞戰術</nuxt-link
-              >/<nuxt-link to="/techs/Bracer">護腕</nuxt-link>。
+                >安息人戰術</nuxt-link
+              >/<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>。
             </li>
             <li>
               條頓的特殊單位條頓武士，高<nuxt-link to="/elements/Attack"
@@ -112,7 +112,7 @@
               >得宜快速接近目標給予傷害。
             </li>
             <li>
-              條頓城堡是遊戲中最有傷害力的城堡，又因特殊科技垛口含有城堡本身的條頓武士因此在破壞城堡上非常難的，使條頓適合防守戰略。
+              條頓城堡是遊戲中最有傷害力的城堡，又因特殊科技砲門垛口含有城堡本身的條頓武士因此在破壞城堡上非常難的，使條頓適合防守戰略。
             </li>
             <li>
               因為三大垃圾兵中，條頓卻一個半殘（<nuxt-link
@@ -147,7 +147,7 @@
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 alt=""
-              /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              /><nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link
               >：城堡射程+3、且步兵可以射箭
             </li>
           </ul>
@@ -158,7 +158,7 @@
           <ul>
             <li>僧侶擁有兩倍治療距離</li>
             <li>塔可駐紮兩倍的單位</li>
-            <li>免費垛孔(城堡時代才會產生功效)</li>
+            <li>免費近射孔(城堡時代才會產生功效)</li>
             <li>農田成本減免33%</li>
             <li>城鎮中心駐紮單位+10</li>
             <li><strong>團隊加分:</strong>單位抵抗僧侶招降能力增強</li>
@@ -194,7 +194,7 @@
                 >視野</nuxt-link
               >
             </li>
-            <li>條頓人免費垛口</li>
+            <li>條頓人免費砲門垛口</li>
             <li>條頓武士訓練時間為12秒</li>
           </ul>
           <h3>
@@ -301,7 +301,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link>
+              /><nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link>
             </td>
           </tr>
         </table>

@@ -32,9 +32,9 @@
                 >葡萄牙</nuxt-link
               >玩家提升艦隊實力。然而考慮到<nuxt-link to="/resource/Gold"
                 >黃金</nuxt-link
-              >成本<nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
+              >成本<nuxt-link to="/techs/Careening">航海技術</nuxt-link
               >還是得優先研發的，克拉克帆船搭配<nuxt-link to="/techs/Careening"
-                >傾側維修術</nuxt-link
+                >航海技術</nuxt-link
               >讓葡萄牙的艦隊得到實質性的提升，使得葡萄牙<nuxt-link
                 to="/units/Naval_Vessels"
                 >海軍</nuxt-link

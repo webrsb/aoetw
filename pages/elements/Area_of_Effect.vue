@@ -21,7 +21,7 @@
               >*、<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>*
             </li>
             <li>
-              <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>(他不是<nuxt-link
+              <nuxt-link to="/units/Petard">炸藥桶</nuxt-link>(他不是<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
               >)
@@ -36,9 +36,9 @@
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>的<nuxt-link
                 to="/units/Trebuchet"
                 >投石機</nuxt-link
-              >(<nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>)
+              >(<nuxt-link to="/techs/Warwolf">戰狼號</nuxt-link>)
             </li>
-            <li><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link></li>
+            <li><nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link></li>
           </ul>
         </div>
         <h3>踐踏傷害</h3>

@@ -45,7 +45,7 @@
                     class="gg"
                     src="~assets/double-bit_axe.png"
                     alt=""
-                  /><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>
+                  /><nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -59,7 +59,7 @@
                 <li>
                   <img class="gg" src="~assets/bow_saw.png" alt="" /><nuxt-link
                     to="/techs/Bow_Saw"
-                    >弓鋸</nuxt-link
+                    >弓形鋸</nuxt-link
                   >
                 </li>
               </ul>
@@ -189,7 +189,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -238,7 +238,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >的速度快80％。
             </li>
           </ul>

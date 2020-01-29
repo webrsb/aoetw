@@ -19,7 +19,7 @@
               to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >，控制水域跟預防敵人來襲，<nuxt-link to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >可以伏擊穿越淺灘的單位造成大量傷害；<nuxt-link
               to="/units/Transport_Ship"
               >運輸船</nuxt-link

@@ -93,12 +93,11 @@
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/units/Camel"
-                >駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
-                to="/units/War_Elephant"
-                >戰象</nuxt-link
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
               >、防禦建築、<nuxt-link to="/units/Archer_Units"
                 >弓兵單位</nuxt-link
@@ -131,13 +130,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -154,21 +154,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -180,7 +180,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -191,7 +191,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -275,7 +275,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -318,7 +319,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -470,10 +471,10 @@
               >能夠提高貴族鐵騎的生產速度
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -578,7 +579,8 @@
               <p>
                 <em
                   >在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
-                  >測試服的<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                  >測試服的<nuxt-link to="/units/Cataphract"
+                    >拜占庭聖騎兵</nuxt-link
                   >是用貴族鐵騎的模組。</em
                 >
               </p>

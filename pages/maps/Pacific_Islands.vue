@@ -15,7 +15,7 @@
               >海軍單位</nuxt-link
             >都可加入戰場。玩家將從他們自己的沙洲開始，或者在團隊比賽中與隊友分享。太平洋群島四周都有淺灘可供陸上或海上單位通行。<nuxt-link
               to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >在某些淺灘處使用得當的話可以對敵方造成巨量傷害。太平洋群島可說是巨大版的<nuxt-link
               to="/maps/Bog_Islands"
               >沼澤</nuxt-link

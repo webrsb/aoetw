@@ -227,13 +227,13 @@
                   >運輸船</nuxt-link
                 >，威尼斯和卡爾馬尼奧拉都會把你當成敵人，因為海上有著威尼斯人的<nuxt-link
                   to="/units/Demolition_Ship"
-                  >神風船</nuxt-link
+                  >爆破船</nuxt-link
                 >、卡馬尼奧拉的火砲戰船，玩家應該等到它們全數經過後才揚帆前往比阿琴薩城。
               </li>
               <li>
                 當玩家到達克雷莫納時，當地的城堡會歸到你的麾下，但這座城堡也同時會被卡馬尼奧拉的許多火砲戰船攻擊。在這裡就要看點運氣了，看你是否來得及在城堡被摧毀前研發完成<nuxt-link
                   to="/techs/Conscription"
-                  >徵兵制度</nuxt-link
+                  >徵兵技術</nuxt-link
                 >這個<nuxt-link to="/techs">科技</nuxt-link
                 >，這樣以後生產軍事單位時會快一些。（PS：如果玩家一定要研發這個科技，就會建議在前往克雷莫納之前先存檔）
               </li>

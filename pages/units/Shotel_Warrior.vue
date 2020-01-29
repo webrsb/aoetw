@@ -87,14 +87,14 @@
                 to="/civs/Ethiopians"
                 >衣索比亞人</nuxt-link
               >沒有<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
-              >，<nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              >，<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >和<nuxt-link to="/units/Paladin">遊俠</nuxt-link>等<nuxt-link
                 to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               >的重要升級，使得衣索比亞的騎士遠遠不及於<nuxt-link
                 to="/civs/Berbers"
                 >柏柏</nuxt-link
-              >人，<nuxt-link to="/civs/Huns">匈奴</nuxt-link>人和<nuxt-link
+              >人，<nuxt-link to="/civs/Huns">匈人</nuxt-link>人和<nuxt-link
                 to="/civs/Franks"
                 >法蘭克</nuxt-link
               >人等其他<nuxt-link to="/civs">文明</nuxt-link
@@ -161,14 +161,15 @@
             <td class="tta4">
               <img src="~assets/forging.png" width="30" alt="" /><nuxt-link
                 to="/techs/Forging"
-                >鍛造</nuxt-link
+                >鍛造技術</nuxt-link
               >(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -202,7 +203,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -221,7 +222,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -264,7 +265,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img
                 class="gg"
@@ -309,7 +310,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
@@ -372,7 +374,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -410,7 +412,7 @@
             src="~assets/unique_tech_imperial.png"
             width="22"
             alt=""
-          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -418,7 +420,7 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">聖騎兵(精銳)</nuxt-link
+              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
             </li>
           </ul>
@@ -433,7 +435,7 @@
                 >聚居堡壘</nuxt-link
               >能夠提高彎刀勇士的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >和<nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link
               >的研究時間(快25%)。
             </li>
@@ -441,7 +443,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >的時間快20%。

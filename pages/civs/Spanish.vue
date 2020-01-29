@@ -48,18 +48,19 @@
             >，但仍是擁有完整的標準組合。
           </p>
           <p>
-            缺少<nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link
+            缺少<nuxt-link to="/techs/Gold_Shaft_Mining">採金裝置</nuxt-link
             >對於常出貴重兵種的西班牙來說有影響，畢竟不論<nuxt-link
               to="/units/Paladin"
               >遊俠</nuxt-link
-            >、劍勇、僧侶、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+            >、劍勇、僧侶、<nuxt-link to="/units/Conquistador"
+              >西班牙征服者</nuxt-link
             >、<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
             >、甚至<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
             >與火砲都要<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >，而這些單位通常會是西班牙所器重的單位。
           </p>
           <p>
-            或許是要彌補缺少礦井採金，兵工廠升級時的黃金完全減免，且作為海權霸國之一，同盟加分是十分有用的貿易黃金加成。
+            或許是要彌補缺少採金裝置，兵工廠升級時的黃金完全減免，且作為海權霸國之一，同盟加分是十分有用的貿易黃金加成。
           </p>
           <p>
             傳教士擁有較快的移動速度，讓你不必因為為了等待僧侶而脫累進攻速度，但<nuxt-link
@@ -73,7 +74,7 @@
           </p>
           <p>
             由於無法升上<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
-            >，這意味你得產出征服者與火砲去與對手的<nuxt-link
+            >，這意味你得產西班牙征服者火砲去與對手的<nuxt-link
               to="/units/Archer_Units"
               >遠程單位</nuxt-link
             >作應對，<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
@@ -87,10 +88,10 @@
             >的國家，而移動緩慢的步兵，例如<nuxt-link
               to="/units/Teutonic_Knight"
               >條頓武士</nuxt-link
-            >，就絕對只有被征服者打帶跑玩死的份，移動速度較快的傳教士則可以去應對<nuxt-link
+            >，就絕對只有西班牙征服者帶跑玩死的份，移動速度較快的傳教士則可以去應對<nuxt-link
               to="/civs/Persians"
               >波斯</nuxt-link
-            >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
             >等沒有異端邪說，但單位卻又貴重的種族，尤其城堡時代的<nuxt-link
               to="/techs/untech"
               >特殊科技</nuxt-link
@@ -114,7 +115,7 @@
             另外有趣的是，如果西班牙研發其特殊科技-至高主權與<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
-            >內的<nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link
+            >內的<nuxt-link to="/techs/Sappers">兵工學</nuxt-link
             >，其拆塔速度會非常快(二十個<nuxt-link to="/units/Villager"
               >村民</nuxt-link
             >圍者城堡打一下約可造成220點損傷)。
@@ -129,7 +130,7 @@
               class="gg"
               src="~assets/ConquistadorIcon.png"
               alt=""
-            /><nuxt-link to="/units/Conquistador">征服者</nuxt-link
+            /><nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
             >：命中率較低，但殺傷力強大的火槍單位，適合集群攻擊。
           </li>
           <li>
@@ -220,7 +221,7 @@
             </li>
             <li>
               <nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-              >的logo就是征服者的帽子。
+              >的logo就西班牙征服者帽子。
             </li>
             <li>西班牙是唯一沒有弩兵的文明。</li>
             <li>
@@ -301,7 +302,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/ConquistadorIcon.png" /><nuxt-link
                 to="/units/Conquistador"
-                >征服者</nuxt-link
+                >西班牙征服者</nuxt-link
               >
               <br />
               <p>

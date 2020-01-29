@@ -38,7 +38,7 @@
             >東正教這<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >就是取自這邊，帝王時代<nuxt-link to="/techs/Druzhina"
               >王家侍從</nuxt-link
-            >也跟拜占庭的<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
+            >也跟拜占庭的<nuxt-link to="/techs/Logistica">後勤</nuxt-link
             >有相同效果。比較不一樣的是遊戲中給予斯拉夫是<nuxt-link
               to="/units/Infantry_Units"
               >步兵文明</nuxt-link
@@ -50,7 +50,7 @@
               >踐踏傷害</nuxt-link
             >效果的有，<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
             >、<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
-            >(要研發後勤學)、斯拉夫步兵(要研發王家侍從)，然而這三個文明在地理上非常靠近。（東南亞<nuxt-link
+            >(要研發後勤)、斯拉夫步兵(要研發王家侍從)，然而這三個文明在地理上非常靠近。（東南亞<nuxt-link
               to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
             >也有踐踏效果） 備註：踐踏傷害都是360度全受到傷害 戰象跟<nuxt-link
@@ -96,7 +96,7 @@
               >強弩兵</nuxt-link
             >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
               to="/techs/Bracer"
-              >護腕</nuxt-link
+              >強力護腕</nuxt-link
             ><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >核心科技，<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >也無<nuxt-link to="/units/Camel">駱駝</nuxt-link

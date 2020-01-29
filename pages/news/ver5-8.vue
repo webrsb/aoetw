@@ -11,7 +11,7 @@
             <b>5.8改版</b
             >於2018年9月7日正式上線，除了一些遊戲優化外，還大幅修正了一些遊戲平衡，把<nuxt-link
               to="/civs/Koreans"
-              >韓國</nuxt-link
+              >朝鮮</nuxt-link
             >和塔攻都削弱了不少，<nuxt-link to="/units/Arambai"
               >飛鏢騎兵</nuxt-link
             >與<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
@@ -80,7 +80,7 @@
               600F 600G
             </li>
             <li>
-              <img src="~assets/tower.png" class="gg" alt="" />韓國蓋塔時間60s →
+              <img src="~assets/tower.png" class="gg" alt="" />朝鮮蓋塔時間60s →
               75s (其他<nuxt-link to="/civs">文明</nuxt-link>
               80s)
             </li>
@@ -112,7 +112,7 @@
                 src="~assets/FireGalleyIcon.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
+              /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link
               >對<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>傷害 3hp →
               1hp
             </li>
@@ -197,7 +197,7 @@
                 src="~assets/Saracenmamluk_icon.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+              /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
               >移除「騎兵」<nuxt-link to="/armor">防禦類型</nuxt-link
               >(原本會受到 剋騎兵傷害 但有 11 防禦)，受到來自<nuxt-link
                 to="/units/Halberdier"

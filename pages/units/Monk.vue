@@ -91,7 +91,7 @@
               <li>
                 <img class="gg" src="~assets/redemption.png" alt="" /><nuxt-link
                   to="/techs/Redemption"
-                  >信仰救贖</nuxt-link
+                  >神聖思想</nuxt-link
                 >:僧侶可<nuxt-link to="/elements/Conversion">招降</nuxt-link
                 >大部分<nuxt-link to="/building">建築物</nuxt-link>和<nuxt-link
                   to="/units/Siege_Weapons"
@@ -101,7 +101,7 @@
               <li>
                 <img class="gg" src="~assets/atonement.png" alt="" /><nuxt-link
                   to="/techs/Atonement"
-                  >贖罪</nuxt-link
+                  >救贖思想</nuxt-link
                 >:僧侶可招降對方的僧侶。
               </li>
               <li>
@@ -109,7 +109,7 @@
                   class="gg"
                   src="~assets/Herbalmedicine.png"
                   alt=""
-                /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+                /><nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link
                 >:駐紮單位自身治療速度變為6倍。
               </li>
               <li>
@@ -173,7 +173,7 @@
                   class="gg"
                   src="~assets/illumination.png"
                   alt=""
-                /><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link
+                /><nuxt-link to="/techs/Illumination">啟示思想</nuxt-link
                 >:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
               </li>
               <li>
@@ -181,7 +181,7 @@
                   class="gg"
                   src="~assets/block_printing.png"
                   alt=""
-                /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
+                /><nuxt-link to="/techs/Block_Printing">印刷技術</nuxt-link
                 >:僧侶(傳教士)的招降範圍+3。
               </li>
               <li>
@@ -498,7 +498,8 @@
               >都是僧侶科技全滿的文明，而<nuxt-link to="/civs/Teutons"
                 >條頓</nuxt-link
               >與<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >都只缺乏<nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+              >都只缺乏<nuxt-link to="/techs/Herbal_Medicine"
+                >草藥治療</nuxt-link
               >。
             </li>
             <li>

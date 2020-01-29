@@ -46,7 +46,7 @@
                 玩家1
               </td>
               <td class="tc6" colspan="3">
-                <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
+                <nuxt-link to="/civs/Huns">匈人</nuxt-link>（黃色）
               </td>
             </tr>
             <tr>
@@ -117,14 +117,14 @@
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
-              12位<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
+              12位<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
               >、8位<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>。
             </dd>
             <dt>大地之母單位：</dt>
             <dd>
               14隻<nuxt-link to="/units/hero/Hunting_Wolf">獵狼</nuxt-link
-              >、12位<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
-              >、5位韃靼騎兵、2位<nuxt-link to="/units/Hussar"
+              >、12位<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
+              >、5位答剌罕騎兵、2位<nuxt-link to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
               >。
             </dd>
@@ -165,7 +165,7 @@
               >、<nuxt-link to="/resource/Wood">木材</nuxt-link>、<nuxt-link
                 to="/resource/Gold"
                 >黃金</nuxt-link
-              >、石頭、村民和軍隊。你的韃靼騎兵將會被派到每一個村落去掠奪資源。
+              >、石頭、村民和軍隊。你的答剌罕騎兵將會被派到每一個村落去掠奪資源。
             </li>
             <li>
               這是突擊 -
@@ -175,7 +175,7 @@
               >，就會讓他們自動交出資源，所以不需毀壞每一座建築物。
             </li>
             <li>注意一些有資源的地點。因為以後你會需要它們的。</li>
-            <li>匈奴人仍受限於城堡時代。</li>
+            <li>匈人仍受限於城堡時代。</li>
           </ul>
         </div>
         <h2>斥候</h2>
@@ -183,7 +183,7 @@
         <div class="n1">
           <ul>
             <li>
-              阿提拉的匈奴人（黃色）以幾個<nuxt-link to="/units/Cavalry_Units"
+              阿提拉的匈人（黃色）以幾個<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               >入侵東羅馬帝國，但沒有帶同任何的村民。他們預料只會受到來自這裡村落的抵抗。不料，羅馬軍隊（藍色）的駐防陣地就在東面。
             </li>
@@ -196,7 +196,7 @@
           <div class="n1">
             <ul>
               <li>
-                任務的第一部分就是單純的騎馬：用韃靼騎兵燒毀索非亞的市鎮中心之前，建議先用馬弓騎兵把大部分的村民殺光。接下來，策馬前往Naissus，把對付索非亞的擄掠故技重施。
+                任務的第一部分就是單純的騎馬：用答剌罕騎兵燒毀索非亞的市鎮中心之前，建議先用馬弓騎兵把大部分的村民殺光。接下來，策馬前往Naissus，把對付索非亞的擄掠故技重施。
               </li>
               <li>
                 地圖的西南方是第爾哈群，他們有五個<nuxt-link
@@ -204,7 +204,7 @@
                   >長槍兵</nuxt-link
                 >，還有一架<nuxt-link to="/units/Mangonel">投石車</nuxt-link
                 >在<nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link
-                >內。摧毀一部分的木牆引出投石車、用韃靼騎兵殲滅之，運用你的馬弓騎兵去對付那些長槍兵。之後，小心翼翼地用馬弓騎兵在<nuxt-link
+                >內。摧毀一部分的木牆引出投石車、用答剌罕騎兵殲滅之，運用你的馬弓騎兵去對付那些長槍兵。之後，小心翼翼地用馬弓騎兵在<nuxt-link
                   to="/building/Stone_Wall"
                   >石牆</nuxt-link
                 >周遭逡巡，直到你可以看到<nuxt-link to="/building/Castle"
@@ -212,7 +212,7 @@
                 >。
               </li>
               <li>
-                如果控制得宜，馬弓騎兵不會被城堡射傷，還可以讓韃靼騎兵有機會接近城堡下方。不過這僅適用於是在標準、簡單兩個難度，由於電腦沒有研發城垛射孔，韃靼騎兵只要花點時間就能無損地摧毀城堡，而玩家也可以小憩片刻。
+                如果控制得宜，馬弓騎兵不會被城堡射傷，還可以讓答剌罕騎兵有機會接近城堡下方。不過這僅適用於是在標準、簡單兩個難度，由於電腦沒有研發城垛射孔，答剌罕騎兵只要花點時間就能無損地摧毀城堡，而玩家也可以小憩片刻。
               </li>
               <li>
                 當城堡終於被摧毀後，帶領你的人前往南方的底斯索隆尼卡，並讓他們在城市邊緣停下來。在這裡會建議小心控制單位，因為對方那些即將投降的村民很可能會死於你勇猛的騎兵之下。
@@ -269,7 +269,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴人</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">

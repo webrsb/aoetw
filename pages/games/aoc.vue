@@ -20,10 +20,10 @@
             >，其中2種代表新大陸：<nuxt-link to="/civs/Aztecs"
               >阿茲特克</nuxt-link
             >和<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
-            >，另3種分別為<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+            >，另3種分別為<nuxt-link to="/civs/Huns">匈人</nuxt-link
             >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>和<nuxt-link
               to="/civs/Koreans"
-              >韓國</nuxt-link
+              >朝鮮</nuxt-link
             >；另有一戰役系列是互不相干的獨立戰役。此外標準遊戲模式即新增<nuxt-link
               to="/building/Wonder"
               >世界奇觀</nuxt-link
@@ -78,7 +78,7 @@
             >；對抗<nuxt-link to="/building">建築物</nuxt-link
             >也有全新選擇：一次性使用並<nuxt-link to="/elements/Attack"
               >攻擊力</nuxt-link
-            >高的<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+            >高的<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
             >。源自美洲的阿茲特克和馬雅，其<nuxt-link to="/building/Barracks"
               >軍營</nuxt-link
             >可以訓練<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
@@ -170,7 +170,7 @@
           除了原有的帝王世紀戰役，資料片也有新的征服者入侵戰役:
           <ul>
             <li>
-              <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>(匈奴)
+              <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>(匈人)
             </li>
             <li>
               <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>(西班牙/<nuxt-link
@@ -229,7 +229,7 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國人</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮人</nuxt-link
               >投擲器增加<nuxt-link to="/units/Onager">中型投石車</nuxt-link> +1
               的射程，而非 +2。
             </li>
@@ -238,7 +238,7 @@
               >有火箭及額外的裝甲以對抗戰船。
             </li>
             <li>
-              韓國村民的<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+              朝鮮村民的<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
               +1。
             </li>
             <li>龜甲船的造型變得更為真實。</li>
@@ -288,9 +288,8 @@
             <li>
               <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
-              >、<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>和<nuxt-link
-                to="/units/Samurai"
-                >日本武士</nuxt-link
+              >、<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
+              >和<nuxt-link to="/units/Samurai">日本武士</nuxt-link
               >的訓練時間明顯縮短。
             </li>
             <li>
@@ -408,7 +407,7 @@
             <li>
               在遊牧地圖上，中國人、<nuxt-link to="/civs/Persians"
                 >波斯人</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>和<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>和<nuxt-link
                 to="/civs/Mayans"
                 >馬雅人</nuxt-link
               >現在能取得正確的資源。

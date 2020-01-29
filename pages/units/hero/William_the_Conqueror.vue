@@ -24,7 +24,7 @@
             >，只有在地圖編輯器和<nuxt-link to="/batt/Hastings_1066"
               >哈斯汀斯（1066）</nuxt-link
             >中登場，外型是拿著長矛的<nuxt-link to="/units/Cavalier"
-              >騎兵</nuxt-link
+              >重裝騎士</nuxt-link
             >，他是一個<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >，且會自己<nuxt-link to="/elements/Regeneration">回血</nuxt-link

@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>印度火槍</h1>
+        <h1>印度火銃</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>印度火槍</b>是<nuxt-link to="/civs/Indians">印度</nuxt-link
+            <b>印度火銃</b>是<nuxt-link to="/civs/Indians">印度</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -25,10 +25,10 @@
               >的軍隊應該要有以下兩種核心單位:<nuxt-link to="/units/Camel"
                 >駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-              >。印度火槍是讓<nuxt-link to="/units/Hand_Cannoneer"
+              >。印度火銃是讓<nuxt-link to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >生存的關鍵，所以該<nuxt-link to="/techs">科技</nuxt-link
-              >通常要研發；然而印度玩家不應該為了研發印度火槍而失去事情的優先順序，還是要以建造部隊為主。
+              >通常要研發；然而印度玩家不應該為了研發印度火銃而失去事情的優先順序，還是要以建造部隊為主。
             </li>
           </ul>
         </div>
@@ -40,7 +40,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速印度火槍的研究時間(快25%)。
+              >能夠加速印度火銃的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -54,7 +54,7 @@
               跟" शत"的意思是"百"，而"agni" 跟" अग्नी"的意思是"火"）。
             </li>
             <li>
-              印度火槍一開始是讓<nuxt-link to="/units/Hand_Cannoneer"
+              印度火銃一開始是讓<nuxt-link to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >有100%的命中率，後來應該是考慮到遊戲平衡所以改成現在的效果。
             </li>
@@ -65,13 +65,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">印度火槍</div>
+              <div class="unititle2">印度火銃</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech_imperial.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

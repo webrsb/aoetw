@@ -47,7 +47,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link>
+                  <nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link>
                 </td>
                 <td class="tta3">1.73</td>
               </tr>
@@ -62,7 +62,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                  <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                   >、（精銳）<nuxt-link to="/units/Samurai">日本武士</nuxt-link
                   >、（精銳）<nuxt-link to="/units/Plumed_Archer"
                     >羽毛箭射手</nuxt-link
@@ -75,7 +75,9 @@
               <tr>
                 <td class="tta1">
                   （精銳）<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
-                  >、（精銳）<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+                  >、（精銳）<nuxt-link to="/units/Tarkan"
+                    >答剌罕騎兵</nuxt-link
+                  >
                 </td>
                 <td class="tta3">2.13</td>
               </tr>
@@ -158,7 +160,7 @@
                   <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                     to="/units/Turtle_Ship"
                     >龜甲船</nuxt-link
-                  >、<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>
+                  >、<nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link>
                 </td>
                 <td class="tta3">6</td>
               </tr>

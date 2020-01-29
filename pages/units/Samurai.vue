@@ -45,7 +45,7 @@
             <li>
               日本武士天生具有比大多數步兵更快的攻擊速度，再結合日本文明利益25％更快的攻擊速度，讓他們攻擊如閃電般的快速。然而，在面對<nuxt-link
                 to="/units/Cataphract"
-                >聖騎兵</nuxt-link
+                >拜占庭聖騎兵</nuxt-link
               >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >這些特殊單位仍是十分頭痛，對<nuxt-link to="/units/Knight"
                 >騎士</nuxt-link
@@ -114,13 +114,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -154,7 +155,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -173,7 +174,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -210,7 +211,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -247,7 +248,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
@@ -310,7 +312,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -347,7 +349,7 @@
               src="~assets/unique_tech_imperial.png"
               width="22"
               alt=""
-            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -355,12 +357,12 @@
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+                /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
               </li>
             </ul>
@@ -386,14 +388,14 @@
                 >聚居堡壘</nuxt-link
               >能夠提高日本武士的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >的時間快20%。

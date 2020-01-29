@@ -79,7 +79,7 @@
                 <li>
                   海港只能建在淺水區或靠近海岸的淺灘上。在兩棲地圖中，通過將海港放置在海軍和陸地部隊相交的戰略位置，最好是毗鄰森林，使得更少的單位有機會對其造成傷害，同時還能以<nuxt-link
                     to="/units/Demolition_Ship"
-                    >神風船</nuxt-link
+                    >爆破船</nuxt-link
                   >炸飛敵方單位。即使在水位低於平均水平的地圖上，也可以利用港口的權力來威懾附近的敵方<nuxt-link
                     to="/units/Villager"
                     >村民</nuxt-link
@@ -123,7 +123,7 @@
                 <li>
                   <img class="gg" src="~assets/FireGalleyIcon.png" /><nuxt-link
                     to="/units/Fire_Galley"
-                    >火蒙衝</nuxt-link
+                    >火艨艟</nuxt-link
                   >
                 </li>
                 <li>
@@ -160,7 +160,7 @@
                 <li>
                   <img class="gg" src="~assets/DemoShipIcon.png" /><nuxt-link
                     to="/units/Demolition_Ship"
-                    >神風船</nuxt-link
+                    >爆破船</nuxt-link
                   >
                 </li>
                 <li>
@@ -193,7 +193,7 @@
                     style="margin: 2px;"
                     src="~assets/careening.png"
                     alt=""
-                  /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>
+                  /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -214,7 +214,7 @@
                   <img
                     class="gg"
                     src="~assets/FastFireShipIcon.png"
-                  /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
+                  /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -235,7 +235,7 @@
                     class="gg"
                     src="~assets/HeavyDemoShipIcon.png"
                   /><nuxt-link to="/units/Heavy_Demolition_Ship"
-                    >重型神風船</nuxt-link
+                    >重型爆破船</nuxt-link
                   >
                 </li>
                 <li>
@@ -268,7 +268,7 @@
                     style="margin: 2px;"
                     src="~assets/dry_dock.png"
                     alt=""
-                  /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>
+                  /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -276,7 +276,7 @@
                     style="margin: 2px;"
                     src="~assets/shipwright.png"
                     alt=""
-                  /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>
+                  /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -301,10 +301,10 @@
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
-              >、<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>、<nuxt-link
-                to="/units/Huskarl"
-                >哥德衛隊</nuxt-link
-              >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >、<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
+                to="/units/War_Elephant"
+                >戰象</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
@@ -332,26 +332,26 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/heated_shot.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+              /><nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link
               >(對船艦攻擊+4)
             </td>
           </tr>
@@ -363,20 +363,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
             </td>
           </tr>
           <tr>
@@ -430,7 +430,7 @@
                 src="~assets/shipwright.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >(+35%，只有訓練單位加快)。
             </td>
           </tr>
@@ -467,7 +467,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >團隊速度提高80%。
             </li>
             <li>

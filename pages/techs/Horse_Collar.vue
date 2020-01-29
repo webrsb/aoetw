@@ -2,22 +2,24 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>馬軛</h1>
+        <h1>獸耕技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>馬軛</b>可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>獸耕技術</b>(2013版稱<b>馬軛</b>)可於<nuxt-link
+              to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
             >研發。可讓新種植的<nuxt-link to="/building/Farm">農田</nuxt-link
             >產量增加75<nuxt-link to="/resource/Food">食物</nuxt-link
-            >(總共250食物)。<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link
+            >(總共250食物)。<nuxt-link to="/techs/Heavy_Plow"
+              >重型耕犁</nuxt-link
             >是更進一步的<nuxt-link to="/techs">科技</nuxt-link>。
           </p>
           <p>
-            已耕種的農田即便馬軛研發完直到再次播種前都會維持原產量175食物，若是正在建造的農田則會吃到完整加成變250食物。
+            已耕種的農田即便獸耕技術研發完直到再次播種前都會維持原產量175食物，若是正在建造的農田則會吃到完整加成變250食物。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -52,7 +54,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">馬軛</div>
+              <div class="unititle2">獸耕技術</div>
             </td>
           </tr>
           <tr>
@@ -96,7 +98,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/heavy_plow.png" alt="" /><nuxt-link
                 to="/techs/Heavy_Plow"
-                >重犁</nuxt-link
+                >重型耕犁</nuxt-link
               >
             </td>
           </tr>

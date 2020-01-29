@@ -2,30 +2,33 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>聖騎兵</h1>
+        <h1>拜占庭聖騎兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <b>聖騎兵</b>或稱<b>甲冑騎兵</b>，是<nuxt-link to="/civs/Byzantines"
+          <b>拜占庭聖騎兵</b>或稱<b>甲冑騎兵</b>，是<nuxt-link
+            to="/civs/Byzantines"
             >拜占庭</nuxt-link
           >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
           >。對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
           >有大量加成傷害的<nuxt-link to="/units/Cavalry_Units"
             >騎兵單位</nuxt-link
-          >。聖騎兵能夠在<nuxt-link to="/techs/age/Imperial_Age"
+          >。拜占庭聖騎兵能夠在<nuxt-link to="/techs/age/Imperial_Age"
             >帝王時代</nuxt-link
-          >升級成<nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link>。
+          >升級成<nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
+          >。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
-              由於<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
-              >的<nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
+              由於<nuxt-link to="/techs/Logistica">後勤</nuxt-link>的<nuxt-link
+                to="/elements/Area_of_Effect"
+                >踐踏傷害</nuxt-link
               >、對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
-              >有大量加成傷害以及騎兵加成抵免，讓聖騎兵成為弱點最少的單位。
+              >有大量加成傷害以及騎兵加成抵免，讓拜占庭聖騎兵成為弱點最少的單位。
             </li>
             <li>
               騎兵加成抵免能夠降低對<nuxt-link to="/armor/Armor_Class_Cavalry"
@@ -36,26 +39,28 @@
               >加成傷害攻擊擁有(+12/+16(精銳))
             </li>
             <li>
-              騎兵加成抵免的聖騎兵，只剩下微乎其微的加成優勢。連擁有+32對騎兵加成傷害的<nuxt-link
+              騎兵加成抵免的拜占庭聖騎兵，只剩下微乎其微的加成優勢。連擁有+32對騎兵加成傷害的<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
               >也抵免一半的加成傷害。
             </li>
             <li>
-              後帝王時代的聖騎兵<nuxt-link to="/elements/Attack"
+              後帝王時代的拜占庭聖騎兵<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
               >僅有14，攻擊力甚至低於<nuxt-link to="/civs/Malians"
                 >馬利</nuxt-link
               >的<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >，但是+18對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >加成以及大量<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >加成抵免使聖騎兵整體戰鬥能力非常優秀。此外踐踏傷害與高攻速讓聖騎兵能夠與<nuxt-link
+              >加成抵免使拜占庭聖騎兵整體戰鬥能力非常優秀。此外踐踏傷害與高攻速讓拜占庭聖騎兵能夠與<nuxt-link
                 to="/units/Paladin"
                 >遊俠</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
-              >等重騎兵的混戰中製造大量的傷害，但最好避免這種優勢較小的戰鬥，讓聖騎兵與步兵戰鬥發揮更大的優勢。
+              >等重騎兵的混戰中製造大量的傷害，但最好避免這種優勢較小的戰鬥，讓拜占庭聖騎兵與步兵戰鬥發揮更大的優勢。
             </li>
-            <li>聖騎兵非常優秀，但造價昂貴且生產不易，一般來說不常看到。</li>
+            <li>
+              拜占庭聖騎兵非常優秀，但造價昂貴且生產不易，一般來說不常看到。
+            </li>
           </ul>
         </div>
         <h3>反制</h3>
@@ -69,10 +74,10 @@
             </li>
             <p>
               雖然<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-              >打聖騎兵乍聽之下很不切實際，但他仍是對抗聖騎兵的適當選擇，因為戟兵是便宜又可以大量生產的，雖然聖騎兵對各種<nuxt-link
+              >打拜占庭聖騎兵乍聽之下很不切實際，但他仍是對抗拜占庭聖騎兵的適當選擇，因為戟兵是便宜又可以大量生產的，雖然拜占庭聖騎兵對各種<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
-              >都有誇張的傷害加成，並且很容易在一對一中獲勝。一名戟兵只能承受聖騎兵的三刀攻擊，而缺乏<nuxt-link
+              >都有誇張的傷害加成，並且很容易在一對一中獲勝。一名戟兵只能承受拜占庭聖騎兵的三刀攻擊，而缺乏<nuxt-link
                 to="/techs/Plate_Mail_Armor"
                 >步兵板甲</nuxt-link
               >的<nuxt-link to="/civs/Goths">哥德</nuxt-link>戟兵只能承受兩刀。
@@ -80,7 +85,7 @@
             <p>
               對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               >有加成傷害的<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-              >則對聖騎兵表現不佳，每次攻擊只有7點的傷害，一對一戰鬥中完全被秒殺，即使在大規模的對陣中，<nuxt-link
+              >則對拜占庭聖騎兵表現不佳，每次攻擊只有7點的傷害，一對一戰鬥中完全被秒殺，即使在大規模的對陣中，<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
               >可以利用其1的射程優勢，也沒有機會。
@@ -91,12 +96,12 @@
             <p>
               如果有足夠的<nuxt-link to="/resource/Food">食物</nuxt-link
               >和<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >，重騎兵可能是反制聖騎兵最好的策略之一。就算有<nuxt-link
+              >，重騎兵可能是反制拜占庭聖騎兵最好的策略之一。就算有<nuxt-link
                 to="/techs/Logistica"
                 >踐踏</nuxt-link
-              >(<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
+              >(<nuxt-link to="/techs/Logistica">後勤</nuxt-link
               >)傷害，<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-              >仍可以輕騎解決聖騎兵，就算是大規模作戰也一樣，而全面升級的騎兵(<nuxt-link
+              >仍可以輕騎解決拜占庭聖騎兵，就算是大規模作戰也一樣，而全面升級的騎兵(<nuxt-link
                 to="/civs/Berbers"
                 >柏柏</nuxt-link
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>或是<nuxt-link
@@ -122,8 +127,8 @@
             </li>
             <p>
               除了<nuxt-link to="/units/Camel">駱駝</nuxt-link
-              >之外，聖騎兵是<nuxt-link to="/armor">遠防</nuxt-link
-              >最弱的騎兵單位。所以用常理判斷，聖騎兵相當害怕<nuxt-link
+              >之外，拜占庭聖騎兵是<nuxt-link to="/armor">遠防</nuxt-link
+              >最弱的騎兵單位。所以用常理判斷，拜占庭聖騎兵相當害怕<nuxt-link
                 to="/units/Archer_Units"
                 >弓箭手</nuxt-link
               >。
@@ -136,13 +141,13 @@
                 >重裝馬弓騎兵</nuxt-link
               >或是其他的特殊<nuxt-link to="/units/Archer_Units"
                 >射手單位</nuxt-link
-              >，通常都可以解決聖騎兵，即使最弱的<nuxt-link
+              >，通常都可以解決拜占庭聖騎兵，即使最弱的<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
-              >對聖騎兵都有2的傷害。
+              >對拜占庭聖騎兵都有2的傷害。
             </p>
             <p>
-              然後聖騎兵憑著高<nuxt-link to="/elements/Hit_points"
+              然後拜占庭聖騎兵憑著高<nuxt-link to="/elements/Hit_points"
                 >血量</nuxt-link
               >與攻擊力仍然可以威脅小規模的<nuxt-link to="/units/Archer_Units"
                 >遠程單位</nuxt-link
@@ -154,7 +159,7 @@
               <strong><nuxt-link to="/units/Monk">僧侶</nuxt-link>:</strong>
             </li>
             <p>
-              由於聖騎兵的成本相當高，所以很有可能成為敵方<nuxt-link
+              由於拜占庭聖騎兵的成本相當高，所以很有可能成為敵方<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >的首要目標。
@@ -204,19 +209,20 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>:<nuxt-link
+              /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>:<nuxt-link
                 to="/units/Cataphract"
                 >拜占庭聖騎兵</nuxt-link
               >有踐踏傷害，對<nuxt-link to="/armor/Armor_Class_Infantry"
@@ -232,21 +238,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -258,7 +264,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -288,15 +294,15 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
 
-        <h3>剋聖騎兵的單位與建築</h3>
+        <h3>剋拜占庭聖騎兵的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對聖騎兵的額外傷害，按照殺傷力排列。
+          以下單位擁有對拜占庭聖騎兵的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -372,7 +378,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -415,7 +422,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -478,7 +485,7 @@
                 </ul>
               </div>
             </div>
-            以下科技可讓以下單位對聖騎兵有額外攻擊力
+            以下科技可讓以下單位對拜占庭聖騎兵有額外攻擊力
             <div class="n1">
               <img
                 class="gg"
@@ -564,21 +571,22 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高聖騎兵的生產速度和加速<nuxt-link to="/techs/Logistica"
-                >後勤學</nuxt-link
-              >及<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠提高拜占庭聖騎兵的生產速度和加速<nuxt-link
+                to="/techs/Logistica"
+                >後勤</nuxt-link
+              >及<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的研發時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：聖騎兵更不容易被招降。
+              >：拜占庭聖騎兵更不容易被招降。
             </li>
           </ul>
         </div>
@@ -602,7 +610,7 @@
             <li>訓練時間為20秒。</li>
             <li>攻擊速度增加為1.83(精銳為1.73)。</li>
             <li>
-              聖騎兵獲得+12(精銳+16)的<nuxt-link
+              拜占庭聖騎兵獲得+12(精銳+16)的<nuxt-link
                 to="/armor/Armor_Class_Cavalry_Archer"
                 >反騎兵加成防禦</nuxt-link
               >。
@@ -610,7 +618,7 @@
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link></li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >引入：<nuxt-link to="/techs/Logistica">後勤學。</nuxt-link>
+              >引入：<nuxt-link to="/techs/Logistica">後勤。</nuxt-link>
             </li>
           </ul>
         </div>
@@ -618,12 +626,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>與其他特殊單位相比，聖騎兵幾乎沒有弱點。</li>
+            <li>與其他特殊單位相比，拜占庭聖騎兵幾乎沒有弱點。</li>
             <li>
               <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
-              >外型似乎與聖騎兵相當雷同。
+              >外型似乎與拜占庭聖騎兵相當雷同。
             </li>
-            <li>精銳聖騎兵的攻擊速度為1.73，是攻擊速度最快的騎兵。</li>
+            <li>精銳拜占庭聖騎兵的攻擊速度為1.73，是攻擊速度最快的騎兵。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -644,7 +652,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Cataphract.png" alt=""
               /></gallery>
-              <p><em>一群聖騎兵</em></p>
+              <p><em>一群拜占庭聖騎兵</em></p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -653,7 +661,7 @@
                   src="~assets/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"
                   alt=""
               /></gallery>
-              <p><em>聖騎兵模組</em></p>
+              <p><em>拜占庭聖騎兵模組</em></p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -662,7 +670,7 @@
                   src="~assets/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"
                   alt=""
               /></gallery>
-              <p><em>現實生活中的聖騎兵。</em></p>
+              <p><em>現實生活中的拜占庭聖騎兵。</em></p>
             </div>
           </div>
         </div>
@@ -675,13 +683,17 @@
               colspan="2"
               style="background-color:#3c763d;text-align: center;"
             >
-              <div class="unititle" style="color: #fff">聖騎兵</div>
+              <div class="unititle" style="color: #fff">拜占庭聖騎兵</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/CataphractIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/CataphractIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -810,7 +822,7 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              />精銳聖騎兵
+              />精銳拜占庭聖騎兵
             </td>
           </tr>
           <tr>
@@ -834,7 +846,7 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的聖騎兵
+            維基百科上的拜占庭聖騎兵
             <div style="margin-left: 10px;">
               <i
                 ><strong

@@ -263,9 +263,8 @@
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
               >，<nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
-              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，<nuxt-link
-                to="/units/Bombard_Cannon"
-                >火砲</nuxt-link
+              >，<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >，<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >和一位拿著<nuxt-link to="/Relic">遺跡</nuxt-link
               >的僧侶），隨著時間的推移直到遊戲結束（最終可能是數百個單位），但如果玩家將<nuxt-link
                 to="/building/House"
@@ -284,7 +283,7 @@
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
               >、<nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
-              >、騎兵、輕騎兵、<nuxt-link to="/units/Capped_Ram"
+              >、重裝騎士、輕騎兵、<nuxt-link to="/units/Capped_Ram"
                 >裝甲衝撞車</nuxt-link
               >，<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
               >組成。面對他們的時候玩家要全力以赴，<nuxt-link

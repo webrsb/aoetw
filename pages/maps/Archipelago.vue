@@ -43,7 +43,7 @@
             >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
               to="/civs/Japanese"
               >日本</nuxt-link
-            >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
               to="/civs/Malay"
               >馬來</nuxt-link
             >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link

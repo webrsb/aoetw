@@ -11,7 +11,7 @@
             >這篇文章是將有關於<strong>騎兵系裝甲的</strong>。而關於騎兵這個兵種的請參見<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
-            >或<nuxt-link to="/units/Cavalier">騎兵</nuxt-link>。</em
+            >。</em
           >
         </div>
       </div>
@@ -74,7 +74,7 @@
               >→
               <img class="gg" src="~assets/CavalierIcon.png" alt="" /><nuxt-link
                 to="/units/Cavalier"
-                >騎兵</nuxt-link
+                >重裝騎士</nuxt-link
               >→
               <img class="gg" src="~assets/PaladinIcon.png" alt="" /><nuxt-link
                 to="/units/Paladin"
@@ -100,12 +100,12 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>(12)→
+              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>(12)→
               <img
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+              /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
               >(16)(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
             </li>
             <li>
@@ -143,23 +143,23 @@
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>(11)→
+              /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>(11)→
               <img
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+              /><nuxt-link to="/units/Mameluke">精銳阿拉伯奴隸兵</nuxt-link
               >(11)(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                 to="/units/Tarkan"
-                >韃靼騎兵</nuxt-link
+                >答剌罕騎兵</nuxt-link
               >→
               <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                 to="/units/Tarkan"
-                >精銳韃靼騎兵</nuxt-link
-              >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
+                >精銳答剌罕騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/WarWagonIcon.png" alt="" /><nuxt-link
@@ -169,14 +169,14 @@
               <img class="gg" src="~assets/WarWagonIcon.png" alt="" /><nuxt-link
                 to="/units/War_Wagon"
                 >精銳馬戰車</nuxt-link
-              >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+              >(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/ConquistadorIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>→
+              /><nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/ConquistadorIcon.png"
@@ -340,7 +340,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -368,7 +369,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>

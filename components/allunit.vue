@@ -48,8 +48,8 @@
               <nuxt-link to="/units/Archer">弓兵</nuxt-link>•
               <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>•
               <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link><br />
-              <nuxt-link to="/units/Skirmisher">戰矛兵</nuxt-link>•
-              <nuxt-link to="/units/Elite_Skirmisher">精銳戰矛兵</nuxt-link>•
+              <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>•
+              <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>•
               <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link>
               <br />
               <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>•
@@ -71,7 +71,7 @@
               <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
               <br />
               <nuxt-link to="/units/Knight">騎士</nuxt-link>•
-              <nuxt-link to="/units/Cavalier">騎兵</nuxt-link>•
+              <nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>•
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
               <br />
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>•
@@ -79,7 +79,7 @@
               <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
               <br />
               <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>•
-              <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+              <nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -101,7 +101,7 @@
               <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>•
               <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>
               <br />
-              <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+              <nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -112,14 +112,14 @@
               <nuxt-link to="/units/Galley">戰船</nuxt-link>•
               <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>•
               <nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link><br />
-              <nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>•
+              <nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>•
               <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>•
-              <nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
+              <nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>
               <br />
               <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link>•
-              <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>•
+              <nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link>•
               <nuxt-link to="/units/Heavy_Demolition_Ship"
-                >重型神風船</nuxt-link
+                >重型爆破船</nuxt-link
               >
               <br />
               <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>•
@@ -140,7 +140,7 @@
               <div class="row">
                 <div class="col-md-4">
                   <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link><br />
-                  <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link><br />
+                  <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link><br />
                   <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link><br />
                   <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link><br />
                   <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link>
@@ -150,7 +150,7 @@
                   <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link><br />
                   <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>
                   <br />
-                  <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link><br />
+                  <nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link><br />
                   <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>
                   <br />
                   <nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>
@@ -159,12 +159,12 @@
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link><br />
-                  <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link><br />
+                  <nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link><br />
                   <nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link><br />
                   <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link><br />
                   <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                   ><br />
-                  <nuxt-link to="/units/Conquistador">征服者</nuxt-link><br />
+                  <nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link><br />
                   <nuxt-link to="/units/Missionary">傳教士</nuxt-link><br />
                   <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link><br />
                   <nuxt-link to="/units/Slinger">投石手</nuxt-link><br />

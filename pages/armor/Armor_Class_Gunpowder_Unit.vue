@@ -61,7 +61,7 @@
                 class="gg"
                 src="~assets/ConquistadorIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>→
+              /><nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/ConquistadorIcon.png"
@@ -104,7 +104,7 @@
                 src="~assets/TurtleShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
-              >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+              >(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </li>
             <li>
               <img

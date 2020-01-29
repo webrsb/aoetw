@@ -26,7 +26,7 @@
                 >透過技術而提高能力，那麼附加的攻擊就會顯示在單位的訊息欄裡面，例如<nuxt-link
                   to="/units/Archer_Units"
                   >弓兵</nuxt-link
-                >在研發<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
+                >在研發<nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link
                 >後，攻擊將變成4+1
               </p>
               <p>
@@ -65,12 +65,12 @@
                 >與<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
                 >，包含<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
                 >、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
-                >和<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>。
+                >和<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>。
               </li>
               <li><nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link></li>
               <li><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link></li>
               <li><nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link></li>
-              <li><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link></li>
+              <li><nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link></li>
               <li>
                 <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
               </li>
@@ -90,7 +90,9 @@
                 >
               </li>
               <li><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link></li>
-              <li><nuxt-link to="/units/Conquistador">征服者</nuxt-link></li>
+              <li>
+                <nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link>
+              </li>
               <li><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link></li>
               <li>
                 <nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>
@@ -117,7 +119,7 @@
               <li>最高攻擊的是投石機（200）</li>
               <li>
                 非0的最低攻擊是<nuxt-link to="/units/Fire_Galley"
-                  >火蒙衝</nuxt-link
+                  >火艨艟</nuxt-link
                 >（1）
               </li>
               <li>
@@ -126,7 +128,7 @@
               </li>
               <li>
                 非0的最低攻擊是<nuxt-link to="/building/Watch_Tower"
-                  >暸望箭塔</nuxt-link
+                  >暸望台</nuxt-link
                 >與<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
                 >（5）
               </li>

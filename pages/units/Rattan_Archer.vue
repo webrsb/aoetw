@@ -100,15 +100,15 @@
             <td class="tta4">
               <img src="~assets/fletching.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Fletching"
-                >箭羽</nuxt-link
+                >絕世好箭</nuxt-link
               >(+1) <br />
               <img src="~assets/bodkin_arrow.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Bodkin_Arrow"
-                >錐狀箭頭</nuxt-link
+                >羽箭</nuxt-link
               >(+1) <br />
               <img src="~assets/Bracer.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Bracer"
-                >護腕</nuxt-link
+                >強力護腕</nuxt-link
               >(+1) <br />
               <img src="~assets/chemistry.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Chemistry"
@@ -121,15 +121,15 @@
             <td class="tta4">
               <img src="~assets/fletching.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Fletching"
-                >箭羽</nuxt-link
+                >絕世好箭</nuxt-link
               >(+1) <br />
               <img src="~assets/bodkin_arrow.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Bodkin_Arrow"
-                >錐狀箭頭</nuxt-link
+                >羽箭</nuxt-link
               >(+1) <br />
               <img src="~assets/Bracer.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Bracer"
-                >護腕</nuxt-link
+                >強力護腕</nuxt-link
               >(+1)
             </td>
           </tr>
@@ -162,7 +162,7 @@
                 src="~assets/padded_archer_armor.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1) <br />
               <img
                 src="~assets/leather_archer_armor.png"
@@ -174,7 +174,7 @@
                 src="~assets/ring_archer_armor.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -194,7 +194,7 @@
             <td class="tta4">
               <img src="~assets/conscription.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >(+33%)
             </td>
           </tr>
@@ -207,7 +207,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >免費。
             </li>
           </ul>
@@ -220,7 +220,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高藤甲弓兵的生產速度還有加速徵兵制度的研究時間(快25%)
+              >能夠提高藤甲弓兵的生產速度還有加速徵兵技術的研究時間(快25%)
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：<nuxt-link
@@ -316,7 +316,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/RattanarcherIcon2.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/RattanarcherIcon2.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

@@ -39,7 +39,7 @@
             >。<nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
             >可讓<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >射程+1在後期也很有效用；而其他如<nuxt-link to="/techs/Murder_Holes"
-              >垛孔</nuxt-link
+              >近射孔</nuxt-link
             >、<nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link
             >則不符合當前戰術所以不常研發。
           </p>
@@ -85,14 +85,14 @@
                       class="gg"
                       src="~assets/heated_shot.png"
                       alt=""
-                    /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link>
+                    /><nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Murderholes.jpg"
                       alt=""
-                    /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link>
+                    /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -100,7 +100,7 @@
                       src="~assets/treadmill_crane.png"
                       alt=""
                     /><nuxt-link to="/techs/Treadmill_Crane"
-                      >滑輪起重機</nuxt-link
+                      >磨坊水車</nuxt-link
                     >
                   </li>
                 </ul>
@@ -266,7 +266,7 @@
                     src="~assets/treadmill_crane.png"
                     width="30"
                     alt=""
-                  /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                  /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                   >(+20%建造效率)
                 </td>
               </tr>

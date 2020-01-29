@@ -127,10 +127,10 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
-                to="/units/Boyar"
-                >貴族鐵騎</nuxt-link
-              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
+                to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
               >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>。
             </td>
@@ -163,13 +163,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -212,7 +213,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -238,7 +239,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%) <br />
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
@@ -287,7 +288,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -525,14 +526,14 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >、的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：鷹勇士訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
@@ -672,7 +673,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/EagleWarriorIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/EagleWarriorIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

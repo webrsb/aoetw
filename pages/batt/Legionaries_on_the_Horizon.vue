@@ -197,7 +197,7 @@
               <li>
                 突襲了馬吉斯將軍營之後，玩家必須準備好面對十分鐘後來襲的軍團大部隊。軍隊在西北的橋後，一旦他們跨過橋來，玩家就會被要求去殺死貝利薩留，一個<nuxt-link
                   to="/units/Cataphract"
-                  >聖騎兵</nuxt-link
+                  >拜占庭聖騎兵</nuxt-link
                 >模樣的<nuxt-link to="/units/hero">英雄</nuxt-link>。
               </li>
               <li>

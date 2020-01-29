@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>畜牧培育</h1>
+        <h1>耕種技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>畜牧培育</b>於<nuxt-link to="/techs/age/Castle_Age"
+            <b>耕種技術</b>(2013版稱<b>畜牧培育</b>)於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >研發。研發後所有騎乘單位移速+10％。
@@ -16,13 +17,13 @@
           <p>
             一般來說打帶跑單位如:<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
-            >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+            >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
             >或<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
             >等，都需要優先研發此<nuxt-link to="/techs">科技</nuxt-link
             >。相對的，如對方是打帶跑單位，而你的<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
-            >就必須研發畜牧培育，以免被風箏。
+            >就必須研發耕種技術，以免被風箏。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -49,7 +50,7 @@
               >、<nuxt-link to="/civs/Franks">法國</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
@@ -57,7 +58,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -114,7 +115,7 @@
               <nuxt-link to="/civs/Franks">法國</nuxt-link>：在研發<nuxt-link
                 to="/techs/Chivalry"
                 >騎士精神</nuxt-link
-              >後，畜牧培育研發速度快40％。
+              >後，耕種技術研發速度快40％。
             </li>
           </ul>
         </div>
@@ -123,8 +124,8 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >：畜牧培育研發速度快20%。
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
+              >：耕種技術研發速度快20%。
             </li>
           </ul>
         </div>
@@ -135,15 +136,15 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>畜牧培育需要花費250食物。</li>
-            <li>畜牧培育研發時間為50秒。</li>
+            <li>耕種技術需要花費250食物。</li>
+            <li>耕種技術研發時間為50秒。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>版本4.8以後，畜牧培育需要花費150食物。</li>
-            <li>版本4.8以後，畜牧培育研發時間為40秒。</li>
+            <li>版本4.8以後，耕種技術需要花費150食物。</li>
+            <li>版本4.8以後，耕種技術研發時間為40秒。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -168,7 +169,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">畜牧培育</div>
+              <div class="unititle2">耕種技術</div>
             </td>
           </tr>
           <tr>
@@ -239,7 +240,7 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的畜牧培育
+            維基百科上的耕種技術
             <div style="margin-left: 10px;">
               <i
                 ><b

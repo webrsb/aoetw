@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>礦井採石</h1>
+        <h1>採石裝置</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>礦井採石</b>是<nuxt-link to="/techs/age/Castle_Age"
+            <b>採石裝置</b>(2013版稱<b>採石裝置</b>)是<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             ><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
             >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
@@ -45,7 +46,7 @@
                 >義大利</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
@@ -76,7 +77,7 @@
                 >緬甸</nuxt-link
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
@@ -115,13 +116,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">礦井採石</div>
+              <div class="unititle2">採石裝置</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/stone_shaft_mining.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/stone_shaft_mining.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

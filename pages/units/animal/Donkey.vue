@@ -17,7 +17,7 @@
             >，功能就像<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
             >一樣。但是跟貿易車隊相比，他們走得慢多了，但是他們能攜帶更多黃金，而且他們的速度可以透過研發<nuxt-link
               to="/techs/Caravan"
-              >大商隊</nuxt-link
+              >商隊</nuxt-link
             >來加速。
           </p>
         </div>

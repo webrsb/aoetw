@@ -31,9 +31,8 @@
               >)，這讓矛象伕的作戰能力更上層樓。象轎研發不需要<nuxt-link
                 to="/resource/Gold"
                 >黃金</nuxt-link
-              >(不像<nuxt-link to="/techs/Plate_Barding_Armor"
-                >騎兵板甲</nuxt-link
-              >和<nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              >(不像<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
+              >和<nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >)，所以在很多狀況下都可以優先研發。
             </li>
             <li>

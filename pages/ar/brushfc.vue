@@ -60,7 +60,7 @@
                 to="/civs/Vikings"
                 >維京</nuxt-link
               >，軍事優勢的<nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >，都很適合。另外<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              >，都很適合。另外<nuxt-link to="/civs/Huns">匈人</nuxt-link
               >便宜的馬弓優勢，一向都是此打法的首選。南美文明的<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
@@ -166,7 +166,7 @@
           <div class="n1">
             一般來說，所有文明都適合，但以下文明更適合一點。
             <ul>
-              <li>匈奴:馬弓便宜。</li>
+              <li>匈人:馬弓便宜。</li>
               <li>
                 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:<nuxt-link
                   to="/building/Stone_Wall"
@@ -283,7 +283,7 @@
           </tr>
           <tr>
             <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

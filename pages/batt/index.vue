@@ -373,7 +373,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Promise">承諾</nuxt-link>
+                    <nuxt-link to="/batt/The_Promise">臨終夙願</nuxt-link>
                   </div>
                 </td>
               </tr>

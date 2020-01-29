@@ -59,7 +59,7 @@
             肉馬開局是想打就打，除非你是南美國家。而<nuxt-link
               to="/civs/Mongols"
               >蒙古</nuxt-link
-            >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>與<nuxt-link
+            >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>與<nuxt-link
               to="/civs/Magyars"
               >馬扎爾</nuxt-link
             >更是肉馬開局的佼佼者。
@@ -109,7 +109,7 @@
                   >，上封建後<nuxt-link to="/building/Stable">馬廄</nuxt-link>
                 </li>
                 <li>
-                  研發<nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link
+                  研發<nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link
                   >與<nuxt-link to="/techs/Horse_Collar">種田科技</nuxt-link>
                 </li>
                 <li>出馬騷擾對方資源點</li>
@@ -123,7 +123,7 @@
           <div class="n1">
             一般來說，所有文明都適合，但以下文明更適合一點。
             <ul>
-              <li>匈奴:經濟好，爆馬快</li>
+              <li>匈人:經濟好，爆馬快</li>
               <li>馬扎爾:攻擊自動+1，成本更便宜，幾乎等於肉馬的代名詞</li>
               <li><nuxt-link to="/civs/Indians">印度</nuxt-link>:純粹經濟好</li>
               <li>蒙古:升級相當快速</li>
@@ -221,7 +221,7 @@
           <tr>
             <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link><br /><nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link><br /><nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >

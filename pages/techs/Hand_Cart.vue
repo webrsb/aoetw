@@ -81,7 +81,7 @@
             <td class="unit4">
               <img src="~assets/wheelbarrow.png" alt="" class="gg" /><nuxt-link
                 to="/techs/Wheelbarrow"
-                >獨輪推車</nuxt-link
+                >輪軸技術</nuxt-link
               >
             </td>
           </tr>

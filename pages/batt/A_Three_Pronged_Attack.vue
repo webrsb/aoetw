@@ -181,8 +181,8 @@
             <li>
               征夷大將軍王通（紫色）親率重騎兵、諸葛弩、<nuxt-link
                 to="/units/Elite_Skirmisher"
-                >精銳戰矛兵</nuxt-link
-              >和<nuxt-link to="/units/Halberdier">斧槍兵</nuxt-link
+                >戰矛兵</nuxt-link
+              >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >鎮守東都（綠色）。
             </li>
             <li>

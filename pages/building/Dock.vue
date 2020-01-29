@@ -55,7 +55,7 @@
             </li>
             <li>
               通常在碼頭附近蓋<nuxt-link to="/building/Watch_Tower"
-                >暸望箭塔</nuxt-link
+                >暸望台</nuxt-link
               >和<nuxt-link to="/building/Castle">城堡</nuxt-link
               >是很有幫助的，因為這些建築能有效的保護碼頭避免敵船的攻擊，還可以將碼頭放在海灣中，因為這會使敵方海軍難以攻擊碼頭。也可以為碼頭提供很好的保護。
             </li>
@@ -104,7 +104,7 @@
                     <img
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/TradeCogIcon.png" /><nuxt-link
@@ -140,7 +140,7 @@
                   <li>
                     <img class="gg" src="~assets/DemoShipIcon.png" /><nuxt-link
                       to="/units/Demolition_Ship"
-                      >神風船</nuxt-link
+                      >爆破船</nuxt-link
                     >
                   </li>
                   <li>
@@ -173,7 +173,7 @@
                       style="margin: 2px;"
                       src="~assets/careening.png"
                       alt=""
-                    /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>
+                    /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -195,7 +195,7 @@
                       class="gg"
                       src="~assets/FastFireShipIcon.png"
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                   <li>
@@ -217,7 +217,7 @@
                       class="gg"
                       src="~assets/HeavyDemoShipIcon.png"
                     /><nuxt-link to="/units/Heavy_Demolition_Ship"
-                      >重型神風船</nuxt-link
+                      >重型爆破船</nuxt-link
                     >
                   </li>
                   <li>
@@ -250,7 +250,7 @@
                       style="margin: 2px;"
                       src="~assets/dry_dock.png"
                       alt=""
-                    /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>
+                    /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -258,7 +258,7 @@
                       style="margin: 2px;"
                       src="~assets/shipwright.png"
                       alt=""
-                    /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>
+                    /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -372,7 +372,7 @@
                   src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >(+20%建造效率)
               </td>
             </tr>
@@ -384,7 +384,7 @@
                   src="~assets/shipwright.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+                /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link
                 >:船隻<nuxt-link to="/resource/Wood">木頭</nuxt-link
                 >花費-20%，單位生產速度+35%
               </td>
@@ -428,7 +428,7 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Italians">義大利</nuxt-link
-                >：研發<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+                >：研發<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
                 >便宜50%。
               </li>
               <li>
@@ -465,7 +465,7 @@
                   to="/techs/Masonry"
                   >磚瓦技術</nuxt-link
                 >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-                >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >速度快80%
               </li>
               <li>
@@ -518,7 +518,7 @@
               <nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link
               >生產多30%黃金。
             </li>
-            <li>引入<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>。</li>
+            <li>引入<nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>。</li>
             <li>
               引入<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link>。
             </li>

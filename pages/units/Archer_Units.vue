@@ -123,7 +123,7 @@
           </p>
           <p>
             而就馬弓騎兵而言，<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-            >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
               to="/civs/Indians"
               >印度</nuxt-link
             >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
@@ -132,7 +132,7 @@
             >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link
             >與薩拉森都有優秀的馬弓騎兵，特別是那些擁有珍貴的<nuxt-link
               to="/techs/Parthian_Tactics"
-              >帕提亞戰術</nuxt-link
+              >安息人戰術</nuxt-link
             >的文明。
           </p>
         </div>
@@ -150,7 +150,7 @@
                 >射速</nuxt-link
               >提高15％。
             </li>
-            <li>匈奴：馬弓騎兵在城堡/帝王分別便宜10％/20％。</li>
+            <li>匈人：馬弓騎兵在城堡/帝王分別便宜10％/20％。</li>
             <li>義大利：火槍兵便宜15％。</li>
             <li>
               馬雅：弓箭手在<nuxt-link to="/techs/age/Feudal_Age"
@@ -169,7 +169,7 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
-              >和<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >和<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >的射速提高15％。
             </li>
             <li>
@@ -219,7 +219,7 @@
         <div class="n1">
           <ul>
             <li>
-              不包含馬扎爾與柏柏，所有優秀的馬弓騎兵都是來自亞洲。帕提亞戰術也證明了這一點，10個可以研發的文明有9個在亞洲。
+              不包含馬扎爾與柏柏，所有優秀的馬弓騎兵都是來自亞洲。安息人戰術也證明了這一點，10個可以研發的文明有9個在亞洲。
             </li>
             <li>
               遊戲中40個獨特單位有13個是弓箭手類型，包含5個馬弓騎兵，所以遠距離單位是<nuxt-link
@@ -835,7 +835,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/ConquistadorIcon.png" /><nuxt-link
                   to="/units/Conquistador"
-                  >征服者</nuxt-link
+                  >西班牙征服者</nuxt-link
                 >
               </td>
               <td class="tta3">55</td>
@@ -1183,7 +1183,7 @@
                   style="margin: 2px;"
                   src="~assets/parthian_tactics.png"
                   alt=""
-                /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
+                /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">200F 250G</td>
@@ -1238,7 +1238,7 @@
                   src="~assets/padded_archer_armor.png"
                   alt=""
                 /><nuxt-link to="/techs/Padded_Archer_Armor"
-                  >弓兵布甲</nuxt-link
+                  >弓兵護甲</nuxt-link
                 >
               </td>
               <td class="tunitc4">封建</td>
@@ -1267,7 +1267,7 @@
                   style="margin: 2px;"
                   src="~assets/ring_archer_armor.png"
                   alt=""
-                /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>
+                /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">250F 250G</td>
@@ -1280,7 +1280,7 @@
                   style="margin: 2px;"
                   src="~assets/fletching.png"
                   alt=""
-                /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>
+                /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">100F 50G</td>
@@ -1295,7 +1295,7 @@
                   style="margin: 2px;"
                   src="~assets/bodkin_arrow.png"
                   alt=""
-                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
+                /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">200F 100G</td>
@@ -1310,7 +1310,7 @@
                   style="margin: 2px;"
                   src="~assets/Bracer.jpg"
                   alt=""
-                /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>
+                /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">300F 200G</td>
@@ -1493,7 +1493,7 @@
                 /><nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>
+                <nuxt-link to="/techs/Rocketry">火箭技術</nuxt-link>
               </td>
               <td class="tunitc5">750W 750G</td>
               <td class="tunitc6">
@@ -1511,7 +1511,7 @@
                 /><nuxt-link to="/civs/Indians">印度</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link>
+                <nuxt-link to="/techs/Shatagni">印度火銃</nuxt-link>
               </td>
               <td class="tunitc5">500F 300G</td>
               <td class="tunitc6">火槍兵射程+1。</td>

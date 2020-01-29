@@ -15,7 +15,7 @@
               >攻城單位</nuxt-link
             >(包括<nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
             >)對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-            >傷害+20%(<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+            >傷害+20%(<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
             >+200攻擊)，射程+1(除了<nuxt-link to="/units/Battering_Ram"
               >衝撞車</nuxt-link
             >)。
@@ -49,7 +49,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -80,7 +80,7 @@
                 >中國</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
@@ -146,7 +146,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Siegeengineers.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Siegeengineers.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -210,7 +214,7 @@
             <td class="unit4">
               研發後所有<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >傷害+20%(<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >傷害+20%(<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
               >+200攻擊)，射程+1(除了衝撞車)。
             </td>
           </tr>

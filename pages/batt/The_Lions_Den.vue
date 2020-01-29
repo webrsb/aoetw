@@ -178,7 +178,7 @@
                     >科技、靶場升級<nuxt-link to="/units/Heavy_Cavalry_Archer"
                       >重裝馬弓騎兵</nuxt-link
                     >、城堡升級精銳飛刀女兵、<nuxt-link to="/techs/Conscription"
-                      >徵兵制度</nuxt-link
+                      >徵兵技術</nuxt-link
                     >。
                   </li>
                   <li>

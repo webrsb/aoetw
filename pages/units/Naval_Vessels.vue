@@ -57,7 +57,7 @@
             <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
               to="/civs/Byzantines"
               >拜占庭</nuxt-link
-            >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
               to="/civs/Malay"
               >馬來</nuxt-link
             >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
@@ -94,7 +94,7 @@
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
                 to="/units/Demolition_Ship"
-                >神風船</nuxt-link
+                >爆破船</nuxt-link
               >+50% HP。
             </li>
             <li>
@@ -174,7 +174,7 @@
               >每趟黃金多50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：碼頭便宜15%。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：碼頭便宜15%。
             </li>
           </ul>
         </div>
@@ -332,7 +332,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/FireGalleyIcon.png" /><nuxt-link
                   to="/units/Fire_Galley"
-                  >火蒙衝</nuxt-link
+                  >火艨艟</nuxt-link
                 >
               </td>
               <td class="tta3">100</td>
@@ -376,7 +376,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/FastFireShipIcon.png" /><nuxt-link
                   to="/units/Fast_Fire_Ship"
-                  >快速火戰船</nuxt-link
+                  >重型火戰船</nuxt-link
                 >
               </td>
               <td class="tta3">140</td>
@@ -420,7 +420,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/DemoShipIcon.png" /><nuxt-link
                   to="/units/Demolition_Ship"
-                  >神風船</nuxt-link
+                  >爆破船</nuxt-link
                 >
               </td>
               <td class="tta3">60</td>
@@ -442,7 +442,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/HeavyDemoShipIcon.png" /><nuxt-link
                   to="/units/Heavy_Demolition_Ship"
-                  >重型神風船</nuxt-link
+                  >重型爆破船</nuxt-link
                 >
               </td>
               <td class="tta3">70</td>
@@ -655,7 +655,7 @@
                   style="margin: 2px;"
                   src="~assets/careening.png"
                   alt=""
-                /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>
+                /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">250F 150G</td>
@@ -685,7 +685,7 @@
                   style="margin: 2px;"
                   src="~assets/dry_dock.png"
                   alt=""
-                /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>
+                /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">600F 400G</td>
@@ -698,7 +698,7 @@
                   style="margin: 2px;"
                   src="~assets/shipwright.png"
                   alt=""
-                /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>
+                /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">1000F 300G</td>
@@ -714,7 +714,7 @@
                   style="margin: 2px;"
                   src="~assets/fletching.png"
                   alt=""
-                /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>
+                /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">100F 50G</td>
@@ -733,7 +733,7 @@
                   style="margin: 2px;"
                   src="~assets/bodkin_arrow.png"
                   alt=""
-                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
+                /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">200F 100G</td>
@@ -748,7 +748,7 @@
                   style="margin: 2px;"
                   src="~assets/Bracer.jpg"
                   alt=""
-                /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>
+                /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">300F 200G</td>
@@ -902,7 +902,7 @@
                   src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
-                /><nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+                /><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
               </td>
               <td class="tunitc4">
                 <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>

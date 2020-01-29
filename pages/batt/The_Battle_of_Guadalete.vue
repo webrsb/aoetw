@@ -121,7 +121,7 @@
               >匈牙利輕騎兵</nuxt-link
             >)x10、<nuxt-link to="/units/Knight">騎士</nuxt-link>x5、<nuxt-link
               to="/units/Cavalier"
-              >騎兵</nuxt-link
+              >重裝騎士</nuxt-link
             >x5。
           </li>
           <li>

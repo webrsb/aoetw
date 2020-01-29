@@ -14,7 +14,7 @@
           </p>
           <p>
             在遊戲中蘇曼古魯的外型是<nuxt-link to="/units/Cataphract"
-              >聖騎兵</nuxt-link
+              >拜占庭聖騎兵</nuxt-link
             >。會受到所有<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link
             >加成的影響。他不能被<nuxt-link to="/elements/Conversion"

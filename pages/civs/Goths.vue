@@ -93,7 +93,7 @@
               >單位通常克制軍營單位，而無政府則讓射箭場單位束手無策，讓軍營的功能更加完整。<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              >的特殊科技為<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >的特殊科技為<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >，這個<nuxt-link to="/techs">科技</nuxt-link
               >則讓哥德軍營擁有全遊戲最快的步兵生產速度。
             </li>
@@ -125,7 +125,7 @@
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              /><nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >：軍營生產單位速度快100%。
             </li>
           </ul>
@@ -208,7 +208,7 @@
             <li>
               攻城武器雖然不差，但是毫無特色，也就是對於<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >這樣擁有<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >的防禦性文明將很難造成傷害。
             </li>
@@ -376,7 +376,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                成吉思汗5-<nuxt-link to="/batt/The_Promise">承諾</nuxt-link>
+                成吉思汗5-<nuxt-link to="/batt/The_Promise">臨終夙願</nuxt-link>
               </td>
               <td class="tta2">
                 <span class="fas fa-times" style="color: #d9534f;"></span>
@@ -754,7 +754,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>
+              /><nuxt-link to="/techs/Perfusion">井噴</nuxt-link>
             </td>
           </tr>
         </table>

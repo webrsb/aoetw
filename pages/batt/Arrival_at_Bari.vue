@@ -216,7 +216,8 @@
               >比<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
               >或劍士能更有效的對付<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
-              >。聖騎兵是全能的部隊，尤其是<nuxt-link to="/units/Infantry_Units"
+              >。拜占庭聖騎兵是全能的部隊，尤其是<nuxt-link
+                to="/units/Infantry_Units"
                 >步兵</nuxt-link
               >的剋星。誘敵戰術對付敵眾我寡的情形也是很有效的。
             </li>

@@ -38,7 +38,7 @@
             </li>
             <li>
               世界奇觀建造時間非常長，沒有<nuxt-link to="/techs/Treadmill_Crane"
-                >滑輪起重機</nuxt-link
+                >磨坊水車</nuxt-link
               >的狀況下，單獨一名<nuxt-link to="/units/Villager">村民</nuxt-link
               >建造世界奇觀的時間是58.5分鐘。就算有30名村民也要至少5分鐘的時間才能建築完成。
             </li>
@@ -71,7 +71,7 @@
             <li>
               如果你有強大的<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
               >防衛(比如<nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >的<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+              >的<nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link
               >或<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>的<nuxt-link
                 to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
@@ -199,7 +199,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -354,9 +354,9 @@
               <li>
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                   to="/techs/Treadmill_Crane"
-                  >滑輪起重機</nuxt-link
+                  >磨坊水車</nuxt-link
                 >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-                >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >科技的團隊速度提高80%。
               </li>
             </ul>
@@ -459,10 +459,10 @@
                 >的世界奇觀，特诺奇蒂特兰大金字塔，頂上有兩座神廟，一座代表雨神，一座代表戰神，中間有活人祭祀用的石台。大部分祭品都是戰俘，這點引起鄰國不滿，間接導致阿茲特克的滅亡。
               </li>
               <li>
-                <nuxt-link to="/civs/Huns">匈奴人</nuxt-link
+                <nuxt-link to="/civs/Huns">匈人</nuxt-link
                 >不需要房子，連遊戲都這麼說，可是<nuxt-link to="/civs/Huns"
-                  >匈奴</nuxt-link
-                >卻有世界奇觀可以建造，而且根本跟匈奴一點關係沒有(撐死來說，是被他們征服文明的世界奇觀)。
+                  >匈人</nuxt-link
+                >卻有世界奇觀可以建造，而且根本跟匈人一點關係沒有(撐死來說，是被他們征服文明的世界奇觀)。
               </li>
               <li>
                 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
@@ -507,7 +507,7 @@
                 最大的世界奇觀是法蘭克的沙特爾主教座堂，而最小的是狄奧多里克陵墓，但以建築群來說，是高棉的吳哥窟最大。
               </li>
               <li>
-                建立最早的世界奇觀是匈奴的君士坦丁凱旋門，最晚的是馬利的傑內大清真寺，兩者建造時間差距近1600年。但若以原始建築來說，最晚的是斯拉夫基日島的木結構教堂，但也差距了近1400年。
+                建立最早的世界奇觀是匈人的君士坦丁凱旋門，最晚的是馬利的傑內大清真寺，兩者建造時間差距近1600年。但若以原始建築來說，最晚的是斯拉夫基日島的木結構教堂，但也差距了近1400年。
               </li>
             </ul>
           </div>
@@ -917,7 +917,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we">匈奴</span
+              <span class="we">匈人</span
               ><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/君士坦丁凱旋門"
@@ -942,7 +942,7 @@
           <div class="col-md-4">
             <h3>
               <span class="we"
-                ><nuxt-link to="/civs/Koreans">韓國</nuxt-link></span
+                ><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link></span
               ><strong
                 ><a href="https://zh.wikipedia.org/wiki/皇龍寺" target="_blank"
                   >皇龍寺</a
@@ -959,7 +959,7 @@
               位於現今南韓慶州市，553年由新羅真興王下令修建，費時16年，1238年<nuxt-link
                 to="/civs/Mongols"
                 >蒙古人</nuxt-link
-              >入侵被毀，韓國歷史上最大規模的佛寺。
+              >入侵被毀，朝鮮歷史上最大規模的佛寺。
             </p>
             <p>
               登場戰役：征服者的戰役-<nuxt-link to="/batt/Noryang_Point_1598"

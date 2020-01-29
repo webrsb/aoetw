@@ -40,7 +40,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"步兵鱗甲是由圓形金屬鱗片層疊而成，如重疊覆蓋的葉子。這特別能保護士兵免受箭矢和武器的威脅。步兵鱗片可以將衝擊力道轉移，鱗片層會吸收大部分的衝擊力道。鱗甲比皮革更能保護士兵。"</em
+            >"步兵鱗甲是由圓形金屬鱗片層疊而成，如重疊覆蓋的葉子。這特別能保護士兵免受箭矢和武器的威脅。步兵鱗片可以將衝擊力道轉移，鱗片層會吸收大部分的衝擊力道。步兵鱗甲比皮革更能保護士兵。"</em
           >
         </div>
       </div>
@@ -54,7 +54,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/scale_mail_armor.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/scale_mail_armor.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -94,7 +98,7 @@
                 class="gg"
                 src="~assets/Chainmailarmor.jpg"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link>
             </td>
           </tr>
           <tr>

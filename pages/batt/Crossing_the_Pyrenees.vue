@@ -112,7 +112,7 @@
             >x10、<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
             >x10、<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link
             >（匈牙利輕騎兵）x10、<nuxt-link to="/units/Cavalier"
-              >騎兵</nuxt-link
+              >重裝騎士</nuxt-link
             >x5、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
             >x15、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >x5、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
@@ -210,11 +210,11 @@
                   <li>
                     東西兩條路都會有一次升級的優勢，東邊是給予<nuxt-link
                       to="/techs/Plate_Barding_Armor"
-                      >騎兵板甲</nuxt-link
+                      >鐵鎧甲</nuxt-link
                     >、<nuxt-link to="/techs/Plate_Mail_Armor"
                       >步兵板甲</nuxt-link
                     >的<nuxt-link to="/techs">科技</nuxt-link
-                    >，西邊給予<nuxt-link to="/techs/Bracer">護腕</nuxt-link
+                    >，西邊給予<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
                     >、<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
                     >、<nuxt-link to="/techs/Chemistry">化學</nuxt-link
                     >；東邊給近戰防禦、西邊給攻擊上升。

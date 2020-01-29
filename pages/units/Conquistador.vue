@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>征服者</h1>
+        <h1>西班牙征服者</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>征服者</b>是<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            <b>西班牙征服者</b>是<nuxt-link to="/games/aoc"
+              >征服者入侵</nuxt-link
             >資料片中<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
@@ -18,7 +19,7 @@
             >。
           </p>
           <p>
-            征服者可以在<nuxt-link to="/techs/age/Imperial_Age"
+            西班牙征服者可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >升級為<nuxt-link to="/units/Conquistador">精銳征服者</nuxt-link>。
           </p>
@@ -28,35 +29,36 @@
         <div class="n1">
           <ul>
             <li>
-              征服者是具有高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              西班牙征服者是具有高<nuxt-link to="/elements/Attack"
+                >攻擊力</nuxt-link
               >的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >，但和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >的玩法類似。征服者在機動性和持久性方面比<nuxt-link
+              >的玩法類似。西班牙征服者在機動性和持久性方面比<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >具有優勢。雖然他們是最短距離的火藥單位，也不像<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >受益於<nuxt-link to="/techs">科技</nuxt-link
-              >的範圍增加，他們的機動性使他們變得強大而且致命，讓他們非常適合使用打帶跑戰術。在團隊中他們可以製造巨量傷害破壞敵人的陣型。征服者經常搭配<nuxt-link
+              >的範圍增加，他們的機動性使他們變得強大而且致命，讓他們非常適合使用打帶跑戰術。在團隊中他們可以製造巨量傷害破壞敵人的陣型。西班牙征服者經常搭配<nuxt-link
                 to="/units/Knight"
                 >騎士</nuxt-link
               >吸收<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
-              >的傷害，而征服者則殺死敵人的<nuxt-link to="/units/Monk"
+              >的傷害，而西班牙征服者則殺死敵人的<nuxt-link to="/units/Monk"
                 >僧侶</nuxt-link
-              >。敵軍騎兵對征服者來說是一個巨大的威脅，尤其是<nuxt-link
+              >。敵軍騎兵對西班牙征服者來說是一個巨大的威脅，尤其是<nuxt-link
                 to="/units/Camel"
                 >駱駝騎兵</nuxt-link
               >。<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >也是，所以戰鬥時不應該在同一地點停留太久。<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >可以傷到征服者，只要他們能追到征服者。<nuxt-link
+              >可以傷到西班牙征服者，只要他們能追到西班牙征服者。<nuxt-link
                 to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
               >也是有效的，雖然不如對付<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >那樣有效，而且征服者打他們也很痛。
+              >那樣有效，而且西班牙征服者打他們也很痛。
             </li>
           </ul>
         </div>
@@ -89,10 +91,10 @@
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Condottiero"
                 >傭兵</nuxt-link
-              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/units/Camel"
-                >駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+                to="/units/Elite_Skirmisher"
+                >戰矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Pikeman"
@@ -126,7 +128,7 @@
                 src="~assets/padded_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -140,7 +142,7 @@
                 src="~assets/ring_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -152,7 +154,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -182,15 +184,15 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
 
-        <h3>剋征服者的單位</h3>
+        <h3>剋西班牙征服者的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對征服者的額外傷害，按造殺傷力排列。
+          以下單位擁有對西班牙征服者的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -284,7 +286,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -345,7 +348,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -460,7 +463,7 @@
               </div>
             </div>
           </div>
-          以下科技可讓以下單位對征服者有額外傷害
+          以下科技可讓以下單位對西班牙征服者有額外傷害
           <div class="n1">
             <img
               class="gg"
@@ -537,7 +540,7 @@
             </ul>
           </div>
           以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
-          >可讓以下單位對征服者有額外傷害:
+          >可讓以下單位對西班牙征服者有額外傷害:
           <div class="n1">
             <nuxt-link to="/civs/Persians">波斯</nuxt-link
             >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -558,7 +561,7 @@
                       class="gg"
                       src="~assets/CavalierIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/PaladinIcon.png"
@@ -578,7 +581,7 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >加成征服者的科技不需花費<nuxt-link to="/resource/Gold"
+              >加成西班牙征服者的科技不需花費<nuxt-link to="/resource/Gold"
                 >黃金</nuxt-link
               >。
             </li>
@@ -592,25 +595,25 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高征服者的生產速度還有加速<nuxt-link
+              >能夠提高西班牙征服者的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：征服者更不容易被招降。
+              >：西班牙征服者更不容易被招降。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >：征服者訓練速度快20%。
+              >：西班牙征服者訓練速度快20%。
             </li>
           </ul>
         </div>
@@ -619,7 +622,7 @@
         <div class="n1">
           <p>
             征服新世界的<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >冒險家們被稱為征服者。這些人是一群貴族的子弟和尋找冒險和戰利品的幸運士兵。大多數是沒有工作的士兵。他們抵達新大陸，在武器上擁有巨大的技術優勢，當地人無法抵抗劍，火槍的攻擊。馬對第一次遇到牠的當地人來說也都讓他們感到特別恐怖。騎乘的人被認為是某種新生物，半人半四腳的野獸。由於歐洲疾病在當地部落間蔓延，並有時與當地部落結盟攻打其他部落，征服者的小軍隊相對輕鬆地征服了兩個偉大的美國<nuxt-link
+            >冒險家們被稱為西班牙征服者。這些人是一群貴族的子弟和尋找冒險和戰利品的幸運士兵。大多數是沒有工作的士兵。他們抵達新大陸，在武器上擁有巨大的技術優勢，當地人無法抵抗劍，火槍的攻擊。馬對第一次遇到牠的當地人來說也都讓他們感到特別恐怖。騎乘的人被認為是某種新生物，半人半四腳的野獸。由於歐洲疾病在當地部落間蔓延，並有時與當地部落結盟攻打其他部落，西班牙征服者的小軍隊相對輕鬆地征服了兩個偉大的美國<nuxt-link
               to="/civs"
               >文明</nuxt-link
             >，<nuxt-link to="/civs/Aztecs">阿茲特克人</nuxt-link>和<nuxt-link
@@ -639,7 +642,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Conquistadorgroup.png" alt=""
               /></gallery>
-              <p><em>一群征服者</em></p>
+              <p><em>一群西班牙征服者</em></p>
             </div>
           </div>
         </div>
@@ -652,13 +655,17 @@
               colspan="2"
               style="background-color:#3c763d;text-align: center;"
             >
-              <div class="unititle" style="color: #fff">征服者</div>
+              <div class="unititle" style="color: #fff">西班牙征服者</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ConquistadorIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/ConquistadorIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

@@ -43,7 +43,7 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
@@ -51,7 +51,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
@@ -147,7 +147,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            偉大的宗教會激發廣大信眾的忠誠和激情。其結果是高度的承諾和努力，特別是該宗教的教師和翻譯員之間。
+            偉大的宗教會激發廣大信眾的忠誠和激情。其結果是高度的臨終夙願和努力，特別是該宗教的教師和翻譯員之間。
           </p>
         </div>
       </div>

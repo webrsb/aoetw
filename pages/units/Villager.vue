@@ -118,7 +118,7 @@
           </tr>
           <tr>
             <td class="ttb1">
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>礦工
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>礦工
             </td>
             <td class="ttb2">
               <nuxt-link to="/resource/Stone">石頭</nuxt-link>
@@ -198,14 +198,14 @@
           請注意，農田的實際收集率將由於需要在農田四處走動而降低。步行時間是村民在技術上來說屬於閒置，並不收集資源的時間。考慮步行時間在內，農夫的平均收集率約是0.3003食物/秒（研發<nuxt-link
             to="/techs"
             >科技</nuxt-link
-          ><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link
+          ><nuxt-link to="/techs/Wheelbarrow">輪軸技術</nuxt-link
           >將增加13.6%的效率，約為0.34）。同時考慮到農夫需要額外的步行時間才能到達農田的聚集點（和背面），他們的淨糧食產量實際上更低(可參考測試一)。
         </p>
         <p>
           測試一：無獨輪、以TC旁最佳蓋法一圈8田為方法，村從TC放出來第一格田自己走到定點，48秒後回TC放肉(走回TC的時間不在48S內)共採肉94，速率0.24
         </p>
         <p>
-          註1：<nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link
+          註1：<nuxt-link to="/techs/Wheelbarrow">輪軸技術</nuxt-link
           >對於伐木、採礦增加的效率約只有3%，遠低於農夫的效果
         </p>
         <p>
@@ -533,7 +533,7 @@
               >建築類</nuxt-link
             >型，升級或原始生命值如何，這都是一樣的。
             <li>
-              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>
+              <nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link>
             </li>
             不影響修理速度。
             <div>
@@ -584,7 +584,7 @@
                   src="~assets/wheelbarrow.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>(+3)
+                /><nuxt-link to="/techs/Wheelbarrow">輪軸技術</nuxt-link>(+3)
               </div>
               <div>
                 <img
@@ -600,7 +600,7 @@
                   src="~assets/heavy_plow.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link
+                /><nuxt-link to="/techs/Heavy_Plow">重型耕犁</nuxt-link
                 >(+1)(食物限定)
               </div>
             </td>
@@ -615,7 +615,7 @@
                   src="~assets/double-bit_axe.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>(+20%)
+                /><nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link>(+20%)
               </div>
               <div>
                 <img
@@ -623,7 +623,7 @@
                   src="~assets/bow_saw.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link>(+20%)
+                /><nuxt-link to="/techs/Bow_Saw">弓形鋸</nuxt-link>(+20%)
               </div>
               <div>
                 <img
@@ -648,7 +648,7 @@
                   src="~assets/stone_shaft_mining.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link
+                /><nuxt-link to="/techs/Stone_Shaft_Mining">採石裝置</nuxt-link
                 >(+15%)
               </div>
               <li>黃金:</li>
@@ -666,7 +666,7 @@
                   src="~assets/gold_shaft_mining.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link
+                /><nuxt-link to="/techs/Gold_Shaft_Mining">採金裝置</nuxt-link
                 >(+15%)
               </div>
               <div>
@@ -713,7 +713,7 @@
                   src="~assets/sappers.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link
+                /><nuxt-link to="/techs/Sappers">兵工學</nuxt-link
                 >(攻擊建築物和防禦工事造成的傷害+15)
               </div>
               <div>
@@ -722,10 +722,8 @@
                   src="~assets/forging.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1，<nuxt-link
-                  to="/civs/Incas"
-                  >印加</nuxt-link
-                >限定)
+                /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link
+                >(+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
               </div>
               <div>
                 <img
@@ -733,7 +731,7 @@
                   src="~assets/iron_casting.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+                /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
                 >(+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
               </div>
               <div>
@@ -782,7 +780,7 @@
                   src="~assets/Chainmailarmor.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
                 >(+1/+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
               </div>
               <div>
@@ -814,7 +812,7 @@
                   src="~assets/wheelbarrow.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>(+10%)
+                /><nuxt-link to="/techs/Wheelbarrow">輪軸技術</nuxt-link>(+10%)
               </div>
               <div>
                 <img
@@ -857,7 +855,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(建築速度加快30%)
             </td>
           </tr>
@@ -912,7 +910,7 @@
               >內。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >：村民視線+3。礦工收集石頭快20％。建築速度快25％ 。
             </li>
             <li>
@@ -946,7 +944,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：免費獨輪推車與<nuxt-link to="/techs/Hand_Cart"
+              >：免費輪軸技術與<nuxt-link to="/techs/Hand_Cart"
                 >手推車</nuxt-link
               >。
             </li>
@@ -991,7 +989,7 @@
           <ul>
             <li>村民對箭塔、牆與城堡有+6的攻擊。</li>
             <li>
-              韓國村民最初有+2<nuxt-link to="/elements/Line_of_Sight"
+              朝鮮村民最初有+2<nuxt-link to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >，1.0c後變成+3視野。
             </li>
@@ -1013,7 +1011,7 @@
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
               >村民有15％的額外資源採集量。
             </li>
-            <li>韓國村民蓋箭塔與城堡快25％。</li>
+            <li>朝鮮村民蓋箭塔與城堡快25％。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
@@ -1082,7 +1080,11 @@
               <div class="unititle">
                 <b-tabs no-fade>
                   <b-tab title="男村民">
-                    <img src="~assets/VillagerMaleIcon.png" class="img-fluid" alt="" />
+                    <img
+                      src="~assets/VillagerMaleIcon.png"
+                      class="img-fluid"
+                      alt=""
+                    />
                   </b-tab>
                   <b-tab title="女村民">
                     <img

@@ -61,7 +61,7 @@
               to="/units/Mangonel"
               >投石車</nuxt-link
             >能更有效率地完成這項任務，不過<nuxt-link to="/civs/Huns"
-              >匈奴</nuxt-link
+              >匈人</nuxt-link
             >與<nuxt-link to="/civs/Turks">土耳其</nuxt-link>人沒有<nuxt-link
               to="/units/Onager"
               >中型投石車</nuxt-link
@@ -155,7 +155,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Warwolf">戰狼</nuxt-link
+              /><nuxt-link to="/techs/Warwolf">戰狼號</nuxt-link
               >:巨型投石機有範圍傷害。<nuxt-link to="/civs/Britons"
                 >不列顛</nuxt-link
               >限定
@@ -190,7 +190,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Warwolf">戰狼</nuxt-link
+              /><nuxt-link to="/techs/Warwolf">戰狼號</nuxt-link
               >:對靜止單位有100%命中率。<nuxt-link to="/civs/Britons"
                 >不列顛</nuxt-link
               >限定
@@ -238,7 +238,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
           <tr>
@@ -280,7 +280,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -445,7 +445,7 @@
               >便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：投石機對單位命中率+35%。
             </li>
             <li>
@@ -456,7 +456,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >免費。
             </li>
           </ul>
@@ -470,7 +470,7 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速訓練投石機和<nuxt-link to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
@@ -513,7 +513,7 @@
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：引進<nuxt-link
                 to="/techs/Warwolf"
-                >戰狼</nuxt-link
+                >戰狼號</nuxt-link
               >。
             </li>
             <li>
@@ -591,7 +591,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/TrebuchetPackedIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/TrebuchetPackedIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

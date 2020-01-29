@@ -13,7 +13,7 @@
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，他是以<nuxt-link to="/civs/Vikings">挪威</nuxt-link
             >或丹麥指揮官作為模板。他擁有<nuxt-link to="/units/Tarkan"
-              >韃靼騎兵</nuxt-link
+              >答剌罕騎兵</nuxt-link
             >的外觀，雖然手裡拿火把但攻擊方式卻類似<nuxt-link
               to="/units/Throwing_Axeman"
               >擲斧兵</nuxt-link

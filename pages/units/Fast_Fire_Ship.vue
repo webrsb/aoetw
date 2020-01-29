@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>快速火戰船</h1>
+        <h1>重型火戰船</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>快速火戰船</b>在<nuxt-link to="/techs/age/Imperial_Age"
+            <b>重型火戰船</b>(2013版稱<b>快速火戰船</b>)在<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >可以訓練。這是一艘有"火焰噴射器"的船，對其他的<nuxt-link
@@ -18,7 +19,7 @@
           </p>
           <p>
             與<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-            >相比，快速火戰船的傷害更高護甲也更厚。快速火戰船的速度也比火戰船快，可以追上<nuxt-link
+            >相比，重型火戰船的傷害更高護甲也更厚。重型火戰船的速度也比火戰船快，可以追上<nuxt-link
               to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
             >，但是<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
@@ -29,12 +30,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            儘管快速火戰船在與<nuxt-link to="/units/Galleon"
+            儘管重型火戰船在與<nuxt-link to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
-            >的對抗中表現更好，但是重型弩砲戰船的低成本和長射程，可以增加偵察的安全性和降低成本在大規模的對抗中，重型弩砲戰船可以輕易地運用長射程擊敗一群快速火戰船，但是如果得到其他<nuxt-link
+            >的對抗中表現更好，但是重型弩砲戰船的低成本和長射程，可以增加偵察的安全性和降低成本在大規模的對抗中，重型弩砲戰船可以輕易地運用長射程擊敗一群重型火戰船，但是如果得到其他<nuxt-link
               to="/units/Naval_Vessels"
               >海軍</nuxt-link
-            >的適當支援，一支重型火戰船可以輕易地將一群重型弩砲戰船擊沉。快速火戰船在面對<nuxt-link
+            >的適當支援，一支重型火戰船可以輕易地將一群重型弩砲戰船擊沉。重型火戰船在面對<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
             >和<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
@@ -68,7 +69,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -100,7 +101,7 @@
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
@@ -171,8 +172,8 @@
                 style="margin: 2px;"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1) <br />
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
+              <br />
             </td>
           </tr>
           <tr>
@@ -183,7 +184,7 @@
                 style="margin: 2px;"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%)
             </td>
           </tr>
           <tr>
@@ -213,7 +214,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -224,15 +225,15 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
             </td>
           </tr>
         </table>
 
-        <h3>剋快速火戰船的單位與建築</h3>
+        <h3>剋重型火戰船的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對快速火戰船的額外傷害，按照殺傷力排列。
+          以下單位擁有對重型火戰船的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -446,7 +447,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -457,7 +458,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -492,7 +493,7 @@
             </div>
           </div>
         </div>
-        以下科技可讓以下單位對快速火戰船有額外<nuxt-link to="/elements/Attack"
+        以下科技可讓以下單位對重型火戰船有額外<nuxt-link to="/elements/Attack"
           >攻擊力</nuxt-link
         >
         <div class="n1">
@@ -500,7 +501,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -562,33 +563,32 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：快速火戰船訓練速度提高15%。
+              >：重型火戰船訓練速度提高15%。
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：快速火戰船移動速度提高10％。
+              >：重型火戰船移動速度提高10％。
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：快速火戰船開火速率快25%。
+              >：重型火戰船開火速率快25%。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+                >航海技術</nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
-                >造船匠</nuxt-link
+                >造船員</nuxt-link
               >便宜50％。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：快速火戰船在<nuxt-link to="/techs/age/Imperial_Age"
+              >：重型火戰船在<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >訓練的速度提高20%，研究<nuxt-link to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >和<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
-              >的速度快20％。
+                >航海技術</nuxt-link
+              >和<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>的速度快20％。
             </li>
           </ul>
         </div>
@@ -604,7 +604,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：快速火戰船對招降的抵抗力更強。
+              >：重型火戰船對招降的抵抗力更強。
             </li>
           </ul>
         </div>
@@ -615,13 +615,13 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>快速火戰船的HP為120。</li>
+            <li>重型火戰船的HP為120。</li>
             <li>
-              快速火戰船有8的<nuxt-link to="/armor">遠防</nuxt-link
+              重型火戰船有8的<nuxt-link to="/armor">遠防</nuxt-link
               >並對反船隻攻擊有額外+6護甲。
             </li>
             <li>
-              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>讓<nuxt-link
+              <nuxt-link to="/techs/Shipwright">造船員</nuxt-link>讓<nuxt-link
                 to="/resource/Wood"
                 >木材</nuxt-link
               >成本便宜20%。
@@ -631,9 +631,9 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>快速火戰船現在有8的遠防並對反船隻攻擊有額外+7護甲。</li>
+            <li>重型火戰船現在有8的遠防並對反船隻攻擊有額外+7護甲。</li>
             <li>
-              1.0版本<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              1.0版本<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >還可減少35%的船隻訓練時間。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
@@ -642,7 +642,7 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>快速火戰船現在的HP為140。</li>
+            <li>重型火戰船現在的HP為140。</li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>:引入<nuxt-link
                 to="/techs/Greek_Fire"
@@ -655,12 +655,12 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+              <nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link
               >現在有9的遠防並對反船隻攻擊有額外+9護甲。
             </li>
-            <li>引入<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>。</li>
+            <li>引入<nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>。</li>
             <li>
-              4.8版本後快速火戰船會受到<nuxt-link to="/techs/Ballistics"
+              4.8版本後重型火戰船會受到<nuxt-link to="/techs/Ballistics"
                 >彈道學</nuxt-link
               >的影響。
             </li>
@@ -669,7 +669,7 @@
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>快速火戰船有8的遠防。</li>
+            <li>重型火戰船有8的遠防。</li>
           </ul>
         </div>
         <h3>豆知識</h3>
@@ -679,7 +679,7 @@
             <li>火戰船是遊戲中唯一沒有整數攻擊範圍的單位。</li>
             <li>
               火戰船和<nuxt-link to="/units/Fast_Fire_Ship"
-                >快速火戰船</nuxt-link
+                >重型火戰船</nuxt-link
               >是遊戲中唯二攻擊會同時造成近戰和<nuxt-link
                 to="/units/Archer_Units"
                 >遠程</nuxt-link
@@ -697,7 +697,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            火戰船在過去幾年裡得到了改進，以提高其速度，機動性和護甲。君士坦丁堡數百年來由快速火戰船組成的海軍捍衛了數個世紀之久。
+            火戰船在過去幾年裡得到了改進，以提高其速度，機動性和護甲。君士坦丁堡數百年來由重型火戰船組成的海軍捍衛了數個世紀之久。
           </p>
         </div>
         <h3>圖庫</h3>
@@ -711,7 +711,7 @@
               <p>
                 <em
                   ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
-                  >(快速火戰船在右邊)。</em
+                  >(重型火戰船在右邊)。</em
                 >
               </p>
             </div>
@@ -719,7 +719,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Fastfireship.jpg" alt=""
               /></gallery>
-              <p><em>一群快速火戰船。</em></p>
+              <p><em>一群重型火戰船。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -727,7 +727,7 @@
               /></gallery>
               <p>
                 <em
-                  >各種快速火戰船(世紀帝國II和<nuxt-link to="/games/aoc"
+                  >各種重型火戰船(世紀帝國II和<nuxt-link to="/games/aoc"
                     >征服者入侵</nuxt-link
                   >資料片)。</em
                 >
@@ -737,7 +737,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/FFireShipDLC.jpg" alt=""
               /></gallery>
-              <p><em>各種快速火戰船(HD擴充資料片)。</em></p>
+              <p><em>各種重型火戰船(HD擴充資料片)。</em></p>
             </div>
           </div>
         </div>
@@ -746,7 +746,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle" style="color: #fff">快速火戰船</div>
+              <div class="unititle" style="color: #fff">重型火戰船</div>
             </td>
           </tr>
           <tr>

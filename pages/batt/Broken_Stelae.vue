@@ -279,7 +279,7 @@
           </div>
           <li>
             帝王時代後派15名升級過的<nuxt-link to="/units/Cavalier"
-              >騎兵</nuxt-link
+              >重裝騎士</nuxt-link
             >部隊殺光地圖上所有的極大汗追隨者並佔領石牌，派遣<nuxt-link
               to="/units/Battering_Ram"
               >衝撞車</nuxt-link

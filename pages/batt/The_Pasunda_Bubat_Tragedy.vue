@@ -129,7 +129,7 @@
             <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link>
             -<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >x1、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
-            >x6、<nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>x4
+            >x6、<nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>x4
           </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>

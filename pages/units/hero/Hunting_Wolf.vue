@@ -39,7 +39,7 @@
             <li>
               在"蒙古太平"，在遊戲進行45分鐘後，速不臺會帶著許多<nuxt-link
                 to="/units/Petard"
-                >爆炸桶</nuxt-link
+                >炸藥桶</nuxt-link
               >和獵狼來支援。
             </li>
             <li>
@@ -48,7 +48,7 @@
                 to="/units/hero/Scythian_Wild_Woman"
                 >斯基泰的野女人</nuxt-link
               >之後，給他們6個<nuxt-link to="/units/Villager">村民</nuxt-link
-              >，他們會給許多爆炸桶和獵狼作為回報。
+              >，他們會給許多炸藥桶和獵狼作為回報。
             </li>
           </ul>
         </div>

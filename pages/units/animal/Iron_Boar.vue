@@ -45,7 +45,7 @@
             </p>
             <li>在開始獵捕鐵野豬之前背叛貝里達。</li>
             <li>
-              離開貝里達控制的<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              離開貝里達控制的<nuxt-link to="/civs/Huns">匈人</nuxt-link
               >營地，可是這樣將會失去一些阿提拉的追隨者。
             </li>
             <li>

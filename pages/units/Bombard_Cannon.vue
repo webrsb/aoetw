@@ -42,7 +42,7 @@
               >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
                 to="/civs/Italians"
                 >義大利</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
@@ -66,7 +66,7 @@
                 >蒙古</nuxt-link
               >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Slavs"
                 >斯拉夫</nuxt-link
@@ -92,7 +92,7 @@
             >，射程只輸給<nuxt-link to="/civs/Teutons">條頓</nuxt-link
             ><nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
               to="/civs/Koreans"
-              >韓國</nuxt-link
+              >朝鮮</nuxt-link
             ><nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>與<nuxt-link
               to="/civs/Turks"
               >土耳其</nuxt-link
@@ -268,7 +268,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -636,7 +636,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/BombardCannonIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/BombardCannonIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

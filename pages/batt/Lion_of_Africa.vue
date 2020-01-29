@@ -273,7 +273,7 @@
                 >及城堡即可防禦敵方戰船（建議研發<nuxt-link
                   to="/building/University"
                   >學院</nuxt-link
-                >的<nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+                >的<nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link
                 >及<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
                 >相關範圍<nuxt-link to="/techs">科技</nuxt-link
                 >），另英雄單位無存活任務需求。

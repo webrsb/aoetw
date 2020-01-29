@@ -44,7 +44,7 @@
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
@@ -91,7 +91,7 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
               >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
@@ -119,7 +119,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發品種速度快20%。
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研發品種速度快20%。
             </li>
           </ul>
         </div>

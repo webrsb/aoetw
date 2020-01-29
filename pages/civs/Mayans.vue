@@ -86,7 +86,7 @@
               >攻擊+6)，弓兵便宜的文明加成羽毛箭射手也有受惠因此使用弓兵近乎馬雅首選，系統上只欠缺<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >/<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >/<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >(美洲無馬)、<nuxt-link to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >(美洲無<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link>)。
@@ -98,8 +98,8 @@
                 >精銳火砲戰船</nuxt-link
               >，其餘全擁有。<nuxt-link to="/armor/Armor_Class_Monk"
                 >僧侶類</nuxt-link
-              >統上無<nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link
-              >/<nuxt-link to="/techs/Illumination">啟發教化</nuxt-link
+              >統上無<nuxt-link to="/techs/Redemption">神聖思想</nuxt-link
+              >/<nuxt-link to="/techs/Illumination">啟示思想</nuxt-link
               >，整體是可以使用的。
             </li>
             <li>
@@ -107,7 +107,7 @@
                 to="/techs"
                 >科技</nuxt-link
               >部分也只欠缺<nuxt-link to="/techs/Gold_Shaft_Mining"
-                >礦井採金</nuxt-link
+                >採金裝置</nuxt-link
               >，因此在圍家和事後蓋<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
               >上問題並不是很大。

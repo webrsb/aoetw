@@ -24,7 +24,7 @@
             在陸地和海上都強盛的<nuxt-link to="/civs">文明</nuxt-link
             >在這張地圖上會表現很好，例如<nuxt-link to="/civs/Spanish"
               >西班牙人</nuxt-link
-            >和<nuxt-link to="/civs/Koreans">韓國人</nuxt-link>。<nuxt-link
+            >和<nuxt-link to="/civs/Koreans">朝鮮人</nuxt-link>。<nuxt-link
               to="/units/Naval_Vessels"
               >海軍文明</nuxt-link
             >如<nuxt-link to="/civs/Malay">馬來人</nuxt-link>和<nuxt-link

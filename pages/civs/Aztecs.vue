@@ -80,7 +80,7 @@
               to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
             >的文明。因此必須依靠<nuxt-link to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >與<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>來打海戰。
           </p>
           <h3>特殊單位</h3>

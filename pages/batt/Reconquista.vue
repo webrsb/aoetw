@@ -97,7 +97,7 @@
           <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
-              <nuxt-link to="/units/Cavalier">騎兵</nuxt-link>x6、<nuxt-link
+              <nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>x6、<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
               >x6、<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
@@ -107,7 +107,7 @@
             </dd>
             <dd>
               <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
-              >x3、<nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+              >x3、<nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link
               >x3、<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
               >x2、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>x2。
             </dd>

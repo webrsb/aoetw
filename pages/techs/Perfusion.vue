@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>灌注士氣</h1>
+        <h1>井噴</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>灌注士氣</b>是<nuxt-link to="/civs/Goths">哥德</nuxt-link
+            <b>井噴</b>(2013版稱<b>灌注士氣</b>)是<nuxt-link to="/civs/Goths"
+              >哥德</nuxt-link
             >的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             ><nuxt-link to="/techs/untech">特殊科技</nuxt-link>，可於<nuxt-link
               to="/techs/age/Imperial_Age"
@@ -56,7 +57,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >可以增加灌注士氣的研發速度(+25%)。
+              >可以增加井噴的研發速度(+25%)。
             </li>
           </ul>
         </div>
@@ -72,13 +73,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">灌注士氣</div>
+              <div class="unititle2">井噴</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech_imperial.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

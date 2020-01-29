@@ -147,7 +147,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -181,7 +181,7 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：哨站石頭花費-15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >：哨站建造速度快33%。
             </li>
             <li>
@@ -218,7 +218,7 @@
                 >學院</nuxt-link
               >研究<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >的速度快80%。
             </li>
           </ul>
@@ -248,7 +248,7 @@
           <ul>
             <li>哨站花費25木材和5石頭。</li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:哨站建造速度快33%
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:哨站建造速度快33%
             </li>
           </ul>
         </div>

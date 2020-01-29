@@ -58,7 +58,7 @@
                 玩家1
               </td>
               <td class="tc6" colspan="3">
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>（紅色）
+                <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>（紅色）
               </td>
             </tr>
             <tr>
@@ -74,7 +74,7 @@
                 <div class="p3"></div>
                 玩家4
               </td>
-              <td class="tc6" width="38%">李舜臣（綠色）韓國</td>
+              <td class="tc6" width="38%">李舜臣（綠色）朝鮮</td>
             </tr>
 
             <tr>
@@ -117,11 +117,11 @@
           <div class="n1">
             <ol>
               <li>
-                防止<nuxt-link to="/civs/Japanese">日本人</nuxt-link>入侵韓國。
+                防止<nuxt-link to="/civs/Japanese">日本人</nuxt-link>入侵朝鮮。
               </li>
               <li>尋找李舜臣將軍並學習他的秘密武器。</li>
               <li>使用龜甲船打敗日本海軍。</li>
-              <li>抵抗日本者侵略者，保衛韓國。</li>
+              <li>抵抗日本者侵略者，保衛朝鮮。</li>
             </ol>
           </div>
           <h3>次要任務</h3>
@@ -129,7 +129,7 @@
           <div class="n1">
             <ol>
               <li>
-                防止日本人破壞韓國的<nuxt-link to="/building/Wonder"
+                防止日本人破壞朝鮮的<nuxt-link to="/building/Wonder"
                   >世界奇觀</nuxt-link
                 >。（可選項）
               </li>
@@ -140,9 +140,9 @@
           <div class="n1">
             <ul>
               <li>如果可能，保護好世界奇觀，但是你也可以不靠這個獲得勝利。</li>
-              <li>日本的海軍比韓國要高級，你需要想辦法擺平他。</li>
+              <li>日本的海軍比朝鮮要高級，你需要想辦法擺平他。</li>
               <li>
-                在一開始，韓國還不能建造<nuxt-link to="/building/Castle"
+                在一開始，朝鮮還不能建造<nuxt-link to="/building/Castle"
                   >城堡</nuxt-link
                 >或是訓練他們最強力的兵種。
               </li>
@@ -153,7 +153,7 @@
           <div class="n1">
             <ul>
               <li>
-                韓國（紅色）有一個很大的城鎮，但是容易遭受日本海軍的攻擊，尤其是火砲戰船的攻擊。
+                朝鮮（紅色）有一個很大的城鎮，但是容易遭受日本海軍的攻擊，尤其是火砲戰船的攻擊。
               </li>
               <li>
                 日本海軍（黃色）可能用各種方式進攻，包括軍艦和運輸<nuxt-link
@@ -162,7 +162,7 @@
                 >，你必須進行艱苦的防禦作戰，直到把他們趕回日本本土。
               </li>
               <li>
-                可能找到兩個潛在盟友，李舜臣將軍（綠色）是著名的韓國戰略家，如果你能找到他的位子，肯定會協助你。
+                可能找到兩個潛在盟友，李舜臣將軍（綠色）是著名的朝鮮戰略家，如果你能找到他的位子，肯定會協助你。
               </li>
               <li>
                 中國（橙色）目前還敵友難辨，但是日本也是他們的大敵。也許他們會提供幫助。
@@ -185,7 +185,7 @@
             <li>
               由於海上對方無時無刻都在攻擊，所以在自己的海軍數量上必須維持住，特別注意對方的<nuxt-link
                 to="/units/Demolition_Ship"
-                >神風船</nuxt-link
+                >爆破船</nuxt-link
               >打龜甲船十分有殺傷力。
             </li>
             <li>
@@ -287,7 +287,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
             </td>
           </tr>
           <tr>

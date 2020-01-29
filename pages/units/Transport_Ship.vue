@@ -22,8 +22,8 @@
           </p>
           <p>
             一開始運輸船的載運量只有5，研發<nuxt-link to="/techs/Careening"
-              >傾側維修術</nuxt-link
-            >和<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
+              >航海技術</nuxt-link
+            >和<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link
             >後會分別增加到10和20的載運量。<nuxt-link to="/civs/Saracens"
               >薩拉森</nuxt-link
             >人則可以擁有額外的+5載運量(最多25)
@@ -94,8 +94,8 @@
                 class="gg"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1) <br />
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
@@ -114,7 +114,7 @@
                 class="gg"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%)
             </td>
           </tr>
           <tr>
@@ -142,7 +142,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -153,7 +153,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
             </td>
           </tr>
           <tr>
@@ -164,14 +164,14 @@
                 class="gg"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>(+5)
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(+5)
               <br />
               <img
                 style="margin: 2px;"
                 class="gg"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+10)
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+10)
             </td>
           </tr>
         </table>
@@ -393,7 +393,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -404,7 +404,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -447,7 +447,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -533,10 +533,10 @@
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+                >航海技術</nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
-                >造船匠</nuxt-link
+                >造船員</nuxt-link
               >便宜50％。
             </li>
             <li>
@@ -546,10 +546,10 @@
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
               >提高10%/15%/20%，<nuxt-link to="/techs/Careening"
-                >傾側維修術</nuxt-link
+                >航海技術</nuxt-link
               >的研究速度在城堡/帝王提高15%/20％。研究<nuxt-link
                 to="/techs/Dry_Dock"
-                >旱碼頭</nuxt-link
+                >船塢</nuxt-link
               >的時間快20％。
             </li>
             <li>
@@ -593,7 +593,7 @@
               >就可以訓練。
             </li>
             <li>
-              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              <nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
             <li>
@@ -605,7 +605,7 @@
           </h3>
           <ul>
             <li>
-              1.0版本<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              1.0版本<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >還可減少35%的船隻訓練時間。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
@@ -705,7 +705,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/TransportShipIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/TransportShipIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>戰狼</h1>
+        <h1>戰狼號</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>戰狼</b>或稱戰狼號，是<nuxt-link to="/civs/Britons"
+            <b>戰狼號</b>或稱戰狼，是<nuxt-link to="/civs/Britons"
               >不列顛</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
@@ -22,13 +22,13 @@
         <div class="n1">
           <ul>
             <li>
-              戰狼的研發可讓<nuxt-link to="/civs/Britons">不列顛</nuxt-link
+              戰狼號的研發可讓<nuxt-link to="/civs/Britons">不列顛</nuxt-link
               >的巨型投石機擁有如<nuxt-link to="/units/Mangonel"
                 >投石車</nuxt-link
               >般的範圍傷害。<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
               >的一擊可以擊殺任何一個<nuxt-link to="/elements/Hit_points"
                 >血量</nuxt-link
-              >不高的單位，有戰狼後一擊可以是多個單位，而且也能更有效地對付敵方<nuxt-link
+              >不高的單位，有戰狼號後一擊可以是多個單位，而且也能更有效地對付敵方<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
@@ -43,7 +43,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速戰狼的研究時間(快25%)。
+              >能夠加速戰狼號的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -57,13 +57,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">戰狼</div>
+              <div class="unititle2">戰狼號</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech_imperial.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

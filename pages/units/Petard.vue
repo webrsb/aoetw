@@ -2,12 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>爆炸桶</h1>
+        <h1>炸藥桶</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <b>爆炸桶</b>是<nuxt-link to="/units/Siege_Weapons"
+          <b>炸藥桶</b>(2013版稱<b>炸藥桶</b>)是<nuxt-link
+            to="/units/Siege_Weapons"
             >攻城武器單位</nuxt-link
           >，可以在<nuxt-link to="/building/Castle">城堡</nuxt-link
           >訓練，他比大多數的<nuxt-link to="/units/Siege_Weapons"
@@ -34,18 +35,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            對於建築物和攻城武器，爆炸桶是非常適合的攻擊武器，雖然看起來爆炸桶是用爆炸來造成區域性的攻擊，但實際上並沒有，他的攻擊非常的小，與遊戲內其他有<nuxt-link
+            對於建築物和攻城武器，炸藥桶是非常適合的攻擊武器，雖然看起來炸藥桶是用爆炸來造成區域性的攻擊，但實際上並沒有，他的攻擊非常的小，與遊戲內其他有<nuxt-link
               to="/elements/Area_of_Effect"
               >擴散效果</nuxt-link
             >的單位不同。而<nuxt-link to="/units/Archer_Units"
               >遠距離兵種</nuxt-link
-            >對於爆炸桶相當有威脅。
+            >對於炸藥桶相當有威脅。
           </p>
           <p>
-            爆炸桶是一個偷襲很好用的武器，他可以迅速的破壞<nuxt-link
+            炸藥桶是一個偷襲很好用的武器，他可以迅速的破壞<nuxt-link
               to="/building/Stone_Wall"
               >石牆</nuxt-link
-            >，只要兩個爆炸桶便可以摧毀一塊<nuxt-link to="/building/Stone_Wall"
+            >，只要兩個炸藥桶便可以摧毀一塊<nuxt-link to="/building/Stone_Wall"
               >石牆</nuxt-link
             >，並且神不知鬼不覺，讓對方無法反應。
           </p>
@@ -54,17 +55,17 @@
             >進行攻擊時，最好使用交錯隊形，這樣比較不會被城堡射倒。
           </p>
           <p>
-            爆炸桶外觀與只能再地圖編輯器中找到的<nuxt-link
+            炸藥桶外觀與只能再地圖編輯器中找到的<nuxt-link
               to="/units/hero/Saboteur"
               >破壞者</nuxt-link
             >相同，只是<nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link
             >強太多，且速度更快，攻擊更高，也有<nuxt-link
               to="/elements/Area_of_Effect"
               >擴散效果</nuxt-link
-            >。而<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+            >。而<nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link
             >則是價格較高，但攻擊範圍更大、速度更快。事實上，<nuxt-link
               to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >是遊戲中最快的單位。
           </p>
         </div>
@@ -105,7 +106,7 @@
               <li>
                 <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
                   to="/building/Watch_Tower"
-                  >暸望箭塔</nuxt-link
+                  >暸望台</nuxt-link
                 >:2(3)
               </li>
               <li>
@@ -164,7 +165,7 @@
               <li>
                 <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
                   to="/building/Watch_Tower"
-                  >暸望箭塔</nuxt-link
+                  >暸望台</nuxt-link
                 >:2
               </li>
               <li>
@@ -268,15 +269,15 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
 
-        <h3>剋爆炸桶的單位與建築</h3>
+        <h3>剋炸藥桶的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對爆炸桶的額外傷害，按造殺傷力排列。
+          以下單位擁有對炸藥桶的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -297,7 +298,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -451,7 +452,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對爆炸桶有利的<nuxt-link to="/techs">科技</nuxt-link
+              >：對炸藥桶有利的<nuxt-link to="/techs">科技</nuxt-link
               >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >便宜20%。
             </li>
@@ -462,7 +463,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >免費。
             </li>
           </ul>
@@ -475,8 +476,8 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速爆炸桶訓練速度和<nuxt-link to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+              >能夠加速炸藥桶訓練速度和<nuxt-link to="/techs/Conscription"
+                >徵兵技術</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
@@ -507,10 +508,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            中世紀火藥的主要用途是作為火器和大砲的推進劑，但最終也被用作炸藥。爆炸桶可以用來破壞城堡門和其他障礙物。“petard”這個詞來源於<nuxt-link
+            中世紀火藥的主要用途是作為火器和大砲的推進劑，但最終也被用作炸藥。炸藥桶可以用來破壞城堡門和其他障礙物。“petard”這個詞來源於<nuxt-link
               to="/civs/Franks"
               >法國</nuxt-link
-            >的一個詞，意思是破風。在非常危險的情況下，一個裝甲人員會將爆炸桶送到攻擊點並點燃導火線。如果保險絲發生故障或電荷由於某種原因提前關閉，那麼這個爆炸桶就會沒法發揮作用，俗話說就是:“被他自己的屁股吊起來”，這是今天當計劃或操作發生故障時仍然會使用的一句話。
+            >的一個詞，意思是破風。在非常危險的情況下，一個裝甲人員會將炸藥桶送到攻擊點並點燃導火線。如果保險絲發生故障或電荷由於某種原因提前關閉，那麼這個炸藥桶就會沒法發揮作用，俗話說就是:“被他自己的屁股吊起來”，這是今天當計劃或操作發生故障時仍然會使用的一句話。
           </p>
         </div>
         <h3>圖庫</h3>
@@ -521,7 +522,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Petard.png" alt=""
               /></gallery>
-              <p><em>一群爆炸桶</em></p>
+              <p><em>一群炸藥桶</em></p>
             </div>
           </div>
         </div>
@@ -531,7 +532,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
-                爆炸桶
+                炸藥桶
               </div>
             </td>
           </tr>

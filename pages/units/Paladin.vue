@@ -35,7 +35,7 @@
                 >法蘭克</nuxt-link
               >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Persians"
                 >波斯</nuxt-link
@@ -76,7 +76,7 @@
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
@@ -150,13 +150,11 @@
               >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/units/Camel"
-                >駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
-                to="/units/War_Elephant"
-                >戰象</nuxt-link
-              >。
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -187,13 +185,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -210,21 +209,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -236,7 +235,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -265,7 +264,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
                 to="/techs/Chivalry"
@@ -359,7 +358,8 @@
                         class="gg"
                         src="~assets/Saracenmamluk_icon.png"
                         alt=""
-                      /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                      /><nuxt-link to="/units/Mameluke"
+                        >精銳阿拉伯奴隸兵</nuxt-link
                       >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                     </li>
                     <li>
@@ -387,7 +387,7 @@
                         class="gg"
                         src="~assets/Saracenmamluk_icon.png"
                         alt=""
-                      /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                      /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                       >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                     </li>
                   </ul>
@@ -539,13 +539,13 @@
                   <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
                   >：遊俠血量多20%，研發<nuxt-link to="/techs/Chivalry"
                     >騎士精神</nuxt-link
-                  >後，<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+                  >後，<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
                   >的研發速度都加快40%
                 </li>
                 <li>
                   <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-                  >：免費<nuxt-link to="/techs/Forging">鍛造</nuxt-link
-                  >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+                  >：免費<nuxt-link to="/techs/Forging">鍛造技術</nuxt-link
+                  >、<nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
                   >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
                   ><nuxt-link to="/techs">科技</nuxt-link>
                 </li>
@@ -570,17 +570,17 @@
                     to="/techs/Kasbah"
                     >聚居堡壘</nuxt-link
                   >能夠加速<nuxt-link to="/techs/Conscription"
-                    >徵兵制度</nuxt-link
+                    >徵兵技術</nuxt-link
                   >的研究時間(快25%)。
                 </li>
                 <li>
                   <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：遊俠+2視野。
                 </li>
                 <li>
-                  <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+                  <nuxt-link to="/civs/Huns">匈人</nuxt-link
                   >：遊俠生產效率快20%，<nuxt-link to="/techs/Bloodlines"
                     >品種</nuxt-link
-                  >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+                  >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
                   >研發快20%。
                 </li>
                 <li>
@@ -638,10 +638,10 @@
                     to="/units/War_Elephant"
                     >戰象</nuxt-link
                   >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-                  >和<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
-                  >。然而，如果你考慮到升級遊俠前你還得升級成騎兵，那麼成本就是1600食物和1050黃金，則只有投石車與戰象更高。
+                  >和<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+                  >。然而，如果你考慮到升級遊俠前你還得升級成重裝騎士，那麼成本就是1600食物和1050黃金，則只有投石車與戰象更高。
                 </li>
-                <li>為了平衡，遊俠的攻速(1.93)比騎兵(1.83)還慢。</li>
+                <li>為了平衡，遊俠的攻速(1.93)比重裝騎士(1.83)還慢。</li>
                 <li>
                   騎士系列是遊戲中;僅有的四種對任何東西都沒加成的單位，另外三種是<nuxt-link
                     to="/units/Militia"
@@ -655,12 +655,12 @@
                     to="/techs/Bloodlines"
                     >品種</nuxt-link
                   >與<nuxt-link to="/techs/Plate_Barding_Armor"
-                    >騎兵板甲</nuxt-link
+                    >鐵鎧甲</nuxt-link
                   >。緊跟在後的是拜占庭遊俠，缺乏品種與<nuxt-link
                     to="/techs/Blast_Furnace"
                     >鼓風爐</nuxt-link
                   >。而<nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                  >缺法<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+                  >缺法<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
                   >。其他四個文明則有全滿的遊俠。
                 </li>
                 <li>
@@ -845,7 +845,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/CavalierIcon.png" alt="" /><nuxt-link
                 to="/units/Cavalier"
-                >騎兵</nuxt-link
+                >重裝騎士</nuxt-link
               >
             </td>
           </tr>

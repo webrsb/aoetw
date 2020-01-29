@@ -20,7 +20,7 @@
             <li>
               <img src="~assets/tower.png" alt="" /><nuxt-link
                 to="/building/Watch_Tower"
-                >暸望箭塔</nuxt-link
+                >暸望台</nuxt-link
               >:射程極遠，只要建起來即可封住大多的資源，駐紮村民後基本不怕任何兵種。
             </li>
           </ul>
@@ -57,7 +57,7 @@
               你選到塔攻<nuxt-link to="/civs">文明</nuxt-link>時:<nuxt-link
                 to="/civs/Spanish"
                 >西班牙</nuxt-link
-              >與<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              >與<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >都是相當典型的塔攻文明，不塔攻很可惜。
             </li>
           </ul>
@@ -143,12 +143,13 @@
           <div class="n1">
             一般來說，所有文明都適合，但以下文明更適合一點。
             <ul>
-              <li>韓國:箭塔蓋得快，採石頭有加成，村民有視野優勢。</li>
+              <li>朝鮮:箭塔蓋得快，採石頭有加成，村民有視野優勢。</li>
               <li>
                 西班牙:建築快30%，對塔很有優勢，存的石頭也可以上<nuxt-link
                   to="/techs/age/Castle_Age"
                   >城堡</nuxt-link
-                >出<nuxt-link to="/units/Conquistador">征服者</nuxt-link>。
+                >出<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
+                >。
               </li>
               <li>
                 <nuxt-link to="/civs/Incas">印加</nuxt-link
@@ -175,7 +176,7 @@
           <div class="n1">
             <div class="row">
               <div class="col-md-4">
-                <h4>第三人稱講解:<br />台灣第一雲-韓國純塔</h4>
+                <h4>第三人稱講解:<br />台灣第一雲-朝鮮純塔</h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/NvWDawdSDbc"
@@ -218,7 +219,7 @@
                 ></iframe>
               </div>
               <div class="col-md-4">
-                <h4>超高手MBL韓國超極純塔<br />VS Daut</h4>
+                <h4>超高手MBL朝鮮超極純塔<br />VS Daut</h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/tc30gSyj7Vo"
@@ -241,7 +242,7 @@
                 ></iframe>
               </div>
               <div class="col-md-4">
-                <h4>越南高手ACCM韓國純塔<br />vs 對方圍死</h4>
+                <h4>越南高手ACCM朝鮮純塔<br />vs 對方圍死</h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/WQEPr5Yq_x0"
@@ -310,7 +311,7 @@
           <tr>
             <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link><br /><nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link><br /><nuxt-link
                 to="/civs/Spanish"
                 >西班牙</nuxt-link
               >

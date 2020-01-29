@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>雙刃斧</h1>
+        <h1>雙面斧</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>雙刃斧</b>是<nuxt-link to="/techs/age/Feudal_Age"
+            <b>雙面斧</b>(2013版稱<b>雙刃斧</b>)是<nuxt-link
+              to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             ><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
             >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
@@ -25,7 +26,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:雙刃斧免費。</li>
+            <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:雙面斧免費。</li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >:科技在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
@@ -38,7 +39,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"雙刃斧一把大而重而且在兩側都有刀片的斧頭，它加速了砍伐樹木的速度。有了兩個切割邊緣，樵夫可以在刀片變鈍的時候切換，然後休息時同時磨礪兩個刃片。樵夫使用雙刃斧後能更快，更高效地工作。"</em
+            >"雙面斧一把大而重而且在兩側都有刀片的斧頭，它加速了砍伐樹木的速度。有了兩個切割邊緣，樵夫可以在刀片變鈍的時候切換，然後休息時同時磨礪兩個刃片。樵夫使用雙面斧後能更快，更高效地工作。"</em
           >
         </div>
       </div>
@@ -46,13 +47,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">雙刃斧</div>
+              <div class="unititle2">雙面斧</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/double-bit_axe.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/double-bit_axe.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -90,7 +95,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/bow_saw.png" alt="" /><nuxt-link
                 to="/techs/Bow_Saw"
-                >弓鋸</nuxt-link
+                >弓形鋸</nuxt-link
               >
             </td>
           </tr>

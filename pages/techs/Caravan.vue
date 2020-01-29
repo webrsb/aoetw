@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>大商隊</h1>
+        <h1>商隊</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>大商隊</b>可以在<nuxt-link to="/techs/age/Castle_Age"
+            <b>商隊</b>可以在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >時研究於<nuxt-link to="/building/Market">市集</nuxt-link
             >，前置<nuxt-link to="/techs">科技</nuxt-link>為<nuxt-link
@@ -19,7 +19,7 @@
             >和<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link
             >的移動速度增加50%，變相的加速了<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link
-            >的獲取速度。研發大商隊是遊戲後期加速黃金收集速度的好方法，當然增加移動速度也使得被攻擊導致陣亡的機率大大降低。
+            >的獲取速度。研發商隊是遊戲後期加速黃金收集速度的好方法，當然增加移動速度也使得被攻擊導致陣亡的機率大大降低。
           </p>
         </div>
       </div>
@@ -27,7 +27,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">大商隊</div>
+              <div class="unititle2">商隊</div>
             </td>
           </tr>
           <tr>

@@ -39,7 +39,7 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
@@ -81,7 +81,7 @@
               </h4>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
                 to="/civs/Vietnamese"
                 >越南</nuxt-link
@@ -168,7 +168,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/iron_casting.png" alt="" /><nuxt-link
                 to="/techs/Iron_Casting"
-                >鑄造</nuxt-link
+                >鑄造技術</nuxt-link
               >
             </td>
           </tr>

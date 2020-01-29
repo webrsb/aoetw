@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>啟發教化</h1>
+        <h1>啟示思想</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>啟發教化</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>啟示思想</b>(2013版稱<b>啟發教化</b>)可於<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link
             >研發，<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -48,7 +49,7 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
@@ -81,7 +82,7 @@
               </h4>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
                 to="/civs/Mayans"
                 >馬雅</nuxt-link
@@ -129,7 +130,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">啟發教化</div>
+              <div class="unititle2">啟示思想</div>
             </td>
           </tr>
           <tr>

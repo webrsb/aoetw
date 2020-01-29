@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>弓兵布甲</h1>
+        <h1>弓兵護甲</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>弓兵布甲</b>可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>弓兵護甲</b>(2013版稱<b>弓兵布甲</b>)可於<nuxt-link
+              to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
@@ -43,13 +44,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">弓兵布甲</div>
+              <div class="unititle2">弓兵護甲</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/padded_archer_armor.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/padded_archer_armor.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

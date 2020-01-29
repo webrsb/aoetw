@@ -25,7 +25,7 @@
             城門除了<nuxt-link to="/civs/Goths">哥德</nuxt-link
             >之外的所有<nuxt-link to="/civs">文明</nuxt-link
             >都可以使用，垛牆和升級過的城門除了哥德、<nuxt-link to="/civs/Huns"
-              >匈奴</nuxt-link
+              >匈人</nuxt-link
             >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
               to="/civs/Malay"
               >馬來</nuxt-link
@@ -81,7 +81,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -106,7 +106,7 @@
               >/帝王時代，城門的技術價格便宜15％/20％。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：城門建築速度快33%
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：城門建築速度快33%
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：城門造價便宜15%。
@@ -124,7 +124,7 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Treadmill_Crane"
-                >滑輪起重機</nuxt-link
+                >磨坊水車</nuxt-link
               >團隊速度提高80%。
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：城門便宜50%</li>

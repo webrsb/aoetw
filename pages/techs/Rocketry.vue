@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>火箭術</h1>
+        <h1>火箭技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>火箭術</b>是<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            <b>火箭技術</b>是<nuxt-link to="/civs/Chinese">中國</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -21,7 +21,7 @@
         <div class="n1">
           <ul>
             <li>
-              有火箭術的<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
+              有火箭技術的<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
               >和弩砲可以對防箭單位造成更多傷害，如:<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
@@ -55,7 +55,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速火箭術的研究時間(快25%)。
+              >能夠加速火箭技術的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -64,13 +64,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">火箭術</div>
+              <div class="unititle2">火箭技術</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech_imperial.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

@@ -24,7 +24,7 @@
             >(如<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
               to="/civs/Japanese"
               >日本</nuxt-link
-            >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
             >。)會比晚期文明(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             >)來的好用。
           </p>

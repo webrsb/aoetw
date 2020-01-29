@@ -192,7 +192,7 @@
             <li>
               前期的經濟是好的，但是後期的日本由於大量使用步兵，加上缺少<nuxt-link
                 to="/techs/Crop_Rotation"
-                >輪耕</nuxt-link
+                >輪耕制度</nuxt-link
               >科技，可能會有<nuxt-link to="/resource/Food">食物</nuxt-link
               >不夠用的窘況。
             </li>
@@ -298,7 +298,7 @@
               善用投石車與<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
               >部隊來抗擊日本的精良步兵。
             </li>
-            <li>由於日本沒有騎兵，在面對騷擾型的戰術會很吃力。</li>
+            <li>由於日本沒有重裝騎士，在面對騷擾型的戰術會很吃力。</li>
             <li>面對日本時，火砲塔是個好的防禦手段。</li>
             <li>面對日本的時候要善用遠程兵種，並且善用攻城武器，譬如弩砲。</li>
           </ul>
@@ -412,7 +412,7 @@
               </li>
               <li>
                 能夠研發<nuxt-link to="/techs/Gold_Shaft_Mining"
-                  >礦井採金</nuxt-link
+                  >採金裝置</nuxt-link
                 >。
               </li>
             </ul>
@@ -426,7 +426,7 @@
               </li>
               <li>
                 現在有了<nuxt-link to="/techs/Treadmill_Crane"
-                  >滑輪起重機</nuxt-link
+                  >磨坊水車</nuxt-link
                 >。
               </li>
             </ul>

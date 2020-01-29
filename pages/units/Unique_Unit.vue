@@ -73,7 +73,7 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>
+              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
@@ -206,7 +206,7 @@
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
+              /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
@@ -296,10 +296,10 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                 to="/units/Tarkan"
-                >韃靼騎兵</nuxt-link
+                >答剌罕騎兵</nuxt-link
               >
             </td>
-            <td class="tunitc4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
+            <td class="tunitc4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
             <td class="tunitc6">
               <nuxt-link to="/armor">遠防</nuxt-link>與血量高，對於<nuxt-link
                 to="/armor/Armor_Class_Building"
@@ -318,7 +318,7 @@
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
             </td>
             <td class="tunitc6">
               高遠防與血量的<nuxt-link to="/units/Cavalry_Archer"
@@ -350,7 +350,7 @@
                 class="gg"
                 src="~assets/ConquistadorIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>
+              /><nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
@@ -633,7 +633,7 @@
                   /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+                  <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
                 </td>
                 <td class="tunitc6">訓練於碼頭，攻擊非常高。</td>
               </tr>
@@ -776,7 +776,7 @@
                     </td>
                     <td class="tunitc6">
                       <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-                      >及其同盟於帝王時代可於射箭場訓練，為精銳戰矛兵的再升級。
+                      >及其同盟於帝王時代可於射箭場訓練，為戰矛兵的再升級。
                     </td>
                   </tr>
                 </table>

@@ -36,10 +36,9 @@
               >的右邊可以減少村民回程放食物的時間。
             </li>
             <li>
-              若在科技(<nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link
-              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、<nuxt-link
-                to="/techs/Crop_Rotation"
-                >輪耕</nuxt-link
+              若在科技(<nuxt-link to="/techs/Horse_Collar">獸耕技術</nuxt-link
+              >、<nuxt-link to="/techs/Heavy_Plow">重型耕犁</nuxt-link
+              >、<nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
               >)升級完前農田就被建好，那農田是吃不到加成的，要升級完後再蓋才有完整加成。
             </li>
             <li>
@@ -68,7 +67,7 @@
                   src="~assets/horse_collar.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>+75
+                /><nuxt-link to="/techs/Horse_Collar">獸耕技術</nuxt-link>+75
               </p>
               <p>
                 <img
@@ -76,7 +75,7 @@
                   src="~assets/heavy_plow.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>+125
+                /><nuxt-link to="/techs/Heavy_Plow">重型耕犁</nuxt-link>+125
               </p>
               <p>
                 <img
@@ -84,7 +83,7 @@
                   src="~assets/crop_rotation.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>+175
+                /><nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link>+175
               </p>
             </td>
           </tr>
@@ -97,7 +96,7 @@
                   src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >+20%
               </p>
             </td>
@@ -237,7 +236,7 @@
                 width="30"
                 alt=""
                 class="gg"
-              /><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>+75)
+              /><nuxt-link to="/techs/Horse_Collar">獸耕技術</nuxt-link>+75)
             </td>
             <td class="tta2">250</td>
             <td class="tta3">4.17</td>
@@ -255,7 +254,7 @@
                 width="30"
                 alt=""
                 class="gg"
-              /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>+125)
+              /><nuxt-link to="/techs/Heavy_Plow">重型耕犁</nuxt-link>+125)
             </td>
             <td class="tta2">375</td>
             <td class="tta3">6.25</td>
@@ -273,7 +272,7 @@
                 width="30"
                 alt=""
                 class="gg"
-              /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>+175)
+              /><nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link>+175)
             </td>
             <td class="tta2">550</td>
             <td class="tta3">9.17</td>
@@ -330,11 +329,9 @@
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：<nuxt-link
                 to="/techs/Horse_Collar"
-                >馬軛</nuxt-link
-              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、<nuxt-link
-                to="/techs/Crop_Rotation"
-                >輪耕</nuxt-link
-              >免費。
+                >獸耕技術</nuxt-link
+              >、<nuxt-link to="/techs/Heavy_Plow">重型耕犁</nuxt-link
+              >、<nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link>免費。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：磨坊便宜50％。
@@ -453,11 +450,8 @@
             >馬來</nuxt-link
           >協助耕田，與重型犁配合可以更有效率的耕田。歐洲北部特別是西北歐最初使用輕犁，到後來才逐漸改為<nuxt-link
             to="/techs/Heavy_Plow"
-            >重犁</nuxt-link
-          >。『重犁俗稱“薩克森輪犁”，裝有車輪用以控制犁地的深度，犁頭是垂直的。』這種犁不但可以緊蓋種子；還可以疏鬆土壤，使滲進土壤中的水能集中在作物根部，便於吸收。重犁是翻耕極附黏性的土地和森林地的好工具，但購買重犁需要較大的資金，且要較多牲畜來耕作（一般是幾頭牛拉一架重犁）後發明了新式籠頭和<nuxt-link
-            to="/techs/Horse_Collar"
-            >馬軛</nuxt-link
-          >套在馬肩上，改變了將馬軛系在馬脖上的狀況，使馬的拉力增大。然而一般農家均無財力獨家擁有需用多頭耕畜的重犁，『因而常聯合起來組成犁隊實行共耕；因而也多採取共耕制。』共耕制的實行首先遇到的是用犁時間先後的問題，造成爭端不斷，因此共耕制容易延誤農機。
+            >重型耕犁</nuxt-link
+          >。『重型耕犁俗稱“薩克森輪犁”，裝有車輪用以控制犁地的深度，犁頭是垂直的。』這種犁不但可以緊蓋種子；還可以疏鬆土壤，使滲進土壤中的水能集中在作物根部，便於吸收。重型耕犁是翻耕極附黏性的土地和森林地的好工具，但購買重型耕犁需要較大的資金，且要較多牲畜來耕作（一般是幾頭牛拉一架重型耕犁）後發明了新式籠頭和馬軛套在馬肩上，改變了將馬軛系在馬脖上的狀況，使馬的拉力增大。然而一般農家均無財力獨家擁有需用多頭耕畜的重型耕犁，『因而常聯合起來組成犁隊實行共耕；因而也多採取共耕制。』共耕制的實行首先遇到的是用犁時間先後的問題，造成爭端不斷，因此共耕制容易延誤農機。
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>

@@ -175,7 +175,7 @@
               >與<nuxt-link to="/units/Camel">駱駝</nuxt-link>可用。
             </p>
             <h3>
-              <strong><nuxt-link to="/civs/Huns">匈奴</nuxt-link></strong>
+              <strong><nuxt-link to="/civs/Huns">匈人</nuxt-link></strong>
             </h3>
             <p>
               傳統超級強國，初期經濟優勢極大，上城堡有便宜<nuxt-link
@@ -317,7 +317,7 @@
             <h3><strong>土耳其</strong></h3>
             <p>毫無經濟優勢外還沒有二級槍矛。</p>
             <h3>
-              <strong><nuxt-link to="/civs/Koreans">韓國</nuxt-link></strong>
+              <strong><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link></strong>
             </h3>
             <p>塔攻文明，除了塔攻便是一無是處。</p>
             <h3>
@@ -441,7 +441,7 @@
                     >重型衝撞車</nuxt-link
                   >很難打。
                 </p>
-                <h3><strong>韓國</strong></h3>
+                <h3><strong>朝鮮</strong></h3>
                 <p>相對以前沒有這麼強勢，不過射程+1的投石車仍不好打。</p>
                 <h3><strong>土耳其</strong></h3>
                 <p>
@@ -463,7 +463,7 @@
                 <h3><strong>薩拉森</strong></h3>
                 <p>
                   後期科技幾乎全滿，配合<nuxt-link to="/units/Mameluke"
-                    >奴隸兵</nuxt-link
+                    >阿拉伯奴隸兵</nuxt-link
                   >幾乎沒弱點。
                 </p>
               </div>

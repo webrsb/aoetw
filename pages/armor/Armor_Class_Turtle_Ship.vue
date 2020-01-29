@@ -38,7 +38,7 @@
                 src="~assets/TurtleShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
-              >(1)(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+              >(1)(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </li>
           </ul>
         </div>
@@ -54,7 +54,7 @@
                   class="gg"
                   src="~assets/FastFireShipIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
+                /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
@@ -75,7 +75,7 @@
                   class="gg"
                   src="~assets/FireGalleyIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>
+                /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>
               </li>
             </ul>
           </div>

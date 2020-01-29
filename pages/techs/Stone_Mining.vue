@@ -93,7 +93,7 @@
                 class="gg"
                 src="~assets/stone_shaft_mining.png"
                 alt=""
-              /><nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>
+              /><nuxt-link to="/techs/Stone_Shaft_Mining">採石裝置</nuxt-link>
             </td>
           </tr>
           <tr>

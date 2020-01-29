@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>弓鋸</h1>
+        <h1>弓形鋸</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>弓鋸</b>是<nuxt-link to="/techs/age/Castle_Age"
+            <b>弓形鋸</b>是<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             ><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
             >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
@@ -25,7 +25,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:弓鋸免費。</li>
+            <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:弓形鋸免費。</li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>:科技在<nuxt-link
                 to="/techs/age/Castle_Age"
@@ -39,7 +39,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"弓鋸有一個像弓一樣的圓形手柄，鋸片連接著弓端。使用弓鋸的伐木工能減少浪費並從每棵樹中獲得更多可用的木材。"</em
+            >"弓形鋸有一個像弓一樣的圓形手柄，鋸片連接著弓端。使用弓形鋸的伐木工能減少浪費並從每棵樹中獲得更多可用的木材。"</em
           >
         </div>
       </div>
@@ -47,7 +47,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">弓鋸</div>
+              <div class="unititle2">弓形鋸</div>
             </td>
           </tr>
           <tr>
@@ -93,7 +93,7 @@
                 class="gg"
                 src="~assets/double-bit_axe.png"
                 alt=""
-              /><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>
+              /><nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link>
             </td>
           </tr>
           <tr>

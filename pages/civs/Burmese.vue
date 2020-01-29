@@ -50,9 +50,8 @@
             ><nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
             >更是擁有強大的攻擊力，類型雖然與<nuxt-link to="/units/Conquistador"
               >西班牙征服者</nuxt-link
-            >有點類似，但比起<nuxt-link to="/units/Conquistador"
-              >征服者</nuxt-link
-            >的優勢便是大學內的科技<nuxt-link to="/techs/Ballistics"
+            >有點類似，但比起西班牙征服者的優勢便是大學內的科技<nuxt-link
+              to="/techs/Ballistics"
               >彈道學</nuxt-link
             >，對飛鏢騎兵也是有效果的。
           </p>
@@ -86,7 +85,7 @@
             >但在封建時仍可加快<nuxt-link to="/units/Archer_Units"
               >弓兵</nuxt-link
             >的產出速度，而<nuxt-link to="/techs/Parthian_Tactics"
-              >帕提亞戰術</nuxt-link
+              >安息人戰術</nuxt-link
             >讓其<nuxt-link to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link
             >至少仍有一戰的能力，修道院科技基本全滿，研發科技便宜50%，可以節省許多<nuxt-link
@@ -94,7 +93,7 @@
               >黃金</nuxt-link
             >去產出更多的僧侶，經濟科技部分除了<nuxt-link
               to="/techs/Stone_Shaft_Mining"
-              >礦井採石</nuxt-link
+              >採石裝置</nuxt-link
             >以外的皆有可說是非常完整。
           </p>
           <p>

@@ -45,7 +45,7 @@
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
@@ -81,7 +81,7 @@
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
@@ -132,7 +132,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/plate_mail_armor.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/plate_mail_armor.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -172,7 +176,7 @@
                 class="gg"
                 src="~assets/Chainmailarmor.jpg"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link>
             </td>
           </tr>
           <tr>

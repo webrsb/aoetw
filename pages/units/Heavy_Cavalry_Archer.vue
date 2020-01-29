@@ -45,13 +45,13 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
@@ -122,7 +122,7 @@
           </p>
           <p>
             馬弓騎兵最強悍的<nuxt-link to="/civs">文明</nuxt-link
-            >絕對是<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>、<nuxt-link
+            >絕對是<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
               to="/civs/Mongols"
               >蒙古人</nuxt-link
             >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>與<nuxt-link
@@ -130,8 +130,8 @@
               >馬扎爾</nuxt-link
             >。<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
             >擁有絕佳的<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
-            >。<nuxt-link to="/civs/Huns">匈奴人</nuxt-link
-            >則是有便宜的<nuxt-link to="/units/Cavalry_Archer"
+            >。<nuxt-link to="/civs/Huns">匈人</nuxt-link>則是有便宜的<nuxt-link
+              to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >，<nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>對<nuxt-link
               to="/armor/Armor_Class_Building"
@@ -166,7 +166,7 @@
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
-                >奴隸兵</nuxt-link
+                >阿拉伯奴隸兵</nuxt-link
               >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
@@ -207,20 +207,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -231,7 +231,7 @@
                 class="gg"
                 src="~assets/parthian_tactics.png"
                 alt=""
-              /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
               >攻擊+4 <br />
               <img
@@ -251,20 +251,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
@@ -312,7 +312,7 @@
                 src="~assets/padded_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -326,13 +326,13 @@
                 src="~assets/ring_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >(+1/+2) <br />
               <img
                 class="gg"
                 src="~assets/parthian_tactics.png"
                 alt=""
-              /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -344,7 +344,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -374,7 +374,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -458,7 +458,7 @@
                     class="gg"
                     src="~assets/Saracenmamluk_icon.png"
                     alt=""
-                  /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                  /><nuxt-link to="/units/Mameluke">精銳阿拉伯奴隸兵</nuxt-link
                   >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                 </li>
                 <li>
@@ -495,7 +495,7 @@
                     class="gg"
                     src="~assets/Saracenmamluk_icon.png"
                     alt=""
-                  /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                  /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                   >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                 </li>
               </ul>
@@ -726,7 +726,7 @@
                   class="gg"
                   src="~assets/CavalierIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/PaladinIcon.png"
@@ -753,7 +753,7 @@
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：多20%的血量。
             </li>
-            <li><nuxt-link to="/civs/Huns">匈奴</nuxt-link>：造價便宜20%。</li>
+            <li><nuxt-link to="/civs/Huns">匈人</nuxt-link>：造價便宜20%。</li>
             <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：射速快25%。</li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：對<nuxt-link
@@ -776,7 +776,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
               >：血量增加20%。免費<nuxt-link to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >。
             </li>
           </ul>
@@ -789,21 +789,21 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
               >：馬弓騎兵生產快20%。研發<nuxt-link to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
-              >和<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >和<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >的速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -845,7 +845,7 @@
             <li>引入<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>。</li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:重裝馬弓騎兵便宜30％。
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:重裝馬弓騎兵便宜30％。
             </li>
           </ul>
           <h3>
@@ -854,7 +854,7 @@
           <ul>
             <li>成本減為40木材65黃金。</li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:重裝馬弓騎兵便宜25％。
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:重裝馬弓騎兵便宜25％。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -879,7 +879,7 @@
               >:重裝馬弓騎兵多20％的HP。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >:現在重裝馬弓騎兵於帝王時代便宜20％。
             </li>
           </ul>
@@ -936,7 +936,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/HeavyCavArcherIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/HeavyCavArcherIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

@@ -27,7 +27,7 @@
               to="/building/Castle"
               >城堡</nuxt-link
             >前的祭壇，系統會自動將他們轉換成<nuxt-link to="/units/Tarkan"
-              >精銳韃靼騎兵</nuxt-link
+              >精銳答剌罕騎兵</nuxt-link
             >。<br />上帝之鞭戰役中西徐亞人為了感謝<nuxt-link
               to="/batt/Attila_the_Huna"
               >阿提拉</nuxt-link

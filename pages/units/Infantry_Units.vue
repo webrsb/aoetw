@@ -75,7 +75,7 @@
                 >羽毛箭射手</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
-              >與<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>
+              >與<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>
             </li>
           </ul>
         </div>
@@ -1008,7 +1008,7 @@
               <td class="tunitc6">
                 <img class="gg" src="~assets/squires.png" alt="" /><nuxt-link
                   to="/techs/Squires"
-                  >護衛</nuxt-link
+                  >護衛技術</nuxt-link
                 >
               </td>
               <td class="tunitc4">城堡</td>
@@ -1034,7 +1034,7 @@
               <td class="tunitc6">
                 <img class="gg" src="~assets/forging.png" alt="" /><nuxt-link
                   to="/techs/Forging"
-                  >鍛造</nuxt-link
+                  >鍛造技術</nuxt-link
                 >
               </td>
               <td class="tunitc4">封建</td>
@@ -1047,7 +1047,7 @@
                   class="gg"
                   src="~assets/iron_casting.png"
                   alt=""
-                /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>
+                /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">220F 120G</td>
@@ -1083,7 +1083,7 @@
                   class="gg"
                   src="~assets/Chainmailarmor.jpg"
                   alt=""
-                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>
+                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">200F 100G</td>
@@ -1107,7 +1107,7 @@
                   class="gg"
                   src="~assets/Herbalmedicine.png"
                   alt=""
-                /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>
+                /><nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">350G</td>
@@ -1149,7 +1149,7 @@
                   src="~assets/conscription.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
+                /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">150F 150G</td>
@@ -1284,7 +1284,7 @@
                 /><nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>
+                <nuxt-link to="/techs/Perfusion">井噴</nuxt-link>
               </td>
               <td class="tunitc5">400W 600G</td>
               <td class="tunitc6">軍營工作速度加倍。</td>

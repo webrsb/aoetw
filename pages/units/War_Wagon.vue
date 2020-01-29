@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>馬戰車</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            <b>馬戰車</b>是<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -69,10 +69,10 @@
                 >日本武士</nuxt-link
               >和<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
               >(有攻擊加成)都可以戰勝馬戰車。<nuxt-link to="/civs/Koreans"
-                >韓國人</nuxt-link
+                >朝鮮人</nuxt-link
               >可以用<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >對付上述單位。<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-              >也是個麻煩，韓國人可以用<nuxt-link to="/units/Bombard_Cannon"
+              >也是個麻煩，朝鮮人可以用<nuxt-link to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
               >或他們的<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >對付他們。最後，由於缺乏<nuxt-link to="/techs/Heresy"
@@ -137,7 +137,7 @@
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
-                >奴隸兵</nuxt-link
+                >阿拉伯奴隸兵</nuxt-link
               >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
@@ -161,20 +161,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -191,20 +191,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
             </td>
           </tr>
           <tr>
@@ -238,7 +238,7 @@
                 src="~assets/padded_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -252,7 +252,7 @@
                 src="~assets/ring_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -264,7 +264,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -286,7 +286,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -373,7 +373,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -424,7 +425,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -651,7 +652,7 @@
                           class="gg"
                           src="~assets/CavalierIcon.png"
                           alt=""
-                        /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                        /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                         <img
                           class="gg"
                           src="~assets/PaladinIcon.png"
@@ -675,7 +676,7 @@
                 >聚居堡壘</nuxt-link
               >能夠提高馬戰車的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>
@@ -685,9 +686,9 @@
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
-                >畜牧培育</nuxt-link
+                >耕種技術</nuxt-link
               >速度快20%。
             </li>
             <li>
@@ -735,7 +736,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            韓國的高麗王國常常受到各方的攻擊 -<nuxt-link to="/civs/Chinese"
+            朝鮮的高麗王國常常受到各方的攻擊 -<nuxt-link to="/civs/Chinese"
               >中國</nuxt-link
             >，<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
             >等北方的野蠻<nuxt-link to="/civs">文明</nuxt-link
@@ -811,7 +812,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
             </td>
           </tr>
           <tr>

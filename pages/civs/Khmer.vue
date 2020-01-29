@@ -176,7 +176,7 @@
                 >征服者入侵</nuxt-link
               >開發時，高棉與西藏就在開發者的口袋名單內了，但最後是<nuxt-link
                 to="/civs/Koreans"
-                >韓國人</nuxt-link
+                >朝鮮人</nuxt-link
               >獲得青睞，因為<nuxt-link to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >與市場關係。

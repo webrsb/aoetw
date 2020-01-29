@@ -87,7 +87,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link
               >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
@@ -143,7 +143,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Drill">演習</nuxt-link>(+50%，<nuxt-link
+              /><nuxt-link to="/techs/Drill">鑿岩機</nuxt-link>(+50%，<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >)
@@ -193,7 +193,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -328,7 +328,8 @@
                       class="gg"
                       src="~assets/ConquistadorIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Conquistador">征服者</nuxt-link
+                    /><nuxt-link to="/units/Conquistador"
+                      >西班牙征服者</nuxt-link
                     >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -601,7 +602,7 @@
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
               >的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<nuxt-link
                 to="/techs/Husbandry"
-                >畜牧培育</nuxt-link
+                >耕種技術</nuxt-link
               >的<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
             </li>
             <li>
@@ -670,7 +671,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Siegetowericon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Siegetowericon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

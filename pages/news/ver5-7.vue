@@ -192,7 +192,7 @@
                 alt=""
               /><nuxt-link to="/civs/Malians">馬利</nuxt-link>失去<nuxt-link
                 to="/techs/Gold_Shaft_Mining"
-                >礦井採金</nuxt-link
+                >採金裝置</nuxt-link
               >
             </li>
           </ul>

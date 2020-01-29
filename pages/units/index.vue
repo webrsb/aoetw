@@ -225,13 +225,12 @@
                   class="gg"
                   src="~assets/SkirmisherIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Skirmisher">戰矛兵</nuxt-link>→
+                /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/EliteSkirmisherIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Elite_Skirmisher">精銳戰矛兵</nuxt-link
-                >→
+                /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/Imperialskirmishericon.png"
@@ -354,7 +353,7 @@
                   class="gg"
                   src="~assets/CavalierIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/PaladinIcon.png"
@@ -407,9 +406,9 @@
               <div class="unitcontent">
                 <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                   to="/units/Tarkan"
-                  >韃靼騎兵</nuxt-link
+                  >答剌罕騎兵</nuxt-link
                 >
-                (<nuxt-link to="/civs/Huns">匈奴</nuxt-link>研發<nuxt-link
+                (<nuxt-link to="/civs/Huns">匈人</nuxt-link>研發<nuxt-link
                   to="/techs/Marauders"
                   >掠奪者</nuxt-link
                 >後)
@@ -647,7 +646,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>
                   </div>
                   <div class="unique">
                     <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
@@ -700,7 +699,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>
                   </div>
                   <div class="unique">
                     <img
@@ -745,7 +744,7 @@
                       class="gg"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>
                   </div>
                   <div class="unique">
                     <img
@@ -768,7 +767,9 @@
                       class="gg"
                       src="~assets/ConquistadorIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>
+                    /><nuxt-link to="/units/Conquistador"
+                      >西班牙征服者</nuxt-link
+                    >
                   </div>
                   <div class="game_title">
                     <nuxt-link to="/games/aof"
@@ -907,7 +908,7 @@
               <div class="unitcontent">
                 <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
                   to="/units/Petard"
-                  >爆炸桶</nuxt-link
+                  >炸藥桶</nuxt-link
                 >
               </div>
             </td>
@@ -1000,7 +1001,7 @@
                   class="gg"
                   src="~assets/FireGalleyIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/FireShipIcon.png"
@@ -1010,7 +1011,7 @@
                   class="gg"
                   src="~assets/FastFireShipIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
+                /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>
               </div>
             </td>
           </tr>
@@ -1026,13 +1027,13 @@
                   class="gg"
                   src="~assets/DemoShipIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>→
+                /><nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/HeavyDemoShipIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Heavy_Demolition_Ship"
-                  >重型神風船</nuxt-link
+                  >重型爆破船</nuxt-link
                 >
               </div>
             </td>
@@ -1085,7 +1086,7 @@
                   src="~assets/TurtleShipIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
-                >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+                >(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
               </div>
             </td>
           </tr>

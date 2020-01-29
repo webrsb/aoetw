@@ -101,7 +101,7 @@
               <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
               >X7、<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >x2、<nuxt-link to="/units/Heavy_Demolition_Ship"
-                >重型神風船</nuxt-link
+                >重型爆破船</nuxt-link
               >x6、<nuxt-link to="/units/Villager">村民</nuxt-link
               >x12、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
               >X5、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link

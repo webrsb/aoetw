@@ -345,7 +345,7 @@
           <li>
             現在你手上有兩個遺跡了，下一個請直接選擇奧地利因為他們有兩個遺跡，他們有長劍兵、輕型衝撞車跟城堡保護城鎮，不過這在你的大軍眼中彷彿沒有穿衣服一樣，用<nuxt-link
               to="/units/Cavalier"
-              >騎兵</nuxt-link
+              >重裝騎士</nuxt-link
             >/<nuxt-link to="/units/Paladin">遊俠</nuxt-link>加上<nuxt-link
               to="/units/Trebuchet"
               >巨型投石機</nuxt-link

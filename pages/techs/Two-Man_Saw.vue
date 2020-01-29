@@ -38,11 +38,11 @@
               >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
@@ -115,7 +115,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2">
-                <nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>
+                <nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link>
               </div>
             </td>
           </tr>
@@ -160,7 +160,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/bow_saw.png" alt="" /><nuxt-link
                 to="/techs/Bow_Saw"
-                >弓鋸</nuxt-link
+                >弓形鋸</nuxt-link
               >
             </td>
           </tr>

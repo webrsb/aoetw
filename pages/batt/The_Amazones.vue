@@ -223,7 +223,7 @@
               <li>
                 如果玩家接近本地交易站，那麼商人（一個<nuxt-link
                   to="/units/Petard"
-                  >爆炸桶</nuxt-link
+                  >炸藥桶</nuxt-link
                 >）會建議善待其他本地村民，這將被視為“善行”。
               </li>
               <li>

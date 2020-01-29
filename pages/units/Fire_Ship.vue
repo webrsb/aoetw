@@ -18,7 +18,7 @@
               to="/units/Galley"
               >戰船</nuxt-link
             >升級成<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
-            >的時候，<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
+            >的時候，<nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link
             >會自動升級成火戰船。
           </p>
           <p>
@@ -33,7 +33,7 @@
             火戰船能夠壓制大部分的船，並且能夠造成巨大的傷害。火戰船也可以用來對付陸地單位，效果也是不錯。但是，因為火戰船需要很靠近敵人，所以<nuxt-link
               to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
-            >很大的克制噴火船。<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >很大的克制噴火船。<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
             >的<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
             >也能夠威脅到火戰船。火戰船雖然有非常快的<nuxt-link
               to="/elements/Rate_of_Fire"
@@ -48,7 +48,7 @@
               >弩砲戰船</nuxt-link
             >的速度慢。所以需要適當的戰術，攻其不備。當火戰船升級成<nuxt-link
               to="/units/Fast_Fire_Ship"
-              >快速火戰船</nuxt-link
+              >重型火戰船</nuxt-link
             >後，倒是能夠輕易地追上<nuxt-link to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
             >。
@@ -114,8 +114,8 @@
                 style="margin: 2px;"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1) <br />
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
@@ -134,7 +134,7 @@
                 style="margin: 2px;"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%)
             </td>
           </tr>
           <tr>
@@ -164,7 +164,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -175,7 +175,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
             </td>
           </tr>
         </table>
@@ -397,7 +397,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -408,7 +408,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -449,7 +449,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -544,12 +544,12 @@
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+                >航海技術</nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
-                >造船匠</nuxt-link
+                >造船員</nuxt-link
               >便宜50％，升級到<nuxt-link to="/units/Fast_Fire_Ship"
-                >快速火戰船</nuxt-link
+                >重型火戰船</nuxt-link
               >便宜50%。
             </li>
             <li>
@@ -557,12 +557,12 @@
               >：火戰船在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >訓練的速度提高15/20%<nuxt-link to="/techs/Careening"
-                >傾側維修術</nuxt-link
+                >航海技術</nuxt-link
               >和升級到<nuxt-link to="/units/Fast_Fire_Ship"
-                >快速火戰船</nuxt-link
+                >重型火戰船</nuxt-link
               >的研發速度在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代提高15%/20％。研究<nuxt-link to="/techs/Dry_Dock"
-                >旱碼頭</nuxt-link
+                >船塢</nuxt-link
               >的速度快20％。
             </li>
             <li>
@@ -601,7 +601,7 @@
               >並對反船隻攻擊有額外+4護甲。
             </li>
             <li>
-              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>讓<nuxt-link
+              <nuxt-link to="/techs/Shipwright">造船員</nuxt-link>讓<nuxt-link
                 to="/resource/Wood"
                 >木材</nuxt-link
               >成本便宜20%。
@@ -613,7 +613,7 @@
           <ul>
             <li>火戰船現在有6的遠防並對反船隻攻擊有額外+5護甲。</li>
             <li>
-              1.0版本<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              1.0版本<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >還可減少35%的船隻訓練時間。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
@@ -623,7 +623,7 @@
           </h3>
           <ul>
             <li>火戰船現在有7的遠防並對反船隻攻擊有額外+6護甲。</li>
-            <li>引入<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>。</li>
+            <li>引入<nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>。</li>
             <li>
               4.8版本後火戰船會受到<nuxt-link to="/techs/Ballistics"
                 >彈道學</nuxt-link
@@ -644,7 +644,7 @@
             <li>火戰船是遊戲中唯一沒有整數攻擊範圍的單位。</li>
             <li>
               火戰船和<nuxt-link to="/units/Fast_Fire_Ship"
-                >快速火戰船</nuxt-link
+                >重型火戰船</nuxt-link
               >是遊戲中唯二攻擊會同時造成近戰和<nuxt-link
                 to="/units/Archer_Units"
                 >遠程</nuxt-link
@@ -866,7 +866,7 @@
                 class="gg"
                 src="~assets/FireGalleyIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>
+              /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -876,7 +876,7 @@
                 class="gg"
                 src="~assets/FastFireShipIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
+              /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>
             </td>
           </tr>
           <tr>

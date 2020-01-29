@@ -50,7 +50,7 @@
                       src="~assets/padded_archer_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Padded_Archer_Armor"
-                      >弓兵布甲</nuxt-link
+                      >弓兵護甲</nuxt-link
                     >
                   </li>
                   <li>
@@ -58,14 +58,14 @@
                       class="gg"
                       src="~assets/fletching.png"
                       alt=""
-                    /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>
+                    /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/forging.png"
                       alt=""
-                    /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>
+                    /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -73,7 +73,7 @@
                       src="~assets/scale_barding_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Scale_Barding_Armor"
-                      >騎兵鱗甲</nuxt-link
+                      >鱗鎧甲</nuxt-link
                     >
                   </li>
                   <li>
@@ -108,14 +108,14 @@
                       class="gg"
                       src="~assets/bodkin_arrow.png"
                       alt=""
-                    /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
+                    /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/iron_casting.png"
                       alt=""
-                    /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>
+                    /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -123,7 +123,7 @@
                       src="~assets/Chainbardingarmor.jpg"
                       alt=""
                     /><nuxt-link to="/techs/Chain_Barding_Armor"
-                      >騎兵鎖甲</nuxt-link
+                      >鏈鎧甲</nuxt-link
                     >
                   </li>
                   <li>
@@ -132,7 +132,7 @@
                       src="~assets/Chainmailarmor.jpg"
                       alt=""
                     /><nuxt-link to="/techs/Chain_Mail_Armor"
-                      >步兵鎖甲</nuxt-link
+                      >步兵鏈甲</nuxt-link
                     >
                   </li>
                 </ul>
@@ -150,13 +150,13 @@
                       src="~assets/ring_archer_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Ring_Archer_Armor"
-                      >弓兵環甲</nuxt-link
+                      >弓兵鏈甲</nuxt-link
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Bracer.jpg" alt="" /><nuxt-link
                       to="/techs/Bracer"
-                      >護腕</nuxt-link
+                      >強力護腕</nuxt-link
                     >
                   </li>
                   <li>
@@ -172,7 +172,7 @@
                       src="~assets/scale_barding_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Plate_Barding_Armor"
-                      >騎兵板甲</nuxt-link
+                      >鐵鎧甲</nuxt-link
                     >
                   </li>
                   <li>
@@ -293,7 +293,7 @@
                   src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >(+20%建造效率)
               </td>
             </tr>
@@ -352,7 +352,7 @@
                   to="/techs/Masonry"
                   >磚瓦技術</nuxt-link
                 >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-                >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >的速度快80％。
               </li>
             </ul>
@@ -393,7 +393,7 @@
                 >黑暗時代</nuxt-link
               >。鑄鐵工作是在兵工廠那裡完成的，兵工廠的命名有部分是因為在那里工作的鑄鐵師傅和每天覆蓋著工人的黑煙。在兵工廠可以<nuxt-link
                 to="/techs/Forging"
-                >鍛造</nuxt-link
+                >鍛造技術</nuxt-link
               >鐵鎚、工具，武器盾牌和盔甲。製造出色的武器和盔甲的能力是一個非常優秀而且珍貴技能。兵工廠師傅，武器商和武器製造商在之後新時代成為了新興的中產階級。
             </p>
           </div>

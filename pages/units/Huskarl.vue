@@ -64,7 +64,7 @@
               >，<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >）的近戰單位，或對他們（<nuxt-link to="/units/Jaguar_Warrior"
                 >豹勇士</nuxt-link
-              >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
               >）有攻擊加成的單位戰鬥。因為它們對哥德衛隊是致命的。<nuxt-link
                 to="/units/War_Elephant"
@@ -77,8 +77,8 @@
               >的出現。<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
               >如<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
               >，<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
-              >或者<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
-              >對哥德衛隊也是有效的，其中只有哥德衛隊對奴隸兵有額外傷害加成。
+              >或者<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >對哥德衛隊也是有效的，其中只有哥德衛隊對阿拉伯奴隸兵有額外傷害加成。
             </li>
             <li>
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link
@@ -139,13 +139,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -181,7 +182,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1)
             </td>
           </tr>
@@ -193,7 +194,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -230,14 +231,14 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>:<nuxt-link
+              /><nuxt-link to="/techs/Perfusion">井噴</nuxt-link>:<nuxt-link
                 to="/building/Barracks"
                 >軍營</nuxt-link
               >工作速率加快2倍，只限軍營訓練的哥德衛隊
@@ -289,7 +290,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
@@ -352,7 +354,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -389,7 +391,7 @@
               src="~assets/unique_tech_imperial.png"
               width="22"
               alt=""
-            /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+            /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -397,12 +399,12 @@
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+                /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
               </li>
             </ul>
@@ -431,16 +433,16 @@
                 >聚居堡壘</nuxt-link
               >能夠提高哥德衛隊的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >、<nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
-              >、<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              >、<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              ><nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              ><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >的時間快20%。
@@ -489,7 +491,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:引入<nuxt-link
                 to="/techs/Perfusion"
-                >灌注士氣</nuxt-link
+                >井噴</nuxt-link
               >和<nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
               >。1.0c改版後哥德衛隊現在訓練便宜35%
             </li>

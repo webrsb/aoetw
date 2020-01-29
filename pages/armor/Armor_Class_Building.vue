@@ -189,7 +189,7 @@
                 <li>
                   <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
                     to="/building/Watch_Tower"
-                    >暸望箭塔</nuxt-link
+                    >暸望台</nuxt-link
                   >
                 </li>
                 <li>
@@ -247,7 +247,7 @@
               <li>
                 <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
                   to="/units/Petard"
-                  >爆炸桶</nuxt-link
+                  >炸藥桶</nuxt-link
                 >
               </li>
             </ul>
@@ -259,7 +259,7 @@
                   src="~assets/HeavyDemoShipIcon.png"
                   alt=""
                 /><nuxt-link to="/units/Heavy_Demolition_Ship"
-                  >重型神風船</nuxt-link
+                  >重型爆破船</nuxt-link
                 >
               </li>
             </ul>
@@ -293,7 +293,7 @@
                   src="~assets/DemoShipIcon.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>
+                /><nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+200攻擊</strong></div>
@@ -405,8 +405,8 @@
               <li>
                 <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                   to="/units/Tarkan"
-                  >精銳韃靼騎兵</nuxt-link
-                >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
+                  >精銳答剌罕騎兵</nuxt-link
+                >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
@@ -425,8 +425,8 @@
               <li>
                 <img class="gg" src="~assets/TarkanIcon.png" alt="" /><nuxt-link
                   to="/units/Tarkan"
-                  >韃靼騎兵</nuxt-link
-                >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
+                  >答剌罕騎兵</nuxt-link
+                >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
               </li>
               <li>
                 <img
@@ -530,7 +530,7 @@
                   class="gg"
                   src="~assets/FastFireShipIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
+                /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
@@ -574,7 +574,7 @@
                   class="gg"
                   src="~assets/FireGalleyIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>
+                /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>
               </li>
             </ul>
           </div>
@@ -602,7 +602,7 @@
                     class="gg"
                     src="~assets/PetardIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                  /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -717,7 +717,7 @@
               <p>
                 <img src="~assets/sappers.png" width="22" alt="" /><nuxt-link
                   to="/techs/Sappers"
-                  >坑道工兵</nuxt-link
+                  >兵工學</nuxt-link
                 >
               </p>
               <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -769,7 +769,7 @@
                     class="gg"
                     src="~assets/CavalierIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>
+                  /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -874,12 +874,12 @@
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>→
+              /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+              /><nuxt-link to="/units/Mameluke">精銳阿拉伯奴隸兵</nuxt-link
               >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
             </li>
           </ul>

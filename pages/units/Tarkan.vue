@@ -2,26 +2,26 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>韃靼騎兵</h1>
+        <h1>答剌罕騎兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>韃靼騎兵</b>是<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+            <b>答剌罕騎兵</b>是<nuxt-link to="/civs/Huns">匈人</nuxt-link
             >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練，當研發<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             ><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
             >後則可以在<nuxt-link to="/building/Stable">馬廄</nuxt-link
-            >中生產。譯為「答剌罕騎兵」，在世紀帝國II中翻成「韃靼騎兵」，是善於攻擊<nuxt-link
+            >中生產。在世紀帝國II中翻成「韃靼騎兵」，是善於攻擊<nuxt-link
               to="/building"
               >建築物</nuxt-link
             >的近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-            >。韃靼騎兵可在<nuxt-link to="/techs/age/Imperial_Age"
+            >。答剌罕騎兵可在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳韃靼騎兵
+            >升級為精銳答剌罕騎兵
           </p>
         </div>
         <h3>戰術</h3>
@@ -29,28 +29,28 @@
         <div class="n1">
           <ul>
             <li>
-              在戰鬥中韃靼騎兵被歸類為中等<nuxt-link to="/units/Cavalry_Units"
+              在戰鬥中答剌罕騎兵被歸類為中等<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
-              >，韃靼騎兵的專長是摧毀建築物和打擊<nuxt-link
+              >，答剌罕騎兵的專長是摧毀建築物和打擊<nuxt-link
                 to="/units/Archer_Units"
                 >遠距離單位</nuxt-link
-              >。韃靼騎兵的高<nuxt-link to="/armor">遠程護甲</nuxt-link
+              >。答剌罕騎兵的高<nuxt-link to="/armor">遠程護甲</nuxt-link
               >和<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
               >可有效對付遠距離單位、<nuxt-link to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
               >，和建築物。
             </li>
             <li>
-              韃靼騎兵非常適合打帶跑戰術。他們能輕易摧毀對方的建築物而且有能力處理前來的<nuxt-link
+              答剌罕騎兵非常適合打帶跑戰術。他們能輕易摧毀對方的建築物而且有能力處理前來的<nuxt-link
                 to="/units/Archer_Units"
                 >弓箭手</nuxt-link
-              >。韃靼騎兵同時作為防禦單位能不費吹灰之力處理來犯的<nuxt-link
+              >。答剌罕騎兵同時作為防禦單位能不費吹灰之力處理來犯的<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
               >。
             </li>
             <li>
-              韃靼騎兵不善於和對方部隊接戰，尤其是像<nuxt-link
+              答剌罕騎兵不善於和對方部隊接戰，尤其是像<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
               >、<nuxt-link to="/units/Paladin">遊俠</nuxt-link>、<nuxt-link
@@ -58,15 +58,15 @@
                 >豹勇士</nuxt-link
               >等重型單位。而他們緩慢的攻擊動作（揮動火把）也讓他們在攻速上大大不如其他單位。由於<nuxt-link
                 to="/civs/Huns"
-                >匈奴人</nuxt-link
+                >匈人</nuxt-link
               >有<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >，所以最好以<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-              >當作戰場主力。而韃靼騎兵則搭配<nuxt-link to="/units/Trebuchet"
+              >當作戰場主力。而答剌罕騎兵則搭配<nuxt-link to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >使用才能發揮最大效益。
             </li>
             <li>
-              韃靼騎兵現在研發特殊科技<nuxt-link to="/techs/Marauders"
+              答剌罕騎兵現在研發特殊科技<nuxt-link to="/techs/Marauders"
                 >掠奪者</nuxt-link
               >後則可以在<nuxt-link to="/building/Stable">馬廄</nuxt-link
               >中生產，實用度大為提升。
@@ -99,10 +99,8 @@
               >、重裝<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/units/Camel"
-                >駱駝騎兵</nuxt-link
-              >。
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -131,13 +129,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -154,21 +153,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -180,7 +179,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -209,7 +208,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
           <tr>
@@ -223,15 +222,15 @@
               /><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>:<nuxt-link
                 to="/building/Stable"
                 >馬廄</nuxt-link
-              >可生產韃靼騎兵。
+              >可生產答剌罕騎兵。
             </td>
           </tr>
         </table>
 
-        <h3>剋韃靼騎兵的單位與建築</h3>
+        <h3>剋答剌罕騎兵的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對韃靼騎兵的額外傷害，按照殺傷力排列。
+          以下單位擁有對答剌罕騎兵的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -307,7 +306,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -350,7 +350,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -413,7 +413,7 @@
                 </ul>
               </div>
             </div>
-            以下科技可讓以下單位對韃靼騎兵有額外攻擊力
+            以下科技可讓以下單位對答剌罕騎兵有額外攻擊力
             <div class="n1">
               <img
                 class="gg"
@@ -498,23 +498,23 @@
                 <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                   to="/techs/Kasbah"
                   >聚居堡壘</nuxt-link
-                >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+                >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
                 >、<nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
-                >的研究時間，以及在城堡裡訓練韃靼騎兵的速度(都快25%)。
+                >的研究時間，以及在城堡裡訓練答剌罕騎兵的速度(都快25%)。
               </li>
               <li>
-                <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：在<nuxt-link
+                <nuxt-link to="/civs/Huns">匈人</nuxt-link>：在<nuxt-link
                   to="/building/Stable"
                   >馬廄</nuxt-link
-                >裡訓練的韃靼騎兵訓練時間快20%，<nuxt-link
+                >裡訓練的答剌罕騎兵訓練時間快20%，<nuxt-link
                   to="/techs/Bloodlines"
                   >品種</nuxt-link
-                >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+                >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
                 >研發快20%。
               </li>
               <li>
                 <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                >：韃靼騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
+                >：答剌罕騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
                 >抵抗力更強。
               </li>
             </ul>
@@ -526,9 +526,9 @@
               <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
             </h3>
             <ul>
-              <li>韃靼騎兵(非精銳)有90HP和7的攻擊。</li>
+              <li>答剌罕騎兵(非精銳)有90HP和7的攻擊。</li>
               <li>
-                韃靼騎兵有2的<nuxt-link to="/armor">遠防</nuxt-link
+                答剌罕騎兵有2的<nuxt-link to="/armor">遠防</nuxt-link
                 >，精銳則是3。
               </li>
             </ul>
@@ -536,7 +536,7 @@
               <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
             </h3>
             <ul>
-              <li>韃靼騎兵(非精銳)有100HP和8的攻擊。</li>
+              <li>答剌罕騎兵(非精銳)有100HP和8的攻擊。</li>
               <li>
                 新增<nuxt-link to="/techs">科技</nuxt-link
                 ><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
@@ -553,7 +553,7 @@
                 >現在花費300<nuxt-link to="/resource/Wood">木頭</nuxt-link
                 >與200黃金。
               </li>
-              <li>4.8版本後韃靼騎兵的遠防升級到3，精銳則是4。</li>
+              <li>4.8版本後答剌罕騎兵的遠防升級到3，精銳則是4。</li>
             </ul>
           </div>
           <h3>趣事</h3>
@@ -571,18 +571,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            "馬鐙的使用讓匈奴人在3世紀揮軍西向時比其他軍隊更具有技術優勢，馬鐙可以有效穩定<nuxt-link
+            "馬鐙的使用讓匈人在3世紀揮軍西向時比其他軍隊更具有技術優勢，馬鐙可以有效穩定<nuxt-link
               to="/civs/Huns"
-              >匈奴</nuxt-link
+              >匈人</nuxt-link
             >騎兵的重心並用長矛沖向目標，歷史上除了少數例外情況（特別是亞歷山大的騎兵），很少有騎兵能如此擅用長矛。數千名野蠻騎兵的出現並且如此有效地使用長矛在戰爭結束時迫使軍隊發展產生戲劇性的變化，羅馬軍團不得不更多地專注在騎兵上以支援他們的軍團，並最終僱傭野蠻人騎兵作為僱傭兵，匈牙利<nuxt-link
               to="/units/hero"
               >英雄</nuxt-link
             >和後來的<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-            >軍隊被稱為韃靼騎兵。"
+            >軍隊被稱為答剌罕騎兵。"
           </p>
           <p>
-            最好的匈奴<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >是精銳韃靼騎兵。他們騎術了得，攻擊出奇不易，並在戰況不好時可以迅速撤出精銳韃靼騎兵的機動性使他們成為毀滅性的突襲者，但他們的輕騎兵身份使他們在近距離戰鬥中對重裝甲的騎兵處於劣勢。
+            最好的匈人<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >是精銳答剌罕騎兵。他們騎術了得，攻擊出奇不易，並在戰況不好時可以迅速撤出精銳答剌罕騎兵的機動性使他們成為毀滅性的突襲者，但他們的輕騎兵身份使他們在近距離戰鬥中對重裝甲的騎兵處於劣勢。
           </p>
         </div>
         <h3>圖庫</h3>
@@ -593,13 +593,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Tarkan.png" alt=""
               /></gallery>
-              <p><em>一群韃靼騎兵。</em></p>
+              <p><em>一群答剌罕騎兵。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/A_Tarkan.png" alt=""
               /></gallery>
-              <p><em>韃靼騎兵模組。</em></p>
+              <p><em>答剌罕騎兵模組。</em></p>
             </div>
           </div>
         </div>
@@ -609,7 +609,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
-                韃靼騎兵
+                答剌罕騎兵
               </div>
             </td>
           </tr>
@@ -633,7 +633,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -752,7 +752,11 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/TarkanIcon.png" alt="" />精銳韃靼騎兵
+              <img
+                class="gg"
+                src="~assets/TarkanIcon.png"
+                alt=""
+              />精銳答剌罕騎兵
             </td>
           </tr>
           <tr>

@@ -50,7 +50,7 @@
             在遊戲戰役中<nuxt-link to="/units/hero/Gonzalo_Pizarro"
               >岡薩洛·皮薩羅</nuxt-link
             >是主要<nuxt-link to="/units/hero">英雄</nuxt-link
-            >，外表是<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+            >，外表是<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
             >，能在地圖編輯器中找到他，他不會被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link

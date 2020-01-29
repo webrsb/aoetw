@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>信仰救贖</h1>
+        <h1>神聖思想</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>信仰救贖</b>於<nuxt-link to="/techs/age/Castle_Age"
+            <b>神聖思想</b>(2013版稱<b>信仰救贖</b>)於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>
             研發後可讓<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -99,9 +100,9 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Mayans"
                 >馬雅</nuxt-link
@@ -213,7 +214,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">信仰救贖</div>
+              <div class="unititle2">神聖思想</div>
             </td>
           </tr>
           <tr>

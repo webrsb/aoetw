@@ -42,7 +42,7 @@
                     src="~assets/PetardIcon.png"
                     width="30"
                     alt=""
-                  /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                  /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -91,7 +91,7 @@
                     src="~assets/hoardings.png"
                     width="30"
                     alt=""
-                  /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>
+                  /><nuxt-link to="/techs/Hoardings">圍牆</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -99,7 +99,7 @@
                     src="~assets/sappers.png"
                     width="30"
                     alt=""
-                  /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>
+                  /><nuxt-link to="/techs/Sappers">兵工學</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -107,7 +107,7 @@
                     src="~assets/conscription.png"
                     width="30"
                     alt=""
-                  /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
+                  /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -132,7 +132,7 @@
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研究<nuxt-link
                 to="/techs/Herbal_Medicine"
-                >草藥學</nuxt-link
+                >草藥治療</nuxt-link
               >便宜50％。
             </li>
             <li>
@@ -154,7 +154,7 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：城堡便宜15％。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >：建築速度提高了33％。
             </li>
             <li>
@@ -164,13 +164,13 @@
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：<nuxt-link
                 to="/techs/Murder_Holes"
-                >垛孔</nuxt-link
+                >近射孔</nuxt-link
               >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >免費。
             </li>
           </ul>
@@ -340,7 +340,7 @@
           </table>
 
           <nuxt-link to="/civs/Teutons">條頓</nuxt-link>的特殊技術：<strong
-            ><nuxt-link to="/techs/Crenellations">垛口</nuxt-link></strong
+            ><nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link></strong
           >，讓<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
           >駐紮也有增加箭數效果，同種類的步兵駐紮滿20人可以增加7支箭。
         </div>
@@ -366,10 +366,10 @@
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，<nuxt-link
-                to="/units/Huskarl"
-                >哥德衛隊</nuxt-link
-              >，<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >，<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
+              >，<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
+                to="/units/War_Elephant"
+                >戰象</nuxt-link
               >，<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
@@ -401,7 +401,7 @@
                 src="~assets/hoardings.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>(+1000)
+              /><nuxt-link to="/techs/Hoardings">圍牆</nuxt-link>(+1000)
             </td>
           </tr>
           <tr>
@@ -414,20 +414,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -439,7 +439,7 @@
                 src="~assets/heated_shot.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+              /><nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link
               >(+4，僅對<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>)
             </td>
           </tr>
@@ -451,33 +451,33 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Murderholes.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
+              /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link
               >:消除最小射程<br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              /><nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link
               >(+3，<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定)
             </td>
           </tr>
@@ -552,7 +552,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%)
             </td>
           </tr>
@@ -564,7 +564,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img
                 class="gg"
@@ -584,14 +584,14 @@
                 src="~assets/Herbalmedicine.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+              /><nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link
               >:駐紮單位治療速度加快<br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              /><nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link
               >:駐紮步兵可增加箭數
             </td>
           </tr>
@@ -611,12 +611,12 @@
           </h3>
           <ul>
             <li>
-              引入<nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>。
+              引入<nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:引入<nuxt-link
                 to="/techs/Crenellations"
-                >垛口</nuxt-link
+                >砲門垛口</nuxt-link
               >。
             </li>
           </ul>
@@ -636,7 +636,7 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:城堡建造速度快33%。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:城堡建造速度快33%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>:引入<nuxt-link
@@ -671,7 +671,7 @@
               東亞城堡與<nuxt-link to="/civs/Japanese">日本</nuxt-link
               >大阪城的天守閣有著相似之處，即使中國、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >與<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>表示黑人問號。
             </li>
             <li>

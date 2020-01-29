@@ -31,7 +31,7 @@
                 to="/civs/Celts"
                 >塞爾特</nuxt-link
               >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
               >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
@@ -64,7 +64,7 @@
                 >法蘭克</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
@@ -171,7 +171,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link
               >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
@@ -220,8 +220,8 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link
-              >(+1，<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+              /><nuxt-link to="/techs/Shinkichon">投擲器</nuxt-link
+              >(+1，<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -240,7 +240,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Drill">演習</nuxt-link>(+50%，<nuxt-link
+              /><nuxt-link to="/techs/Drill">鑿岩機</nuxt-link>(+50%，<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >)
@@ -290,7 +290,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -464,7 +464,7 @@
               >：重型投石車訓練和升級速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >：投石車最小射程移除。
             </li>
             <li>
@@ -504,23 +504,23 @@
               <li>
                 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >塞爾特狂暴</nuxt-link
+                  >塞爾特狂熱</nuxt-link
                 >給予重型投石車+50%的HP。
               </li>
               <li>
                 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:引進<nuxt-link
                   to="/techs/Drill"
-                  >演習</nuxt-link
+                  >鑿岩機</nuxt-link
                 ><nuxt-link to="/techs">科技</nuxt-link>。
               </li>
               <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
+                <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:<nuxt-link
                   to="/techs/Shinkichon"
-                  >神機箭</nuxt-link
+                  >投擲器</nuxt-link
                 >：給予重型投石車+2的射程，到了1.0c版效果減少為1。
               </li>
               <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>的<nuxt-link
+                <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>的<nuxt-link
                   to="/elements/Team_Bonus"
                   >團隊加分</nuxt-link
                 >讓重型投石車有+1射程。
@@ -533,7 +533,7 @@
               <li>
                 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >塞爾特狂暴</nuxt-link
+                  >塞爾特狂熱</nuxt-link
                 >給予重型投石車+40%的HP。
               </li>
               <li>
@@ -543,7 +543,7 @@
                 >引入。
               </li>
               <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+                <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
                 >的團隊加分改為最小範圍-2，而不是射程+1。
               </li>
             </ul>
@@ -628,7 +628,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/SiegeOnagerIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/SiegeOnagerIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

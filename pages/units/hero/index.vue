@@ -9,7 +9,7 @@
           >是世紀帝國II的特殊單位。在常規遊戲中不可用，英雄通常指的是歷史人物。因此，他們經常在<nuxt-link
             to="/batt"
             >戰役</nuxt-link
-          >場景中出現。在那裡，他們往往是必須生存的單位，即他們的死亡意味著失敗。在征服者資料片之後所有英雄都不能被<nuxt-link
+          >場景中出現。在那裡，他們往往是必須生存的單位，即他們的死亡意味著失敗。西班牙征服者料片之後所有英雄都不能被<nuxt-link
             to="/elements/Conversion"
             >招降</nuxt-link
           >，並獲得<nuxt-link to="/elements/Regeneration">回血</nuxt-link
@@ -378,9 +378,7 @@
               >
               <br /><nuxt-link to="/batt/Pax_Mongolia"></nuxt-link>
               <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
-              <br /><nuxt-link to="/batt/Pax_Mongolia"
-                >蒙古太平</nuxt-link
-              >
+              <br /><nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
               <br /><nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
               ><br /><nuxt-link to="/batt/Honfoglalas_895"
                 >征服家園（895）</nuxt-link
@@ -685,7 +683,7 @@
             </td>
             <td class="tunitc4">攻城武器</td>
             <td class="tunitc6">
-              <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+              <nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
             </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
@@ -801,7 +799,7 @@
             </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
-              <br /><nuxt-link to="/batt/The_Promise">承諾</nuxt-link
+              <br /><nuxt-link to="/batt/The_Promise">臨終夙願</nuxt-link
               ><br /><nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
             </td>
           </tr>
@@ -1256,7 +1254,7 @@
                       <nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
                       >、騎兵
                     </td>
-                    <td class="tunitc6">征服者</td>
+                    <td class="tunitc6">西班牙征服者</td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/Tales_of_La_Canela"
                         >黃金國的傳說</nuxt-link
@@ -1299,7 +1297,7 @@
                       >
                     </td>
                     <td class="tunitc4">火藥單位、騎兵</td>
-                    <td class="tunitc6">征服者</td>
+                    <td class="tunitc6">西班牙征服者</td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/The_Split">分離告別</nuxt-link>
                     </td>
@@ -1314,7 +1312,7 @@
                     </td>
                     <td class="tunitc4">騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+                      <nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>
                     </td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/York_865">約克（865）</nuxt-link
@@ -1423,7 +1421,7 @@
                     </td>
                     <td class="tunitc4">騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
+                      <nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>
                     </td>
                     <td class="tunitc6">無</td>
                   </tr>

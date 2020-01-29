@@ -295,7 +295,7 @@
                 src="~assets/PetardIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link
               >：自殺性的<nuxt-link to="/units/Siege_Weapons"
                 >攻城單位</nuxt-link
               >。
@@ -375,7 +375,7 @@
                 src="~assets/DemoShipIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+              /><nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link
               >：反<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
               >的自殺單位。
             </li>
@@ -397,7 +397,7 @@
                 alt=""
               /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
               >：發射大砲的重甲船。（<nuxt-link to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >限定）
             </li>
             <li>
@@ -450,9 +450,8 @@
                   src="~assets/heavy_plow.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>：<nuxt-link
-                  to="/units/Villager"
-                  >農夫</nuxt-link
+                /><nuxt-link to="/techs/Heavy_Plow">重型耕犁</nuxt-link
+                >：<nuxt-link to="/units/Villager">農夫</nuxt-link
                 >攜帶量增加，<nuxt-link to="/building/Farm">農田</nuxt-link
                 >更多產量。
               </li>
@@ -467,7 +466,7 @@
                   src="~assets/BowSaw.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link
+                /><nuxt-link to="/techs/Bow_Saw">弓形鋸</nuxt-link
                 >：更有效率的伐木。
               </li>
             </ul>
@@ -483,7 +482,7 @@
                   src="~assets/gold_shaft_mining.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link
+                /><nuxt-link to="/techs/Gold_Shaft_Mining">採金裝置</nuxt-link
                 >：更有效率的採金。
               </li>
               <li>
@@ -492,7 +491,7 @@
                   src="~assets/stone_shaft_mining.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link
+                /><nuxt-link to="/techs/Stone_Shaft_Mining">採石裝置</nuxt-link
                 >：更有效率的採石。
               </li>
             </ul>
@@ -513,7 +512,7 @@
                   src="~assets/caravan.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Caravan">大商隊</nuxt-link
+                /><nuxt-link to="/techs/Caravan">商隊</nuxt-link
                 >：更快的貿易速度。
               </li>
             </ul>
@@ -535,7 +534,7 @@
                   src="~assets/careening.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
+                /><nuxt-link to="/techs/Careening">航海技術</nuxt-link
                 >:增加<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
                 >的護甲和<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
                 >的運載量。
@@ -571,7 +570,7 @@
                   src="~assets/heated_shot.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+                /><nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link
                 >：增加城堡和<nuxt-link to="/building/Watch_Tower"
                   >箭塔</nuxt-link
                 >對船隻的攻擊。
@@ -582,7 +581,7 @@
                   src="~assets/Murderholes.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
+                /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link
                 >：移除城堡和箭塔的最小射程限制。
               </li>
               <li>
@@ -591,7 +590,7 @@
                   src="~assets/treadmill_crane.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >：<nuxt-link to="/units/Villager">村民</nuxt-link
                 >建築速度加快。
               </li>
@@ -642,7 +641,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Husbandry"></nuxt-link
-                ><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+                ><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
                 >：增加<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
                 >移動速度。
               </li>
@@ -657,7 +656,7 @@
                   src="~assets/iron_casting.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+                /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
                 >：增加步兵和騎兵的近戰攻擊。
               </li>
               <li>
@@ -666,7 +665,7 @@
                   src="~assets/Chainmailarmor.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
                 >：增加步兵防禦。
               </li>
               <li>
@@ -675,7 +674,7 @@
                   src="~assets/bodkin_arrow.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
+                /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link
                 >：弓箭手增加攻擊與射程。
               </li>
               <li>
@@ -694,7 +693,7 @@
                   src="~assets/Chainbardingarmor.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+                /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
                 >：增加<nuxt-link to="/armor/Armor_Class_Cavalry"
                   >騎兵防禦</nuxt-link
                 >。
@@ -722,7 +721,7 @@
                   src="~assets/redemption.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link
+                /><nuxt-link to="/techs/Redemption">神聖思想</nuxt-link
                 >：可以招降建築與<nuxt-link to="/units/Siege_Weapons"
                   >攻城器</nuxt-link
                 >。
@@ -751,7 +750,7 @@
                   src="~assets/atonement.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Atonement">贖罪</nuxt-link
+                /><nuxt-link to="/techs/Atonement">救贖思想</nuxt-link
                 >：可以招降對方僧侶。
               </li>
               <li>
@@ -769,7 +768,7 @@
                   src="~assets/Herbalmedicine.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+                /><nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link
                 >：駐紮的軍隊回復加快。
               </li>
             </ul>

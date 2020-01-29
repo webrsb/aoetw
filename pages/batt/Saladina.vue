@@ -29,7 +29,7 @@
             >中並不會出現，在直到2013年《<nuxt-link to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
             >》中新增，沙拉丁是一個<nuxt-link to="/units/Mameluke"
-              >奴隸兵</nuxt-link
+              >阿拉伯奴隸兵</nuxt-link
             ><nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，只能在地圖編輯器中找到他，他不會被<nuxt-link
               to="/elements/Conversion"

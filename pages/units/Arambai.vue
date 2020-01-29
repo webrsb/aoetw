@@ -40,7 +40,7 @@
           <ul>
             <li>
               飛鏢騎兵跟<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >的<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >的<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >相似，同樣是特殊單位擁有強大<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
               >的<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
@@ -51,7 +51,7 @@
               >上<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >完善緬甸則缺乏<nuxt-link to="/techs/Leather_Archer_Armor"
                 >弓兵皮甲</nuxt-link
-              >/<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              >/<nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >因此防禦較低，命中也非常低，值得注意是受到<nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
@@ -74,7 +74,7 @@
                 >科技</nuxt-link
               >缺少<nuxt-link to="/techs/Leather_Archer_Armor"
                 >弓兵皮甲</nuxt-link
-              >和<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              >和<nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >，因此<nuxt-link to="/units/Archer_Units">步弓系列</nuxt-link
               >/<nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link
               >的傷害沒法提高，另外因為要非常近距離才能達到傷害的飛鏢騎兵也懼怕<nuxt-link
@@ -144,7 +144,7 @@
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
-                >奴隸兵</nuxt-link
+                >阿拉伯奴隸兵</nuxt-link
               >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵系</nuxt-link
@@ -206,7 +206,7 @@
                 src="~assets/padded_archer_armor.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1)
             </td>
           </tr>
@@ -215,7 +215,7 @@
             <td class="tta4">
               <img src="~assets/husbandry.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Husbandry"
-                >畜牧培育</nuxt-link
+                >耕種技術</nuxt-link
               >(+10%)
             </td>
           </tr>
@@ -235,7 +235,7 @@
             <td class="tta4">
               <img src="~assets/conscription.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >(+33%)
             </td>
           </tr>
@@ -261,14 +261,14 @@
               >能夠提高飛鏢騎兵的生產速度和加速<nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
-              >及<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >及<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的研發時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -352,7 +352,7 @@
             <li>
               飛鏢騎兵是遊戲中僅有的三種騎兵投擲部隊之一，另外兩種是<nuxt-link
                 to="/units/Mameluke"
-                >奴隸兵</nuxt-link
+                >阿拉伯奴隸兵</nuxt-link
               >與<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>。
             </li>
           </ul>

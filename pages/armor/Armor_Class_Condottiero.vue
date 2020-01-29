@@ -32,7 +32,7 @@
             >對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
             >+10的攻擊加成，可是這樣也讓傭兵對其它反步兵單位例如<nuxt-link
               to="/units/Cataphract"
-              >聖騎兵</nuxt-link
+              >拜占庭聖騎兵</nuxt-link
             >有減傷效果，因此在5.7版特地新增傭兵護甲這個分類，強調傭兵反火藥單位的特性同時其它對<nuxt-link
               to="/armor/Armor_Class_Infantry"
               >步兵</nuxt-link
@@ -67,7 +67,7 @@
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
               </li>
               <li>
@@ -101,7 +101,7 @@
                   class="gg"
                   src="~assets/CataphractIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
               </li>
             </ul>

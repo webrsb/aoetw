@@ -55,7 +55,7 @@
                 width="25px"
                 src="~assets/tower.png"
                 alt=""
-              /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>
+              /><nuxt-link to="/building/Watch_Tower">暸望台</nuxt-link>
             </li>
             <li>
               <img
@@ -120,14 +120,14 @@
                       style="margin: 2px;"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>→
                     <img
                       class="gg"
                       style="margin: 2px;"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
+                    /><nuxt-link to="/units/Tarkan">精銳答剌罕騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
@@ -246,7 +246,7 @@
                 src="~assets/sappers.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>
+              /><nuxt-link to="/techs/Sappers">兵工學</nuxt-link>
             </p>
             <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
             <ul>

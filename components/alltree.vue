@@ -59,7 +59,7 @@
                   <nuxt-link to="/tree/chi">中國</nuxt-link>
                   <nuxt-link to="/tree/jap">日本</nuxt-link>
                   <nuxt-link to="/tree/mon">蒙古</nuxt-link>
-                  <nuxt-link to="/tree/kor">韓國</nuxt-link>
+                  <nuxt-link to="/tree/kor">朝鮮</nuxt-link>
                   <nuxt-link to="/tree/ind">印度</nuxt-link>
                   <nuxt-link to="/tree/byz">拜占庭</nuxt-link>
                   <nuxt-link to="/tree/pre">波斯</nuxt-link>
@@ -84,7 +84,7 @@
                   <nuxt-link to="/tree/got">哥德</nuxt-link>
                   <nuxt-link to="/tree/teu">條頓</nuxt-link>
                   <nuxt-link to="/tree/vik">維京</nuxt-link>
-                  <nuxt-link to="/tree/hun">匈奴</nuxt-link>
+                  <nuxt-link to="/tree/hun">匈人</nuxt-link>
                   <nuxt-link to="/tree/ita">義大利</nuxt-link>
                   <nuxt-link to="/tree/mag">馬札爾</nuxt-link>
                   <nuxt-link to="/tree/sla">斯拉夫</nuxt-link>

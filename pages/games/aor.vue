@@ -193,7 +193,7 @@
                 >減少15/20%。
               </li>
               <li>
-                獲得<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+                獲得<nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
                 >。
               </li>
               <li>
@@ -225,10 +225,10 @@
                 >+10HP。
               </li>
             </ul>
-            <li><nuxt-link to="/civs/Huns">匈奴</nuxt-link></li>
+            <li><nuxt-link to="/civs/Huns">匈人</nuxt-link></li>
             <ul>
               <li>
-                (精銳)<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
+                (精銳)<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
                 >+1<nuxt-link to="/armor">遠程護甲</nuxt-link>。
               </li>
             </ul>
@@ -254,7 +254,7 @@
               </li>
               <li>
                 移除<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-                >的+2<nuxt-link to="/los.php">視野</nuxt-link
+                >的+2<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
                 >並以造價減少25<nuxt-link to="/resource/Wood">木材</nuxt-link
                 >做代替。
               </li>
@@ -270,7 +270,7 @@
             <li><nuxt-link to="/civs/Japanese">日本</nuxt-link></li>
             <ul>
               <li>
-                獲得<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                獲得<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 ><nuxt-link to="/techs">科技</nuxt-link>。
               </li>
             </ul>
@@ -341,7 +341,8 @@
             <li><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link></li>
             <ul>
               <li>
-                精銳薩拉森<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                精銳薩拉森<nuxt-link to="/units/Mameluke"
+                  >阿拉伯奴隸兵</nuxt-link
                 >的開火間隔增加為5(之前是0)。
               </li>
             </ul>
@@ -390,7 +391,7 @@
             <li>金合歡樹提供150木(之前是100木)。</li>
             <li>自爆筏移動速度由1.6降為1.5。</li>
             <li>
-              <nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>的<nuxt-link
+              <nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>的<nuxt-link
                 to="/units/Archer_Units"
                 >遠程</nuxt-link
               >護甲由5降為4。
@@ -423,10 +424,11 @@
               <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >獲得對<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >的額外攻擊加成，如此<nuxt-link to="/techs/Parthian_Tactics"
-                >帕提亞戰術</nuxt-link
+                >安息人戰術</nuxt-link
               >才能正確的影響其他文明的<nuxt-link to="/units/Camel"
                 >駱駝</nuxt-link
-              >弓<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
+              ><nuxt-link to="/units/Armor_Class_Cavalry_Archer"
+                >弓騎兵</nuxt-link
               >。例如柏柏第一戰役中的薩拉森駱駝弓騎兵。
             </li>
             <li>
@@ -486,7 +488,7 @@
               >有。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >的"防禦工事建造速度加快33%"的文明加成現在只影響垛牆的建造速度。
             </li>
             <li>
@@ -542,7 +544,7 @@
               >不再需要花費<nuxt-link to="/resource/Stone">石頭</nuxt-link>。
             </li>
             <li>
-              西班牙、匈奴、馬雅、印加、馬札爾、斯拉夫、衣索比亞還有馬利的<nuxt-link
+              西班牙、匈人、馬雅、印加、馬札爾、斯拉夫、衣索比亞還有馬利的<nuxt-link
                 to="/armor/Armor_Class_Monk"
                 >僧侶</nuxt-link
               >現在恢復信仰的速度與其他文明相同。
@@ -557,7 +559,7 @@
             <li>
               箭狹槽從以下文明的科技術移除:衣索比亞、<nuxt-link to="/civs/Goths"
                 >哥德</nuxt-link
-              >、匈奴、印度、馬札爾、馬利、瑪雅、蒙古、波斯、葡萄牙和斯拉夫。
+              >、匈人、印度、馬札爾、馬利、瑪雅、蒙古、波斯、葡萄牙和斯拉夫。
             </li>
             <li>箭狹槽現在只能在帝王時代研發。</li>
             <li>箭狹槽現在會影響第二發箭矢。</li>
@@ -573,7 +575,7 @@
               >的成本由250木材160黃金降為200木材100黃金。
             </li>
             <li>
-              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              <nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >的研發成本由250食物降為150食物，研發時間由50秒降為40秒。
             </li>
             <li>

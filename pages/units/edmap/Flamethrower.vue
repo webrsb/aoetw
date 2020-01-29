@@ -45,7 +45,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -215,7 +215,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Flamethrowerimage.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Flamethrowerimage.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

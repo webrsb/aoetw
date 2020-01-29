@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>雕版印刷術</h1>
+        <h1>印刷技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>雕版印刷術</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>印刷技術</b>(2013版稱<b>雕版印刷術</b>)可於<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link
             >研發，<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -52,7 +53,7 @@
                 >義大利</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -92,7 +93,7 @@
                 >衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
@@ -121,7 +122,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>:不能研發雕版印刷術。
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>:不能研發印刷技術。
             </li>
           </ul>
           <h3>
@@ -129,8 +130,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Incas">印加</nuxt-link
-              >:可以研發雕版印刷術了。
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>:可以研發印刷技術了。
             </li>
           </ul>
         </div>
@@ -139,7 +139,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/civs/Chinese">中國</nuxt-link
-            >古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用雕版印刷術留下紀錄。
+            >古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用印刷技術留下紀錄。
           </p>
         </div>
       </div>
@@ -147,13 +147,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">雕版印刷術</div>
+              <div class="unititle2">印刷技術</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/block_printing.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/block_printing.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

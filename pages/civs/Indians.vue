@@ -26,7 +26,7 @@
             >跟<nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link
             >那學習到火藥的秘密，為了體現這點給予了<nuxt-link
               to="/techs/Shatagni"
-              >印度火槍</nuxt-link
+              >印度火銃</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >。印度這區塊一直以來都有豐富的資源，因此<nuxt-link
               to="/techs/age/Castle_Age"
@@ -68,7 +68,7 @@
               >的強大使的這項缺少影響並不大另外也有馬弓可以用，當研發<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              >特殊科技印度火槍，印度的火槍就是遊戲中射程最遠的通用火槍兵(跟<nuxt-link
+              >特殊科技印度火銃，印度的火槍就是遊戲中射程最遠的通用火槍兵(跟<nuxt-link
                 to="/units/Janissary"
                 >土耳其火槍兵</nuxt-link
               >一樣遠)。
@@ -90,8 +90,8 @@
                 >步兵板甲</nuxt-link
               >/美洲獨有<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >。海上方面欠缺<nuxt-link to="/units/Fast_Fire_Ship"
-                >快速火戰船</nuxt-link
-              >/<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+                >重型火戰船</nuxt-link
+              >/<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >，本身又沒<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
               >加成因此海軍建立和使用上只有科技完善，但這兩種系統並不是很疲弱。
             </li>
@@ -99,9 +99,8 @@
               有象就會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
               >，<nuxt-link to="/armor/Armor_Class_Monk">僧侶類</nuxt-link
               >統欠缺<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
-              >/<nuxt-link to="/techs/Atonement">贖罪</nuxt-link>。<nuxt-link
-                to="/units/Siege_Weapons"
-                >攻城器</nuxt-link
+              >/<nuxt-link to="/techs/Atonement">救贖思想</nuxt-link
+              >。<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
               >系統欠缺<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
               >/<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >/<nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
@@ -117,8 +116,8 @@
                 >封建時代</nuxt-link
               >便宜15%、城堡時代便宜20%、帝王時代便宜25%，村民捕魚工作效率+15%/漁獲攜帶量+15，城堡時代特殊科技蘇丹(黃金收入的效率一律+10%)，因此在雙方經濟未穩定下來前印度優勢極很大，但也因為村民更容易量產欠缺了<nuxt-link
                 to="/techs/Treadmill_Crane"
-                >滑輪起重機</nuxt-link
-              >/<nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
+                >磨坊水車</nuxt-link
+              >/<nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
               >來平衡一下。
             </li>
             <li>
@@ -164,7 +163,7 @@
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 alt=""
-              /><nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link
+              /><nuxt-link to="/techs/Shatagni">印度火銃</nuxt-link
               >：火槍兵射程+1。
             </li>
           </ul>
@@ -206,9 +205,9 @@
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代。
             </li>
-            <li>有了<nuxt-link to="/techs/Guilds">行會制度</nuxt-link>。</li>
+            <li>有了<nuxt-link to="/techs/Guilds">公會制度</nuxt-link>。</li>
             <li>
-              有了<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              有了<nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >。
             </li>
             <li>
@@ -339,7 +338,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link>
+              /><nuxt-link to="/techs/Shatagni">印度火銃</nuxt-link>
             </td>
           </tr>
         </table>

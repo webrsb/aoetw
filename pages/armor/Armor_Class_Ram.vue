@@ -81,7 +81,8 @@
                       class="gg"
                       src="~assets/ConquistadorIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Conquistador">征服者</nuxt-link
+                    /><nuxt-link to="/units/Conquistador"
+                      >西班牙征服者</nuxt-link
                     >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
                   </li>
                   <li>

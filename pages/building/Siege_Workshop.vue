@@ -228,7 +228,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -315,7 +315,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >速度快80%。
             </li>
             <li>
@@ -339,20 +339,20 @@
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
                 to="/techs/Drill"
-                >演習</nuxt-link
+                >鑿岩機</nuxt-link
               >(500木材，450黃金)→攻城器製造所單位移動速度快50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                 to="/techs/Furor_Celtica"
-                >塞爾特狂暴</nuxt-link
+                >塞爾特狂熱</nuxt-link
               >(750<nuxt-link to="/resource/Food">食物</nuxt-link
               >，450黃金)→攻城器製造所單位生命值40%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：<nuxt-link
                 to="/techs/Shinkichon"
-                >神機箭</nuxt-link
+                >投擲器</nuxt-link
               >(800木材，500黃金)→<nuxt-link to="/units/Mangonel"
                 >投石車</nuxt-link
               >射程+1 。
@@ -360,7 +360,7 @@
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
                 to="/techs/Rocketry"
-                >火箭術</nuxt-link
+                >火箭技術</nuxt-link
               >(750木材，750黃金)→諸葛努手攻擊+2，弩砲攻擊+4。
             </li>
             <li>
@@ -435,7 +435,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/siege_workshop.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/siege_workshop.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

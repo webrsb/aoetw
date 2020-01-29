@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>護腕</h1>
+        <h1>強力護腕</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>護腕</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>強力護腕</b>(2013版稱<b>護腕</b>)可於<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
@@ -46,7 +47,7 @@
               >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
@@ -55,7 +56,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -120,12 +121,12 @@
         <div class="n1">
           <ul>
             <li>
-              大多數缺乏護腕的<nuxt-link to="/civs">文明</nuxt-link
+              大多數缺乏強力護腕的<nuxt-link to="/civs">文明</nuxt-link
               >都可以使用<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >。<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>和<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
-              >都缺乏遊俠和護腕，不過他們分別有<nuxt-link to="/units/Boyar"
+              >都缺乏遊俠和強力護腕，不過他們分別有<nuxt-link to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
               >和<nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link>做為交換。
             </li>
@@ -136,11 +137,12 @@
         <div class="n1">
           <div class="ien">
             <em
-              >“護腕是一個佩戴在<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+              >“強力護腕是一個佩戴在<nuxt-link to="/units/Archer"
+                >弓箭手</nuxt-link
               >前手上的硬皮護具，這樣不僅可以支撐手腕在多次的拉弓下不會覺得非常疲累，並保護手臂內側免受<nuxt-link
                 to="/techs/Fletching"
-                >箭羽</nuxt-link
-              >的磨擦。如果沒有護腕保護，手臂可能在多次拉弓下會肌肉斷裂，削弱弓箭手的戰鬥力以致最後脫離戰鬥狀態，對於弓箭手而言，護腕是一個重要的改進。“</em
+                >絕世好箭</nuxt-link
+              >的磨擦。如果沒有強力護腕保護，手臂可能在多次拉弓下會肌肉斷裂，削弱弓箭手的戰鬥力以致最後脫離戰鬥狀態，對於弓箭手而言，強力護腕是一個重要的改進。“</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
@@ -150,7 +152,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">護腕</div>
+              <div class="unititle2">強力護腕</div>
             </td>
           </tr>
           <tr>
@@ -188,7 +190,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/bodkin_arrow.png" alt="" /><nuxt-link
                 to="/techs/Bodkin_Arrow"
-                >錐狀箭頭</nuxt-link
+                >羽箭</nuxt-link
               >
             </td>
           </tr>

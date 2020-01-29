@@ -98,8 +98,8 @@
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
-              阿拉里克（<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
-              >）、1位貼身侍衛（<nuxt-link to="/units/Magyar_Huszar"
+              阿拉里克（騎兵）、1位貼身侍衛（<nuxt-link
+                to="/units/Magyar_Huszar"
                 >馬扎爾鏢騎</nuxt-link
               >）、2位<nuxt-link to="/units/Knight">騎士</nuxt-link
               >、2位<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link

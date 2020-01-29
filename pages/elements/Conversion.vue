@@ -23,7 +23,7 @@
               >英雄</nuxt-link
             >、<nuxt-link to="/building">建築物</nuxt-link
             >與僧侶不能被招降，但一些<nuxt-link to="/civs">文明</nuxt-link
-            >可以透過研發<nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link
+            >可以透過研發<nuxt-link to="/techs/Redemption">神聖思想</nuxt-link
             >或是<nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>來改善。
           </p>
           <p>
@@ -52,7 +52,7 @@
             <li>
               <img class="gg" src="~assets/redemption.png" alt="" /><nuxt-link
                 to="/techs/Redemption"
-                >信仰救贖</nuxt-link
+                >神聖思想</nuxt-link
               >:僧侶可招降大部分建築物和<nuxt-link to="/units/Siege_Weapons"
                 >攻城單位</nuxt-link
               >。
@@ -60,7 +60,7 @@
             <li>
               <img class="gg" src="~assets/atonement.png" alt="" /><nuxt-link
                 to="/techs/Atonement"
-                >贖罪</nuxt-link
+                >救贖思想</nuxt-link
               >:僧侶可招降對方的僧侶。
             </li>
             <li>
@@ -72,7 +72,7 @@
             <li>
               <img class="gg" src="~assets/illumination.png" alt="" /><nuxt-link
                 to="/techs/Illumination"
-                >啟發教化</nuxt-link
+                >啟示思想</nuxt-link
               >:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)
             </li>
             <li>
@@ -80,7 +80,7 @@
                 class="gg"
                 src="~assets/block_printing.png"
                 alt=""
-              /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
+              /><nuxt-link to="/techs/Block_Printing">印刷技術</nuxt-link
               >:僧侶(傳教士)的招降範圍+3。
             </li>
             <li>

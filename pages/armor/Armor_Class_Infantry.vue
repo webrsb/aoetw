@@ -205,7 +205,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -256,7 +257,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -295,7 +296,7 @@
             src="~assets/unique_tech_imperial.png"
             width="22"
             alt=""
-          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -303,7 +304,7 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">聖騎兵(精銳)</nuxt-link
+              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
             </li>
           </ul>

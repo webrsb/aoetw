@@ -22,7 +22,7 @@
             >是20，<nuxt-link to="/units/Villager">村民</nuxt-link
             >通常兩下可以砍倒樹木並開始採集，而研發<nuxt-link
               to="/techs/Sappers"
-              >坑道工兵</nuxt-link
+              >兵工學</nuxt-link
             >後村民只需一擊就能砍倒一棵樹。
           </p>
           <p>
@@ -73,11 +73,12 @@
           <p>木材相關<nuxt-link to="/techs">科技</nuxt-link></p>
           <ul>
             <li>
-              <nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link
+              <nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link
               >:村民伐木速度快20%
             </li>
             <li>
-              <nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link>:村民伐木速度快20%
+              <nuxt-link to="/techs/Bow_Saw">弓形鋸</nuxt-link
+              >:村民伐木速度快20%
             </li>
             <li>
               <nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link

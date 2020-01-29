@@ -18,9 +18,10 @@
             >後房屋毀壞人口上限也不會掉)。
           </p>
           <p>
-            除了<nuxt-link to="/civs/Huns">匈奴人</nuxt-link
-            >之外的所有<nuxt-link to="/civs">文明</nuxt-link
-            >都可以建造房屋，<nuxt-link to="/civs/Huns">匈奴人</nuxt-link
+            除了<nuxt-link to="/civs/Huns">匈人</nuxt-link>之外的所有<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >都可以建造房屋，<nuxt-link to="/civs/Huns">匈人</nuxt-link
             >遊戲一開始就是最高人口上限，不過<nuxt-link to="/resource/Wood"
               >木材</nuxt-link
             >會少100。
@@ -39,7 +40,7 @@
                   >黑暗時代</nuxt-link
                 >，房子是玩家應該建造的第一座建築（除非他們扮演的是<nuxt-link
                   to="/civs/Huns"
-                  >匈奴人</nuxt-link
+                  >匈人</nuxt-link
                 >或<nuxt-link to="/civs/Chinese">中國人</nuxt-link
                 >）。事實上，除了建立新的村民和收集<nuxt-link
                   to="/resource/Food"
@@ -181,7 +182,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -227,7 +228,7 @@
               >價格便宜10%/15％/20％。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：不須建造房屋但遊戲開始時少100木材%
             </li>
             <li>

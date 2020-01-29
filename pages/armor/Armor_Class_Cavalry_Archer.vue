@@ -68,7 +68,7 @@
                 src="~assets/WarWagonIcon.png"
                 alt=""
               /><nuxt-link to="/units/War_Wagon">馬戰車(精銳)</nuxt-link
-              >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+              >(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </li>
             <li>
               <img

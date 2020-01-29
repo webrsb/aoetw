@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>板屋船</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            <b>板屋船</b>是<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -70,7 +70,7 @@
         <div class="n1">
           <p>
             板屋船（韓語：판옥선）是16世紀後期<nuxt-link to="/civs/Koreans"
-              >韓國</nuxt-link
+              >朝鮮</nuxt-link
             >朝鮮王朝使用的主要艦艇類型的槳式和帆式推進船。第一艘船是在1555年建造的。它是一艘由堅固的松木製成的船，並且在1592年開始的臨津戰爭期間在對上數量上領先的<nuxt-link
               to="/civs/Japanese"
               >日本</nuxt-link
@@ -104,7 +104,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>騎兵板甲</h1>
+        <h1>鐵鎧甲</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>騎兵板甲</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>鐵鎧甲</b>(2013版稱<b>騎兵板甲</b>)可於<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓<nuxt-link to="/armor/Armor_Class_Cavalry"
@@ -36,7 +37,7 @@
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Franks"
                 >法蘭克</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
@@ -79,7 +80,7 @@
                 >印加</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
                 to="/civs/Mayans"
                 >馬雅</nuxt-link
@@ -120,13 +121,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">騎兵板甲</div>
+              <div class="unititle2">鐵鎧甲</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/scale_barding_armor.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/scale_barding_armor.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -160,7 +165,7 @@
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link>
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link>
             </td>
           </tr>
           <tr>

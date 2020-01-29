@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>坑道工兵</h1>
+        <h1>兵工學</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>坑道工兵</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>兵工學</b>(2013版稱<b>坑道工兵</b>)可於<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。可讓<nuxt-link to="/units/Villager">村民</nuxt-link
@@ -17,16 +18,16 @@
               >石頭建築</nuxt-link
             ><nuxt-link to="/elements/Attack">攻擊力</nuxt-link
             >+15，讓村民能輕易摧毀敵對<nuxt-link to="/building">建築</nuxt-link
-            >。不過很多玩家覺得坑道工兵不須研發因為村民應該主要是收集資源和蓋建築。不過對於被敵人圍住的資源，或者要摧毀位於玩家資源附近的敵方<nuxt-link
+            >。不過很多玩家覺得兵工學不須研發因為村民應該主要是收集資源和蓋建築。不過對於被敵人圍住的資源，或者要摧毀位於玩家資源附近的敵方<nuxt-link
               to="/building/Mining_Camp"
               >採礦營地</nuxt-link
             >或<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
-            >時，坑道工兵可以派上用場。坑道工兵也可以用來摧毀玩家村民旁邊的敵方<nuxt-link
+            >時，兵工學可以派上用場。兵工學也可以用來摧毀玩家村民旁邊的敵方<nuxt-link
               to="/building/Watch_Tower"
               >箭塔</nuxt-link
             >。
           </p>
-          <p>有坑道工兵加成的村民只需一下就可把樹砍倒。</p>
+          <p>有兵工學加成的村民只需一下就可把樹砍倒。</p>
         </div>
         <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
@@ -48,7 +49,7 @@
               >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
@@ -94,7 +95,7 @@
                 >義大利</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>。
             </div>
           </div>
@@ -104,7 +105,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：坑道工兵<nuxt-link
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：兵工學<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
               >便宜20%。
@@ -119,7 +120,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速坑道工兵的研究時間(快25%)。
+              >能夠加速兵工學的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -147,7 +148,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2">
-                坑道工兵
+                兵工學
               </div>
             </td>
           </tr>

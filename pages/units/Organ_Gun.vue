@@ -151,7 +151,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -180,7 +180,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -370,7 +370,7 @@
                 >聚居堡壘</nuxt-link
               >能夠提高風琴砲的生產速度和<nuxt-link to="/techs/Arquebus"
                 >火繩槍</nuxt-link
-              >及<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >及<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的速度(+25%)。
             </li>
             <li>

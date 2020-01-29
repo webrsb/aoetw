@@ -21,7 +21,7 @@
             馬扎爾驃騎兵雖貴為<nuxt-link to="/units/Unique_Unit"
               >城堡兵</nuxt-link
             >但是在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >時研發<nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link
+            >時研發<nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
             >後即不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >因此被稱為是垃圾兵，值得一提馬扎爾驃騎兵跟<nuxt-link
               to="/units/Knight"
@@ -38,7 +38,7 @@
           <ul>
             <li>
               馬扎爾驃騎兵不需要黃金(需研發<nuxt-link to="/techs/Mercenaries"
-                >僱傭兵</nuxt-link
+                >科維尼安軍隊</nuxt-link
               >)整體相對其他城堡兵便宜，所以在<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
               >多時量產上不是問題，移動和<nuxt-link to="/elements/Rate_of_Fire"
@@ -60,7 +60,7 @@
                 >馬弓騎兵</nuxt-link
               >是一大強力組合，馬扎爾驃騎兵只需要肉(需研發<nuxt-link
                 to="/techs/Mercenaries"
-                >僱傭兵</nuxt-link
+                >科維尼安軍隊</nuxt-link
               >)<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >需要黃金/<nuxt-link to="/resource/Wood">木材</nuxt-link
               >，因此在資源使用上無衝突，<nuxt-link to="/units/Cavalry_Archer"
@@ -116,10 +116,10 @@
               >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/units/Camel"
-                >駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>
             </td>
           </tr>
@@ -151,13 +151,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -174,21 +175,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -200,7 +201,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -224,7 +225,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
           <tr>
@@ -235,7 +236,7 @@
                 src="~assets/unique_tech.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link
+              /><nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
               >(訓練馬扎爾驃騎兵不需要黃金)
             </td>
           </tr>
@@ -320,7 +321,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -363,7 +365,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -509,9 +511,9 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/techs/Forging">鍛造</nuxt-link>、<nuxt-link
+              <nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>、<nuxt-link
                 to="/techs/Iron_Casting"
-                >鑄造</nuxt-link
+                >鑄造技術</nuxt-link
               >/<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>免費
             </li>
           </ul>
@@ -524,15 +526,15 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
-              >、<nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
+              >、<nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
               >的研究時間，以及在城堡裡訓練馬扎爾驃騎兵的速度(都快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -621,7 +623,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Magyar_Huszar_icon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Magyar_Huszar_icon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

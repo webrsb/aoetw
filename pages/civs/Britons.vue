@@ -95,7 +95,7 @@
           <p>
             <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
               to="/techs/Warwolf"
-              >戰狼</nuxt-link
+              >戰狼號</nuxt-link
             >:<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
             >有面的殺傷力(意指攻擊範圍加大)
           </p>
@@ -164,7 +164,7 @@
               新的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               ><nuxt-link to="/techs/untech">特殊科技</nuxt-link>:<nuxt-link
                 to="/techs/Warwolf"
-                >戰狼</nuxt-link
+                >戰狼號</nuxt-link
               >。
             </li>
           </ul>
@@ -255,7 +255,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>
+              /><nuxt-link to="/techs/Warwolf">戰狼號</nuxt-link>
             </td>
           </tr>
         </table>

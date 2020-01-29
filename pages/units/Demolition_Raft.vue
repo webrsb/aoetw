@@ -16,7 +16,7 @@
             >可以訓練。在<nuxt-link to="/units/Galley">戰船</nuxt-link
             >升級成<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >時，自爆筏會自動升級為<nuxt-link to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >。
           </p>
           <p>
@@ -28,11 +28,11 @@
           <p>
             在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
             >》資料片中首次引入了“自爆筏”和“<nuxt-link to="/units/Fire_Galley"
-              >火蒙衝</nuxt-link
+              >火艨艟</nuxt-link
             >”，使封建時代的海戰更加多元。在引進之前，封建時代唯一的軍艦就是戰船，所以海戰是非常無趣的。
           </p>
           <p>
-            除<nuxt-link to="/civs/Koreans">韓國人</nuxt-link>外，所有<nuxt-link
+            除<nuxt-link to="/civs/Koreans">朝鮮人</nuxt-link>外，所有<nuxt-link
               to="/civs"
               >文明</nuxt-link
             >均可使用自爆筏。
@@ -46,7 +46,7 @@
               >船艦</nuxt-link
             >，可輕易追上敵方船隻。然而較低的HP和護甲讓他們很容易被任何攻擊擊沉。自爆筏適合用來對付戰船、<nuxt-link
               to="/units/Fire_Galley"
-              >火蒙衝</nuxt-link
+              >火艨艟</nuxt-link
             >和摧毀敵方碼頭。在淺灘處的敵軍也很適合用自爆筏給他們個"驚喜"。
           </p>
         </div>
@@ -89,8 +89,8 @@
                 style="margin: 2px;"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1) <br />
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
@@ -109,7 +109,7 @@
                 style="margin: 2px;"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%)
             </td>
           </tr>
           <tr>
@@ -139,7 +139,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -150,7 +150,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
             </td>
           </tr>
         </table>
@@ -370,7 +370,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -381,7 +381,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -424,7 +424,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -508,10 +508,10 @@
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
+                >航海技術</nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link
               >便宜50％。升級成<nuxt-link to="/units/Demolition_Ship"
-                >神風船</nuxt-link
+                >爆破船</nuxt-link
               >的花費便宜50%。
             </li>
             <li>
@@ -521,10 +521,10 @@
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
               >提高10%/15%/20%。<nuxt-link to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >和升級到神風船的速度在城堡/帝王提高15%/20％。研究<nuxt-link
+                >航海技術</nuxt-link
+              >和升級到爆破船的速度在城堡/帝王提高15%/20％。研究<nuxt-link
                 to="/techs/Dry_Dock"
-                >旱碼頭</nuxt-link
+                >船塢</nuxt-link
               >的速度快20％。
             </li>
             <li>
@@ -600,7 +600,7 @@
         <div class="n1">
           <ul>
             <li>
-              自爆筏、<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
+              自爆筏、<nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link
               >和<nuxt-link to="/units/Galley">戰船</nuxt-link
               >是唯一共用升級科技的單位。
             </li>
@@ -620,7 +620,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Demoline.png" alt=""
               /></gallery>
-              <p><em>神風船系列(自爆筏在最左邊)。</em></p>
+              <p><em>爆破船系列(自爆筏在最左邊)。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -673,7 +673,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              除了<nuxt-link to="/civs/Koreans">韓國</nuxt-link>以外的文明
+              除了<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>以外的文明
             </td>
           </tr>
           <tr>
@@ -774,7 +774,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/DemoShipIcon.png" alt="" /><nuxt-link
                 to="/units/Demolition_Ship"
-                >神風船</nuxt-link
+                >爆破船</nuxt-link
               >
             </td>
           </tr>

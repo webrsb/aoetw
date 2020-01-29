@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>步兵鎖甲</h1>
+        <h1>步兵鏈甲</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>步兵鎖甲</b>可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>步兵鏈甲</b>(2013版稱<b>步兵鎖甲</b>)可於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓<nuxt-link to="/armor/Armor_Class_Infantry"
@@ -53,13 +54,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">步兵鎖甲</div>
+              <div class="unititle2">步兵鏈甲</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Chainmailarmor.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Chainmailarmor.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

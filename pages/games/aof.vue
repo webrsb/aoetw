@@ -308,11 +308,11 @@
           <ul>
             <li>步兵便宜35%，而不是25%。</li>
             <li>
-              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              <nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >被刪除。
             </li>
           </ul>
-          <nuxt-link to="/civs/Huns">匈奴</nuxt-link>
+          <nuxt-link to="/civs/Huns">匈人</nuxt-link>
           <ul>
             <li>沒有了火戰戰船</li>
             <li>
@@ -321,19 +321,20 @@
                 >城堡</nuxt-link
               >與帝王時代`現在變成-25%/30%。
             </li>
-            <li>滑輪起重機被刪除。</li>
+            <li>磨坊水車被刪除。</li>
             <li>
-              <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>攻擊+1，+10HP。
+              <nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
+              >攻擊+1，+10HP。
             </li>
           </ul>
           <nuxt-link to="/civs/Japanese">日本</nuxt-link>
           <ul>
             <li>
               現在有了<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
-              >和<nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>。
+              >和<nuxt-link to="/techs/Gold_Shaft_Mining">採金裝置</nuxt-link>。
             </li>
           </ul>
-          <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+          <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
           <ul>
             <li>
               <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>成本-10%。
@@ -383,7 +384,9 @@
           <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
           <ul>
             <li><nuxt-link to="/building/Market">市集</nuxt-link>成本-75。</li>
-            <li><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>攻擊+1。</li>
+            <li>
+              <nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>攻擊+1。
+            </li>
           </ul>
           <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
           <ul>
@@ -422,7 +425,7 @@
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link>。
             </li>
-            <li>有滑輪起重機。</li>
+            <li>有磨坊水車。</li>
             <li><nuxt-link to="/units/Berserk">狂戰士</nuxt-link>+4HP。</li>
             <li>
               <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>的<nuxt-link

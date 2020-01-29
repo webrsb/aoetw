@@ -152,7 +152,7 @@
               <nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >經常被玩家忽略，雖然缺乏<nuxt-link to="/techs/Bracer"
-                >護腕</nuxt-link
+                >強力護腕</nuxt-link
               >科技，但是作為克制<nuxt-link to="/units/Monk">僧侶</nuxt-link
               >的部隊卻十分好用。
             </li>
@@ -176,7 +176,7 @@
             </li>
             <li>
               面對如<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >垃圾兵的消耗，沒有劍兵勇士與護腕科技，顯然吃不消
+              >垃圾兵的消耗，沒有劍兵勇士與強力護腕科技，顯然吃不消
             </li>
           </ul>
           <ul>
@@ -231,7 +231,7 @@
           <ul>
             <strong>盟友選擇</strong>
             <li>
-              波斯是<nuxt-link to="/civs/Huns">匈奴</nuxt-link>，<nuxt-link
+              波斯是<nuxt-link to="/civs/Huns">匈人</nuxt-link>，<nuxt-link
                 to="/civs/Franks"
                 >法蘭克</nuxt-link
               >，與西班牙的寶貴盟友，因為波斯的團隊加分可以讓這些文明本來就已經強大的<nuxt-link
@@ -283,7 +283,7 @@
             </li>
             <li>對付戰象與遊俠，僧侶是個好選擇。</li>
             <li>
-              波斯沒有劍兵勇士與護腕科技，面對大量的垃圾兵會顯得非常吃虧。
+              波斯沒有劍兵勇士與強力護腕科技，面對大量的垃圾兵會顯得非常吃虧。
             </li>
             <li>
               波斯擅長進攻，在你抵擋波斯進攻的同時，派出騎兵騷擾他的基地。

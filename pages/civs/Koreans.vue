@@ -2,16 +2,17 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>韓國</h1>
+        <h1>朝鮮</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>韓國</b>是位於朝鮮半島的<nuxt-link to="/building/Watch_Tower"
+            <b>朝鮮</b>(舊譯<b>韓國</b>)是位於朝鮮半島的<nuxt-link
+              to="/building/Watch_Tower"
               >箭塔</nuxt-link
             >與<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
-            >。韓國擁有多樣特色的<nuxt-link to="/units/Unique_Unit"
+            >。朝鮮擁有多樣特色的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             ><nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link>與<nuxt-link
               to="/units/Turtle_Ship"
@@ -28,12 +29,12 @@
             朝鮮人是在《<nuxt-link to="/games/aoc"
               >世紀帝國II：征服者入侵</nuxt-link
             >》推出的五大<nuxt-link to="/civs">文明</nuxt-link
-            >之一。從歷史上看，與附近的國家相比，它並沒有那麼強大。韓國是一個類似於<nuxt-link
+            >之一。從歷史上看，與附近的國家相比，它並沒有那麼強大。朝鮮是一個類似於<nuxt-link
               to="/civs/Byzantines"
               >拜占庭人</nuxt-link
             >的防禦性文明，但擁有更完整的<nuxt-link to="/units/Archer_Units"
               >遠程單位</nuxt-link
-            >。<nuxt-link to="/civs/Koreans">韓國人</nuxt-link
+            >。<nuxt-link to="/civs/Koreans">朝鮮人</nuxt-link
             >是少數幾個有兩個獨特單位的文明之一，<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
@@ -45,7 +46,7 @@
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >能在<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >生產的龜甲船，龜甲船是韓國民族<nuxt-link to="/units/hero"
+            >生產的龜甲船，龜甲船是朝鮮民族<nuxt-link to="/units/hero"
               >英雄</nuxt-link
             >李舜臣在討論後決定再次建造出來對抗<nuxt-link to="/civs/Japanese"
               >日本</nuxt-link
@@ -59,16 +60,16 @@
             >，雖然龜甲船移動速度緩慢，但一艘就能夠對抗不少的<nuxt-link
               to="/units/Naval_Vessels"
               >戰船</nuxt-link
-            >。而韓國採石速度+20%與建造防禦單位更快，使得韓國非常適合進行塔攻，且升級至城堡時代後，箭塔會自動升級且射程會再額外+1，搭配血量厚實的遠程單位馬戰車，讓不人玩家都覺得韓國是一個很噁心的文明。
+            >。而朝鮮採石速度+20%與建造防禦單位更快，使得朝鮮非常適合進行塔攻，且升級至城堡時代後，箭塔會自動升級且射程會再額外+1，搭配血量厚實的遠程單位馬戰車，讓不人玩家都覺得朝鮮是一個很噁心的文明。
           </p>
           <p>
-            韓國人擅長的是海軍與箭塔，是一個相當具有防禦性的文明，因此除了遠程單位外，它的<nuxt-link
+            朝鮮人擅長的是海軍與箭塔，是一個相當具有防禦性的文明，因此除了遠程單位外，它的<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
             >與<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >都非常的弱，缺乏關鍵的<nuxt-link to="/techs/Blast_Furnace"
               >鼓風爐</nuxt-link
-            >、<nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+            >、<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
             >與<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
             >。然而<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
             >部隊卻擁有完整的升級，包含<nuxt-link to="/units/Hand_Cannoneer"
@@ -81,16 +82,15 @@
             >，射程範圍更大，且更小的最短射程，此外還是東亞唯一有<nuxt-link
               to="/units/Bombard_Cannon"
               >火砲</nuxt-link
-            >的文明。韓國沒有<nuxt-link to="/units/Heavy_Demolition_Ship"
-              >重型神風船</nuxt-link
-            >，但是有龜甲船，總體來說韓國是一個很強的海軍文明。但是韓國沒有<nuxt-link
+            >的文明。朝鮮沒有<nuxt-link to="/units/Heavy_Demolition_Ship"
+              >重型爆破船</nuxt-link
+            >，但是有龜甲船，總體來說朝鮮是一個很強的海軍文明。但是朝鮮沒有<nuxt-link
               to="/units/Elite_Cannon_Galleon"
               >精銳火砲戰船</nuxt-link
-            >，也是韓國唯一沒有的<nuxt-link to="/units/Gunpowder_Unit"
+            >，也是朝鮮唯一沒有的<nuxt-link to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
-            >。韓國的<nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >很弱，韓國缺少<nuxt-link to="/techs/Hoardings"
-              >外架式柵樓</nuxt-link
+            >。朝鮮的<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >很弱，朝鮮缺少<nuxt-link to="/techs/Hoardings">圍牆</nuxt-link
             >，不過擁有包含<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
             >和<nuxt-link to="/techs/Architecture">建築學</nuxt-link
             >在內的防禦<nuxt-link to="/techs">科技</nuxt-link
@@ -100,7 +100,7 @@
               >土耳其</nuxt-link
             >）。此外箭塔、城堡和<nuxt-link to="/building/Stone_Wall"
               >城牆</nuxt-link
-            >蓋的更快，配合採石高效率，使韓國成為一個出色的防禦文明，當然用這些防禦建築來進攻也是很可怕的。
+            >蓋的更快，配合採石高效率，使朝鮮成為一個出色的防禦文明，當然用這些防禦建築來進攻也是很可怕的。
           </p>
           <h3>特殊單位</h3>
           <ul>
@@ -108,7 +108,7 @@
               <img class="gg" src="~assets/WarWagonIcon.png" alt="" /><nuxt-link
                 to="/units/War_Wagon"
                 >馬戰車</nuxt-link
-              >：韓國特殊單位，重裝的<nuxt-link
+              >：朝鮮特殊單位，重裝的<nuxt-link
                 to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >單位。
@@ -135,7 +135,7 @@
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 alt=""
-              /><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>:<nuxt-link
+              /><nuxt-link to="/techs/Shinkichon">投擲器</nuxt-link>:<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >+1射程。
@@ -170,7 +170,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><nuxt-link to="/tree/kor">韓國科技樹</nuxt-link></em>
+          <em><nuxt-link to="/tree/kor">朝鮮科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
@@ -218,22 +218,22 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>韓國是唯一有兩個特殊單位的東亞文明。</li>
+            <li>朝鮮是唯一有兩個特殊單位的東亞文明。</li>
             <li>
-              韓國是唯一沒有品種的東亞文明(日本在<nuxt-link to="/games/aof"
+              朝鮮是唯一沒有品種的東亞文明(日本在<nuxt-link to="/games/aof"
                 >失落的帝國</nuxt-link
               >後有了品種)。
             </li>
             <li>
-              韓國是唯一有火砲的東亞文明(雖然實際上<nuxt-link to="/civs/Chinese"
+              朝鮮是唯一有火砲的東亞文明(雖然實際上<nuxt-link to="/civs/Chinese"
                 >中國</nuxt-link
               >日本的科技比他發達多了)。
             </li>
             <li>
-              在開發征服者入侵時，設計師們在亞洲新文明的選擇上，在韓國、<nuxt-link
+              在開發征服者入侵時，設計師們在亞洲新文明的選擇上，在朝鮮、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >與西藏中猶豫不決，最後開發商選擇了韓國人，多少是因為市場的因素，另外他們對龜甲船有很深刻的印象。
+              >與西藏中猶豫不決，最後開發商選擇了朝鮮人，多少是因為市場的因素，另外他們對龜甲船有很深刻的印象。
             </li>
           </ul>
         </div>
@@ -255,7 +255,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">
-                韓國
+                朝鮮
               </div>
             </td>
           </tr>
@@ -263,7 +263,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/Wangkun.jpg" width="250" alt="" />
-                <p><em>韓國皇帝&nbsp;-&nbsp;王建</em></p>
+                <p><em>朝鮮皇帝&nbsp;-&nbsp;王建</em></p>
               </div>
             </td>
           </tr>
@@ -312,7 +312,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>
+              /><nuxt-link to="/techs/Shinkichon">投擲器</nuxt-link>
             </td>
           </tr>
         </table>

@@ -95,7 +95,7 @@
               玩家7
             </td>
             <td class="tc6" width="35%">
-              保加爾人（紫色）<nuxt-link to="/civs/Huns">匈奴</nuxt-link>
+              保加爾人（紫色）<nuxt-link to="/civs/Huns">匈人</nuxt-link>
             </td>
             <td class="tc6">
               <div class="p3"></div>

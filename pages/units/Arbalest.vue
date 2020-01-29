@@ -34,7 +34,7 @@
                   >義大利</nuxt-link
                 >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                   to="/civs/Koreans"
-                  >韓國</nuxt-link
+                  >朝鮮</nuxt-link
                 >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                   to="/civs/Malay"
                   >馬來</nuxt-link
@@ -67,7 +67,7 @@
               <p>
                 <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
                   to="/civs/Huns"
-                  >匈奴</nuxt-link
+                  >匈人</nuxt-link
                 >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                   to="/civs/Persians"
                   >波斯</nuxt-link
@@ -103,7 +103,8 @@
           </p>
           <p>
             而<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >可以掩護強弩兵怕<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
+            >可以掩護強弩兵怕<nuxt-link to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
             >這個弱點，所以兩種兵種搭配起來效果超群。
           </p>
           <p>
@@ -162,20 +163,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -202,20 +203,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Yeomen"
                 >義勇騎兵</nuxt-link
@@ -260,7 +261,7 @@
                 src="~assets/padded_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -274,7 +275,7 @@
                 src="~assets/ring_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >(+1/+2) <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Pavise"
@@ -310,7 +311,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -428,7 +429,7 @@
                       class="gg"
                       src="~assets/CavalierIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/PaladinIcon.png"
@@ -440,12 +441,14 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
@@ -453,13 +456,13 @@
                       class="gg"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
+                    /><nuxt-link to="/units/Tarkan">精銳答剌罕騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
                   </li>
                   <li>
                     <img
@@ -513,7 +516,7 @@
                       class="gg"
                       src="~assets/CavalierIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/PaladinIcon.png"

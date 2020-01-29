@@ -189,7 +189,7 @@
             <td class="tunitc6">
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >
             </td>
             <td class="tunitc4">
@@ -197,7 +197,7 @@
             </td>
             <td class="tunitc5">300W 200G</td>
             <td class="tunitc6">
-              <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>可在馬廄訓練。
+              <nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>可在馬廄訓練。
             </td>
           </tr>
           <tr>
@@ -281,7 +281,7 @@
             <td class="tunitc6">
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >
             </td>
             <td class="tunitc4">
@@ -300,7 +300,7 @@
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Mercenaries">僱傭兵</nuxt-link>
+              <nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link>
             </td>
             <td class="tunitc5">200F 300G</td>
             <td class="tunitc6">
@@ -572,7 +572,7 @@
               /><nuxt-link to="/civs/Britons">不列顛</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>
+              <nuxt-link to="/techs/Warwolf">戰狼號</nuxt-link>
             </td>
             <td class="tunitc5">500W 250G</td>
             <td class="tunitc6">
@@ -611,7 +611,7 @@
               /><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+              <nuxt-link to="/techs/Logistica">後勤</nuxt-link>
             </td>
             <td class="tunitc5">1000F 600G</td>
             <td class="tunitc6">
@@ -630,7 +630,7 @@
               /><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link>
+              <nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link>
             </td>
             <td class="tunitc5">750F 450G</td>
             <td class="tunitc6">
@@ -647,7 +647,7 @@
               /><nuxt-link to="/civs/Chinese">中國</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>
+              <nuxt-link to="/techs/Rocketry">火箭技術</nuxt-link>
             </td>
             <td class="tunitc5">750W 750G</td>
             <td class="tunitc6">
@@ -700,7 +700,7 @@
               /><nuxt-link to="/civs/Goths">哥德</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>
+              <nuxt-link to="/techs/Perfusion">井噴</nuxt-link>
             </td>
             <td class="tunitc5">400W 600G</td>
             <td class="tunitc6">軍營工作速度加倍。</td>
@@ -711,7 +711,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/civs/Huns">匈奴</nuxt-link>
+              /><nuxt-link to="/civs/Huns">匈人</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/techs/Atheism">無神論</nuxt-link>
@@ -750,7 +750,7 @@
               /><nuxt-link to="/civs/Indians">印度</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link>
+              <nuxt-link to="/techs/Shatagni">印度火銃</nuxt-link>
             </td>
             <td class="tunitc5">500F 300G</td>
             <td class="tunitc6">
@@ -816,10 +816,10 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+              /><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>
+              <nuxt-link to="/techs/Shinkichon">投擲器</nuxt-link>
             </td>
             <td class="tunitc5">800W 500G</td>
             <td class="tunitc6">
@@ -896,7 +896,7 @@
               /><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Drill">演習</nuxt-link>
+              <nuxt-link to="/techs/Drill">鑿岩機</nuxt-link>
             </td>
             <td class="tunitc5">500F 450G</td>
             <td class="tunitc6">攻城器製造所的單位移動速度+50%。</td>
@@ -943,13 +943,13 @@
               /><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link>
+              <nuxt-link to="/techs/Zealotry">狂熱</nuxt-link>
             </td>
             <td class="tunitc5">750F 800G</td>
             <td class="tunitc6">
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>和<nuxt-link
                 to="/units/Mameluke"
-                >奴隸兵</nuxt-link
+                >阿拉伯奴隸兵</nuxt-link
               >+30 HP。
             </td>
           </tr>
@@ -993,7 +993,7 @@
               /><nuxt-link to="/civs/Teutons">條頓</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Crenellations">垛口</nuxt-link>
+              <nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link>
             </td>
             <td class="tunitc5">600F 400S</td>
             <td class="tunitc6">城堡射程+3；駐紮步兵可放箭。</td>

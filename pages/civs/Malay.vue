@@ -50,7 +50,7 @@
             </li>
             <li>
               馬來在海戰上只欠缺<nuxt-link to="/units/Heavy_Demolition_Ship"
-                >重型神風船</nuxt-link
+                >重型爆破船</nuxt-link
               >其餘相關<nuxt-link to="/techs">科技</nuxt-link>都有，<nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
@@ -86,8 +86,8 @@
               >造價便宜25%但欠缺騎兵核心科技<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >(舊稱<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
-              >)/<nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
-              >/<nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              >)/<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
+              >/<nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >/<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(<nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
@@ -99,7 +99,7 @@
             <li>
               <nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
               >統只欠缺<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-              >/<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >/<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >/<nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >，因此步弓上是算完善的，<nuxt-link to="/units/Siege_Weapons"
@@ -116,10 +116,10 @@
             <li>
               防禦上欠缺<nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link
               >/<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >/<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >/<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >/<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>/<nuxt-link
                 to="/techs/Hoardings"
-                >外架式柵樓</nuxt-link
+                >圍牆</nuxt-link
               >，因此需要更多<nuxt-link to="/units/Villager">村民</nuxt-link
               >在維修和建造上才撐得起防禦的部分。
             </li>
@@ -198,7 +198,7 @@
               >派希特（Majapahit）時代廢墟中普遍存在的蘇里亞瑪亞帕希特（Sjaa
               Majapahit）（Majapahit的太陽）。
             </li>
-            <li>馬來是除了美洲文明以外唯一沒有騎兵鎖甲的文明。</li>
+            <li>馬來是除了美洲文明以外唯一沒有鏈鎧甲的文明。</li>
             <li>
               儘管馬來是以馬來群島為基礎的文明，但是起源/文明特徵/<nuxt-link
                 to="/building/Wonder"

@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>造船匠</h1>
+        <h1>造船員</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>造船匠</b>於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>造船員</b>於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >研發。研發後<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
@@ -46,7 +46,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -74,7 +74,7 @@
                 >緬甸</nuxt-link
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
@@ -96,13 +96,13 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：造船匠在<nuxt-link
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：造船員在<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：造船匠便宜50%。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：造船員便宜50%。
             </li>
           </ul>
         </div>
@@ -114,7 +114,7 @@
           </h3>
           <ul>
             <li>
-              造船匠只降低<nuxt-link to="/building/Dock">碼頭</nuxt-link
+              造船員只降低<nuxt-link to="/building/Dock">碼頭</nuxt-link
               >單位的花費。
             </li>
           </ul>
@@ -123,7 +123,7 @@
           </h3>
           <ul>
             <li>
-              在1.0版本造船匠新增加快<nuxt-link to="/units/Naval_Vessels"
+              在1.0版本造船員新增加快<nuxt-link to="/units/Naval_Vessels"
                 >所有船隻</nuxt-link
               >的訓練速度(+54%)。
             </li>
@@ -133,7 +133,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            建造和設計船隻的人被稱為造船匠。隨著對海上貿易和戰艦的需求增加，造船匠對沿海社區的價值也隨之增加。專業的造船匠可以用更低的成本建造更堅固的船隻。
+            建造和設計船隻的人被稱為造船員。隨著對海上貿易和戰艦的需求增加，造船員對沿海社區的價值也隨之增加。專業的造船員可以用更低的成本建造更堅固的船隻。
           </p>
         </div>
       </div>
@@ -141,7 +141,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">造船匠</div>
+              <div class="unititle2">造船員</div>
             </td>
           </tr>
           <tr>

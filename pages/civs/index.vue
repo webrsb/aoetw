@@ -76,7 +76,7 @@
                 </ul>
                 中歐
                 <ul>
-                  <li><nuxt-link to="/civs/Huns">匈奴</nuxt-link></li>
+                  <li><nuxt-link to="/civs/Huns">匈人</nuxt-link></li>
                 </ul>
                 美洲
                 <ul>
@@ -85,7 +85,7 @@
                 </ul>
                 東亞
                 <ul>
-                  <li><nuxt-link to="/civs/Koreans">韓國</nuxt-link></li>
+                  <li><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link></li>
                 </ul>
               </div>
             </td>

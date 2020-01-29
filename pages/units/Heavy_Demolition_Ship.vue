@@ -2,25 +2,25 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>重型神風船</h1>
+        <h1>重型爆破船</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>重型神風船</b>在<nuxt-link to="/techs/age/Imperial_Age"
+            <b>重型爆破船</b>在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >可以訓練。重型神風船上裝滿了爆炸物，可以對敵方的<nuxt-link
+            >可以訓練。重型爆破船上裝滿了爆炸物，可以對敵方的<nuxt-link
               to="/units/Naval_Vessels"
               >船隻</nuxt-link
             >，<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。重型神風船比<nuxt-link
+            >，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。重型爆破船比<nuxt-link
               to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >有更好的護甲、HP和更廣的爆炸範圍。他們可說是海上的<nuxt-link
               to="/units/Petard"
-              >爆炸桶</nuxt-link
+              >炸藥桶</nuxt-link
             >。
           </p>
         </div>
@@ -28,18 +28,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            重型神風船可輕易對付<nuxt-link to="/units/Fire_Ship"
+            重型爆破船可輕易對付<nuxt-link to="/units/Fire_Ship"
               >火戰船</nuxt-link
             >和滿載的<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
-            >。重型神風船在死亡時爆炸，對附近的單位造成爆炸傷害。但是它們不會造成友軍傷害，所以附近的盟友不會受到傷害。
+            >。重型爆破船在死亡時爆炸，對附近的單位造成爆炸傷害。但是它們不會造成友軍傷害，所以附近的盟友不會受到傷害。
           </p>
           <p>
-            與神風船類似重型神風船的使用類似於巡航導彈，用來對付關鍵目標（如滿載的運輸船）。神風船和重型神風船是遊戲中速度最快的軍艦（特別是在研究了<nuxt-link
+            與爆破船類似重型爆破船的使用類似於巡航導彈，用來對付關鍵目標（如滿載的運輸船）。爆破船和重型爆破船是遊戲中速度最快的軍艦（特別是在研究了<nuxt-link
               to="/techs/Dry_Dock"
-              >旱碼頭</nuxt-link
+              >船塢</nuxt-link
             >的情況下），比大多數<nuxt-link to="/units/Naval_Vessels"
               >海軍單位</nuxt-link
-            >快得多，讓他們能輕易追上敵人。它的範圍傷害可以一擊就打死大部分船隻或船隊，但由於它是一個自殺單位，若使用不當則投資報酬率會非常低。神風船對<nuxt-link
+            >快得多，讓他們能輕易追上敵人。它的範圍傷害可以一擊就打死大部分船隻或船隊，但由於它是一個自殺單位，若使用不當則投資報酬率會非常低。爆破船對<nuxt-link
               to="/units/Galley"
               >戰船</nuxt-link
             >、火戰船和運輸船都十分有效。但是他們對重武裝的<nuxt-link
@@ -49,7 +49,7 @@
             >比較無效。但是，如果數量足夠多(3艘以上)的話，它們還是能造成足夠傷害。
           </p>
           <p>
-            重型神風船也可以成為處理敵方海岸線基礎設施的絕佳工具，因為它們可以快速取下敵方的碼頭，而無需犧牲其他支援重型神風船的<nuxt-link
+            重型爆破船也可以成為處理敵方海岸線基礎設施的絕佳工具，因為它們可以快速取下敵方的碼頭，而無需犧牲其他支援重型爆破船的<nuxt-link
               to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >船隻。
@@ -76,7 +76,7 @@
                 >法蘭克</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
@@ -118,7 +118,7 @@
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -167,8 +167,8 @@
                 style="margin: 2px;"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1) <br />
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
@@ -187,7 +187,7 @@
                 style="margin: 2px;"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%)
             </td>
           </tr>
           <tr>
@@ -217,7 +217,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -228,15 +228,15 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
             </td>
           </tr>
         </table>
 
-        <h3>剋重型神風船的單位與建築</h3>
+        <h3>剋重型爆破船的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對重型神風船的額外傷害，按照殺傷力排列。
+          以下單位擁有對重型爆破船的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -450,7 +450,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -461,7 +461,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -496,7 +496,7 @@
             </div>
           </div>
         </div>
-        以下科技可讓以下單位對重型神風船有額外<nuxt-link to="/elements/Attack"
+        以下科技可讓以下單位對重型爆破船有額外<nuxt-link to="/elements/Attack"
           >攻擊力</nuxt-link
         >
         <div class="n1">
@@ -504,7 +504,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -566,40 +566,40 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：重型神風船移動速度快10%。
+              >：重型爆破船移動速度快10%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於重型神風船的<nuxt-link to="/techs">科技</nuxt-link
+              >：有利於重型爆破船的<nuxt-link to="/techs">科技</nuxt-link
               >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >便宜20％。重型神風船HP+50%。
+              >便宜20％。重型爆破船HP+50%。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+                >航海技術</nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
-                >造船匠</nuxt-link
+                >造船員</nuxt-link
               >的花費便宜50％。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：重型神風船訓練的速度在帝王提高20%。<nuxt-link
+              >：重型爆破船訓練的速度在帝王提高20%。<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >和<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
+                >航海技術</nuxt-link
+              >和<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link
               >的研究速度快20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：訓練重型神風船的花費減少15%<nuxt-link to="/resource/Gold"
+              >：訓練重型爆破船的花費減少15%<nuxt-link to="/resource/Gold"
                 >黃金</nuxt-link
-              >，神風船HP+10％。
+              >，爆破船HP+10％。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：重型神風船訓練的費用在帝王減少20%。
+              >：重型爆破船訓練的費用在帝王減少20%。
             </li>
           </ul>
         </div>
@@ -609,7 +609,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：重型神風船對招降的抵抗力更強。
+              >：重型爆破船對招降的抵抗力更強。
             </li>
           </ul>
         </div>
@@ -620,9 +620,9 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>重型神風船有60的HP。</li>
+            <li>重型爆破船有60的HP。</li>
             <li>
-              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              <nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
           </ul>
@@ -631,7 +631,7 @@
           </h3>
           <ul>
             <li>
-              1.0版本<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              1.0版本<nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >還可減少35%的船隻訓練時間。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
@@ -640,7 +640,7 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>重型神風船現在有70的HP。</li>
+            <li>重型爆破船現在有70的HP。</li>
           </ul>
         </div>
         <h3>豆知識</h3>
@@ -648,22 +648,21 @@
         <div class="n1">
           <ul>
             <li>
-              重型神風船的基礎攻擊力是遊戲中所有單位第二高的，僅次於<nuxt-link
+              重型爆破船的基礎攻擊力是遊戲中所有單位第二高的，僅次於<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >的200攻擊力。
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >的重型神風船當研發<nuxt-link to="/techs/Dry_Dock"
-                >旱碼頭</nuxt-link
+              >的重型爆破船當研發<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link
               >移動速度會是遊戲中第二快的單位，只輸給有研發<nuxt-link
                 to="/techs/Dry_Dock"
-                >旱碼頭</nuxt-link
-              >和<nuxt-link to="/techs/Caravan">大商隊</nuxt-link>的<nuxt-link
+                >船塢</nuxt-link
+              >和<nuxt-link to="/techs/Caravan">商隊</nuxt-link>的<nuxt-link
                 to="/units/Trade_Cog"
                 >貿易商旅</nuxt-link
-              >(2.0547)。同時重型神風船也是遊戲中所有軍事單位移動速度最快的。
+              >(2.0547)。同時重型爆破船也是遊戲中所有軍事單位移動速度最快的。
             </li>
           </ul>
         </div>
@@ -671,7 +670,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            神風船後來升級為重型神風船，裝滿了更多的爆裂物，特別是火藥，重型神風船可以造成更大的爆炸，並且更有可能摧毀一艘或多艘敵艦，這可能對大型目標貨許多一起航行的敵方船隻造成毀滅性打擊。
+            爆破船後來升級為重型爆破船，裝滿了更多的爆裂物，特別是火藥，重型爆破船可以造成更大的爆炸，並且更有可能摧毀一艘或多艘敵艦，這可能對大型目標貨許多一起航行的敵方船隻造成毀滅性打擊。
           </p>
         </div>
         <h3>圖庫</h3>
@@ -682,13 +681,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Demoline.png" alt=""
               /></gallery>
-              <p><em>神風船系列(重型神風船在右邊)。</em></p>
+              <p><em>爆破船系列(重型爆破船在右邊)。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/Heavydemo.jpg" alt=""
               /></gallery>
-              <p><em>一群重型神風船。</em></p>
+              <p><em>一群重型爆破船。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -696,7 +695,7 @@
               /></gallery>
               <p>
                 <em
-                  >各種重型神風船(世紀帝國II和<nuxt-link to="/games/aoc"
+                  >各種重型爆破船(世紀帝國II和<nuxt-link to="/games/aoc"
                     >征服者入侵</nuxt-link
                   >資料片)。</em
                 >
@@ -709,7 +708,7 @@
                   src="~assets/HDemolitionShipDLC.png"
                   alt=""
               /></gallery>
-              <p><em>各種重型神風船(HD擴充資料片)。</em></p>
+              <p><em>各種重型爆破船(HD擴充資料片)。</em></p>
             </div>
           </div>
         </div>
@@ -719,14 +718,18 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
-                重型神風船
+                重型爆破船
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/HeavyDemoShipIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/HeavyDemoShipIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -843,7 +846,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/DemoShipIcon.png" alt="" /><nuxt-link
                 to="/units/Demolition_Ship"
-                >神風船</nuxt-link
+                >爆破船</nuxt-link
               >
             </td>
           </tr>

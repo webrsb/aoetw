@@ -77,7 +77,7 @@
                     class="gg"
                     src="~assets/husbandry.png"
                     alt=""
-                  /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>
+                  /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -97,7 +97,7 @@
                 <li>
                   <img class="gg" src="~assets/CavalierIcon.png" /><nuxt-link
                     to="/units/Cavalier"
-                    >騎兵</nuxt-link
+                    >重裝騎士</nuxt-link
                   >
                 </li>
                 <li>
@@ -239,7 +239,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -251,7 +251,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Chivalry"
@@ -267,8 +267,8 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Marauders"
                 >掠奪者</nuxt-link
-              >:<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
-              >可在馬廄訓練，<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定
+              >:<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
+              >可在馬廄訓練，<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定
             </td>
           </tr>
         </table>
@@ -322,7 +322,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >。
             </li>
           </ul>
@@ -332,7 +332,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：馬厩的團隊工作速度提高了20％。
             </li>
             <li>
@@ -340,7 +340,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >的速度快80％。
             </li>
             <li>
@@ -362,7 +362,7 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：引入<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：引入<nuxt-link
                 to="/techs/Marauders"
                 >掠奪者</nuxt-link
               >。

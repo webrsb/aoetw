@@ -64,7 +64,7 @@
                 >弓兵系</nuxt-link
               >統只欠缺<nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
-              >/<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >/<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >，且城堡時代特殊科技巨盾給予了弓兵<nuxt-link to="/armor"
                 >近防</nuxt-link
               >/<nuxt-link to="/armor">遠防</nuxt-link
@@ -118,14 +118,14 @@
             </li>
             <li>
               海戰上只欠缺<nuxt-link to="/units/Heavy_Demolition_Ship"
-                >重型神風船</nuxt-link
+                >重型爆破船</nuxt-link
               >，另外擁有碼頭科技便宜50%和漁船<nuxt-link to="/resource/Wood"
                 >木材</nuxt-link
               >-15，因此海上的發揮是有優勢的。
             </li>
             <li>
               經濟上只欠缺<nuxt-link to="/techs/Gold_Shaft_Mining"
-                >礦井採金</nuxt-link
+                >採金裝置</nuxt-link
               >，但升級時代便宜15%、帝王時代特殊科技絲綢之路貿易單位便宜50%、漁船木材-15，因此影響並不大，另外<nuxt-link
                 to="/building/University"
                 >學院</nuxt-link
@@ -161,8 +161,8 @@
             </li>
             <li>
               <img class="gg" src="~assets/CondottieroIcon.png" /><nuxt-link
-                to="/techs/Mercenaries"
-                >僱傭兵</nuxt-link
+                to="/units/Condottiero"
+                >傭兵</nuxt-link
               >：義大利的第二種特殊單位，能夠在帝王時代的<nuxt-link
                 to="/building/Barracks"
                 >軍營</nuxt-link

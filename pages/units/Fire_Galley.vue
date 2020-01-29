@@ -2,23 +2,23 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>火蒙衝</h1>
+        <h1>火艨艟</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>火蒙衝</b>在<nuxt-link to="/techs/age/Feudal_Age"
+            <b>火艨艟</b>在<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >時可以在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >中被訓練，當把<nuxt-link to="/units/Galley">戰船</nuxt-link
             >升級成<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
-            >的時候，火蒙衝也會自動升級成<nuxt-link to="/units/Fire_Ship"
+            >的時候，火艨艟也會自動升級成<nuxt-link to="/units/Fire_Ship"
               >火戰船</nuxt-link
             >。
           </p>
           <p>
-            火蒙衝、<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
+            火艨艟、<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
             >都是在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
             >》資料片的時候一起推出的，使封建時代海戰才有更多的可看性，而不是只能看到一堆<nuxt-link
               to="/units/Naval_Vessels"
@@ -29,12 +29,12 @@
             而<nuxt-link to="/civs/Vikings">維京</nuxt-link>成了全<nuxt-link
               to="/civs"
               >文明</nuxt-link
-            >中唯一不能出火蒙衝的國家，這也使得在<nuxt-link to="/games/aoc"
+            >中唯一不能出火艨艟的國家，這也使得在<nuxt-link to="/games/aoc"
               >征服者入侵</nuxt-link
             >時代的海戰強國，搖身一變成海戰初期弱勢文明，在<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >遇到敵方的火蒙衝時，將顯得相當無助。
+            >遇到敵方的火艨艟時，將顯得相當無助。
           </p>
           <p>
             <strong>不可生產文明：</strong
@@ -45,33 +45,33 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            因為火蒙衝有著很高的攻速，所以在前期能夠對<nuxt-link
+            因為火艨艟有著很高的攻速，所以在前期能夠對<nuxt-link
               to="/units/Fishing_Ship"
               >漁船</nuxt-link
-            >、碼頭造成嚴重的威脅，所以在早期的比賽中使用火蒙衝能夠很有效騷擾對方的海上單位。
+            >、碼頭造成嚴重的威脅，所以在早期的比賽中使用火艨艟能夠很有效騷擾對方的海上單位。
           </p>
           <p>
-            當火蒙衝與戰船一對一的時候，火蒙衝能夠輕鬆地打贏<nuxt-link
+            當火艨艟與戰船一對一的時候，火艨艟能夠輕鬆地打贏<nuxt-link
               to="/units/Galley"
               >戰船</nuxt-link
             >。但是，如果是在大規模的交戰中，由於因為戰船的高射程，反而是戰船有著較大的優勢。
           </p>
           <p>
-            火蒙衝也很容易受到<nuxt-link to="/units/Demolition_Raft"
+            火艨艟也很容易受到<nuxt-link to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
-            >的威脅，因為火蒙衝的射程很近，所以無法在爆炸前打沉<nuxt-link
+            >的威脅，因為火艨艟的射程很近，所以無法在爆炸前打沉<nuxt-link
               to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
             >。如果一艘<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
-            >能夠打沉兩艘以上的火蒙衝就是非常划算了！
+            >能夠打沉兩艘以上的火艨艟就是非常划算了！
           </p>
           <p>
             值得一提的是，<nuxt-link to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
-            >沒辦法一擊必殺火蒙衝，需要搭配其他<nuxt-link
+            >沒辦法一擊必殺火艨艟，需要搭配其他<nuxt-link
               to="/units/Naval_Vessels"
               >船隻</nuxt-link
-            >來解決殘血的火蒙衝。
+            >來解決殘血的火艨艟。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -128,8 +128,8 @@
                 style="margin: 2px;"
                 src="~assets/careening.png"
                 alt=""
-              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1) <br />
+              /><nuxt-link to="/techs/Careening">航海技術</nuxt-link>(護甲+0/+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
@@ -148,7 +148,7 @@
                 style="margin: 2px;"
                 src="~assets/dry_dock.png"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
+              /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%)
             </td>
           </tr>
           <tr>
@@ -178,7 +178,7 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -189,15 +189,15 @@
                 class="gg"
                 src="~assets/shipwright.png"
                 alt=""
-              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link>(-20%)
             </td>
           </tr>
         </table>
 
-        <h3>剋火蒙衝的單位與建築</h3>
+        <h3>剋火艨艟的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對火蒙衝的額外傷害，按照殺傷力排列。
+          以下單位擁有對火艨艟的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -411,7 +411,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -422,7 +422,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -457,7 +457,7 @@
             </div>
           </div>
         </div>
-        以下科技可讓以下單位對火蒙衝有額外<nuxt-link to="/elements/Attack"
+        以下科技可讓以下單位對火艨艟有額外<nuxt-link to="/elements/Attack"
           >攻擊力</nuxt-link
         >
         <div class="n1">
@@ -465,7 +465,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
@@ -527,11 +527,11 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：火蒙衝訓練速度提高15%。
+              >：火艨艟訓練速度提高15%。
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：火蒙衝移動速度提高10％。
+              >：火艨艟移動速度提高10％。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研究<nuxt-link
@@ -541,7 +541,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：火蒙衝開火速率快25%。
+              >：火艨艟開火速率快25%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
@@ -551,7 +551,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於火蒙衝<nuxt-link to="/techs">科技</nuxt-link>在<nuxt-link
+              >：有利於火艨艟<nuxt-link to="/techs">科技</nuxt-link>在<nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
@@ -560,31 +560,31 @@
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
+                >航海技術</nuxt-link
+              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
-                >造船匠</nuxt-link
+                >造船員</nuxt-link
               >便宜50％，升級到<nuxt-link to="/units/War_Galley"
                 >弩砲戰船</nuxt-link
               >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：火蒙衝在封建/<nuxt-link to="/techs/age/Castle_Age"
+              >：火艨艟在封建/<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >訓練的速度提高10/15/20%<nuxt-link to="/techs/Careening"
-                >傾側維修術</nuxt-link
+                >航海技術</nuxt-link
               >和升級到<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
               >的研發速度在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代提高15%/20％。研究<nuxt-link to="/techs/Dry_Dock"
-                >旱碼頭</nuxt-link
+                >船塢</nuxt-link
               >的速度快20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：火蒙衝訓練減少15%<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >成本，火蒙衝+10％HP。
+              >：火艨艟訓練減少15%<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本，火艨艟+10％HP。
             </li>
           </ul>
         </div>
@@ -600,7 +600,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：火蒙衝對招降的抵抗力更強。
+              >：火艨艟對招降的抵抗力更強。
             </li>
           </ul>
         </div>
@@ -611,10 +611,10 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>火蒙衝有5的<nuxt-link to="/armor">遠防</nuxt-link>。</li>
-            <li>火蒙衝有100的HP。</li>
+            <li>火艨艟有5的<nuxt-link to="/armor">遠防</nuxt-link>。</li>
+            <li>火艨艟有100的HP。</li>
             <li>
-              4.8版本後火蒙衝有95的HP，並且會受到<nuxt-link
+              4.8版本後火艨艟有95的HP，並且會受到<nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
               >的影響。
@@ -624,8 +624,8 @@
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>火蒙衝有4的遠防。</li>
-            <li>5.4版本後火蒙衝再次有100的HP。</li>
+            <li>火艨艟有4的遠防。</li>
+            <li>5.4版本後火艨艟再次有100的HP。</li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -639,7 +639,7 @@
               <p>
                 <em
                   ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
-                  >(火蒙衝在最左邊)。</em
+                  >(火艨艟在最左邊)。</em
                 >
               </p>
             </div>
@@ -647,7 +647,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Firegalley (1).jpg" alt=""
               /></gallery>
-              <p><em>一群火蒙衝。</em></p>
+              <p><em>一群火艨艟。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -655,7 +655,7 @@
               /></gallery>
               <p>
                 <em
-                  >各種火蒙衝(世紀帝國II和<nuxt-link to="/games/aoc"
+                  >各種火艨艟(世紀帝國II和<nuxt-link to="/games/aoc"
                     >征服者入侵</nuxt-link
                   >資料片)。</em
                 >
@@ -668,13 +668,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">火蒙衝</div>
+              <div class="unititle2">火艨艟</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/FireGalleyIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/FireGalleyIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

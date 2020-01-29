@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>承諾</h1>
+        <h1>臨終夙願</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>承諾</b>為<nuxt-link to="/batt/Genghis_Khana"
+            <b>臨終夙願</b>為<nuxt-link to="/batt/Genghis_Khana"
               >成吉思汗(戰役)</nuxt-link
             >的第五關劇情關卡，此關描述<nuxt-link to="/civs/Mongols"
               >蒙古</nuxt-link
@@ -164,7 +164,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                承諾
+                臨終夙願
               </div>
             </td>
           </tr>

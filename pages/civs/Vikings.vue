@@ -54,17 +54,17 @@
             >的<nuxt-link to="/techs">科技</nuxt-link
             >都少了許多，尤其沒有<nuxt-link to="/techs/Bloodlines"
               >品種</nuxt-link
-            >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+            >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
             >，但仍有<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
             >與<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
             >可與步兵搭配，沒有<nuxt-link to="/units/Bombard_Cannon"
               >火砲</nuxt-link
             >與步槍兵，經濟部分只缺乏<nuxt-link to="/techs/Stone_Shaft_Mining"
-              >礦井採石</nuxt-link
-            >與<nuxt-link to="/techs/Guilds">行會制度</nuxt-link
+              >採石裝置</nuxt-link
+            >與<nuxt-link to="/techs/Guilds">公會制度</nuxt-link
             >，而最棒的好處在於升到封建與城堡時代時就自動研發<nuxt-link
               to="/techs/Wheelbarrow"
-              >獨輪推車</nuxt-link
+              >輪軸技術</nuxt-link
             >與<nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link
             >，讓爆經濟變的較為輕鬆。
           </p>
@@ -99,7 +99,7 @@
               >木材</nuxt-link
             >減少則可在海圖則可以於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >產出許多戰船，免費的獨輪推車與手推車，更是讓維京在<nuxt-link
+            >產出許多戰船，免費的輪軸技術與手推車，更是讓維京在<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建</nuxt-link
             >及<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
@@ -154,7 +154,7 @@
               步兵<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
               >於封建時代+10%、城堡時代+15%、帝王時代+20%
             </li>
-            <li>免費擁有獨輪推車、手推車</li>
+            <li>免費擁有輪軸技術、手推車</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus"

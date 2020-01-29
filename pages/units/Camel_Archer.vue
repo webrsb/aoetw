@@ -58,7 +58,7 @@
               >的<nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link
               >)，而且也不會受到對騎兵的攻擊(<nuxt-link to="/units/Mameluke"
-                >奴隸兵</nuxt-link
+                >阿拉伯奴隸兵</nuxt-link
               >對他們完全沒有攻擊加成)。雖然會受到對<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
@@ -71,7 +71,7 @@
             <li>
               由於<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>和<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >，精銳駱駝弓騎兵訓練時間只有12.6秒，比一般的<nuxt-link
                 to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
@@ -79,7 +79,7 @@
             </li>
             <li>
               值得注意的是，柏柏人缺乏<nuxt-link to="/techs/Parthian_Tactics"
-                >帕提亞戰術</nuxt-link
+                >安息人戰術</nuxt-link
               >，這使得他們的駱駝弓騎兵對大多數攻擊的抵抗力略有下降，同時對<nuxt-link
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
@@ -115,7 +115,7 @@
                 >蒙古突騎</nuxt-link
               >的開火速率比較快，所以整體傷害是蒙古突騎比較高。另外<nuxt-link
                 to="/techs/Parthian_Tactics"
-                >帕提亞戰術</nuxt-link
+                >安息人戰術</nuxt-link
               >也會額外給蒙古突騎對<nuxt-link to="/armor/Armor_Class_Spearman"
                 >長槍兵</nuxt-link
               >攻擊+2。
@@ -195,20 +195,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -225,20 +225,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
             </td>
           </tr>
           <tr>
@@ -279,7 +279,7 @@
                 src="~assets/padded_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -293,7 +293,7 @@
                 src="~assets/ring_archer_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -305,7 +305,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -335,7 +335,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img
                 class="gg"
@@ -442,7 +442,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -493,7 +494,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -720,7 +721,7 @@
                           class="gg"
                           src="~assets/CavalierIcon.png"
                           alt=""
-                        /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                        /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                         <img
                           class="gg"
                           src="~assets/PaladinIcon.png"
@@ -746,7 +747,7 @@
               >能夠提高駱駝弓騎兵的生產速度還有加速
             </li>
             <li>
-              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              <nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >、<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>、<nuxt-link
                 to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
@@ -759,10 +760,10 @@
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研究<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >和<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >和<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >速度快20%。
             </li>
             <li>
@@ -802,7 +803,7 @@
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >:最初不能研發<nuxt-link to="/techs/Ring_Archer_Armor"
-                >弓兵環甲</nuxt-link
+                >弓兵鏈甲</nuxt-link
               >。4.8改版後可以研發了
             </li>
           </ul>
@@ -924,7 +925,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/CamelArcherIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/CamelArcherIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

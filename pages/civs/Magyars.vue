@@ -15,7 +15,7 @@
               >騎兵文明</nuxt-link
             >。馬扎爾是現在的國家匈牙利主體民族，因此常被稱之匈牙利人。他最早被認為是源自於突厥人，在九世紀中有支突厥人貴族進入了中歐。匈牙利黑軍就是指當時中世紀一支強大<nuxt-link
               to="/techs/Mercenaries"
-              >僱傭兵</nuxt-link
+              >科維尼安軍隊</nuxt-link
             >(人數最高達到3萬人左右)有名<nuxt-link to="/batt">戰役</nuxt-link
             >:布拉德菲爾德戰役。
           </p>
@@ -46,9 +46,9 @@
             </li>
             <li>
               擁有<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-              >的<nuxt-link to="/techs/Forging">鍛造</nuxt-link>/<nuxt-link
+              >的<nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>/<nuxt-link
                 to="/techs/Iron_Casting"
-                >鑄造</nuxt-link
+                >鑄造技術</nuxt-link
               >/<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
               >，等三項<nuxt-link to="/techs">科技</nuxt-link
               >免費，且不需要蓋兵工廠，使在剛生時代瞬間<nuxt-link
@@ -118,7 +118,7 @@
             <p>
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
                 to="/techs/Mercenaries"
-                >僱傭兵</nuxt-link
+                >科維尼安軍隊</nuxt-link
               >：生產馬扎爾驃騎兵時不需要黃金。
             </p>
             <p>
@@ -166,12 +166,12 @@
             <li>
               遊戲裡擁有最優質的馬弓騎兵<nuxt-link to="/civs/Mongols"
                 >蒙古</nuxt-link
-              >/<nuxt-link to="/civs/Huns">匈奴</nuxt-link>/<nuxt-link
+              >/<nuxt-link to="/civs/Huns">匈人</nuxt-link>/<nuxt-link
                 to="/civs/Saracens"
                 >薩拉森</nuxt-link
               >/馬扎爾，去除薩拉森另外三個文明其實都是源自蒙古高原馬弓極為盛行的地方。
             </li>
-            <li>反曲弓其實在蒙古和匈奴裡也極為盛行。</li>
+            <li>反曲弓其實在蒙古和匈人裡也極為盛行。</li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -244,7 +244,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
                 to="/techs/Mercenaries"
-                >僱傭兵</nuxt-link
+                >科維尼安軍隊</nuxt-link
               ><br />
               <img
                 class="gg"

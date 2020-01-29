@@ -206,7 +206,7 @@
               京都的士兵大多數都可以用<nuxt-link to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >克制，火槍兵搭配大阪城內的四台火砲拆建築，並且派幾個<nuxt-link
-                to="/units/Cavalier"
+                to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               >摧毀敵人的<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </li>

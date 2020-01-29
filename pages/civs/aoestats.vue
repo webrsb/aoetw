@@ -78,7 +78,7 @@ const civ_wrap = {
   Ethiopians: { name: '衣索比亞', img: require('@/assets/ShotelIcon.png') },
   Franks: { name: '法蘭克', img: require('@/assets/TAXEM.png') },
   Goths: { name: '哥德', img: require('@/assets/HuskarlIcon.png') },
-  Huns: { name: '匈奴', img: require('@/assets/TarkanIcon.png') },
+  Huns: { name: '匈人', img: require('@/assets/TarkanIcon.png') },
   Incas: { name: '印加', img: require('@/assets/Kamayuk_Icon.jpg') },
   Indians: { name: '印度', img: require('@/assets/ElephantArcherIcon.png') },
   Italians: {
@@ -87,7 +87,7 @@ const civ_wrap = {
   },
   Japanese: { name: '日本', img: require('@/assets/SMURI.png') },
   Khmer: { name: '高棉', img: require('@/assets/Ballistaelephanticon.png') },
-  Koreans: { name: '韓國', img: require('@/assets/WarWagonIcon.png') },
+  Koreans: { name: '朝鮮', img: require('@/assets/WarWagonIcon.png') },
   Magyars: { name: '馬札爾', img: require('@/assets/Magyar_Huszar_icon.png') },
   Malay: { name: '馬來', img: require('@/assets/Karambitwarrioricon.png') },
   Malians: { name: '馬利', img: require('@/assets/GbetoIcon.png') },

@@ -21,9 +21,9 @@
               >邁勒斯叛變</nuxt-link
             >"的<nuxt-link to="/batt">戰役</nuxt-link
             >中出現。百夫長的外表與<nuxt-link to="/units/Cataphract"
-              >聖騎兵</nuxt-link
+              >拜占庭聖騎兵</nuxt-link
             >幾乎一樣，而 它的狀態與<nuxt-link to="/units/Cataphract"
-              >精銳聖騎兵</nuxt-link
+              >精銳拜占庭聖騎兵</nuxt-link
             >相去不遠，只有長相稍微不同而已。
           </p>
         </div>

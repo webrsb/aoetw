@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>騎兵鱗甲</h1>
+        <h1>鱗鎧甲</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>騎兵鱗甲</b>可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>鱗鎧甲</b>(2013版稱<b>騎兵鱗甲</b>)可於<nuxt-link
+              to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓<nuxt-link to="/armor/Armor_Class_Cavalry"
@@ -40,7 +41,7 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
@@ -48,7 +49,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -105,7 +106,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"馬甲是裝在馬身上的護甲。騎兵鱗甲由多層圓形金屬鱗片彼此重疊組成。可以保護馬匹遭到箭矢和武器的傷害。對護甲的衝擊會被護甲轉移方向，鱗片層也會吸收大部分的衝擊力道。"</em
+            >"馬甲是裝在馬身上的護甲。鱗鎧甲由多層圓形金屬鱗片彼此重疊組成。可以保護馬匹遭到箭矢和武器的傷害。對護甲的衝擊會被護甲轉移方向，鱗片層也會吸收大部分的衝擊力道。"</em
           >
         </div>
       </div>
@@ -113,13 +114,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">騎兵鱗甲</div>
+              <div class="unititle2">鱗鎧甲</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/scale_barding_armor.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/scale_barding_armor.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -153,7 +158,7 @@
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link>
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link>
             </td>
           </tr>
           <tr>

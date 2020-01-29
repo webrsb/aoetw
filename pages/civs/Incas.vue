@@ -151,9 +151,9 @@
           <ul>
             <li>信使從+10%速度改成+1近戰/+2遠防。</li>
             <li>有了<nuxt-link to="/building/Keep">大型箭塔</nuxt-link>。</li>
-            <li>有了<nuxt-link to="/techs/Guilds">行會制度</nuxt-link>。</li>
+            <li>有了<nuxt-link to="/techs/Guilds">公會制度</nuxt-link>。</li>
             <li>
-              有了<nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link>。
+              有了<nuxt-link to="/techs/Block_Printing">印刷技術</nuxt-link>。
             </li>
             <li>有了<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>。</li>
             <li>投石手不再需要城堡。</li>

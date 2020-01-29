@@ -45,11 +45,11 @@
         <div class="n1">
           <p>可加速收集石礦速度的科技:</p>
           <ul>
-            <li><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link></li>
+            <li><nuxt-link to="/techs/Wheelbarrow">輪軸技術</nuxt-link></li>
             <li><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link></li>
             <li><nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link></li>
             <li>
-              <nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>
+              <nuxt-link to="/techs/Stone_Shaft_Mining">採石裝置</nuxt-link>
             </li>
           </ul>
         </div>
@@ -71,7 +71,7 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:建築石材花費減少15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:石礦採集速度快20%。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:石礦採集速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:自然資源存量+15%。

@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>外架式柵樓</h1>
+        <h1>圍牆</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>外架式柵樓</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>圍牆</b>2013版稱<b>外架式柵樓</b>可於<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。可讓<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -18,21 +19,20 @@
             >讓城堡變得更堅不可摧。
           </p>
           <p>
-            對於計劃建造城堡以防禦敵方入侵或在敵方地區建造城堡的玩家來說，外架式柵樓是重要的<nuxt-link
+            對於計劃建造城堡以防禦敵方入侵或在敵方地區建造城堡的玩家來說，圍牆是重要的<nuxt-link
               to="/techs"
               >科技</nuxt-link
             >。<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>人，<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
             >人和<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-            >人也可用外架式柵樓搭配他們對城堡的特殊效益讓城堡變得更強大。
+            >人也可用圍牆搭配他們對城堡的特殊效益讓城堡變得更強大。
           </p>
           <p>
             有<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>、<nuxt-link
               to="/techs/Architecture"
               >建築學</nuxt-link
-            >和外架式柵樓的城堡生命值可達到7028。<nuxt-link
-              to="/civs/Byzantines"
+            >和圍牆的城堡生命值可達到7028。<nuxt-link to="/civs/Byzantines"
               >拜占庭</nuxt-link
             >的<nuxt-link to="/civs">文明</nuxt-link>加成讓城堡更高達8131 HP。
           </p>
@@ -99,10 +99,10 @@
                 >衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
@@ -118,7 +118,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速外架式柵樓的研究時間(快25%)。
+              >能夠加速圍牆的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -130,7 +130,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速外架式柵樓的研究時間(快25%)。
+              >能夠加速圍牆的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -141,15 +141,15 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>外架式柵樓成本需要400木材400石頭。</li>
-            <li>外架式柵樓給城堡多1000HP。</li>
+            <li>圍牆成本需要400木材400石頭。</li>
+            <li>圍牆給城堡多1000HP。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>1.0c改版後外架式柵樓成本需要400木材400食物。</li>
-            <li>外架式柵樓現在給城堡多21%HP。</li>
+            <li>1.0c改版後圍牆成本需要400木材400食物。</li>
+            <li>圍牆現在給城堡多21%HP。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -157,7 +157,7 @@
         <div class="n1">
           <p>
             從<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
-            >頂部戰鬥的人不能射擊或以其他方式攻擊牆壁底部的敵人而不暴露於敵人箭矢下。當城堡有了外架式柵樓，這是從牆頂伸出來保護防御者的防禦工事。防御者現在可以更安全地攻擊在城牆底下或正爬上牆的敵人。外架式柵樓使得城堡更難被攻破。
+            >頂部戰鬥的人不能射擊或以其他方式攻擊牆壁底部的敵人而不暴露於敵人箭矢下。當城堡有了外架式柵樓，這是從牆頂伸出來保護防御者的防禦工事。防御者現在可以更安全地攻擊在城牆底下或正爬上牆的敵人。圍牆使得城堡更難被攻破。
           </p>
         </div>
       </div>
@@ -165,7 +165,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">外架式柵樓</div>
+              <div class="unititle2">圍牆</div>
             </td>
           </tr>
           <tr>

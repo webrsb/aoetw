@@ -94,7 +94,7 @@
             。 軍事單位 -<nuxt-link to="/units/Elite_Battle_Elephant"
               >精銳矛象伕</nuxt-link
             >x2、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
-            >x32、<nuxt-link to="/units/Halberdier">斧槍兵</nuxt-link
+            >x32、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
             >X32、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>x16
           </p>
           <h2>主要任務</h2>

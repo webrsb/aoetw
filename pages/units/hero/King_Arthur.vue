@@ -94,7 +94,7 @@
               <p>
                 <img src="~assets/forging.png" width="30" alt="" /><nuxt-link
                   to="/techs/Forging"
-                  >鍛造</nuxt-link
+                  >鍛造技術</nuxt-link
                 >(+1)
               </p>
               <p>
@@ -102,7 +102,7 @@
                   src="~assets/iron_casting.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
               </p>
               <p>
                 <img
@@ -137,7 +137,7 @@
                   src="~assets/Chainmailarmor.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
                 >(+1/+1)
               </p>
               <p>
@@ -156,7 +156,7 @@
               <p>
                 <img src="~assets/squires.png" width="30" alt="" /><nuxt-link
                   to="/techs/Squires"
-                  >護衛</nuxt-link
+                  >護衛技術</nuxt-link
                 >(+10%)
               </p>
             </td>

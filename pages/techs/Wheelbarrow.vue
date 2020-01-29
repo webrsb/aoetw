@@ -2,20 +2,21 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>獨輪推車</h1>
+        <h1>輪軸技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>獨輪推車</b>可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>輪軸技術</b>(2013版稱<b>獨輪推車</b>)可於<nuxt-link
+              to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >研發。研發後<nuxt-link to="/units/Villager">村民</nuxt-link
             >移動速度快10%，每趟可攜帶資源量+25%(從10增加為13，所以實際是30%)。
           </p>
           <p>
-            獨輪推車通常是研發一級木與一級田之後才會研發，他將為每個村民增加7～13％的工作效率，但需要175<nuxt-link
+            輪軸技術通常是研發一級木與一級田之後才會研發，他將為每個村民增加7～13％的工作效率，但需要175<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link
             >50<nuxt-link to="/resource/Wood">木頭</nuxt-link
@@ -70,7 +71,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">獨輪推車</div>
+              <div class="unititle2">輪軸技術</div>
             </td>
           </tr>
           <tr>

@@ -64,7 +64,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Royal Janissary.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Royal Janissary.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

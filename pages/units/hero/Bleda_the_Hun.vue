@@ -36,8 +36,8 @@
               >騎兵</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link>(譬如:<nuxt-link
               to="/techs/Iron_Casting"
-              >鑄造</nuxt-link
-            >、<nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              >鑄造技術</nuxt-link
+            >、<nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
             >)加成的影響而非<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >科技。
           </p>

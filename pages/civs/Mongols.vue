@@ -72,7 +72,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Drill">演習</nuxt-link
+              /><nuxt-link to="/techs/Drill">鑿岩機</nuxt-link
               >:使得攻城武器+50%移動速度
             </li>
           </ul>
@@ -220,7 +220,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Drill">演習</nuxt-link>
+              /><nuxt-link to="/techs/Drill">鑿岩機</nuxt-link>
             </td>
           </tr>
         </table>

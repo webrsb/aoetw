@@ -20,10 +20,10 @@
             >旁邊，它也會出現在<nuxt-link to="/batt/Genghis_Khana"
               >成吉思汗</nuxt-link
             >第五戰役"<nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link
-            >"。破壞者比一般的<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+            >"。破壞者比一般的<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
             >移動速度更快，對<nuxt-link to="/armor/Armor_Class_Building"
               >建築物</nuxt-link
-            >的傷害力也更強。它的外觀是爆炸桶，由於他屬於英雄單位，因此不能被<nuxt-link
+            >的傷害力也更強。它的外觀是炸藥桶，由於他屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link

@@ -101,7 +101,7 @@
               >）、<nuxt-link to="/units/Knight">騎士</nuxt-link>x6、<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >x6、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >x6、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >x4、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
               >x4、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x2、<nuxt-link
                 to="/units/Scorpion"
@@ -229,7 +229,7 @@
               <li>
                 海軍可以以火砲戰船搭配少量戰艦、或者如果知道敵方碼頭位子可以用大量<nuxt-link
                   to="/units/Demolition_Ship"
-                  >神風船</nuxt-link
+                  >爆破船</nuxt-link
                 >直接撞碼頭。
               </li>
               <li>

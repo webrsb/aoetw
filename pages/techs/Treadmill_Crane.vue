@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>滑輪起重機</h1>
+        <h1>磨坊水車</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>滑輪起重機</b>可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>磨坊水車</b>(2013版稱<b>滑輪起重機</b>)可於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發，研發後<nuxt-link to="/building">建築物</nuxt-link
@@ -16,7 +17,7 @@
           </p>
           <p>
             <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >雖沒有滑輪起重機<nuxt-link to="/techs">科技</nuxt-link
+            >雖沒有磨坊水車<nuxt-link to="/techs">科技</nuxt-link
             >，他們的<nuxt-link to="/civs">文明</nuxt-link>效益可讓<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
@@ -50,7 +51,7 @@
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
@@ -87,7 +88,7 @@
                 >衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -137,7 +138,7 @@
           <ul>
             <li>1.0c改版後成本現在為300食物200木材。</li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:可以研發攻城工程師。
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:可以研發攻城工程師。
             </li>
           </ul>
           <h3>
@@ -148,7 +149,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:移除攻城工程師。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:移除攻城工程師。
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:移除攻城工程師。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
@@ -179,14 +180,18 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2">
-                滑輪起重機
+                磨坊水車
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/treadmill_crane.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/treadmill_crane.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

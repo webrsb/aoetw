@@ -69,7 +69,7 @@
                 to="/civs/Chinese"
                 >中國</nuxt-link
               >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
@@ -109,7 +109,7 @@
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -144,10 +144,10 @@
             <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>文明若有發展<nuxt-link
               to="/techs/untech"
               >特殊科技</nuxt-link
-            ><nuxt-link to="/techs/Drill">演習</nuxt-link
+            ><nuxt-link to="/techs/Drill">鑿岩機</nuxt-link
             >，會強烈建議你將步兵放置在重型衝撞車，因為原始的重型衝撞車移動速度為0.6~0.9，當發展特殊科技「<nuxt-link
               to="/techs/Drill"
-              >演習</nuxt-link
+              >鑿岩機</nuxt-link
             >」之後，重型衝撞車移動速度為0.9~1.2，故駐軍後的蒙古重型衝撞車，移動速度會比研發<nuxt-link
               to="/techs/Squires"
               >護衛技術</nuxt-link
@@ -156,7 +156,7 @@
           <p>
             塞爾特文明也非常適合研發重型衝撞車，塞爾特不只有生產快速的優勢，更有特殊科技<nuxt-link
               to="/techs/Furor_Celtica"
-              >「塞爾特狂暴」</nuxt-link
+              >「塞爾特狂熱」</nuxt-link
             >，讓塞爾特重型衝撞車的生命值從原本的270強化到405，耐打程度絕對超乎你的想像。
           </p>
           <p>
@@ -204,7 +204,7 @@
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link
               >:<nuxt-link to="/units//building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >的單位+40% HP。<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定
@@ -257,7 +257,7 @@
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Drill">演習</nuxt-link
+              /><nuxt-link to="/techs/Drill">鑿岩機</nuxt-link
               >:攻城器製造所的單位移動速度+50%，<nuxt-link to="/civs/Mongols"
                 >蒙古</nuxt-link
               >限定
@@ -306,7 +306,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -526,10 +526,10 @@
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
-                >塞爾特狂暴</nuxt-link
+                >塞爾特狂熱</nuxt-link
               >給予重型衝撞車多50%的HP。
             </li>
-            <li>蒙古：<nuxt-link to="/techs/Drill">演習</nuxt-link>引進。</li>
+            <li>蒙古：<nuxt-link to="/techs/Drill">鑿岩機</nuxt-link>引進。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
@@ -542,7 +542,7 @@
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
-                >塞爾特狂暴</nuxt-link
+                >塞爾特狂熱</nuxt-link
               >:給予重型衝撞車多40%的HP。
             </li>
             <li>
@@ -564,7 +564,7 @@
               >位資料片之後，衝撞車才可以駐軍(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link
                 to="/units/edmap/King"
                 >國王</nuxt-link
-              >、<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >、<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
               >)，而到了<nuxt-link to="/games/aof">失落的帝國</nuxt-link
               >才能讓村民駐軍衝撞車。另外有國外的網友在實驗衝撞車單位時，發現了一有趣的現象，<nuxt-link
                 to="/units/Longbowman"

@@ -31,7 +31,7 @@
             市場可以用<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >換取木材，但是必須收取30％的手續費，並且每次買完後價格都會調漲，但木材十分常見且量多，所以不建議用黃金去買木材。可以利用<nuxt-link
               to="/techs/Guilds"
-              >行會制度</nuxt-link
+              >公會制度</nuxt-link
             >
             來降低手續費到15％，而<nuxt-link to="/civs/Saracens"
               >薩拉森人</nuxt-link
@@ -43,8 +43,8 @@
         <div class="n1">
           <p>可加速收集木材的<nuxt-link to="/techs">科技</nuxt-link>:</p>
           <ul>
-            <li><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link></li>
-            <li><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link></li>
+            <li><nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link></li>
+            <li><nuxt-link to="/techs/Bow_Saw">弓形鋸</nuxt-link></li>
             <li><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link></li>
           </ul>
         </div>

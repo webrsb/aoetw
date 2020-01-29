@@ -34,7 +34,7 @@
                 >特殊單位</nuxt-link
               >生產速度。即使柏柏玩家或同盟不生產特殊單位，能更快速生產<nuxt-link
                 to="/units/Petard"
-                >爆炸桶</nuxt-link
+                >炸藥桶</nuxt-link
               >和<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
               >也是一大利多。尤其適合那些喜歡在敵對基地旁壓城堡的玩家，讓他們能更快更有效的攻擊對方。
             </li>
@@ -42,7 +42,7 @@
               另外一個有趣的點是如果同盟中有兩個以上的柏柏玩家研發聚居堡壘效果是會疊加的。這讓生產大量的<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
-              >、<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >、<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
               >和特殊單位變得相當有效率。甚至可讓研發<nuxt-link
                 to="/techs/Royal_Heirs"
                 >皇族血脈</nuxt-link

@@ -220,7 +220,7 @@
                 src="~assets/FireGalleyIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
+              /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link
               >：反戰船單位。
             </li>
             <li>
@@ -259,7 +259,7 @@
                   src="~assets/wheelbarrow.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link
+                /><nuxt-link to="/techs/Wheelbarrow">輪軸技術</nuxt-link
                 >：<nuxt-link to="/units/Villager">村民</nuxt-link
                 >更有效率村民速度快10%，每趟可攜帶資源量+25%。
               </li>
@@ -272,7 +272,7 @@
                   src="~assets/horse_collar.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link
+                /><nuxt-link to="/techs/Horse_Collar">獸耕技術</nuxt-link
                 >：<nuxt-link to="/building/Farm">農田</nuxt-link>產量+75。
               </li>
             </ul>
@@ -286,7 +286,7 @@
                   src="~assets/double-bit_axe.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link
+                /><nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link
                 >：村民伐木速度快20%。
               </li>
             </ul>
@@ -385,9 +385,8 @@
                   src="~assets/fletching.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>：<nuxt-link
-                  to="/units/Archer_Units"
-                  >弓兵</nuxt-link
+                /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link
+                >：<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
                 >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
                 >、戰船、<nuxt-link to="/building/Castle">城堡</nuxt-link
                 >和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
@@ -399,7 +398,7 @@
                   src="~assets/padded_archer_armor.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+                /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
                 >：弓兵和<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                   >馬弓騎兵護甲</nuxt-link
                 >+1/+1。
@@ -410,7 +409,7 @@
                   src="~assets/forging.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Forging">鍛造</nuxt-link
+                /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link
                 >:步兵騎兵攻擊+1。
               </li>
               <li>
@@ -419,7 +418,7 @@
                   src="~assets/scale_barding_armor.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+                /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
                 >：<nuxt-link to="/armor/Armor_Class_Cavalry"
                   >騎兵護甲</nuxt-link
                 >+1/+1。

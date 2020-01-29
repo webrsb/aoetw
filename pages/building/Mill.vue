@@ -80,7 +80,7 @@
                     class="gg"
                     src="~assets/horse_collar.png"
                     alt=""
-                  /><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>
+                  /><nuxt-link to="/techs/Horse_Collar">獸耕技術</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -96,7 +96,7 @@
                     class="gg"
                     src="~assets/heavy_plow.png"
                     alt=""
-                  /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>
+                  /><nuxt-link to="/techs/Heavy_Plow">重型耕犁</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -112,7 +112,7 @@
                     class="gg"
                     src="~assets/crop_rotation.png"
                     alt=""
-                  /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>
+                  /><nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -225,7 +225,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -260,10 +260,9 @@
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：<nuxt-link
                 to="/techs/Horse_Collar"
-                >馬軛</nuxt-link
-              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、<nuxt-link
-                to="/techs/Crop_Rotation"
-                >輪耕</nuxt-link
+                >獸耕技術</nuxt-link
+              >、<nuxt-link to="/techs/Heavy_Plow">重型耕犁</nuxt-link
+              >、<nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
               >科技全部免費。
             </li>
             <li>
@@ -297,7 +296,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >速度快80%。
             </li>
           </ul>

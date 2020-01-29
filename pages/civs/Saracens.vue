@@ -24,11 +24,11 @@
           </p>
           <p>
             薩拉森的獨特單位馬木留克（<nuxt-link to="/units/Mameluke"
-              >奴隸兵</nuxt-link
+              >阿拉伯奴隸兵</nuxt-link
             >），是一種對<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵類</nuxt-link
             >有極大傷害的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
-            >，歷史上的奴隸兵戰績輝煌，也是蒙古西征第一次在野戰潰敗的功臣之一，更被西方歷史學家認為這一場阿音札魯特<nuxt-link
+            >，歷史上的阿拉伯奴隸兵戰績輝煌，也是蒙古西征第一次在野戰潰敗的功臣之一，更被西方歷史學家認為這一場阿音札魯特<nuxt-link
               to="/batt"
               >戰役</nuxt-link
             >是阻止蒙古毀滅伊斯蘭/基督教文明的一大戰役。薩拉森位於世界十字路口其中古時代鼎鼎有名的阿拉伯商人更加突顯了商業貿易的興盛，因此市場貿易成本僅5%、市場建造也便宜75<nuxt-link
@@ -42,7 +42,7 @@
             ><nuxt-link to="/units/Monk">僧侶</nuxt-link
             >被殺害後還會返回資源，此外作為阿拉伯世界最有名的駱駝也有帝王世代特殊科技<nuxt-link
               to="/techs/Zealotry"
-              >狂熱舉動</nuxt-link
+              >狂熱</nuxt-link
             ><nuxt-link to="/elements/Hit_points">血量</nuxt-link
             >上升，因為跟拜占庭一樣同屬世界十字路口，海上戰爭也是極為重要因此<nuxt-link
               to="/units/Naval_Vessels"
@@ -96,11 +96,11 @@
             </li>
             <li>
               薩拉森海戰上僅沒有<nuxt-link to="/units/Fast_Fire_Ship"
-                >快速火戰船</nuxt-link
-              >/<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>/<nuxt-link
+                >重型火戰船</nuxt-link
+              >/<nuxt-link to="/techs/Shipwright">造船員</nuxt-link>/<nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
-              >(舊稱火箭)，但有著運輸船兩倍生命/裝載容量+5，戰船攻擊速度+20%，因此只在生產成本還有沒快速火戰船的弱勢上，整體也不怎爛。
+                >火箭</nuxt-link
+              >(舊稱火箭)，但有著運輸船兩倍生命/裝載容量+5，戰船攻擊速度+20%，因此只在生產成本還有沒重型火戰船的弱勢上，整體也不怎爛。
             </li>
             <li>
               薩拉森作為伊斯蘭教起源地區，<nuxt-link to="/building/Monastery"
@@ -108,10 +108,9 @@
               >相關科技可是全滿，且擁有城堡時代特殊科技穆斯林學墊僧侶被殺害後會返回33%資源，用僧侶相關戰術也是不錯的選擇。
             </li>
             <li>
-              雖然在經濟上欠缺<nuxt-link to="/techs/Guilds">行會制度</nuxt-link
-              >/<nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>/<nuxt-link
-                to="/techs/Stone_Shaft_Mining"
-                >礦井採石</nuxt-link
+              雖然在經濟上欠缺<nuxt-link to="/techs/Guilds">公會制度</nuxt-link
+              >/<nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
+              >/<nuxt-link to="/techs/Stone_Shaft_Mining">採石裝置</nuxt-link
               >，但是市場貿易成本僅5%(不是30%)，因此在經濟上反而有一定的優勢。
             </li>
           </ul>
@@ -122,7 +121,7 @@
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+              /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
               >：中距離遠程攻擊的<nuxt-link to="/units/Camel"
                 >駱駝騎兵</nuxt-link
               >，對騎兵類攻擊有極大加成。
@@ -141,8 +140,8 @@
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 alt=""
-              /><nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link
-              >：駱駝騎兵/奴隸兵血量+30。
+              /><nuxt-link to="/techs/Zealotry">狂熱</nuxt-link
+              >：駱駝騎兵/阿拉伯奴隸兵血量+30。
             </li>
           </ul>
         </div>
@@ -188,7 +187,7 @@
           </h3>
           <ul>
             <li>市集成本-175木材。</li>
-            <li>奴隸兵獲得+1攻擊。</li>
+            <li>阿拉伯奴隸兵獲得+1攻擊。</li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -206,10 +205,10 @@
               >資料片中新增<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
               >(舊稱<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
               >)、<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
-              >、<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
-              >、<nuxt-link to="/techs/Caravan">大商隊</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
+              >、<nuxt-link to="/techs/Caravan">商隊</nuxt-link>、<nuxt-link
                 to="/techs/Herbal_Medicine"
-                >草藥學</nuxt-link
+                >草藥治療</nuxt-link
               >、<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
               >和神權政治，只有薩拉森/<nuxt-link to="/civs/Magyars"
                 >馬扎爾</nuxt-link
@@ -282,7 +281,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/Saracenmamluk_icon.png" /><nuxt-link
                 to="/units/Mameluke"
-                >奴隸兵</nuxt-link
+                >阿拉伯奴隸兵</nuxt-link
               >
             </td>
           </tr>
@@ -304,7 +303,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link>
+              /><nuxt-link to="/techs/Zealotry">狂熱</nuxt-link>
             </td>
           </tr>
         </table>

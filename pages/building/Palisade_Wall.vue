@@ -16,7 +16,7 @@
               to="/building/Watch_Tower"
               >箭塔</nuxt-link
             >下蓋木牆可以形成免費的<nuxt-link to="/techs/Murder_Holes"
-              >垛孔</nuxt-link
+              >近射孔</nuxt-link
             >與安全的保護，也可以圍對方資源等。
           </p>
         </div>
@@ -108,7 +108,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%工作效率)
             </td>
           </tr>
@@ -135,7 +135,7 @@
               >/帝王時代價格便宜15％/20％。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：木牆建築速度快33%
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：木牆建築速度快33%
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -150,7 +150,7 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Treadmill_Crane"
-                >滑輪起重機</nuxt-link
+                >磨坊水車</nuxt-link
               >的速度提高80%。
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：木牆便宜50%</li>
@@ -187,7 +187,7 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:木牆建造速度快33%
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:木牆建造速度快33%
             </li>
           </ul>
         </div>

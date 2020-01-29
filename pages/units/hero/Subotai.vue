@@ -8,8 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>速不台</b>或稱<b>速不臺</b>是《<nuxt-link
-              to="/games/aok"
+            <b>速不台</b>或稱<b>速不臺</b>是《<nuxt-link to="/games/aok"
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名重裝<nuxt-link to="/units/Archer_Units"
               >馬弓騎兵英雄</nuxt-link
@@ -19,7 +18,7 @@
               >成吉思汗</nuxt-link
             >和窩闊台旗下的將軍和戰略家，他著名的事蹟是在兩天內擊敗匈牙利和波蘭軍隊，後來成為《世紀帝國II
             II: 帝王世紀》<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-            >戰役的"承諾"和"蒙古太平"戰役。速不臺的外觀是<nuxt-link
+            >戰役的"臨終夙願"和"蒙古太平"戰役。速不臺的外觀是<nuxt-link
               to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link
             >，會受<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link

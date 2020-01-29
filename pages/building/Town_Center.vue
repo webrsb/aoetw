@@ -123,7 +123,7 @@
                       class="gg"
                       src="~assets/wheelbarrow.png"
                       alt=""
-                    /><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>
+                    /><nuxt-link to="/techs/Wheelbarrow">輪軸技術</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -178,7 +178,7 @@
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4">
                 射程較遠的範圍單位、<nuxt-link to="/units/Tarkan"
-                  >韃靼騎兵</nuxt-link
+                  >答剌罕騎兵</nuxt-link
                 >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
                 >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
                 >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>。
@@ -217,20 +217,21 @@
                   src="~assets/fletching.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+                /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1)
+                <br />
                 <img
                   class="gg"
                   src="~assets/bodkin_arrow.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Bracer.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+                /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
                 <img
                   class="gg"
                   src="~assets/chemistry.png"
@@ -307,7 +308,7 @@
                   src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >(+20%工作效率)
               </td>
             </tr>
@@ -319,14 +320,14 @@
                   src="~assets/Herbalmedicine.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+                /><nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link
                 >:增加駐守單位回血速度<br />
                 <img
                   class="gg"
                   src="~assets/unique_tech_imperial.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+                /><nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link
                 >:<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
                 >駐守也可放箭，<nuxt-link to="/civs/Teutons">條頓</nuxt-link
                 >限定

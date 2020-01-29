@@ -2,20 +2,21 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>垛孔</h1>
+        <h1>近射孔</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>垛孔</b>可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>近射孔</b>(2013版稱<b>垛孔</b>)可於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發。可移除<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >和<nuxt-link to="/building/Castle">城堡</nuxt-link>的最小射程限制。
           </p>
           <p>
-            垛孔於實戰中幾乎不會用，因為可以用交叉火力掩護代替，或是使用近戰單位保護(<nuxt-link
+            近射孔於實戰中幾乎不會用，因為可以用交叉火力掩護代替，或是使用近戰單位保護(<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
             >也可)，在城堡或箭塔旁邊蓋牆或其他<nuxt-link to="/building"
@@ -72,14 +73,14 @@
           <div class="n1">
             <ul>
               <li>
-                垛孔英文為：Murder
+                近射孔英文為：Murder
                 Holes(謀殺孔)，日文為殺人孔(さつじんこう)，聽起來讓人不寒而慄。
               </li>
               <li>
                 就算研發<nuxt-link to="/civs/Persians">波斯</nuxt-link
                 >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
                 ><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link
-                >，在沒有垛孔的狀況下，城堡沒有辦法對已經在最小範圍內的<nuxt-link
+                >，在沒有近射孔的狀況下，城堡沒有辦法對已經在最小範圍內的<nuxt-link
                   to="/units/Battering_Ram"
                   >衝撞車</nuxt-link
                 >造成傷害(就不能直接把油潑上去嗎?!)
@@ -103,10 +104,10 @@
               中古世紀歐洲城堡或要塞中，會在天井設置一個洞孔，從敵人的頭上丟下『石頭、沸油、加熱過的砂石、箭矢或是熟石灰等』用來攻擊敵人。油當時是很珍貴的資源，故很少使用。
             </p>
             <p>
-              <nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link
-              >是在防御者可以與之戰鬥的<nuxt-link to="/building/Stone_Wall"
+              外架式柵樓是在防御者可以與之戰鬥的<nuxt-link
+                to="/building/Stone_Wall"
                 >城牆</nuxt-link
-              >和塔樓的頂部建造的防禦工事。他們需要伸出牆壁的垂直平面，以便能夠攻擊牆壁底部的敵人。在外架式柵樓的底部是被稱為垛孔的陷阱門。這些可以打開，防御者可以射箭，扔石頭，開水或燒沙直接向下。沒有垛孔，靠牆底部的敵人就會相對安全。
+              >和塔樓的頂部建造的防禦工事。他們需要伸出牆壁的垂直平面，以便能夠攻擊牆壁底部的敵人。在外架式柵樓的底部是被稱為近射孔的陷阱門。這些可以打開，防御者可以射箭，扔石頭，開水或燒沙直接向下。沒有近射孔，靠牆底部的敵人就會相對安全。
             </p>
           </div>
           <h3>圖庫</h3>
@@ -124,7 +125,7 @@
                   <em
                     ><a href="http://tinyurl.com/y8vlw8g3" target="_blank"
                       >博丁安堡</a
-                    >的垛孔(博丁安堡為遊戲中，<nuxt-link to="/civs/Britons"
+                    >的近射孔(博丁安堡為遊戲中，<nuxt-link to="/civs/Britons"
                       >不列顛</nuxt-link
                     >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
                     >等西歐建築城堡的原形)</em
@@ -138,7 +139,7 @@
                     src="~assets/Machicolation_Of_Wejter_Tower.jpg"
                     alt=""
                 /></gallery>
-                <p><em>真正的垛孔(博丁安堡那個是Murder Holes)</em></p>
+                <p><em>真正的近射孔(博丁安堡那個是Murder Holes)</em></p>
               </div>
             </div>
           </div>
@@ -148,7 +149,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">垛孔</div>
+              <div class="unititle2">近射孔</div>
             </td>
           </tr>
           <tr>

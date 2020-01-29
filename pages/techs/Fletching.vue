@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>箭羽</h1>
+        <h1>絕世好箭</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>箭羽</b>可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>絕世好箭</b>(2013版稱<b>箭羽</b>)可於<nuxt-link
+              to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             研發後<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
@@ -47,7 +48,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在箭頭後方提供羽毛或其他風翼稱為飛羽，這項創新提高了飛行中箭頭的穩定性。箭羽增加了箭矢的範圍和精度。精良的箭矢對弓箭手的成功和效率性至關重要。
+            在箭頭後方提供羽毛或其他風翼稱為飛羽，這項創新提高了飛行中箭頭的穩定性。絕世好箭增加了箭矢的範圍和精度。精良的箭矢對弓箭手的成功和效率性至關重要。
           </p>
         </div>
       </div>
@@ -55,7 +56,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">箭羽</div>
+              <div class="unititle2">絕世好箭</div>
             </td>
           </tr>
           <tr>
@@ -96,7 +97,7 @@
                 src="~assets/bodkin_arrow.png"
                 width="45"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>
             </td>
           </tr>
           <tr>

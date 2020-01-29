@@ -136,7 +136,7 @@
               埃及的伊克什德王朝(黃色)控制著阿斯旺城，這是一座橫跨西北部的尼羅河城池。一支由<nuxt-link
                 to="/units/Camel"
                 >駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
               >和艦兵組成的隊伍層好幾次入侵努比亞，但都以失敗告終。
             </li>
             <li>
@@ -353,7 +353,7 @@
         </li>
         <li>
           現在可以轉頭消滅海盜了。由<nuxt-link to="/units/Demolition_Ship"
-            >神風船</nuxt-link
+            >爆破船</nuxt-link
           >、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
           >及弩砲戰船的混合部隊就能拆掉海盜的所有<nuxt-link to="/building"
             >建築物</nuxt-link

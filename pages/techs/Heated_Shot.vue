@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>預熱射擊</h1>
+        <h1>火箭</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>預熱射擊</b>舊稱<b>火箭</b>可於<nuxt-link
+            <b>火箭</b>(2013版稱<b>預熱射擊</b>)<b>火箭</b>可於<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
@@ -48,7 +48,7 @@
                 >義大利</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -80,7 +80,7 @@
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
                 to="/civs/Franks"
                 >法蘭克</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
@@ -96,7 +96,7 @@
         <h3>對船隻增加的傷害</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>下面列出所有受預熱射擊影響，攻擊船隻增加的幅度。</p>
+          <p>下面列出所有受火箭影響，攻擊船隻增加的幅度。</p>
         </div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
@@ -107,7 +107,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>
+              <nuxt-link to="/building/Watch_Tower">暸望台</nuxt-link>
             </td>
             <td class="tta2">7</td>
             <td class="tta2">16</td>
@@ -186,7 +186,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">預熱射擊</div>
+              <div class="unititle2">火箭</div>
             </td>
           </tr>
           <tr>

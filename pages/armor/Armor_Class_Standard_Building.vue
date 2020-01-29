@@ -202,7 +202,7 @@
                       width="25px"
                       src="~assets/tower.png"
                       alt=""
-                    /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Watch_Tower">暸望台</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -265,7 +265,7 @@
                       src="~assets/WarWagonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/War_Wagon">精銳馬戰車</nuxt-link
-                    >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+                    >(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -860,15 +860,14 @@
                         class="gg"
                         src="~assets/SkirmisherIcon.png"
                         alt=""
-                      /><nuxt-link to="/units/Elite_Skirmisher"
-                        >戰矛兵</nuxt-link
+                      /><nuxt-link to="/units/Elite_Skirmisher">矛兵</nuxt-link
                       >→
                       <img
                         class="gg"
                         src="~assets/EliteSkirmisherIcon.png"
                         alt=""
                       /><nuxt-link to="/units/Elite_Skirmisher"
-                        >精銳戰矛兵</nuxt-link
+                        >戰矛兵</nuxt-link
                       >→
                       <img
                         class="gg"

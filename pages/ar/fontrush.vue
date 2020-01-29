@@ -128,7 +128,7 @@
           <div class="n1">
             適合所有<nuxt-link to="/civs">文明</nuxt-link>，值得一提的有
             <ul>
-              <li><nuxt-link to="/civs/Huns">匈奴</nuxt-link>：好控制</li>
+              <li><nuxt-link to="/civs/Huns">匈人</nuxt-link>：好控制</li>
               <li>
                 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：槍兵+1攻擊
               </li>
@@ -199,7 +199,7 @@
             <td class="unit4">
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >等
             </td>
           </tr>

@@ -247,7 +247,7 @@
                 to="/units/Naval_Vessels"
                 >海軍</nuxt-link
               >和由裝甲步兵、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
-              >、<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
               >和僧侶組成的軍隊。
             </li>
             <li>

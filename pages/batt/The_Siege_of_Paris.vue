@@ -129,7 +129,7 @@
                   class="gg"
                   src="~assets/CavalierIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>*4
+                /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>*4
               </li>
               <li>
                 <img
@@ -220,8 +220,7 @@
               在巴黎要能夠跟國王的增援部隊會合的地方，就只有在河道上的橋樑南邊。
             </li>
             <li>
-              <nuxt-link to="/techs/Squires">護衛</nuxt-link
-              >貞德和至少六名難民前往康白尼 (旗子中間的方塊)。
+              護衛貞德和至少六名難民前往康白尼 (旗子中間的方塊)。
             </li>
           </ol>
         </div>

@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>弓兵環甲</h1>
+        <h1>弓兵鏈甲</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>弓兵環甲</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>弓兵鏈甲</b>(2013版稱<b>弓兵環甲</b>)可於<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+2。
@@ -41,7 +42,7 @@
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -81,7 +82,7 @@
               >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
                 to="/civs/Franks"
                 >法蘭克</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >。
@@ -116,7 +117,7 @@
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link>:無法研發<nuxt-link
                 to="/techs/Ring_Archer_Armor"
-                >弓兵環甲</nuxt-link
+                >弓兵鏈甲</nuxt-link
               >。
             </li>
           </ul>
@@ -127,13 +128,13 @@
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >:一開始無法研發<nuxt-link to="/techs/Ring_Archer_Armor"
-                >弓兵環甲</nuxt-link
+                >弓兵鏈甲</nuxt-link
               >，在4.8版後才可以研發。
             </li>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link>:可以研發<nuxt-link
                 to="/techs/Ring_Archer_Armor"
-                >弓兵環甲</nuxt-link
+                >弓兵鏈甲</nuxt-link
               >。
             </li>
           </ul>
@@ -169,14 +170,18 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2">
-                弓兵環甲
+                弓兵鏈甲
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ring_archer_armor.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/ring_archer_armor.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

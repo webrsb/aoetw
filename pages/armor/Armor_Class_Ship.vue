@@ -71,7 +71,7 @@
                 class="gg"
                 src="~assets/FireGalleyIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>(6)→
+              /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>(6)→
               <img
                 class="gg"
                 src="~assets/FireShipIcon.png"
@@ -82,7 +82,7 @@
                 class="gg"
                 src="~assets/FastFireShipIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>(9)
+              /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>(9)
             </li>
             <li>
               <img class="gg" src="~assets/DemoRaftIcon.png" alt="" /><nuxt-link
@@ -94,13 +94,13 @@
                 src="~assets/DemoShipIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>(3)→
+              /><nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link>(3)→
               <img
                 class="gg"
                 src="~assets/HeavyDemoShipIcon.png"
                 alt=""
               /><nuxt-link to="/units/Heavy_Demolition_Ship"
-                >重型神風船</nuxt-link
+                >重型爆破船</nuxt-link
               >5()
             </li>
             <li>
@@ -128,7 +128,7 @@
               >(8)→ <img src="~assets/TurtleShipIcon.png" alt="" /><nuxt-link
                 to="/units/Turtle_Ship"
                 >精銳龜甲船</nuxt-link
-              >(11)(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+              >(11)(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </li>
             <li>
               <img src="~assets/CaravelIcon.png" alt="" /><nuxt-link
@@ -358,7 +358,7 @@
                       src="~assets/FastFireShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fast_Fire_Ship"
-                      >快速火戰船</nuxt-link
+                      >重型火戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -369,7 +369,7 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.png"
@@ -411,7 +411,7 @@
             <div class="col-md-4">
               <img src="~assets/heated_shot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
-                >預熱射擊</nuxt-link
+                >火箭</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>

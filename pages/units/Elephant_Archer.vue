@@ -97,7 +97,7 @@
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
-                >奴隸兵</nuxt-link
+                >阿拉伯奴隸兵</nuxt-link
               >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
               >、戰矛兵、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>、僧侶。
@@ -130,7 +130,7 @@
                   src="~assets/fletching.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1)
               </p>
               <p>
                 <img
@@ -138,7 +138,7 @@
                   src="~assets/bodkin_arrow.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               </p>
               <p>
                 <img
@@ -146,7 +146,7 @@
                   src="~assets/Bracer.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
               </p>
               <p>
                 <img
@@ -162,7 +162,7 @@
                   src="~assets/parthian_tactics.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+                /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
                 >(+2對<nuxt-link to="/armor/Armor_Class_Spearman"
                   >長槍兵</nuxt-link
                 >)
@@ -178,7 +178,7 @@
                   src="~assets/fletching.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1)
               </p>
               <p>
                 <img
@@ -186,7 +186,7 @@
                   src="~assets/bodkin_arrow.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               </p>
               <p>
                 <img
@@ -194,7 +194,7 @@
                   src="~assets/Bracer.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
               </p>
             </td>
           </tr>
@@ -234,7 +234,7 @@
                   src="~assets/padded_archer_armor.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
+                /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵護甲</nuxt-link
                 >(+1/+1)
               </p>
               <p>
@@ -253,7 +253,7 @@
                   src="~assets/ring_archer_armor.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+                /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
                 >(+1/+2)
               </p>
               <p>
@@ -262,7 +262,7 @@
                   src="~assets/parthian_tactics.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+                /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
                 >(+1/+2)
               </p>
             </td>
@@ -276,7 +276,7 @@
                   src="~assets/husbandry.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+                /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
               </p>
             </td>
           </tr>
@@ -304,7 +304,7 @@
                   src="~assets/conscription.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+                /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               </p>
             </td>
           </tr>
@@ -425,7 +425,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -475,7 +476,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -804,7 +806,7 @@
                           class="gg"
                           src="~assets/CavalierIcon.png"
                           alt=""
-                        /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                        /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
                         <img
                           class="gg"
                           src="~assets/PaladinIcon.png"
@@ -828,21 +830,21 @@
                 >聚居堡壘</nuxt-link
               >能夠提高象弓騎兵的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >的研究時間(快25%)
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：研究<nuxt-link
                 to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
-              >和<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >和<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研究<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >和<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >和<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >速度快80%。
             </li>
             <li>
@@ -886,7 +888,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ElephantArcherIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/ElephantArcherIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

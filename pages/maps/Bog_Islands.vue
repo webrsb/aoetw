@@ -18,7 +18,7 @@
               >海軍</nuxt-link
             >及陸軍，甚至讓陸軍海軍之間互相援助。這是張使用<nuxt-link
               to="/units/Demolition_Ship"
-              >神風船</nuxt-link
+              >爆破船</nuxt-link
             >的絕佳地圖，操作得宜可以對敵方部隊跟<nuxt-link to="/building"
               >建築物</nuxt-link
             >造成巨大傷害。玩家的營地周圍是可建造的淺灘，陸地被雨林覆蓋，淺灘上有更多資源包括金礦和<nuxt-link

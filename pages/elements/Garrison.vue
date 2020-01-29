@@ -167,7 +167,7 @@
             >，而<nuxt-link to="/building/Castle">城堡</nuxt-link
             >治療速度則是每秒治療0.2的生命值，研發<nuxt-link
               to="/techs/Herbal_Medicine"
-              >草藥學</nuxt-link
+              >草藥治療</nuxt-link
             >技術後可更進一步提高<nuxt-link to="/elements/Regeneration"
               >回血</nuxt-link
             >率。

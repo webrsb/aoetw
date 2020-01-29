@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>李舜臣</b>，<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            <b>李舜臣</b>，<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
             >民族<nuxt-link to="/units/hero">英雄</nuxt-link
             >，1545年生，曾多次使用海上戰術擊敗<nuxt-link to="/civs/Japanese"
               >日本人</nuxt-link

@@ -99,7 +99,7 @@
             。 軍事單位 -<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >x15、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
             >x2、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
-            >x13、<nuxt-link to="/units/Elite_Skirmisher">精銳戰矛兵</nuxt-link
+            >x13、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >x5、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >x6、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
             >x4、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>x2、<nuxt-link

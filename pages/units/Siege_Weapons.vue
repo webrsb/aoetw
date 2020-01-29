@@ -23,7 +23,7 @@
             除了<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
             >，<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>和<nuxt-link
               to="/units/Petard"
-              >爆炸桶</nuxt-link
+              >炸藥桶</nuxt-link
             >之外，所有的攻城武器都擁有中到長的射程範圍。
           </p>
         </div>
@@ -42,7 +42,7 @@
             <li>
               所有的攻城武器都需要花費<nuxt-link to="/resource/Wood"
                 >木材</nuxt-link
-              >和黃金，唯一例外的是爆炸桶，他們花費<nuxt-link
+              >和黃金，唯一例外的是炸藥桶，他們花費<nuxt-link
                 to="/resource/Food"
                 >食物</nuxt-link
               >和黃金。一般來說，<nuxt-link to="/units/Siege_Weapons"
@@ -58,7 +58,7 @@
               攻城武器和僧侶一樣需要研發<nuxt-link to="/techs">科技</nuxt-link
               >後才<nuxt-link to="/elements/Conversion">招降</nuxt-link
               >他們。要招降攻城武器，必須先研究<nuxt-link to="/techs/Redemption"
-                >信仰救贖</nuxt-link
+                >神聖思想</nuxt-link
               >。
             </li>
             <li>
@@ -102,7 +102,7 @@
             <li>
               <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
                 to="/units/Petard"
-                >爆炸桶</nuxt-link
+                >炸藥桶</nuxt-link
               >
             </li>
             <li>
@@ -200,11 +200,11 @@
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
                 to="/units/Demolition_Ship"
-                >神風船</nuxt-link
+                >爆破船</nuxt-link
               >+50% HP。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：巨型投石機命中率+30%。
             </li>
             <li>
@@ -239,7 +239,7 @@
               >射程+1。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >：投石車最小射程範圍從3改為1。
             </li>
           </ul>
@@ -490,7 +490,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/PetardIcon.png" /><nuxt-link
                   to="/units/Petard"
-                  >爆炸桶</nuxt-link
+                  >炸藥桶</nuxt-link
                 >
               </td>
               <td class="tta3">50</td>
@@ -673,7 +673,7 @@
                 攻城武器攻擊範圍+1(衝撞車除外)。對<nuxt-link
                   to="/armor/Armor_Class_Building"
                   >建築物</nuxt-link
-                >攻擊加成+20%(爆炸桶+40%)。
+                >攻擊加成+20%(炸藥桶+40%)。
               </td>
             </tr>
             <tr>
@@ -723,7 +723,7 @@
                   class="gg"
                   src="~assets/conscription.png"
                   alt=""
-                /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
+                /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">150F 150G</td>
@@ -782,7 +782,7 @@
                   /><nuxt-link to="/civs/Britons">不列顛</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>
+                  <nuxt-link to="/techs/Warwolf">戰狼號</nuxt-link>
                 </td>
                 <td class="tunitc5">500W 250G</td>
                 <td class="tunitc6">
@@ -798,7 +798,7 @@
                   /><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link>
+                  <nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link>
                 </td>
                 <td class="tunitc5">750F 450G</td>
                 <td class="tunitc6">攻城器製造所的單位+40% HP。</td>
@@ -812,7 +812,7 @@
                   /><nuxt-link to="/civs/Chinese">中國</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>
+                  <nuxt-link to="/techs/Rocketry">火箭技術</nuxt-link>
                 </td>
                 <td class="tunitc5">750W 750G</td>
                 <td class="tunitc6">
@@ -862,10 +862,10 @@
                     src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
-                  /><nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+                  /><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>
+                  <nuxt-link to="/techs/Shinkichon">投擲器</nuxt-link>
                 </td>
                 <td class="tunitc5">800W 500G</td>
                 <td class="tunitc6">投石車射程+1。</td>
@@ -879,7 +879,7 @@
                   /><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Drill">演習</nuxt-link>
+                  <nuxt-link to="/techs/Drill">鑿岩機</nuxt-link>
                 </td>
                 <td class="tunitc5">500F 450G</td>
                 <td class="tunitc6">攻城器製造所的單位移動速度+50%。</td>

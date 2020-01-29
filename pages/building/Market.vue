@@ -61,7 +61,7 @@
                 <li>
                   <img class="gg" src="~assets/caravan.png" /><nuxt-link
                     to="/techs/Caravan"
-                    >大商隊</nuxt-link
+                    >商隊</nuxt-link
                   >
                 </li>
                 <li>
@@ -88,7 +88,7 @@
                 <li>
                   <img class="gg" src="~assets/guilds.png" /><nuxt-link
                     to="/techs/Guilds"
-                    >行會制度</nuxt-link
+                    >公會制度</nuxt-link
                   >
                 </li>
               </ul>
@@ -202,7 +202,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -211,7 +211,7 @@
             <td class="tta4">
               <img class="gg" src="~assets/guilds.png" /><nuxt-link
                 to="/techs/Guilds"
-                >行會制度</nuxt-link
+                >公會制度</nuxt-link
               >:在市場交易課稅減至15%
             </td>
           </tr>
@@ -235,7 +235,7 @@
               >黃金</nuxt-link
             >買進商品，玩家要在遊戲開始時，賣出4000單位的食物/木材(獲得1708黃金)或5500單位的石頭(獲得2926黃金)。研發<nuxt-link
               to="/techs/Guilds"
-              >行會制度</nuxt-link
+              >公會制度</nuxt-link
             >可減少商品交易費的一半(15%)，但只能在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
@@ -305,7 +305,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-              >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >的速度快80％。
             </li>
           </ul>
@@ -324,7 +324,7 @@
           </h3>
           <ul>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
-            <li>引入<nuxt-link to="/techs/Caravan">大商隊</nuxt-link>。</li>
+            <li>引入<nuxt-link to="/techs/Caravan">商隊</nuxt-link>。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>

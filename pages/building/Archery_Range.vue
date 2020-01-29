@@ -125,7 +125,7 @@
                     class="gg"
                     src="~assets/parthian_tactics.png"
                   /><nuxt-link to="/techs/Parthian_Tactics"
-                    >帕提亞戰術</nuxt-link
+                    >安息人戰術</nuxt-link
                   >
                 </li>
               </ul>
@@ -240,7 +240,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >（+20%建造效率）
             </td>
           </tr>
@@ -252,7 +252,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>（+33%）
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>（+33%）
             </td>
           </tr>
         </table>
@@ -305,7 +305,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >。
             </li>
           </ul>
@@ -346,7 +346,7 @@
           <ul>
             <li>引入<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>。</li>
             <li>
-              引入<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              引入<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
@@ -376,7 +376,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Acheryrangeicon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Acheryrangeicon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

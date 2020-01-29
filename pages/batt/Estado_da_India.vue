@@ -234,7 +234,7 @@
                 ><nuxt-link to="/techs">科技</nuxt-link>、<nuxt-link
                   to="/building/Castle"
                   >城堡</nuxt-link
-                >的<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+                >的<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
                 >，如果可以<nuxt-link to="/building/Dock">碼頭</nuxt-link
                 >研發<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
                 >、生產卡拉維爾戰船駐軍在碼頭裡。

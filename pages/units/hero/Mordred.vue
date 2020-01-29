@@ -81,10 +81,9 @@
               <nuxt-link to="/units/Spearman">槍兵</nuxt-link>系，<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，<nuxt-link
-                to="/units/Camel"
-                >駱駝騎兵</nuxt-link
-              >，<nuxt-link to="/units/Genoese_Crossbowman"
+              >，<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >，<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >
             </td>
@@ -102,7 +101,7 @@
               <p>
                 <img src="~assets/forging.png" width="30" alt="" /><nuxt-link
                   to="/techs/Forging"
-                  >鍛造</nuxt-link
+                  >鍛造技術</nuxt-link
                 >(+1)
               </p>
               <p>
@@ -110,7 +109,7 @@
                   src="~assets/iron_casting.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
+                /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
               </p>
               <p>
                 <img
@@ -129,7 +128,7 @@
                   src="~assets/scale_barding_armor.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+                /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
                 >(+1/+1)
               </p>
               <p>
@@ -137,7 +136,7 @@
                   src="~assets/Chainbardingarmor.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+                /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
                 >(+1/+1)
               </p>
               <p>
@@ -145,7 +144,7 @@
                   src="~assets/scale_barding_armor.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+                /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
                 >(+1/+2)
               </p>
             </td>
@@ -156,7 +155,7 @@
               <p>
                 <img src="~assets/husbandry.png" width="30" alt="" /><nuxt-link
                   to="/techs/Husbandry"
-                  >畜牧培育</nuxt-link
+                  >耕種技術</nuxt-link
                 >(+10%)
               </p>
             </td>

@@ -31,7 +31,7 @@
               >不需要黃金，而且擲矛器研發後阿茲矛兵的射程範圍可以超越弓兵的射程範圍。擲矛器可以有效地填補阿茲仍缺乏<nuxt-link
                 to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
-              >和<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+              >和<nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
               >的缺陷。且身為南美國家相當害怕<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link

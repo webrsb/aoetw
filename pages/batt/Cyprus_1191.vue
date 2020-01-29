@@ -287,7 +287,7 @@
             <li>
               現在你佔領了利馬索港，盡快地發展經濟及訓練部隊。你最後的敵人是賽普勒斯和伊薩克．科穆寧。賽普勒斯有<nuxt-link
                 to="/units/Cataphract"
-                >聖騎兵</nuxt-link
+                >拜占庭聖騎兵</nuxt-link
               >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
               >、衝撞車和<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
@@ -297,9 +297,10 @@
               >而且單位都會變成最強階段)，盡快升級到帝王時代並升級所有需要的<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              >，用長槍兵對付聖騎兵，<nuxt-link to="/units/Cavalry_Units"
+              >，用長槍兵對付拜占庭聖騎兵，<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
-              >對付戰矛兵，長弓兵加投石車掃射所有<nuxt-link to="/los.php"
+              >對付戰矛兵，長弓兵加投石車掃射所有<nuxt-link
+                to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >內的敵軍。你會需要<nuxt-link to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
@@ -307,7 +308,7 @@
                 >箭塔</nuxt-link
               >。伊薩克．科穆寧則有<nuxt-link to="/units/Paladin"
                 >遊俠</nuxt-link
-              >、戰矛兵、聖騎兵、<nuxt-link to="/units/Hussar"
+              >、戰矛兵、拜占庭聖騎兵、<nuxt-link to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
               >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
               >、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link

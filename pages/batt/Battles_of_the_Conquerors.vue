@@ -96,7 +96,7 @@
                     <nuxt-link to="/batt/Noryang_Point_1598"
                       >洛陽點（1598）</nuxt-link
                     >
-                    <p>文明：<nuxt-link to="/civs/Koreans">韓國</nuxt-link></p>
+                    <p>文明：<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link></p>
                   </li>
                 </ol>
               </div>
@@ -128,14 +128,14 @@
                   </li>
                 </ul>
                 <li>
-                  <nuxt-link to="/civs/Koreans">韓國</nuxt-link>戰役-<nuxt-link
+                  <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>戰役-<nuxt-link
                     to="/batt/Kyoto_1582"
                     >(洛陽點)</nuxt-link
                   >，英語原文Noryang Point，為翻譯錯誤，正確為露梁海戰。
                 </li>
                 <li>
                   在世紀帝國II：<nuxt-link to="/civs/Japanese">日本</nuxt-link
-                  >、韓國（沒有獨立篇章），<nuxt-link to="/civs/Chinese"
+                  >、朝鮮（沒有獨立篇章），<nuxt-link to="/civs/Chinese"
                     >中國</nuxt-link
                   >戰役直到2014年6月官方3.6更新<nuxt-link to="/games/aof"
                     >失落的帝國</nuxt-link

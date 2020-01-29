@@ -198,7 +198,7 @@
                 <li>
                   薩莫拉城在托洛城的西邊，橫跨杜羅河。此城由與我們友好的胡安勢力（紫）和與我們敵對的伊莎貝拉勢力（灰）分而治之。前者控制著北岸和老羅馬教堂，後者控制著聖塔瑪爾塔的佩尼亞斯，一個佈滿岩石的能俯瞰河面的橋的空地。雙方都有軍隊：長槍兵、<nuxt-link
                     to="/units/Condottiero"
-                    >僱傭兵</nuxt-link
+                    >傭兵</nuxt-link
                   >、弩兵、<nuxt-link to="/units/Siege_Weapons"
                     >攻城武器</nuxt-link
                   >和少數輕騎兵。

@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>奴隸兵</h1>
+        <h1>阿拉伯奴隸兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -19,62 +19,64 @@
           <p style="text-align: left;margin-top: 10px;">-遊戲的描述</p>
         </div>
         <div class="n1">
-          <b>奴隸兵</b>又稱為<b>馬穆魯克</b>。是<nuxt-link to="/civs/Saracens"
+          <b>阿拉伯奴隸兵</b>又稱為<b>馬穆魯克</b>。是<nuxt-link
+            to="/civs/Saracens"
             >薩拉森</nuxt-link
           >的特殊單位。對<nuxt-link to="/armor/Armor_Class_Cavalry"
             >騎兵</nuxt-link
           >有加成傷害的短距離(近戰傷害)<nuxt-link to="/armor/Armor_Class_Camel"
             >駱駝單位</nuxt-link
-          >。奴隸兵能夠在<nuxt-link to="/techs/age/Imperial_Age"
+          >。阿拉伯奴隸兵能夠在<nuxt-link to="/techs/age/Imperial_Age"
             >帝王時代</nuxt-link
-          >升級成<nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link>。
+          >升級成<nuxt-link to="/units/Mameluke">精銳阿拉伯奴隸兵</nuxt-link>。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            奴隸兵與<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+            阿拉伯奴隸兵與<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
             ><nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
             >相似，擁有短距離的近戰傷害單位。由於較高的機動性與對<nuxt-link
               to="/armor/Armor_Class_Cavalry"
               >騎兵</nuxt-link
-            >加成傷害，奴隸兵能完全壓制<nuxt-link to="/units/Infantry_Units"
+            >加成傷害，阿拉伯奴隸兵能完全壓制<nuxt-link
+              to="/units/Infantry_Units"
               >步兵</nuxt-link
             >(<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
             >除外)與<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-            >。排除昂貴的價格外，奴隸兵是眾人認可最優秀的單位。
+            >。排除昂貴的價格外，阿拉伯奴隸兵是眾人認可最優秀的單位。
           </p>
           <p>
             <nuxt-link to="/civs/Indians">印度</nuxt-link>的<nuxt-link
               to="/elements/Team_Bonus"
               >團隊加分</nuxt-link
-            >使奴隸兵攻擊<nuxt-link to="/building">建築物</nuxt-link
-            >額外+5，讓奴隸兵不止能對抗敵對的騎兵單位，也大大地提高拆除<nuxt-link
+            >使阿拉伯奴隸兵攻擊<nuxt-link to="/building">建築物</nuxt-link
+            >額外+5，讓阿拉伯奴隸兵不止能對抗敵對的騎兵單位，也大大地提高拆除<nuxt-link
               to="/building"
               >建築</nuxt-link
-            >的效率，讓奴隸兵更具侵略性。奴隸兵非常適合搭配<nuxt-link
+            >的效率，讓阿拉伯奴隸兵更具侵略性。阿拉伯奴隸兵非常適合搭配<nuxt-link
               to="/units/Camel"
               >駱駝騎兵</nuxt-link
             >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >與<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>。
           </p>
           <p>
-            雖然奴隸兵擁有+11騎兵加成抵免，但奴隸兵同時擁有<nuxt-link
+            雖然阿拉伯奴隸兵擁有+11騎兵加成抵免，但阿拉伯奴隸兵同時擁有<nuxt-link
               to="/armor/Armor_Class_Camel"
               >駱駝</nuxt-link
             >的<nuxt-link to="/armor">防禦類型</nuxt-link>，因此無法像<nuxt-link
               to="/civs/Byzantines"
               >拜占庭</nuxt-link
-            >的<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+            >的<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
             >抵抗<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>與<nuxt-link
               to="/units/Camel"
               >駱駝騎兵</nuxt-link
-            >的攻擊。奴隸兵也有<nuxt-link to="/armor/Armor_Class_Archer"
+            >的攻擊。阿拉伯奴隸兵也有<nuxt-link to="/armor/Armor_Class_Archer"
               >射手</nuxt-link
             >的防禦類型，必須提防<nuxt-link to="/units/Huskarl"
               >哥德衛隊</nuxt-link
             >與<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-            >的攻擊，不過奴隸兵屬於近戰傷害，還是能給予<nuxt-link
+            >的攻擊，不過阿拉伯奴隸兵屬於近戰傷害，還是能給予<nuxt-link
               to="/units/Huskarl"
               >哥德衛隊</nuxt-link
             >與<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>大量的傷害。
@@ -125,8 +127,11 @@
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link
-              >(+30，<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link> 限定)
+              /><nuxt-link to="/techs/Zealotry">狂熱</nuxt-link>(+30，<nuxt-link
+                to="/civs/Saracens"
+                >薩拉森</nuxt-link
+              >
+              限定)
               <br />
               <img
                 class="gg"
@@ -146,13 +151,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -169,21 +175,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -195,7 +201,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -225,15 +231,15 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
 
-        <h3>剋奴隸兵的單位</h3>
+        <h3>剋阿拉伯奴隸兵的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對奴隸兵的額外傷害，按造殺傷力排列。
+          以下單位擁有對阿拉伯奴隸兵的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -350,7 +356,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -386,7 +393,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -512,7 +519,7 @@
                 </ul>
               </div>
               <div class="col-md-12">
-                以下科技可讓以下單位對奴隸兵有額外攻擊力
+                以下科技可讓以下單位對阿拉伯奴隸兵有額外攻擊力
                 <div class="n1">
                   <img
                     class="gg"
@@ -604,7 +611,7 @@
                 </div>
               </div>
               <div class="col-md-12">
-                以下團隊加分可讓以下單位對奴隸兵有額外攻擊力
+                以下團隊加分可讓以下單位對阿拉伯奴隸兵有額外攻擊力
                 <div class="n1">
                   <nuxt-link to="/civs/Persians">波斯</nuxt-link
                   >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -627,7 +634,8 @@
                             class="gg"
                             src="~assets/CavalierIcon.png"
                             alt=""
-                          /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>→
+                          /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
+                          >→
                           <img
                             class="gg"
                             src="~assets/PaladinIcon.png"
@@ -650,28 +658,27 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高奴隸兵的生產速度還有加快<nuxt-link
+              >能夠提高阿拉伯奴隸兵的生產速度還有加快<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
-              >和<nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link
+                >徵兵技術</nuxt-link
+              >和<nuxt-link to="/techs/Zealotry">狂熱</nuxt-link
               >的研究時間(+25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研發<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >和<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >和<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >的速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>：奴隸兵對<nuxt-link
-                to="/building"
-                >建築物</nuxt-link
+              <nuxt-link to="/civs/Indians">印度</nuxt-link
+              >：阿拉伯奴隸兵對<nuxt-link to="/building">建築物</nuxt-link
               >攻擊力+5。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：奴隸兵更不容易被招降。
+              >：阿拉伯奴隸兵更不容易被招降。
             </li>
           </ul>
         </div>
@@ -682,10 +689,11 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>奴隸兵的移動速度是1.41。</li>
-            <li>非精銳奴隸兵的攻擊力為7。</li>
+            <li>阿拉伯奴隸兵的移動速度是1.41。</li>
+            <li>非精銳阿拉伯奴隸兵的攻擊力為7。</li>
             <li>
-              奴隸兵的<nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link
+              阿拉伯奴隸兵的<nuxt-link to="/elements/Frame_delay"
+                >開火間隔</nuxt-link
               >為0。
             </li>
           </ul>
@@ -693,9 +701,9 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>奴隸兵的移動速度是1.4。</li>
+            <li>阿拉伯奴隸兵的移動速度是1.4。</li>
             <li>
-              奴隸兵對反<nuxt-link to="/armor/Armor_Class_Cavalry"
+              阿拉伯奴隸兵對反<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >攻擊會承受額外11點傷害。另外他們也增加新的防禦類型:<nuxt-link
                 to="/units/Naval_Vessels"
@@ -706,43 +714,44 @@
             </li>
             <li>引進<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>。</li>
             <li>引進<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
-            <li>引進<nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link>。</li>
+            <li>引進<nuxt-link to="/techs/Zealotry">狂熱</nuxt-link>。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>非精銳奴隸兵現在的攻擊力為8。</li>
+            <li>非精銳阿拉伯奴隸兵現在的攻擊力為8。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              奴隸兵從<nuxt-link to="/armor/Armor_Class_Ship">船艦</nuxt-link
+              阿拉伯奴隸兵從<nuxt-link to="/armor/Armor_Class_Ship"
+                >船艦</nuxt-link
               >護甲移除，新增<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝護甲</nuxt-link
               >。
             </li>
-            <li>4.8版本後精銳奴隸兵的開火間隔為5。</li>
+            <li>4.8版本後精銳阿拉伯奴隸兵的開火間隔為5。</li>
           </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>奴隸兵有全遊戲最便宜的精銳升級，總計1100資源。</li>
-            <li>歷史上的奴隸兵應該是騎馬，而不是駱駝。</li>
+            <li>阿拉伯奴隸兵有全遊戲最便宜的精銳升級，總計1100資源。</li>
+            <li>歷史上的阿拉伯奴隸兵應該是騎馬，而不是駱駝。</li>
           </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            部分原因是伊斯蘭教早期的信徒不會互相爭鬥，這些奴隸兵是各個阿拉伯領導人作為戰士訓練的奴隸。奴隸戰士不須遵守這個互相爭鬥的禁令。奴隸兵訓練有素，動力十足。來自埃及的奴隸兵軍隊在敘利亞罕見地擊敗了<nuxt-link
+            部分原因是伊斯蘭教早期的信徒不會互相爭鬥，這些阿拉伯奴隸兵是各個阿拉伯領導人作為戰士訓練的奴隸。奴隸戰士不須遵守這個互相爭鬥的禁令。阿拉伯奴隸兵訓練有素，動力十足。來自埃及的阿拉伯奴隸兵軍隊在敘利亞罕見地擊敗了<nuxt-link
               to="/civs/Mongols"
               >蒙古人</nuxt-link
-            >，將這些野蠻人騎兵從尼羅河和北非驅除出境。奴隸兵順勢揭竿起來反對他們的阿拉伯統治者並解放了自己。當拿破崙在十八世紀入侵埃及時，他在金字塔之戰中擊敗了一支奴隸兵軍隊。
+            >，將這些野蠻人騎兵從尼羅河和北非驅除出境。阿拉伯奴隸兵順勢揭竿起來反對他們的阿拉伯統治者並解放了自己。當拿破崙在十八世紀入侵埃及時，他在金字塔之戰中擊敗了一支阿拉伯奴隸兵軍隊。
           </p>
         </div>
         <h3>圖庫</h3>
@@ -752,19 +761,23 @@
             <gallery
               ><img class="imgn hg" src="~assets/Saracenmamluk.png" alt=""
             /></gallery>
-            <p><em>奴隸兵</em></p>
+            <p><em>阿拉伯奴隸兵</em></p>
           </div>
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Mameluke.png" alt=""
             /></gallery>
-            <p><em>一群奴隸兵</em></p>
+            <p><em>一群阿拉伯奴隸兵</em></p>
           </div>
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Mameluke_history.jpg" alt=""
             /></gallery>
-            <p><em>歷史上的奴隸兵，注意他是騎著馬而非像遊戲中騎著駱駝。</em></p>
+            <p>
+              <em
+                >歷史上的阿拉伯奴隸兵，注意他是騎著馬而非像遊戲中騎著駱駝。</em
+              >
+            </p>
           </div>
         </div>
       </div>
@@ -772,13 +785,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle" style="color: #fff">奴隸兵</div>
+              <div class="unititle" style="color: #fff">阿拉伯奴隸兵</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Saracenmamluk_icon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Saracenmamluk_icon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -926,7 +943,7 @@
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              />精銳奴隸兵
+              />精銳阿拉伯奴隸兵
             </td>
           </tr>
           <tr>

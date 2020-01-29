@@ -85,8 +85,7 @@
             >與<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >可以給敵人很大的壓力，但馬來既沒有<nuxt-link to="/techs/Bloodlines"
               >品種</nuxt-link
-            >也沒有<nuxt-link to="/techs/Chain_Barding_Armor"
-              >騎兵鎖甲</nuxt-link
+            >也沒有<nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
             >，不過因為造價便宜，而且馬來有<nuxt-link to="/techs/Faith"
               >忠誠信仰</nuxt-link
             >和<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
@@ -100,7 +99,7 @@
             >，但有<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
             >、防禦也全滿，可以充當肉盾來保護越南優秀的弓箭手。不過越南的矛象伕走的非常慢，因為沒有<nuxt-link
               to="/techs/Husbandry"
-              >畜牧培育</nuxt-link
+              >耕種技術</nuxt-link
             >。
           </ul>
           <p>
@@ -110,7 +109,7 @@
             >無虞下，其功能取代了<nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >。在東南亞有象的國家出現後，世界頂尖高手團戰，自選文明時已不再只會出現<nuxt-link
               to="/civs/Huns"
-              >匈奴</nuxt-link
+              >匈人</nuxt-link
             >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>和<nuxt-link
               to="/civs/Spanish"
               >西班牙</nuxt-link
@@ -143,9 +142,8 @@
                 >槍隊長</nuxt-link
               >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/units/Heavy_Camel"
-                >重裝駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
@@ -185,13 +183,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -223,21 +222,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2) <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Howdah"
@@ -253,7 +252,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -280,7 +279,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
             </td>
           </tr>
@@ -398,7 +397,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -436,7 +436,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -582,7 +582,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >免費。
             </li>
           </ul>
@@ -595,14 +595,14 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >和對矛象伕有利科技的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：矛象伕生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -711,7 +711,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Battleelephanticon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Battleelephanticon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

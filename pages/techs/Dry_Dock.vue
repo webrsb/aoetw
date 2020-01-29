@@ -2,20 +2,21 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>旱碼頭</h1>
+        <h1>船塢</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>旱碼頭</b>是於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>船塢</b>(2013版稱<b>旱碼頭</b>)是於<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >研發。研發後<nuxt-link to="/units/Naval_Vessels"
               >所有船隻</nuxt-link
             >速度增加15％，<nuxt-link to="/units/Transport_Ship"
               >運輸船</nuxt-link
-            >的容量增加10（共乘載20人）。旱碼頭不會提高<nuxt-link
+            >的容量增加10（共乘載20人）。船塢不會提高<nuxt-link
               to="/units/Trade_Cog"
               >貿易商旅</nuxt-link
             >的效率，雖然它們的速度仍舊會增加，但是為了彌補這種影響，每趟賺取的<nuxt-link
@@ -41,7 +42,7 @@
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
@@ -49,7 +50,7 @@
                 >義大利</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
@@ -104,16 +105,16 @@
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
+                >航海技術</nuxt-link
               >在帝王時代成本便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
-              >：傾側維修術便宜50%。
+              >：航海技術便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：傾側維修術在帝王時代研究速度快20%。
+              >：航海技術在帝王時代研究速度快20%。
             </li>
           </ul>
         </div>
@@ -129,7 +130,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">旱碼頭</div>
+              <div class="unititle2">船塢</div>
             </td>
           </tr>
           <tr>
@@ -173,7 +174,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/careening.png" alt="" /><nuxt-link
                 to="/techs/Careening"
-                >傾側維修術</nuxt-link
+                >航海技術</nuxt-link
               >
             </td>
           </tr>

@@ -49,12 +49,12 @@
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>→
+              /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+              /><nuxt-link to="/units/Mameluke">精銳阿拉伯奴隸兵</nuxt-link
               >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
             </li>
             <li>

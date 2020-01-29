@@ -137,7 +137,7 @@
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link
               >:攻城器製造所的單位+40% HP。<nuxt-link to="/civs/Celts"
                 >塞爾特</nuxt-link
               >限定
@@ -177,7 +177,7 @@
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Drill">演習</nuxt-link
+              /><nuxt-link to="/techs/Drill">鑿岩機</nuxt-link
               >:攻城器製造所的單位移動速度+50%，<nuxt-link to="/civs/Mongols"
                 >蒙古</nuxt-link
               >限定
@@ -228,7 +228,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -447,13 +447,13 @@
               <li>
                 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >塞爾特狂暴</nuxt-link
+                  >塞爾特狂熱</nuxt-link
                 >給予衝撞車多50%的HP。
               </li>
               <li>
                 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
                   to="/techs/Drill"
-                  >演習</nuxt-link
+                  >鑿岩機</nuxt-link
                 >引進。
               </li>
             </ul>
@@ -465,7 +465,7 @@
               <li>
                 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >塞爾特狂暴</nuxt-link
+                  >塞爾特狂熱</nuxt-link
                 >給予衝撞車多40%的HP。
               </li>
               <li>
@@ -489,7 +489,7 @@
                 >(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link
                   to="/units/edmap/King"
                   >國王</nuxt-link
-                >、<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+                >、<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
                 >)，而到了<nuxt-link to="/games/aof">失落的帝國</nuxt-link
                 >才能讓村民駐軍衝撞車。另外有國外的網友在實驗衝撞車單位時，發現了一有趣的現象，<nuxt-link
                   to="/units/Longbowman"
@@ -586,7 +586,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/BatteringRamIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/BatteringRamIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

@@ -29,9 +29,9 @@
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >的升級，但還是優先研發<nuxt-link to="/techs/Fletching"
-                >箭羽</nuxt-link
-              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
-              >和<nuxt-link to="/techs/Bracer">護腕</nuxt-link
+                >絕世好箭</nuxt-link
+              >、<nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
               >因為這三樣不僅有加成所有範圍單位、有加<nuxt-link
                 to="/elements/Attack"
                 >攻擊力</nuxt-link
@@ -84,7 +84,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech_imperial.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

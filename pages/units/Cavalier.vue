@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>騎兵</h1>
+        <h1>重裝騎士</h1>
         <div class="hrn1"></div>
         <div class="spw">
           <em
@@ -21,7 +21,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>騎兵</b>是<nuxt-link to="/techs/age/Imperial_Age"
+            <b>重裝騎士</b>是<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >，在帝王時代最優勢的兵種之一，對於<nuxt-link to="/units/Monk"
@@ -55,13 +55,13 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Italians"
                 >義大利</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -105,7 +105,7 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          騎兵在帝王時代比<nuxt-link to="/techs/age/Castle_Age"
+          重裝騎士在帝王時代比<nuxt-link to="/techs/age/Castle_Age"
             >城堡時代</nuxt-link
           >擁有更多的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
           >與<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
@@ -145,13 +145,11 @@
               >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-              >、<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/units/Camel"
-                >駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
-                to="/units/War_Elephant"
-                >戰象</nuxt-link
-              >。
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -180,13 +178,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/blast_furnace.png"
@@ -206,7 +205,7 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
-              >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
+              >:重裝騎士對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
@@ -221,21 +220,21 @@
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              /><nuxt-link to="/techs/Scale_Barding_Armor">鱗鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/scale_barding_armor.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
             </td>
           </tr>
@@ -247,7 +246,7 @@
                 src="~assets/husbandry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -276,7 +275,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br />
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
                 to="/techs/Chivalry"
@@ -288,10 +287,10 @@
           </tr>
         </table>
 
-        <h3>剋騎兵的單位與建築</h3>
+        <h3>剋重裝騎士的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對騎兵的額外傷害，按照殺傷力排列。
+          以下單位擁有對重裝騎士的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -367,7 +366,8 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                   <li>
@@ -395,7 +395,7 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -459,7 +459,7 @@
               </div>
             </div>
           </div>
-          以下科技可讓以下單位對騎兵有額外攻擊力
+          以下科技可讓以下單位對重裝騎士有額外攻擊力
           <div class="n1">
             <img
               class="gg"
@@ -542,7 +542,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：騎兵在帝王時代便宜15%/20%。
+              >：重裝騎士在帝王時代便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
@@ -558,27 +558,27 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對騎兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >：對重裝騎士有利的<nuxt-link to="/techs">科技</nuxt-link
               >研發在帝王時代各便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >：騎兵血量多20%，研發<nuxt-link to="/techs/Chivalry"
+              >：重裝騎士血量多20%，研發<nuxt-link to="/techs/Chivalry"
                 >騎士精神</nuxt-link
-              >後，<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >後，<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >的研發速度和升級<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >的時間都加快40%
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
                 to="/techs/Forging"
-                >鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+                >鍛造技術</nuxt-link
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
               >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>科技
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：騎兵<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >：重裝騎士<nuxt-link to="/resource/Gold">黃金</nuxt-link
               >成本便宜15%。
             </li>
             <li>
@@ -590,7 +590,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >免費。
             </li>
           </ul>
@@ -603,28 +603,28 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：騎兵+2視野。
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：重裝騎士+2視野。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >：騎兵生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
+              >：重裝騎士生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>：騎兵對<nuxt-link
-                to="/armor/Armor_Class_Archer"
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
+              >：重裝騎士對<nuxt-link to="/armor/Armor_Class_Archer"
                 >射手類</nuxt-link
               >+2攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：騎兵對僧侶抵抗力更強。
+              >：重裝騎士對僧侶抵抗力更強。
             </li>
           </ul>
         </div>
@@ -666,7 +666,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/cavaliers.png" alt=""
               /></gallery>
-              <p><em>一群騎兵。</em></p>
+              <p><em>一群重裝騎士。</em></p>
             </div>
           </div>
         </div>
@@ -675,7 +675,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">騎兵</div>
+              <div class="unititle2">重裝騎士</div>
             </td>
           </tr>
           <tr>

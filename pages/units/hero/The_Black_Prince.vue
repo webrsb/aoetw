@@ -18,7 +18,8 @@
             >皇室愛德華，他以"黑親王"這個稱號為綽號，最著名的是他在百年戰爭中的克雷西和普瓦捷戰役中戰勝<nuxt-link
               to="/civs/Franks"
               >法國</nuxt-link
-            >人而出名。黑親王有<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
+            >人而出名。黑親王有<nuxt-link to="/units/Cavalier"
+              >重裝騎士</nuxt-link
             >的外貌，他會受騎兵<nuxt-link to="/techs">科技</nuxt-link
             >和其他加成的影響。由於他屬於<nuxt-link to="/units/hero"
               >英雄</nuxt-link

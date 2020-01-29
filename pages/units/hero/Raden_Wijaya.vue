@@ -17,7 +17,7 @@
             羅登·韋查耶是根據創立滿者伯夷王國的真實<nuxt-link to="/civs/Malay"
               >馬來</nuxt-link
             >國王名字所取的，在遊戲中的外貌是<nuxt-link to="/units/Cavalier"
-              >騎兵</nuxt-link
+              >重裝騎士</nuxt-link
             >。羅登·韋查耶會受到所有騎兵加成<nuxt-link to="/techs"
               >科技</nuxt-link
             >的影響，他不能被<nuxt-link to="/elements/Conversion"

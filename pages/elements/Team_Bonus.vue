@@ -125,7 +125,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <nuxt-link to="/civs/Huns">匈奴</nuxt-link>
+                    <nuxt-link to="/civs/Huns">匈人</nuxt-link>
                   </td>
                   <td>
                     <nuxt-link to="/building/Stable">馬廄</nuxt-link
@@ -181,7 +181,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+                    <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
                   </td>
                   <td>
                     <nuxt-link to="/units/Mangonel">投石車</nuxt-link

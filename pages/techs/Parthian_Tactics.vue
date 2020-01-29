@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>帕提亞戰術</h1>
+        <h1>安息人戰術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>帕提亞戰術</b>(舊稱<b>安息人戰術</b>)在<nuxt-link
+            <b>安息人戰術</b>(2013<b>版稱帕提亞戰術</b>)在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >於<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
@@ -38,7 +38,7 @@
               </h4>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
@@ -87,7 +87,7 @@
                 >義大利</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
@@ -108,9 +108,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            下面列出所有受帕提亞戰術影響的單位，(<nuxt-link to="/civs/Berbers"
+            下面列出所有受安息人戰術影響的單位，(<nuxt-link to="/civs/Berbers"
               >柏柏</nuxt-link
-            >沒有帕提亞戰術)。
+            >沒有安息人戰術)。
           </p>
         </div>
         <table class="table-bordered" width="100%">
@@ -190,7 +190,7 @@
               >標槍騎兵</nuxt-link
             >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
             >雖然是騎馬的<nuxt-link to="/units/Archer">弓箭手</nuxt-link
-            >，但他們不受帕提亞戰術的影響。
+            >，但他們不受安息人戰術的影響。
           </p>
         </table>
 
@@ -226,14 +226,18 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2">
-                帕提亞戰術
+                安息人戰術
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/parthian_tactics.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/parthian_tactics.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

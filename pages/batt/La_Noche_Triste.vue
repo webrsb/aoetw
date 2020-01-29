@@ -121,7 +121,7 @@
                     src="~assets/FastFireShipIcon.png"
                     class="gg"
                     alt=""
-                  /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+                  /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link
                   >2個
                 </li>
               </ul>
@@ -226,7 +226,7 @@
               </li>
               <li>
                 西班牙人佔領了特諾奇提特蘭。<nuxt-link to="/units/Conquistador"
-                  >征服者</nuxt-link
+                  >西班牙征服者</nuxt-link
                 >，<nuxt-link to="/units/Missionary">傳教士</nuxt-link
                 >和<nuxt-link to="/units/Mangonel">投石車</nuxt-link
                 >對阿茲特克的步兵來說是頭疼的麻煩。
@@ -255,7 +255,7 @@
               >攻擊你。你可以試著用任何一個士兵把它引到岸邊，用你的中型投石車把它摧毀，或者試著用你的僧侶來招降它（被征服的阿茲特克人有研究<nuxt-link
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
-              >，所以它將會沉沒）繼續過橋，直到你到達特諾奇提特蘭，你將在港口獲得兩艘快速火戰船和幾艘運輸船。附近會有兩個征服者，殺死他們!
+              >，所以它將會沉沒）繼續過橋，直到你到達特諾奇提特蘭，你將在港口獲得兩艘重型火戰船和幾艘運輸船。附近會有兩個西班牙征服者，殺死他們!
             </li>
             <li>
               當系統要求你穿越湖面到地圖的東部並在那裡建立基地時，實際上即使沒有這樣做的情況下也能獲得勝利。有良好的微操作，只要你還有中型投石車，就可以簡單地開始摧毀這個時刻就在你旁邊的世界奇觀，而且還應該在建設中。你只需要摧毀一個屬於被征服的阿茲特克人的門，並開始攻擊這個世界奇觀。殺死正在建造它的村民，用你的中型投石車和步兵來摧毀這個奇觀，同時保護你的投石車。請注意，有兩個被征服的阿茲台克<nuxt-link

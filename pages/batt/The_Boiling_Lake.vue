@@ -32,7 +32,7 @@
               >貿易車隊</nuxt-link
             >移動到他們的軍事島上換取大砲，並抓住馬匹來獲得<nuxt-link
               to="/units/Tarkan"
-              >韃靼騎兵</nuxt-link
+              >答剌罕騎兵</nuxt-link
             >，這些都是阿茲特克人平常不能使用的東西。
           </p>
         </div>
@@ -161,7 +161,7 @@
                   <li>
                     將奪得的貿易車隊和馬匹帶到火把處會讓你得到新的單位。馬會變成<nuxt-link
                       to="/units/Tarkan"
-                      >精銳韃靼騎兵</nuxt-link
+                      >精銳答剌罕騎兵</nuxt-link
                     >，貿易車隊會變成<nuxt-link to="/units/Bombard_Cannon"
                       >火砲</nuxt-link
                     >。
@@ -230,7 +230,7 @@
               在地圖西部的湖面上有金礦和石礦，玩家在那裡擁有三座守衛塔。玩家應該盡快在那裡採礦，同時準備防禦敵人。
             </li>
             <li>
-              玩家可以在湖上收集馬匹和貿易車隊，分別可以在火把處換到精銳韃靼騎兵和火砲。請注意，新世界<nuxt-link
+              玩家可以在湖上收集馬匹和貿易車隊，分別可以在火把處換到精銳答剌罕騎兵和火砲。請注意，新世界<nuxt-link
                 to="/civs"
                 >文明</nuxt-link
               >通常無法訓練騎兵和<nuxt-link to="/units/Gunpowder_Unit"

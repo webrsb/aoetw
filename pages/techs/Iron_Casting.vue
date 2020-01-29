@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>鑄造</h1>
+        <h1>鑄造技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>鑄造</b>可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>鑄造技術</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
@@ -49,7 +49,7 @@
           <p>
             “將鐵水澆鑄到模具中以形成複雜的形狀的技術被稱為鑄造，這對於製造鐵鍛工具和武器非常有用，這些工具和武器通常不易通過<nuxt-link
               to="/techs/Forging"
-              >鍛造</nuxt-link
+              >鍛造技術</nuxt-link
             >加速製造過程。在鑄造這項技術到達歐洲之前的幾個世紀，中國已經發現了這種技術。當製造商試圖找出如何製造大砲時，鑄造大型金屬物體的能力變得尤為重要。“
           </p>
         </div>
@@ -58,7 +58,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">鑄造</div>
+              <div class="unititle2">鑄造技術</div>
             </td>
           </tr>
           <tr>
@@ -96,7 +96,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/forging.png" alt="" /><nuxt-link
                 to="/techs/Forging"
-                >鍛造</nuxt-link
+                >鍛造技術</nuxt-link
               >
             </td>
           </tr>

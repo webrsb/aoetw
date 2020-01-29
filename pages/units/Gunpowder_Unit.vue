@@ -27,7 +27,7 @@
             >)在帝王時代的<nuxt-link to="/building/University">學院</nuxt-link
             >研發化學後可以訓練。<nuxt-link to="/units/Janissary"
               >土耳其火槍兵</nuxt-link
-            >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+            >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
             >、<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>、<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
@@ -41,7 +41,7 @@
             在"失落的帝國"資料片前，所有中東文明都可以使用普通的火藥單位，這意味著中世紀該地區的科學進步顯著。<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克人</nuxt-link
-            >，<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>，<nuxt-link
+            >，<nuxt-link to="/civs/Huns">匈人</nuxt-link>，<nuxt-link
               to="/civs/Incas"
               >印加人</nuxt-link
             >和<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link>必須靠<nuxt-link
@@ -305,7 +305,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/ConquistadorIcon.png" /><nuxt-link
                   to="/units/Conquistador"
-                  >征服者</nuxt-link
+                  >西班牙征服者</nuxt-link
                 >
               </td>
               <td class="tta3">55</td>

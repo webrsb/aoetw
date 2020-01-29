@@ -29,17 +29,17 @@
               ><nuxt-link to="/techs">科技</nuxt-link>、<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >和<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >和<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >可以加在大象身上。如果玩家在初期想以<nuxt-link
                 to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
               >作為<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
               >的主要單位，象牙劍也許可以比<nuxt-link to="/techs/Forging"
-                >鍛造</nuxt-link
+                >鍛造技術</nuxt-link
               >技術優先研發。但在一般情況下應該將其看作一項<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >技術並在<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >技術並在<nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
               >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
               >研發後再研發象牙劍。
             </li>

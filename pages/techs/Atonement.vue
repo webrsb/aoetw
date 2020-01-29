@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>贖罪</h1>
+        <h1>救贖思想</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>贖罪</b>可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>救贖思想</b>(2013版稱<b>贖罪思想</b>)可於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link
             >研發，<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -45,7 +46,7 @@
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Italians"
                 >義大利</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
@@ -90,7 +91,7 @@
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Persians"
                 >波斯</nuxt-link
@@ -130,7 +131,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">贖罪</div>
+              <div class="unititle2">救贖思想</div>
             </td>
           </tr>
           <tr>

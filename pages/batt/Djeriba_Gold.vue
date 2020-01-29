@@ -115,7 +115,7 @@
           <li>
             大地之母<nuxt-link to="/building">建築</nuxt-link>單位 -<nuxt-link
               to="/building/Watch_Tower"
-              >暸望箭塔</nuxt-link
+              >暸望台</nuxt-link
             >x3、<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >x1、<nuxt-link to="/building/Stable">馬廄</nuxt-link>x1、<nuxt-link
               to="/units//building/Siege_Workshop"

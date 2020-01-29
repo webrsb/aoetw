@@ -57,8 +57,9 @@
             <li>
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >最怕就是<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >跟<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-              >還有<nuxt-link to="/units/Archer_Units">矛兵</nuxt-link
+              >跟<nuxt-link to="/units/Archer">弓兵</nuxt-link>還有<nuxt-link
+                to="/units/Skirmisher"
+                >矛兵</nuxt-link
               >，但是<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >在大數量時是可以吃掉<nuxt-link to="/units/Archer_Units"
                 >弓兵</nuxt-link
@@ -82,7 +83,7 @@
               ><nuxt-link to="/building/Castle">城堡</nuxt-link
               >擁有全遊戲最遠的射程13(需研發帝王時代特殊科技<nuxt-link
                 to="/techs/Crenellations"
-                >垛口</nuxt-link
+                >砲門垛口</nuxt-link
               >)，因此除了土耳其<nuxt-link to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
               >(要研發帝王時代特殊科技<nuxt-link to="/techs/Artillery"
@@ -138,7 +139,7 @@
             </li>
             <li>
               海戰系統上除了<nuxt-link to="/units/Fast_Fire_Ship"
-                >快速火戰船</nuxt-link
+                >重型火戰船</nuxt-link
               >沒有以外其餘都很齊全，攻城器沒有<nuxt-link to="/units/Onager"
                 >中型投石車</nuxt-link
               >/<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
@@ -148,9 +149,9 @@
             <li>
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>系統上欠缺<nuxt-link
                 to="/techs/Herbal_Medicine"
-                >草藥學</nuxt-link
-              >/<nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
-              >/<nuxt-link to="/techs/Illumination">啟發教化</nuxt-link
+                >草藥治療</nuxt-link
+              >/<nuxt-link to="/techs/Block_Printing">印刷技術</nuxt-link
+              >/<nuxt-link to="/techs/Illumination">啟示思想</nuxt-link
               >，因此<nuxt-link to="/units/Monk">僧侶</nuxt-link
               >進攻上有一定難度。
             </li>
@@ -158,7 +159,7 @@
               <nuxt-link to="/units/Gunpowder_Unit">火槍兵</nuxt-link
               >和<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >是很吃肉的單位，但是<nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >沒有<nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
+              >沒有<nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
               >因此後期需要更多<nuxt-link to="/units/Villager">村民</nuxt-link
               >種田來支撐<nuxt-link to="/resource/Food">食物</nuxt-link
               >的消耗，<nuxt-link to="/resource/Gold">黃金</nuxt-link

@@ -35,7 +35,7 @@
               >時能存活得更久。
             </li>
             <li>
-              結合<nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link
+              結合<nuxt-link to="/techs/Sappers">兵工學</nuxt-link
               >，村民可以在進攻中用來破壞敵人的<nuxt-link to="/building"
                 >建築物</nuxt-link
               >。這對電腦AI特別有效，因為如果他們的部隊在別處時他們經常忽略村民。但是要記住，研究霸權不會把村民變成正規的軍隊，所以在微操作上仍是困難的，因為他們不會自動攻擊敵人。
@@ -50,7 +50,7 @@
                 to="/elements/Conversion"
                 >招降</nuxt-link
               >村民的舉動實際上跟招降<nuxt-link to="/units/Conquistador"
-                >征服者</nuxt-link
+                >西班牙征服者</nuxt-link
               >和<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >等貴重單位比起來沒有什麼價值。
             </li>
@@ -97,7 +97,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech_imperial.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

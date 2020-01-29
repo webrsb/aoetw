@@ -46,7 +46,7 @@
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Saracens"
                 >薩拉森</nuxt-link
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
@@ -73,7 +73,7 @@
                 >衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
@@ -130,8 +130,7 @@
             <li>所有<nuxt-link to="/civs">文明</nuxt-link>都有箭狹槽。</li>
             <li>成本150食物/150木材。</li>
             <li>
-              箭狹槽給予<nuxt-link to="/building/Watch_Tower"
-                >暸望箭塔</nuxt-link
+              箭狹槽給予<nuxt-link to="/building/Watch_Tower">暸望台</nuxt-link
               >/<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >/<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >+2/+4/+6的攻擊。
@@ -140,7 +139,7 @@
             <li>4.8版後，箭狹槽到帝王時代才能研發。</li>
             <li>4.8版後，有11個文明無法使用。</li>
             <li>4.8版後，成本為250食物/250木材。</li>
-            <li>4.8版後，給暸望箭塔/防禦箭塔/大型箭塔+1/+2/+3的攻擊。</li>
+            <li>4.8版後，給暸望台/防禦箭塔/大型箭塔+1/+2/+3的攻擊。</li>
             <li>
               4.8版後，會影響<nuxt-link to="/building/Watch_Tower"
                 >箭塔</nuxt-link

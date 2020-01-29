@@ -115,7 +115,7 @@
                 >中國</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
@@ -150,7 +150,7 @@
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
@@ -230,20 +230,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -255,7 +255,7 @@
                 src="~assets/heated_shot.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+              /><nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link
               >(+125%，僅對<nuxt-link to="/armor/Armor_Class_Ship"
                 >船隻</nuxt-link
               >) <br />
@@ -269,26 +269,26 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Murderholes.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
+              /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link
               >:消除最小射程<br />
               <img
                 class="gg"
@@ -390,7 +390,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%)
             </td>
           </tr>
@@ -402,7 +402,7 @@
                 src="~assets/Herbalmedicine.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+              /><nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link
               >:駐紮單位治療速度加快
             </td>
           </tr>
@@ -424,7 +424,7 @@
               >：科技在帝王時代便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >：火砲塔科技免費。同時建造速度快33%。
             </li>
             <li>
@@ -434,7 +434,7 @@
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：駐紮單位提升到10人，<nuxt-link to="/techs/Murder_Holes"
-                >垛孔</nuxt-link
+                >近射孔</nuxt-link
               >科技免費。
             </li>
             <li>
@@ -501,7 +501,7 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>蓋火砲塔速度快33％。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>蓋火砲塔速度快33％。
             </li>
           </ul>
           <h3>

@@ -38,9 +38,8 @@
               飛刀女獵手是<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
               >步兵單位，與<nuxt-link to="/units/Throwing_Axeman"
                 >擲斧兵</nuxt-link
-              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>和<nuxt-link
-                to="/units/Kamayuk"
-                >槍隊長</nuxt-link
+              >，<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >和<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
               >一樣是遠距離造成近戰傷害。飛刀女獵手的射程最長，攻擊最高，移動速度也最快。雖然缺乏基礎護甲和低HP，但還是能夠造成相當可觀的傷害。由於他們移動速度相當快，他們可以對除了<nuxt-link
                 to="/units/Elite_Eagle_Warrior"
                 >精銳鷹勇士</nuxt-link
@@ -79,7 +78,7 @@
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
               >。最後，<nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >沒有<nuxt-link to="/techs/Bracer">護腕</nuxt-link
+              >沒有<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link
               >，而且完全升級後的精銳飛刀女獵手會比<nuxt-link
                 to="/units/Heavy_Cavalry_Archer"
@@ -152,13 +151,14 @@
                 src="~assets/forging.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Forging">鍛造技術</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              <br />
               <img
                 class="gg"
                 src="~assets/Arson.png"
@@ -185,7 +185,7 @@
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
               >(+1/+1) <br />
               <img
                 class="gg"
@@ -204,7 +204,7 @@
                 src="~assets/squires.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -247,7 +247,7 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
         </table>
@@ -284,7 +284,8 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
@@ -347,7 +348,7 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -385,7 +386,7 @@
             src="~assets/unique_tech_imperial.png"
             width="22"
             alt=""
-          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
+          /><nuxt-link to="/techs/Logistica">後勤</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -393,12 +394,12 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+              /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
               >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
             </li>
           </ul>
@@ -413,14 +414,14 @@
                 >聚居堡壘</nuxt-link
               >能夠提高飛刀女獵手的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >的時間快20%。

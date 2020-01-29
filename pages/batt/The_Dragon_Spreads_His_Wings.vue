@@ -13,7 +13,7 @@
             >》<nuxt-link to="/batt/Draculaa">德古拉戰役</nuxt-link
             >的第一個場景。<nuxt-link to="/batt">戰役</nuxt-link
             >中弗拉德·<nuxt-link to="/batt/Draculaa">德古拉</nuxt-link
-            >要收回他父親的領土，瓦拉幾亞，承諾成為<nuxt-link
+            >要收回他父親的領土，瓦拉幾亞，臨終夙願成為<nuxt-link
               to="/techs/Sultans"
               >蘇丹</nuxt-link
             >穆拉德二世的附庸，並與伏伊伏德·丹尼<nuxt-link to="/civs/Slavs"
@@ -75,7 +75,7 @@
               玩家6
             </td>
             <td class="tc6">
-              瓦拉幾亞土著（灰色）<nuxt-link to="/civs/Huns">匈奴</nuxt-link>
+              瓦拉幾亞土著（灰色）<nuxt-link to="/civs/Huns">匈人</nuxt-link>
             </td>
           </tr>
           <tr>

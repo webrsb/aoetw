@@ -56,12 +56,14 @@
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/CataphractIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
+                    /><nuxt-link to="/units/Cataphract"
+                      >精銳拜占庭聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
@@ -171,12 +173,13 @@
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>→
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/Saracenmamluk_icon.png"
                       alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
@@ -262,13 +265,13 @@
                       class="gg"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>→
+                    /><nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/TarkanIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
+                    /><nuxt-link to="/units/Tarkan">精銳答剌罕騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
                   </li>
                 </ul>
                 <ul>
@@ -283,7 +286,7 @@
                       src="~assets/WarWagonIcon.png"
                       alt=""
                     /><nuxt-link to="/units/War_Wagon">精銳馬戰車</nuxt-link
-                    >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+                    >(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
                   </li>
                 </ul>
                 <ul>
@@ -298,7 +301,7 @@
                       src="~assets/TurtleShipIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
-                    >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
+                    >(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
                   </li>
                 </ul>
                 <ul>
@@ -326,7 +329,9 @@
                       class="gg"
                       src="~assets/ConquistadorIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>→
+                    /><nuxt-link to="/units/Conquistador"
+                      >西班牙征服者</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/ConquistadorIcon.png"

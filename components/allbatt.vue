@@ -81,7 +81,7 @@
               <nuxt-link to="/batt/Into_China">入主中原</nuxt-link>•
               <nuxt-link to="/batt/The_Horde_Rides_West"
                 >策馬西征</nuxt-link
-              >• <nuxt-link to="/batt/The_Promise">承諾</nuxt-link>•
+              >• <nuxt-link to="/batt/The_Promise">臨終夙願</nuxt-link>•
               <nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
             </td>
           </tr>

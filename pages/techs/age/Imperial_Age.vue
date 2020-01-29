@@ -14,7 +14,7 @@
               >火藥單位</nuxt-link
             >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Huns"
-              >匈奴</nuxt-link
+              >匈人</nuxt-link
             >、<nuxt-link to="/civs/Incas">印加</nuxt-link>和<nuxt-link
               to="/civs/Mayans"
               >馬雅</nuxt-link
@@ -226,7 +226,8 @@
                 src="~assets/CavalierIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>：重裝騎兵單位。
+              /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
+              >：重裝騎兵單位。
             </li>
             <li>
               <img
@@ -361,7 +362,7 @@
                 src="~assets/FastFireShipIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+              /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link
               >：噴火的戰船。
             </li>
             <li>
@@ -371,7 +372,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Heavy_Demolition_Ship"
-                >重型神風船</nuxt-link
+                >重型爆破船</nuxt-link
               >：自爆的戰船。
             </li>
             <li>
@@ -416,7 +417,7 @@
                 alt=""
               /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
               >：可發射砲彈的重裝戰船。(限<nuxt-link to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >)
             </li>
             <li>
@@ -443,7 +444,7 @@
                   src="~assets/crop_rotation.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
+                /><nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
                 >：<nuxt-link to="/building/Farm">農田</nuxt-link>產量+175。
               </li>
             </ul>
@@ -470,7 +471,7 @@
                   src="~assets/guilds.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Guilds">行會制度</nuxt-link
+                /><nuxt-link to="/techs/Guilds">公會制度</nuxt-link
                 >：減少交易費用至15%。
               </li>
             </ul>
@@ -501,7 +502,7 @@
                   src="~assets/parthian_tactics.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+                /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
                 >：<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                   >馬弓騎兵護甲</nuxt-link
                 >+1/+2，對<nuxt-link to="/armor/Armor_Class_Spearman"
@@ -517,7 +518,7 @@
                   src="~assets/dry_dock.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>：<nuxt-link
+                /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>：<nuxt-link
                   to="/units/Naval_Vessels"
                   >船隻</nuxt-link
                 >航行速度+15%，<nuxt-link to="/units/Transport_Ship"
@@ -530,7 +531,7 @@
                   src="~assets/shipwright.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+                /><nuxt-link to="/techs/Shipwright">造船員</nuxt-link
                 >：船隻造價-20%，單位生產速度+35%。
               </li>
             </ul>
@@ -553,8 +554,10 @@
                   src="~assets/hoardings.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link
-                >：<nuxt-link to="/building/Castle">城堡</nuxt-link>+20% HP。
+                /><nuxt-link to="/techs/Hoardings">圍牆</nuxt-link>：<nuxt-link
+                  to="/building/Castle"
+                  >城堡</nuxt-link
+                >+20% HP。
               </li>
               <li>
                 <img
@@ -562,7 +565,7 @@
                   src="~assets/sappers.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link
+                /><nuxt-link to="/techs/Sappers">兵工學</nuxt-link
                 >：村民對建築物攻擊+15。
               </li>
               <li>
@@ -571,7 +574,7 @@
                   src="~assets/conscription.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+                /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
                 >：<nuxt-link to="/building/Barracks">軍營</nuxt-link
                 >、靶場、<nuxt-link to="/building/Stable">馬廄</nuxt-link
                 >、城堡訓練部隊速度+33%。
@@ -610,7 +613,7 @@
                   src="~assets/ring_archer_armor.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
+                /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
                 >：<nuxt-link to="/units/Archer">弓兵</nuxt-link
                 >和馬弓騎兵護甲+1/+2。
               </li>
@@ -620,7 +623,7 @@
                   src="~assets/Bracer.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Bracer">護腕</nuxt-link
+                /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
                 >：弓兵、<nuxt-link to="/units/Cavalry_Archer"
                   >馬弓騎兵</nuxt-link
                 >、戰船、城堡攻擊+1、範圍+1(<nuxt-link
@@ -653,7 +656,7 @@
                   src="~assets/scale_barding_armor.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+                /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
                 >：<nuxt-link to="/armor/Armor_Class_Cavalry"
                   >騎兵護甲</nuxt-link
                 >+1/+2。
@@ -683,7 +686,7 @@
                   >衝撞車</nuxt-link
                 >除外)。對<nuxt-link to="/armor/Armor_Class_Building"
                   >建築物</nuxt-link
-                >攻擊加成+20%(<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+                >攻擊加成+20%(<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
                 >+40%)。
               </li>
               <li>
@@ -708,7 +711,7 @@
                   src="~assets/illumination.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link
+                /><nuxt-link to="/techs/Illumination">啟示思想</nuxt-link
                 >：<nuxt-link to="/units/Monk">僧侶</nuxt-link
                 ><nuxt-link to="/elements/Conversion">招降</nuxt-link
                 >成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
@@ -730,7 +733,7 @@
                   src="~assets/block_printing.png"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
+                /><nuxt-link to="/techs/Block_Printing">印刷技術</nuxt-link
                 >：僧侶(傳教士)的招降範圍+3。
               </li>
               <li>

@@ -167,7 +167,7 @@
               >的資料片（或者HD版本），會讓事情變得很容易：在<nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
-              >你就能生產一堆<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >你就能生產一堆<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
               >，然後把他們送到金國的領土上。
             </li>
             <li>
@@ -178,7 +178,7 @@
             <li>
               金國會動用超過30個村民建造奇觀，所以建成速度不僅會比<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >戰役第六關其他敵人蓋的奇觀來得快、也會比<nuxt-link
                 to="/civs/Aztecs"
                 >阿茲特克</nuxt-link
@@ -270,32 +270,34 @@
             </td>
           </tr>
         </table>
-      <div class="thanks">感謝！此頁面由裕暉、竺叡協助編輯。</div>
 
-      <div class="wiki" style="margin-top: 5px;">
-        <div style="float: left;">
-          <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
-        </div>
-        <div style="margin-left: 60px;">
-          維基百科上蒙古入侵中國戰役
-          <div style="margin-left: 10px;">
-            <em
-              ><strong
-                ><a
-                  href="https://zh.wikipedia.org/wiki/%E8%92%99%E9%87%91%E6%88%B0%E7%88%AD"
-                  target="_blank"
-                  >蒙金戰爭</a
-                ></strong
-              ></em
-            >、<em
-              ><strong
-                ><a
-                  href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E6%BB%85%E8%A5%BF%E5%A4%8F%E4%B9%8B%E6%88%B0"
-                  target="_blank"
-                  >蒙古滅西夏之戰</a
-                ></strong
-              ></em
-            >
+        <div class="thanks">感謝！此頁面由裕暉、竺叡協助編輯。</div>
+
+        <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
+          </div>
+          <div style="margin-left: 60px;">
+            維基百科上蒙古入侵中國戰役
+            <div style="margin-left: 10px;">
+              <em
+                ><strong
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E8%92%99%E9%87%91%E6%88%B0%E7%88%AD"
+                    target="_blank"
+                    >蒙金戰爭</a
+                  ></strong
+                ></em
+              >、<em
+                ><strong
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E6%BB%85%E8%A5%BF%E5%A4%8F%E4%B9%8B%E6%88%B0"
+                    target="_blank"
+                    >蒙古滅西夏之戰</a
+                  ></strong
+                ></em
+              >
+            </div>
           </div>
         </div>
       </div>

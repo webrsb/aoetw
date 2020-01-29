@@ -209,7 +209,7 @@
               width="25px"
               src="~assets/tower.png"
               alt=""
-            /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>
+            /><nuxt-link to="/building/Watch_Tower">暸望台</nuxt-link>
           </li>
         </ul>
       </div>

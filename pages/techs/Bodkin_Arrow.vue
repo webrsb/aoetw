@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>錐狀箭頭</h1>
+        <h1>羽箭</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>錐狀箭頭</b>可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>羽箭</b>(2013版稱<b>錐狀箭頭</b>)可於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             研發可讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
@@ -46,6 +47,7 @@
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
+          <p>錐狀箭頭較羽箭符合定義，歷史部份以此來作描述</p>
           <p>
             錐狀箭頭使所有類型的<nuxt-link to="/units/Archer">弓箭手</nuxt-link
             >對穿著盔甲的部隊更加有效。錐狀箭頭旨在將力量集中一點並穿透敵人護甲，而不是一個廣泛的點。早期的箭矢用於狩獵或對付沒有裝甲的目標而言是OK的，但裝甲卻有效地消散了它的能量。錐狀箭頭可以把力量集中，在足夠短的距離內穿透任何裝甲。阿金庫爾的<nuxt-link
@@ -61,7 +63,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">錐狀箭頭</div>
+              <div class="unititle2">羽箭</div>
             </td>
           </tr>
           <tr>
@@ -99,7 +101,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/fletching.png" alt="" /><nuxt-link
                 to="/techs/Fletching"
-                >箭羽</nuxt-link
+                >絕世好箭</nuxt-link
               >
             </td>
           </tr>
@@ -108,7 +110,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/Bracer.jpg" alt="" /><nuxt-link
                 to="/techs/Bracer"
-                >護腕</nuxt-link
+                >強力護腕</nuxt-link
               >
             </td>
           </tr>

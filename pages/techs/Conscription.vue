@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>徵兵制度</h1>
+        <h1>徵兵技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>徵兵制度</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>徵兵技術</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Barracks">軍營</nuxt-link
@@ -19,7 +19,7 @@
             >的單位訓練速度快33%。
           </p>
           <p>
-            徵兵制度被認為是必不可少的研究，因為它在補充軍隊或積累大量單位方面非常有效益。
+            徵兵技術被認為是必不可少的研究，因為它在補充軍隊或積累大量單位方面非常有效益。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -30,16 +30,16 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速徵兵制度的研究時間(快25%)。
+              >能夠加速徵兵技術的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：徵兵制度<nuxt-link
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：徵兵技術<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
               >便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：徵兵制度免費。
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：徵兵技術免費。
             </li>
           </ul>
         </div>
@@ -51,7 +51,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速徵兵制度的研究時間(快25%)。
+              >能夠加速徵兵技術的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -67,7 +67,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">徵兵制度</div>
+              <div class="unititle2">徵兵技術</div>
             </td>
           </tr>
           <tr>

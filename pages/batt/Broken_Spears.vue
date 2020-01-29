@@ -178,7 +178,7 @@
                 >和<nuxt-link to="/building/Castle">城堡</nuxt-link
                 >來保護自己。玩家會遇到<nuxt-link to="/units/Knight"
                   >騎士</nuxt-link
-                >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+                >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
                 >、<nuxt-link to="/units/Missionary">傳教士</nuxt-link
                 >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
                 >的聯合攻擊。如果陸地進攻不成功的話，他們可能會使用登陸戰。
@@ -225,7 +225,7 @@
             <li>
               科爾特斯海軍會時常以火砲戰船，<nuxt-link to="/units/Galleon"
                 >重型弩砲戰船</nuxt-link
-              >、<nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+              >、<nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link
               >攻擊你，還會用運輸船帶<nuxt-link to="/units/Siege_Ram"
                 >重型衝撞車</nuxt-link
               >、巨型投石機和征服者渡海而來。他們的基地被火砲塔圍繞，不過基地的西面和東面都有漏洞，玩家可以輕鬆地用投石機摧毀火砲塔。但是玩家必須小心，不要讓載有單位的運輸船被塔擊沉。同樣的破壞城鎮中心他們就會投降。如果玩家此時已經擊敗了科爾特斯陸軍和特拉斯卡拉，為了找到科爾特斯海軍的城鎮中心，玩家可以考慮研究是否有大量的黃金研發<nuxt-link
@@ -251,7 +251,7 @@
               儘管使用了相同地圖，所有玩家的開始位子都交換過。同樣的特諾奇提特蘭周圍的樹木位置也有變更過。
             </li>
             <li>
-              在這個戰役中科爾特斯海軍訓練的單位跟第四戰役的幾乎相同：重型弩砲戰船、快速火戰船、<nuxt-link
+              在這個戰役中科爾特斯海軍訓練的單位跟第四戰役的幾乎相同：重型弩砲戰船、重型火戰船、<nuxt-link
                 to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
               >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link

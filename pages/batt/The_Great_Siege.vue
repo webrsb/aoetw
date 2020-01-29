@@ -193,8 +193,7 @@
                   >），
                 </li>
                 <li>
-                  瓦蘭吉衛隊（<nuxt-link to="/units/Halberdier"
-                    >斧槍兵</nuxt-link
+                  瓦蘭吉衛隊（<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
                   >），弩兵，精英<nuxt-link to="/units/Elite_Skirmisher"
                     >戰矛兵</nuxt-link
                   >，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
@@ -284,18 +283,18 @@
               <li>
                 海戰：完成上述任務後，玩家將獲得一支由五艘<nuxt-link
                   to="/units/Fast_Fire_Ship"
-                  >快速火戰船</nuxt-link
+                  >重型火戰船</nuxt-link
                 >（更名為德羅蒙<nuxt-link to="/units/Fire_Ship"
                   >火戰船</nuxt-link
                 >），八艘大型戰艦和三艘<nuxt-link to="/units/Demolition_Ship"
-                  >神風船</nuxt-link
+                  >爆破船</nuxt-link
                 >組成的大型艦隊。目標是摧毀北部的兩個諾曼碼頭。敵人將有<nuxt-link
                   to="/units/Naval_Vessels"
                   >海軍</nuxt-link
                 >部隊（由戰船和戰艦組成）和岸上部隊（兩個投石車和一些弩兵，以及一個弩砲）。他們也會稍後派遣一支龐大的艦隊，所以要好好管理<nuxt-link
                   to="/units/Naval_Vessels"
                   >船隻</nuxt-link
-                >，使用德羅蒙火戰船和神風船來盡可能多地摧毀船隻。
+                >，使用德羅蒙火戰船和爆破船來盡可能多地摧毀船隻。
               </li>
               <li>
                 終於，最後一次任務前往港口駛出巴里。在與魯加斯。普羅科皮烏斯對話後，讓安德里亞斯進入<nuxt-link

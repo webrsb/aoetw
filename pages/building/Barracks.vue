@@ -100,7 +100,7 @@
                 <li>
                   <img class="gg" src="~assets/squires.png" alt="" /><nuxt-link
                     to="/techs/Squires"
-                    >護衛</nuxt-link
+                    >護衛技術</nuxt-link
                   >
                 </li>
                 <li>
@@ -269,7 +269,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -281,14 +281,14 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >(+33%，限單位) <br />
               <img
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 style="margin: 2px;"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+              /><nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >(+100%，<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
             </td>
           </tr>
@@ -340,7 +340,7 @@
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
                 to="/techs/Conscription"
-                >徵兵制度</nuxt-link
+                >徵兵技術</nuxt-link
               >。
             </li>
           </ul>
@@ -376,7 +376,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:引入<nuxt-link
                 to="/techs/Anarchy"
                 >無政府狀態</nuxt-link
-              >和<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>。
+              >和<nuxt-link to="/techs/Perfusion">井噴</nuxt-link>。
             </li>
           </ul>
           <h3>

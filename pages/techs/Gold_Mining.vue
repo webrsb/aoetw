@@ -94,7 +94,7 @@
                 class="gg"
                 src="~assets/gold_shaft_mining.png"
                 alt=""
-              /><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
+              /><nuxt-link to="/techs/Gold_Shaft_Mining">採金裝置</nuxt-link>
             </td>
           </tr>
           <tr>

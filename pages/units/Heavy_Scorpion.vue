@@ -119,12 +119,12 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
                 to="/civs/Byzantines"
                 >拜占庭</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
@@ -182,7 +182,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link
               >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
@@ -208,7 +208,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>(+4) <br />
+              /><nuxt-link to="/techs/Rocketry">火箭技術</nuxt-link>(+4) <br />
               <img
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
@@ -256,7 +256,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Drill">演習</nuxt-link>(+50%，<nuxt-link
+              /><nuxt-link to="/techs/Drill">鑿岩機</nuxt-link>(+50%，<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >)
@@ -306,7 +306,7 @@
                       class="gg"
                       src="~assets/PetardIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+                    /><nuxt-link to="/units/Petard">炸藥桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -520,9 +520,9 @@
               >為0
             </li>
             <li>
-              重型弩砲受<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
-              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
-              >和<nuxt-link to="/techs/Bracer">護腕</nuxt-link
+              重型弩砲受<nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link
+              >、<nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
               >加成影響。所以總共可以+3射程和攻擊。
             </li>
             <li>
@@ -545,9 +545,9 @@
               >。
             </li>
             <li>
-              重型弩砲不再有<nuxt-link to="/techs/Fletching">箭羽</nuxt-link
-              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
-              >和<nuxt-link to="/techs/Bracer">護腕</nuxt-link>加成影響。
+              重型弩砲不再有<nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link
+              >、<nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>加成影響。
             </li>
             <li>
               <nuxt-link to="/techs/Chemistry">化學</nuxt-link>給予+1的攻擊。
@@ -556,19 +556,19 @@
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
-                >塞爾特狂暴</nuxt-link
+                >塞爾特狂熱</nuxt-link
               >給予弩砲多50%的HP。、
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>:引進<nuxt-link
                 to="/techs/Rocketry"
-                >火箭術</nuxt-link
+                >火箭技術</nuxt-link
               >。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:引進<nuxt-link
                 to="/techs/Drill"
-                >演習</nuxt-link
+                >鑿岩機</nuxt-link
               >科技。
             </li>
           </ul>
@@ -579,7 +579,7 @@
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
-                >塞爾特狂暴</nuxt-link
+                >塞爾特狂熱</nuxt-link
               >給予弩砲多40%的HP。
             </li>
             <li>
@@ -607,7 +607,7 @@
             <li>
               以前<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
               >的中文版本，把弩砲在<nuxt-link to="/techs/Rocketry"
-                >火箭術</nuxt-link
+                >火箭技術</nuxt-link
               >的描述直接翻譯成蠍子。
             </li>
             <li>
@@ -669,7 +669,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/HeavyScorpionIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/HeavyScorpionIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

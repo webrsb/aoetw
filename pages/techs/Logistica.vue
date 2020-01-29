@@ -2,17 +2,18 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>後勤學</h1>
+        <h1>後勤</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>後勤學</b>是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+            <b>後勤</b>是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Cataphract"
+              >拜占庭聖騎兵</nuxt-link
             >有0.5格的<nuxt-link to="/elements/Area_of_Effect"
               >踐踏傷害</nuxt-link
             >(額外+5攻擊)，對<nuxt-link to="/armor/Armor_Class_Infantry"
@@ -25,21 +26,20 @@
         <div class="n1">
           <ul>
             <li>
-              有後勤學的<nuxt-link to="/units/Cataphract"
-                >拜占庭聖騎兵</nuxt-link
+              有後勤的<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
               >更能屠殺<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
               >，踐踏傷害則能有效對付一群<nuxt-link to="/units/Infantry_Units"
                 >步兵</nuxt-link
               >或是近戰單位。然而<nuxt-link to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >對<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+              >對<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
               >仍舊是個威脅，應盡量避免與一大群的<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
               >正面交鋒。
             </li>
             <li>
-              後勤學並沒有加成在有拜占庭聖騎兵外表的<nuxt-link to="/units/hero"
+              後勤並沒有加成在有拜占庭聖騎兵外表的<nuxt-link to="/units/hero"
                 >英雄</nuxt-link
               >身上，如:<nuxt-link to="/units/hero/Attila_the_Hun"
                 >阿提拉</nuxt-link
@@ -55,7 +55,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速後勤學的研究時間(快25%)。
+              >能夠加速後勤的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -73,13 +73,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">後勤學</div>
+              <div class="unititle2">後勤</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech_imperial.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
@@ -143,7 +147,8 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              聖騎兵有踐踏傷害，對<nuxt-link to="/armor/Armor_Class_Infantry"
+              拜占庭聖騎兵有踐踏傷害，對<nuxt-link
+                to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
               >攻擊+6。
             </td>

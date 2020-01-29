@@ -39,7 +39,7 @@
               >忠誠信仰</nuxt-link
             >，<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>和<nuxt-link
               to="/techs/Herbal_Medicine"
-              >草藥學</nuxt-link
+              >草藥治療</nuxt-link
             >），所以即使玩家不使用僧侶也建議蓋修道院。
           </p>
           <p>
@@ -90,7 +90,7 @@
                       src="~assets/redemption.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>
+                    /><nuxt-link to="/techs/Redemption">神聖思想</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -98,7 +98,7 @@
                       src="~assets/atonement.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/techs/Atonement">贖罪</nuxt-link>
+                    /><nuxt-link to="/techs/Atonement">救贖思想</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -106,7 +106,9 @@
                       src="~assets/Herbalmedicine.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>
+                    /><nuxt-link to="/techs/Herbal_Medicine"
+                      >草藥治療</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -155,7 +157,7 @@
                       src="~assets/illumination.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>
+                    /><nuxt-link to="/techs/Illumination">啟示思想</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -163,9 +165,7 @@
                       src="~assets/block_printing.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/techs/Block_Printing"
-                      >雕版印刷術</nuxt-link
-                    >
+                    /><nuxt-link to="/techs/Block_Printing">印刷技術</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -285,7 +285,7 @@
                   src="~assets/treadmill_crane.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >(+20%建造效率)
               </td>
             </tr>
@@ -348,7 +348,7 @@
                   to="/techs/Masonry"
                   >磚瓦技術</nuxt-link
                 >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
-                >、<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >、<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >科技的時間加快80%
               </li>
             </ul>
@@ -364,7 +364,7 @@
                 <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>首次出現。
               </li>
               <li>
-                <nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+                <nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link
                 >首次出現。
               </li>
               <li>

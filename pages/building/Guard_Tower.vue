@@ -53,7 +53,7 @@
               to="/units/Cannon_Galleon"
               >火砲戰船</nuxt-link
             >的戰艦(如<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
-            >/<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+            >/<nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link
             >/<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>/<nuxt-link
               to="/units/Longboat"
               >維京大戰船</nuxt-link
@@ -104,7 +104,7 @@
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -140,7 +140,7 @@
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
-                >匈奴</nuxt-link
+                >匈人</nuxt-link
               >。
             </div>
           </div>
@@ -167,10 +167,10 @@
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，<nuxt-link
-                to="/units/Huskarl"
-                >哥德衛隊</nuxt-link
-              >，<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >，<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
+              >，<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
+                to="/units/War_Elephant"
+                >戰象</nuxt-link
               >，<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
@@ -214,20 +214,20 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -243,7 +243,7 @@
                 src="~assets/heated_shot.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+              /><nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link
               >(+4，僅對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
               >) <br />
               <img
@@ -275,26 +275,26 @@
                 src="~assets/fletching.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/bodkin_arrow.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
+              /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Murderholes.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
+              /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link
               >:消除最小射程
             </td>
           </tr>
@@ -385,7 +385,7 @@
                 src="~assets/treadmill_crane.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
               >(+20%)
             </td>
           </tr>
@@ -397,14 +397,14 @@
                 src="~assets/Herbalmedicine.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+              /><nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link
               >:駐紮單位治療速度加快<br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              /><nuxt-link to="/techs/Crenellations">砲門垛口</nuxt-link
               >:駐紮步兵可增加箭數
             </td>
           </tr>
@@ -418,7 +418,7 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研發<nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
-              >和<nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+              >和<nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link
               >的花費便宜50%。
             </li>
             <li>
@@ -442,7 +442,7 @@
               >花費-15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：箭塔在<nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：箭塔在<nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/帝王時代射程分別+1/+2而且建造速度快33%。箭塔科技升級免費
@@ -470,7 +470,7 @@
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：駐紮單位提升到10人，<nuxt-link to="/techs/Murder_Holes"
-                >垛孔</nuxt-link
+                >近射孔</nuxt-link
               >科技免費。
             </li>
           </ul>
@@ -531,7 +531,7 @@
               >攻擊+2。
             </li>
             <li>
-              引入<nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>。
+              引入<nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link>。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>
@@ -545,7 +545,7 @@
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:引入<nuxt-link
                 to="/techs/Crenellations"
-                >垛口</nuxt-link
+                >砲門垛口</nuxt-link
               >。
             </li>
           </ul>
@@ -577,7 +577,7 @@
               >，可讓箭塔可發射額外三支箭。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:<nuxt-link
                 to="/building/Guard_Tower"
                 >防禦箭塔</nuxt-link
               >建造速度快33%。
@@ -619,7 +619,7 @@
             <li>
               在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >蓋塔時間60s → 75s (其他文明 80s)
             </li>
             <li>
@@ -629,7 +629,7 @@
             </li>
             <li>
               在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link
-              >後，韓國蓋塔時間60s → 75s (其他文明 80s)
+              >後，朝鮮蓋塔時間60s → 75s (其他文明 80s)
             </li>
             <li>
               在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，箭塔花費25W
@@ -643,7 +643,7 @@
           <em
             >"防禦塔在中世紀繼續發展，變得更強，更高，更好地用於防禦鑑於一些較早的觀測塔是方形的，防護塔通常是圓形的以消除可能被撞掉的尖角。防禦塔頂部的戰鬥位置得到了改善，以保護防御者。從頂部伸出的<nuxt-link
               to="/techs/Hoardings"
-              >外架式柵樓</nuxt-link
+              >圍牆</nuxt-link
             >讓防御者可以用導彈攻擊塔底部的敵人。進入警戒塔的入口更加完善，更易於防守。"</em
           >
           <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>

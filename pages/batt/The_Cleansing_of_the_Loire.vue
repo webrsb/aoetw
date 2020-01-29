@@ -156,7 +156,7 @@
                   class="gg"
                   src="~assets/DemoShipIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>*2
+                /><nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link>*2
               </li>
             </ul>
           </div>
@@ -289,7 +289,7 @@
             與<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
             ><nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
             >的<nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link
-            >關卡和<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+            >關卡和<nuxt-link to="/civs/Huns">匈人</nuxt-link
             ><nuxt-link to="/batt/Attila_the_Huna">阿提拉戰役</nuxt-link
             >的<nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link
             >關卡一樣有增援部隊，情況不同的是，在摧毀第一座英國城堡之前，提早摧毀霍士道夫的基地並剷除他們的所有部隊，也不能阻止霍士道夫的增援部隊前來。
@@ -304,7 +304,7 @@
               場景開始時玩家在地圖西北側，往西北走一些會得到兩艘<nuxt-link
                 to="/units/Transport_Ship"
                 >運輸船</nuxt-link
-              >和兩艘<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
+              >和兩艘<nuxt-link to="/units/Demolition_Ship">爆破船</nuxt-link
               >，用運輸船運送部隊過河，上岸後往西走一小段會找到五隻羊，玩家可以選擇帶上牠們或不要理牠們。接下來往東邊走會遇到一條河，經過河流淺灘處後繼續往東走，然後再往北修正一點再走一段路到達地圖的最東側，用<nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
@@ -383,7 +383,7 @@
               >，生產<nuxt-link to="/units/Knight">騎士</nuxt-link
               >和輕型衝撞車並升級他們，用<nuxt-link to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
-              >或是<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >或是<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
               >在牆上鑿出個洞，用騎士對付<nuxt-link to="/units/Longbowman"
                 >長弓兵</nuxt-link
               >，衝撞車攻擊城堡。剩下的兩座城堡重複此動作。當第一座城堡陷落時會有一些騎兵和<nuxt-link

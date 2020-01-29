@@ -24,7 +24,7 @@
             >城的探險而聞名。
           </p>
           <p>
-            岡薩洛·皮薩羅在遊戲中以征服者的外表登場（頭像不一樣），但有著更高的能力值。所有對<nuxt-link
+            岡薩洛·皮薩羅在遊戲中以西班牙征服的者外表登場（頭像不一樣），但有著更高的能力值。所有對<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
             >和<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link

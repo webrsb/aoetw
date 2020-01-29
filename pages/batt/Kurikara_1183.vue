@@ -102,8 +102,8 @@
             <dl class="dl-horizontal">
               <dt>開場：</dt>
               <dd>
-                <nuxt-link to="/units/Cavalier">騎兵</nuxt-link>x2，<nuxt-link
-                  to="/units/Heavy_Cavalry_Archer"
+                <nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
+                >x2，<nuxt-link to="/units/Heavy_Cavalry_Archer"
                   >重裝馬弓騎兵</nuxt-link
                 >x2，<nuxt-link to="/units/Two-Handed_Swordsman"
                   >雙手劍兵</nuxt-link
@@ -275,7 +275,7 @@
           <ul>
             <li>
               遊戲中的＂燈塔＂看起來就是<nuxt-link to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>。
             </li>
             <li>

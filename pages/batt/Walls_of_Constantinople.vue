@@ -11,7 +11,7 @@
             <b>君士坦丁堡的城牆</b>為<nuxt-link to="/batt/Attila_the_Huna"
               >阿提拉戰役</nuxt-link
             >的第三關劇情關卡，此關原型為公元447年<nuxt-link to="/civs/Huns"
-              >匈奴</nuxt-link
+              >匈人</nuxt-link
             >與東羅馬帝國的維特河<nuxt-link to="/batt">戰役</nuxt-link
             >（今保加利亞維特河）。
           </p>
@@ -52,7 +52,7 @@
                 玩家1
               </td>
               <td class="tc6" colspan="3">
-                <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
+                <nuxt-link to="/civs/Huns">匈人</nuxt-link>（黃色）
               </td>
             </tr>
             <tr>
@@ -92,7 +92,7 @@
             <dd>
               3位<nuxt-link to="/units/Villager">村民</nuxt-link>、3位<nuxt-link
                 to="/units/Tarkan"
-                >韃靼騎兵</nuxt-link
+                >答剌罕騎兵</nuxt-link
               >、1位憎侶。
             </dd>
             <dt>大地之母單位：</dt>
@@ -118,7 +118,7 @@
         <div class="n1">
           <ul>
             <li>
-              雖然你的目的是聚歛黃金，但不要捨不得把它們花在軍隊的訓練上。匈奴人是由勒索羅馬人來賺取黃金，而不是靠儲蓄！
+              雖然你的目的是聚歛黃金，但不要捨不得把它們花在軍隊的訓練上。匈人是由勒索羅馬人來賺取黃金，而不是靠儲蓄！
             </li>
             <li>
               只要破壞羅馬的市鎮中心、港口、市場和類似的<nuxt-link
@@ -129,7 +129,7 @@
             </li>
             <li>你無法單靠貿易來取得你所需要的黃金。</li>
             <li>
-              匈奴人無法演進到<nuxt-link to="/techs/age/Imperial_Age"
+              匈人無法演進到<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >。
             </li>
@@ -140,11 +140,11 @@
         <div class="n1">
           <ul>
             <li>
-              匈奴人 (黃色)
+              匈人 (黃色)
               有一個小型的城鎮，在初期他們它防禦來自馬西安堡的攻擊(綠色)。雖然馬西安堡並沒有強大的軍隊，但他們的城鎮築有<nuxt-link
                 to="/building/Stone_Wall"
                 >城牆</nuxt-link
-              >，讓它能防禦匈奴人初期的攻擊。不過，當你破壞了<nuxt-link
+              >，讓它能防禦匈人初期的攻擊。不過，當你破壞了<nuxt-link
                 to="/building/Gate"
                 >城門</nuxt-link
               >之後，這個城鎮也就毀了。
@@ -204,7 +204,7 @@
                 >、僧侶與<nuxt-link to="/units/Mangonel">投石車</nuxt-link
                 >，解決他們之後，就派衝撞車攻擊城門與塔。衝進城鎮後，開始引誘僧侶與<nuxt-link
                   to="/units/Cataphract"
-                  >聖騎兵</nuxt-link
+                  >拜占庭聖騎兵</nuxt-link
                 >，它們對付大群馬弓騎兵毫無招架之力。用衝撞車攻擊<nuxt-link
                   to="/building/Wonder"
                   >世界奇觀</nuxt-link
@@ -213,7 +213,7 @@
               <li>
                 完全不去攻擊君士坦丁堡過關是可以實行的。首先先用最快的速度把西邊靠近我們的遺跡供奉到修道院加速黃金的生產量。其次，出擊兵種以重裝長槍兵和輕騎兵為主可以減少黃金的使用率（但是該研發的科技還是得研發），攻擊前先在門口蓋城堡殲滅大部份兵力，將槍兵裝進衝撞車一一把建築物推平，將綠色和紅色推平後差不多就過關了。如果黃金還不夠10000則再把最西邊的遺跡收入修道院加速黃金的生產即可。
               </li>
-              <li>匈奴在此關可以透過一些方式來搶奪黃金與其他資源：</li>
+              <li>匈人在此關可以透過一些方式來搶奪黃金與其他資源：</li>
               <ul>
                 <li>
                   每摧毀一個<nuxt-link to="/building/Dock">碼頭</nuxt-link
@@ -270,7 +270,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴人</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈人</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">

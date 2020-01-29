@@ -242,7 +242,7 @@
                 src="~assets/parthian_tactics.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
+              /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link>
               <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
               <ul>
                 <li>

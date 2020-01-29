@@ -54,7 +54,7 @@
             <td class="unit3" style="width:10%">塔</td>
             <td class="unit3">
               <nuxt-link to="/building/Outpost">哨站</nuxt-link>•
-              <nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>•
+              <nuxt-link to="/building/Watch_Tower">暸望台</nuxt-link>•
               <nuxt-link to="/building/P">防禦箭塔</nuxt-link>•
               <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>•
               <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>

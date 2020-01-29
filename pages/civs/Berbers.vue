@@ -82,7 +82,7 @@
               柏柏雖然貴為馬弓騎兵剋星但是<nuxt-link to="/units/Archer_Units"
                 >弓兵系</nuxt-link
               >統裡缺<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link
-              >/<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >/<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >。<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >系統則是欠缺<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >/美洲獨有<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
@@ -107,7 +107,7 @@
             <li>
               雖然貴為<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
               >但是卻欠缺了核心<nuxt-link to="/techs">科技</nuxt-link
-              ><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              ><nuxt-link to="/techs/Shipwright">造船員</nuxt-link
               >，使得<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
               >建立上要花更多資源和時間。
             </li>
@@ -124,7 +124,7 @@
             </li>
             <li>
               柏柏<nuxt-link to="/armor/Armor_Class_Monk">僧侶類</nuxt-link
-              >統欠缺<nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
+              >統欠缺<nuxt-link to="/techs/Block_Printing">印刷技術</nuxt-link
               >/<nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link
               >，因此在<nuxt-link to="/elements/Conversion">招降</nuxt-link
               >時危險度上升。
@@ -203,7 +203,7 @@
             </li>
             <li>
               4.8版本後柏柏有了<nuxt-link to="/techs/Ring_Archer_Armor"
-                >弓兵環甲</nuxt-link
+                >弓兵鏈甲</nuxt-link
               >
             </li>
           </ul>

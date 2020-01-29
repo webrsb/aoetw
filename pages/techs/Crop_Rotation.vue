@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>輪耕</h1>
+        <h1>輪耕制度</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>輪耕</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>輪耕制度</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
             >研發。可讓新種植的<nuxt-link to="/building/Farm">農田</nuxt-link
@@ -16,7 +16,7 @@
             >(總共550食物)。
           </p>
           <p>
-            已耕種的農田即便輪耕研發完直到再次播種前都會維持原產量375食物，若是正在建造的農田則會吃到完整加成變550食物。
+            已耕種的農田即便輪耕制度研發完直到再次播種前都會維持原產量375食物，若是正在建造的農田則會吃到完整加成變550食物。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -76,12 +76,12 @@
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Indians"
                 >印度</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
-                >韓國</nuxt-link
+                >朝鮮</nuxt-link
               >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
                 to="/civs/Saracens"
                 >薩拉森</nuxt-link
@@ -116,7 +116,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">輪耕</div>
+              <div class="unititle2">輪耕制度</div>
             </td>
           </tr>
           <tr>
@@ -160,7 +160,7 @@
             <td class="unit4">
               <img src="~assets/heavy_plow.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heavy_Plow"
-                >重犁</nuxt-link
+                >重型耕犁</nuxt-link
               >
             </td>
           </tr>
