@@ -26,17 +26,26 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:打獵速度快50%
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:打獵速度快50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多獵取20%的肉量
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+              >:額外多獵取20%的肉量。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:村民打<nuxt-link
-                to="/units/animal/Wild_Boar"
-                >野豬</nuxt-link
-              >攻擊+5，攜帶量+15
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:獵人攜帶量+15。
             </li>
+          </ul>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              遊戲中的所有鴕鳥都是黑色和白色。
+              在現實生活中，只有雄性才具有這種顏色，而雌性則是棕色，可以更好地偽裝與大地和乾草融為一體。
+            </li>
+            <li>在古代和中世紀時期，在北非，阿拉伯和黎凡特也可以發現鴕鳥。</li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -68,7 +77,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Ostrich.png" width="80" alt="" />
+                <img src="~assets/Ostrich.png" alt="" />
               </div>
             </td>
           </tr>
@@ -88,6 +97,12 @@
               <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
             </td>
             <td class="unit4">5</td>
+          </tr>
+          <tr>
+            <td class="unit3">
+              建議獵人數
+            </td>
+            <td class="unit4">2~4</td>
           </tr>
         </table>
 
