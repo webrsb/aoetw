@@ -30,7 +30,7 @@
                 >／1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">100</td>
             </tr>
           </table>
 
@@ -85,7 +85,7 @@
                 玩家2
               </td>
               <td class="tc6">
-                波蘭（藍色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
+                波蘭（藍色）斯拉夫
               </td>
             </tr>
           </table>
@@ -118,6 +118,14 @@
               巴代利亞和薩克森這兩個日耳曼國家，要「供養」紅鬍子和雄獅享利的軍隊。所以要不惜代價去保衛無助的供養者。
             </li>
           </ul>
+                  <h2>決定版變更點</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              人口上限由75改成100，波蘭由哥德改為斯拉夫人故會出貴族鐵騎，猛獅亨利的戰鬥力有稍微變強。
+            </li>
+          </ul>
           <h2>芝麻小事</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -132,7 +140,7 @@
               </li>
               <li>亨利實際上就是巴巴羅薩劇情的敘述者（旁白）。</li>
               <li>
-                在劇情中，這關是唯二有玩家從超過兩萬分起始的關卡，也就是猛獅亨利與波蘭。另外一個是<nuxt-link
+                在原版劇情中，這關是唯二有玩家從超過兩萬分起始的關卡，也就是猛獅亨利與波蘭。另外一個是<nuxt-link
                   to="/batt/Battles_of_the_Forgotten"
                   >失落的帝國戰役</nuxt-link
                 >中約克城<nuxt-link to="/batt">戰役</nuxt-link>。
@@ -206,7 +214,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link>
+              <nuxt-link to="/batt/Pope_and_Antipope">宗教之爭</nuxt-link>
             </td>
           </tr>
         </table>
