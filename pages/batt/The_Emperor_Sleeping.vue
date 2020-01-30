@@ -31,7 +31,7 @@
                 >／1,500<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">150</td>
             </tr>
           </table>
 
@@ -68,7 +68,7 @@
                 玩家4
               </td>
               <td class="tc6" width="38%">
-                沙拉丁（綠色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
+                薩拉丁（綠色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -92,9 +92,7 @@
                 玩家6
               </td>
               <td class="tc6">
-                耶路撒冷（藍色）<nuxt-link to="/civs/Byzantines"
-                  >拜占庭</nuxt-link
-                >
+                耶路撒冷（藍色）薩拉森
               </td>
             </tr>
           </table>
@@ -150,6 +148,17 @@
               >波斯的戰象以取得具有威力的攻擊部隊。
             </li>
           </ul>
+                  <h2>決定版變更點</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              人口上限由75改150，耶路薩冷此關是拜占庭改成薩拉森，初期製圖學被禁，獅心王理查有城鎮中心發展故可以幫忙分擔敵方的進攻壓力。
+            </li>
+            <li>
+              一定時間後會自動觸發理查的攻擊行動。耶路薩冷現在會產很多僧侶和重型投石車以及長槍兵戰矛兵，必須慢慢拆掉生兵建築再推進。
+            </li>
+          </ul>
           <h2>芝麻小事</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -172,16 +181,16 @@
                 如果耶路撒冷是存活到最後的敵人，而圓頂清真寺也是最後一棟屹立的建築物，那麼玩家可以摧毀它，再把巴巴羅薩的遺體運過去，並不會被擊敗。
               </li>
               <li>
-                沙拉丁在南邊的城市，也就是玩家在<nuxt-link to="/batt/Saladina"
-                  >沙拉丁戰役</nuxt-link
+                薩拉丁在南邊的城市，也就是玩家在<nuxt-link to="/batt/Saladina"
+                  >薩拉丁戰役</nuxt-link
                 >第四關時起始的位置。
               </li>
               <li>
                 在遊戲中，大馬士革以波斯<nuxt-link to="/civs">文明</nuxt-link
-                >代表，這是不正確的。因為大馬士革實際上是由沙拉丁創建的阿尤布王朝所掌控，所以應該以薩拉森人代表會較為正確。然而，有可能是因為創造阿尤布王朝的沙拉丁是庫德人，而庫德人數於<nuxt-link
+                >代表，這是不正確的。因為大馬士革實際上是由薩拉丁創建的阿尤布王朝所掌控，所以應該以薩拉森人代表會較為正確。然而，有可能是因為創造阿尤布王朝的薩拉丁是庫德人，而庫德人數於<nuxt-link
                   to="/civs/Indians"
                   >印度</nuxt-link
-                >－伊朗語系，在血緣上更接近波斯人，才用波斯人替代。而在沙拉丁過世後，由於諸子爭位，阿尤布王朝就快速地土崩瓦解了。
+                >－伊朗語系，在血緣上更接近波斯人，才用波斯人替代。而在薩拉丁過世後，由於諸子爭位，阿尤布王朝就快速地土崩瓦解了。
               </li>
             </ul>
           </div>
@@ -240,7 +249,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link>
+              <nuxt-link to="/batt/Barbarossas_March">巴巴羅薩行軍</nuxt-link>
             </td>
           </tr>
           <tr>
