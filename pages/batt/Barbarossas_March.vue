@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>紅鬍子的行軍</h1>
+        <h1>巴巴羅薩行軍</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>紅鬍子的行軍</b>為<nuxt-link to="/batt/Barbarossa"
+            <b>巴巴羅薩行軍</b>（舊譯：紅鬍子的行軍）為<nuxt-link to="/batt/Barbarossa"
               >巴巴羅薩戰役</nuxt-link
             >的第五關劇情關卡。
           </p>
@@ -156,7 +156,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>
+              <nuxt-link to="/batt/The_Lombard_League">倫巴底聯盟</nuxt-link>
             </td>
           </tr>
           <tr>
