@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>教皇與僭稱教皇</h1>
+        <h1>宗教之爭</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>教皇與僭稱教皇</b>為<nuxt-link to="/batt/Barbarossa"
+            <b>宗教之爭</b>（舊譯：教皇與僭稱教皇）為<nuxt-link to="/batt/Barbarossa"
               >巴巴羅薩戰役</nuxt-link
             >的第三關劇情關卡，此<nuxt-link to="/batt">戰役</nuxt-link
             >為<nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -65,7 +65,7 @@
                 <div class="p4"></div>
                 玩家4
               </td>
-              <td class="tc6" width="35%" colspan="3">卡坎奴（黃色）條頓</td>
+              <td class="tc6" width="35%" colspan="3">帝國軍隊（黃色）條頓</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -76,13 +76,13 @@
                 <div class="p1"></div>
                 玩家2
               </td>
-              <td class="tc6">米蘭（藍色）條頓</td>
+              <td class="tc6">米蘭（藍色）義大利</td>
               <td class="tc6" width="15%">
                 <div class="p3"></div>
                 玩家3
               </td>
               <td class="tc6" width="35%">
-                克列瑪（綠色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+                克雷瑪（綠色）<nuxt-link to="/civs/Britons">義大利</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -128,7 +128,15 @@
           <ul>
             <li>
               你將需要<nuxt-link to="/units/Villager">村民</nuxt-link
-              >提供適當的攻勢，克列瑪的城鎮是提供米蘭補給品。在初期你大概需要小心照顧他們。
+              >提供適當的攻勢，克雷瑪的城鎮是提供米蘭補給品。在初期你大概需要小心照顧他們。
+            </li>
+          </ul>
+                  <h2>決定版變更點</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              人口上限由75改125，原本米蘭（條頓）和克雷瑪（不列顛）改義大利人，盟友卡坎奴改名帝國軍隊，初期自動研發部份僧侶的科技。
             </li>
           </ul>
           <h2>芝麻小事</h2>
@@ -143,7 +151,7 @@
                   to="/units/Spearman"
                   >長槍兵</nuxt-link
                 >與<nuxt-link to="/units/Archer">弓兵</nuxt-link
-                >防護，可以很容易地用起始軍力摧毀他們的武裝。招降了克列瑪的村民後便可開始建設基地，如果玩家黑心一點，也可以更改外交狀態，招降盟友卡坎奴的村民。
+                >防護，可以很容易地用起始軍力摧毀他們的武裝。招降了克列瑪的村民後便可開始建設基地，如果玩家黑心一點，也可以更改外交狀態，招降盟友帝國軍隊的村民。
               </li>
               <li>
                 這關基本上是要告訴玩家，條頓人的<nuxt-link to="/building/Castle"
@@ -167,10 +175,7 @@
                 登陸後，米蘭、河道衛兵會傾其所有兵力攻擊玩家登岸的軍隊，建議帶上足夠的村民、<nuxt-link
                   to="/units/Teutonic_Knight"
                   >條頓武士</nuxt-link
-                >，一登岸就插幾座城堡、駐進條頓武士，接下來的就是守株待兔，坐看敵人飛蛾撲火。等敵人軍隊消耗得差不多，帶上你的<nuxt-link
-                  to="/units/Paladin"
-                  >遊俠</nuxt-link
-                >、火砲，輕鬆地把米蘭城打下來吧！
+                >，一登岸就插幾座城堡駐兵。要注意的是由於米蘭改義大利人了，所以會有不少的匈牙利輕騎兵和熱那亞弩手，也會用攻程器拆我方的城堡，攻略難度比HD版難上一些。
               </li>
             </ol>
           </div>
@@ -235,7 +240,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>
+              <nuxt-link to="/batt/The_Lombard_League">倫巴底聯盟</nuxt-link>
             </td>
           </tr>
         </table>
