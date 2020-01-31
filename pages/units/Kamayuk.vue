@@ -46,6 +46,9 @@
               >也能有效且安全的摧毀它們。
             </li>
             <li>
+              對於庫曼和韃靼才可生產的草原騎兵，槍隊長可以有效的抗衡。由於草原騎兵同樣有射程1的特性，用其他單位去對抗容易會被先手吃一刀，但面對槍隊長時，這個優勢便不復存在。
+            </li>
+            <li>
               槍隊長與<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >一樣在面對其他<nuxt-link to="/units/Infantry_Units"
                 >步兵</nuxt-link
