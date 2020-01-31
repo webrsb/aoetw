@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>巴巴羅薩行軍</b>（舊譯：紅鬍子的行軍）為<nuxt-link to="/batt/Barbarossa"
+            <b>巴巴羅薩行軍</b>（舊譯：<b>紅鬍子的行軍</b>）為<nuxt-link
+              to="/batt/Barbarossa"
               >巴巴羅薩戰役</nuxt-link
             >的第五關劇情關卡。
           </p>
@@ -108,7 +109,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link>
+                <nuxt-link to="/batt/Barbarossas_March">巴巴羅薩行軍</nuxt-link>
               </div>
             </td>
           </tr>
