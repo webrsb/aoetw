@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>拜占庭帝國</b>或稱<b>東羅馬帝國</b>是中東的防禦型<nuxt-link
+            <b>拜占庭帝國</b>或稱<b>東羅馬帝國</b>是地中海的防禦型<nuxt-link
               to="/civs"
               >文明</nuxt-link
             >，可使用的最初文明之一。拜占庭<nuxt-link to="/units/Unique_Unit"
@@ -109,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit3">建築風格</td>
-            <td class="unit4">中東</td>
+            <td class="unit4">地中海</td>
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
@@ -234,6 +234,26 @@
       <em><nuxt-link to="/tree/byz">拜占庭科技樹</nuxt-link></em>
     </div>
     <br />
+            <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              獲得希臘火。
+            </li>
+          </ul>
+                  <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              建築風格由中東變更為地中海風格。
+            </li>
+          </ul>
+        </div>
     <h3>戰役</h3>
     <div class="hrn1"></div>
     <div class="n1">
