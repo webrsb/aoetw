@@ -63,7 +63,7 @@
             現代烏克蘭有著歐洲糧倉之稱的美名，因此<nuxt-link
               to="/units/Villager"
               >農夫</nuxt-link
-            >工作效率提高15%。遊戲中要顯示斯拉夫人深受拜占庭的影響因此包括<nuxt-link
+            >工作效率提高10%。遊戲中要顯示斯拉夫人深受拜占庭的影響因此包括<nuxt-link
               to="/techs/untech"
               >帝王特殊科技</nuxt-link
             >還有<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
@@ -100,11 +100,11 @@
             ><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >核心科技，<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >也無<nuxt-link to="/units/Camel">駱駝</nuxt-link
-            >和遊俠，僧侶雖然有東正教護甲但因前置條件太過嚴苛幾乎沒有實用性，更缺少<nuxt-link
+            >和遊俠，僧侶雖然有東正教護甲但因前置條件太過嚴苛幾乎沒有實用性，在決定版之前更缺少<nuxt-link
               to="/techs/Faith"
               >忠誠信仰</nuxt-link
             >/<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
-            >等關鍵科技也使的斯拉夫人本身蠻懼怕僧侶文明。
+            >等關鍵科技也使的斯拉夫人本身蠻懼怕僧侶文明，決定版可以研發忠誠信仰後這部份有獲得改善。
           </p>
           <h3>特殊單位</h3>
           <li>
@@ -113,7 +113,7 @@
               >貴族鐵騎</nuxt-link
             >：有強大防禦的騎士簡稱有馬的<nuxt-link to="/units/Teutonic_Knight"
               >條頓武士</nuxt-link
-            >
+            >，擅長和近戰單位交手，但容易敗給長槍兵、條頓武士、日本武士、槍隊長、烈提司等反制單位。
           </li>
           <h3>特殊科技</h3>
           <li>
@@ -134,16 +134,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>農民工作效率提升15%</li>
-            <li>
-              <nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>免費 (2013版)
-            </li>
-            <li>
-              <nuxt-link to="/techs/Supplies">供給</nuxt-link>免費 (<nuxt-link
-                to="/games/de"
-                >世紀帝國II：決定版</nuxt-link
-              >)
-            </li>
+            <li>農民工作效率提升10%</li>
+            <li><nuxt-link to="/techs/Supplies">供給</nuxt-link>免費</li>
             <li>攻城器製造所單位便宜15%</li>
             <li>
               <strong
@@ -175,12 +167,21 @@
           <ul>
             <li>貴族鐵騎的速度從1.35增加到1.4。</li>
           </ul>
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>免費升級追蹤技術改為免費升級供給。</li>
+            <li>貴族鐵騎訓練速度從23秒/20秒（一般/精銳）改為15秒。</li>
+            <li>農民工作效率由15%下修至10%。</li>
+            <li>獲得忠誠信仰。</li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>雖然是僧侶文明，卻也非常害怕僧侶。</li>
+            <li>雖然是僧侶文明，在決定版之前卻也非常害怕僧侶。</li>
             <li>雖然斯拉夫很晚才加入世紀帝國II，但三代很早就有俄國了。</li>
             <li>
               雖然城堡是軍事建築，但並未受到斯拉夫的軍事建築提供+5人口影響，可能城堡本身就提供人口了。
