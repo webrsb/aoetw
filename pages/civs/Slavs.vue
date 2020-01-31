@@ -135,9 +135,7 @@
         <div class="n1">
           <ul>
             <li>農民工作效率提升10%</li>
-            <li>
-              <nuxt-link to="/techs/Supplies">供給</nuxt-link>免費
-            </li>
+            <li><nuxt-link to="/techs/Supplies">供給</nuxt-link>免費</li>
             <li>攻城器製造所單位便宜15%</li>
             <li>
               <strong
@@ -169,7 +167,7 @@
           <ul>
             <li>貴族鐵騎的速度從1.35增加到1.4。</li>
           </ul>
-                    <h3>
+          <h3>
             <em>決定版</em>
           </h3>
           <ul>
