@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>倫巴聯盟</h1>
+        <h1>倫巴底聯盟</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>倫巴聯盟</b>為<nuxt-link to="/batt/Barbarossa"
+            <b>倫巴底聯盟</b>（舊譯：<b>倫巴聯盟</b>）為<nuxt-link
+              to="/batt/Barbarossa"
               >巴巴羅薩戰役</nuxt-link
             >的第四關劇情關卡。
           </p>
@@ -31,7 +32,7 @@
                 >／800<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">125</td>
             </tr>
           </table>
 
@@ -83,7 +84,9 @@
                 <div class="p3"></div>
                 玩家4
               </td>
-              <td class="tc6" width="38%">帕度亞（綠色）條頓</td>
+              <td class="tc6" width="38%">
+                帕度亞（綠色）<nuxt-link to="/civs/Italians">義大利</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc6">
@@ -91,7 +94,7 @@
                 玩家5
               </td>
               <td class="tc6">
-                佛<nuxt-link to="/units/hero/Roland">羅蘭</nuxt-link
+                <nuxt-link to="/units/hero/Roland">佛維諾納</nuxt-link
                 >（黃色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
             </tr>
@@ -125,64 +128,56 @@
           <div class="n1">
             <ol>
               <li>
-                在威尼斯、帕度亞或佛羅蘭的<nuxt-link to="/building/Stone_Wall"
+                在威尼斯、帕度亞或維洛納的<nuxt-link to="/building/Stone_Wall"
                   >城牆</nuxt-link
                 >之內建造奇觀。
               </li>
             </ol>
           </div>
         </div>
-        <h2>任務提示</h2>
+        <h2>芝麻小事</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
-              倫巴人在軍事上已經領先於你，所以你首先要建造防禦工事，然後再訓練你的軍隊。
+              倫巴底聯盟（<nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >語：Lega
+              Lombarda）是一個成立於1167年的中世紀聯盟，其目的是為了對抗霍亨斯陶芬家族的神聖羅馬帝國皇帝在義大利擴張勢力的企圖。在其巔峰時期，北義大利的多數城市都加入了同盟，並且得到了教皇的支持。隨著第三位、也是最後一位霍亨斯陶芬皇帝腓特烈二世在1250年去世，同盟的使命完成，並隨後解散。
+            </li>
+            <li>
+              往東走就能得到一批額外的援助：包括<nuxt-link
+                to="/units/Naval_Vessels"
+                >海軍</nuxt-link
+              >、陸軍與村民。在可見範圍內，有兩個地方可以重建你的基地：一是原先基地的南方、二則位於東北，需要穿越海洋，而且靠近帕度亞。東北方的區域適合建造<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >，既可以擋住敵人從陸上的進攻、也能抵遇海上的來襲，更是遠離猛獅亨利。
+            </li>
+            <li>
+              記得要控制好你的船隊，他們若逕行穿越海洋，很可能被威尼斯人的砲塔擊沉。帕度亞會佔領你的舊基地，並不會馬上就開始積極進攻，你會有時間可以重建你的城鎮。在北方建造你的城鎮，在樹林中、甚至在地圖的邊緣，可以避免威尼斯人侵略性的海上攻擊。在河岸上建立城堡，靠近帕度亞，並且可以抵禦渡河攻擊的敵軍，研發相關的<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >，運用條頓城堡卓越的射程，可以讓你省下不少事。
+            </li>
+            <li>
+              建議生產的單位是<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >與戰矛兵和火砲以及一些投石車，帕度亞除了會出騎兵還會用熱那亞弩手，若像舊版出騎兵會損失慘重，攻城武器用火砲和投石車對幹，猛獅亨利的條頓武士用火槍兵處理。由於決定版敵人的重生能力很強，要全滅需要花不少精力，只要在城牆內把世界奇觀建成即可過關。
             </li>
           </ul>
-          <h2>芝麻小事</h2>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>
-                倫巴聯盟（<nuxt-link to="/civs/Italians">義大利</nuxt-link
-                >語：Lega
-                Lombarda）是一個成立於1167年的中世紀聯盟，其目的是為了對抗霍亨斯陶芬家族的神聖羅馬帝國皇帝在義大利擴張勢力的企圖。在其巔峰時期，北義大利的多數城市都加入了同盟，並且得到了教皇的支持。隨著第三位、也是最後一位霍亨斯陶芬皇帝腓特烈二世在1250年去世，同盟的使命完成，並隨後解散。
-              </li>
-              <li>
-                往東走就能得到一批額外的援助：包括<nuxt-link
-                  to="/units/Naval_Vessels"
-                  >海軍</nuxt-link
-                >、陸軍與村民。在可見範圍內，有兩個地方可以重建你的基地：一是原先基地的南方、二則位於東北，需要穿越海洋，而且靠近帕度亞。東北方的區域適合建造<nuxt-link
-                  to="/building/Castle"
-                  >城堡</nuxt-link
-                >，既可以擋住敵人從陸上的進攻、也能抵遇海上的來襲，更是遠離猛獅亨利。
-              </li>
-              <li>
-                記得要控制好你的船隊，他們若逕行穿越海洋，很可能被威尼斯人的砲塔擊沉。帕度亞會佔領你的舊基地，並不會馬上就開始積極進攻，你會有時間可以重建你的城鎮。在北方建造你的城鎮，在樹林中、甚至在地圖的邊緣，可以避免威尼斯人侵略性的海上攻擊。在河岸上建立城堡，靠近帕度亞，並且可以抵禦渡河攻擊的敵軍，研發相關的<nuxt-link
-                  to="/techs"
-                  >科技</nuxt-link
-                >，運用條頓城堡卓越的射程，可以讓你省下不少事。
-              </li>
-              <li>
-                建議生產的單位是<nuxt-link to="/units/Halberdier"
-                  >戟兵</nuxt-link
-                >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-                >與<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-                >（<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-                >），如此一來既可以對復帕度亞的騎兵、<nuxt-link
-                  to="/units/Siege_Weapons"
-                  >攻城武器</nuxt-link
-                >，也能夠處理猛獅亨利的條頓武士。在你的士兵的護衛下，運用<nuxt-link
-                  to="/units/Trebuchet"
-                  >巨型投石機</nuxt-link
-                >摧毀帕度亞的城牆，搭配城堡與軍隊，你應該很輕鬆就能消耗敵人的資源，摧毀他們的城鎮後，蓋好<nuxt-link
-                  to="/building/Wonder"
-                  >世界奇觀</nuxt-link
-                >，便可輕鬆取勝。
-              </li>
-            </ul>
-          </div>
+        </div>
+
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              人口上限由75改125，帕度亞文明由條頓改義大利。維洛納出兵變強很多。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">
@@ -190,7 +185,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                倫巴聯盟
+                倫巴底聯盟
               </div>
             </td>
           </tr>
@@ -238,13 +233,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link>
+              <nuxt-link to="/batt/Pope_and_Antipope">宗教之爭</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link>
+              <nuxt-link to="/batt/Barbarossas_March">巴巴羅薩行軍</nuxt-link>
             </td>
           </tr>
         </table>
