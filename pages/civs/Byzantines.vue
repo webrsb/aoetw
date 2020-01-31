@@ -234,26 +234,24 @@
       <em><nuxt-link to="/tree/byz">拜占庭科技樹</nuxt-link></em>
     </div>
     <br />
-            <h3>更新日誌</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <h3>
-            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>
-              獲得希臘火。
-            </li>
-          </ul>
-                  <h3>
-            <em>決定版</em>
-          </h3>
-          <ul>
-            <li>
-              建築風格由中東變更為地中海風格。
-            </li>
-          </ul>
-        </div>
+    <h3>更新日誌</h3>
+    <div class="hrn1"></div>
+    <div class="n1">
+      <h3>
+        <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+      </h3>
+      <ul>
+        <li>獲得<nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link>。</li>
+      </ul>
+      <h3>
+        <em>決定版</em>
+      </h3>
+      <ul>
+        <li>
+          建築風格由中東變更為地中海風格。
+        </li>
+      </ul>
+    </div>
     <h3>戰役</h3>
     <div class="hrn1"></div>
     <div class="n1">
@@ -269,7 +267,7 @@
         >第五關<nuxt-link to="/batt/Jihad">聖戰</nuxt-link
         >的十字軍泰爾，以及<nuxt-link to="/batt/Barbarossa"
           >巴巴羅薩戰役</nuxt-link
-        >第四關<nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link
+        >第四關<nuxt-link to="/batt/The_Lombard_League">倫巴底聯盟</nuxt-link
         >中的威尼斯(實際上應該是<nuxt-link to="/civs/Italians"
           >義大利人</nuxt-link
         >)等等..不是扮演原本就是拜占庭帝國的耶路撒冷或是君士坦丁堡，就是代替當時的<nuxt-link
@@ -309,14 +307,14 @@
       <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
       <ul>
         <li>
-          <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>:威尼斯
+          <nuxt-link to="/batt/The_Lombard_League">倫巴底聯盟</nuxt-link>:威尼斯
         </li>
         <li>
           <nuxt-link to="/batt/The_Emperor_Sleeping">沉睡的皇帝</nuxt-link
           >:耶路撒冷
         </li>
         <li>
-          <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link
+          <nuxt-link to="/batt/Barbarossas_March">巴巴羅薩行軍</nuxt-link
           >:加利波利
         </li>
       </ul>
