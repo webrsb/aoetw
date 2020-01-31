@@ -204,6 +204,17 @@
             <li>異端審判成本從400g/400f降低為300g/100f。</li>
             <li>4.8版後，貿易加成從33%降低到25%。</li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/ak">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              傳教士治癒能力同僧侶，且研發<nuxt-link to="/techs/Husbandry"
+                >耕種技術</nuxt-link
+              >有效。
+            </li>
+            <li>建築風格改地中海。</li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
@@ -286,7 +297,7 @@
           </tr>
           <tr>
             <td class="unit3">建築風格</td>
-            <td class="unit4">西歐</td>
+            <td class="unit4">地中海</td>
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
