@@ -423,9 +423,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Pope_and_Antipope"
-                      >教皇與僭稱教皇</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Pope_and_Antipope">宗教之爭</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -433,7 +431,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/The_Lombard_League"
-                      >倫巴聯盟</nuxt-link
+                      >倫巴底聯盟</nuxt-link
                     >
                   </div>
                 </td>
@@ -442,7 +440,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/Barbarossas_March"
-                      >紅鬍子的行軍</nuxt-link
+                      >巴巴羅薩行軍</nuxt-link
                     >
                   </div>
                 </td>

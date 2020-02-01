@@ -92,9 +92,9 @@
             <td class="unit4">
               <nuxt-link to="/batt/Holy_Roman_Emperor">羅馬皇帝</nuxt-link>•
               <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>•
-              <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link
-              >• <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>•
-              <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link>•
+              <nuxt-link to="/batt/Pope_and_Antipope">宗教之爭</nuxt-link
+              >• <nuxt-link to="/batt/The_Lombard_League">倫巴底聯盟</nuxt-link>•
+              <nuxt-link to="/batt/Barbarossas_March">巴巴羅薩行軍</nuxt-link>•
               <nuxt-link to="/batt/The_Emperor_Sleeping">沉睡的皇帝</nuxt-link>
             </td>
           </tr>

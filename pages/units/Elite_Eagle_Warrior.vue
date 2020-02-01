@@ -612,8 +612,8 @@
               <div class="unititle">
                 <img
                   src="~assets/EliteEagleWarriorIcon.png"
-                  width="45"
                   alt=""
+                  class="img-fluid"
                 />
               </div>
             </td>

@@ -574,7 +574,7 @@
             <td class="tunitc4">
               <nuxt-link to="/techs/Warwolf">戰狼號</nuxt-link>
             </td>
-            <td class="tunitc5">500W 250G</td>
+            <td class="tunitc5">800W 400G</td>
             <td class="tunitc6">
               <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
               >有範圍傷害，對靜止單位有100%命中率。

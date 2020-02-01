@@ -565,7 +565,7 @@
             </p>
             <p>
               登場戰役：<nuxt-link to="/batt/Barbarossas_March"
-                >紅鬍子的行軍</nuxt-link
+                >巴巴羅薩行軍</nuxt-link
               >、<nuxt-link to="/batt/Walls_of_Constantinople"
                 >君士坦丁堡的城牆</nuxt-link
               >
@@ -820,7 +820,7 @@
               >、成吉思汗6-<nuxt-link to="/batt/Pax_Mongolia"
                 >蒙古太平</nuxt-link
               >、<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
-              >4-<nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link
+              >4-<nuxt-link to="/batt/The_Lombard_League">倫巴底聯盟</nuxt-link
               >、阿提拉6-羅馬的衰落
             </p>
           </div>

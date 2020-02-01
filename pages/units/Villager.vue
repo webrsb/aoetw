@@ -1089,7 +1089,7 @@
                   <b-tab title="女村民">
                     <img
                       src="~assets/VillagerFemaleIcon.png"
-                      width="45"
+                      class="img-fluid"
                       alt=""
                     />
                   </b-tab>

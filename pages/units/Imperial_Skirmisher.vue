@@ -528,8 +528,8 @@
               <div class="unititle">
                 <img
                   src="~assets/Imperialskirmishericon.png"
-                  width="45"
                   alt=""
+                  class="img-fluid"
                 />
               </div>
             </td>

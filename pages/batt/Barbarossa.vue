@@ -52,16 +52,16 @@
                   <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/batt/Pope_and_Antipope"
-                    >教皇與僭稱教皇</nuxt-link
+                  <nuxt-link to="/batt/Pope_and_Antipope">宗教之爭</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Lombard_League"
+                    >倫巴底聯盟</nuxt-link
                   >
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>
-                </li>
-                <li>
                   <nuxt-link to="/batt/Barbarossas_March"
-                    >紅鬍子的行軍</nuxt-link
+                    >巴巴羅薩行軍</nuxt-link
                   >
                 </li>
                 <li>

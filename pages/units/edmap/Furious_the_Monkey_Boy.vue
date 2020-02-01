@@ -64,8 +64,8 @@
               <div class="unititle">
                 <img
                   src="~assets/Furiousthemonkeyboyicon.png"
-                  width="45"
                   alt=""
+                  class="img-fluid"
                 />
               </div>
             </td>

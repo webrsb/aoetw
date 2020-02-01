@@ -737,8 +737,8 @@
               <div class="unititle">
                 <img
                   src="~assets/EliteBattleElephantIcon.png"
-                  width="45"
                   alt=""
+                  class="img-fluid"
                 />
               </div>
             </td>

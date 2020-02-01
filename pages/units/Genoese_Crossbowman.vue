@@ -598,8 +598,8 @@
               <div class="unititle">
                 <img
                   src="~assets/New_Genoese_Crossbowman.png"
-                  width="45"
                   alt=""
+                  class="img-fluid"
                 />
               </div>
             </td>
