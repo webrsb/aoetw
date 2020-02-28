@@ -30,6 +30,10 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>:採金技術免費。
             </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：研發該科技不消耗木材
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -42,6 +46,20 @@
               >黑暗時代</nuxt-link
             >開始這些貴金屬在表面上幾乎找不到。要找到更多就必須從地下開採。由於貨幣和珠寶需求的推動，中世紀早期的黃金勘探和黃金開採技術相當進步。"</em
           >
+        </div>
+
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              (35584更新)：研發經濟科技不消耗木材
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">

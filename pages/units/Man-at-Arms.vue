@@ -418,7 +418,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：裝甲步兵從封建時代開始便宜35％並對<nuxt-link
+              >：裝甲步兵便宜35％並對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+1。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
@@ -474,6 +474,10 @@
               >/帝王時代加10％/15％/20％的<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
               >。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：裝甲步兵從城堡時代開始，近戰防禦+1
             </li>
           </ul>
         </div>
@@ -581,6 +585,15 @@
               >科技現在讓裝甲步兵對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >有額外+4攻擊。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：裝甲步兵從城堡時代開始，近戰防禦+1
             </li>
           </ul>
         </div>

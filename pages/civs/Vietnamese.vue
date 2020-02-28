@@ -205,6 +205,12 @@
                 >:</strong
               >能升級至帝王戰矛兵
             </li>
+            <li>
+              研發經濟科技不消耗木材，包含但不限於<nuxt-link
+                to="/techs/Wheelbarrow"
+                >輪軸技術</nuxt-link
+              >、<nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>
+            </li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -223,6 +229,14 @@
             <li>
               <nuxt-link to="/news/ver-5.8">5.8版</nuxt-link
               >後，越南射箭場單位血量加成原本+10%/+15%/+20% → 皆 +20%
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (35584更新) 研發經濟科技不消耗木材
             </li>
           </ul>
         </div>

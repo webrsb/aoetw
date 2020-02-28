@@ -708,6 +708,9 @@
                 >徵兵技術</nuxt-link
               >。
             </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：戟兵近戰防禦+1
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -779,6 +782,15 @@
               5.7版本後戟兵對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >有+26的攻擊。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：戟兵近戰防禦+1
             </li>
           </ul>
         </div>

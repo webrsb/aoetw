@@ -818,11 +818,22 @@
           </h3>
           <ul>
             <li>
+              遠程防禦為3/4(精銳)
+            </li>
+            <li>
               最初非精銳的標槍騎兵有4的攻擊與3的射程，4.8版後為3的攻擊與4的射程。
             </li>
             <li>
               最初<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
               >的文明加成快15％的軍事單位生產速度，標槍騎兵並不適用，4.8版後標槍騎兵也適用了。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (35584更新) 非精銳的遠程防禦增加為4
             </li>
           </ul>
         </div>
@@ -1023,7 +1034,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
-            <td class="unit4">3、4(精銳)</td>
+            <td class="unit4">4</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>

@@ -480,10 +480,12 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：雙手劍兵在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/帝王時代加15％/20％的<nuxt-link to="/elements/Hit_points"
+              >：雙手劍兵20％的<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
               >。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：雙手劍兵近戰防禦+1
             </li>
           </ul>
         </div>
@@ -603,6 +605,15 @@
               >科技現在讓雙手劍兵對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >有額外+4攻擊。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：雙手劍兵近戰防禦+1
             </li>
           </ul>
         </div>
