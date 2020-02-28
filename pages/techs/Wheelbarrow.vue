@@ -55,6 +55,10 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>：該科技免費。
             </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：研發該科技不消耗木材。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -65,6 +69,19 @@
               >手推車</nuxt-link
             >或單輪手推車是一項重大發明。中世紀早期的工業很少。經濟主要靠種植農作物，放牧，收集和建設。獨輪車提供了重要的生產力改進。
           </p>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              (35584更新)：研發經濟科技不消耗木材
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">

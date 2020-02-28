@@ -486,6 +486,9 @@
                 >生命值</nuxt-link
               >。
             </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：長劍兵近戰防禦+1
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -604,6 +607,15 @@
               >科技現在讓長劍兵對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >有額外+4攻擊。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：長劍兵近戰防禦+1
             </li>
           </ul>
         </div>

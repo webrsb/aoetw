@@ -352,7 +352,7 @@
               >：農田建成速度快30%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：農田便宜33%。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：農田便宜40%。
             </li>
           </ul>
         </div>
@@ -427,7 +427,11 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-              >(34699更新) 農夫不在需要有磨坊或市鎮中心便能放下食物
+              >(34699更新)：農夫不在需要有磨坊或市鎮中心便能放下食物
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>(35584更新)
+              文明加成使農田減免增加為40%
             </li>
           </ul>
         </div>

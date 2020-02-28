@@ -29,10 +29,7 @@
             >)
           </p>
           <p>
-            中世紀的開始通常被標記為476年，也就是當哥德的入侵終於導致羅馬的滅亡開始，此後的將近900多年被史學稱之為<nuxt-link
-              to="/techs/age/Dark_Age"
-              >黑暗時代</nuxt-link
-            >。
+            中世紀的開始通常被標記為476年，也就是當哥德的入侵終於導致羅馬的滅亡開始，此後的將近900多年被史學稱之為黑暗時代。
           </p>
           <p>
             如今大多數人所知道的"哥德"就是哥德式建築風格，通常為帶有尖形拱門的高聳建築，並大量使用彩繪玻璃。哥德蘿莉風與哥德金屬樂團則是以黑色為主，大概是繼承了<nuxt-link
@@ -135,7 +132,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+              <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
               >開始步兵花費減少35%
             </li>
             <li>
@@ -167,7 +164,7 @@
             <li>哥德的步兵是遊戲最便宜，且生產也最快。</li>
             <li>哥德步兵若算上費用減免與特殊單位，則為遊戲中最強。</li>
             <li>哥德有早期的獵人優勢，但實際上沒什麼用。</li>
-            <li>封建的步兵很便宜，可以用大量步兵壓制對手。</li>
+            <li>步兵很便宜，可以用大量步兵壓制對手。</li>
             <li>
               軍營可以生產哥德衛隊，所以相對其他文明不需要太多<nuxt-link
                 to="/resource/Stone"
@@ -199,7 +196,6 @@
           </ul>
           <strong>劣勢</strong>
           <ul>
-            <li>哥德黑暗時代跟所有文明相同，並無任何強力的加成。</li>
             <li>
               由於沒有<nuxt-link to="/building/Stone_Wall">石牆</nuxt-link
               >與任何<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
@@ -652,45 +648,65 @@
               </td>
             </tr>
           </table>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              哥德衛隊的英文發音跟<nuxt-link to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >非常相似，常常會有人弄混。
+            </li>
+            <li>
+              哥德是唯一無法建造石牆與<nuxt-link to="/building/Gate"
+                >城門</nuxt-link
+              >的文明。
+            </li>
+            <li>
+              哥德在正史中沒有使用<nuxt-link to="/units/Gunpowder_Unit"
+                >火藥</nuxt-link
+              >部隊的紀錄，但是出於遊戲平衡，他們擁有所有火藥部隊。
+            </li>
+            <li>
+              雖然在世紀帝國II中哥德是步兵文明，但歷史上的哥德以騎兵為主。
+            </li>
+            <li>
+              哥德步兵常被戲稱為三色布丁，若是有義大利為同盟則是四色布丁。
+            </li>
+            <li>在25人口上限的遊戲中，哥德比別人多了40%人口上限。</li>
+          </ul>
+        </div>
 
-          <h3>趣事</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>
-                哥德衛隊的英文發音跟<nuxt-link to="/units/Hussar"
-                  >匈牙利輕騎兵</nuxt-link
-                >非常相似，常常會有人弄混。
-              </li>
-              <li>
-                哥德是唯一無法建造石牆與<nuxt-link to="/building/Gate"
-                  >城門</nuxt-link
-                >的文明。
-              </li>
-              <li>
-                哥德在正史中沒有使用<nuxt-link to="/units/Gunpowder_Unit"
-                  >火藥</nuxt-link
-                >部隊的紀錄，但是出於遊戲平衡，他們擁有所有火藥部隊。
-              </li>
-              <li>
-                雖然在世紀帝國II中哥德是步兵文明，但歷史上的哥德以騎兵為主。
-              </li>
-              <li>
-                哥德步兵常被戲稱為三色布丁，若是有義大利為同盟則是四色布丁。
-              </li>
-              <li>在25人口上限的遊戲中，哥德比別人多了40%人口上限。</li>
-            </ul>
-          </div>
-          <h3>圖庫</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
-                /></gallery>
-                <p><em>哥德的建築風格</em></p>
-              </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">帝王世紀</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              封建時代開始步兵花費減少35%
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (35584更新) 從黑暗時代開始便享有文明加成
+            </li>
+          </ul>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
+              /></gallery>
+              <p><em>哥德的建築風格</em></p>
             </div>
           </div>
         </div>

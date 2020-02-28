@@ -37,6 +37,10 @@
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：該科技免費。
             </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：研發該科技不消耗木材
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -48,6 +52,19 @@
               >木頭</nuxt-link
             >和金屬製成的犁，這些犁可以深深挖進在上一次冰河時代之後沉積在歐洲平原上的茂密密實的土壤中。這些地區的高大草原完全打消以前任何的耕種嘗試。強大的犁車前面由強大的馬力拉著，挖開了這些土壤，開闢了大量的土地。其生產力非常高，並大大增加了糧食產量，也因此人口也跟著增加。"</em
           >
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              (35584更新)：研發經濟科技不消耗木材
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">

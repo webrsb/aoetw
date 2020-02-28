@@ -102,6 +102,10 @@
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >各便宜15%/20%。
             </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：研發該科技不消耗木材
+            </li>
           </ul>
         </div>
         <h3>更新日誌</h3>
@@ -142,6 +146,15 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
               >:在5.7版本後沒有免費的採金裝置了。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              (35584更新)：研發經濟科技不消耗木材
             </li>
           </ul>
         </div>

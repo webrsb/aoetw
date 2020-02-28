@@ -33,6 +33,10 @@
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >各便宜15%/20%。
             </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：研發該科技不消耗木材
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -41,6 +45,19 @@
           <em
             >"弓形鋸有一個像弓一樣的圓形手柄，鋸片連接著弓端。使用弓形鋸的伐木工能減少浪費並從每棵樹中獲得更多可用的木材。"</em
           >
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              (35584更新)：研發經濟科技不消耗木材
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">

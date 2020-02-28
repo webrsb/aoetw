@@ -36,6 +36,10 @@
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：該科技免費。
             </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：研發該科技不消耗木材
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -48,6 +52,19 @@
               >中國</nuxt-link
             >，發明了一種胸前領，並在之後傳播到歐洲。這對歐洲農業來說是一個重要的創新，因為它極大地提高了馬匹的拉力。減少了耕地所需的時間，並讓更多的土地被種植。"</em
           >
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              (35584更新)：研發經濟科技不消耗木材
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">

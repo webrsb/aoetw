@@ -19,7 +19,7 @@
             >的明智選擇。對抵抗<nuxt-link to="/units/Monk">僧侶</nuxt-link
             ><nuxt-link to="/elements/Conversion">招降</nuxt-link
             >較佳與對<nuxt-link to="/armor/Armor_Class_Monk">僧侶類</nuxt-link
-            >有+6攻擊加成。
+            >有+6攻擊加成。起始斥侯擁有自動探圖功能，能夠像AI一樣自動探索。
           </p>
           <p>
             除了<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
@@ -629,6 +629,14 @@
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
               >現在便宜15%。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (35584更新) 起始斥侯擁有自動探圖功能。
             </li>
           </ul>
         </div>

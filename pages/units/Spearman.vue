@@ -666,6 +666,10 @@
                 >生命值</nuxt-link
               >。
             </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：長槍兵從城堡時代開始，近戰防禦+1
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -771,6 +775,15 @@
               >:5.7版本後，<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
               >+4攻擊，而不是+2。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：長槍兵從城堡時代開始近戰防禦+1
             </li>
           </ul>
         </div>
