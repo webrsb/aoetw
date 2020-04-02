@@ -13,6 +13,7 @@
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
             >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >訓練速度+400%。
           </p>
@@ -120,7 +121,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">輕騎兵和馬弓騎兵訓練速度+400%。</td>
+            <td class="unit4">輕騎兵、草原騎兵和馬弓騎兵訓練速度+400%。</td>
           </tr>
         </table>
 
