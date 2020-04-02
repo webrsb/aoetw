@@ -13,7 +13,7 @@
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
-            >+1射程。
+            >+2射程、可啟用 <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -103,13 +103,13 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">400</td>
+            <td class="unit4">500</td>
           </tr>
           <tr>
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">500</td>
+            <td class="unit4">400</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
@@ -119,7 +119,7 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>+1射程。
+              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>+2射程、可啟用 <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
             </td>
           </tr>
         </table>
