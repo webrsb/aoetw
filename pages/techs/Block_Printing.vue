@@ -42,6 +42,9 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
                 to="/civs/Britons"
                 >不列顛</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
               >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
                 to="/civs/Byzantines"
                 >拜占庭</nuxt-link
@@ -88,9 +91,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
                 to="/civs/Celts"
                 >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
                 >匈人</nuxt-link
@@ -131,6 +132,15 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:可以研發印刷技術了。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Chinese/">中國</nuxt-link
+              >(36399更新):可以研發印刷技術了。
             </li>
           </ul>
         </div>

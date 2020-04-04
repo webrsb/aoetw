@@ -626,6 +626,9 @@
           </h3>
           <ul>
             <li>
+              訓練時間為28秒
+            </li>
+            <li>
               <nuxt-link to="/civs/Malay">馬來</nuxt-link
               >:精銳矛象伕最初便宜20%，5.3版後便宜25%，5.7版後便宜30%。
             </li>
@@ -652,6 +655,9 @@
           <ul>
             <li>
               攻擊力由16調降為14
+            </li>
+            <li>
+              (34699更新) 訓練時間減少為24秒
             </li>
           </ul>
         </div>
@@ -787,7 +793,7 @@
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
-            <td class="unit4">28秒</td>
+            <td class="unit4">24秒</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">

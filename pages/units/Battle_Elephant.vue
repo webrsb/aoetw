@@ -619,6 +619,9 @@
           </h3>
           <ul>
             <li>
+              訓練時間為28秒
+            </li>
+            <li>
               <nuxt-link to="/civs/Malay">馬來</nuxt-link
               >:矛象伕最初便宜20%，5.3版後便宜25%，5.7版後便宜30%。
             </li>
@@ -637,6 +640,15 @@
                 to="/techs/Chatras"
                 >恰特拉傘</nuxt-link
               >最初給予矛象伕+30HP，5.7版後增加為+50HP。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>(34699更新) 訓練時間減少為24秒</li>
+            <li>
+              成就「暗殺屈出律」：遊戲時間20分鐘以內殺死屈出律。標準模式下，利用一開始的兵可以辦到。用一隻輕騎兵引開西遼的軍隊，其他人趁機砍破木牆之後小心繞過防線直接把屈出律殺掉即可。
             </li>
           </ul>
         </div>
@@ -761,7 +773,7 @@
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
-            <td class="unit4">28秒</td>
+            <td class="unit4">24秒</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">

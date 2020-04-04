@@ -58,6 +58,19 @@
             >，並擔任王子最親密的顧問。在13世紀之後，王家侍從這個詞已經不再使用了。
           </p>
         </div>
+
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (34699更新) 王家侍從不再能影響遠程步兵單位
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
