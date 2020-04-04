@@ -697,6 +697,15 @@
               (35584更新) 從黑暗時代開始便享有文明加成
             </li>
           </ul>
+          <ul>
+            <li>
+              (36202更新)
+              在黑暗/封建/城堡/帝王時代，步兵減免改為20%/25%/30%/35%，且對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊+0/+1/+2/+3。
+            </li>
+          </ul>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>

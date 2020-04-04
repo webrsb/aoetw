@@ -400,9 +400,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：民兵便宜35％並對<nuxt-link to="/armor/Armor_Class_Building"
+              >：民兵在黑暗/封建/城堡/帝王時代，減免為20%/25%/30%/35%，對<nuxt-link
+                to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
+              >攻擊+0/+1/+2/+3。研發<nuxt-link to="/techs/Perfusion"
+                >井噴</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
@@ -560,6 +562,15 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               (35584更新)：民兵從城堡時代開始，近戰防禦+1
             </li>
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Goths">哥德</nuxt-link
+                >(36202更新)：在黑暗/封建/城堡/帝王時代，民兵減免改為20%/25%/30%/35%，且對<nuxt-link
+                  to="/armor/Armor_Class_Building"
+                  >建築物</nuxt-link
+                >攻擊+0/+1/+2/+3。
+              </li>
+            </ul>
           </ul>
         </div>
         <h3>趣事</h3>

@@ -81,6 +81,29 @@
             >"縱火是蓄意放火燒毀建築物，荒地，垃圾箱，車輛或其他財產而造成損害的罪行。它可能與其他原因如自燃和天然野火區分開來縱火往往涉及蓄意向另一人或自己財產的製造火災，以詐領保險賠償金。"</em
           >
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>縱火引進，所有文明皆可研發</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：長劍兵近戰防禦+1
+            </li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >(36202更新)：不可研發縱火
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -105,7 +128,9 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">所有文明</td>
+            <td class="unit4">
+              除了<nuxt-link to="/civs/Goths">哥德</nuxt-link>以外的所有文明
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

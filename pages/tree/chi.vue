@@ -1246,7 +1246,7 @@
               />
               <div><nuxt-link to="/units/Missionary">傳教士</nuxt-link></div>
             </td>
-            <td class="t11 trm">
+            <td class="t11 trm not">
               <img class="gg" src="~assets/redemption.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Redemption">神聖思想</nuxt-link></div>
             </td>
