@@ -418,10 +418,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：裝甲步兵便宜35％並對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link
-              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
+              >：裝甲步兵在封建/城堡/帝王時代，減免為25%/30%/35%，對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊+1/+2/+3。研發<nuxt-link to="/techs/Perfusion"
+                >井噴</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
@@ -594,6 +595,13 @@
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               (35584更新)：裝甲步兵從城堡時代開始，近戰防禦+1
+            </li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >(36202更新)：在封建/城堡/帝王時代，裝甲步兵減免改為25%/30%/35%，且對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊+1/+2/+3。
             </li>
           </ul>
         </div>

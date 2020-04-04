@@ -59,28 +59,25 @@
               >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
                 to="/civs/Byzantines"
                 >拜占庭</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
-              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                to="/civs/Italians"
-                >義大利</nuxt-link
-              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
-                to="/civs/Khmer"
-                >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
-                to="/civs/Malians"
-                >馬利</nuxt-link
-              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
-                to="/civs/Saracens"
-                >薩拉森</nuxt-link
-              >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
-                to="/civs/Spanish"
-                >西班牙</nuxt-link
-              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>。<nuxt-link
-                to="/civs/Turks"
-                >土耳其</nuxt-link
-              >。
+              >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
+                to="/civs/Indians"
+                >印度</nuxt-link
+              >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Malay"
+                >馬來</nuxt-link
+              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
+              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Teutons"
+                >條頓</nuxt-link
+              >。<nuxt-link to="/civs/Turks">土耳其</nuxt-link>。
             </div>
           </div>
         </div>
@@ -96,7 +93,9 @@
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
                 to="/civs/Celts"
                 >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
@@ -208,6 +207,19 @@
           <p>
             從信仰中墮落的人贖回自己的能力是宗教的寬容行為。原諒和允許贖罪的宗教比沒有贖罪的宗教在傳教上更有優勢。
           </p>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Chinese/">中國</nuxt-link
+              >(36202更新):不能研發神聖思想。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">
