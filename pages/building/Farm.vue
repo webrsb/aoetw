@@ -421,6 +421,15 @@
           <ul>
             <li>蓋在紅樹林上的水田，與一般農田無異。</li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >(34699更新) 農夫不在需要有磨坊或市鎮中心便能放下食物
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
