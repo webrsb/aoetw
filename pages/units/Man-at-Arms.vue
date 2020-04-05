@@ -174,7 +174,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">協議</nuxt-link
-              >:步兵近戰防禦+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br /> 
+              >:民兵系近戰防禦+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br /> 
             </td>
           </tr>
           <tr>
@@ -603,8 +603,13 @@
             <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
           </h3>
           <ul>
+           <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：協議增加民兵系近戰防禦+3。
+            </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，裝甲步兵近戰防禦+5。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >(34055更新)：協議現在增加民兵系近戰防禦+5。
             </li>
             <li>
             <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
