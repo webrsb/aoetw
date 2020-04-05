@@ -222,7 +222,10 @@
                   (<nuxt-link to="/civs/Goths">哥德</nuxt-link>)<br />
                   <nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>/
                   <nuxt-link to="/techs/Atheism">無神論</nuxt-link>
-                  (<nuxt-link to="/civs/Huns">匈人</nuxt-link>)
+                  (<nuxt-link to="/civs/Huns">匈人</nuxt-link>)<br />
+                  <nuxt-link to="/techs/Hill_Forts">山城堡</nuxt-link>/
+                  <nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>
+                  (<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>)
                   <br />
                 </div>
                 <div class="col-md-4">
@@ -255,7 +258,13 @@
                   (<nuxt-link to="/civs/Malians">馬利</nuxt-link>)<br />
                   <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>/
                   <nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>
-                  (<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>)
+                  (<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>)<br />
+                  <nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link>/
+                  <nuxt-link to="/techs/Bagains">協議</nuxt-link>
+                  (<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>)<br />
+                  <nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>/
+                  <nuxt-link to="/techs/Timurid_Siegecraft">帖木兒攻城術</nuxt-link>
+                  (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>)
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/techs/Nomads">游牧</nuxt-link>/
@@ -287,7 +296,10 @@
                   (<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>)<br />
                   <nuxt-link to="/techs/Chieftains">酋長</nuxt-link>/
                   <nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link>
-                  (<nuxt-link to="/civs/Vikings">維京</nuxt-link>)
+                  (<nuxt-link to="/civs/Vikings">維京</nuxt-link>)<br />
+                  <nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link>/
+                  <nuxt-link to="/techs/Cuman_Mercenaries">庫曼傭兵</nuxt-link>
+                  (<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>)
                 </div>
               </div>
             </td>

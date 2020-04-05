@@ -518,6 +518,74 @@
               >攻擊+4。
             </td>
           </tr>
+          <tr>
+            <td class="tunitc6">
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link>
+            </td>
+            <td class="tunitc5">400F 200G</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
+              >攻速+25%。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/civs/Cumans"
+                >庫曼</nuxt-link
+              >
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link>
+            </td>
+            <td class="tunitc5">200F 300W</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >訓練速度+50%。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/techs/Hill_Forts">山城堡</nuxt-link>
+            </td>
+            <td class="tunitc5">250F 250G</td>
+            <td class="tunitc6">
+              <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>射程+3。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>
+            </td>
+            <td class="tunitc5">400W 300G</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。
+            </td>
+          </tr>
         </table>
 
         <h3>帝王時代</h3>
@@ -1045,6 +1113,78 @@
             <td class="tunitc6">
               <nuxt-link to="/units/Berserk">狂戰士</nuxt-link
               >回血速度提升(每分鐘回20 HP變每分鐘回40 HP)。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/techs/Bagains">協議</nuxt-link>
+            </td>
+            <td class="tunitc5">900F 450G</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Militia">民兵系</nuxt-link
+              ><nuxt-link to="/armor/Armor_Class_Infantry">近程護甲</nuxt-link
+              >+5。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/civs/Cumans">庫曼</nuxt-link>
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/techs/Cuman_Mercenaries">庫曼傭兵</nuxt-link>
+            </td>
+            <td class="tunitc5">650F 400G</td>
+            <td class="tunitc6">
+              隊伍成員能在城堡免費生產10名精銳<nuxt-link to="/units/Kipchaks"
+                >欽察</nuxt-link
+              >。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>
+            </td>
+            <td class="tunitc5">800F 200G</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>系和<nuxt-link
+                to="/units/Skirmisher"
+                >矛兵</nuxt-link
+              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/techs/Timurid_Siegecraft">帖木兒攻城術</nuxt-link>
+            </td>
+            <td class="tunitc5">500W 400G</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>+2射程、可啟用
+              <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
             </td>
           </tr>
         </table>
