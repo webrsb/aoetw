@@ -22,26 +22,33 @@
         <div class="n1">
           <ul>
             <li>
-              波斯弓兵是一項非常有用的科技，<nuxt-link to="/units/Archer">弓兵</nuxt-link
-            >系只花費60<nuxt-link to="/resource/Wood">木材</nuxt-link
-            >，但為了保持遊戲平衡，波斯缺乏<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
-            >和<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
-            >的升級。話雖如此，<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
-            >在後期對戰中也能用於對抗<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-            >。另外，波斯弓兵只需木材，因此能將<nuxt-link to="/resource/Food">食物</nuxt-link
-            >和<nuxt-link to="/resource/Gold">黃金</nuxt-link
-            >都投入到<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
-            >中，由弩兵來射殺剋制戰象的<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
-            >和<nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >。加上戰象和弩兵的移動速度都差不多，兩者可以互相配合。
+              波斯弓兵是一項非常有用的科技，<nuxt-link to="/units/Archer"
+                >弓兵</nuxt-link
+              >系只花費60木材，但為了保持遊戲平衡，波斯缺乏<nuxt-link
+                to="/units/Arbalest"
+                >強弩兵</nuxt-link
+              >和<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
+              >的升級。話雖如此，弩兵在後期對戰中也能用於對抗<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >。另外，波斯弓兵只需木材，因此能將<nuxt-link to="/resource/Food"
+                >食物</nuxt-link
+              >和<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >都投入到<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >中，由弩兵來射殺剋制戰象的<nuxt-link to="/units/Spearman"
+                >長槍兵</nuxt-link
+              >和<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >。加上戰象和弩兵的移動速度都差不多，兩者可以互相配合。
             </li>
             <li>
-              就像<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            ><nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
-            >和<nuxt-link to="/civs/Malay">馬來</nuxt-link
-            >的特殊科技<nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link
-            >一樣，應儘快研發波斯弓兵，以便最大程度地使用弓兵。由放弓兵要花費45黃金，因此玩家最好在需要7名或更多的弓箭手的情況下才研究，否則波斯弓兵的黃金成本會不划算。 (7×45=315)
+              就像<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>的<nuxt-link
+                to="/techs/untech"
+                >特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
+              >和<nuxt-link to="/civs/Malay">馬來</nuxt-link
+              >的特殊科技<nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link
+              >一樣，應儘快研發波斯弓兵，以便最大程度地使用弓兵。由放弓兵要花費45黃金，因此玩家最好在需要7名或更多的弓箭手的情況下才研究，否則波斯弓兵的黃金成本會不划算。
+              (7×45=315)
             </li>
           </ul>
         </div>
@@ -132,7 +139,9 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              訓練徒步弓兵系消耗額外木材，而不消耗黃金。
+              訓練<nuxt-link to="/units/Archer">徒步弓兵</nuxt-link
+              >系消耗額外<nuxt-link to="/resource/Wood">木材</nuxt-link
+              >，而不消耗<nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
           </tr>
         </table>
