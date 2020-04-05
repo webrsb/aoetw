@@ -250,6 +250,20 @@
               </td>
             </tr>
             <tr>
+              <td class="tta1">射程</td>
+              <td class="tta4">
+                <img
+                  class="gg"
+                  src="~assets/unique_tech.png"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Hill_Forts">山城堡</nuxt-link
+                >：<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+                >射程+3。<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+                >限定
+              </td>
+            </tr>
+            <tr>
               <td class="tta1" style="width:20%">命中率</td>
               <td class="tta4">
                 <img
@@ -452,6 +466,16 @@
               >對他們的攻擊加乘沒有了，現在<nuxt-link to="/building/Town_Center"
                 >城鎮中心</nuxt-link
               >對他們攻擊+1。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>:
+              引入<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Hill_Forts">山城堡</nuxt-link>
             </li>
           </ul>
         </div>
