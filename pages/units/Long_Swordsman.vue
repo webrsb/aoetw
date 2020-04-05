@@ -626,16 +626,12 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：協議增加民兵系3近防。
+              >：協議增加民兵系近戰防禦+3。
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >(34055更新)：協議現在增加民兵系5近防。
+              >(34055更新)：協議現在增加民兵系近戰防禦+5。
             </li>
-            <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新)：雙手劍兵近戰防禦+1。            
-              </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               (35584更新)：長劍兵近戰防禦+1。
