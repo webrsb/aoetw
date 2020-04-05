@@ -15,7 +15,7 @@
             >研發。研發後<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
             >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >訓練速度+400%。
+            >訓練速度+50%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -43,7 +43,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速堡壘的研究時間(快25%)。
+              >能夠加速大草原耕種技術的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -121,11 +121,11 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">輕騎兵、草原騎兵和馬弓騎兵訓練速度+400%。</td>
+            <td class="unit4">輕騎兵、草原騎兵和馬弓騎兵訓練速度+50%。</td>
           </tr>
         </table>
 
-        <div class="thanks">感謝! </div>
+        <div class="thanks">感謝! singsing612</div>
       </div>
     </div>
   </div>
