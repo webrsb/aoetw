@@ -42,12 +42,15 @@
             </li>
             <li>
               <nuxt-link to="/units/Monk">僧侶</nuxt-link
-              >對貴族鐵騎一定的破壞力，雖然決定版後斯拉夫擁有忠誠信仰，但因為速度不快又缺少<nuxt-link to="/techs/Heresy"
+              >對貴族鐵騎一定的破壞力，雖然決定版後斯拉夫擁有忠誠信仰，但因為速度不快又缺少<nuxt-link
+                to="/techs/Heresy"
                 >異端邪說</nuxt-link
               >，導致貴族鐵騎容易成為敵方僧侶招降的目標。
             </li>
             <li>
-              貴族鐵騎的弱點跟一般騎兵一樣，因為<nuxt-link to="/armor/Armor_Class_Camel">駱駝系</nuxt-link
+              貴族鐵騎的弱點跟一般騎兵一樣，因為<nuxt-link
+                to="/armor/Armor_Class_Camel"
+                >駱駝系</nuxt-link
               >或<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
               >等反騎兵單位以及日本武士這個反特殊單位對貴族鐵騎有一定的破壞力，雖然近防很高但跟以上單位交手時優勢沒很明顯。決定版中多了一個新天敵──立陶宛文明的烈堤司，因為該兵種在和軍事單位交手時無視護甲值，又可能因為聖物有額外的攻擊力，和除了上述以外的近戰單位相比能完全能輕鬆的打敗貴族鐵騎。
             </li>
@@ -491,7 +494,7 @@
           <ul>
             <li>4.8版後貴族鐵騎移動速度增加為1.4。</li>
           </ul>
-                    <h3>
+          <h3>
             <em>決定版</em>
           </h3>
           <ul>
