@@ -418,7 +418,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：長劍兵近戰防禦+5。
+              >：<nuxt-link to="/units/Militia">民兵系</nuxt-link
+              >升級免費。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
