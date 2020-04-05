@@ -8,25 +8,30 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>帖木兒攻城術</b>是<nuxt-link to="/civs/Tatars"
-            >韃靼</nuxt-link>的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            <b>帖木兒攻城術</b>是<nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
-            >+2射程、可啟用 <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
+            >+2射程、可啟用
+            <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <ul>
-            <li>
-              韃靼本身已經擁有<nuxt-link to="/techs/Siege_Engineers"
-            >攻城工程師</nuxt-link>，可以增加<nuxt-link to="/units/Siege_Weapons"
-            >攻城單位</nuxt-link>的射程和對建築物傷害，加上對低地建築物傷害+ 50％的文明加成，韃靼<nuxt-link to="/units/Trebuchet"
-            >投石機</nuxt-link>本身已經很強。全滿的投石機會成為遊戲中射程最遠的單位（總共18射程），投石機也可以更自由地安裝。而韃靼應先在<nuxt-link to="/building/University">大學</nuxt-link>研發攻城工程師，因為它可以給投石機+1射程，並且對建築物有高的傷害，同時也會影響其他攻城單位。
-            </li>
-          </ul>
+          <p>
+            韃靼本身已經擁有<nuxt-link to="/techs/Siege_Engineers"
+              >攻城工程師</nuxt-link
+            >，可以增加<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
+            >的射程和對建築物傷害，加上對低地建築物傷害+
+            50％的文明加成，韃靼<nuxt-link to="/units/Trebuchet"
+              >投石機</nuxt-link
+            >本身已經很強。全滿的投石機會成為遊戲中射程最遠的單位（總共18射程），投石機也可以更自由地安裝。而韃靼應先在<nuxt-link
+              to="/building/University"
+              >大學</nuxt-link
+            >研發攻城工程師，因為它可以給投石機+1射程，並且對建築物有高的傷害，同時也會影響其他攻城單位。
+          </p>
         </div>
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
@@ -119,7 +124,8 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>+2射程、可啟用 <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
+              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>+2射程、可啟用
+              <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
             </td>
           </tr>
         </table>
