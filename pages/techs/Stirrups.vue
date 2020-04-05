@@ -150,7 +150,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝!</div>
+        <div class="thanks">感謝! singsing612</div>
       </div>
     </div>
   </div>
