@@ -12,8 +12,8 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Militia">民兵</nuxt-link
-            >系<nuxt-link to="/armor/Armor_Class_Infantry">近程護甲</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Militia">民兵系</nuxt-link
+            ><nuxt-link to="/armor/Armor_Class_Infantry">近程護甲</nuxt-link
             >+5。
           </p>
         </div>
@@ -58,7 +58,7 @@
             <li>
               但是，極高的近防仍不敵會無視近防的<nuxt-link to="/units/Leitis"
                 >烈堤司</nuxt-link
-              >、還有對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
+              >，還有對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
               >有額外傷害的<nuxt-link to="/units/Cataphract"
                 >拜占庭聖騎兵</nuxt-link
               >和<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>。
