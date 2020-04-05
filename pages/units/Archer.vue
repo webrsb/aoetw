@@ -236,6 +236,20 @@
               /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
             </td>
           </tr>
+          <tr>
+            <td class="tta1" style="width:10%">
+              其它
+            </td>
+            <td class="tta4">
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Kamandaran"
+                >波斯弓兵</nuxt-link
+              >:訓練<nuxt-link to="/units/Archer">徒步弓兵</nuxt-link
+              >系消耗額外<nuxt-link to="/resource/Wood">木材</nuxt-link
+              >，而不消耗<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >。<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定
+            </td>
+          </tr>
         </table>
 
         <h3>剋射手系的單位</h3>
@@ -611,6 +625,17 @@
                 to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >攻擊+6
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>: 將<nuxt-link
+                to="/techs/Boiling_Oil"
+                >沸油</nuxt-link
+              >取代為<nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link>
             </li>
           </ul>
         </div>
