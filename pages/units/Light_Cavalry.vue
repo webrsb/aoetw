@@ -289,6 +289,14 @@
               >：馬廄工作速率快40%。<nuxt-link to="/civs/Franks"
                 >法蘭克</nuxt-link
               >限定
+              <br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
+              >：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >訓練速度+50%。<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定
             </td>
           </tr>
         </table>
@@ -720,6 +728,12 @@
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
               >：引入<nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link
               >輕騎兵攻速+25%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：引入<nuxt-link
+                to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
+              >輕騎兵訓練速度+50%。
             </li>
           </ul>
         </div>
