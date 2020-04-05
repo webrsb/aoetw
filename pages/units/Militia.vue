@@ -149,7 +149,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
-              >(+1/+2)
+              >(+1/+2) <br />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Druzhina">協議</nuxt-link
+              >:步兵近程護甲+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br />  
             </td>
           </tr>
           <tr>
@@ -383,6 +390,10 @@
               >：民兵生產速度提高15％。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：民兵近程護甲+5。
+            </li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >：民兵在封建/<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
@@ -554,6 +565,9 @@
             <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
           </h3>
           <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，民兵近程護甲+5
+            </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>
               (35584更新) 民兵從黑暗時代開始便宜35%
