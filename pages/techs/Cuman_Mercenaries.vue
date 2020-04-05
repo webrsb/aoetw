@@ -12,7 +12,9 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後隊伍成員能在城堡免費生產10名精銳<nuxt-link to="/units/Kipchaks">欽察</nuxt-link
+            >研發。研發後隊伍成員能在城堡免費生產10名精銳<nuxt-link
+              to="/units/Kipchaks"
+              >欽察</nuxt-link
             >。
           </p>
         </div>
@@ -22,14 +24,23 @@
           <ul>
             <li>
               <nuxt-link to="/units/Kipchaks">欽察</nuxt-link
-            >是一個出色的突襲部隊，因此這項科技對突襲十分有用。而且這科技也可以受益於同盟的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >（例如，<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-            >因為<nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
-            >的特殊科技使得擁有更長射程和更高攻擊力的精銳欽察）。而10個精銳欽察對打帶跑戰術也十分有用。
+              >是一個出色的突襲部隊，因此這項科技對突襲十分有用。而且這科技也可以受益於同盟的<nuxt-link
+                to="/techs/untech"
+                >特殊科技</nuxt-link
+              >（例如，<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+              >因為<nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
+              >的特殊科技使得擁有更長射程和更高攻擊力的精銳欽察）。而10個精銳欽察對打帶跑戰術也十分有用。
             </li>
             <li>
-              這項科技也有疊加效果，比如由4名<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-            >玩家組成的隊伍中，每位隊員也可以研究科技來為自己和隊員增加10個精銳欽察，因此整個團隊總共會有160個精銳欽察，總費用為2,600<nuxt-link to="/resource/Food">食物</nuxt-link>和1600<nuxt-link to="/resource/Gold">黃金</nuxt-link>，而不是正常訓練欽察的9,600<nuxt-link to="/resource/Wood">木材</nuxt-link>和5,600黃金（不包括升級精鋭的成本）。
+              這項科技也有疊加效果，比如由4名<nuxt-link to="/civs/Cumans"
+                >庫曼</nuxt-link
+              >玩家組成的隊伍中，每位隊員也可以研究科技來為自己和隊員增加10個精銳欽察，因此整個團隊總共會有160個精銳欽察，總費用為2,600<nuxt-link
+                to="/resource/Food"
+                >食物</nuxt-link
+              >和1600<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >，而不是正常訓練欽察的9,600<nuxt-link to="/resource/Wood"
+                >木材</nuxt-link
+              >和5,600黃金（不包括升級精鋭的成本）。
             </li>
           </ul>
         </div>
@@ -80,8 +91,10 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -121,7 +134,11 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">隊伍成員能在城堡免費生產10名精銳欽察。</td>
+            <td class="unit4">
+              隊伍成員能在城堡免費生產10名精銳<nuxt-link to="/units/Kipchaks"
+                >欽察</nuxt-link
+              >。
+            </td>
           </tr>
         </table>
 
