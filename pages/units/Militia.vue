@@ -440,7 +440,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：民兵黃金成本減少15％。
+              >：民兵黃金成本減少15％。。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
@@ -471,7 +471,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：民兵從城堡時代開始，近戰防禦+1
+              >：民兵從城堡時代開始，近戰防禦+1。
             </li>
           </ul>
         </div>
@@ -526,7 +526,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:1.0c後，<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >民兵從封建時代開始便宜35%
+              >民兵從封建時代開始便宜35%。
             </li>
           </ul>
           <h3>
@@ -566,15 +566,15 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，民兵近戰防禦+5
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，民兵近戰防禦+5。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>
-              (35584更新) 民兵從黑暗時代開始便宜35%
+              (35584更新) 民兵從黑暗時代開始便宜35%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新) 民兵從城堡時代開始，近戰防禦+1
+              (35584更新) 民兵從城堡時代開始，近戰防禦+1。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新)
