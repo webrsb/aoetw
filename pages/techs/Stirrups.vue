@@ -13,8 +13,7 @@
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
-            >攻速+33%。
+            >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>攻速+25%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -23,21 +22,37 @@
           <ul>
             <li>
               <nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
-            >是在遊戲中最慢攻速的單位， 但在研發馬鐙科技後，保加利亞騎兵攻速會和<nuxt-link to="/units/Knight">騎士</nuxt-link
-            >一様，同時擁有比騎士更高的攻擊，因此在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >中，保加利亞騎兵的這項科技是必須的，但是成本非常高，因此建議先研發<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >科技。 在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >中，精銳保加利亞騎兵的攻速比<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-            >還快， 加上容易生產和下馬後能作為步兵繼續作戰的能力，使保加利亞騎兵成為遊戲中最好的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-            >和<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>之一。
+              >是在遊戲中最慢攻速的單位，
+              但在研發馬鐙科技後，保加利亞騎兵攻速會和<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >一様，同時擁有比騎士更高的攻擊，因此在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >中，保加利亞騎兵的這項科技是必須的，但是成本非常高，因此建議先研發<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技。 在<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >中，精銳保加利亞騎兵的攻速比<nuxt-link to="/units/Paladin"
+                >遊俠</nuxt-link
+              >還快，
+              加上容易生產和下馬後能作為步兵繼續作戰的能力，使保加利亞騎兵成為遊戲中最好的<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >和<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>之一。
             </li>
             <li>
               馬鐙還影響<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >，這使他們能在垃圾兵中佔據巨大優勢，而且全滿的保加利亞<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
-            >會成為遊戲中最強的輕騎兵，能在一對一戰鬥中擊敗與普通匈牙利輕騎兵、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-            >匈牙利輕騎兵， 甚至是已研發<nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link
-            >的<nuxt-link to="/civs/Malians">馬利</nuxt-link
-            >輕騎兵。
+              >，這使他們能在垃圾兵中佔據巨大優勢，而且全滿的保加利亞<nuxt-link
+                to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >會成為遊戲中最強的輕騎兵，能在一對一戰鬥中擊敗與普通匈牙利輕騎兵、<nuxt-link
+                to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >匈牙利輕騎兵， 甚至是已研發<nuxt-link to="/techs/Farimba"
+                >驃悍精神</nuxt-link
+              >的<nuxt-link to="/civs/Malians">馬利</nuxt-link>輕騎兵。
             </li>
           </ul>
         </div>
@@ -127,11 +142,15 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">輕騎兵和保加利亞騎兵攻速+33%。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
+              >攻速+25%。
+            </td>
           </tr>
         </table>
 
-        <div class="thanks">感謝! </div>
+        <div class="thanks">感謝!</div>
       </div>
     </div>
   </div>
