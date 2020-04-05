@@ -167,7 +167,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
-              >(+1/+2)
+              >(+1/+2)<br />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Druzhina">協議</nuxt-link
+              >:步兵近戰防禦+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br /> 
             </td>
           </tr>
           <tr>
@@ -400,6 +407,10 @@
               >：裝甲步兵生產速度提高15％。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：裝甲步兵近戰防禦+5。
+            </li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >：裝甲步兵在封建/<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
@@ -593,7 +604,10 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，裝甲步兵近戰防禦+5
+            </li>
+            <li>
+            <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               (35584更新)：裝甲步兵從城堡時代開始，近戰防禦+1。
             </li>
             <li>
