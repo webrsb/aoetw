@@ -156,7 +156,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">協議</nuxt-link
-              >:步兵近程護甲+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br />  
+              >:步兵近戰防禦+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br />  
             </td>
           </tr>
           <tr>
@@ -391,7 +391,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：民兵近程護甲+5。
+              >：民兵近戰防禦+5。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
@@ -566,7 +566,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，民兵近程護甲+5
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，民兵近戰防禦+5
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>
