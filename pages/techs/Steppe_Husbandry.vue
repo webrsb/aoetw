@@ -23,15 +23,21 @@
         <div class="n1">
           <ul>
             <li>
-              大草原耕種技術提升了<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-            >的主要單位：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >的訓練速度。 如果是想組建一支快速並具成本效益的軍隊的話，再配合着庫曼<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-            >移動速度的文明加成(騎兵速度在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >提升10％/ 15％)。這項科技將非常有用，但此科技並不影響<nuxt-link to="/units/Kipchaks">欽察</nuxt-link
-            >和<nuxt-link to="/units/Genitour/">標槍騎兵</nuxt-link
-            >。
+              大草原耕種技術提升了庫曼的主要單位：<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >的訓練速度。
+              如果是想組建一支快速並具成本效益的軍隊的話，再配合着庫曼<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >移動速度的文明加成(騎兵速度在城堡時代/<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >提升10％/ 15％)。這項科技將非常有用，但此科技並不影響<nuxt-link
+                to="/units/Kipchaks"
+                >欽察</nuxt-link
+              >和<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>。
             </li>
           </ul>
         </div>
@@ -121,7 +127,12 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">輕騎兵、草原騎兵和馬弓騎兵訓練速度+50%。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >訓練速度+50%
+            </td>
           </tr>
         </table>
 
