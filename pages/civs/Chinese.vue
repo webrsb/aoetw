@@ -567,7 +567,7 @@
               中國研發雕版印刷技術，或稱為活字版印刷，卻沒有<nuxt-link
                 to="/techs/Block_Printing"
                 >印刷技術</nuxt-link
-              >，直到決定版更新檔34399才獲得。
+              >，直到決定版更新檔34699才獲得。
             </li>
             <li>中國研發火砲，卻沒有火砲。</li>
             <li>
@@ -588,11 +588,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em>決定版</em>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              更新檔34399後，新增印刷技術。
+              (36399更新) 新增印刷技術。
             </li>
           </ul>
         </div>

@@ -718,6 +718,9 @@
                 >徵兵技術</nuxt-link
               >。
             </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：戟兵近戰防禦+1
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -798,6 +801,10 @@
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
               >：引入<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：戟兵近戰防禦+1。
             </li>
           </ul>
         </div>

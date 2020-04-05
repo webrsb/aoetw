@@ -51,7 +51,7 @@
                 to="/units/Samurai"
                 >日本武士</nuxt-link
               >或<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
-              >，條頓武士還是得俯首稱臣。
+              >；以及不論多高的護甲值都視如草芥，直接給予帳面攻擊力值傷害的烈堤司，條頓武士還是得俯首稱臣。
             </li>
             <li>
               條頓武士最大的缺點是在於大量的盔甲降低了他們的移動速度，幾乎所有<nuxt-link
@@ -118,7 +118,7 @@
                 >火槍兵</nuxt-link
               >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>和<nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、拜占庭聖騎兵、豹勇士、日本武士、烈堤司和<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >。

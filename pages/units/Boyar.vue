@@ -42,23 +42,17 @@
             </li>
             <li>
               <nuxt-link to="/units/Monk">僧侶</nuxt-link
-              >對貴族鐵騎一定的破壞力，因斯拉夫沒有<nuxt-link to="/techs/Heresy"
+              >對貴族鐵騎一定的破壞力，雖然決定版後斯拉夫擁有忠誠信仰，但因為速度不快又缺少<nuxt-link
+                to="/techs/Heresy"
                 >異端邪說</nuxt-link
-              >和<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
-              >，這也間接的說明了<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link
-              >蠻懼怕<nuxt-link to="/units/Monk">僧侶</nuxt-link
-              ><nuxt-link to="/civs">文明</nuxt-link>。
+              >，導致貴族鐵騎容易成為敵方僧侶招降的目標。
             </li>
             <li>
-              貴族鐵騎雖然是特殊單位卻沒特殊裝甲，裝甲分類是屬於<nuxt-link
-                to="/armor/Armor_Class_Cavalry"
-                >騎兵裝甲</nuxt-link
-              >，因此<nuxt-link to="/armor/Armor_Class_Camel">駱駝系</nuxt-link
+              貴族鐵騎的弱點跟一般騎兵一樣，因為<nuxt-link
+                to="/armor/Armor_Class_Camel"
+                >駱駝系</nuxt-link
               >或<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
-              >對貴族鐵騎有一定的破壞力。(代表近防雖高跟<nuxt-link
-                to="/units/Spearman"
-                >槍兵</nuxt-link
-              >或者駱駝對打時高近防優勢沒很明顯)。
+              >等反騎兵單位以及日本武士這個反特殊單位對貴族鐵騎有一定的破壞力，雖然近防很高但跟以上單位交手時優勢沒很明顯。決定版中多了一個新天敵──立陶宛文明的烈堤司，因為該兵種在和軍事單位交手時無視護甲值，又可能因為聖物有額外的攻擊力，和除了上述以外的近戰單位相比能完全能輕鬆的打敗貴族鐵騎。
             </li>
             <li>
               貴族鐵騎因為需要<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -99,7 +93,7 @@
                 >僧侶</nuxt-link
               >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
-              >、防禦建築、<nuxt-link to="/units/Archer_Units"
+              >、烈堤司、防禦建築、<nuxt-link to="/units/Archer_Units"
                 >弓兵單位</nuxt-link
               >
             </td>
@@ -500,6 +494,12 @@
           <ul>
             <li>4.8版後貴族鐵騎移動速度增加為1.4。</li>
           </ul>
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>訓練速度由原本的23/20(一般/精銳)秒下修至15秒(含精銳)。</li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
@@ -649,7 +649,7 @@
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
-            <td class="unit4">23/20(精銳)秒</td>
+            <td class="unit4">15(含精銳)秒</td>
           </tr>
           <tr>
             <td

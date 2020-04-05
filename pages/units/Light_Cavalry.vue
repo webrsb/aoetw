@@ -228,6 +228,17 @@
                 alt=""
               /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
               >(+1/+2)
+              <br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Silk_Armor"
+                >絲護甲</nuxt-link
+              >：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >限定
             </td>
           </tr>
           <tr>
@@ -239,6 +250,20 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Rate_of_Fire">攻速</nuxt-link>
+            </td>
+            <td class="tta4">
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Stirrups"
+                >馬鐙</nuxt-link
+              >：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
+              >攻速+25%。<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >限定
             </td>
           </tr>
           <tr>
@@ -275,6 +300,14 @@
               >：馬廄工作速率快40%。<nuxt-link to="/civs/Franks"
                 >法蘭克</nuxt-link
               >限定
+              <br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
+              >：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >訓練速度+50%。<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定
             </td>
           </tr>
         </table>
@@ -619,6 +652,38 @@
             </li>
           </ul>
         </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              一旦到了<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+              >，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或<nuxt-link
+                to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >更快。
+            </li>
+          </ul>
+        </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            輕騎兵是騎馬的輕裝部隊，與穿著沉重鎧甲（有時包括馬）重騎兵相對，輕騎兵的主要任務基本上是偵查、掩護、散兵、突襲，並且他們裝備矛、劍、弓和之後出現的手槍。
+          </p>
+          <p>
+            古希臘和古羅馬，較少運用輕騎兵，儘管羅馬輔助部隊經常騎馬，但是中亞遊牧民族卻經常使用輕騎兵。而<nuxt-link
+              to="/civs/Huns"
+              >匈人</nuxt-link
+            >、突厥、<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
+            >和<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            >人都很擅長輕騎兵和弓騎兵。
+          </p>
+          <p>
+            隨著歐洲封建制度及<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >的沒落，在歐洲大陸中，輕騎兵成為重要的作戰部隊。許多輕騎兵都裝備了火器以替代老式的弓箭。歐洲人使用輕騎兵的例子還包括斯抓迪亞特、哈伯勒、驃騎兵、哥薩克、及一些龍騎兵。
+          </p>
+        </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -666,38 +731,31 @@
               >:在5.5版後輕騎兵現在便宜15%。
             </li>
           </ul>
-        </div>
-        <h3>趣事</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aor">決定版</nuxt-link></em>
+          </h3>
           <ul>
             <li>
-              一旦到了<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
-              >，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或<nuxt-link
-                to="/units/Hussar"
-                >匈牙利輕騎兵</nuxt-link
-              >更快。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：引入<nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link
+              >輕騎兵攻速+25%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：引入<nuxt-link
+                to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
+              >輕騎兵訓練速度+50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">韃靼</nuxt-link>：引入<nuxt-link
+                to="/techs/Silk_Armor"
+                >絲護甲</nuxt-link
+              ><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。
             </li>
           </ul>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <p>
-            輕騎兵是騎馬的輕裝部隊，與穿著沉重鎧甲（有時包括馬）重騎兵相對，輕騎兵的主要任務基本上是偵查、掩護、散兵、突襲，並且他們裝備矛、劍、弓和之後出現的手槍。
-          </p>
-          <p>
-            古希臘和古羅馬，較少運用輕騎兵，儘管羅馬輔助部隊經常騎馬，但是中亞遊牧民族卻經常使用輕騎兵。而<nuxt-link
-              to="/civs/Huns"
-              >匈人</nuxt-link
-            >、突厥、<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
-            >和<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-            >人都很擅長輕騎兵和弓騎兵。
-          </p>
-          <p>
-            隨著歐洲封建制度及<nuxt-link to="/units/Knight">騎士</nuxt-link
-            >的沒落，在歐洲大陸中，輕騎兵成為重要的作戰部隊。許多輕騎兵都裝備了火器以替代老式的弓箭。歐洲人使用輕騎兵的例子還包括斯抓迪亞特、哈伯勒、驃騎兵、哥薩克、及一些龍騎兵。
-          </p>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>

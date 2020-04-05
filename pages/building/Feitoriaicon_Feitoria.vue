@@ -14,13 +14,14 @@
             >於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >可以建造的特殊<nuxt-link to="/building">建築物</nuxt-link
             >。不需<nuxt-link to="/units/Villager">村民</nuxt-link
-            >蒐幫忙蒐集資源，港灣大商站每秒會給玩家0.8<nuxt-link
+            >蒐幫忙蒐集資源，港灣大商站每秒會給玩家1.6<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link
-            >、0.8<nuxt-link to="/resource/Wood">木材</nuxt-link
-            >、0.45<nuxt-link to="/resource/Gold">黃金</nuxt-link
-            >和0.25<nuxt-link to="/resource/Stone">石頭</nuxt-link
-            >，也就是每分鐘會給48食物、48木材27黃金和15石頭。不過港灣大商站需要佔用20人口。
+            >、11<nuxt-link to="/resource/Wood">木材</nuxt-link>、0.7<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >和0.3<nuxt-link to="/resource/Stone">石頭</nuxt-link
+            >，也就是每分鐘會給96食物、60木材42黃金和18石頭。不過港灣大商站需要佔用20人口。
           </p>
         </div>
         <h3>戰術</h3>
@@ -180,6 +181,14 @@
             <li>4.8版後港灣大商站建造花費250黃金和250石頭。</li>
             <li>
               4.8版後港灣大商站每秒給玩家0.8食物、0.8木材、0.45黃金和0.25石頭
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (35584更新)：港灣大商站每秒給玩家1.6食物、1木材、0.7黃金和0.3石頭
             </li>
           </ul>
         </div>

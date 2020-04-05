@@ -596,7 +596,7 @@
             <td class="unit3">特殊技術</td>
             <td class="unit4">
               <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
-                to="/techs/"
+                to="/techs/Kamandaran"
                 >波斯弓兵</nuxt-link
               ><br />
               <img

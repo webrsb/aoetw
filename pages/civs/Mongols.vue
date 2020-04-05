@@ -48,7 +48,7 @@
             >。但蒙古人也有<nuxt-link to="/units/Camel">駱駝</nuxt-link
             >，是除了<nuxt-link to="/civs/Chinese">中國人</nuxt-link
             >與非洲中東<nuxt-link to="/civs">文明</nuxt-link
-            >外，唯二有<nuxt-link to="/units/Camel">駱駝</nuxt-link>的。
+            >外，唯二有<nuxt-link to="/units/Camel">駱駝</nuxt-link>的。在決定版的一次更新獲得了草原騎兵以後，多了一個可以運用的騎兵系選擇，而且也擁有30%的生命值加成，包含血統更有98/124的生命值加上不俗的攻擊力以及多1的射程，遠遠比韃靼和庫曼的草原騎兵更為難纏。
           </p>
           <h3>特殊單位</h3>
           <ul>
@@ -90,9 +90,9 @@
                 >與<nuxt-link to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 ></nuxt-link
-              >+30%HP
+              >以及草原騎兵系+30%HP
             </li>
-            <li>打獵的效率提高+50%</li>
+            <li>打獵的效率提高+40%</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
@@ -128,6 +128,25 @@
               >。
             </li>
             <li>蒙古突騎開伙延遲-50%(10到5)</li>
+          </ul>
+          <h3>
+            <em>非洲王朝</em>
+          </h3>
+          <ul>
+            <li>
+              4.8b蒙古突騎對攻城武器的加成改回原始設定，即對全部攻城器都有效。
+            </li>
+          </ul>
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              (35584更新) 打獵速度由50%降到40%，獲得<nuxt-link
+                to="/units/Steppe_Lancer.vue"
+                >草原騎兵</nuxt-link
+              >且享有30%的生命值加成。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>

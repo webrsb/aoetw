@@ -102,6 +102,10 @@
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >各便宜15%/20%。
             </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：研發該科技不消耗木材
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -110,6 +114,19 @@
           <em
             >"當歐洲城堡正在建設，城鎮正在加固，日益富裕的羅馬天主教會開始建造其大教堂時，對石材的需求迅速增加。石材切割成為重要的貿易需要新技術才能獲得理想的石材，因為在某些地區容易得到的地表石材來源正迅速耗盡。"</em
           >
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              (35584更新)：研發經濟科技不消耗木材
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">

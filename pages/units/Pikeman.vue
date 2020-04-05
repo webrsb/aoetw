@@ -618,10 +618,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：重裝長槍兵便宜35％而且對<nuxt-link
+              >：重裝長槍兵在城堡/帝王時代，減免為30%/35%，對<nuxt-link
                 to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
+              >攻擊+2/+3。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
@@ -673,6 +673,10 @@
               >/帝王時代擁有15％/20％的<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
               >。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：重裝長槍兵近戰防禦+1
             </li>
           </ul>
         </div>
@@ -788,6 +792,22 @@
               >:5.7版本後，<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
               >+4攻擊，而不是+2。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：重裝長槍兵近戰防禦+1
+            </li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >(36202更新)：在城堡/帝王時代，重裝長槍兵減免改為30%/35%，且對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊+2/+3。
             </li>
           </ul>
         </div>

@@ -622,9 +622,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：長槍兵便宜35％而且對<nuxt-link to="/armor/Armor_Class_Building"
+              >：長槍兵在封建/城堡/帝王時代，減免為25%/30%/35%，對<nuxt-link
+                to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
+              >攻擊+1/+2/+3。研發<nuxt-link to="/techs/Perfusion"
+                >井噴</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
@@ -675,6 +677,10 @@
               >/帝王時代擁有10％/15％/20％的<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
               >。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：長槍兵從城堡時代開始，近戰防禦+1
             </li>
           </ul>
         </div>
@@ -790,6 +796,17 @@
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
               >：引入<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：長槍兵從城堡時代開始近戰防禦+1
+            </li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >(36202更新)：在封建/城堡/帝王時代，長槍兵減免改為25%/30%/35%，且對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊+1/+2/+3。
             </li>
           </ul>
         </div>

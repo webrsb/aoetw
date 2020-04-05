@@ -260,7 +260,9 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">除了哥德以外的所有文明</td>
+            <td class="unit4">
+              除了<nuxt-link to="/civs/Goths">哥德</nuxt-link>以外的所有文明
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

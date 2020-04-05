@@ -170,6 +170,14 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >(+1)
+              <br />
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Timurid_Siegecraft"
+                >帖木兒攻城術</nuxt-link
+              >(+2)。<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定
             </td>
           </tr>
           <tr>
@@ -521,6 +529,17 @@
                 to="/techs/Ironclad"
                 >鋼鐵甲</nuxt-link
               >
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：引進<nuxt-link
+                to="/techs/Timurid_Siegecraft"
+                >帖木兒攻城術</nuxt-link
+              >。
             </li>
           </ul>
         </div>

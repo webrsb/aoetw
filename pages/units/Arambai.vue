@@ -305,6 +305,16 @@
               >為50，5.8後增加到80
             </li>
           </ul>
+          <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>(34699更新) 成本降為75木材, 60黃金</li>
+            </ul>
+          </div>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -483,7 +493,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">80</td>
+            <td class="unit4">75</td>
           </tr>
           <tr>
             <td class="unit3">

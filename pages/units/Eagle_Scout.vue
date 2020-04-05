@@ -31,7 +31,7 @@
             >》，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >便可以生產鷹斥侯，到了<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >可以升為鷹勇士。
+            >可以升為鷹勇士。起始鷹斥候擁有自動探圖功能，能夠像AI一樣自動探索。
           </p>
         </div>
         <h3>戰術</h3>
@@ -535,6 +535,14 @@
                 to="/techs/Couriers"
                 >信使</nuxt-link
               >給予鷹斥侯+1/+2的防禦。移除+10％的速度。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (35584更新) 起始鷹斥侯擁有自動探圖功能。
             </li>
           </ul>
         </div>

@@ -39,13 +39,16 @@
             >的情況是特別有趣的，因為他們的獨特技術之一是<nuxt-link
               to="/techs/Forced_Levy"
               >強制徵兵</nuxt-link
-            >，使得劍兵系列不用耗費<nuxt-link to="/resource/Gold"
+            >，使得民兵系列不用耗費<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link
             >訓練，使得這些部隊成為後期“垃圾戰爭”中一個可行的策略，輕鬆擊敗其他垃圾單位（<nuxt-link
               to="/units/Halberdier"
               >戟兵</nuxt-link
             >，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>）。
+          </p>
+          <p>
+            保加利亞人則是升時代後擁有民兵系可以免費研發直接升級的優勢在，升帝王時就可以考慮生一堆長劍兵等上帝後猛攻一波，且研發獨特科技協議後更是擁有加高達8的近防。由於劍兵免費升級偏強勢，該文明沒有劍兵勇士，協議算是為了平衡這一點。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -184,7 +187,13 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
-              >(+1/+2)
+              >(+1/+2)<br />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              />協議:民兵系近戰防禦+5，保加利亞限定。<br />
             </td>
           </tr>
           <tr>
@@ -261,7 +270,8 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link
-              >:軍營步兵單位訓練不需花黃金，<nuxt-link to="/civs/Malay"
+              >:軍營步兵單位訓練以食物成本替代所需的黃金，<nuxt-link
+                to="/civs/Malay"
                 >馬來</nuxt-link
               >限定。
             </td>
@@ -480,10 +490,16 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：雙手劍兵在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/帝王時代加15％/20％的<nuxt-link to="/elements/Hit_points"
+              >：雙手劍兵20％的<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
               >。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：雙手劍兵近戰防禦+1
+            </li>
+            <li>
+              保加利亞：<nuxt-link to="/units/Militia">民兵系</nuxt-link
+              >升級免費。
             </li>
           </ul>
         </div>
@@ -603,6 +619,23 @@
               >科技現在讓雙手劍兵對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >有額外+4攻擊。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：協議增加民兵系3近防。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >(34055更新)：協議現在增加民兵系5近防。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              (35584更新)：雙手劍兵近戰防禦+1。
             </li>
           </ul>
         </div>

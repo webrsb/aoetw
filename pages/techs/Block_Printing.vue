@@ -42,6 +42,9 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
                 to="/civs/Britons"
                 >不列顛</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
               >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
                 to="/civs/Byzantines"
                 >拜占庭</nuxt-link
@@ -88,9 +91,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
                 to="/civs/Celts"
                 >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
                 >匈人</nuxt-link
@@ -114,6 +115,14 @@
             </li>
           </ul>
         </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            <nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用印刷技術留下紀錄。
+          </p>
+        </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -133,14 +142,15 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:可以研發印刷技術了。
             </li>
           </ul>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <p>
-            <nuxt-link to="/civs/Chinese">中國</nuxt-link
-            >古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用印刷技術留下紀錄。
-          </p>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Chinese/">中國</nuxt-link
+              >(36399更新):可以研發印刷技術了。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">

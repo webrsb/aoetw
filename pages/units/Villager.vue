@@ -923,7 +923,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >：獵人收集速度提高50％。
+              >：獵人收集速度提高40％。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：在封建/<nuxt-link
@@ -954,6 +954,10 @@
                 >兵工廠</nuxt-link
               >升級。
             </li>
+            <li>
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >：農夫不在需要有磨坊或市鎮中心便能放下食物
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -982,6 +986,9 @@
               >、牆與城堡有+3的攻擊。
             </li>
             <li>土耳其的村民挖金速度快15％。</li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>獵人收集速度提高50％
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
@@ -1018,6 +1025,19 @@
           </h3>
           <ul>
             <li>土耳其村民採金快20。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >(34699更新)：農夫不在需要有磨坊或市鎮中心便能放下食物
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >(35584更新)：獵人收集速度降為40％
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
