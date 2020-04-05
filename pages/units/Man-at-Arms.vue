@@ -604,7 +604,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，裝甲步兵近戰防禦+5
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:引入<nuxt-link to="/techs/Bagains">協議</nuxt-link>，裝甲步兵近戰防禦+5。
             </li>
             <li>
             <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
