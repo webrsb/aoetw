@@ -63,7 +63,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速絲綢之路的研究時間(快25%)。
+              >能夠加速協議的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -152,7 +152,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝! </div>
+        <div class="thanks">感謝! singsing612</div>
       </div>
     </div>
   </div>
