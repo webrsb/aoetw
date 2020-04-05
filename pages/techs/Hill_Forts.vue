@@ -12,7 +12,8 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >研發。研發後<nuxt-link to="/building/Town_Center"
+              >城鎮中心</nuxt-link
             >射程+3。
           </p>
         </div>
@@ -21,11 +22,13 @@
         <div class="n1">
           <ul>
             <li>
-              山城堡是一項非常有用的防禦科技，尤其是在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >中，能使<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >的射程超過<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-            >並能阻止敵人的壓制。在<nuxt-link to="/techs/age/Castle_Age">帝王時代</nuxt-link
-            >中，城鎮中心能保護更大範圍的區域免受襲擊。
+              山城堡是一項非常有用的防禦科技，尤其是在城堡時代中，能使<nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >的射程超過<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >並能阻止敵人的壓制。在<nuxt-link to="/techs/age/Castle_Age"
+                >帝王時代</nuxt-link
+              >中，城鎮中心能保護更大範圍的區域免受襲擊。
             </li>
           </ul>
         </div>
@@ -37,7 +40,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速聚居堡壘的研究時間(快25%)。
+              >能夠加速山城堡的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -115,11 +118,13 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">城鎮中心射程+3。</td>
+            <td class="unit4">
+              <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>射程+3。
+            </td>
           </tr>
         </table>
 
-        <div class="thanks">感謝! </div>
+        <div class="thanks">感謝! singsing612</div>
       </div>
     </div>
   </div>
