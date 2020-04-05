@@ -8,8 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>協議</b>是<nuxt-link to="/civs/Bulgarians"
-              >保加利亞</nuxt-link
+            <b>協議</b>是<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -24,34 +23,45 @@
           <ul>
             <li>
               保加利亞没有<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
-            >，但這項科技使他們的<nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
-            >擁有+8<nuxt-link to="/armor/Armor_Class_Infantry">近防</nuxt-link
-            >。而這使没有<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
-            >的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >、<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
-            >和所有<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
-            >、<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-            >對雙手劍兵只有1點傷害，這使他們在對付垃圾兵中佔有巨大優勢。
-             </li>
+              >，但這項科技使他們的<nuxt-link to="/units/Two-Handed_Swordsman"
+                >雙手劍兵</nuxt-link
+              >擁有+8<nuxt-link to="/armor/Armor_Class_Infantry">近防</nuxt-link
+              >。而這使没有<nuxt-link to="/techs/Blast_Furnace"
+                >鼓風爐</nuxt-link
+              >的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
+              >和所有<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >、<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
+              >對雙手劍兵只有1點傷害，這使他們在對付垃圾兵中佔有巨大優勢。
+            </li>
             <li>
-              擁有協議的雙手劍兵在等量上可以完勝全滿的劍兵勇士，除了<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-            >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-            >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link
-            >、<nuxt-link to="/civs/Vikings">維京</nuxt-link
-            >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-            >（詳見<nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
-            >）和<nuxt-link to="/civs/Japanese">日本</nuxt-link
-            >。在科技全滿的情況下，保加利亞雙手劍兵擁有所有單位中第三高的近防，僅次於+9近防的精銳<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
-            >和+13近防的精銳<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-            >。
-             </li>
+              擁有協議的雙手劍兵在等量上可以完勝全滿的劍兵勇士，除了<nuxt-link
+                to="/civs/Aztecs"
+                >阿茲特克</nuxt-link
+              >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
+                to="/civs/Teutons"
+                >條頓</nuxt-link
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >（詳見<nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
+              >）和<nuxt-link to="/civs/Japanese">日本</nuxt-link
+              >。在科技全滿的情況下，保加利亞雙手劍兵擁有所有單位中第三高的近防，僅次於+9近防的精銳<nuxt-link
+                to="/units/Boyar"
+                >貴族鐵騎</nuxt-link
+              >和+13近防的精銳<nuxt-link to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >。
+            </li>
             <li>
-              但是，極高的近防仍不敵會無視近防的<nuxt-link to="/units/Leitis">烈堤司</nuxt-link
-            >、還有對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
-            >有額外傷害的<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
-            >和<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
-            >。
+              但是，極高的近防仍不敵會無視近防的<nuxt-link to="/units/Leitis"
+                >烈堤司</nuxt-link
+              >、還有對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
+              >有額外傷害的<nuxt-link to="/units/Cataphract"
+                >拜占庭聖騎兵</nuxt-link
+              >和<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>。
             </li>
           </ul>
         </div>
@@ -96,8 +106,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Bulgarians"
-              >保加利亞</nuxt-link>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>
             </td>
           </tr>
           <tr>
