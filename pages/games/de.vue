@@ -24,16 +24,6 @@
             allow="autoplay; encrypted-media"
             allowfullscreen
           ></iframe>
-
-          <p><em>6/13直播內容</em></p>
-          <iframe
-            width="100%"
-            height="315"
-            src="https://www.youtube.com/embed/M9fhkAORcXE"
-            frameborder="0"
-            allow="autoplay; encrypted-media"
-            allowfullscreen
-          ></iframe>
         </div>
         <h2>新增內容</h2>
         <div class="hrn1"></div>
@@ -43,9 +33,11 @@
               世紀帝國II HD版及所有擴充版都包含在決定版中。
             </li>
             <li>
-              地中海、東歐建築模版重新製作。<br>       
-              <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link>和<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
-              >的建築物現在使用歐洲地中海的模版。<br>
+              地中海、東歐建築模版重新製作。<br />
+              <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link>和<nuxt-link
+                to="/civs/Spanish"
+                >西班牙人</nuxt-link
+              >的建築物現在使用歐洲地中海的模版。<br />
               越南使用東南亞的模板。
             </li>
             <li>
@@ -58,8 +50,10 @@
               世紀之戰遊戲模式。
             </li>
             <li>
-              改進及重新設計舊戰役，某些<nuxt-link to="/civs">文明</nuxt-link>現在被HD版文明（例如<nuxt-link to="/civs/Italians"
-                >義大利人</nuxt-link>）替換更新。失落的帝國戰役增加旁白。
+              改進及重新設計舊戰役，某些<nuxt-link to="/civs">文明</nuxt-link
+              >現在被HD版文明（例如<nuxt-link to="/civs/Italians"
+                >義大利人</nuxt-link
+              >）替換更新。失落的帝國戰役增加旁白。
             </li>
             <li>
               改善觀戰模式和多人遊戲模式以及串流功能。
@@ -68,16 +62,18 @@
               手動改變城門建造方向(用滑鼠滾輪)。
             </li>
             <li>
-              現在有不作弊的AI，並且設立新的電腦難度:極端。
+              現在有不作弊的AI，並且設立新的電腦難度:極線。
             </li>
-            <li>主選單新功能
-            <ol>
-              <li>戰役以地理位置做分類。</li>
-              <li>戰役難度顯示於圖像旁(劍數越多越難!)。</li>
-              <li>歷史戰役區(包含征服者與失落的帝國戰役)。</li>
-              <li>孫子兵法(學習進階遊戲技術，例如早期發展，壯大帝國、快速達到城堡時代等)。</li>
-
-            </ol>
+            <li>
+              主選單新功能
+              <ol>
+                <li>戰役以地理位置做分類。</li>
+                <li>戰役難度顯示於圖像旁(劍數越多越難!)。</li>
+                <li>歷史戰役區(包含征服者與失落的帝國戰役)。</li>
+                <li>
+                  孫子兵法(學習進階遊戲技術，例如早期發展，壯大帝國、快速達到城堡時代等)。
+                </li>
+              </ol>
             </li>
             <li>
               新圖像與效果，包括<nuxt-link to="/building">建築物</nuxt-link
@@ -86,13 +82,13 @@
             <li>
               新的單位和物體，並重新設計一些舊的（p.e“海上圍牆”）。
             </li>
-            <li>音軌重製。
-            <ol>
-              <li>重製原始音軌。</li>
-              <li>每個新文明有自己的音軌。</li>
-              <li>有各種不同的音軌可選擇。</li>
-                            
-            </ol>
+            <li>
+              音軌重製。
+              <ol>
+                <li>重製原始音軌。</li>
+                <li>每個新文明有自己的音軌。</li>
+                <li>有各種不同的音軌可選擇。</li>
+              </ol>
             </li>
             <li>
               新戰役編輯器，新的遊戲情節觸發系統。
@@ -104,19 +100,15 @@
               科技研發的進度條會顯示出來。正在研發科技的建築會顯示出視覺特效（有光往上的感覺）
             </li>
             <li>
-              在頂端的資源欄下方會顯示各種資源的工作<nuxt-link to="/units/Villager">村民</nuxt-link>數量。
+              在頂端的資源欄下方會顯示各種資源的工作<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >數量。
             </li>
             <li>
-              會有挑戰<nuxt-link to="/batt">戰役</nuxt-link>教導玩家如何誘殺<nuxt-link to="/units/animal/Wild_Boar"
-                >野豬</nuxt-link>或設定建築清單。
+              <nuxt-link to="/building/Farm">農田</nuxt-link
+              >與漁網自動補種系統。
             </li>
-            <li>
-              <nuxt-link to="/building/Farm">農田</nuxt-link>與漁網自動補種系統。
-            </li>
-            <li>
-              可自動放大縮小畫面。
-            </li>
-            
           </ul>
         </div>
 
@@ -125,16 +117,30 @@
         <h3>文明</h3>
         <div class="n1">
           <ul>
-            <li><strong>保加利亞</strong>(東歐):當游牧的保加利亞騎兵在7世紀到達多瑙河並遇到當地的斯拉夫部落時，
-            他們的到來從此改變了歐洲的騎兵作戰方式。用強大的堡壘加固附近的山口，並用強大的騎兵，步兵和攻城武器聯合部隊痛擊過度自信的侵略者！
-            您軍隊的驕傲，英勇的保加利亞騎兵，即使他們的馬匹已倒地不起，也將繼續無所畏懼地戰鬥。</li>
-            <li><strong>立陶宛</strong>(東歐):波羅的海以東的森林沼澤地比目測的實際上多更多。立陶宛用新宗教將波羅的海各部落凝聚成一個大公國，
-            並用強大的騎兵和機動長矛兵和javelineers對抗入侵者，並建立了中世紀晚期歐洲最大的帝國！
-            立陶宛獨特的重型騎兵部隊列提斯（Leitis）是一支攻擊力極強的軍隊，所有裝甲在他的武器前都毫無作用。</li>
-            <li><strong>庫曼</strong>(新中亞建築):廣闊的歐亞平原曾是游牧民族的家，游牧騎兵的強大和無情的侵略仍然存在於被侵略國家的記錄中。
-            您可以帶領庫曼-基普查克（Cuman-Kipchak）部落盡情發動戰爭，或向外國國王提供傭兵雇用服務。
-            當更大的威脅向東方襲來時，您是否會向西遷移學習鄰國過著安逸的生活，還是在不可阻擋的蒙古征服侵略朝中消失？</li>
-            <li><strong>韃靼</strong>(中亞):</li>
+            <li>
+              <strong
+                ><nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link></strong
+              >(東歐):當游牧的保加利亞騎兵在7世紀到達多瑙河並遇到當地的斯拉夫部落時，
+              他們的到來從此改變了歐洲的騎兵作戰方式。用強大的堡壘加固附近的山口，並用強大的騎兵，步兵和攻城武器聯合部隊痛擊過度自信的侵略者！
+              您軍隊的驕傲，英勇的保加利亞騎兵，即使他們的馬匹已倒地不起，也將繼續無所畏懼地戰鬥。
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link></strong
+              >(東歐):波羅的海以東的森林沼澤地比目測的實際上多更多。立陶宛用新宗教將波羅的海各部落凝聚成一個大公國，
+              並用強大的騎兵和機動長矛兵和javelineers對抗入侵者，並建立了中世紀晚期歐洲最大的帝國！
+              立陶宛獨特的重型騎兵部隊列提斯（Leitis）是一支攻擊力極強的軍隊，所有裝甲在他的武器前都毫無作用。
+            </li>
+            <li>
+              <strong><nuxt-link to="/civs/Cumans">庫曼</nuxt-link></strong
+              >(新中亞建築):廣闊的歐亞平原曾是游牧民族的家，游牧騎兵的強大和無情的侵略仍然存在於被侵略國家的記錄中。
+              您可以帶領庫曼-基普查克（Cuman-Kipchak）部落盡情發動戰爭，或向外國國王提供傭兵雇用服務。
+              當更大的威脅向東方襲來時，您是否會向西遷移學習鄰國過著安逸的生活，還是在不可阻擋的蒙古征服侵略朝中消失？
+            </li>
+            <li>
+              <strong><nuxt-link to="/civs/Tatars">韃靼</nuxt-link></strong
+              >(中亞):
+            </li>
           </ul>
         </div>
         <h3>單位</h3>
@@ -143,10 +149,13 @@
         <div class="n1">
           <ul>
             <li>
-              <strong>草原槍兵</strong>:庫曼與韃靼於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
+              <strong
+                ><nuxt-link to="/civs/Bulgarians">草原槍兵</nuxt-link></strong
+              >:庫曼、韃靼與波斯於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
             </li>
             <li>
-              <strong>索洛托勇士</strong>:騎馬的豹勇士，類似一般騎士，只有印加與阿茲特克招降敵方馬廄後才能生產的特殊單位。
+              <strong>索洛托勇士</strong
+              >:騎馬的豹勇士，類似一般騎士，只有印加與阿茲特克招降敵方馬廄後才能生產的特殊單位。
             </li>
           </ul>
         </div>
@@ -155,16 +164,21 @@
         <div class="n1">
           <ul>
             <li>
-              <strong>保加利亞騎兵</strong>:保加利亞特殊單位。平常為重騎兵單位被擊殺後會下馬變成重裝步兵單位(不須額外費用)。
+              <strong
+                ><nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link></strong
+              >:保加利亞特殊單位。平常為重騎兵單位被擊殺後會下馬變成重裝步兵單位(不須額外費用)。
             </li>
             <li>
-              <strong>烈提司</strong>:立陶宛特殊騎兵單位，攻擊可無視護甲值。
+              <strong><nuxt-link to="/units/Leitis">烈堤司</nuxt-link></strong
+              >:立陶宛特殊騎兵單位，攻擊可無視護甲值。
             </li>
             <li>
-              <strong>欽察</strong>:庫曼特殊馬弓騎兵單位，一次攻擊可射出多發箭矢。
+              <strong><nuxt-link to="/units/Kipchak">欽察</nuxt-link></strong
+              >:庫曼特殊馬弓騎兵單位，可射出多發箭矢。
             </li>
             <li>
-              <strong>怯薛</strong>:韃靼特殊騎兵單位，攻擊時可得到額外黃金。
+              <strong><nuxt-link to="/units/Keshik">怯薛</nuxt-link></strong
+              >:韃靼特殊騎兵單位，攻擊時可得到額外黃金。
             </li>
           </ul>
         </div>
@@ -187,7 +201,7 @@
           <ul>
             <li><strong>哥德人亞拉里克</strong></li>
             <li><strong>阿陶爾夫</strong></li>
-            <li><strong>康斯坦丁沙皇</strong></li>            
+            <li><strong>康斯坦丁沙皇</strong></li>
           </ul>
         </div>
         <h5>其他</h5>
@@ -195,31 +209,32 @@
           <ul>
             <li><strong>火焰駱駝</strong></li>
             <li><strong>牛戰車</strong></li>
-            <li><strong>牛推車</strong></li> 
+            <li><strong>牛推車</strong></li>
             <li><strong>Sosso Guard</strong></li>
             <li><strong>可汗</strong></li>
-            <li><strong>商人</strong></li>  
+            <li><strong>商人</strong></li>
             <li><strong>忍者</strong></li>
             <li><strong>易洛揆戰士</strong></li>
-            <li><strong>馬騎武士</strong></li>  
+            <li><strong>馬騎武士</strong></li>
             <li><strong>城鎮中心(組裝)</strong></li>
           </ul>
         </div>
         <h5>作弊單位</h5>
         <div class="n1">
           <ul>
-            <li><strong>照相手</strong></li>           
+            <li><strong>照相手</strong></li>
           </ul>
         </div>
         <h3>建築</h3>
         <div class="n1">
           <ul>
             <li>
-              <strong>堡壘</strong>:保加利亞特殊建築。可於城堡時代建造並生產保加利亞騎兵的小城堡，但無法研發科技。
+              <strong><nuxt-link to="/building/Krepost">堡壘</nuxt-link></strong
+              >:保加利亞特殊建築。可於城堡時代建造並生產保加利亞騎兵的小城堡，但無法研發科技。
             </li>
           </ul>
         </div>
-        
+
         <h5>未知</h5>
         <div class="n1">
           <ul>
@@ -238,22 +253,63 @@
         <div class="n1">
           <ul>
             <li>
-              <strong>供給</strong>:150肉 100金，民兵系成本-15食物，除哥德之外所有文明皆有。
+              <strong><nuxt-link to="/techs/Supplies">供給</nuxt-link></strong
+              >:150肉 100金，民兵系成本-15食物，除哥德之外所有文明皆有。
             </li>
           </ul>
         </div>
         <h5>特殊科技</h5>
         <div class="n1">
           <ul>
-            <li><strong>絲護甲</strong>:韃靼特殊科技。斥侯系和馬弓騎兵遠程護甲+1。</li>
-            <li><strong>帖木兒攻城術</strong>:韃靼特殊科技。巨型投石機射程+1。</li>
-            <li><strong>馬鐙</strong>:保加利亞特殊科技。斥侯系與保加利亞騎兵(騎馬狀態)的攻擊速度+25%。</li>
-            <li><strong>協議</strong>:保加利亞特殊科技。民兵系近戰護甲+5。</li>
-            <li><strong>大草原耕種技術</strong>:庫曼特殊科技。斥侯系和馬弓騎兵訓練速度提升至400%(遊戲內寫80%為誤植)。</li>            
-            <li><strong>庫曼傭兵</strong>:庫曼特殊科技。隊伍成員能在城堡免費訓練10名精銳欽察。</li>
-            <li><strong>山城堡</strong>:立陶宛特殊科技。城鎮中心射程+3。</li>
-            <li><strong>塔盾</strong>:立陶宛特殊科技。長槍兵系和矛兵系的遠程護甲+1。</li>
-            <li><strong>波斯弓兵</strong>:波斯特殊科技。生產弓兵系額外消耗25木材而不消耗黃金。</li>
+            <li>
+              <strong
+                ><nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link></strong
+              >:韃靼特殊科技。斥侯系和馬弓騎兵遠程護甲+1。
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/techs/Timurid_Siegecraft"
+                  >帖木兒攻城術</nuxt-link
+                ></strong
+              >:韃靼特殊科技。巨型投石機射程+1。
+            </li>
+            <li>
+              <strong><nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link></strong
+              >:保加利亞特殊科技。斥侯系與保加利亞騎兵(騎馬狀態)的攻擊速度+25%。
+            </li>
+            <li>
+              <strong><nuxt-link to="/techs/Bagains">協議</nuxt-link></strong
+              >:保加利亞特殊科技。民兵系近戰護甲+5。
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/techs/Steppe_Husbandry"
+                  >大草原耕種技術</nuxt-link
+                ></strong
+              >:庫曼特殊科技。斥侯系和馬弓騎兵訓練速度提升至400%(遊戲內寫80%為誤植)。
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/techs/Cuman_Mercenaries"
+                  >庫曼傭兵</nuxt-link
+                ></strong
+              >:庫曼特殊科技。隊伍成員能在城堡免費訓練10名精銳欽察。
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/techs/Hill_Forts">山城堡</nuxt-link></strong
+              >:立陶宛特殊科技。城鎮中心射程+3。
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link></strong
+              >:立陶宛特殊科技。長槍兵系和矛兵系的遠程護甲+1。
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link></strong
+              >:波斯特殊科技。生產弓兵系額外消耗25木材而不消耗黃金。
+            </li>
           </ul>
         </div>
 
@@ -271,7 +327,7 @@
             <li>
               伊瓦伊洛(保加利亞):在蒙古人入侵時，一個保加利亞的養豬農夫率領著一支民兵隊伍，保住了家園，這次勝利讓沙皇和貴族們感到不安，
               他被迫扛起起義的大旗。這樣一個出身卑微的人能否違抗既定的秩序，為人們帶來自由呢?
-            </li> 
+            </li>
             <li>
               可泰安汗(庫曼):幾個世紀以來，庫曼人在歐亞大陸廣闊的平原上繁衍生息。然而現在，蒙古人從東方而來，威脅著他們，蒙古鐵騎無情，不可戰勝。
               作為一個小部落的可汗，可泰安必須團結庫曼人來抵抗這些入侵者。他是否會願意放棄自己祖祖輩輩生活的土地，放棄自己古老的傳統，拯救自己的人民呢?
@@ -281,126 +337,134 @@
               背叛、紛爭一直都在侵蝕著新建立不久的印加帝國，現在整個民族的命運都掌握在一人手中。
             </li>
             <li>
-              孫子兵法(挑戰戰役):揭開孫子對於戰術的研究，並在一系列的簡短挑戰中演練您的Age of Empires II戰技。在各個挑戰中，您要竭盡全力爭取勳章，
+              孫子兵法(挑戰戰役):揭開孫子對於戰術的研究，並在一系列的簡短挑戰中演練您的Age
+              of Empires II戰技。在各個挑戰中，您要竭盡全力爭取勳章，
               並向好友及敵人證明您的實力。
             </li>
           </ul>
         </div>
 
-       <h3>重製的戰役和歷史場景</h3>
+        <h3>重製的戰役和歷史場景</h3>
         <div class="n1"></div>
         <div class="n1">
-        <h5>戰役</h5>
-        <div class="n1"></div>
-        <div class="n1">
-          <ul>
-            <li>阿拉里克(歌德)</li>
-            <li>巴里(拜占庭)</li>
-            <li>德古拉(馬札爾/斯拉夫/土耳其，特別是"火龍展翅"和"撥雲見月"這兩個改動最多。)</li>
-            <li>帕查庫特克(印加，取代黃金國戰役)</li>
-            <li>布里陀毗羅闍(印度)</li>
-            <li>斯福爾扎(義大利)</li>
-          </ul>
-        </div>
-        <h5>歷史場景</h5>
-        <div class="n1"></div>
-        <div class="n1">
-          <ul>
-            <li>巴菲烏斯(土耳其)</li>
-            <li>賽普勒斯(不列顛)</li>
-            <li>征服家園(馬札爾)</li>
-          </ul>
-        </div>
+          <h5>戰役</h5>
+          <div class="n1"></div>
+          <div class="n1">
+            <ul>
+              <li>阿拉里克(歌德)</li>
+              <li>巴里(拜占庭)</li>
+              <li>
+                德古拉(馬札爾/斯拉夫/土耳其，特別是"火龍展翅"和"撥雲見月"這兩個改動最多。)
+              </li>
+              <li>帕查庫特克(印加，取代黃金國戰役)</li>
+              <li>布里陀毗羅闍(印度)</li>
+              <li>斯福爾扎(義大利)</li>
+            </ul>
+          </div>
+          <h5>歷史場景</h5>
+          <div class="n1"></div>
+          <div class="n1">
+            <ul>
+              <li>巴菲烏斯(土耳其)</li>
+              <li>賽普勒斯(不列顛)</li>
+              <li>征服家園(馬札爾)</li>
+            </ul>
+          </div>
         </div>
         <h3>地圖編輯器改動項目</h3>
         <div class="n1"></div>
         <div class="n1">
-        <h5>新觸發情況</h5>
-        <div class="n1"></div>
-        <div class="n1">
-          <ul>
-            <li>外交狀態</li>
-            <li>物件HP</li>
-            <li>不可見物件</li>
-            <li>研發科技</li>
-            <li>科技狀態</li>
-            <li>駐紮單位</li>
-            <li>多樣價值</li>
-            
-          </ul>
-        </div>
-        <h5>新觸發效果</h5>
-        <div class="n1"></div>
-        <div class="n1">
-          <ul>
-            <li>確認AI信號</li>
-            <li>AI腳本目標</li>
-            <li>攻擊移動</li>
-            <li>變動文明名字</li>
-            <li>變動物件造價</li>
-            <li>變動物件描述</li>
-            <li>變動物件頭像</li>
-            <li>變動物件姿態</li>
-            <li>變動玩家名字</li>
-            <li>變動科技研發位置</li>
-            <li>變動單位訓練位置</li>
-            <li>Change Variable</li>
-            <li>建造駐紮物件</li>
-            <li>可獲得/不可獲得物件</li>
-            <li>可研發/不可研發物件</li>
-            <li>修改屬性</li>
-            <li>修改資源</li>
-            <li>按變量修改資源</li>
-            <li>設置玩家能見度</li>
-          </ul>
-        </div>
-        <h5>新物件</h5>
-        <div class="n1"></div>
-        <div class="n1">
-          <ul>
-            <li>鎖鏈-與木牆相似，只出現在地圖編輯器和特定戰役中，例如阿提拉戰役。</li>
-            <li>Nubian金字塔</li>
-            <li>城門</li>
-            <li>蝴蝶</li>
-            <li>馬車</li>
-            <li>神廟遺跡</li>
-            <li>Well - Eyecandy</li>
-            <li>軍事帳篷(有五種)</li>
-            <li>小屋(有七種)</li>
-            <li>標的物(有兩種)</li>
-            <li>3種新路障</li>
-            <li>2種新寶塔</li>
-            <li>1種新橋</li>
-            <li>1種新火炬</li>
-            <li>New statue variants (Civilization, Column, "Right")</li>
-            <li>Movable map revealer</li>
-            <li>不可見物件</li>
-            <li>陷阱</li>
-          </ul>
-        </div>
+          <h5>新觸發情況</h5>
+          <div class="n1"></div>
+          <div class="n1">
+            <ul>
+              <li>外交狀態</li>
+              <li>物件HP</li>
+              <li>不可見物件</li>
+              <li>研發科技</li>
+              <li>科技狀態</li>
+              <li>駐紮單位</li>
+              <li>多樣價值</li>
+            </ul>
+          </div>
+          <h5>新觸發效果</h5>
+          <div class="n1"></div>
+          <div class="n1">
+            <ul>
+              <li>確認AI信號</li>
+              <li>AI腳本目標</li>
+              <li>攻擊移動</li>
+              <li>變動文明名字</li>
+              <li>變動物件造價</li>
+              <li>變動物件描述</li>
+              <li>變動物件頭像</li>
+              <li>變動物件姿態</li>
+              <li>變動玩家名字</li>
+              <li>變動科技研發位置</li>
+              <li>變動單位訓練位置</li>
+              <li>Change Variable</li>
+              <li>建造駐紮物件</li>
+              <li>可獲得/不可獲得物件</li>
+              <li>可研發/不可研發物件</li>
+              <li>修改屬性</li>
+              <li>修改資源</li>
+              <li>按變量修改資源</li>
+              <li>設置玩家能見度</li>
+            </ul>
+          </div>
+          <h5>新物件</h5>
+          <div class="n1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                鎖鏈-與木牆相似，只出現在地圖編輯器和特定戰役中，例如阿提拉戰役。
+              </li>
+              <li>Nubian金字塔</li>
+              <li>城門</li>
+              <li>蝴蝶</li>
+              <li>馬車</li>
+              <li>神廟遺跡</li>
+              <li>Well - Eyecandy</li>
+              <li>軍事帳篷(有五種)</li>
+              <li>小屋(有七種)</li>
+              <li>標的物(有兩種)</li>
+              <li>3種新路障</li>
+              <li>2種新寶塔</li>
+              <li>1種新橋</li>
+              <li>1種新火炬</li>
+              <li>New statue variants (Civilization, Column, "Right")</li>
+              <li>Movable map revealer</li>
+              <li>不可見物件</li>
+              <li>陷阱</li>
+            </ul>
+          </div>
         </div>
         <h3>其他改版內容</h3>
         <div class="hrn1"></div>
         <ul>
-            <li>移除追蹤技術。現在所有文明只要升級到封建時代就會自動獲得追蹤技術的效果。斯拉夫則獲得免費供給技術。</li>
-            <li>箭塔的血量在城堡時代前由1020被降低至700。</li>
-            <li>Camel 改名為Camel Rider(中文還是叫駱駝騎兵)。</li>
-            <li>Arbalest 更名為Arbalester(中文還是叫強弩兵)。</li>
-            <li>Nordic Swordsman 更名為Norse Warrior()。</li>
-            <li>戰矛兵升級成本由200木/100金增加為230木/130金。</li>
-            <li>草藥學效果增加50%。</li>
-            <li>(木城門)城門在建造時的裝甲降低為0/0。</li>
-            <li>木城門造價由20木增加為30木。</li>
-            <li>精銳戰象攻擊力由16降為14。</li>
-            <li>旱碼頭和柏柏的船速利益不再減少貿易商旅每趟的黃金量。</li>
-            <li>鷹斥侯黑暗時代的視野及搜索半徑-1。</li>
-            <li>巨型投石機在組裝或是被摧毀時還是能對敵方造成傷害。</li>
-            <li>修正居住房舍能攻擊敵人的問題。</li>
-            <li>修正化學沒有增加城堡第二發箭矢的攻擊力。</li>
-            <li>修正對角線位置的城門在建造時單位可以走過的問題。</li>
-            <li>修正緬甸的遺跡利益會永久在地圖上顯示遺跡的位置。</li>
-            <li>可眷養動物的視野計算公式如右:提供食物量/50。乳牛和水牛是3，其他可眷養的則是2。</li>
-          </ul>
+          <li>
+            移除追蹤技術。現在所有文明只要升級到封建時代就會自動獲得追蹤技術的效果。斯拉夫則獲得免費供給技術。
+          </li>
+          <li>箭塔的血量在城堡時代前由1020被降低至700。</li>
+          <li>Camel 改名為Camel Rider(中文還是叫駱駝騎兵)。</li>
+          <li>Arbalest 更名為Arbalester(中文還是叫強弩兵)。</li>
+          <li>Nordic Swordsman 更名為Norse Warrior()。</li>
+          <li>戰矛兵升級成本由200木/100金增加為230木/130金。</li>
+          <li>草藥學效果增加50%。</li>
+          <li>(木城門)城門在建造時的裝甲降低為0/0。</li>
+          <li>木城門造價由20木增加為30木。</li>
+          <li>精銳戰象攻擊力由16降為14。</li>
+          <li>旱碼頭和柏柏的船速利益不再減少貿易商旅每趟的黃金量。</li>
+          <li>鷹斥侯黑暗時代的視野及搜索半徑-1。</li>
+          <li>巨型投石機在組裝或是被摧毀時還是能對敵方造成傷害。</li>
+          <li>修正居住房舍能攻擊敵人的問題。</li>
+          <li>修正化學沒有增加城堡第二發箭矢的攻擊力。</li>
+          <li>修正對角線位置的城門在建造時單位可以走過的問題。</li>
+          <li>修正緬甸的遺跡利益會永久在地圖上顯示遺跡的位置。</li>
+          <li>
+            可眷養動物的視野計算公式如右:提供食物量/50。乳牛和水牛是3，其他可眷養的則是2。
+          </li>
+        </ul>
         <h5>柏柏</h5>
         <div class="n1">
           <ul>
@@ -486,7 +550,9 @@
         <div class="n1">
           <ul>
             <li>黑暗時代的城鎮中心和碼頭工作速度快5%。</li>
-            <li>沸油科技由波斯弓兵(200肉200金)取代，將弓兵系黃金成本改為額外木材成本。</li>
+            <li>
+              沸油科技由波斯弓兵(200肉200金)取代，將弓兵系黃金成本改為額外木材成本。
+            </li>
           </ul>
         </div>
         <h5>薩拉森</h5>
@@ -516,118 +582,120 @@
             <li>(精銳)貴族鐵騎訓練時間由23s/20s統一降為15s。</li>
           </ul>
           <h5>條頓</h5>
-        <div class="n1">
-          <ul>
-            <li>獲得草藥學。</li>
-            <li>城垛射孔和草藥學免費。</li>
-          </ul>
-          <h5>越南</h5>
-        <div class="n1">
-          <ul>
-            <li>獲得耕種技術。</li>
-            <li>紙幣成本由800肉200金降為500肉300木，研發時間由40s增為60s。</li>
-          </ul>
+          <div class="n1">
+            <ul>
+              <li>獲得草藥學。</li>
+              <li>城垛射孔和草藥學免費。</li>
+            </ul>
+            <h5>越南</h5>
+            <div class="n1">
+              <ul>
+                <li>獲得耕種技術。</li>
+                <li>
+                  紙幣成本由800肉200金降為500肉300木，研發時間由40s增為60s。
+                </li>
+              </ul>
+            </div>
+
+            <h3>圖庫</h3>
+            <div class="hrn1"></div>
+            <div class="n1">
+              <div class="row">
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/Bulgarians.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>保加利亞預覽圖</em></p>
+                </div>
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/Cumans.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>庫曼預覽圖</em></p>
+                </div>
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/Lithuanians.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>立陶宛預覽圖</em></p>
+                </div>
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/Tatars.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>韃靼預覽圖</em></p>
+                </div>
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/Bulgarian_Konnik.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>保加利亞騎兵</em></p>
+                </div>
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/Cuman_UU.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>欽察</em></p>
+                </div>
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/Lithuanian_UU.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>烈提司</em></p>
+                </div>
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/Tatar_Keshik.png"
+                      alt=""
+                  /></gallery>
+                  <p><em>怯薛</em></p>
+                </div>
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      width="250"
+                      src="~assets/AoEIIDE-mainmenu_bg.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>主選單背景</em></p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-        
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Bulgarians.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>保加利亞預覽圖</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Cumans.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>庫曼預覽圖</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Lithuanians.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>立陶宛預覽圖</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Tatars.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>韃靼預覽圖</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Bulgarian_Konnik.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>保加利亞騎兵</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Cuman_UU.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>欽察</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Lithuanian_UU.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>烈提司</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Tatar_Keshik.png"
-                  alt=""
-              /></gallery>
-              <p><em>怯薛</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/AoEIIDE-mainmenu_bg.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>主選單背景</em></p>
-            </div>
-          </div>
-  </div>
-  </div>
-            </div>
-          </div>
+      </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
@@ -712,7 +780,10 @@
               >
             </div>
           </div>
-
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 <script>
 export default {
