@@ -8,16 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>絲護甲</b>是<nuxt-link to="/civs/Tatars"
-              >韃靼</nuxt-link
+            <b>絲護甲</b>是<nuxt-link to="/civs/Tatars">韃靼</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Light_Cavalry"
-            >輕騎兵</nuxt-link>、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
-            >和<nuxt-link to="/units/Cavalry_Archer"
-            >馬弓騎兵</nuxt-link><nuxt-link to="/armor"
-            >遠程護甲</nuxt-link>+1。
+            >研發。研發後<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+            >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,32 +24,41 @@
           <ul>
             <li>
               因為韃靼人擁有完整的<nuxt-link to="/building/Blacksmith"
-            >兵工廠</nuxt-link>弓兵科技，這項科技是提供額外的<nuxt-link to="/armor"
-            >遠程護甲</nuxt-link>，加上免費的<nuxt-link to="/techs/Parthian_Tactics"
-            >安息人戰術</nuxt-link>，全滿的<nuxt-link to="/units/Heavy_Cavalry_Archer"
-            >重裝馬弓騎兵</nuxt-link>擁有+7遠程護甲，能更易擊敗敵方<nuxt-link to="/units/Archer_Units"
-            >弓兵</nuxt-link>。加上<nuxt-link to="/units/Hussar"
-            >匈牙利輕騎兵</nuxt-link>遠防+1、高地戰鬥傷害+50%和<nuxt-link to="/units/Cavalry_Archer"
-            >馬弓騎兵</nuxt-link>+2視線的文明加成，使韃靼的馬弓騎兵能與其他的弓兵、馬弓騎兵文明分庭抗禮。
-             </li>
+                >兵工廠</nuxt-link
+              >弓兵科技，這項科技是提供額外的遠程護甲，加上免費的<nuxt-link
+                to="/techs/Parthian_Tactics"
+                >安息人戰術</nuxt-link
+              >，全滿的<nuxt-link to="/units/Heavy_Cavalry_Archer"
+                >重裝馬弓騎兵</nuxt-link
+              >擁有+7遠程護甲，能更易擊敗敵方<nuxt-link to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >。加上<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
+              >遠防+1、高地戰鬥傷害+50%和馬弓騎兵+2視線的文明加成，使韃靼的馬弓騎兵能與其他的弓兵、馬弓騎兵文明分庭抗禮。
+            </li>
             <li>
-              這項科技本身就像兵工廠的科技，但考慮到其成本，它可能會優先於<nuxt-link to="/techs/Ring_Archer_Armor"
-            >弓兵鏈甲</nuxt-link>和<nuxt-link to="/techs/Plate_Barding_Armor"
-            >鐵鎧甲</nuxt-link>，尤其是想使用<nuxt-link to="/units/Light_Cavalry"
-            >輕騎兵</nuxt-link>和<nuxt-link to="/units/Cavalry_Archer"
-            >馬弓騎兵</nuxt-link>的組合時。如果只想著重於馬弓騎兵或<nuxt-link to="/units/Cavalry_Units"
-            >騎兵</nuxt-link>時，就應優先考慮研發<nuxt-link to="/techs/Ring_Archer_Armor"
-            >弓兵鏈甲</nuxt-link>和<nuxt-link to="/techs/Plate_Barding_Armor"
-            >鐵鎧甲</nuxt-link>。但無論如何，最好還是先研發<nuxt-link to="/techs/Leather_Archer_Armor"
-            >弓兵皮甲</nuxt-link>和<nuxt-link to="/techs/Chain_Barding_Armor"
-            >鏈鎧甲</nuxt-link>，然後再研發絲護甲（因為成本少）。
-             </li>
+              這項科技本身就像兵工廠的科技，但考慮到其成本，它可能會優先於<nuxt-link
+                to="/techs/Ring_Archer_Armor"
+                >弓兵鏈甲</nuxt-link
+              >和<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
+              >，尤其是想使用輕騎兵和馬弓騎兵的組合時。如果只想著重於馬弓騎兵或<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >時，就應優先考慮研發<nuxt-link to="/techs/Ring_Archer_Armor"
+                >弓兵鏈甲</nuxt-link
+              >和<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
+              >。但無論如何，最好還是先研發<nuxt-link
+                to="/techs/Leather_Archer_Armor"
+                >弓兵皮甲</nuxt-link
+              >和<nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
+              >，然後再研發絲護甲（因為成本少）。
+            </li>
             <li>
               另外，絲護甲也會影響<nuxt-link to="/units/Genitour"
-            >標槍騎兵</nuxt-link>和<nuxt-link to="/units/Kipchak"
-            >欽察</nuxt-link>，因此和<nuxt-link to="/civs/Berbers"
-            >柏柏</nuxt-link>或<nuxt-link to="/civs/Cumans"
-            >庫曼</nuxt-link>同盟會使這兩個單位都處於最佳狀態。
+                >標槍騎兵</nuxt-link
+              >和<nuxt-link to="/units/Kipchak">欽察</nuxt-link
+              >，因此和<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+              >或<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >同盟會使這兩個單位都處於最佳狀態。
             </li>
           </ul>
         </div>
@@ -141,7 +148,12 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">輕騎兵、草原騎兵和馬弓騎兵遠程護甲+1。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1
+            </td>
           </tr>
         </table>
 
