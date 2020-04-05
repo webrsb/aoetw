@@ -226,6 +226,16 @@
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
               >(+1/+2)
+              <br />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link
+              >:長槍兵系和矛兵遠程護甲+1。<nuxt-link to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >限定。
             </td>
           </tr>
           <tr>
@@ -785,12 +795,16 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
             <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：引入<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>。
+            </li>
+            <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新)：戟兵近戰防禦+1
+              (35584更新)：戟兵近戰防禦+1。
             </li>
           </ul>
         </div>
