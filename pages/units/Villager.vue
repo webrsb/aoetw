@@ -1031,12 +1031,12 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-              >(34699更新)：農夫不在需要有磨坊或市鎮中心便能放下食物
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>(34699更新)
+              農夫不再需要有磨坊或市鎮中心便能放下食物
             </li>
             <li>
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >(35584更新)：獵人收集速度降為40％
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>(35584更新)
+              獵人收集速度降為40％
             </li>
           </ul>
         </div>

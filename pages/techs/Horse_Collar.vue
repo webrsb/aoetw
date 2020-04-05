@@ -62,7 +62,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
-              (35584更新)：研發經濟科技不消耗木材
+              (35584更新) 研發經濟科技不消耗木材
             </li>
           </ul>
         </div>

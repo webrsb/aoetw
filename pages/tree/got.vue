@@ -89,7 +89,7 @@
               <img class="gg" src="~assets/squires.png" alt="" />
               <div><nuxt-link to="/techs/Squires">護衛技術</nuxt-link></div>
             </td>
-            <td class="t19 trm">
+            <td class="t19 trm not">
               <img class="gg" src="~assets/Arson.png" alt="" />
               <div><nuxt-link to="/techs/Arson">縱火</nuxt-link></div>
             </td>

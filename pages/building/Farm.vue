@@ -430,8 +430,8 @@
               >(34699更新)：農夫不在需要有磨坊或市鎮中心便能放下食物
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>(35584更新)
-              文明加成使農田減免增加為40%
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >(35584更新)：文明加成使農田減免增加為40%
             </li>
           </ul>
         </div>

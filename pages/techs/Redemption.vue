@@ -216,8 +216,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese/">中國</nuxt-link
-              >(36202更新):不能研發神聖思想。
+              <nuxt-link to="/civs/Chinese/">中國</nuxt-link>(36202更新)
+              不能研發神聖思想。
             </li>
           </ul>
         </div>

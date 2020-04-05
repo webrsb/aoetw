@@ -144,8 +144,7 @@
             <td class="unit3">影響</td>
             <td class="unit4">
               <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
-              >攻速+25%。
+              >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>攻速+25%
             </td>
           </tr>
         </table>

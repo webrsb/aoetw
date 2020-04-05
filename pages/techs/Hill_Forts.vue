@@ -119,7 +119,7 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>射程+3。
+              <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>射程+3
             </td>
           </tr>
         </table>

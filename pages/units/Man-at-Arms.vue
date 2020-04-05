@@ -478,7 +478,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：裝甲步兵從城堡時代開始，近戰防禦+1
+              >：裝甲步兵從城堡時代開始，近戰防禦+1。
             </li>
           </ul>
         </div>
@@ -594,7 +594,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新)：裝甲步兵從城堡時代開始，近戰防禦+1
+              (35584更新)：裝甲步兵從城堡時代開始，近戰防禦+1。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link

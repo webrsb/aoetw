@@ -528,7 +528,7 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>新科技：<nuxt-link
                 to="/techs/Ironclad"
                 >鋼鐵甲</nuxt-link
-              >
+              >。
             </li>
           </ul>
           <h3>

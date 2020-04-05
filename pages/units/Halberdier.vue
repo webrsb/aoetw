@@ -804,7 +804,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新)：戟兵近戰防禦+1。
+              (35584更新) 戟兵近戰防禦+1。
             </li>
           </ul>
         </div>

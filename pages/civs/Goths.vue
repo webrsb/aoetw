@@ -132,13 +132,13 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
-              >開始步兵花費減少35%
+              步兵花費在黑暗/封建/城堡/帝王時代，減免為20%/25%/30%/35%。
             </li>
             <li>
-              步兵對<nuxt-link to="/armor/Armor_Class_Building"
+              步兵在黑暗/封建/城堡/帝王時代，對<nuxt-link
+                to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >傷害+1
+              >攻擊+0/+1/+2/+3。
             </li>
             <li>
               <nuxt-link to="/units/Villager">村民</nuxt-link>對<nuxt-link

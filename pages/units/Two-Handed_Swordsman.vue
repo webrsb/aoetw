@@ -193,7 +193,10 @@
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
-              />協議:民兵系近戰防禦+5，保加利亞限定。<br />
+              /><nuxt-link to="/techs/Bagains">協議</nuxt-link
+              >：民兵系近戰防禦+5。<nuxt-link to="/civs/Bulgarians"
+                >哥德</nuxt-link
+              >限定。<br />
             </td>
           </tr>
           <tr>

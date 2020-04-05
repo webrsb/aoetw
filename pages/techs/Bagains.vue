@@ -156,7 +156,7 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              民兵系近程護甲+5。
+              民兵系近程護甲+5
             </td>
           </tr>
         </table>

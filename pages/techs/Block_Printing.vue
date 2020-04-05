@@ -147,8 +147,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese/">中國</nuxt-link
-              >(36399更新):可以研發印刷技術了。
+              <nuxt-link to="/civs/Chinese/">中國</nuxt-link>(36399更新)
+              可以研發印刷技術了。
             </li>
           </ul>
         </div>

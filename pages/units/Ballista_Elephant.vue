@@ -47,7 +47,9 @@
             </li>
             <li>
               弩砲象整體戰力比<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
-              >來的強大，移動速度比較高、血較多、沒有攻擊最小範圍，因此<nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >來的強大，移動速度比較高、血較多、沒有攻擊最小範圍，因此<nuxt-link
+                to="/civs/Khmer"
+                >高棉</nuxt-link
               >這弩砲<nuxt-link to="/civs">文明</nuxt-link
               >裡可量產情況下弩砲象是比較好的選擇。
             </li>

@@ -118,7 +118,8 @@
                 >火槍兵</nuxt-link
               >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >、<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、拜占庭聖騎兵、豹勇士、日本武士、烈堤司和<nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link
+              >、拜占庭聖騎兵、豹勇士、日本武士、烈堤司和<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >。

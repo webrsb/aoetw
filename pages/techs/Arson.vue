@@ -96,11 +96,11 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新)：長劍兵近戰防禦+1
+              (35584更新) 長劍兵近戰防禦+1
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >(36202更新)：不可研發縱火
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新)
+              不可研發縱火
             </li>
           </ul>
         </div>
