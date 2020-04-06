@@ -118,18 +118,15 @@
           <ul>
             <li>成本為200木材300石頭。</li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:可以研發<nuxt-link
-                to="/techs/Siege_Engineers"
-                >攻城工程師</nuxt-link
-              >。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:可以研發磨坊水車。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >:不可以研發攻城工程師。
+              >:不可以研發磨坊水車。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:不可以研發攻城工程師。
+              >:不可以研發磨坊水車。
             </li>
           </ul>
           <h3>
@@ -138,7 +135,7 @@
           <ul>
             <li>1.0c改版後成本現在為300食物200木材。</li>
             <li>
-              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:可以研發攻城工程師。
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:可以研發磨坊水車。
             </li>
           </ul>
           <h3>
@@ -146,14 +143,14 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:移除攻城工程師。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:移除磨坊水車。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:移除攻城工程師。
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:移除磨坊水車。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:可以研發攻城工程師。
+              >:可以研發磨坊水車。
             </li>
           </ul>
           <h3>
@@ -163,7 +160,7 @@
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
               >:4.8改版後從<nuxt-link to="/tree/vie">科技樹</nuxt-link
-              >移除攻城工程師。
+              >移除磨坊水車。
             </li>
           </ul>
         </div>
