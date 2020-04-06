@@ -154,17 +154,6 @@
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
-              <img
-                class="gg"
-                src="~assets/Arson.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
-                to="/armor/Armor_Class_Infantry"
-                >步兵</nuxt-link
-              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link
-              >
             </td>
           </tr>
           <tr>
@@ -416,10 +405,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：哥德衛隊造價便宜35%並對<nuxt-link
+              >：哥德衛隊花費在城堡/帝王時代，減免為30%/35%，對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+1。
+              >攻擊+2/+3。
             </li>
           </ul>
         </div>
@@ -442,10 +431,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              ><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
-                to="/techs/Arson"
-                >縱火</nuxt-link
-              >的時間快20%。
+              ><nuxt-link to="/techs/Squires">護衛技術</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -501,6 +487,17 @@
           </h3>
           <ul>
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (35584更新) 不享有縱火，哥德衛隊花費在城堡/帝王時代，減免為30%/35%，對<nuxt-link
+                to="/armor/Armor_Class_Standard_Building"
+                >標準建築</nuxt-link
+              >攻擊+2/+3。
+            </li>
           </ul>
         </div>
         <h3>豆知識</h3>
