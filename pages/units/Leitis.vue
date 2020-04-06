@@ -510,7 +510,7 @@
             >(擁有四個遺跡)和<nuxt-link to="/units/Shotel_Warrior">精鋭彎刀勇士</nuxt-link
             >並列，是<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
             >和<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-            >以外第二高攻的單位，僅次放<nuxt-link to="/units/War_Elephant">精鋭戰象</nuxt-link
+            >以外第二高攻的單位，僅次於<nuxt-link to="/units/War_Elephant">精鋭戰象</nuxt-link
             >的24攻擊。</li>
           </ul>
         </div>
