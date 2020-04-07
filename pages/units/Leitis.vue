@@ -529,43 +529,9 @@
               /></gallery>
               <p>
                 <em
-                  >3.6版《<nuxt-link to="/games/aof"
-                    >世紀帝國II：失落的帝國</nuxt-link
-                  >》的貴族鐵騎。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/AOE2HDTF_Boyars_Ingame.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>3.5版前的貴族鐵騎。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/AOF22_Boyar_Joan.jpg" alt=""
-              /></gallery>
-              <p>
-                <em
-                  >《<nuxt-link to="/games/aoc"
-                    >世紀帝國II：征服者入侵</nuxt-link
-                  >》時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""
-              /></gallery>
-              <p>
-                <em
-                  >在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
-                  >測試服的<nuxt-link to="/units/Cataphract"
-                    >拜占庭聖騎兵</nuxt-link
-                  >是用貴族鐵騎的模組。</em
+                  >《<nuxt-link to="/games/de"
+                    >世紀帝國II：決定版</nuxt-link
+                  >》的烈堤司。</em
                 >
               </p>
             </div>
