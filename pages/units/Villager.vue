@@ -87,7 +87,7 @@
             <td>收集效率</td>
           </tr>
           <tr>
-            <td class="ttb1">塞爾特伐木工</td>
+            <td class="ttb1"><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>伐木工</td>
             <td class="ttb2">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
@@ -96,7 +96,7 @@
           <tr>
             <td class="tta1">伐木工</td>
             <td class="tta2">
-              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+              木材
             </td>
             <td class="tta3">0.39</td>
           </tr>
@@ -112,7 +112,7 @@
           <tr>
             <td class="tta1">礦工</td>
             <td class="tta2">
-              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+              黃金
             </td>
             <td class="tta3">0.379</td>
           </tr>
@@ -128,7 +128,7 @@
           <tr>
             <td class="tta1">礦工</td>
             <td class="tta2">
-              <nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              石頭
             </td>
             <td class="tta3">0.359</td>
           </tr>
@@ -136,7 +136,7 @@
             <td class="ttb1">
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>獵人
             </td>
-            <td class="ttb2">食物</td>
+            <td class="ttb2"><nuxt-link to="/resource/Food">食物</nuxt-link></td>
             <td class="ttb3">0.612</td>
           </tr>
           <tr>
@@ -870,15 +870,21 @@
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：村民移動速度提高了10％。
+              >：村民移動速度提高了10%。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：牧羊人工作速度提高了25％。
+              >：牧羊人工作速度提高了25%。
+            </li>
+              <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：伐木工工作速度提高15％。即使其他玩家的單位在旁邊，村民也可以取得其他玩家的牲畜。
+              >：伐木工工作速度提高15%。即使其他玩家的單位在旁邊，村民也可以取得其他玩家的牲畜。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -886,7 +892,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >：漿果收集員工作速度提高了25％。
+              >：漿果收集員工作速度提高了25%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：獵人攻擊<nuxt-link
@@ -901,17 +907,19 @@
               >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >，村民便宜5％/ 10％/ 15％/
-              20％。漁夫收集速度提高15％，且可多攜帶15食物。
+              >，村民便宜5%/ 10%/ 15%/
+              20％。漁夫收集速度提高15%，且可多攜帶15食物。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link
               >：村民可以駐守在<nuxt-link to="/building/House">房屋</nuxt-link
-              >內。
+              >內。農夫不需要有<nuxt-link to="/building/Mill">磨坊</nuxt-link
+              >或<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >便能放下食物。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-              >：村民視線+3。礦工收集石頭快20％。建築速度快25％ 。
+              >：村民視線+3。礦工收集石頭快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -923,20 +931,24 @@
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >：獵人收集速度提高40％。
+              >：獵人收集速度提高40%。
             </li>
             <li>
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>：在封建/<nuxt-link
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>：在黑暗/封建/<nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
-              >/帝王時代，村民的創造速度提高了10％/ 15％/ 20％。
+              >/帝王時代，村民的創造速度提高了5%/ 10%/ 15%/ 20%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-              >：農夫收集速度提高15%。
+              >：農夫收集速度提高10%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：建築速度提高30%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：村民高地戰鬥傷害+50%。村民從可畜養動物收集的食物+50%。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
@@ -945,18 +957,13 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >：免費輪軸技術與<nuxt-link to="/techs/Hand_Cart"
-                >手推車</nuxt-link
-              >。
+                >手推車</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link
               >：村民攻擊與防禦隨著<nuxt-link to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >升級。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-              >：農夫不在需要有磨坊或市鎮中心便能放下食物
             </li>
           </ul>
         </div>
@@ -967,6 +974,13 @@
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link
               >：農田建造速度加快50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
+              >研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -1032,11 +1046,19 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>(34699更新)
-              農夫不再需要有磨坊或市鎮中心便能放下食物
+              農夫不再需要有磨坊或市鎮中心便能放下食物。
+            </li>
+              <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
+              不再擁有防禦工事(城牆，塔和城堡)建造速度更快的文明加成。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>(35584更新)
-              獵人收集速度降為40％
+              獵人收集速度降為40%。
+            </li>
+             <li>
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
+              農夫收集速度降為10%。
             </li>
           </ul>
         </div>
