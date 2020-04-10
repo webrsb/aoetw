@@ -759,7 +759,7 @@
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
               >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
