@@ -669,20 +669,77 @@
             </div>
           </div>
         </div>
-
-        <h3>團隊加成</h3>
+        <h3>文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >便宜50%。
+            </li>
+             <li>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：精鋭欽察視野內可畜養動物不被招降。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >：對精鋭欽察有利的科技在帝王時代便宜20%。
+            </li>
+              <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：欽察速度在城堡時代/<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >提升10％/ 15％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：精鋭欽察血量增加20%。
+            </li>
+            <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：精鋭欽察射速快25%。</li>
+            <li>
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：精鋭欽察對<nuxt-link
+                to="/armor/Armor_Class_Standard_Building"
+                >標準建築</nuxt-link
+              >攻擊+4
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >對精鋭欽察有利的科技升級不用<nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
+                to="/techs/Chemistry"
+                >化學</nuxt-link
+              >免費。
+            </li>
+             <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：精鋭欽察高地戰鬥傷害+50%，免費<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+              >、<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
+              >。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：精鋭欽察血量增加20%。免費<nuxt-link to="/techs/Conscription"
+                >徵兵技術</nuxt-link
+              >。
+            </li>
+          </ul>
+        </div>
+        <h3>團隊加分</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高欽察的生產速度還有加速
-            </li>
-            <li>
-              <nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >、<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>的研究時間(快25%)
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
+              >、<nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link
+              >的研究時間(快25%)、欽察訓練速度快25%。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：研究<nuxt-link
@@ -692,8 +749,7 @@
             </li>
               <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >提升<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >護甲和馬弓騎兵攻擊的科技研發快50％。
+            >提升欽察護甲和欽察攻擊的科技研發快50％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研究<nuxt-link
