@@ -156,7 +156,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">協議</nuxt-link
-              >:民兵系近戰防禦+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br />  
+              >:民兵系近戰防禦+5，<nuxt-link to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >限定。<br />
             </td>
           </tr>
           <tr>
@@ -390,8 +392,9 @@
               >：民兵生產速度提高15％。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：<nuxt-link to="/units/Militia">民兵系</nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/units/Militia"
+                >民兵系</nuxt-link
               >升級免費。
             </li>
             <li>
@@ -441,7 +444,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：民兵黃金成本減少15％。。
+              >：民兵黃金成本減少15％。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
@@ -574,7 +577,7 @@
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
               >(34055更新)：協議現在增加民兵系近戰防禦+5。
             </li>
-            <li>	            
+            <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>
               (35584更新) 民兵從黑暗時代開始便宜35%。
             </li>
