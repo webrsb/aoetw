@@ -177,7 +177,16 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
-              >(+1/+2)
+              >(+1/+2)<br />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Druzhina">協議</nuxt-link
+              >:民兵系近戰防禦+5，<nuxt-link to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >限定。<br />
             </td>
           </tr>
           <tr>
@@ -410,6 +419,12 @@
               >：長劍兵生產速度提高15％。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/units/Militia"
+                >民兵系</nuxt-link
+              >升級免費。
+            </li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >：長劍兵在封建/<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
@@ -614,8 +629,16 @@
           </h3>
           <ul>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：協議增加民兵系近戰防禦+3。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >(34055更新)：協議現在增加民兵系近戰防禦+5。
+            </li>
+            <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新)：長劍兵近戰防禦+1
+              (35584更新)：長劍兵近戰防禦+1。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
