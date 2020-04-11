@@ -48,7 +48,15 @@
             >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>）。
           </p>
           <p>
-            保加利亞人則是升時代後擁有民兵系可以免費研發直接升級的優勢在，升帝王時就可以考慮生一堆長劍兵等上帝後猛攻一波，且研發獨特科技協議後更是擁有加高達8的近防。由於劍兵免費升級偏強勢，該文明沒有劍兵勇士，協議算是為了平衡這一點。
+            <nuxt-link to="/units/Bulgarians">保加利亞人</nuxt-link
+            >則是升時代後擁有民兵系可以免費研發直接升級的優勢在，升帝王時就可以考慮生一堆長劍兵等上帝後猛攻一波，且研發<nuxt-link
+              to="/techs/untech"
+              >特殊科技</nuxt-link
+            ><nuxt-link to="/units/Bagains">協議</nuxt-link
+            >後更是擁有加高達8的近防。由於民兵免費升級偏強勢，該文明沒有<nuxt-link
+              to="/units/Champion"
+              >劍兵勇士</nuxt-link
+            >，協議算是為了平衡這一點。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -195,7 +203,7 @@
                 alt=""
               /><nuxt-link to="/techs/Bagains">協議</nuxt-link
               >：民兵系近戰防禦+5。<nuxt-link to="/civs/Bulgarians"
-                >哥德</nuxt-link
+                >保加利亞</nuxt-link
               >限定。<br />
             </td>
           </tr>
@@ -430,6 +438,12 @@
               >：雙手劍兵生產速度提高15％。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/units/Militia"
+                >民兵系</nuxt-link
+              >升級免費。
+            </li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >：雙手劍兵在帝王時代有+3攻擊。
             </li>
@@ -499,10 +513,6 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：雙手劍兵近戰防禦+1
-            </li>
-            <li>
-              保加利亞：<nuxt-link to="/units/Militia">民兵系</nuxt-link
-              >升級免費。
             </li>
           </ul>
         </div>
