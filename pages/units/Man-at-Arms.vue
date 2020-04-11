@@ -174,7 +174,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">協議</nuxt-link
-              >:民兵系近戰防禦+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br /> 
+              >:民兵系近戰防禦+5，<nuxt-link to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >限定。<br />
             </td>
           </tr>
           <tr>
@@ -407,8 +409,9 @@
               >：裝甲步兵生產速度提高15％。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：<nuxt-link to="/units/Militia">民兵系</nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/units/Militia"
+                >民兵系</nuxt-link
               >升級免費。
             </li>
             <li>
@@ -604,7 +607,7 @@
             <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
           </h3>
           <ul>
-           <li>
+            <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
               >：協議增加民兵系近戰防禦+3。
             </li>
@@ -613,7 +616,7 @@
               >(34055更新)：協議現在增加民兵系近戰防禦+5。
             </li>
             <li>
-            <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               (35584更新)：裝甲步兵從城堡時代開始，近戰防禦+1。
             </li>
             <li>
