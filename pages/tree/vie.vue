@@ -327,7 +327,7 @@
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm not">
+            <td class="t19 trm">
               <img class="gg" src="~assets/husbandry.png" alt="" />
               <div><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link></div>
             </td>

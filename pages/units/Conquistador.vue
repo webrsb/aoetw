@@ -99,7 +99,8 @@
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>。
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
+              >、反弓兵單位。
             </td>
           </tr>
           <tr class="tta">
@@ -645,6 +646,18 @@
               <p><em>一群西班牙征服者</em></p>
             </div>
           </div>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              西班牙征服者會受到反弓兵單位的額外傷害。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">

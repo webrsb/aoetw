@@ -550,6 +550,18 @@
             <p><em>真實的投石器</em></p>
           </div>
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              攻擊力-1 (原本為5)
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -637,7 +649,7 @@
           <tr>
             <td class="unit3">攻擊</td>
             <td class="unit4">
-              5(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+              4(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
             </td>
           </tr>
           <tr>

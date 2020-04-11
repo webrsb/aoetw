@@ -20,7 +20,12 @@
             瞭望箭塔是防禦基地的重要部分之一。瞭望箭塔可以提供玩家城鎮對早期攻擊的保護。瞭望箭塔應放置在狹窄處或敵方不易進攻的位置(如懸崖或森林後面)，或是在塔的附近直接用牆圍住(封建時代沒有<nuxt-link
               to="/techs/Murder_Holes"
               >近射孔</nuxt-link
-            >)防止近戰單位接近並摧毀瞭望箭塔。
+            >)防止近戰單位接近並摧毀瞭望箭塔。<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >的生命值為700，升級<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >後會自動增加至1020。
           </p>
           <p>
             瞭望箭塔也可用在進攻方面，例如著名的塔攻。在敵人的城鎮附近找尋資源目標，並在敵人無法發現的<nuxt-link
@@ -539,7 +544,7 @@
           </h3>
           <ul>
             <li>
-              生命值由1020減為700
+              封建時代前的生命值由1020減為700
             </li>
           </ul>
         </div>
@@ -628,7 +633,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
             </td>
-            <td class="unit4">700</td>
+            <td class="unit4">700/1020(城堡時代)</td>
           </tr>
           <tr>
             <td class="unit3">

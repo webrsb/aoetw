@@ -157,7 +157,7 @@
               >仍須先研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link>)
             </li>
             <li>箭塔射程於城堡時代 +1、帝王時代 +2</li>
-            <li>防禦工事(城牆，塔和城堡)的建造速度更快</li>
+            <li>除攻城武器的軍事單位減少15%的木材消耗</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus"
@@ -211,6 +211,14 @@
             <li>
               <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後蓋塔時間60s → 75s
               (其他文明 80s)
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              文明特性：增加除攻城武器的軍事單位減少15%的木材消耗、失去防禦工事(城牆，塔和城堡)的建造速度更快的特性
             </li>
           </ul>
         </div>

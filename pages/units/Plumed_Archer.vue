@@ -484,6 +484,14 @@
             <li>羽毛箭射手現在花費50木材50黃金。</li>
             <li>升級到精銳羽毛箭射手需要700食物1000木材。</li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              研發成本增加為55W/55G
+            </li>
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -591,10 +599,10 @@
               ><img class="gg" src="~assets/castle_age.png" alt="" />
             </td>
             <td class="unit4">
-              <nuxt-link to="/resource/Wood">木材</nuxt-link>40<nuxt-link
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>45<nuxt-link
                 to="/resource/Gold"
                 >黃金</nuxt-link
-              >40
+              >45<sup><abbr title="根據文明加成後減免後的成本">註</abbr></sup>
             </td>
           </tr>
           <tr>
@@ -602,7 +610,11 @@
               帝王時代
               <img class="gg" src="~assets/imperial_age.png" alt="" />
             </td>
-            <td class="unit4">木材35黃金35</td>
+            <td class="unit4">
+              木材40黃金40<sup
+                ><abbr title="根據文明加成後減免後的成本">註</abbr></sup
+              >
+            </td>
           </tr>
           <tr>
             <td

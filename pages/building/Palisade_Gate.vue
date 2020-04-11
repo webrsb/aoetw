@@ -15,7 +15,10 @@
             >上，可以讓同盟通過同時阻擋敵人。木門在友方單位靠近時會自動開啟讓他們通過，並在門下沒有任何單位時(我方或敵方)關上。為了避免敵方單位尾隨有方單位進門後佔住<nuxt-link
               to="/building/Gate"
               >城門</nuxt-link
-            >變成防守漏洞，可以將木門鎖定(可再次解鎖)；然而阻擋敵方單位時我方單位也無法通過該木門。
+            >變成防守漏洞，可以將木門鎖定(可再次解鎖)；然而阻擋敵方單位時我方單位也無法通過該木門。《<nuxt-link
+              to="/games/de"
+              >世紀帝國II：決定版</nuxt-link
+            >》將地基防禦力減低為0/0，因此只敲幾下的木門地基相當容易被摧毀。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -216,11 +219,11 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
-            <td class="unit4">2</td>
+            <td class="unit4">2/0(地基)</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
-            <td class="unit4">2</td>
+            <td class="unit4">2/0(地基)</td>
           </tr>
           <tr>
             <td class="unit3">護甲分類</td>

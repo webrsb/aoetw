@@ -153,15 +153,14 @@
               <nuxt-link to="/building/Market">市集</nuxt-link
               >貿易成本僅5%(不是30%)
             </li>
-            <li>市集建造便宜75木材(原價175木材)</li>
+            <li>市集建造成本-100木材(原價175木材)</li>
             <li>運輸船擁有兩倍血量/裝載量+5</li>
             <li>
               <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
               >(槳帆戰船)攻擊速度+20%
             </li>
             <li>
-              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵類</nuxt-link
-              >對建築物<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>+3
+              遠程單位(除矛兵)，在封建/城堡/帝王vs標準建築+1/+2/+3攻擊力。
             </li>
             <li>
               <strong
@@ -189,6 +188,21 @@
             <li>市集成本-175木材。</li>
             <li>阿拉伯奴隸兵獲得+1攻擊。</li>
           </ul>
+          <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                市集木材減免100 (原為75)。
+              </li>
+              <li>
+                遠程單位(除矛兵)，在封建/城堡/帝王vs標準建築+1/+2/+3攻擊力。
+              </li>
+            </ul>
+          </div>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>

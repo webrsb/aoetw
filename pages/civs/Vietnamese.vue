@@ -235,6 +235,7 @@
             <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
           </h3>
           <ul>
+            <li>獲得<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link></li>
             <li>
               (35584更新) 研發經濟科技不消耗木材
             </li>

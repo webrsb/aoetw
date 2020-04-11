@@ -478,6 +478,15 @@
               >攻擊+6。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link
+              >非精銳降為2.03(與精銳相同)
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
@@ -707,7 +716,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
             </td>
-            <td class="unit4">3.05/2.03(精銳)</td>
+            <td class="unit4">2.03</td>
           </tr>
           <tr>
             <td class="unit3">

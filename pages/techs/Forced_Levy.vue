@@ -14,7 +14,8 @@
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Barracks">軍營</nuxt-link
             ><nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
-            >不需花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
+            >不需花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >但需要額外的食物。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -54,6 +55,19 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速強制徵兵的研究時間(快25%)。
+            </li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              減少研發成本為850F、500G
+              (原為1000F、600G)，且免除黃金外還需要額外的食物花費
             </li>
           </ul>
         </div>
@@ -118,13 +132,13 @@
             <td class="unit3">
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
-            <td class="unit4">1000</td>
+            <td class="unit4">850</td>
           </tr>
           <tr>
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">600</td>
+            <td class="unit4">500</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">

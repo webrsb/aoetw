@@ -985,7 +985,7 @@
                 >
               </div>
             </td>
-            <td class="t10 trm">
+            <td class="t10 trm not">
               <img class="gg" src="~assets/GalleonAoE2.png" />
               <div><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link></div>
             </td>

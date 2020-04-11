@@ -493,7 +493,8 @@
           </h3>
           <ul>
             <li>
-              (35584更新) 不享有縱火，哥德衛隊花費在城堡/帝王時代，減免為30%/35%，對<nuxt-link
+              (35584更新)
+              不享有縱火，哥德衛隊花費在城堡/帝王時代，減免為30%/35%，對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+2/+3。

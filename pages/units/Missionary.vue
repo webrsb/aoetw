@@ -514,6 +514,18 @@
           <ul>
             <li>訓練傳教士不再需要先建造城堡。</li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              傳教士的治療速度和僧侶一樣。
+            </li>
+            <li>
+              傳教士會受到<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
+              >的影響。
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>

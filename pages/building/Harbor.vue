@@ -487,6 +487,20 @@
               一開始海港的HP是2200然後開火速率為2.5，在5.3改版後HP降到2000開火速率也降為3.05。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              海港最小攻擊距離增加為1，除非研發<nuxt-link
+                to="/techs/Murder_Holes"
+                >垛孔</nuxt-link
+              >才能消除。
+            </li>
+            <li>
+              攻擊力從6降為3，對船攻擊從9增為10。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">
@@ -562,18 +576,26 @@
           <tr>
             <td class="unit3">攻擊</td>
             <td class="unit4">
-              6(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+              3(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
             </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加城</td>
             <td class="unit4">
-              對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>攻擊+9
+              對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>攻擊+10
             </td>
           </tr>
           <tr>
             <td class="unit3">開火速率</td>
             <td class="unit4">3.05</td>
+          </tr>
+          <tr>
+            <td class="unit3">射程</td>
+            <td class="unit4">7</td>
+          </tr>
+          <tr>
+            <td class="unit3">最小射程</td>
+            <td class="unit4">1</td>
           </tr>
           <tr>
             <td class="unit3">命中率</td>

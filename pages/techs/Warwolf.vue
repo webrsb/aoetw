@@ -52,6 +52,18 @@
         <div class="n1">
           戰狼號是由英格蘭國王長腿愛德華所下令建造，據說是英格蘭工藝史上規模最大的攻城器械。廣泛運用於對蘇格蘭的征服戰爭中。
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              研發成本由500W、250G增加為800W、400G
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">

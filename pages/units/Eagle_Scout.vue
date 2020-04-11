@@ -542,6 +542,9 @@
           </h3>
           <ul>
             <li>
+              鷹斥侯黑暗時代-1視野和搜尋範圍
+            </li>
+            <li>
               (35584更新) 起始鷹斥侯擁有自動探圖功能。
             </li>
           </ul>
@@ -715,7 +718,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">6</td>
+            <td class="unit4">5</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">

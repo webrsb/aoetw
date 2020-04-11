@@ -1263,7 +1263,7 @@
               <img class="gg" src="~assets/atonement.png" width="30" alt="" />
               <div><nuxt-link to="/techs/Atonement">救贖思想</nuxt-link></div>
             </td>
-            <td class="t11 trm not">
+            <td class="t11 trm">
               <img
                 class="gg"
                 src="~assets/Herbalmedicine.png"

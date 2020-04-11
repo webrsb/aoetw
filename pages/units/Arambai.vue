@@ -312,6 +312,9 @@
               <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
             </h3>
             <ul>
+              <li>成本降為75W, 65G</li>
+            </ul>
+            <ul>
               <li>(34699更新) 成本降為75木材, 60黃金</li>
             </ul>
           </div>

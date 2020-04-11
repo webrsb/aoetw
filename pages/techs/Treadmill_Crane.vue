@@ -142,15 +142,10 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
+            <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>:移除磨坊水車。</li>
+            <li><nuxt-link to="/civs/Huns">匈人</nuxt-link>:移除磨坊水車。</li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:移除磨坊水車。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Huns">匈人</nuxt-link>:移除磨坊水車。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:可以研發磨坊水車。
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>:可以研發磨坊水車。
             </li>
           </ul>
           <h3>
