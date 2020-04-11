@@ -184,7 +184,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">協議</nuxt-link
-              >:民兵系近戰防禦+5，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定。<br />
+              >:民兵系近戰防禦+5，<nuxt-link to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >限定。<br />
             </td>
           </tr>
           <tr>
@@ -417,8 +419,9 @@
               >：長劍兵生產速度提高15％。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：<nuxt-link to="/units/Militia">民兵系</nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/units/Militia"
+                >民兵系</nuxt-link
               >升級免費。
             </li>
             <li>
