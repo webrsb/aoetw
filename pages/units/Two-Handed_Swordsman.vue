@@ -49,9 +49,13 @@
           </p>
           <p>
             <nuxt-link to="/units/Bulgarians">保加利亞人</nuxt-link
-            >則是升時代後擁有民兵系可以免費研發直接升級的優勢在，升帝王時就可以考慮生一堆長劍兵等上帝後猛攻一波，且研發<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >則是升時代後擁有民兵系可以免費研發直接升級的優勢在，升帝王時就可以考慮生一堆長劍兵等上帝後猛攻一波，且研發<nuxt-link
+              to="/techs/untech"
+              >特殊科技</nuxt-link
             ><nuxt-link to="/units/Bagains">協議</nuxt-link
-            >後更是擁有加高達8的近防。由於民兵免費升級偏強勢，該文明沒有<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+            >後更是擁有加高達8的近防。由於民兵免費升級偏強勢，該文明沒有<nuxt-link
+              to="/units/Champion"
+              >劍兵勇士</nuxt-link
             >，協議算是為了平衡這一點。
           </p>
         </div>
@@ -433,9 +437,10 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
               >：雙手劍兵生產速度提高15％。
             </li>
-             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：<nuxt-link to="/units/Militia">民兵系</nuxt-link
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/units/Militia"
+                >民兵系</nuxt-link
               >升級免費。
             </li>
             <li>
