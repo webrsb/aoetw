@@ -126,8 +126,9 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：<nuxt-link to="/building/Castle">城堡</nuxt-link
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >生產速度提高15％。
             </li>
             <li>
@@ -143,12 +144,14 @@
               >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >的城堡HP分別增加10%/20%/30%/40%。<nuxt-link to="/techs/Town_Watch"
+              >的城堡HP分別增加10%/20%/30%/40%。<nuxt-link
+                to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
               >免費。
             </li>
-               <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：對城堡有利的科技成本在城堡/帝王時代分別便宜15%/20%。
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >：對城堡有利的科技成本在城堡/帝王時代分別便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：城堡便宜25％。
@@ -158,9 +161,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：城鎮瞭望和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>研發在城堡/帝王時代分別快15%/20%。
+              >：城鎮瞭望和<nuxt-link to="/techs/Town_Patrol"
+                >城鎮巡邏</nuxt-link
+              >研發在城堡/帝王時代分別快15%/20%。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：城堡單位的黃金成本便宜15%。
             </li>
@@ -176,7 +181,7 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：<nuxt-link
                 to="/techs/Murder_Holes"
                 >近射孔</nuxt-link
-              >、<nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link>免費。
+              >、免費。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -203,18 +208,26 @@
               >裡對城堡有加成的<nuxt-link to="/techs">科技</nuxt-link
               >研發速度快80%。
             </li>
-             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >提升城堡攻擊的科技研發快50％。  
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升城堡攻擊的科技研發快50％。
             </li>
-              <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link>研發快20%。
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Herbal_Medicine"
+                >草藥治療</nuxt-link
+              >研發快20%。
             </li>
-             <li>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：研發<nuxt-link to="/techs/Cuman_Mercenaries">庫曼傭兵</nuxt-link>後，隊伍成員能在城堡免費生產10名精銳<nuxt-link
-              to="/units/Kipchaks"
-              >欽察</nuxt-link
-            >。
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：研發<nuxt-link
+                to="/techs/Cuman_Mercenaries"
+                >庫曼傭兵</nuxt-link
+              >後，隊伍成員能在城堡免費生產10名精銳<nuxt-link
+                to="/units/Kipchaks"
+                >欽察</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -679,11 +692,15 @@
                 >沸油</nuxt-link
               >。
             </li>
-             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:<nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link>免費。
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:<nuxt-link
+                to="/techs/Herbal_Medicine"
+                >草藥治療</nuxt-link
+              >免費。
             </li>
-             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:不再擁有城堡建造速度更快的文明加成。
+            <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >:不再擁有城堡建造速度更快的文明加成。
             </li>
           </ul>
         </div>
@@ -733,9 +750,10 @@
             <li>
               南美城堡看起來是金字塔神廟祭壇，因為南美文明從來沒有真正建造過城堡來防禦。（歷史中戰俘會被帶上金字塔頂部的神殿，祭師當場剖開「祭品」的胸膛，取出血淋淋還在跳動的心臟獻給神）。
             </li>
-             <li>
+            <li>
               由於<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >的城堡缺乏任何能增加<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+              >的城堡缺乏任何能增加<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
               >和護甲的科技（<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link
               >、<nuxt-link to="/techs/Hoardings">圍牆</nuxt-link
