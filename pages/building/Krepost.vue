@@ -10,16 +10,15 @@
           <p>
             <b>營壘</b>是《<nuxt-link to="/games/de"
               >世紀帝國II：決定版</nuxt-link
-            >》中，<nuxt-link to="/civs/Bulgarians">保加利亞人</nuxt-link
-            >於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >可以建造的特殊<nuxt-link to="/building">建築物</nuxt-link
+            >》中，僅有<nuxt-link to="/civs/Bulgarians">保加利亞人</nuxt-link
+            >可以於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >建造的軍事<nuxt-link to="/building">建築</nuxt-link
             >和防禦建築。它是城堡的縮小版，可以訓練<nuxt-link
               to="/units/Konniks"
               >保加利亞騎兵</nuxt-link
-            >，<nuxt-link to="/elements/Garrison">駐軍</nuxt-link
-            >可達20人，且不能被<nuxt-link to="/elements/Conversion"
+            >，並提供20的人口，且不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >，但不能研發<nuxt-link to="/techs">科技</nuxt-link>。
+            >，不能研發<nuxt-link to="/techs">科技</nuxt-link>。
           </p>
         </div>
         <h3>戰術</h3>
@@ -28,16 +27,16 @@
           <div class="col-md-12">
             <div class="n1">
               <li>
-                在進攻方面上，堡壘的性能可能會優於<nuxt-link
+                在進攻方面上，營壘的性能可能會優於<nuxt-link
                   to="/building/Castle"
                   >城堡</nuxt-link
-                >，因為建築時間更短，並且一個城堡的成本幾乎等同堡壘。另外，堡壘與城堡訓練<nuxt-link
+                >，因為建築時間更短，並且玩家建造兩座營壘的成本幾乎等同於一座城堡，這使得更容易實現「營壘」推。另外，營壘與城堡訓練<nuxt-link
                   to="/units/Konniks"
                   >保加利亞騎兵</nuxt-link
-                >的時間是相同的，這使得能更容易地實現堡推。和城堡一樣，堡壘會根據駐紮單位來提升射箭數量。
+                >的時間是相同的，這意味者假如玩家想要量產保加利亞騎兵，會更傾向建造兩座營壘而不是一座城堡。和城堡一樣，營壘會根據駐紮單位來提升射箭數量。
               </li>
               <li>
-                在防禦方面上，堡壘的<nuxt-link to="/elements/Attack"
+                在防禦方面上，營壘的<nuxt-link to="/elements/Attack"
                   >攻擊力</nuxt-link
                 >，射程和<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
                 >比城堡小，並且不能製造<nuxt-link to="/units/Trebuchet"
@@ -47,15 +46,15 @@
               </li>
               <li>
                 <nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
-                >能用比城堡大約一半的時間摧毀堡壘，因此要像城堡和<nuxt-link
+                >能用比城堡大約一半的時間摧毀營壘，因此要像城堡和<nuxt-link
                   to="/building/Watch_Tower"
                   >箭塔</nuxt-link
-                >一樣，最好把堡壘建在隘口或障礙物（城牆、懸崖、森林）後面，以免受非遠距離單位攻擊。
+                >一樣，最好把營壘建在隘口或障礙物（城牆、懸崖、森林）後面，以免受非遠距離單位攻擊。
               </li>
               <li>
-                堡壘也是升級<nuxt-link to="/techs/age/Imperial_Age"
+                營壘也是升級<nuxt-link to="/techs/age/Imperial_Age"
                   >帝王時代</nuxt-link
-                >的條件，因為它被視為城堡，如果玩家想快速升級帝王時代的話，則應考慮建造堡壘而非其他建築物。
+                >的條件，因為它被視為城堡，如果玩家想快速升級帝王時代的話，則應考慮建造營壘而非其他建築物。
               </li>
             </div>
             <h3>箭數</h3>
@@ -394,7 +393,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/feitoria.png" class="img-fluid" alt="" />
+                <img src="~assets/Kreposticon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -497,11 +496,7 @@
       <div class="n1">
         <div class="col-md-4">
           <gallery
-            ><img
-              class="imgn hg"
-              width="180"
-              src="~assets/Feitoria_-_Copie.png"
-              alt=""
+            ><img class="imgn hg" width="180" src="~assets/Krepost.png" alt=""
           /></gallery>
           <div class="lightbox-caption" style="width:220px">
             <p><em>遊戲中的營壘。</em></p>
