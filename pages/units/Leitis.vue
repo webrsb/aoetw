@@ -8,15 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>烈堤司</b>是<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
-            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            <b>烈堤司</b>是《<nuxt-link to="/games/de"
+              >世紀帝國II：決定版</nuxt-link
+            >》<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>的<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。烈堤司是能無視<nuxt-link to="/armor">裝甲</nuxt-link
-            >(僅限於單位)的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+            >(僅限於對抗單位)的<nuxt-link to="/units/Cavalry_Units"
+              >騎兵單位</nuxt-link
             >。烈堤司可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為<nuxt-link to="/units/Leitis">精鋭烈堤司</nuxt-link>。
+            >升級為精鋭烈堤司。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -25,24 +29,39 @@
           <ul>
             <li>
               相比<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的<nuxt-link to="/units/Knight">騎士</nuxt-link
-            >，烈堤司擁有更高的攻擊力，更少的<nuxt-link to="/resource/Food">食物</nuxt-link
-            >成本，更低的<nuxt-link to="/armor">近防</nuxt-link
-            >和能無視敵方裝甲的能力。
+              >的<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >，烈堤司擁有更高的攻擊力，更少的<nuxt-link to="/resource/Food"
+                >食物</nuxt-link
+              >成本，更低的<nuxt-link to="/armor">近防</nuxt-link
+              >和能無視敵方裝甲的能力。
             </li>
             <li>
-             除了一開始多150食物外，立陶宛沒有實際的經濟加成比其他文明更快地升到城堡時代，因此城快是一個可行的策略。而在多數情況下，玩家會城快訓練騎士，而不是烈堤司，甚至直到城堡時代晚期。
+              除了一開始多150食物外，立陶宛沒有實際的經濟加成比其他文明更快地升到城堡時代。當玩家以城快作為策略在多數情況下，玩家會訓練騎士，而不是烈堤司，直到城堡時代晚期。
             </li>
             <li>
               如果玩家一開始已有<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >（例如弑君模式）或建造了城堡，烈堤司通常會在幾個方面下勝過騎士：在城堡時代時，烈堤司能一對一擊敗普通騎士，而在帝王時代時，他們能更便宜和更快地升上精鋭。
+              >（例如弑君模式）或建造了城堡，烈堤司通常會在幾個方面下勝過騎士：在城堡時代時，烈堤司能一對一擊敗普通騎士，而在帝王時代時，他們能更便宜和更快地升上精鋭。
             </li>
             <li>
-              如果經濟好，而且建造了至少兩個城堡的話，選擇烈堤司會比騎士好，因為無視裝甲的能力，能輕鬆擊敗<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-            >等裝甲部隊或<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
-            >。烈堤司的能力還能無視<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >的近程護甲研發和升級，還有一些文明能提升護甲的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >。如果對手已研究了這些科技，這將會是浪費資源。
+              如果經濟好，而且建造了至少兩個城堡的話，選擇烈堤司會比騎士好，因為無視裝甲的能力，能輕鬆擊敗<nuxt-link
+                to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >等裝甲部隊或<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
+              >。烈堤司的能力還能無視<nuxt-link to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >的近程護甲研發和升級，還有一些文明能提升護甲的<nuxt-link
+                to="/techs/untech"
+                >特殊科技</nuxt-link
+              >。如果對手已研究了這些科技，這將會是浪費資源。
+            </li>
+            <li>
+              Through being a unique unit that can deal high damage against
+              their direct counters, Halberdiers and Camel Riders still pose a
+              threat to them, since they are cost-effective thanks to their high
+              amount of bonus damage against cavalry. Also, they can be defeated
+              by other unique units such as the Samurai, Kamayuk, Genoese
+              Crossbowman, Mameluke and War Elephant, though they will receive a
+              lot of damage from Leitis.
             </li>
           </ul>
         </div>
@@ -59,9 +78,9 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link
-              >、裝甲部隊（尤其是<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-            >和<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
-            >）。
+              >、裝甲部隊（尤其是<nuxt-link to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >和<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>）。
             </td>
           </tr>
           <tr>
@@ -70,14 +89,14 @@
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >、<nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+              >、<nuxt-link to="/units/Genoese_Crossbowman"
+                >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
               >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
-              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
-              >
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>
             </td>
           </tr>
           <tr class="tta">
@@ -435,13 +454,15 @@
               </ul>
             </div>
           </div>
-                </div>
+        </div>
         <h3>文明加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：每駐守一件<nuxt-link to="/elements/Relic">遺跡</nuxt-link>，烈堤司攻擊力+1（最高+4）
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：每駐守一件<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+              >，烈堤司攻擊力+1（最高+4）
             </li>
           </ul>
         </div>
@@ -455,10 +476,12 @@
                 >聚居堡壘</nuxt-link
               >能夠提高烈堤司的生產速度
             </li>
-             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >提升<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-            >護甲和騎兵攻擊的科技研發快50％。
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >護甲和騎兵攻擊的科技研發快50％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
@@ -467,12 +490,11 @@
               >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
-              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
-              >研發快20%。
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -482,36 +504,47 @@
             </li>
           </ul>
         </div>
-        <h3>更新日誌</h3>
-        <div class="hrn1"></div>
         <div class="n1">
-          <h3>
-          </h3>
-          <ul>
-          </ul>
+          <h3></h3>
+          <ul></ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
-              烈堤司的破甲攻擊似乎來自中世紀和文藝復興時期的士兵，他們通過使用狼牙棒、流星鎚、戰鎚、戰鎬、連枷等猛擊敵人的盔甲來破甲。而遊戲中烈堤司能擊敗<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-            >和<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
-            >的能力是參考了波蘭立陶宛聯軍擊敗條頓騎士團的格倫瓦德之戰。然而，擁有流星鎚的<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
-            >並沒有破甲能力。
+              烈堤司的破甲攻擊似乎來自中世紀和文藝復興時期的士兵，他們通過使用狼牙棒、流星鎚、戰鎚、戰鎬、連枷等猛擊敵人的盔甲來破甲。而遊戲中烈堤司能擊敗<nuxt-link
+                to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >和<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
+              >的能力是參考了波蘭立陶宛聯軍擊敗條頓騎士團的格倫瓦德之戰。然而，擁有流星鎚的<nuxt-link
+                to="/units/Konnik"
+                >保加利亞騎兵</nuxt-link
+              >並沒有破甲能力。
             </li>
             <li>
-              儘管遊戲中烈堤司的血量和裝甲與重裝<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-            >相當，但格倫瓦德之戰的立陶宛騎兵實際上是<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >，而波蘭才是以重裝騎兵作戰。
+              儘管遊戲中烈堤司的血量和裝甲與重裝<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >相當，但格倫瓦德之戰的立陶宛騎兵實際上是<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >，而波蘭才是以重裝騎兵作戰。
             </li>
-            <li>全滿的精鋭烈堤司加上擁有四個<nuxt-link to="/elements/Relic">遺跡</nuxt-link
-            >，攻擊力高達22，與立陶宛<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-            >(擁有四個遺跡)和<nuxt-link to="/units/Shotel_Warrior">精鋭彎刀勇士</nuxt-link
-            >並列，是<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
-            >和<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-            >以外第二高攻的單位，僅次於<nuxt-link to="/units/War_Elephant">精鋭戰象</nuxt-link
-            >的24攻擊。</li>
+            <li>
+              全滿的精鋭烈堤司加上擁有四個<nuxt-link to="/elements/Relic"
+                >遺跡</nuxt-link
+              >，攻擊力高達22，與立陶宛<nuxt-link to="/units/Paladin"
+                >遊俠</nuxt-link
+              >(擁有四個遺跡)和<nuxt-link to="/units/Shotel_Warrior"
+                >精鋭彎刀勇士</nuxt-link
+              >並列，是<nuxt-link to="/units/Siege_Weapons"
+                >攻城器單位</nuxt-link
+              >和<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              >以外第二高攻的單位，僅次於<nuxt-link to="/units/War_Elephant"
+                >精鋭戰象</nuxt-link
+              >的24攻擊。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -525,12 +558,11 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/AOF36_Boyar.jpg" alt=""
+                ><img class="imgn hg" src="~assets/Leitises.png" alt=""
               /></gallery>
               <p>
                 <em
-                  >《<nuxt-link to="/games/de"
-                    >世紀帝國II：決定版</nuxt-link
+                  >《<nuxt-link to="/games/de">世紀帝國II：決定版</nuxt-link
                   >》的烈堤司。</em
                 >
               </p>
@@ -552,7 +584,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/New_Boyar.png" class="img-fluid" alt="" />
+                <img src="~assets/Leitisicon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -680,7 +712,7 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/New_Boyar.png" alt="" />精銳烈堤司
+              <img class="gg" src="~assets/Leitisicon.png" alt="" />精銳烈堤司
             </td>
           </tr>
           <tr>
@@ -700,23 +732,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由singsing612協助編輯</div>
-        <div class="wiki" style="margin-top: 5px;">
-          <div style="float: left;">
-            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
-          </div>
-          <div style="margin-left: 60px;">
-            維基百科上的烈堤司
-            <div style="margin-left: 10px;">
-              <i
-                ><b
-                  ><a href="http://tinyurl.com/ybpqjkuk" target="_blank"
-                    >Leičiai</a
-                  ></b
-                ></i
-              >
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>
