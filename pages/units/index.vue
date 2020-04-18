@@ -899,6 +899,22 @@
                       alt=""
                     /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>
                   </div>
+                  <div class="game_title">
+                    <nuxt-link to="/games/de"
+                      ><img
+                        src="~assets/deicon.png"
+                        style="margin-right:5px"
+                      />決定版</nuxt-link
+                    >
+                  </div>
+                  <hr />
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Leitisicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Leitis">烈堤司</nuxt-link>
+                  </div>
                 </b-card>
               </b-collapse>
             </td>
