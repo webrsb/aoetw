@@ -1071,11 +1071,7 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Kipchakicon.png"
-                alt=""
-              />精銳欽察
+              <img class="gg" src="~assets/Kipchakicon.png" alt="" />精銳欽察
             </td>
           </tr>
           <tr>
