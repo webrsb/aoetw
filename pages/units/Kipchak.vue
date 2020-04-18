@@ -8,17 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>欽察</b>是<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            <b>欽察</b>是《<nuxt-link to="/games/de"
+              >世紀帝國II：決定版</nuxt-link
+            >》<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>的<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。是一個一次多發的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >。不過，只有第一發箭會造成全部傷害，並且會受到傷害升級的影響。其他箭會造成3點遠程傷害和0點近戰傷害。欽察一次三發，而精鋭欽察一次四發。
+            >中訓練。是一個一次多發的<nuxt-link to="/units/Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >。不過，只有第一發箭會造完整傷害，並且會受到傷害升級的影響。其他箭會造成3點遠程傷害和0點近戰傷害。欽察一次三發，而精鋭欽察一次四發。
           </p>
           <p>
             欽察可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為<nuxt-link to="/units/Leitis">精鋭欽察</nuxt-link>。
+            >升級為精鋭欽察。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,40 +30,61 @@
         <div class="n1">
           <ul>
             <li>
-              與其他<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >不同，欽察與<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
-            >類似，能夠射出很多的箭，對有<nuxt-link to="/armor">遠程護甲</nuxt-link
-            >的單位(如<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >)造成相當大的傷害。但他們仍應盡量避免反弓箭部隊，而且對<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-            >、<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
-            >、以及反<nuxt-link to="/units/Cavalry_Units">騎兵部隊</nuxt-link
-            >，如<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-            >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >都很弱。但如果使用得當，還是可以用打帶跑戰術消耗他們。
+              欽察是個不錯騷擾者，特別是有一定的數量時，因為其額外的箭可實現打帶跑齊射的戰術，此外他們還特別擅長對抗緩慢移動的單位。由於第二發箭造成0點近戰傷害(除了一般的3點傷害)，所以對於破壞<nuxt-link
+                to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >是個絕佳的選擇。
             </li>
             <li>
-              在大多數情況下，欽察更優於馬弓騎兵，除非沒有<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >來組建龐大的軍隊。欽察有更好的進攻能力，而且<nuxt-link to="/resource/Gold">黃金</nuxt-link
-            >成本也比馬弓騎兵少。但是馬弓騎兵的血量高於欽察，因此也會在需要吸收傷害而不是騷擾對手的情況下使用，而且馬弓騎兵還受到<nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link
-            >的加成從而提升了訓練速度，但欽察則不受影響。
+              與其他<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >不同，欽察與<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
+              >類似，能夠射出很多的箭，對有<nuxt-link to="/armor"
+                >遠程護甲</nuxt-link
+              >的單位(如衝撞車)造成相當大的傷害。但他們仍應盡量避免反弓箭部隊，而且對<nuxt-link
+                to="/units/Camel"
+                >駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+              >、以及反<nuxt-link to="/units/Cavalry_Units">騎兵部隊</nuxt-link
+              >，如<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>和<nuxt-link
+                to="/units/Halberdier"
+                >戟兵</nuxt-link
+              >都很弱。但如果使用得當，還是可以用打帶跑戰術消耗他們。
+            </li>
+            <li>
+              在大多數情況下，欽察更優於馬弓騎兵，除非沒有<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >來組建龐大的軍隊。欽察有更高的攻擊力，而且<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >成本也比馬弓騎兵少。但是馬弓騎兵的血量高於欽察，因此也會在需要吸收傷害而不是騷擾對手的情況下使用，而且馬弓騎兵還受到<nuxt-link
+                to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
+              >的加成從而提升了訓練速度，但欽察則不受影響。
             </li>
             <li>
               欽察可以與<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >搭配使用（輕騎兵只花費<nuxt-link to="/resource/Food">食物</nuxt-link
-            >，而欽察花費<nuxt-link to="/resource/Wood">木頭</nuxt-link
-            >和黃金，也可以為欽察擋箭，同時還受到大草原耕種技術的影響）。
+              >搭配使用（輕騎兵只花費<nuxt-link to="/resource/Food"
+                >食物</nuxt-link
+              >，而欽察花費<nuxt-link to="/resource/Wood">木頭</nuxt-link
+              >和黃金，也可以為欽察擋箭，同時還受到大草原耕種技術的影響）。
             </li>
             <li>
-              欽察也可以與<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
-            >搭配使用（可以有效地處理大多數欽察可能遇到的反弓箭部隊）。
+              欽察也可以與<nuxt-link to="/units/Steppe_Lancer"
+                >草原騎兵</nuxt-link
+              >搭配使用（可以有效地處理大多數欽察可能遇到的反弓箭部隊）。
             </li>
-             <li>
-              精鋭欽察可以被視為半共享的單位，因為研發<nuxt-link to="/techs/Cuman_Mercenaries">庫曼傭兵</nuxt-link
-            >後，同盟可以免費在城堡中訓練10個精鋭欽察。如果同盟文明擁有對騎兵或馬弓騎兵的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >和文明加成的話，也適用於精鋭欽察。
+            <li>
+              精鋭欽察可以被視為半共享的單位，因為研發<nuxt-link
+                to="/techs/Cuman_Mercenaries"
+                >庫曼傭兵</nuxt-link
+              >後，同盟可以免費在城堡中訓練10個精鋭欽察。如果同盟文明擁有對騎兵或馬弓騎兵的<nuxt-link
+                to="/techs/untech"
+                >特殊科技</nuxt-link
+              >和文明加成的話，也適用於精鋭欽察。
             </li>
           </ul>
-         </div>
+        </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
         <div class="n1"></div>
@@ -72,14 +97,29 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              緩慢的近距離單位、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >。
+              緩慢的近距離單位、<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link>、 <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、駱駝單位、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>。
+              <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
+                to="/units/Genoese_Crossbowman"
+                >熱那亞弩手</nuxt-link
+              >、
+              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
+                to="/units/Halberdier"
+                >戟兵</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Scorpion"
+                >弩砲</nuxt-link
+              >、駱駝單位、<nuxt-link to="/units/Rattan_Archer"
+                >藤甲弓兵</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -240,7 +280,10 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Sipahi"
                 >絲護甲</nuxt-link
-              >(<nuxt-link to="/armor">遠程護甲</nuxt-link>+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定 )
+              >(<nuxt-link to="/armor">遠程護甲</nuxt-link>+1，<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >限定 )
             </td>
           </tr>
           <tr>
@@ -679,27 +722,31 @@
                 >忠誠信仰</nuxt-link
               >便宜50%。
             </li>
-             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：精鋭欽察視野內可畜養動物不被招降。
+            <li>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：精鋭欽察視野內可畜養動物不被招降。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：對精鋭欽察有利的科技在帝王時代便宜20%。
             </li>
-              <li>
+            <li>
               <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-              >：欽察速度在城堡時代/<nuxt-link
-                to="/techs/age/Imperial_Age"
+              >：欽察速度在城堡時代/<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >提升10％/ 15％。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：精鋭欽察血量增加20%。
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+              >：精鋭欽察血量增加20%。
             </li>
-            <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：精鋭欽察射速快25%。</li>
             <li>
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：精鋭欽察對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >：精鋭欽察射速快25%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+              >：精鋭欽察對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+4
             </li>
@@ -707,7 +754,9 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >對精鋭欽察有利的科技升級不用<nuxt-link to="/resource/Gold">黃金</nuxt-link>
+              >對精鋭欽察有利的科技升級不用<nuxt-link to="/resource/Gold"
+                >黃金</nuxt-link
+              >
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -715,9 +764,10 @@
                 >化學</nuxt-link
               >免費。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
-              >：精鋭欽察高地戰鬥傷害+50%，免費<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+              >：精鋭欽察高地戰鬥傷害+50%，免費<nuxt-link to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
               >、<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >。
             </li>
@@ -733,12 +783,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-             <li>
+            <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >、<nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link
+              >、<nuxt-link to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
               >的研究時間(快25%)、欽察訓練速度快25%。
             </li>
             <li>
@@ -747,9 +798,11 @@
                 >拇指環</nuxt-link
               >速度快20%。
             </li>
-              <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >提升欽察護甲和欽察攻擊的科技研發快50％。
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升欽察護甲和欽察攻擊的科技研發快50％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研究<nuxt-link
@@ -762,19 +815,15 @@
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
-              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
-              >研發快20%。
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>速度快80%。
-            </li>            
-            <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
-              >：欽察+2視野。
             </li>
+            <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：欽察+2視野。</li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：欽察更不容易被招降。
@@ -794,10 +843,10 @@
             <li>
               (34055更新) 精鋭欽察一次三發。
             </li>
-             <li>
+            <li>
               (34055更新) 文明加成給欽察的跑速在城堡/帝王時代快+10%/15%。
             </li>
-             <li>
+            <li>
               (36202更新) 欽察一次三發，精鋭欽察一次四發。
             </li>
           </ul>
@@ -807,7 +856,8 @@
         <div class="n1">
           <ul>
             <li>
-             與<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>一樣，欽察是唯二的升級精鋭無需黃金的城堡特殊單位。
+              與<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
+              >一樣，欽察是唯二的升級精鋭無需黃金的城堡特殊單位。
             </li>
           </ul>
         </div>
@@ -815,21 +865,26 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            欽察是古代中亞地區的突厥語民族之一，但欽察和庫曼之間的關係目前尚不清楚。 庫曼人和欽察人可能本是兩個不同的民族，後來一些部落與庫曼人合併成為聯邦，庫曼在聯邦的西半部，而欽察則在東半部。隨著時間的推移，這兩個族名互相使用。在<nuxt-link to="/civs/Persians">波斯</nuxt-link>民族志學者伊本·霍爾達德貝（Ibn Khordadbeh）的《路線與王國之書》（寫於公元840年代）中，提出欽察就是Khipshakh。儘管不確定，但欽察可能在8世紀的藥羅葛磨延暖(畏兀兒統治者)碑文中已被命名為Türk-Kibčak，這是50年來在遺忘之戰的布哈拉中出現的Göktürk Khaganate的一部分。
+            欽察是古代中亞地區的突厥語民族之一，但欽察和庫曼之間的關係目前尚不清楚。
+            庫曼人和欽察人可能本是兩個不同的民族，後來一些部落與庫曼人合併成為聯邦，庫曼在聯邦的西半部，而欽察則在東半部。隨著時間的推移，這兩個族名互相使用。在<nuxt-link
+              to="/civs/Persians"
+              >波斯</nuxt-link
+            >民族志學者伊本·霍爾達德貝（Ibn
+            Khordadbeh）的《路線與王國之書》（寫於公元840年代）中，提出欽察就是Khipshakh。儘管不確定，但欽察可能在8世紀的藥羅葛磨延暖(畏兀兒統治者)碑文中已被命名為Türk-Kibčak，這是50年來在遺忘之戰的布哈拉中出現的Göktürk
+            Khaganate的一部分。
           </p>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-5">
               <gallery
-                ><img class="imgn hg" src="~assets/AOF36_Boyar.jpg" alt=""
+                ><img class="imgn hg" src="~assets/Kipchaks.png" alt=""
               /></gallery>
               <p>
                 <em
-                  >《<nuxt-link to="/games/de"
-                    >世紀帝國II：決定版</nuxt-link
+                  >《<nuxt-link to="/games/de">世紀帝國II：決定版</nuxt-link
                   >》的欽察。</em
                 >
               </p>
@@ -851,7 +906,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/New_Boyar.png" class="img-fluid" alt="" />
+                <img src="~assets/Kipchakicon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -942,7 +997,10 @@
           <tr>
             <td class="unit3">攻擊</td>
             <td class="unit4">
-              4/5(精銳)<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>傷害(第一發)<br />3<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>傷害(其餘發箭)
+              4/5(精銳)<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+              >傷害(第一發)<br />3<nuxt-link to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >傷害(其餘發箭)
             </td>
           </tr>
           <tr>
@@ -987,8 +1045,7 @@
             <td class="unit3">防禦類別</td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
-              <br /><nuxt-link to="/armor/Armor_Class_Cavalry"
-                >騎兵</nuxt-link
+              <br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               ><br /><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -1016,7 +1073,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/CamelArcherIcon.png"
+                src="~assets/Kipchakicon.png"
                 alt=""
               />精銳欽察
             </td>
