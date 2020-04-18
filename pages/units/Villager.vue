@@ -87,7 +87,9 @@
             <td>收集效率</td>
           </tr>
           <tr>
-            <td class="ttb1"><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>伐木工</td>
+            <td class="ttb1">
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>伐木工
+            </td>
             <td class="ttb2">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
@@ -136,7 +138,9 @@
             <td class="ttb1">
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>獵人
             </td>
-            <td class="ttb2"><nuxt-link to="/resource/Food">食物</nuxt-link></td>
+            <td class="ttb2">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="ttb3">0.612</td>
           </tr>
           <tr>
@@ -876,7 +880,7 @@
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
               >：牧羊人工作速度提高了25%。
             </li>
-              <li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
@@ -919,7 +923,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-              >：村民視線+3。礦工收集石頭快20%。
+              >：村民視野+3。礦工收集石頭快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -934,8 +938,8 @@
               >：獵人收集速度提高40%。
             </li>
             <li>
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>：在黑暗/封建/<nuxt-link
-                to="/techs/age/Castle_Age"
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
+              >：在黑暗/封建/<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/帝王時代，村民的創造速度提高了5%/ 10%/ 15%/ 20%。
             </li>
@@ -957,7 +961,8 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >：免費輪軸技術與<nuxt-link to="/techs/Hand_Cart"
-                >手推車</nuxt-link>。
+                >手推車</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link
@@ -979,8 +984,7 @@
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
-              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
-              >研發快20%。
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -1048,7 +1052,7 @@
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>(34699更新)
               農夫不再需要有磨坊或市鎮中心便能放下食物。
             </li>
-              <li>
+            <li>
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
               不再擁有防禦工事(城牆，塔和城堡)建造速度更快的文明加成。
             </li>
@@ -1056,7 +1060,7 @@
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>(35584更新)
               獵人收集速度降為40%。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
               農夫收集速度降為10%。
             </li>
