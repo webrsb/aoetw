@@ -290,6 +290,14 @@
               alt=""
             /><nuxt-link to="/building/Harbor">海港</nuxt-link>
           </li>
+          <li>
+            <img
+              class="gg"
+              width="25px"
+              src="~assets/Kreposticon.png"
+              alt=""
+            /><nuxt-link to="/building/Krepost">營疊</nuxt-link>
+          </li>
         </ul>
       </div>
       <div class="col-md-3">

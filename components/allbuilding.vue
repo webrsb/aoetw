@@ -47,7 +47,8 @@
               <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>•
               <nuxt-link to="/building/Stable">馬廄</nuxt-link>•
               <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link>•
-              <nuxt-link to="/building/Castle">城堡</nuxt-link>
+              <nuxt-link to="/building/Castle">城堡</nuxt-link>•
+              <nuxt-link to="/building/Krepost">營疊</nuxt-link>
             </td>
           </tr>
           <tr>
