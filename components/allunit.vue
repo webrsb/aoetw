@@ -197,6 +197,8 @@
                   ><br />
                   <nuxt-link to="/units/Leitis">烈堤司</nuxt-link
                   ><br />
+                  <nuxt-link to="/units/Kipchak">欽察</nuxt-link
+                  ><br />
                   <nuxt-link to="/units/Imperial_Skirmisher"
                     >帝王戰矛兵</nuxt-link
                   >

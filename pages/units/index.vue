@@ -915,6 +915,13 @@
                       alt=""
                     /><nuxt-link to="/units/Leitis">烈堤司</nuxt-link>
                   </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Kipchakicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>
+                  </div>
                 </b-card>
               </b-collapse>
             </td>

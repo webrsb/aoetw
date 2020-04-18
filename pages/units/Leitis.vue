@@ -54,15 +54,6 @@
                 >特殊科技</nuxt-link
               >。如果對手已研究了這些科技，這將會是浪費資源。
             </li>
-            <li>
-              Through being a unique unit that can deal high damage against
-              their direct counters, Halberdiers and Camel Riders still pose a
-              threat to them, since they are cost-effective thanks to their high
-              amount of bonus damage against cavalry. Also, they can be defeated
-              by other unique units such as the Samurai, Kamayuk, Genoese
-              Crossbowman, Mameluke and War Elephant, though they will receive a
-              lot of damage from Leitis.
-            </li>
           </ul>
         </div>
         <h3>更多數據</h3>
