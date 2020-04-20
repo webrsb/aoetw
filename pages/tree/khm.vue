@@ -334,7 +334,7 @@
             <td style="vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
-            <td class="t19 trm not">
+            <td class="t19 trm">
               <img class="gg" src="~assets/HussarIcon.png" />
               <div><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link></div>
             </td>
