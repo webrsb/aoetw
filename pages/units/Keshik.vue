@@ -164,6 +164,22 @@
                 alt=""
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
+            <tr>
+            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta4">
+              <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >
+              <br />
+              <img
+                class="gg"
+                src="~assets/Heresy.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
+            </td>
+          </tr>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">生產速度</td>
@@ -693,7 +709,6 @@
 
         <div class="thanks">感謝! 此頁面由singsing612協助編輯</div>
       </div>
-    </div>
   </div>
 </template>
 <script>
