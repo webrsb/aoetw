@@ -595,6 +595,91 @@
             </td>
           </tr>
         </table>
+        
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="tunitcc" style="width: 15%;">兵種</td>
+            <td class="tunitcc" style="width: 15%;">文明</td>
+            <td class="tunitcc" style="width: 70%;">概要</td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              <h3>
+                <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+              </h3>
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+                to="/units/Konnik"
+                >保加利亞騎兵</nuxt-link
+              >
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>
+            </td>
+            <td class="tunitc6">被殺後會變成步兵繼續作戰的的騎兵單位。</td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img
+                class="gg"
+                src="~assets/Ballistaelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              能一次多發的馬弓騎兵。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img
+                class="gg"
+                src="~assets/Karambitwarrioricon.png"
+                alt=""
+              /><nuxt-link to="/units/Leitis">烈堤司</nuxt-link>
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>
+            </td>
+            <td class="tunitc6">能無視單位裝甲的騎兵單位。</td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img
+                class="gg"
+                src="~assets/RattanarcherIcon2.png"
+                alt=""
+              /><nuxt-link to="/units/Keshik">怯薛</nuxt-link>
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              與其他單位作戰就能生產黃金的騎兵單位。
+            </td>
+          </tr>
+                    <tr>
+            <td class="tunitc6">
+              <img
+                class="gg"
+                src="~assets/RattanarcherIcon2.png"
+                alt=""
+              /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+            </td>
+            <td class="tunitc4">
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              針對騎兵、大象的駱駝炸藥桶。
+            </td>
+          </tr>
+        </table>
 
         <div class="row">
           <div class="col-md-12">
@@ -869,6 +954,24 @@
                         <em
                           >所有《<nuxt-link to="/games/aor"
                             >世紀帝國II：王者崛起</nuxt-link
+                          >》的特殊單位。</em
+                        >
+                      </p>
+                    </div>
+                                      </div>
+                  <div class="col-md-4">
+                    <gallery
+                      ><img
+                        class="imgn hg"
+                        width="200"
+                        src="~assets/Uniqueaor.png"
+                        alt=""
+                    /></gallery>
+                    <div class="lightbox-caption" style="width:185px">
+                      <p>
+                        <em
+                          >所有《<nuxt-link to="/games/de"
+                            >世紀帝國II：決定版</nuxt-link
                           >》的特殊單位。</em
                         >
                       </p>
