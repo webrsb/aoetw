@@ -220,7 +220,7 @@
               /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
               <br /><img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Steppe_Husbandry"
-                >絲護甲</nuxt-link
+                >大草原耕種技術</nuxt-link
               >(+50%，<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定)
             </td>
           </tr>
@@ -745,6 +745,7 @@
             <td class="unit4">55秒</td>
           </tr>
         </table>
+          <div class="thanks">感謝! 此頁面由singsing612協助編輯</div>
       </div>
     </div>
   </div>
