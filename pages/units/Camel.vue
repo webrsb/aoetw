@@ -38,7 +38,10 @@
               >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
                 to="/civs/Saracens"
                 >薩拉森</nuxt-link
-              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、韃靼、庫曼。
+              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>。
             </div>
           </div>
         </div>
@@ -81,7 +84,10 @@
               >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
                 to="/civs/Vietnamese"
                 >越南</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、立陶宛、保加利亞。
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、<nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >、<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>。
             </div>
           </div>
         </div>
