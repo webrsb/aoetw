@@ -54,7 +54,7 @@
               to="/units/hero/God_s_Own_Sling"
               >神之弓</nuxt-link
             >與<nuxt-link to="/units/hero/Bad_Neighbor">壞鄰居</nuxt-link
-            >，可能是因為平衡的關係，但無所謂，你幾乎不會使用到它。
+            >，可能是因為平衡的關係，但無所謂，你幾乎不會使用到它。而韃靼研發完攻城工程師和帖木兒攻城術後有高達19的射程，是射程最遠的巨型投石機。
           </p>
           <p>
             投石機可以把樹木摧毀，只是效率非常的慢，<nuxt-link
@@ -536,10 +536,13 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：引進<nuxt-link
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：引進<nuxt-link
                 to="/techs/Timurid_Siegecraft"
                 >帖木兒攻城術</nuxt-link
-              >。
+              >，射程+1。
+            </li>
+            <li>
+              (36202更新) 韃靼：帖木兒攻城術射程改為+2。
             </li>
           </ul>
         </div>
