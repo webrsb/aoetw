@@ -169,7 +169,7 @@
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
-            <tr>
+          <tr>
             <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
