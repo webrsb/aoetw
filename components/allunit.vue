@@ -156,6 +156,8 @@
                   <nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>
                   <br />
                   <nuxt-link to="/units/Berserk">狂戰士</nuxt-link>
+                  <br />
+                  <nuxt-link to="/units/Leitis">烈提司</nuxt-link>
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link><br />
@@ -175,6 +177,7 @@
                   <nuxt-link to="/units/Genoese_Crossbowman"
                     >熱那亞弩手</nuxt-link
                   ><br />
+                  <nuxt-link to="/units/Keshik">怯薛</nuxt-link><br />
                   <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
                 </div>
                 <div class="col-md-4">
