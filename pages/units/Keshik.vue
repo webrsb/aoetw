@@ -548,14 +548,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
               <gallery
-                ><img class="imgn hg" src="~assets/Leitises.png" alt=""
+                ><img class="imgn hg" src="~assets/Keshiks.png" alt=""
               /></gallery>
               <p>
                 <em
-                  >《<nuxt-link to="/games/de">世紀帝國II：決定版</nuxt-link
-                  >》的怯薛。</em
+                  >怯薛</em
                 >
               </p>
             </div>
@@ -576,7 +575,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Leitisicon.png" class="img-fluid" alt="" />
+                <img src="~assets/Keshikicon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -704,7 +703,7 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Leitisicon.png" alt="" />精銳怯薛
+              <img class="gg" src="~assets/Keshikicon.png" alt="" />精銳怯薛
             </td>
           </tr>
           <tr>
