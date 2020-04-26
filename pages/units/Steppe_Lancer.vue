@@ -13,7 +13,7 @@
             >》中，於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >可以訓練的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
             >，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
-            >，有1的射速。
+            >。屬於一種輕騎兵，帶著長矛能夠遠距離攻擊，但只有1的射程。
           </p>
           <p>
             <b><i class="fas fa-check" style="color: green;"></i>可訓練文明：</b
@@ -27,7 +27,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            草原騎兵適合團體和隘口上作戰，因為他們有1的射程可以攻擊到同伴身後的敵人。
+            草原騎兵適合團體和隘口上作戰，因為他們有1的射程可以攻擊到同伴身後的敵人，就像<nuxt-link
+              to="/civs/Incas"
+              >印加</nuxt-link
+            >的<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>一樣。
           </p>
           <p>
             草原騎兵的攻擊範圍可讓他們打到城牆後的敵人，所以用於城牆上的進攻防守都十分好用，對來犯的<nuxt-link
@@ -73,8 +76,9 @@
           </p>
           <ul>
             <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link></li>
-            蒙古是<nuxt-link to="/elements/Hit_points">血量</nuxt-link
-            >最多的草原騎兵，因此可以在一定程度上彌補了低防的缺點。
+            蒙古的草原騎兵擁有額外30%的<nuxt-link to="/elements/Hit_points"
+              >血量</nuxt-link
+            >，因此可以在一定程度上彌補了低防的缺點。
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Cumans">庫曼</nuxt-link></li>
@@ -90,11 +94,12 @@
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link></li>
-            韃靼的草原騎兵擁有對低地單位傷害+50％的文明加成，加上本身的射程，這使他們在有大量海拔的地圖上處於優勢，甚至比騎士好用。且還受益於特殊科技<nuxt-link
+            韃靼的草原騎兵擁有對低地單位傷害+25%的文明加成，加上本身的射程，這使他們在有大量海拔的地圖上處於優勢，甚至比騎士好用。且還受益於特殊科技<nuxt-link
               to="/techs/Silk_Armor"
               >絲護甲</nuxt-link
-            >，使他們更能抵禦<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >系的攻擊。
+            >，使他們更能抵禦<nuxt-link to="/units/Archer_Units"
+              >弓兵系</nuxt-link
+            >的攻擊。
           </ul>
         </div>
         <h3>更多數據</h3>
@@ -616,25 +621,7 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Battle_Elephant_and_Elite.jpg"
-                  alt=""
-              /></gallery>
-              <p>
-                <em
-                  >草原騎兵和<nuxt-link to="/units/Elite_Steppe_Lancer"
-                    >精銳草原騎兵</nuxt-link
-                  >。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Battle_Elephant_group.jpg"
-                  alt=""
+                ><img class="imgn hg" src="~assets/Steppelancers.png" alt=""
               /></gallery>
               <p><em>一群草原騎兵。</em></p>
             </div>
@@ -652,7 +639,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/Battleelephanticon.png"
+                  src="~assets/Steppelancericon.png"
                   class="img-fluid"
                   alt=""
                 />
@@ -774,7 +761,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/EliteBattleElephantIcon.png"
+                src="~assets/Steppelancericon.png"
                 alt=""
               /><nuxt-link to="/units/Elite_Battle_Elephant"
                 >精銳草原騎兵</nuxt-link
@@ -786,7 +773,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/EliteBattleElephantIcon.png"
+                src="~assets/EliteSteppeLancerUpgDE.png"
                 alt=""
               />900食物550黃金
             </td>
