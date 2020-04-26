@@ -15,9 +15,9 @@
               >特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。怯薛是與其他單位作戰就能生產<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >的<nuxt-link to="/units/Cavalry_Units"
-              >騎兵單位</nuxt-link
+            >中訓練。怯薛是與其他單位作戰就能生產<nuxt-link to="/resource/Gold"
+              >黃金</nuxt-link
+            >的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
             >。怯薛可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >升級為精鋭怯薛。
@@ -28,20 +28,25 @@
         <div class="n1">
           <ul>
             <li>
-              使用怯薛時，可以先使用<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              使用怯薛時，可以先使用<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
               >或<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
-              >吸引對方的注意力，再用怯薛干擾對方的經濟並襲擊對方部隊，每殺死一名<nuxt-link to="/units/Villager">村民</nuxt-link
-              >，便可獲得3<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >。
+              >吸引對方的注意力，再用怯薛干擾對方的經濟並襲擊對方部隊，每殺死一名<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >，便可獲得3<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
             </li>
             <li>
-              14名怯薛便可拿下一個<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >駐滿村民的<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >。但玩家不一定要完全摧毀城鎮中心。一旦村民被趕出城鎮中心，怯薛便可以村民為目標，取得45黃金並打擊對方的經濟。
+              14名怯薛便可拿下一個<nuxt-link to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >駐滿村民的<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >。但玩家不一定要完全摧毀城鎮中心。一旦村民被趕出城鎮中心，怯薛便可以村民為目標，取得45黃金並打擊對方的經濟。
             </li>
             <li>
-              在城堡時代初期，怯薛比<nuxt-link to="/units/Knight">騎士</nuxt-link
-            >更受歡迎，因為他們在攻擊敵方單位時會生產黃金，成本也比騎士便宜。這有助在大後期時確保黃金產量。
+              在城堡時代初期，怯薛比<nuxt-link to="/units/Knight"
+                >騎士</nuxt-link
+              >更受歡迎，因為他們在攻擊敵方單位時會生產黃金，成本也比騎士便宜。這有助在大後期時確保黃金產量。
             </li>
           </ul>
         </div>
@@ -164,7 +169,9 @@
                 alt=""
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
-            <tr>
+          </tr>
+
+          <tr>
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
               <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
@@ -180,7 +187,6 @@
               /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
             </td>
           </tr>
-          </tr>
           <tr>
             <td class="tta1" style="width:10%">生產速度</td>
             <td class="tta4">
@@ -193,6 +199,7 @@
             </td>
           </tr>
         </table>
+
         <h3>剋怯薛的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
@@ -475,7 +482,8 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高烈堤司的生產速度，加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
+              >能夠提高烈堤司的生產速度，加速<nuxt-link to="/techs/Conscription"
+                >徵兵技術</nuxt-link
               >。
             </li>
             <li>
@@ -508,7 +516,7 @@
         <div class="n1">
           <h3></h3>
           <ul></ul>
-         </div>
+        </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -516,17 +524,25 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li>起初，(精鋭)怯薛成本為50F/80G，攻擊力12(14)，血量100(130)，訓練時間23(20)秒。</li>
-            <li>(34055更新) (精鋭)怯薛成本改為50F/40G，攻擊力改為9(11)，血量改為110(140)。</li>
+            <li>
+              起初，(精鋭)怯薛成本為50F/80G，攻擊力12(14)，血量100(130)，訓練時間23(20)秒。
+            </li>
+            <li>
+              (34055更新)
+              (精鋭)怯薛成本改為50F/40G，攻擊力改為9(11)，血量改為110(140)。
+            </li>
             <li>(36202更新) (精鋭)怯薛成本訓練時間改為16(14)秒。</li>
-          </ul> 
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
-         <ul>
-         <li>Kheshig在蒙古語中是幸福的意思。 從歷史上來看，怯薛起源於不同的種族，曾擔任蒙古貴族的宿衛。其地位甚高，是蒙古軍隊的中心力量，也是蒙古帝國初期的中央行政機構，掌握政治。</li>
-         </ul>
+          <ul>
+            <li>
+              Kheshig在蒙古語中是幸福的意思。
+              從歷史上來看，怯薛起源於不同的種族，曾擔任蒙古貴族的宿衛。其地位甚高，是蒙古軍隊的中心力量，也是蒙古帝國初期的中央行政機構，掌握政治。
+            </li>
+          </ul>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
@@ -544,7 +560,7 @@
               </p>
             </div>
           </div>
-        </div>       
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -709,6 +725,7 @@
 
         <div class="thanks">感謝! 此頁面由singsing612協助編輯</div>
       </div>
+    </div>
   </div>
 </template>
 <script>
