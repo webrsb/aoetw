@@ -21,7 +21,7 @@
               to="/civs/Cumans"
               >庫曼</nuxt-link
             >、<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>。
-          </p> 
+          </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
@@ -30,51 +30,69 @@
             草原騎兵適合團體和隘口上作戰，因為他們有1的射程可以攻擊到同伴身後的敵人。
           </p>
           <p>
-            草原騎兵的攻擊範圍可讓他們打到城牆後的敵人，所以用於城牆上的進攻防守都十分好用，對來犯的<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+            草原騎兵的攻擊範圍可讓他們打到城牆後的敵人，所以用於城牆上的進攻防守都十分好用，對來犯的<nuxt-link
+              to="/units/Battering_Ram"
+              >衝撞車</nuxt-link
             >也能有效且安全的摧毀它們。
           </p>
           <p>
-            草原騎兵可以被視為中型騎兵，因為他們的基本屬性和成本都位於<nuxt-link to="/units/Knight">騎士</nuxt-link
-            >和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >之間。
+            草原騎兵可以被視為中型騎兵，因為他們的基本屬性和成本都位於<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>之間。
           </p>
           <p>
-            草原騎兵雖在一對一中擊敗不了騎士，但在同等資源的情況下，團隊的草原騎兵有可能擊敗團隊的騎士，因為他們的<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本更便宜，還可以攻擊到同伴身後的敵人。
+            草原騎兵雖在一對一中擊敗不了騎士，但在同等資源的情況下，團隊的草原騎兵有可能擊敗團隊的騎士，因為他們的<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >成本更便宜，還可以攻擊到同伴身後的敵人。
           </p>
           <p>
-            草原騎兵能與<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            草原騎兵能與<nuxt-link to="/units/Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
             >/輕騎兵/<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
             >/<nuxt-link to="/units/Kipchaks">欽察</nuxt-link
             >配對，因為這三個文明在輕騎兵和馬弓騎兵上都有特定的文明和科技加成。
           </p>
           <p>
-           對抗草原騎兵最好是使用駱駝部隊（尤其是<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+            對抗草原騎兵最好是使用駱駝部隊（尤其是<nuxt-link
+              to="/units/Mameluke"
+              >阿拉伯奴隸兵</nuxt-link
             >和<nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
-            >），<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-            >和<nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+            >），<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>和<nuxt-link
+              to="/units/Genoese_Crossbowman"
+              >熱那亞弩手</nuxt-link
             >。另外，大量的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
             >和已研發<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
             ><nuxt-link to="/civs/Vikings">維京</nuxt-link
             ><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-            >也會對草原騎兵構成威脅。與其他騎兵單位相比，草原騎兵的低遠防使其更容易受到<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link
+            >也會對草原騎兵構成威脅。與其他騎兵單位相比，草原騎兵的低遠防使其更容易受到<nuxt-link
+              to="/units/Archer_Units"
+              >遠距離單位</nuxt-link
             >和防禦建築的傷害。
-          </p>          
+          </p>
           <ul>
             <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link></li>
-            蒙古是<nuxt-link to="/elements/Hit_points">血量</nuxt-link>最多的草原騎兵，因此可以在一定程度上彌補了低防的缺點。
+            蒙古是<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >最多的草原騎兵，因此可以在一定程度上彌補了低防的缺點。
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Cumans">庫曼</nuxt-link></li>
-            庫曼的草原騎兵移動速度在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+            庫曼的草原騎兵移動速度在<nuxt-link to="/techs/age/Castle_Age"
+              >城堡</nuxt-link
             >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >快10％/ 15％，但由於庫曼本身缺乏<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
-            >，在帝王時代只能有效提高5％。但這也算是增強了草原騎兵的突襲能力。 且還受益於<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >快10％/ 15％，但由於庫曼本身缺乏<nuxt-link to="/techs/Husbandry"
+              >耕種技術</nuxt-link
+            >，在帝王時代只能有效提高5％。但這也算是增強了草原騎兵的突襲能力。
+            且還受益於<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             ><nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link
             >，讓他們成為城堡時代就可以大量生產草原騎兵。
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link></li>
-            韃靼的草原騎兵擁有對低地單位傷害+50％的文明加成，加上本身的射程，這使他們在有大量海拔的地圖上處於優勢，甚至比騎士好用。且還受益於特殊科技<nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link
+            韃靼的草原騎兵擁有對低地單位傷害+50％的文明加成，加上本身的射程，這使他們在有大量海拔的地圖上處於優勢，甚至比騎士好用。且還受益於特殊科技<nuxt-link
+              to="/techs/Silk_Armor"
+              >絲護甲</nuxt-link
             >，使他們更能抵禦<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >系的攻擊。
           </ul>
@@ -102,9 +120,8 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              重<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、<nuxt-link
-                to="/units/Infantry_Units"
-                >步兵</nuxt-link
+              重<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >、駱駝部隊
             </td>
           </tr>
@@ -123,7 +140,7 @@
                 src="~assets/Bloodlines.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20) 
+              /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20)
             </td>
           </tr>
           <tr>
@@ -179,7 +196,10 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >(<nuxt-link to="/armor">遠程護甲</nuxt-link>+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
+              >(<nuxt-link to="/armor">遠程護甲</nuxt-link>+1，<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >限定)
             </td>
           </tr>
           <tr>
@@ -218,8 +238,11 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
-              <br /><img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Steppe_Husbandry"
+              <br /><img
+                src="~assets/unique_tech.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Steppe_Husbandry"
                 >大草原耕種技術</nuxt-link
               >(+50%，<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定)
             </td>
@@ -482,19 +505,21 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：草原騎兵速度在<nuxt-link
-                to="/techs/age/Castle_Age">城堡時代</nuxt-link
-              >/<nuxt-link
-                to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：草原騎兵速度在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >提升10％/ 15％。
             </li>
             <li>
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >：草原騎兵<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：草原騎兵<nuxt-link
+                to="/elements/Hit_points"
+                >血量</nuxt-link
               >+30%。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：草原騎兵高地戰鬥傷害+50%。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：草原騎兵高地戰鬥傷害+50%。
             </li>
           </ul>
         </div>
@@ -510,8 +535,10 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >提升草原騎兵護甲和草原騎兵攻擊的科技研發快50％。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升草原騎兵護甲和草原騎兵攻擊的科技研發快50％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link
@@ -520,12 +547,11 @@
               >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
-              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
-              >研發快20%。
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -540,13 +566,29 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li>起初，草原騎兵成本為70F/30G，攻擊力10，攻速1.93，移動速度1.5。</li>
-            <li>(34055更新) 草原騎兵成本改為70F/45G，攻擊力改為8，攻速改為2.3，移動速度改為1.45。</li>
+            <li>
+              起初，草原騎兵成本為70F/30G，攻擊力10，攻速1.93，移動速度1.5。
+            </li>
+            <li>
+              (34055更新)
+              草原騎兵成本改為70F/45G，攻擊力改為8，攻速改為2.3，移動速度改為1.45。
+            </li>
             <li>(34055更新) 堆疊尺寸增加一倍。</li>
-            <li>(35584更新) <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>可以訓練草原騎兵。</li>
+            <li>
+              (35584更新)
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>可以訓練草原騎兵。
+            </li>
             <li>(36202更新) 草原騎兵攻擊力改為9。</li>
-            <li>(36202更新) 草原騎兵受益於<nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link>。</li>
-            <li>(36202更新) 草原騎兵受益於<nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>。</li>
+            <li>
+              (36202更新) 草原騎兵受益於<nuxt-link to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
+              >。
+            </li>
+            <li>
+              (36202更新) 草原騎兵受益於<nuxt-link to="/techs/Silk_Armor"
+                >絲護甲</nuxt-link
+              >。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -554,7 +596,17 @@
         <div class="n1">
           <ul>
             <li>
-            在34055更新前，草原騎兵攻擊力高，堆疊尺寸小（在非常小的空間內堆疊大量的草原騎兵，對對手造成高傷害，但自己受到的傷害卻很小），移動速度與<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>相同，使用<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>的話甚至擁有<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>和10％的速度文明加成（反<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>起不到作用），使得草原騎兵異常強大。導致許多玩家只要在排名對戰中遇到對手使用庫曼時便退出遊戲，在非排名對戰中室主也會直接踢使用庫曼甚至<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>的玩家。更新後雖然仍然可以將草原騎兵堆疊在非常小的的空間中，但需要大量的微操和一些特定的指令，例如在非常小的的區域中巡邏。
+              在34055更新前，草原騎兵攻擊力高，堆疊尺寸小（在非常小的空間內堆疊大量的草原騎兵，對對手造成高傷害，但自己受到的傷害卻很小），移動速度與<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >相同，使用<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >的話甚至擁有<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
+              >和10％的速度文明加成（反<nuxt-link to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >起不到作用），使得草原騎兵異常強大。導致許多玩家只要在排名對戰中遇到對手使用庫曼時便退出遊戲，在非排名對戰中室主也會直接踢使用庫曼甚至<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >的玩家。更新後雖然仍然可以將草原騎兵堆疊在非常小的的空間中，但需要大量的微操和一些特定的指令，例如在非常小的的區域中巡邏。
             </li>
           </ul>
         </div>
@@ -699,8 +751,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
-              >
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -745,7 +796,8 @@
             <td class="unit4">55秒</td>
           </tr>
         </table>
-          <div class="thanks">感謝! 此頁面由singsing612協助編輯</div>
+
+        <div class="thanks">感謝! 此頁面由singsing612協助編輯</div>
       </div>
     </div>
   </div>
