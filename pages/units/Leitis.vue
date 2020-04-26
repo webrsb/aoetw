@@ -170,6 +170,24 @@
             </td>
           </tr>
           <tr>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
+            <td class="tta4">
+              <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >
+              <br />
+              <img
+                class="gg"
+                src="~assets/Heresy.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
+            </td>
+          </tr>
+          <tr>
             <td class="tta1" style="width:10%">生產速度</td>
             <td class="tta4">
               <img
