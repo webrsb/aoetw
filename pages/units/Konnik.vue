@@ -17,7 +17,8 @@
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link>和<nuxt-link
               to="/building/Krepost"
               >營壘</nuxt-link
-            >中訓練。烈堤司是被殺後會變成<nuxt-link to="/units/Infantry_Units"
+            >中訓練。保加利亞騎兵是一種死亡後會變成<nuxt-link
+              to="/units/Infantry_Units"
               >步兵</nuxt-link
             >繼續作戰的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
             >。保加利亞騎兵可以在<nuxt-link to="/techs/age/Imperial_Age"
@@ -30,7 +31,7 @@
         <div class="n1">
           <ul>
             <li>
-              保加利亞騎兵需要被殺兩次（第一次是<nuxt-link
+              保加利亞騎兵是相當特別的特殊單位，需要被殺兩次（第一次是<nuxt-link
                 to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               >狀態，第二次是下馬後的<nuxt-link to="/units/Infantry_Units"
@@ -333,6 +334,18 @@
               >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >(下馬後)
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1" style="width:10%">攻擊速度</td>
+            <td class="tta4">
+              <img
+                class="gg"
+                src="~assets/unique_tech.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link>(+33%
+              攻擊速度，僅限騎兵狀態)
             </td>
           </tr>
           <tr>
@@ -914,13 +927,21 @@
             <div class="row">
               <div class="col-md-4">
                 <gallery
-                  ><img class="imgn hg" src="~assets/Leitises.png" alt=""
+                  ><img class="imgn hg" src="~assets/Konniks.png" alt=""
                 /></gallery>
                 <p>
-                  <em
-                    >《<nuxt-link to="/games/de">世紀帝國II：決定版</nuxt-link
-                    >》的保加利亞騎兵。</em
-                  >
+                  <em>保加利亞騎兵</em>
+                </p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    src="~assets/Dismountedkonnik.png"
+                    alt=""
+                /></gallery>
+                <p>
+                  <em>下馬後的保加利亞騎兵</em>
                 </p>
               </div>
             </div>
@@ -944,26 +965,19 @@
                 <b-tabs no-fade>
                   <b-tab title="騎兵狀態">
                     <img
-                      src="~assets/VillagerMaleIcon.png"
+                      src="~assets/Konnikicon.png"
                       class="img-fluid"
                       alt=""
                     />
                   </b-tab>
                   <b-tab title="步兵狀態">
                     <img
-                      src="~assets/VillagerFemaleIcon.png"
+                      src="~assets/Konnikdismountedicon.png"
                       class="img-fluid"
                       alt=""
                     />
                   </b-tab>
                 </b-tabs>
-              </div>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/Leitisicon.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -1007,8 +1021,12 @@
                 src="~assets/castle.png"
                 width="45"
                 alt=""
-              /><nuxt-link to="/building/Castle">城堡</nuxt-link
-              ><br /><nuxt-link to="/building/Krepost">營壘</nuxt-link>
+              /><nuxt-link to="/building/Castle">城堡</nuxt-link><br /><img
+                class="gg"
+                src="~assets/Kreposticon.png"
+                width="45"
+                alt=""
+              /><nuxt-link to="/building/Krepost">營壘</nuxt-link>
             </td>
           </tr>
           <tr>
