@@ -536,10 +536,13 @@
           </h3>
           <ul>
             <li>
-              韃靼：引進<nuxt-link
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：引進<nuxt-link
                 to="/techs/Timurid_Siegecraft"
                 >帖木兒攻城術</nuxt-link
-              >，射程+1；更新檔36202改成射程+2。
+              >，射程+1。
+            </li>
+            <li>
+              (36202更新) 韃靼：帖木兒攻城術射程改為+2。
             </li>
           </ul>
         </div>
