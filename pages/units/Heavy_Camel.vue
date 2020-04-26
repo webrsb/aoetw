@@ -40,7 +40,7 @@
               >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
-              >。
+              >、<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>。
             </div>
           </div>
         </div>
@@ -83,7 +83,12 @@
               >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
                 to="/civs/Vietnamese"
                 >越南</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、<nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >
+              、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>。
             </div>
           </div>
         </div>
@@ -644,6 +649,9 @@
                 to="/civs"
                 >文明</nuxt-link
               >。
+            </li>
+            <li>
+              庫曼是在擁有駱駝騎兵的文明中，唯一無法升級到重裝駱駝騎兵的文明。
             </li>
             <li>
               駱駝是唯二生產會有自己音效的軍事單位，另一個是<nuxt-link
