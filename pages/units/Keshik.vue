@@ -27,6 +27,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
+              <li>
+              怯薛是一個具有經濟效益的中等<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >。他們的高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >，高<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >和作戰時會產生<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >的能力使其成為出色的突擊部隊。
+            </li>
             <li>
               使用怯薛時，可以先使用<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
@@ -34,14 +41,16 @@
               >吸引對方的注意力，再用怯薛干擾對方的經濟並襲擊對方部隊，每殺死一名<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >，便可獲得3<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
+              >，便可獲得3黃金。
+            </li>
+             <li>
+              最能發揮到怯薛能力的情况是襲擊貿易線和<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >，還有大規模戰鬥(尤其是没有克制騎兵的單位)，因為有機會產生巨額黃金。
             </li>
             <li>
               14名怯薛便可拿下一個<nuxt-link to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
-              >駐滿村民的<nuxt-link to="/building/Town_Center"
-                >城鎮中心</nuxt-link
-              >。但玩家不一定要完全摧毀城鎮中心。一旦村民被趕出城鎮中心，怯薛便可以村民為目標，取得45黃金並打擊對方的經濟。
+              >駐滿村民的城鎮中心。但玩家不一定要完全摧毀城鎮中心。一旦村民被趕出城鎮中心，怯薛便可以村民為目標，取得45黃金並打擊對方的經濟。
             </li>
             <li>
               在城堡時代初期，怯薛比<nuxt-link to="/units/Knight"
@@ -88,7 +97,7 @@
               >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
-              >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
+              >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>、<nuxt-link to="/units/Knight">騎士</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -170,23 +179,6 @@
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
-
-          <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
-            <td class="tta4">
-              <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
-                to="/techs/Faith"
-                >忠誠信仰</nuxt-link
-              >
-              <br />
-              <img
-                class="gg"
-                src="~assets/Heresy.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
-            </td>
-          </tr>
           <tr>
             <td class="tta1" style="width:10%">生產速度</td>
             <td class="tta4">
@@ -199,7 +191,6 @@
             </td>
           </tr>
         </table>
-
         <h3>剋怯薛的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
@@ -482,7 +473,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高烈堤司的生產速度，加速<nuxt-link to="/techs/Conscription"
+              >能夠提高怯薛的生產速度，加速<nuxt-link to="/techs/Conscription"
                 >徵兵技術</nuxt-link
               >。
             </li>
@@ -507,7 +498,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：烈堤司更不容易被<nuxt-link to="/elements/Conversion"
+              >：怯薛更不容易被<nuxt-link to="/elements/Conversion"
                 >招降</nuxt-link
               >。
             </li>
