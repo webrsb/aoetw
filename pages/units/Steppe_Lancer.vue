@@ -45,17 +45,16 @@
             >和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>之間。
           </p>
           <p>
-            草原騎兵雖在一對一中擊敗不了騎士，但在同等資源的情況下，團隊的草原騎兵有可能擊敗團隊的騎士，因為他們的<nuxt-link
+            草原騎兵雖在一對一中擊敗不了騎士，但在同等資源的情況下，一群草原騎兵有可能相同數量的騎士，因為他們的<nuxt-link
               to="/resource/Gold"
               >黃金</nuxt-link
             >成本更便宜，還可以攻擊到同伴身後的敵人。
           </p>
           <p>
-            草原騎兵能與<nuxt-link to="/units/Cavalry_Archer"
-              >馬弓騎兵</nuxt-link
-            >/輕騎兵/<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+            草原騎兵能與庫曼、蒙古、韃靼的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            >/<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>/<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
             >/<nuxt-link to="/units/Kipchaks">欽察</nuxt-link
-            >配對，因為這三個文明在輕騎兵和馬弓騎兵上都有特定的文明和科技加成。
+            >組成不錯的軍隊，因為這三個文明在輕騎兵和馬弓騎兵上都有文明和科技加成。
           </p>
           <p>
             對抗草原騎兵最好是使用駱駝部隊（尤其是<nuxt-link
@@ -66,10 +65,10 @@
               to="/units/Genoese_Crossbowman"
               >熱那亞弩手</nuxt-link
             >。另外，大量的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >和已研發<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-            ><nuxt-link to="/civs/Vikings">維京</nuxt-link
+            >和擁有<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
+            >科技的<nuxt-link to="/civs/Vikings">維京</nuxt-link
             ><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-            >也會對草原騎兵構成威脅。與其他騎兵單位相比，草原騎兵的低遠防使其更容易受到<nuxt-link
+            >也能對草原騎兵構成威脅。與其他騎兵單位相比，草原騎兵的低遠防使其更容易受到<nuxt-link
               to="/units/Archer_Units"
               >遠距離單位</nuxt-link
             >和防禦建築的傷害。
@@ -90,11 +89,11 @@
             >，在帝王時代只能有效提高5％。但這也算是增強了草原騎兵的突襲能力。
             且還受益於<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             ><nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link
-            >，讓他們成為城堡時代就可以大量生產草原騎兵。
+            >，讓他們在城堡時代就可以大量生產草原騎兵。
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link></li>
-            韃靼的草原騎兵擁有對低地單位傷害+25%的文明加成，加上本身的射程，這使他們在有大量海拔的地圖上處於優勢，甚至比騎士好用。且還受益於特殊科技<nuxt-link
+            韃靼的草原騎兵擁有對低地單位傷害+25%的文明加成，加上本身的射程，這使他們在有大量高海拔的地圖上處於優勢，甚至比騎士好用。且還受益於特殊科技<nuxt-link
               to="/techs/Silk_Armor"
               >絲護甲</nuxt-link
             >，使他們更能抵禦<nuxt-link to="/units/Archer_Units"
@@ -524,7 +523,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
-              >：草原騎兵高地戰鬥傷害+50%。
+              >：草原騎兵在高地戰鬥傷害+50%。
             </li>
           </ul>
         </div>
@@ -546,7 +545,7 @@
               >提升草原騎兵護甲和草原騎兵攻擊的科技研發快50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈人</nuxt-link
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
               >：草原騎兵生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
@@ -572,7 +571,7 @@
           </h3>
           <ul>
             <li>
-              起初，草原騎兵成本為70F/30G，攻擊力10，攻速1.93，移動速度1.5。
+              起初，草原騎兵成本為70F/30G，攻擊力10，攻速1.9，移動速度1.5。
             </li>
             <li>
               (34055更新)
@@ -621,9 +620,15 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Steppelancers.png" alt=""
+                ><img class="imgn hg" src="~assets/Steppelancer.png" alt=""
               /></gallery>
               <p><em>一群草原騎兵。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Artistic_Crimean-Tatar_lancer.jpg" alt=""
+              /></gallery>
+              <p><em>畫家筆下16世紀的韃靼騎士。</em></p>
             </div>
           </div>
         </div>
@@ -638,8 +643,8 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Steppelancericon.png"
+                <img  class="gg"
+                  src="~assets/Steppe_Lancericon.png"
                   class="img-fluid"
                   alt=""
                 />
