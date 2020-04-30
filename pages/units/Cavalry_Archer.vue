@@ -28,7 +28,7 @@
             除了<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >與<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>外，所以<nuxt-link
+            >與<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>外，所有<nuxt-link
               to="/civs"
               >文明</nuxt-link
             >都可以使用。
@@ -71,7 +71,19 @@
               >土耳其人</nuxt-link
             >通過<nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
             ><nuxt-link to="/elements/Hit_points">血量</nuxt-link
-            >+20、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+            >+20。決定版引入的文明中，<nuxt-link to="/civs/Tatars"
+              >韃靼</nuxt-link
+            >有免費研發<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+            >和<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
+            >的優勢，在高海拔戰鬥則有傷害加成，團隊加分讓馬弓視野加2可以輔助以上的馬弓文明，並且透過<nuxt-link
+              to="/techs/Silk_Armor"
+              >絲護甲</nuxt-link
+            >可以+1遠防可增加遠程攻擊的抗性；<nuxt-link to="/civs/Cumans"
+              >庫曼</nuxt-link
+            >則有在封建時代開始每個時代跑速+5%的優勢，透過研發<nuxt-link
+              to="/techs/Steppe_Husbandry"
+              >大草原耕種技術</nuxt-link
+            >能讓訓練速度加快。<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
             >人則是對<nuxt-link to="/armor/Armor_Class_Building"
               >建築物</nuxt-link
             >攻擊+4。
@@ -165,7 +177,11 @@
                 alt=""
               /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
-              >攻擊+4 <br />
+              >攻擊+4<br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Silk_Armor"
+                >絲護甲</nuxt-link
+              >(+0/+1，韃靼限定) <br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
@@ -306,7 +322,12 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
+              >(+33%)<br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
+              >(+50%，<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定)
             </td>
           </tr>
         </table>
@@ -730,6 +751,14 @@
                 >徵兵技術</nuxt-link
               >。
             </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：拇指環和安息人戰術免費，在高海拔攻擊時造成傷害加成25%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：從封建時代開始，每個時代跑速+5%。
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -767,6 +796,9 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：馬弓騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
               >抵抗力更強。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：馬騎弓兵視野+2。
             </li>
           </ul>
         </div>
@@ -853,6 +885,16 @@
                 >反曲弓</nuxt-link
               >給予馬弓騎兵+1射程和+1攻擊。
             </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：引入大草原耕種技術。
+            </li>
+            <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：引入絲護甲。</li>
           </ul>
         </div>
         <h3>歷史</h3>
