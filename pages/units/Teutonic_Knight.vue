@@ -455,7 +455,7 @@
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>
             <li>4.8版本後條頓武士的移動速度為0.7。</li>
           </ul>
-         <h3>
+          <h3>
             <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
           </h3>
           <ul>
