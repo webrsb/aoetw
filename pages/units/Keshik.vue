@@ -15,7 +15,7 @@
               >特殊單位</nuxt-link
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。怯薛是與其他單位作戰就能生產<nuxt-link to="/resource/Gold"
+            >中訓練。怯薛是與其他單位作戰就能緩慢生產<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link
             >的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
             >。怯薛可以在<nuxt-link to="/techs/age/Imperial_Age"
@@ -31,8 +31,8 @@
               怯薛是一個具有經濟效益的中等<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               >。他們的高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-              >，高<nuxt-link to="/elements/Hit_points">血量</nuxt-link
-              >和作戰時會產生<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >、高<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              >(以城堡時代的兵種來說)和作戰時會產生<nuxt-link to="/resource/Gold">黃金</nuxt-link
               >的能力使其成為出色的突擊部隊。
             </li>
             <li>
