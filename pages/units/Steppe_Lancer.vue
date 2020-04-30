@@ -51,8 +51,11 @@
             >成本更便宜，還可以攻擊到同伴身後的敵人。
           </p>
           <p>
-            草原騎兵能與庫曼、蒙古、韃靼的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >/<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>/<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+            草原騎兵能與庫曼、蒙古、韃靼的<nuxt-link to="/units/Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >/<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>/<nuxt-link
+              to="/units/Mangudai"
+              >蒙古突騎</nuxt-link
             >/<nuxt-link to="/units/Kipchaks">欽察</nuxt-link
             >組成不錯的軍隊，因為這三個文明在輕騎兵和馬弓騎兵上都有文明和科技加成。
           </p>
@@ -620,13 +623,16 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Steppelancer.png" alt=""
+                ><img class="imgn hg" src="~assets/Steppelancers.png" alt=""
               /></gallery>
               <p><em>一群草原騎兵。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Artistic_Crimean-Tatar_lancer.jpg" alt=""
+                ><img
+                  class="imgn hg"
+                  src="~assets/Artistic_Crimean-Tatar_lancer.jpg"
+                  alt=""
               /></gallery>
               <p><em>畫家筆下16世紀的韃靼騎士。</em></p>
             </div>
@@ -643,8 +649,8 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img  class="gg"
-                  src="~assets/Steppe_Lancericon.png"
+                <img
+                  src="~assets/Steppelancericon.png"
                   class="img-fluid"
                   alt=""
                 />
