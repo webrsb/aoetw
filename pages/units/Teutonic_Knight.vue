@@ -455,6 +455,14 @@
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>
             <li>4.8版本後條頓武士的移動速度為0.7。</li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (39606更新) 條頓武士的速度由0.7上修至0.8。
+            </li>
+          </ul>
         </div>
         <h3>豆知識</h3>
         <div class="hrn1"></div>
@@ -659,7 +667,7 @@
           </tr>
           <tr>
             <td class="unit3">跑速</td>
-            <td class="unit4">0.7</td>
+            <td class="unit4">0.8</td>
           </tr>
           <tr>
             <td class="unit3">視野</td>
