@@ -27,12 +27,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-              <li>
-              怯薛是一個具有經濟效益的中等<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-            >。他們的高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-            >，高<nuxt-link to="/elements/Hit_points">血量</nuxt-link
-            >和作戰時會產生<nuxt-link to="/resource/Gold">黃金</nuxt-link
-            >的能力使其成為出色的突擊部隊。
+            <li>
+              怯薛是一個具有經濟效益的中等<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >。他們的高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >，高<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              >和作戰時會產生<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >的能力使其成為出色的突擊部隊。
             </li>
             <li>
               使用怯薛時，可以先使用<nuxt-link to="/units/Cavalry_Archer"
@@ -43,9 +44,11 @@
                 >村民</nuxt-link
               >，便可獲得3黃金。
             </li>
-             <li>
-              最能發揮到怯薛能力的情况是襲擊貿易線和<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >，還有大規模戰鬥(尤其是没有克制騎兵的單位)，因為有機會產生巨額黃金。
+            <li>
+              最能發揮到怯薛能力的情况是襲擊貿易線和<nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >，還有大規模戰鬥(尤其是没有克制騎兵的單位)，因為有機會產生巨額黃金。
             </li>
             <li>
               14名怯薛便可拿下一個<nuxt-link to="/techs/age/Castle_Age"
@@ -97,7 +100,8 @@
               >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
-              >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>、<nuxt-link to="/units/Knight">騎士</nuxt-link>。
+              >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >、<nuxt-link to="/units/Knight">騎士</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -191,6 +195,7 @@
             </td>
           </tr>
         </table>
+
         <h3>剋怯薛的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
@@ -544,9 +549,7 @@
                 ><img class="imgn hg" src="~assets/Keshiks.png" alt=""
               /></gallery>
               <p>
-                <em
-                  >怯薛</em
-                >
+                <em>怯薛</em>
               </p>
             </div>
           </div>
