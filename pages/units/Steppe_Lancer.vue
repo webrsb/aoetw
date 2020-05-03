@@ -623,7 +623,7 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Steppelancers.png" alt=""
+                ><img class="imgn hg" src="~assets/Steppelancer.png" alt=""
               /></gallery>
               <p><em>一群草原騎兵。</em></p>
             </div>
@@ -772,9 +772,9 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Steppelancericon.png"
+                src="~assets/Elitesteppelancericon.png"
                 alt=""
-              /><nuxt-link to="/units/Elite_Battle_Elephant"
+              /><nuxt-link to="/units/Elite_Steppe_Lancer"
                 >精銳草原騎兵</nuxt-link
               >
             </td>
