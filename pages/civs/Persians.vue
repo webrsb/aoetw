@@ -541,6 +541,10 @@
                   >弓兵系</nuxt-link
                 >消耗額外木材，而不消耗黃金。
               </li>
+              <li>36906更新:移除
+                <nuxt-link to="/building/Dock">碼頭</nuxt-link>與<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>於<nuxt-link
+                  to="/techs/age/Dark_Age">黑暗時代</nuxt-link>+5%的工作速度(生產速度與研發速度)
+              </li>
             </ul>
           </div>
         </div>
