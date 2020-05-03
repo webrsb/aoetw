@@ -134,7 +134,54 @@
         <div class="n1">
           <em><nuxt-link to="/tree/pre">波斯科技樹</nuxt-link></em>
         </div>
-        <br />
+        <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                只有精銳戰象可以有<nuxt-link to="/elements/Area_of_Effect"
+                  >踐踏傷害</nuxt-link
+                >。
+              </li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>戰象和精銳戰象都可以有踐踏傷害。</li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                <nuxt-link to="/building/Dock">碼頭</nuxt-link>與<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
+                >的工作速度(生產速度與研發速度)於<nuxt-link
+                  to="/techs/age/Dark_Age"
+                  >黑暗時代</nuxt-link
+                >+5%
+              </li>
+              <li>
+                <nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>被<nuxt-link
+                  to="/techs/Kamandaran"
+                  >波斯弓兵</nuxt-link
+                >取代。波斯弓兵(200F, 200G)訓練徒步<nuxt-link
+                  to="/units/Archer_Units"
+                  >弓兵系</nuxt-link
+                >消耗額外木材，而不消耗黃金。
+              </li>
+              <li>36906更新:移除
+                <nuxt-link to="/building/Dock">碼頭</nuxt-link>與<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>於<nuxt-link
+                  to="/techs/age/Dark_Age">黑暗時代</nuxt-link>+5%的工作速度(生產速度與研發速度)
+              </li>
+            </ul>
+          </div>
+        </div>
         <h3>戰術概論</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -487,67 +534,15 @@
           <div class="n1">
             <div class="row">
               <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Wonderpersians.jpg" alt=""
+                <gallery><img class="imgn hg" src="~assets/Wonderpersians.jpg" alt=""
                 /></gallery>
                 <p>
-                  <em
-                    >波斯的<nuxt-link to="/building/Wonder"
-                      >世界奇觀</nuxt-link
-                    ></em
-                  >
+                  <em>波斯的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link></em>
                 </p>
               </div>
             </div>
           </div>
-          <h3>更新日誌</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <h3>
-              <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
-                只有精銳戰象可以有<nuxt-link to="/elements/Area_of_Effect"
-                  >踐踏傷害</nuxt-link
-                >。
-              </li>
-            </ul>
-            <h3>
-              <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>戰象和精銳戰象都可以有踐踏傷害。</li>
-            </ul>
-            <h3>
-              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
-                <nuxt-link to="/building/Dock">碼頭</nuxt-link>與<nuxt-link
-                  to="/building/Town_Center"
-                  >城鎮中心</nuxt-link
-                >的工作速度(生產速度與研發速度)於<nuxt-link
-                  to="/techs/age/Dark_Age"
-                  >黑暗時代</nuxt-link
-                >+5%
-              </li>
-              <li>
-                <nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>被<nuxt-link
-                  to="/techs/Kamandaran"
-                  >波斯弓兵</nuxt-link
-                >取代。波斯弓兵(200F, 200G)訓練徒步<nuxt-link
-                  to="/units/Archer_Units"
-                  >弓兵系</nuxt-link
-                >消耗額外木材，而不消耗黃金。
-              </li>
-              <li>36906更新:移除
-                <nuxt-link to="/building/Dock">碼頭</nuxt-link>與<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>於<nuxt-link
-                  to="/techs/age/Dark_Age">黑暗時代</nuxt-link>+5%的工作速度(生產速度與研發速度)
-              </li>
-            </ul>
-          </div>
-        </div>
+          
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
