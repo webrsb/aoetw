@@ -53,7 +53,7 @@
             >(要研發後勤)、斯拉夫步兵(要研發王家侍從)，然而這三個文明在地理上非常靠近。（東南亞<nuxt-link
               to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
-            >也有踐踏效果） 備註：踐踏傷害都是360度全受到傷害 戰象跟<nuxt-link
+            >也有踐踏效果） 備註：踐踏傷害都是360度全受到傷害。戰象跟<nuxt-link
               to="/techs/Mahouts"
               >象伕</nuxt-link
             ><nuxt-link to="/elements/Area_of_Effect">擴散傷害</nuxt-link
@@ -87,24 +87,26 @@
             >/<nuxt-link to="/armor">遠防</nuxt-link>各+3護甲，但因為<nuxt-link
               to="/techs"
               >科技</nuxt-link
-            >昂貴又要蓋城堡因此CP值上沒很高，<nuxt-link to="/units/Unique_Unit"
-              >特殊單位</nuxt-link
-            >貴族鐵騎本身是為了彌補沒有<nuxt-link to="/units/Paladin"
+            >昂貴又要蓋城堡因此CP值上沒很高，<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >
+           </p>    
+           <p>   
+              貴族鐵騎本身是為了彌補沒有<nuxt-link to="/units/Paladin"
               >遊俠</nuxt-link
-            >的斯拉夫也沒很特殊的加成，整體而言斯拉夫有強大步兵，弓箭卻很脆弱沒<nuxt-link
+            >，帶斯拉夫也沒有甚麼對遊俠的加成，整體而言斯拉夫有強大步兵，弓兵很脆弱(沒<nuxt-link
               to="/units/Arbalest"
               >強弩兵</nuxt-link
             >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
               to="/techs/Bracer"
               >強力護腕</nuxt-link
             ><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >核心科技，<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >)，<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >也無<nuxt-link to="/units/Camel">駱駝</nuxt-link
             >和遊俠，僧侶雖然有東正教護甲但因前置條件太過嚴苛幾乎沒有實用性，在決定版之前更缺少<nuxt-link
               to="/techs/Faith"
               >忠誠信仰</nuxt-link
             >/<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
-            >等關鍵科技也使的斯拉夫人本身蠻懼怕僧侶文明，決定版可以研發忠誠信仰後這部份有獲得改善。
+            >等關鍵科技也使得斯拉夫人本身蠻懼怕僧侶文明，決定版可以研發忠誠信仰後這部份有獲得改善。
           </p>
           <h3>特殊單位</h3>
           <li>
@@ -175,6 +177,7 @@
             <li>貴族鐵騎訓練速度從23秒/20秒（一般/精銳）改為15秒。</li>
             <li>農民工作效率由15%下修至10%。</li>
             <li>獲得忠誠信仰。</li>
+            <li>36906更新:貴族鐵騎的速度從1.4降低到1.3；貴族鐵騎的遠防由1/2增加為2/3。</li>
           </ul>
         </div>
         <h3>趣事</h3>
