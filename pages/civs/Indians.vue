@@ -142,7 +142,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/ImperialCamelIcon.jpg"
+                src="~assets/ImperialCamelIcon.png"
                 alt=""
               /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
               >：更強大的<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
@@ -175,13 +175,13 @@
             <li>
               村民從黑暗時代便宜10%、封建時代便宜15%、城堡時代便宜20%、帝王時代便宜25%
             </li>
-            <li>村民捕魚工作效率+15%、漁獲攜帶量+15</li>
+            <li>村民捕魚工作效率+10%</li>
             <li>駱駝騎兵擁有遠防+1</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
                 >:</strong
-              >駱駝騎兵建築物攻擊力+5
+              >駱駝騎兵對建築物攻擊力+5
             </li>
           </ul>
         </div>
@@ -213,7 +213,7 @@
             <li>
               象弓騎兵成本-10<nuxt-link to="/resource/Food">食物</nuxt-link>。
             </li>
-            <li>象弓騎兵hp+30，hp達280。</li>
+            <li>象弓騎兵HP+30，hp達280。</li>
             <li>
               <nuxt-link to="/units/Elephant_Archer">精銳象弓騎兵</nuxt-link
               >hp-20，hp達330。
@@ -234,6 +234,12 @@
               >後，文明加成駱駝從+1遠防與<nuxt-link to="/armor">近防</nuxt-link
               >，改為+1遠防。
             </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aoe">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>村民捕魚工作效率+15%→+10%、漁獲攜帶量+15→+0。</li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -312,7 +318,7 @@
                 >象弓騎兵</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/ImperialCamelIcon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/ImperialCamelIcon.png" /><nuxt-link
                 to="/units/Imperial_Camel"
                 >帝王駱駝騎兵</nuxt-link
               >
