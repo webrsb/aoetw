@@ -174,10 +174,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>時代升級速度快80%</li>
+            <li>時代升級速度快66%(只需原本時間的60%)</li>
             <li>漁網成本便宜33%</li>
             <li>漁網食物量無限</li>
-            <li>矛象伕便宜25%</li>
+            <li>矛象伕便宜30%</li>
             <li><strong>團隊加分:</strong>碼頭視野+100%</li>
           </ul>
         </div>
@@ -186,7 +186,39 @@
         <div class="n1">
           <em><nuxt-link to="/tree/mal">馬來科技樹</nuxt-link></em>
         </div>
-        <br />
+        <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>最初，時代演進的速度提高為100％。 5.3改版後，演進速度調整為80％。。</li>
+              <li>5.3改版取消漁船造價便宜33%。</li>
+              <li>最初矛象伕的造價便宜20%。5.3改版後造價改為便宜25%；5.改版後造價減免幅度更提高為30%。</li>
+              <li>最初海港的射速為2.5並有2,200 HP。5.3改版後，分別減少到3和2,000 HP。</li>
+              <li>精銳彎刀勇士一開始有2的遠防。5.3改版後遠防減少為1。</li>
+              <li>非精銳彎刀勇士的基礎攻擊一開始為5。5.5改版後增加為6。</li>
+              <li>精銳彎刀勇士的基礎攻擊一開始為8。5.5改版後降低為7。</li>
+              <li>彎刀勇士最初造價為25食物和10金。 在5.8改版後，造價變為30食物和15金。</li>
+              <li>強制徵兵刪除了民兵系的黃金成本，科技研發成本為1000食物和600黃金。</li>
+              
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>演進時代速度變為增快66%。</li>
+              <li>海港最小射程範圍變為1並會受到垛孔影響。</li>
+              <li>海港的基礎攻擊力從6降低至3。</li>
+              <li>海港對船艦的加成攻擊從9增加至10。</li>
+              <li>強制徵兵將民兵系的黃金成本變為額外食物成本，科技研發成本變為850食物和500黃金。</li>
+              <li>36906更新:修正海港有時不受化學、垛孔，火箭影響的問題
+              </li>
+            </ul>
+          </div>
+
+
         <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -218,7 +250,32 @@
             <li>一個漁網有715食物但是馬來的漁網是無限供應的!。</li>
           </ul>
         </div>
-      </div>
+
+        <h3>圖庫</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <div class="row">
+              <div class="col-md-4">
+                <gallery><img class="imgn hg" src="~assets/Wondermalay.png" alt=""/></gallery>
+                <p>
+                  <em>馬來的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link></em>
+                </p>
+              </div>
+              <div class="col-md-4">
+                <gallery><img class="imgn hg" src="~assets/Architecturesa.png" alt=""/></gallery>
+                <p>
+                  <em>東南亞建築(馬來、越南、緬甸和高棉共用)</em>
+                </p>
+              </div>
+              <div class="col-md-4">
+                <gallery><img class="imgn hg" src="~assets/HarboraoeII.png" alt=""/></gallery>
+                <p>
+                  <em>海港外觀圖</em>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
