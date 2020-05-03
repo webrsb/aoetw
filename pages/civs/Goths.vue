@@ -135,10 +135,10 @@
               步兵花費在黑暗/封建/城堡/帝王時代，減免為20%/25%/30%/35%。
             </li>
             <li>
-              步兵在黑暗/封建/城堡/帝王時代，對<nuxt-link
+              步兵在封建/城堡/帝王時代，對<nuxt-link
                 to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >攻擊+0/+1/+2/+3。
+              >攻擊+1/+2/+3。
             </li>
             <li>
               <nuxt-link to="/units/Villager">村民</nuxt-link>對<nuxt-link
@@ -147,6 +147,7 @@
               >傷害+5，且獵人攜帶食物+15
             </li>
             <li>帝王時代的人口上限+10</li>
+            <li>織布技術免費</li>
             <li><strong>團隊加分:</strong>軍營生產速度快20%</li>
           </ul>
         </div>
@@ -155,7 +156,89 @@
         <div class="n1">
           <em><nuxt-link to="/tree/got">哥德科技樹</nuxt-link></em>
         </div>
-        <br />
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              可研發<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >。
+            </li>
+            <li>非精銳哥德衛隊訓練時間為26秒。</li>
+            <li>
+              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+              >遠防為4；精銳哥德衛隊遠防則為6。
+            </li>
+            <li>對弓兵系額外攻擊加成一般哥德衛隊為4，精銳為6。</li>
+            <li>哥德衛隊移動速度為0.9。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>1.0b改版後步兵單位成本從封建時代-35%。</li>
+            <li>獲得<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>
+            <li>
+              獲得<nuxt-link to="/techs/Perfusion/">井噴</nuxt-link
+              >(舊稱灌注士氣)。
+            </li>
+            <li>非精銳哥德衛隊訓練時間調降為16秒。</li>
+            <li>哥德衛隊遠防為6；精銳哥德衛隊遠防則為8。</li>
+            <li>對弓兵系額外攻擊加成一般哥德衛隊為6，精銳為10。</li>
+            <li>哥德衛隊移動速度為1.05。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>移除滑輪起重機。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              4.8改版後科技樹移除<nuxt-link to="/techs/Arrowslits"
+                >箭狹槽</nuxt-link
+              >。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>(35584更新) 步兵造價全時代-35%。</li>
+            <li>
+              (36202更新) 步兵造價黑暗/封建/城堡/帝王各-20%/-25%/-30%/-35%。
+            </li>
+            <li>
+              (36202更新)
+              步兵對建築的攻擊加成從封建時代開始每個時代+1(到帝王總共+3)，但失去縱火科技。
+            </li>
+            <li>(36906更新) 獲得免費織布技術。</li>
+          </ul>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Wondergoths.jpg" alt=""
+              /></gallery>
+              <p><em>哥德世界奇觀</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
+              /></gallery>
+              <p><em>哥德的建築風格</em></p>
+            </div>
+          </div>
+        </div>
         <h3><strong>戰術概論</strong></h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -212,8 +295,10 @@
               哥德單位害怕強力的近戰步兵，因為它們缺少<nuxt-link
                 to="/techs/Plate_Mail_Armor"
                 >步兵板甲</nuxt-link
-              >，所以碰到<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
-              >或是<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >，所以碰到<nuxt-link to="/units/Jaguar_Warrior"
+                >豹勇士</nuxt-link
+              >
+              或是<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >這樣的單位則會吃大虧。
             </li>
             <li>
@@ -676,48 +761,6 @@
             </li>
             <li>在25人口上限的遊戲中，哥德比別人多了40%人口上限。</li>
           </ul>
-        </div>
-
-        <h3>更新日誌</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <h3>
-            <em><nuxt-link to="/games/de">帝王世紀</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>
-              封建時代開始步兵花費減少35%
-            </li>
-          </ul>
-          <h3>
-            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>
-              (35584更新) 從黑暗時代開始便享有文明加成
-            </li>
-          </ul>
-          <ul>
-            <li>
-              (36202更新)
-              在黑暗/封建/城堡/帝王時代，步兵減免改為20%/25%/30%/35%，且對<nuxt-link
-                to="/armor/Armor_Class_Building"
-                >建築物</nuxt-link
-              >攻擊+0/+1/+2/+3，但失去縱火科技。
-            </li>
-          </ul>
-        </div>
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
-              /></gallery>
-              <p><em>哥德的建築風格</em></p>
-            </div>
-          </div>
         </div>
       </div>
       <div class="col-md-4">
