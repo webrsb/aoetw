@@ -30,9 +30,7 @@
             <li>
               相比<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
               >的<nuxt-link to="/units/Knight">騎士</nuxt-link
-              >，烈堤司擁有更高的攻擊力，更少的<nuxt-link to="/resource/Food"
-                >食物</nuxt-link
-              >成本，更低的<nuxt-link to="/armor">近防</nuxt-link
+              >，烈堤司擁有更高的攻擊力，更少的黃金成本，更低的<nuxt-link to="/armor">近防</nuxt-link
               >和能無視敵方裝甲的能力。
             </li>
             <li>
@@ -200,10 +198,10 @@
           </tr>
         </table>
 
-        <h3>剋烈提司的單位與建築</h3>
+        <h3>剋烈堤司的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對烈提司的額外傷害，按照殺傷力排列。
+          以下單位擁有對烈堤司的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -556,6 +554,21 @@
             </li>
           </ul>
         </div>
+        
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>最初因為聖物獲得的攻擊加成最多可達5。</li>
+                        <li>更新檔34055起將因聖物獲得的攻擊加成下修為最多4攻。</li>
+                        <li>更新檔36906起，成本由50食物80黃金更變為70食物50黃金，訓練速度23/20秒上修為20/18秒。</li>
+          </ul>
+        </div>        
+        
+        
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -655,13 +668,13 @@
             <td class="unit3">
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
-            <td class="unit4">50</td>
+            <td class="unit4">70</td>
           </tr>
           <tr>
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">80</td>
+            <td class="unit4">50</td>
           </tr>
           <tr>
             <td
