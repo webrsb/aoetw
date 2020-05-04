@@ -14,7 +14,7 @@
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
             >系和<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-            ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。
+            ><nuxt-link to="/armor">遠程護甲</nuxt-link>+2。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -29,7 +29,7 @@
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
               >擁有遊戲中最高的<nuxt-link to="/armor">遠程護甲</nuxt-link
-              >（+9），甚至可以與<nuxt-link to="/units/Imperial_Skirmisher"
+              >（+10），甚至可以與<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
               >匹敵
             </li>
@@ -52,7 +52,9 @@
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
               >没有<nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
-              >，所以相比擁有步兵板甲的文明，立陶宛戟兵的近防和遠防均少1。即使在長槍兵系速度提高的文明加成下，在垃圾海中也不會佔有明顯優勢
+              >，所以相比擁有步兵板甲的文明，立陶宛戟兵的近防會少1。即使在長槍兵系速度提高的文明加成下，雖然遠程方面彌補了沒有步兵板甲的缺陷，和有步兵板甲文明相比也不會佔有明顯優勢。
+            </li>
+                        <li>故這項科技主要是搭配立陶宛的槍矛速度加成特性，能夠更快地攔截敵方的騎兵和弓兵單位。
             </li>
           </ul>
         </div>
@@ -68,6 +70,23 @@
             </li>
           </ul>
         </div>
+                <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+                    <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              最初塔盾可以讓槍兵系和矛兵系的遠程護甲+1。食物成本800。
+            </li>
+                        <li>
+              更新檔36906實裝後，讓槍兵系和矛兵系的遠程護甲+2，食物成本由800下調為500。
+            </li>
+
+          </ul>
+        </div>
+
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -131,7 +150,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
-            <td class="unit4">800</td>
+            <td class="unit4">500</td>
           </tr>
           <tr>
             <td class="unit3">
@@ -150,7 +169,7 @@
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>系和<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
-              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1
+              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+2
             </td>
           </tr>
         </table>
