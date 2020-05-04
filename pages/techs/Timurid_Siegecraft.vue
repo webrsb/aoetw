@@ -20,18 +20,22 @@
         <h3>戰術要點</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>
+        <ul>
+            <li>
             韃靼本身已經擁有<nuxt-link to="/techs/Siege_Engineers"
               >攻城工程師</nuxt-link
             >，可以增加<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
             >的射程和對建築物傷害，加上對低地建築物傷害+
             50％的文明加成，韃靼<nuxt-link to="/units/Trebuchet"
               >投石機</nuxt-link
-            >本身已經很強。全滿的投石機會成為遊戲中射程最遠的單位（總共18射程），投石機也可以更自由地安裝。而韃靼應先在<nuxt-link
+            >本身已經很強。全滿的投石機會成為遊戲中射程最遠的單位（總共19射程），投石機也可以更自由地安裝。而韃靼應先在<nuxt-link
               to="/building/University"
               >大學</nuxt-link
             >研發攻城工程師，因為它可以給投石機+1射程，並且對建築物有高的傷害，同時也會影響其他攻城單位。
-          </p>
+         </li>
+          <li>火焰駱駝則是相當於於剋制騎兵單位的炸藥桶，面對騎兵文明時可以讓敵方的騎兵群受到很大的傷害，對付建築物也有加成但是不如炸藥桶。
+            </li>
+            </ul>
         </div>
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
@@ -44,6 +48,21 @@
               >能夠加速帖木兒攻城術的研究時間(快25%)。
             </li>
           </ul>
+        </div>
+                <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+                        <h3>
+                <em>決定版</em>
+              </h3>
+              <ul>
+                <li>
+                  最初研發後可以使巨型投石機額外多1射程。
+                </li>
+                <li>
+                  更新檔36202起，研發後巨型投石機額外多2射程，並可以訓練火焰駱駝。
+                </li>
+              </ul>
         </div>
       </div>
       <div class="col-md-4">
