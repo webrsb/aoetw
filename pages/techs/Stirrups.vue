@@ -12,8 +12,7 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>攻速+25%。
+            >研發。研發後所有騎兵攻速+25%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -44,7 +43,7 @@
             </li>
             <li>
               馬鐙還影響<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >，這使他們能在垃圾兵中佔據巨大優勢，而且全滿的保加利亞<nuxt-link
+              >和重騎兵。以輕騎兵來說，這使他們能在垃圾兵中佔據巨大優勢，而且全滿的保加利亞<nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
               >會成為遊戲中最強的輕騎兵，能在一對一戰鬥中擊敗與普通匈牙利輕騎兵、<nuxt-link
@@ -53,6 +52,8 @@
               >匈牙利輕騎兵， 甚至是已研發<nuxt-link to="/techs/Farimba"
                 >驃悍精神</nuxt-link
               >的<nuxt-link to="/civs/Malians">馬利</nuxt-link>輕騎兵。
+              </li>
+              <li>更新檔36906改為影響所有騎兵單位後連重騎兵系都有影響，這讓保加利亞的重裝騎士擁有不輸遊俠的戰鬥力（類似馬利的驃悍精神），但相對的這個改動讓保加利亞失去遊俠這個高階兵種。
             </li>
           </ul>
         </div>
@@ -68,6 +69,22 @@
             </li>
           </ul>
         </div>
+                <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+                    <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              最初馬蹬只影響輕騎兵和保加利亞騎兵。
+            </li>
+            <li>
+              更新檔36906起，馬蹬影響所有騎兵，但相對地保加利亞失去遊俠。
+            </li>
+          </ul>
+        </div>
+
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
