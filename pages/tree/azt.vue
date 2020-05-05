@@ -270,6 +270,11 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
+              <img width="85" height="85" src="~assets/Steppelancericon.png" />
+              <div><nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link></div>
+              <i class="fas fa-arrow-down"></i>
+            </td>
+            <td class="t19 trm">
               <img width="85" height="85" src="~assets/husbandry.png" alt="" />
               <div><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link></div>
             </td>
@@ -303,7 +308,10 @@
               <div><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link>
               </div>
             </td>
-            <td class="t19 trm"></td>
+            <td class="t19 trm">
+              <img width="85" height="85" src="~assets/Elitesteppelancericon.png" />
+              <div><nuxt-link to="/units/Elite_Steppe_Lancer">精銳草原騎兵</nuxt-link></div>
+            </td>
           </tr>
         </table>
 
@@ -1023,7 +1031,7 @@
               <div><nuxt-link to="/techs/Atonement">救贖思想</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img width="85" height="85" src="~assets/Herbalmedicine.png" alt=""/>
+              <img width="85" height="85" src="~assets/HerbalDE.png" alt=""/>
               <div> <nuxt-link to="/techs/Herbal_Medicine">草藥治療</nuxt-link></div>
             </td>
             <td class="t11 trm">
@@ -1088,15 +1096,15 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t11 trm">
-              <img width="85" height="85" src="~assets/Fortified-wall-research.jpg" alt=""/>
+              <img width="85" height="85" src="~assets/FortifiedWallDE.png" alt=""/>
               <div><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img width="85" height="85" src="~assets/Ballistics.jpg" alt="" />
+              <img width="85" height="85" src="~assets/BallisticsDE.png" alt="" />
               <div><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img width="85" height="85" src="~assets/guard_tower.png" alt="" />
+              <img width="85" height="85" src="~assets/GuardTowerDE.png" alt="" />
               <div><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -1105,7 +1113,7 @@
               <div><nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img width="85" height="85" src="~assets/Murderholes.jpg" alt="" />
+              <img width="85" height="85" src="~assets/MurderHolesDE.png" alt="" />
               <div><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link></div>
             </td>
             <td class="t11 trm">
@@ -1127,11 +1135,11 @@
               <img width="85" height="85" src="~assets/chemistry.png" alt="" />
               <div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
-              <img class="not" src="~assets/bombard_tower.png" alt=""/>
+              <img width="85" height="85" class="not" src="~assets/bombard_tower.png" alt=""/>
               <div><nuxt-link to="/building/Bombard_Tower" class="not">火砲塔</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img width="85" height="85" src="~assets/Siegeengineers.jpg" alt="" />
+              <img width="85" height="85" src="~assets/SiegeEngineersDE.png" alt="" />
               <div><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link></div>
             </td>
             <td class="t11 trm not">
