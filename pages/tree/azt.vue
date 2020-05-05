@@ -135,7 +135,8 @@
                <div><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link></div>
             </td>
             <td class="t19 trm">
-              <img class="" src="~assets/ArcherIcon.png" /><nuxt-link to="/units/Archer">弓兵</nuxt-link>
+              <img class="" src="~assets/ArcherIcon.png" />
+              <div><nuxt-link to="/units/Archer">弓兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t15 trm">
@@ -294,7 +295,7 @@
               <div><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
               
-              <img width="85" height="85" src="~assets/ImperialCamelIcon.jpg" />
+              <img width="85" height="85" src="~assets/ImperialCamelIcon.png" />
               <div><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link></div>
             </td>
             <td class="t19 trm">
@@ -359,7 +360,7 @@
               <div><nuxt-link to="/units/Onager">中型投石車</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
               
-              <img width="100" height="100" src="~assets/SiegeOnagerIcon.png" alt=""/>
+              <img width="85" height="85" src="~assets/SiegeOnagerIcon.png" alt=""/>
               <div><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link></div>
             </td>
             <td class="t23 trm not">
@@ -814,7 +815,7 @@
               <img class="" src="~assets/CannonGalleonIcon.png" />
               <div><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
-              <img class="" src="~assets/CannonGalleonIcon.png" />
+              <img width="85" height="85" src="~assets/EliteCannonGalleonicon.png" />
               <div><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link>
               </div>
             </td>
@@ -833,7 +834,7 @@
           <tr>
             <td class="trm" colspan="6" style="border-top: none;">
               <nuxt-link to="/building/Blacksmith"
-                ><img width="100" height="100" src="~assets/blacksmith.png" alt=""/nuxt-link>
+                         ><img width="100" height="100" src="~assets/blacksmith.png" alt=""/></nuxt-link>                     
               <div id="兵工廠">
                 <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
               </div>
@@ -1126,7 +1127,7 @@
               <img width="85" height="85" src="~assets/chemistry.png" alt="" />
               <div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
-              <img class="not" src="~assets/Bombard-tower-research.jpg" alt=""/>
+              <img class="not" src="~assets/bombard_tower.png" alt=""/>
               <div><nuxt-link to="/building/Bombard_Tower" class="not">火砲塔</nuxt-link></div>
             </td>
             <td class="t11 trm">
