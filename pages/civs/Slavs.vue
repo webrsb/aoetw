@@ -53,7 +53,7 @@
             >(要研發後勤)、斯拉夫步兵(要研發王家侍從)，然而這三個文明在地理上非常靠近。（東南亞<nuxt-link
               to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
-            >也有踐踏效果） 備註：踐踏傷害都是360度全受到傷害。戰象跟<nuxt-link
+            >也有踐踏效果） 備註：踐踏傷害都是360度全受到傷害 戰象跟<nuxt-link
               to="/techs/Mahouts"
               >象伕</nuxt-link
             ><nuxt-link to="/elements/Area_of_Effect">擴散傷害</nuxt-link
@@ -94,7 +94,7 @@
           <p>
             貴族鐵騎本身是為了彌補沒有<nuxt-link to="/units/Paladin"
               >遊俠</nuxt-link
-            >，帶斯拉夫也沒有甚麼對遊俠的加成，整體而言斯拉夫有強大步兵，弓兵很脆弱(沒<nuxt-link
+            >的斯拉夫也沒很特殊的加成，整體而言斯拉夫有強大步兵，弓箭卻很脆弱沒<nuxt-link
               to="/units/Arbalest"
               >強弩兵</nuxt-link
             >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
@@ -108,7 +108,7 @@
               to="/techs/Faith"
               >忠誠信仰</nuxt-link
             >/<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
-            >等關鍵科技也使得斯拉夫人本身蠻懼怕僧侶文明，決定版可以研發忠誠信仰後這部份有獲得改善。
+            >等關鍵科技也使的斯拉夫人本身蠻懼怕僧侶文明，決定版可以研發忠誠信仰後這部份有獲得改善。
           </p>
           <h3>特殊單位</h3>
           <li>
