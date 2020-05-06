@@ -281,7 +281,7 @@
             </div>
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Architecturesa.png" alt=""
+                ><img class="imgn hg" src="~assets/Architecturesa.jpg" alt=""
               /></gallery>
               <p>
                 <em>東南亞建築(馬來、越南、緬甸和高棉共用)</em>

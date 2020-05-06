@@ -138,7 +138,7 @@
           <tr>
             <td class="trm" style="border-top: none;" colspan="7">
               <nuxt-link to="/building/Archery_Range"
-                ><img class="oh" src="~assets/Archery_range.png" alt=""
+                ><img class="oh" src="~assets/archery_range.png" alt=""
               /></nuxt-link>
               <div>
                 <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>

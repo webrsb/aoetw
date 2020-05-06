@@ -18,7 +18,9 @@
           <p>
             <b><i class="fas fa-check" style="color: green;"></i>可訓練文明：</b
             ><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
-              to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>。
+              to="/civs/Cumans"
+              >庫曼</nuxt-link
+            >、<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>。
           </p>
         </div>
         <h3>戰術</h3>
@@ -49,7 +51,8 @@
             >成本更便宜，還可以攻擊到同伴身後的敵人。
           </p>
           <p>
-            精銳草原騎兵能與庫曼、蒙古、韃靼的<nuxt-link to="/units/Cavalry_Archer"
+            精銳草原騎兵能與庫曼、蒙古、韃靼的<nuxt-link
+              to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >/<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>/<nuxt-link
               to="/units/Mangudai"
@@ -292,7 +295,7 @@
                     >→
                     <img
                       class="gg"
-                      src="~assets/ImperialCamelIcon.jpg"
+                      src="~assets/ImperialCamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
@@ -510,14 +513,21 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：精銳草原騎兵速度在<nuxt-link to="/techs/age/Castle_Age"
-                >城堡時代</nuxt-link>/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>提升10％/15％。
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：精銳草原騎兵速度在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >提升10％/15％。
             </li>
             <li>
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：精銳草原騎兵<nuxt-link to="/elements/Hit_points">血量</nuxt-link>+30%。
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >：精銳草原騎兵<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >+30%。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：精銳草原騎兵在高地戰鬥傷害+50%。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：精銳草原騎兵在高地戰鬥傷害+50%。
             </li>
           </ul>
         </div>
@@ -527,23 +537,34 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
-                to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
               >。
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
-                to="/building/Blacksmith">兵工廠</nuxt-link>提升精銳草原騎兵護甲和攻擊的科技研發快50％。
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升精銳草原騎兵護甲和攻擊的科技研發快50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：精銳草原騎兵生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
-                >品種</nuxt-link>與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>研發快20%。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              >：精銳草原騎兵生產效率和升級快20%，<nuxt-link
+                to="/techs/Bloodlines"
+                >品種</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
+              >研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
-                to="/techs/Heresy">異端邪說</nuxt-link>與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：精銳草原騎兵對僧侶抵抗力更強。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：精銳草原騎兵對僧侶抵抗力更強。
             </li>
           </ul>
         </div>
@@ -562,14 +583,19 @@
               最初草原騎兵的堆疊尺寸很小，讓他們可以堆疊在一起。34055更新後堆疊尺寸增加一倍
             </li>
             <li>
-              35584更新後<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>可以訓練草原騎兵。
+              35584更新後<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >可以訓練草原騎兵。
             </li>
             <li>36202更新後精銳草原騎兵攻擊力改為11。</li>
             <li>
-              36202更新精銳草原騎兵受益於<nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link>。
+              36202更新精銳草原騎兵受益於<nuxt-link to="/techs/Steppe_Husbandry"
+                >大草原耕種技術</nuxt-link
+              >。
             </li>
             <li>
-              36202更新草原騎兵受益於<nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>。
+              36202更新草原騎兵受益於<nuxt-link to="/techs/Silk_Armor"
+                >絲護甲</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -579,10 +605,16 @@
           <ul>
             <li>
               在34055更新前，草原騎兵攻擊力高，堆疊尺寸小（在非常小的空間內堆疊大量的草原騎兵，對對手造成高傷害，但自己受到的傷害卻很小），移動速度與<nuxt-link
-                to="/units/Light_Cavalry">輕騎兵</nuxt-link>相同，使用<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-              >的話甚至擁有<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>和10％的速度文明加成（反<nuxt-link to="/units/Cavalry_Units"
-                >騎兵單位</nuxt-link>起不到作用），使得草原騎兵異常強大。導致許多玩家只要在排名對戰中遇到對手使用庫曼時便退出遊戲，在非排名對戰中房主也會直接踢使用庫曼甚至<nuxt-link
-                to="/civs/Tatars">韃靼</nuxt-link>的玩家。更新後雖然仍然可以將草原騎兵堆疊在非常小的的空間中，但需要大量的微操和一些特定的指令，例如在非常小的的區域中巡邏。
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >相同，使用<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >的話甚至擁有<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
+              >和10％的速度文明加成（反<nuxt-link to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >起不到作用），使得草原騎兵異常強大。導致許多玩家只要在排名對戰中遇到對手使用庫曼時便退出遊戲，在非排名對戰中房主也會直接踢使用庫曼甚至<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >的玩家。更新後雖然仍然可以將草原騎兵堆疊在非常小的的空間中，但需要大量的微操和一些特定的指令，例如在非常小的的區域中巡邏。
             </li>
           </ul>
         </div>
@@ -591,15 +623,24 @@
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
-              <gallery><img class="imgn hg" src="~assets/Elitesteppelancer.png" alt=""/></gallery>
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Elitesteppelancers.png"
+                  alt=""
+              /></gallery>
               <p><em>一群精銳草原騎兵。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery><img class="imgn hg" src="~assets/Masked-Polovets.png" alt="" /></gallery>
+              <gallery
+                ><img class="imgn hg" src="~assets/Masked-Polovets.png" alt=""
+              /></gallery>
               <p><em>畫家筆下的草原騎兵(一)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery><img class="imgn hg" src="~assets/Masked-Polovtsian.png" alt="" /></gallery>
+              <gallery
+                ><img class="imgn hg" src="~assets/Masked-Polovtsian.png" alt=""
+              /></gallery>
               <p><em>畫家筆下的草原騎兵(二)。</em></p>
             </div>
           </div>
@@ -646,14 +687,18 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
-                to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Stable-logo.jpg" alt="" /><nuxt-link
-                to="/building/Stable">馬廄</nuxt-link>
+                to="/building/Stable"
+                >馬廄</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -734,9 +779,7 @@
                 class="gg"
                 src="~assets/Steppelancericon.png"
                 alt=""
-              /><nuxt-link to="/units/Steppe_Lancer"
-                >草原騎兵</nuxt-link
-              >
+              /><nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link>
             </td>
           </tr>
         </table>

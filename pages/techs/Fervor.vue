@@ -29,37 +29,37 @@
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-<nuxt-link to="/civs/Berbers">柏柏</nuxt-link >、
-<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
-<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-<nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
-<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-<nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-<nuxt-link to="/civs/Indians">印度</nuxt-link>、
-<nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-<nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
-<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
-<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-<nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-<nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-<nuxt-link to="/civs/Spanish">西班牙</nuxt-lin>、
-<nuxt-link to="/civs/Tatars">韃靼</nuxt-lin>、
-<nuxt-link to="/civs/Teutons">條頓</nuxt-lin>、
-<nuxt-link to="/civs/Turks">土耳其</nuxt-lin>、
-<nuxt-link to="/civs/Viking">維京</nuxt-link>。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+              <nuxt-link to="/civs/Viking">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -102,12 +102,13 @@
             </li>
           </ul>
         </div>
-         <h3>團隊加成</h3>
+        <h3>團隊加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：宗教狂熱研發速度快20%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：宗教狂熱研發速度快20%。
             </li>
           </ul>
         </div>
@@ -125,10 +126,14 @@
           </h3>
           <ul>
             <li>
-              宗教狂熱因為bug的關係只適用於拿著<nuxt-link to="/elements/Relic">遺跡</nuxt-link>的僧侶。
+              宗教狂熱因為bug的關係只適用於拿著<nuxt-link to="/elements/Relic"
+                >遺跡</nuxt-link
+              >的僧侶。
             </li>
             <li>
-              宗教狂熱不適用於<nuxt-link to="/units/Missionary">傳教士</nuxt-link>身上。
+              宗教狂熱不適用於<nuxt-link to="/units/Missionary"
+                >傳教士</nuxt-link
+              >身上。
             </li>
           </ul>
           <h3>
@@ -136,10 +141,13 @@
           </h3>
           <ul>
             <li>
-              現在僧侶不論拿<nuxt-link to="/elements/Relic">遺跡</nuxt-link>與否都能正確地得到宗教狂熱的加成。
+              現在僧侶不論拿<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+              >與否都能正確地得到宗教狂熱的加成。
             </li>
             <li>
-              宗教狂熱可適用於<nuxt-link to="/units/Missionary">傳教士</nuxt-link>身上。
+              宗教狂熱可適用於<nuxt-link to="/units/Missionary"
+                >傳教士</nuxt-link
+              >身上。
             </li>
           </ul>
         </div>
@@ -179,7 +187,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleageDE.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
               >
