@@ -98,7 +98,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">立陶宛</nuxt-link>：異端邪說研發速度快20%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：異端邪說研發速度快20%。
             </li>
           </ul>
         </div>
