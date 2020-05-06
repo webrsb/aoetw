@@ -17,9 +17,12 @@
             >的單位死亡，<nuxt-link to="/building">建築</nuxt-link
             >則直接毀壞。如果對手出了很多<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
-            >，那麼異端就必須被研發，即使這個<nuxt-link to="/techs"
+            >，那麼異端就是必須研發的科技，即使這個<nuxt-link to="/techs"
               >科技</nuxt-link
             >非常的昂貴。
+          </p>
+          <p>
+            騎馬狀態的保加利亞騎兵受異端邪說影響若被敵方僧侶招降時會死亡，但隨後會變成沒有騎馬的步兵狀態，控制權仍屬於原本的玩家而非敵方
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -33,35 +36,28 @@
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-                to="/civs/Berbers"
-                >柏柏</nuxt-link
-              >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
-                to="/civs/Celts"
-                >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
-                to="/civs/Huns"
-                >匈人</nuxt-link
-              >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
-                to="/civs/Magyars"
-                >馬扎爾</nuxt-link
-              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
-                to="/civs/Malians"
-                >馬利</nuxt-link
-              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
-                to="/civs/Mongols"
-                >蒙古</nuxt-link
-              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
-                to="/civs/Saracens"
-                >薩拉森</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Teutons"
-                >條頓</nuxt-link
-              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
-                to="/civs/Vikings"
-                >維京</nuxt-link
-              >。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+              <nuxt-link to="/civs/Viking">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -74,25 +70,19 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
-                to="/civs/Burmese"
-                >緬甸</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Goths"
-                >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                to="/civs/Italians"
-                >義大利</nuxt-link
-              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
-                to="/civs/Khmer"
-                >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
-                to="/civs/Persians"
-                >波斯</nuxt-link
-              >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
-                to="/civs/Vietnamese"
-                >越南</nuxt-link
-              >。
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
             </div>
           </div>
         </div>
@@ -103,6 +93,16 @@
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
               >：研發該科技給與僧侶+5HP。
+            </li>
+          </ul>
+        </div>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：異端邪說研發速度快20%。
             </li>
           </ul>
         </div>
