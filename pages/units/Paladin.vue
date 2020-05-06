@@ -43,9 +43,9 @@
                 to="/civs/Teutons"
                 >條頓</nuxt-link
               >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
-                to="/civs/Bulgarians"
-                >保加利亞</nuxt-link
-              >、<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>。
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -94,7 +94,7 @@
               >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、<nuxt-link
                 to="/civs/Tatars"
                 >韃靼</nuxt-link
-              >。
+              >、<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>。
             </div>
           </div>
         </div>
@@ -111,7 +111,11 @@
           >遊俠比一般遊俠多12HP，是全遊戲最強大的遊俠；波斯（和其同盟）則是可以給弓兵多2的額外傷害，尤其對付打馬弓騎兵猶為明顯；<nuxt-link
             to="/civs/Lithuanians"
             >立陶宛</nuxt-link
-          >遊俠則每擁有1個聖物就能加1攻，最多加4攻可達到22攻。而<nuxt-link
+          >遊俠則每擁有1個聖物就能加1攻，最多加4攻可達到22攻，攻擊加滿能和法蘭克競爭最強遊俠寶座。<nuxt-link
+            to="/civs/Teutons"
+            >條頓</nuxt-link
+          >的遊俠則是缺跑速，但<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
+          >和攻防都有因此仍可以用，且有額外多1的近防；而<nuxt-link
             to="/civs/Byzantines"
             >拜占庭</nuxt-link
           >與塞爾特遊俠則是重看不重用。
@@ -236,6 +240,17 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1" style="width:10%">攻擊速度</td>
+            <td class="tta4">
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Stirrups"
+                >馬鐙</nuxt-link
+              >：攻擊速度快25%，(<nuxt-link to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >限定)
             </td>
           </tr>
           <tr>
@@ -543,6 +558,10 @@
                   >的研發速度都加快40%
                 </li>
                 <li>
+                  <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+                  >：馬廄單位於城堡時代開始近戰防禦+1。
+                </li>
+                <li>
                   <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
                   >：免費<nuxt-link to="/techs/Forging">鍛造技術</nuxt-link
                   >、<nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
@@ -627,6 +646,16 @@
                   <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
                   >：原本可以額外多5攻擊力，更新檔34055後下修為最多額外4攻。
                 </li>
+                <li>
+                  (36909更新)
+                  <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                  >：特殊科技馬蹬影響所有騎兵單位，但失去遊俠，因此攻速快25%的遊俠只可能在自訂戰役的編輯模式使用。
+                </li>
+                <li>
+                  (36909更新)
+                  <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+                  >：馬廄單位於城堡時代開始近戰防禦+1。
+                </li>
               </ul>
             </div>
             <h3>趣事</h3>
@@ -679,7 +708,7 @@
                   <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>是<nuxt-link
                     to="/games/aof"
                     >失落的帝國</nuxt-link
-                  >後唯一的遊俠文明。而決定版實裝的四個新文明有三個文明有遊俠且科技都全滿，只有韃靼文明沒有遊俠。
+                  >之後，在決定版實裝前唯一的遊俠文明。而決定版實裝的四個新文明中，最初有三個文明有遊俠且科技都全滿，只有韃靼文明沒有遊俠；更新檔36909之後把保加利亞的遊俠拿掉了。
                 </li>
               </ul>
             </div>
