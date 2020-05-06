@@ -40,8 +40,8 @@
         <div class="n1">
           <p>
             保加利亞是<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-            >和<nuxt-link to="/units/Cavalry_Units">騎兵文明</nuxt-link
-            >，因此在步兵和騎兵上都十分優秀的，也在其特殊單位中得到了充分體現(具有步兵和騎兵兩種模式)。騎兵上擁有除<nuxt-link to="/units/Paladin">遊俠</nuxt-link
+            >和<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >文明，因此在步兵和騎兵上都十分優秀的，也在其特殊單位中得到了充分體現(具有步兵和騎兵兩種模式)。騎兵上擁有除<nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >升級外的所有單位升級和科技，加上特殊科技<nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link
             >提高了所有騎兵攻擊速度。步兵上雖然缺乏<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
             >升級，但<nuxt-link to="/units/Militia">民兵</nuxt-link
@@ -70,14 +70,19 @@
             <img class="gg" src="~assets/Konnikicon.png" alt="" /><nuxt-link
               to="/units/Konnik"
               >保加利亞騎兵</nuxt-link
-            >：死亡後會變成步兵繼續作戰的的騎兵單位。
+            >：死亡後會變成<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >繼續作戰的的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >單位。
           </li>
           <h3>特殊建築</h3>
           <li>
             <img class="gg" src="~assets/krepost.png" alt="" /><nuxt-link
               to="/building/Krepost"
               >營壘</nuxt-link
-            >：軍事防禦建築。城堡的縮小版，可以訓練保加利亞騎兵。
+            >：軍事防禦建築。城堡的縮小版，可以訓練<nuxt-link
+              to="/units/Konnik"
+              >保加利亞騎兵</nuxt-link
+            >。
           </li>
           <h3>特殊科技</h3>
           <li>
@@ -92,7 +97,9 @@
               src="~assets/unique_tech_imperial.png"
               alt=""
             /><nuxt-link to="/techs/Bagains">協議</nuxt-link
-            >：民兵系近程護甲+5。
+            >：<nuxt-link to="/units/Militia">民兵</nuxt-link
+            >系<nuxt-link to="/armor">近程護甲</nuxt-link
+            >+5。
           </li>
         </div>
         <h3>文明加成</h3>
@@ -136,7 +143,8 @@
             <li>
               (34055更新) 下馬後的保加利亞騎兵從1.9攻速提升為2.4， (精鋭)保加利亞騎兵減至100 (120)HP。
             </li>
-            <li>(34055更新) 下馬後的保加利亞騎兵會受到日本武士的額外傷害。</li>
+            <li>(34055更新) 下馬後的保加利亞騎兵會受到<nuxt-link to="/units/Samurai">日本武士</nuxt-link
+            >的額外傷害。</li>
             <li>(34055更新) 營壘尺寸由4x4改為3x3，且不能被招降。</li>
             <li>(36906更新) 無法訓練遊俠，馬鐙也能影響騎士系。</li>
           </ul>
@@ -145,13 +153,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>保加利亞的文明徽章來自於希什曼家族的家徽，而希什曼家族在中世紀時統治著保加利亞第二帝國。</li>
+            <li>保加利亞的文明徽標來自於希什曼王朝的盾徽，而希什曼王朝在1323到1422年間統治著保加利亞第二帝國。</li>
             <li>
               與<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >一樣，保加利亞是唯二沒有弩兵的文明。
+            >一樣，保加利亞是唯二沒有<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >的文明。
             </li>
             <li>
-              36906更新後，保加利亞成為了唯一被奪走升級遊俠的文明。
+              36906更新後，保加利亞成為了唯一被奪走升級<nuxt-link to="/units/Paladin">遊俠</nuxt-link
+            >的文明。
             </li>
           </ul>
         </div>
