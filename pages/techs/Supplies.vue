@@ -13,7 +13,7 @@
             >》首次登場，可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
-            >研發。研發後民兵系食物成本-15。
+            >研發。研發後民兵系食物成本-15。僅哥德不可研發（因為文明特性本身就有步兵成本減免）。
           </p>
         </div>
         <h3>文明加成</h3>
