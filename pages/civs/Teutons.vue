@@ -76,7 +76,8 @@
             </li>
             <li>
               步兵<nuxt-link to="/techs">科技</nuxt-link
-              >全滿，城堡時代和帝王時代又各加1近防，加上塔的兩倍駐紮打<nuxt-link to="/ar/armstower"
+              >全滿，城堡時代和帝王時代又各加1近防，加上塔的兩倍駐紮打<nuxt-link
+                to="/ar/armstower"
                 >裝甲塔</nuxt-link
               >/塔攻是上選。
             </li>
@@ -86,7 +87,8 @@
               >，無輕騎兵/<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >，但因為有<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
               >遊俠<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-              >也是滿的<nuxt-link to="/techs/age/Castle_Age">，城堡和帝王又各多1的近戰防禦，城堡時代</nuxt-link
+              >也是滿的<nuxt-link to="/techs/age/Castle_Age"
+                >，城堡和帝王又各多1的近戰防禦，城堡時代</nuxt-link
               >後也是可以打馬。
             </li>
             <li>
@@ -228,9 +230,10 @@
               (35584更新) 城堡時代開始，軍營單位加1近戰防禦。
             </li>
             <li>
-              (36906更新) 上述的近戰防禦更新為城堡時代和帝王時代，軍營單位和馬廄單位各加1近戰防禦（共+2）。
+              (36906更新)
+              上述的近戰防禦更新為城堡時代和帝王時代，軍營單位和馬廄單位各加1近戰防禦（共+2）。
             </li>
-                        <li>
+            <li>
               (36906更新) 條頓武士的速度由0.7上修至0.8。
             </li>
           </ul>
