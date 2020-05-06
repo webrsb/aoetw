@@ -30,7 +30,9 @@
             <li>
               相比<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
               >的<nuxt-link to="/units/Knight">騎士</nuxt-link
-              >，烈堤司擁有更高的攻擊力，更少的黃金成本，更低的<nuxt-link to="/armor">近防</nuxt-link
+              >，烈堤司擁有更高的攻擊力，更少的黃金成本，更低的<nuxt-link
+                to="/armor"
+                >近防</nuxt-link
               >和能無視敵方裝甲的能力。
             </li>
             <li>
@@ -554,7 +556,7 @@
             </li>
           </ul>
         </div>
-        
+
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -563,12 +565,14 @@
           </h3>
           <ul>
             <li>最初因為聖物獲得的攻擊加成最多可達5。</li>
-                        <li>更新檔34055起將因聖物獲得的攻擊加成下修為最多4攻。</li>
-                        <li>更新檔36906起，成本由50食物80黃金更變為70食物50黃金，訓練速度23/20秒上修為20/18秒。</li>
+            <li>更新檔34055起將因聖物獲得的攻擊加成下修為最多4攻。</li>
+            <li>
+              (36906更新)
+              ，成本由50食物80黃金更變為70食物50黃金，訓練速度23/20秒上修為20/18秒。
+            </li>
           </ul>
-        </div>        
-        
-        
+        </div>
+
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
