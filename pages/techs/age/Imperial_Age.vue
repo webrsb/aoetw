@@ -214,7 +214,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/ImperialCamelIcon.jpg"
+                src="~assets/ImperialCamelIcon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link

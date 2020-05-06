@@ -39,7 +39,7 @@
               /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/ImperialCamelIcon.jpg"
+                src="~assets/ImperialCamelIcon.png"
                 alt=""
               /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
               >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
@@ -131,7 +131,7 @@
                     >→
                     <img
                       class="gg"
-                      src="~assets/ImperialCamelIcon.jpg"
+                      src="~assets/ImperialCamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link

@@ -333,7 +333,7 @@
                     >→
                     <img
                       class="gg"
-                      src="~assets/ImperialCamelIcon.jpg"
+                      src="~assets/ImperialCamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
@@ -849,7 +849,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/ImperialCamelIcon.jpg"
+                src="~assets/ImperialCamelIcon.png"
                 alt=""
               /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
             </td>

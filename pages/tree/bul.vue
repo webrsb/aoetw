@@ -355,7 +355,7 @@
               </div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
-                src="~assets/ImperialCamelIcon.jpg"
+                src="~assets/ImperialCamelIcon.png"
               />
               <div>
                 <nuxt-link to="/units/Imperial_Camel" class="not"

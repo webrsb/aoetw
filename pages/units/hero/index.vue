@@ -1522,7 +1522,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/ImperialCamelIcon.jpg"
+                            src="~assets/ImperialCamelIcon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Babur">巴卑爾</nuxt-link>
                         </td>

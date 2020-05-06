@@ -390,7 +390,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ImperialCamelIcon.jpg" /><nuxt-link
+                <img class="gg" src="~assets/ImperialCamelIcon.png" /><nuxt-link
                   to="/units/Imperial_Camel"
                   >帝王駱駝騎兵</nuxt-link
                 >

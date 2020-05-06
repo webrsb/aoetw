@@ -353,7 +353,7 @@
                 <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i><br />
-              <img class="gg" src="~assets/ImperialCamelIcon.jpg" />
+              <img class="gg" src="~assets/ImperialCamelIcon.png" />
               <div>
                 <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
               </div>
