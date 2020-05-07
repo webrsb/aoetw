@@ -17,6 +17,7 @@
             >，具有與<nuxt-link to="/units/Knight">騎士</nuxt-link
             >相同的基本數據。
           </p>
+          <p>索洛托勇士會出現在蒙特蘇馬戰役第五關"沸騰的湖"，在決定版前是精銳答剌罕騎兵</p>
             <p>
             僅適用於<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>和<nuxt-link
               to="/civs/Incas"
@@ -27,9 +28,7 @@
           <p>
             <b><i class="fas fa-check" style="color: green;"></i>可訓練文明：</b
             ><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-              to="/civs/Incas"
-              >印加</nuxt-link
-            >。
+              to="/civs/Incas">印加</nuxt-link>。
           </p> 
         </div>
         <h3>戰術</h3>
@@ -40,7 +39,7 @@
             >一樣的基本數據和成本，因此有「原裝騎士」之稱，能憑藉其高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
             >，<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
             >和<nuxt-link to="/armor">防禦力</nuxt-link
-            >進行攻擊和迂回。
+            >進行攻擊和迂回，也做為遠程單位和攻城單位的肉盾。
           </p>
           <p>
             與騎士系一様，索洛托勇士難以抵抗<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
@@ -52,13 +51,11 @@
           </p>
           <p>
             與<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
-            >不同，索洛托勇士不能像騎士升級，也缺乏<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            ><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵護甲</nuxt-link
-            >升級、<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
+            >不同，索洛托勇士不能像騎士升級，也缺乏兵工廠科技升級、<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
             >和<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
-            >的科技，使索洛托勇士在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >等科技，使索洛托勇士在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >晚期和<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >比騎士系差。
+            >比騎士系的表現較差。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -74,11 +71,9 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
-                to="/units/Archer_Units"
-                >弓兵</nuxt-link
-              >、<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
-                to="/units/Siege_Weapons"
-                >攻城器單位</nuxt-link
+                to="/units/Archer_Units">弓兵</nuxt-link>、
+                <nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
+                to="/units/Siege_Weapons">攻城器單位</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
             </td>
@@ -123,7 +118,7 @@
                 src="~assets/iron_casting.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Iron_Casting">鑄鐵技術</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
@@ -158,6 +153,16 @@
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
+                <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Flaming_camel_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+                  </li>
+                </ul>
                 <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
                 <ul>
                   <li>
@@ -400,7 +405,16 @@
             </ul>
           </div>
         </div>
-        <h3>加分</h3>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li><nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:兵工廠科技研發速度快50%</li>
+            <li><nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>:研發忠誠信仰和異端邪說的速度快20%。</li>
+            <li><nuxt-link to="/civs/Teutons">條頓</nuxt-lin>:索洛托勇士更能抵抗招降。</li>
+          </ul>
+        </div>
+        <h3>團隊/文明加成影響</h3>
         <div class="hrn1"></div>
         <div class="n1">
             在正常情況下(<nuxt-link to="/building/Stable">馬廄</nuxt-link
@@ -413,14 +427,13 @@
               >：對索洛托勇士無效。但是如果對手研發了徵兵技術，再將馬廄招降的話，索洛托勇士的訓練速度就會快33%。
             </li>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>的文明加成：雖然有軍事單位訓練快15%的文明加成，但索洛托勇士除外。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>的文明加成：雖然有軍事單位(騎士不算)訓練快17.6%的文明加成，但索洛托勇士除外。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>的團隊加分：索洛托勇士視野不會+2。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈人</nuxt-link
-              >的團隊加分：索洛托勇士生產效率不會快20%。但是招降對象是匈人的馬廄的話，索洛托勇士的訓練速度仍然快20%。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>的團隊加分不會讓索洛托勇士生產效率快20%。但是招降對象是匈奴或牠們同盟的馬廄的話，索洛托勇士的訓練速度仍然快20%。
             </li>
              <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>的團隊加分：索洛托勇士對於弓箭手的傷害不會+2。
@@ -429,18 +442,14 @@
             如果馬廄是通過編輯器放置，或是有馬廄開局的超級隨機遊戲，會有以下一些科技/團隊加分影響此單位：
             <ul>
             <li>
-              <nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >：索洛托勇士訓練速度快33%。
+              <nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>：索洛托勇士訓練速度快33%。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈人</nuxt-link
-              >的團隊加分：索洛托勇士生產效率快20%。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>的團隊加分：索洛托勇士生產效率快20%。
             </li>
              <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的團隊加分：<nuxt-link
-                to="/techs/Kasbah"
-                >聚居堡壘</nuxt-link
-              >能夠加速徵兵技術的研究時間(快25%)。
+                to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠加速徵兵技術的研究時間(快25%)。
             </li>
             </ul>
         </div>
@@ -472,16 +481,22 @@
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Battle_Elephant_and_Elite.jpg"
-                  alt=""
-              /></gallery>
+              <div class="col-md-4">
+              <gallery><img class="imgn hg" src="~assets/In-game_Xolotl_Warrior.png.jpg" alt=""/></gallery>
               <p>
-                <em
-                  >索洛托勇士。</em
-                >
+                <em>一群索洛托勇士。</em>
+              </p>
+            </div>
+              <gallery><img class="imgn hg" src="~assets/Xolotl.png.jpg" alt=""/></gallery>
+              <p>
+                <em>索洛托勇士和一般騎士。</em>
+              </p>
+            </div>
+            
+            <div class="col-md-4">
+              <gallery><img class="imgn hg" src="~assets/Manco_Inca.jpg" alt=""/></gallery>
+              <p>
+                <em>印加騎兵。</em>
               </p>
             </div>
           </div>
@@ -520,8 +535,7 @@
             <td class="unit3">文明</td>
             <td class="unit4">
               <nuxt-link to="/Aztecs">阿茲特克</nuxt-link><br /><nuxt-link
-                to="/civs/Incas">印加</nuxt-link
-              >
+                to="/civs/Incas">印加</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -578,11 +592,7 @@
           </tr>
           <tr>
             <td class="unit3">攻速</td>
-            <td class="unit4">2.3</td>
-          </tr>
-          <tr>
-            <td class="unit3">射程</td>
-            <td class="unit4">1.83</td>
+            <td class="unit4">1.8</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
