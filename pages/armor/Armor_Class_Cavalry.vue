@@ -254,6 +254,19 @@
               /><nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
               >(-2)(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
             </li>
+            <li>
+              <img
+                class="gg"
+                src="~assets/Ballistaelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/Ballistaelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Konnik">精銳保加利亞騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
+            </li>
           </ul>
         </div>
         <h3>剋騎兵系的單位與建築</h3>
@@ -268,6 +281,16 @@
           <div class="n1">
             <div class="row">
               <div class="col-md-4">
+                <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Flaming_camel_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+                  </li>
+                </ul>
                 <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
                 <ul>
                   <li>
@@ -420,8 +443,6 @@
                     >
                   </li>
                 </ul>
-              </div>
-              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
@@ -432,6 +453,9 @@
                     /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
                   </li>
                 </ul>
+              </div>
+              <div class="col-md-4">
+                
                 <div style="margin:12px 0px;"><strong>+0攻擊</strong></div>
                 <ul>
                   <li>
