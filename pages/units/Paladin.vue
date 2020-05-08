@@ -108,14 +108,14 @@
             to="/building"
             >建築</nuxt-link
           >。<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-          >遊俠比一般遊俠多12HP，是全遊戲最強大的遊俠；波斯（和其同盟）則是可以給弓兵多2的額外傷害，尤其對付打馬弓騎兵猶為明顯；<nuxt-link
+          >遊俠比一般遊俠多12HP；波斯（和其同盟）則是可以給弓兵多2的額外傷害，尤其對付打馬弓騎兵猶為明顯；<nuxt-link
             to="/civs/Lithuanians"
             >立陶宛</nuxt-link
           >遊俠則每擁有1個聖物就能加1攻，最多加4攻可達到22攻，攻擊加滿能和法蘭克競爭最強遊俠寶座。<nuxt-link
             to="/civs/Teutons"
             >條頓</nuxt-link
           >的遊俠則是缺跑速，但<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
-          >和攻防都有因此仍可以用，且有額外多1的近防；而<nuxt-link
+          >和攻防都有滿且有額外多2的近防；而<nuxt-link
             to="/civs/Byzantines"
             >拜占庭</nuxt-link
           >與塞爾特遊俠則是重看不重用。
@@ -559,7 +559,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                  >：馬廄單位於城堡時代開始近戰防禦+1。
+                  >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
                 </li>
                 <li>
                   <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -654,7 +654,7 @@
                 <li>
                   (36909更新)
                   <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                  >：馬廄單位於城堡時代開始近戰防禦+1。
+                  >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
                 </li>
               </ul>
             </div>
@@ -680,7 +680,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-                  >擁有最強的遊俠，因為多了12hp，而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
+                  >、條頓、以及收齊聖物的立陶宛的遊俠有額外加成，因為法蘭克多了12hp（雖然缺品種但文明本身有加成）、條頓擁有額外2近防（美中不足的是缺耕種技術）、立陶宛根據持有的聖物最多額外多4攻；而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
                     to="/techs/Bloodlines"
                     >品種</nuxt-link
                   >與<nuxt-link to="/techs/Plate_Barding_Armor"
@@ -688,9 +688,7 @@
                   >。緊跟在後的是拜占庭遊俠，缺乏品種與<nuxt-link
                     to="/techs/Blast_Furnace"
                     >鼓風爐</nuxt-link
-                  >。而<nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                  >缺法<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
-                  >。其他四個文明則有全滿的遊俠。
+                  >；其他有遊俠的文明則有科技全滿的遊俠。而各文明的遊俠單挑時，加滿攻4擊的立陶宛完勝法蘭克和條頓，而條頓和法蘭克的遊俠單挑時也因為多2近防的關係補足生命值的差距，近而可以把法蘭克遊俠打敗。
                 </li>
                 <li>
                   隨著<nuxt-link to="/games/ak">非洲王國</nuxt-link
