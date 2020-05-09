@@ -261,6 +261,8 @@
                     >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
                   </li>
                 </ul>
+                </div>
+                <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
                 <ul>
                   <li>
@@ -287,9 +289,7 @@
                     >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
                   </li>
                 </ul>
-              </div>
-              <div class="col-md-4">
-                <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
+                  <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
                 <ul>
                   <li>
                     <img
@@ -300,6 +300,9 @@
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                 </ul>
+              </div>
+              <div class="col-md-4">
+                
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
                 <ul>
                   <li>
@@ -323,9 +326,10 @@
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>
+                </div>
               </div>
             </div>
-          </div>
+
         </div>
         <h3>科技</h3>
         <div class="hrn1"></div>
@@ -343,7 +347,12 @@
                 class="gg"
                 src="~assets/CataphractIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵(精銳)</nuxt-link
+              /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/CataphractIcon.png"
+                alt=""
+              /><nuxt-link to="/units/Cataphract">精銳拜占庭聖騎兵</nuxt-link
               >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
             </li>
           </ul>
