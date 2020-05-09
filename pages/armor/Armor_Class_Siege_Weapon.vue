@@ -123,7 +123,7 @@
           以下單位擁有對攻城單位的額外傷害，按造殺傷力排列。
           <div class="n1">
             <div class="row">
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+65攻擊</strong></div>
                 <ul>
                   <li>
@@ -193,7 +193,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
                 <ul>
                   <li>
