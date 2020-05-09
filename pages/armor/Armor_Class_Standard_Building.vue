@@ -252,6 +252,16 @@
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
+                <div style="margin:12px 0px;"><strong>+100攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Flaming_camel_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+                  </li>
+                </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
                 <ul>
                   <li>
@@ -317,6 +327,19 @@
                       >精銳弩砲象</nuxt-link
                     >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                   </li>
+                  <li>
+              <img
+                class="gg"
+                src="~assets/Ballistaelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Konnik">(下馬)保加利亞騎兵</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/Ballistaelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Konnik">(下馬)精銳保加利亞騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
+            </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
@@ -491,6 +514,70 @@
         <div class="n1">
           下方科技可讓以下單位擁有對標準建築單位的額外傷害，按照殺傷力排列。
           <div class="n1">
+            <p>
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="22"
+                alt=""
+              /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
+            </p>
+            <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
+            <ul>
+              <li>
+              <img
+                class="gg"
+                src="~assets/ScoutCavalryIcon.png"
+                alt=""
+              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/LightCavalryIcon.png"
+                alt=""
+              /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
+              <img class="gg" src="~assets/HussarIcon.png" alt="" /><nuxt-link
+                to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >
+            </li>
+              <li>
+                    <img
+                      class="gg"
+                      src="~assets/KnightIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Knight">騎士</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/CavalierIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>
+                  </li>
+              <li>
+              <img
+                class="gg"
+                src="~assets/Battleelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/Battleelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Elite_Battle_Elephant"
+                >精銳矛象伕</nuxt-link
+              >
+            </li>
+              <li>
+              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+                to="/units/Arambai"
+                >飛鏢騎兵</nuxt-link
+              >→
+              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+                to="/units/Arambai"
+                >精銳飛鏢騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
+            </li>
+            </ul>
             <p>
               <img class="gg" src="~assets/Arson.png" alt="" /><nuxt-link
                 to="/techs/Arson"
@@ -697,6 +784,19 @@
                   >精銳爪刀勇士</nuxt-link
                 >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
               </li>
+              <li>
+              <img
+                class="gg"
+                src="~assets/Ballistaelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Konnik">(下馬)保加利亞騎兵</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/Ballistaelephanticon.png"
+                alt=""
+              /><nuxt-link to="/units/Konnik">(下馬)精銳保加利亞騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
+            </li>
             </ul>
             <p>
               <img
@@ -735,7 +835,7 @@
               >標準建築物</nuxt-link
             >有額外傷害。
             <div class="n1">
-              <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
+              <div style="margin:12px 0px;"><strong>+1/+2/+3攻擊於封建/城堡/帝王時代</strong></div>
               <ul>
                 <li>
                   <img
@@ -811,7 +911,7 @@
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >可讓以下單位對標準建築物有額外傷害。
               <div class="n1">
-                <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
+                <div style="margin:12px 0px;"><strong>+2/+3/+4攻擊於封建/城堡/帝王時代(與其團隊加成分開計算)</strong></div>
                 <ul>
                   <li>
                     <img
@@ -828,6 +928,18 @@
                       >重裝馬弓騎兵</nuxt-link
                     >
                   </li>
+                  <li>
+              <img class="gg" src="~assets/GenitourIcon.png" alt="" /><nuxt-link
+                to="/units/Genitour"
+                >標槍騎兵</nuxt-link
+              >→
+              <img
+                class="gg"
+                src="~assets/GenitourIcon.png"
+                alt=""
+              />精銳<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>及其同盟限定)
+            </li>
                 </ul>
               </div>
               <h3>團隊加分</h3>
@@ -925,6 +1037,13 @@
                         >精銳羽毛箭射手</nuxt-link
                       >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                     </li>
+                    <li>
+              <img class="gg" src="~assets/Slinger_Icon.png" alt="" /><nuxt-link
+                to="/units/Slinger"
+                >投石手</nuxt-link
+              >
+              (<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
+            </li>
                     <li>
                       <img
                         class="gg"
