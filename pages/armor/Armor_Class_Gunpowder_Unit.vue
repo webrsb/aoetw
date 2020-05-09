@@ -39,7 +39,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/bombard_tower.png"
+                src="~assets/BombardCannonIcon.png"
                 alt=""
               /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
             </li>
