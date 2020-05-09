@@ -62,7 +62,7 @@
           以下單位擁有對衝撞車單位的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
                 <ul>
                   <li>
@@ -86,7 +86,7 @@
                     >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
                   </li>
                   <li>
-                    <img src="~assets/WarGalley.png" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/WarGalley.png" alt="" /><nuxt-link
                       to="/units/War_Galley"
                       >弩砲戰船</nuxt-link
                     >→
@@ -150,7 +150,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
                 <ul>
                   <li>
@@ -175,6 +175,16 @@
                     /><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
                     >(<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定)
                   </li>
+                  <li>
+              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+                to="/units/Arambai"
+                >飛鏢騎兵</nuxt-link
+              >→
+              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+                to="/units/Arambai"
+                >精銳飛鏢騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
+            </li>
                   <li>
                     <img
                       class="gg"
@@ -220,7 +230,8 @@
                   </li>
                 </ul>
               </div>
-            </div>
+              
+      </div>
           </div>
         </div>
       </div>
