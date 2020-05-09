@@ -55,10 +55,10 @@
 <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
 <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-<nuxt-link to="/civs/Spanish">西班牙</nuxt-lin>、
-<nuxt-link to="/civs/Tatars">韃靼</nuxt-lin>、
-<nuxt-link to="/civs/Teutons">條頓</nuxt-lin>、
-<nuxt-link to="/civs/Turks">土耳其</nuxt-lin>、
+<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
 <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
 <nuxt-link to="/civs/Viking">維京</nuxt-link>。
             </div>
