@@ -91,6 +91,16 @@
           <div class="n1">
             <div class="row">
               <div class="col-md-4">
+              <div style="margin:12px 0px;"><strong>+80攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Flaming_camel_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+                  </li>
+                </ul>
                 <div style="margin:12px 0px;"><strong>+28攻擊</strong></div>
                 <ul>
                   <li>
@@ -111,6 +121,8 @@
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                   </li>
                 </ul>
+                </div>
+              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+20攻擊</strong></div>
                 <ul>
                   <li>
@@ -127,7 +139,7 @@
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
                   </li>
                 </ul>
-                <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
+               <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
                 <ul>
                   <li>
                     <img
@@ -137,8 +149,6 @@
                     /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                 </ul>
-              </div>
-              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
                 <ul>
                   <li>
@@ -149,6 +159,9 @@
                     /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                 </ul>
+                </div>
+              <div class="col-md-4">
+                
                 <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
                 <ul>
                   <li>
@@ -159,6 +172,16 @@
                     /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/ScorpionIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
