@@ -268,7 +268,7 @@
             <td class="unit3">玩家顏色</td>
             <td class="unit4">
               <div class="p2"></div>
-              綠色
+              紅色
             </td>
           </tr>
           <tr>
