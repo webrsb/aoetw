@@ -125,7 +125,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">遠程護甲+1/+1。</td>
+            <td class="unit4">弓兵和馬弓騎兵護甲+1/+1。</td>
           </tr>
         </table>
 
