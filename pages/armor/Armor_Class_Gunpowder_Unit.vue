@@ -39,7 +39,7 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/bombard_tower.png"
+                src="~assets/BombardCannonIcon.png"
                 alt=""
               /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
             </li>
@@ -87,7 +87,7 @@
               /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/CannonGalleonIcon.png"
+                src="~assets/EliteCannonGalleonicon.png"
                 alt=""
               /><nuxt-link to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
