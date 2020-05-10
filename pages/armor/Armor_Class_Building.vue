@@ -229,6 +229,12 @@
                     >海港</nuxt-link
                   >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                 </li>
+                <li>
+                  <img class="gg" src="~assets/Kreposticon.png" alt="" /><nuxt-link
+                    to="/building/Krepost"
+                    >營壘</nuxt-link
+                  >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
+                </li>
               </ul>
             </div>
           </div>
@@ -631,6 +637,14 @@
                     alt=""
                   /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
                 </li>
+                <li>
+                  <img
+                    class="gg"
+                    src="~assets/Flaming_camel_icon.png"
+                    alt=""
+                  /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+                  (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
+                </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+30攻擊</strong></div>
               <ul>
@@ -663,6 +677,7 @@
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers"> 攻城工程師</nuxt-link>
               </p>
+
               <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
               <ul>
                 <li>
@@ -881,6 +896,14 @@
                 alt=""
               /><nuxt-link to="/units/Mameluke">精銳阿拉伯奴隸兵</nuxt-link
               >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
+            </li>
+            <li>
+              <img
+                class="gg"
+                src="~assets/Flaming_camel_icon.png"
+                alt=""
+              /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+              (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
             </li>
           </ul>
         </div>
