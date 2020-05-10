@@ -37,9 +37,19 @@
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多獵取20%的肉量
             </li>
+            <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>:獵人攜帶量+15</li>
+          </ul>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:村民打野豬攻擊+5，攜帶量+15
+              <nuxt-link to="/games/de">決定版</nuxt-link
+              >的象的圖像顯示是非洲象，但單位顯示卻是亞洲象。
+            </li>
+            <li>
+              雖然大象與野豬的HP相同，但大象的攻擊速度更快，獵人更容易在大象的攻擊下陣亡。
             </li>
           </ul>
         </div>
@@ -55,7 +65,7 @@
                   src="~assets/AoE2_elephant.png"
                   alt=""
               /></gallery>
-              <p><em>世紀帝國II的象。</em></p>
+              <p><em>世紀帝國II HD版的象。</em></p>
             </div>
           </div>
         </div>
@@ -72,7 +82,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/AoE2_elephant_icon.png" width="80" alt="" />
+                <img src="~assets/AoE2_elephant_icon.png" alt="" />
               </div>
             </td>
           </tr>
@@ -92,6 +102,12 @@
               <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
             </td>
             <td class="unit4">75</td>
+          </tr>
+          <tr>
+            <td class="unit3">
+              建議獵人數
+            </td>
+            <td class="unit4">5~10</td>
           </tr>
         </table>
 
