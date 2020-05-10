@@ -111,17 +111,18 @@
                 >
               </li>
               <li>
-              <img class="gg" src="~assets/GenitourIcon.png" alt="" /><nuxt-link
-                to="/units/Genitour"
-                >標槍騎兵</nuxt-link
-              >→
-              <img
-                class="gg"
-                src="~assets/GenitourIcon.png"
-                alt=""
-              />精銳<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
-              >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>及其同盟限定)
-            </li>
+                <img
+                  class="gg"
+                  src="~assets/GenitourIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/GenitourIcon.png"
+                  alt=""
+                />精銳<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+                >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>及其同盟限定)
+              </li>
               <li>
                 <img
                   class="gg"
@@ -194,13 +195,14 @@
               <li>
                 <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
                   to="/building/Watch_Tower"
-                  >瞭望箭塔</nuxt-link>→
-                  <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
-                    to="/building/Guard_Tower"
-                    >防禦箭塔</nuxt-link>→
-                  <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
-                    to="/building/Keep"
-                    >大型箭塔</nuxt-link>
+                  >瞭望箭塔</nuxt-link
+                >→ <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Guard_Tower"
+                  >防禦箭塔</nuxt-link
+                >→ <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
+                  to="/building/Keep"
+                  >大型箭塔</nuxt-link
+                >
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
@@ -238,17 +240,22 @@
                 >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
               </li>
               <li>
-              <img class="gg" src="~assets/GenitourIcon.png" alt="" /><nuxt-link
-                to="/units/Kipchak"
-                >欽察</nuxt-link
-              >→
-              <img
-                class="gg"
-                src="~assets/GenitourIcon.png"
-                alt=""
-              />精銳<nuxt-link to="/units/Kipchak">欽察</nuxt-link
-              >(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries">庫曼傭兵</nuxt-link>後同盟限定)
-            </li>
+                <img
+                  class="gg"
+                  src="~assets/Kipchakicon.png"
+                  alt=""
+                /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/Kipchakicon.png"
+                  alt=""
+                />精銳<nuxt-link to="/units/Kipchak">欽察</nuxt-link>(<nuxt-link
+                  to="/civs/Cumans"
+                  >庫曼</nuxt-link
+                >及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
+                  >庫曼傭兵</nuxt-link
+                >後同盟限定)
+              </li>
             </ul>
             <h3>科技</h3>
             <div class="hrn1"></div>
