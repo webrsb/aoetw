@@ -54,14 +54,6 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/palisade_gate.png"
-                alt=""
-              /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>
-            </li>
-            <li>
-              <img
-                class="gg"
-                width="25px"
                 src="~assets/gate.png"
                 alt=""
               /><nuxt-link to="/building/Gate">城門</nuxt-link>
