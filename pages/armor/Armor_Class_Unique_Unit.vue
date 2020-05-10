@@ -321,8 +321,6 @@
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>
-              </div>
-              <div class="col-md-6">
                 <ul>
                   <li>
                     <img
@@ -365,6 +363,8 @@
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
                   </li>
                 </ul>
+              </div>
+              <div class="col-md-6">
                 <ul>
                   <li>
                     <img
@@ -373,6 +373,25 @@
                       alt=""
                     /><nuxt-link to="/units/Slinger">投石手</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      style="margin: 2px;"
+                      src="~assets/ElephantArcherIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
+                    >→
+                    <img
+                      class="gg"
+                      style="margin: 2px;"
+                      src="~assets/ElephantArcherIcon.png"
+                      alt=""
+                    />精銳<nuxt-link to="/units/Elephant_Archer"
+                      >象弓騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <ul>
@@ -597,6 +616,75 @@
                     /><nuxt-link to="/units/Rattan_Archer"
                       >精銳藤甲弓兵</nuxt-link
                     >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Konnikicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/Konnikicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Konnik">精銳保加利亞騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Kipchakicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/Kipchakicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Kipchak">精銳欽察</nuxt-link
+                    >(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定)
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/RattanarcherIcon2.png"
+                      alt=""
+                    /><nuxt-link to="/units/Leitis">烈提司</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/RattanarcherIcon2.png"
+                      alt=""
+                    /><nuxt-link to="/units/Leitis">精銳烈提司</nuxt-link
+                    >(<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>限定)
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/RattanarcherIcon2.png"
+                      alt=""
+                    /><nuxt-link to="/units/Keshik">怯薛</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/RattanarcherIcon2.png"
+                      alt=""
+                    /><nuxt-link to="/units/Keshik">精銳怯薛</nuxt-link
+                    >(<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Flaming_camel_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
                   </li>
                 </ul>
               </div>
