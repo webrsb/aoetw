@@ -230,7 +230,7 @@
                   >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                 </li>
                 <li>
-                  <img class="gg" src="~assets/dock.png" alt="" /><nuxt-link
+                  <img class="gg" src="~assets/Kreposticon.png" alt="" /><nuxt-link
                     to="/building/Krepost"
                     >營壘</nuxt-link
                   >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
@@ -640,7 +640,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/BombardCannonIcon.png"
+                    src="~assets/Flaming_camel_icon.png"
                     alt=""
                   /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
                   (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
@@ -677,7 +677,7 @@
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers"> 攻城工程師</nuxt-link>
               </p>
-              
+
               <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
               <ul>
                 <li>
@@ -813,7 +813,6 @@
                   /><nuxt-link to="/units/Arambai">精銳飛鏢騎兵</nuxt-link
                   >(<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
                 </li>
-                
               </ul>
             </div>
           </div>
@@ -899,13 +898,13 @@
               >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
             </li>
             <li>
-                  <img
-                    class="gg"
-                    src="~assets/BombardCannonIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
-                  (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
-                </li>
+              <img
+                class="gg"
+                src="~assets/Flaming_camel_icon.png"
+                alt=""
+              /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+              (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
+            </li>
           </ul>
         </div>
       </div>
