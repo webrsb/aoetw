@@ -34,7 +34,7 @@
               >弓兵</nuxt-link
             >也可進入城鎮中心增加城鎮中心的<nuxt-link to="/elements/Attack"
               >攻擊力</nuxt-link
-            >與放箭數。
+            >與放箭數。也能治療受傷的駐紮單位(騎馬單位不行)，是在城堡時代之前沒有僧侶或傳教士最佳的回復手段。
           </p>
           <p>
             小技巧:若要讓村民回到城鎮中心時可選擇不要敲警戒鐘，而是圈選後手動駐紮在城鎮中心，這樣可以讓靠近城鎮中心的村民達到瞬間移動的效果。
@@ -312,6 +312,27 @@
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
+                <br />
+                <img
+                  class="gg"
+                  src="~assets/fletching.png"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link>(+1)
+                <br />
+                <img
+                  class="gg"
+                  src="~assets/bodkin_arrow.png"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link>(+1)
+                <br />
+                <img
+                  class="gg"
+                  src="~assets/Bracer.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
               </td>
             </tr>
             <tr>
@@ -355,7 +376,11 @@
             <ul>
               <li>
                 <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-                >：城鎮中心的木頭花費-50%
+                >：城鎮中心的木頭花費-50%(從城堡時代開始)
+              </li>
+              <li>
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                >：城鎮中心的石頭花費-50%
               </li>
               <li>
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
@@ -367,7 +392,8 @@
                   to="/elements/Hit_points"
                   >血量</nuxt-link
                 >。<nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link
-                ><nuxt-link to="/techs">科技</nuxt-link>免費。
+                ><nuxt-link to="/techs">科技</nuxt-link
+                >免費。演進帝王時代的成本便宜33%。
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -379,6 +405,10 @@
               <li>
                 <nuxt-link to="/civs/Incas">印加</nuxt-link
                 >：城鎮中心石頭造價便宜15%
+              </li>
+              <li>
+                <nuxt-link to="/civs/Malay">馬來</nuxt-link
+                >：時代演進的速度快80%。
               </li>
               <li>
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link
@@ -398,6 +428,10 @@
               <li>
                 <nuxt-link to="/civs/Teutons">條頓</nuxt-link
                 >：城鎮中心可駐紮25個單位。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Viking">維京</nuxt-link
+                >：輪軸技術和手推車技術免費。
               </li>
             </ul>
           </div>
@@ -421,6 +455,11 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
+            <li>城鎮中心成本為275木材。</li>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
+              >在封建/城堡/帝王時代的工作效率分別加快10%/15%/20%。
+            </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >:城鎮中心+2攻擊跟+5射程。
@@ -430,6 +469,7 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
+            <li>城鎮中心成本變為275木材100石頭。</li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >:城鎮中心+2攻擊跟+5視野。
@@ -465,7 +505,16 @@
                 >城鎮中心</nuxt-link
               >對他們的攻擊加乘沒有了，現在<nuxt-link to="/building/Town_Center"
                 >城鎮中心</nuxt-link
-              >對他們攻擊+1。
+              >對他們攻擊只+1。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link
+              >：剛發行時演進時代的速度是快100%；5.3改版後時代演進的速度調降為80%。
             </li>
           </ul>
           <h3>
@@ -473,9 +522,12 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>:
-              引入<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-              ><nuxt-link to="/techs/Hill_Forts">山城堡</nuxt-link>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
+              >：在黑暗/封建/城堡/帝王時代的工作效率分別加快5%/10%/15%/20%。
+            </li>
+            <li>
+              (36906更新) <nuxt-link to="/civs/Persians">波斯</nuxt-link
+              >：黑暗時代的5%工作效率被移除。
             </li>
           </ul>
         </div>
@@ -614,7 +666,10 @@
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
-            <td class="unit4">150秒</td>
+            <td class="unit4">
+              150秒<br />
+              270秒(封建時代)
+            </td>
           </tr>
           <tr>
             <td class="unit3">功能</td>
@@ -658,25 +713,22 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">5(可穿甲)</td>
+            <td class="unit4">5(遠程)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +5對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
-              ><br />+5對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築物</nuxt-link
-              >
-              <br />+1對<nuxt-link to="/armor/Armor_Class_Camel"
-                >駱駝單位</nuxt-link
-              >
+              +5對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link><br />
+              +5對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              ><br />
+              +1對<nuxt-link to="/armor/Armor_Class_Camel">駱駝單位</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
             </td>
-            <td class="unit4">2.03</td>
+            <td class="unit4">2.0</td>
           </tr>
           <tr>
             <td class="unit3">射程</td>
