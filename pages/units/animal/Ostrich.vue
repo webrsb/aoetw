@@ -29,7 +29,8 @@
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:打獵速度快50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多獵取20%的肉量。
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+              >:額外多獵取20%的肉量。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:獵人攜帶量+15。
@@ -40,7 +41,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>遊戲中的所有鴕鳥都是黑色和白色。 在現實生活中，只有雄性才具有這種顏色，而雌性則是棕色，可以更好地偽裝與大地和乾草融為一體。</li>
+            <li>
+              遊戲中的所有鴕鳥都是黑色和白色。
+              在現實生活中，只有雄性才具有這種顏色，而雌性則是棕色，可以更好地偽裝與大地和乾草融為一體。
+            </li>
             <li>在古代和中世紀時期，在北非，阿拉伯和黎凡特也可以發現鴕鳥。</li>
           </ul>
         </div>
@@ -73,7 +77,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Ostrich.png" width="80" alt="" />
+                <img src="~assets/Ostrich.png" alt="" />
               </div>
             </td>
           </tr>
