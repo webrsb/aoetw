@@ -52,7 +52,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/FastFireShipIcon.png"
+                  src="~assets/FastFireShipIcon.png" 
                   alt=""
                 /><nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link>
               </li>
