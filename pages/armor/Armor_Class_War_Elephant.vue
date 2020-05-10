@@ -91,7 +91,7 @@
           <div class="n1">
             <div class="row">
               <div class="col-md-4">
-              <div style="margin:12px 0px;"><strong>+80攻擊</strong></div>
+                <div style="margin:12px 0px;"><strong>+80攻擊</strong></div>
                 <ul>
                   <li>
                     <img
@@ -121,7 +121,7 @@
                     /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                   </li>
                 </ul>
-                </div>
+              </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+20攻擊</strong></div>
                 <ul>
@@ -139,7 +139,7 @@
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
                   </li>
                 </ul>
-               <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
+                <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
                 <ul>
                   <li>
                     <img
@@ -159,9 +159,8 @@
                     /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                 </ul>
-                </div>
+              </div>
               <div class="col-md-4">
-                
                 <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
                 <ul>
                   <li>
