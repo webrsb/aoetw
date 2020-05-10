@@ -35,6 +35,18 @@
                 >城堡</nuxt-link
               >
             </li>
+            <li>
+              <img width="25px" src="~assets/castle.png" alt="" /><nuxt-link
+                to="/building/Fortress"
+                >要塞</nuxt-link
+              >
+            </li>
+            <li>
+              <img width="25px" src="~assets/Kreposticon.png" alt="" /><nuxt-link
+                to="/building/Krepost"
+                >營壘</nuxt-link
+              >
+            </li>
           </ul>
         </div>
         <h3>剋城堡的單位與建築</h3>
