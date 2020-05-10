@@ -97,11 +97,16 @@
               >5()
             </li>
             <li>
-              <img class="gg" src="~assets/CannonGalleonIcon.png" alt="" /><nuxt-link
-                to="/units/Cannon_Galleon"
-                >火砲戰船</nuxt-link
-              >→ <img class="gg" src="~assets/CannonGalleonIcon.png" alt="" /><nuxt-link
-                to="/units/Elite_Cannon_Galleon"
+              <img
+                class="gg"
+                src="~assets/CannonGalleonIcon.png"
+                alt=""
+              /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/EliteCannonGalleonicon.png"
+                alt=""
+              /><nuxt-link to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
               >
             </li>
@@ -109,25 +114,31 @@
               <img class="gg" src="~assets/LongboatIcon.png" alt="" /><nuxt-link
                 to="/units/Longboat"
                 >維京大戰船</nuxt-link
-              >→ <img class="gg" src="~assets/LongboatIcon.png" alt="" /><nuxt-link
+              >→
+              <img class="gg" src="~assets/LongboatIcon.png" alt="" /><nuxt-link
                 to="/units/Longboat"
                 >精銳維京大戰船</nuxt-link
               >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
             </li>
             <li>
-              <img class="gg" src="~assets/TurtleShipIcon.png" alt="" /><nuxt-link
-                to="/units/Turtle_Ship"
-                >龜甲船</nuxt-link
-              >(8)→ <img class="gg" src="~assets/TurtleShipIcon.png" alt="" /><nuxt-link
-                to="/units/Turtle_Ship"
-                >精銳龜甲船</nuxt-link
+              <img
+                class="gg"
+                src="~assets/TurtleShipIcon.png"
+                alt=""
+              /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>(8)→
+              <img
+                class="gg"
+                src="~assets/TurtleShipIcon.png"
+                alt=""
+              /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
               >(11)(<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/CaravelIcon.png" alt="" /><nuxt-link
                 to="/units/Caravel"
                 >卡拉維爾戰船</nuxt-link
-              >→ <img class="gg" src="~assets/CaravelIcon.png" alt="" /><nuxt-link
+              >→
+              <img class="gg" src="~assets/CaravelIcon.png" alt="" /><nuxt-link
                 to="/units/Caravel"
                 >精銳卡拉維爾戰船</nuxt-link
               >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
@@ -188,9 +199,11 @@
                     /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/LongboatIcon.png" alt="" /><nuxt-link
-                      to="/units/Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/LongboatIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -424,10 +437,9 @@
                   >
                 </li>
               </ul>
-             
             </div>
             <div class="col-md-4">
-               <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
+              <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
@@ -460,10 +472,11 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/dock.png"
+                    src="~assets/Kreposticon.png"
                     width="22"
                     alt=""
-                  /><nuxt-link to="/building/Krepost">營壘</nuxt-link>(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
+                  /><nuxt-link to="/building/Krepost">營壘</nuxt-link
+                  >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
                 </li>
               </ul>
             </div>
