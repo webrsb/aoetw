@@ -230,14 +230,14 @@
                 style="margin: 2px;"
                 src="~assets/ElephantArcherIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>(-2)→
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
                 src="~assets/ElephantArcherIcon.png"
                 alt=""
               />精銳<nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
-              >(-2)(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
+              >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
             </li>
             <li>
               <img
@@ -301,6 +301,22 @@
               />精銳<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
               >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
             </li>
+            <li>
+              <img class="gg" src="~assets/Kipchakicon.png" alt="" /><nuxt-link
+                to="/units/Kipchak"
+                >欽察</nuxt-link
+              >→
+              <img
+                class="gg"
+                src="~assets/Kipchakicon.png"
+                alt=""
+              /><nuxt-link to="/units/Kipchak">精銳欽察</nuxt-link>(<nuxt-link
+                to="/civs/Cumans"
+                >庫曼</nuxt-link
+              >及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
+                >庫曼傭兵</nuxt-link
+              >後同盟限定)
+            </li>
           </ul>
         </div>
         <h3>剋射手系的單位</h3>
@@ -339,6 +355,8 @@
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                 </ul>
+              </div>
+              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
                 <ul>
                   <li>
@@ -350,8 +368,7 @@
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                 </ul>
-              </div>
-              <div class="col-md-4">
+
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
                 <ul>
                   <li>
@@ -373,6 +390,8 @@
                     >和同盟限定)
                   </li>
                 </ul>
+              </div>
+              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
                 <ul>
                   <li>
@@ -399,82 +418,6 @@
                       src="~assets/SkirmisherIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>
-                  </li>
-                </ul>
-              </div>
-              <div class="col-md-4">
-                <div style="margin:12px 0px;"><strong>+0攻擊</strong></div>
-                <ul>
-                  <li>
-                    <img
-                      class="gg"
-                      src="~assets/KnightIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Knight">騎士</nuxt-link>→
-                    <img
-                      class="gg"
-                      src="~assets/CavalierIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>→
-                    <img
-                      class="gg"
-                      src="~assets/PaladinIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Paladin">遊俠</nuxt-link>
-                  </li>
-                  <li>
-                    <img
-                      class="gg"
-                      src="~assets/CataphractIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
-                    >→
-                    <img
-                      class="gg"
-                      src="~assets/CataphractIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Cataphract"
-                      >精銳拜占庭聖騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
-                  </li>
-                  <li>
-                    <img
-                      class="gg"
-                      src="~assets/TarkanIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>→
-                    <img
-                      class="gg"
-                      src="~assets/TarkanIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Tarkan">精銳答剌罕騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Huns">匈人</nuxt-link>限定)
-                  </li>
-                  <li>
-                    <img
-                      class="gg"
-                      src="~assets/New_Boyar.png"
-                      alt=""
-                    /><nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>→
-                    <img
-                      class="gg"
-                      src="~assets/New_Boyar.png"
-                      alt=""
-                    /><nuxt-link to="/units/Boyar">精銳貴族鐵騎</nuxt-link
-                    >(<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定)
-                  </li>
-                  <li>
-                    <img
-                      class="gg"
-                      src="~assets/GbetoIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>→
-                    <img
-                      class="gg"
-                      src="~assets/GbetoIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Gbeto">精銳飛刀女獵手</nuxt-link
-                    >(<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -513,6 +456,28 @@
                 </ul>
               </div>
             </div>
+          </div>
+          <h3>更新日誌</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                5.8改版前象弓騎兵的射手護甲是"-2"，所以當時攻擊加成+0的騎士系、拜占庭聖騎兵，答剌罕騎兵、貴族鐵騎和飛刀女獵手對象弓騎兵的攻擊是
+                0-(-2)=2。5.8改版移除之後上述單位不再對象弓騎兵有額外攻擊加成。
+              </li>
+            </ul>
+          </div>
+          <h3>趣事</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                奴隸兵是唯一有射手護甲的遠程(傷害是近戰)騎兵單位。
+              </li>
+            </ul>
           </div>
         </div>
       </div>
