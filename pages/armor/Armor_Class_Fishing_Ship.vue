@@ -18,7 +18,8 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            <stong>漁船裝甲</stong>於《世界帝國II:王者崛起》5.8版引進，是一個<nuxt-link to="/armor"
+            <stong>漁船裝甲</stong
+            >於《世界帝國II:王者崛起》5.8版引進，是一個<nuxt-link to="/armor"
               >防禦裝甲</nuxt-link
             >類別，所有在這個系列的兵種都會被剋漁船裝甲的兵種有額外的傷害。漁船裝甲是為了讓火戰船系對漁船的傷害降低一些。
           </p>
@@ -26,9 +27,7 @@
         <h3>漁船單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          下列的單位都是<nuxt-link to="/units/Naval_Vessels"
-            >漁船單位</nuxt-link
-          >
+          下列的單位都是漁船單位
           <ul>
             <li>
               <img
@@ -93,9 +92,11 @@
                     /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/LongboatIcon.png" alt="" /><nuxt-link
-                      to="/units/Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/LongboatIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -331,10 +332,9 @@
                   >
                 </li>
               </ul>
-             
             </div>
             <div class="col-md-4">
-               <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
+              <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
