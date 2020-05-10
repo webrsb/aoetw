@@ -37,18 +37,20 @@
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多獵取20%的肉量
             </li>
-            <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:獵人攜帶量+15
-            </li>
+            <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>:獵人攜帶量+15</li>
           </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>決定版的象的圖像顯示是非洲象，但單位顯示卻是亞洲象。</li>
-            <li>雖然大象與野豬的HP相同，但大象的攻擊速度更快，獵人更容易在大象的攻擊下陣亡。</li>
-            
+            <li>
+              <nuxt-link to="/games/de">決定版</nuxt-link
+              >的象的圖像顯示是非洲象，但單位顯示卻是亞洲象。
+            </li>
+            <li>
+              雖然大象與野豬的HP相同，但大象的攻擊速度更快，獵人更容易在大象的攻擊下陣亡。
+            </li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -80,7 +82,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/AoE2_elephant_icon.png" width="80" alt="" />
+                <img src="~assets/AoE2_elephant_icon.png" alt="" />
               </div>
             </td>
           </tr>
