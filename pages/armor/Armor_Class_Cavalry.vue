@@ -257,12 +257,12 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Ballistaelephanticon.png"
+                src="~assets/Konnikicon.png"
                 alt=""
               /><nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>→
               <img
                 class="gg"
-                src="~assets/Ballistaelephanticon.png"
+                src="~assets/Konnikicon.png"
                 alt=""
               /><nuxt-link to="/units/Konnik">精銳保加利亞騎兵</nuxt-link
               >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
@@ -455,7 +455,6 @@
                 </ul>
               </div>
               <div class="col-md-4">
-                
                 <div style="margin:12px 0px;"><strong>+0攻擊</strong></div>
                 <ul>
                   <li>
