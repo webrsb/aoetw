@@ -129,14 +129,17 @@
               >(<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
             </li>
             <li>
-              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/Kipchakicon.png" alt="" /><nuxt-link
                 to="/units/Kipchak"
                 >欽察</nuxt-link
               >→
-              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/Kipchakicon.png" alt="" /><nuxt-link
                 to="/units/Kipchak"
                 >精銳欽察</nuxt-link
-              >(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>及庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries">庫曼傭兵</nuxt-link>後同盟限定)
+              >(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >及庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
+                >庫曼傭兵</nuxt-link
+              >後同盟限定)
             </li>
           </ul>
         </div>
