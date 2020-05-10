@@ -29,6 +29,18 @@
             </li>
           </ul>
         </div>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/techs/Padded_Archer_Armor"
+                >弓兵護甲</nuxt-link
+              >研發速度加快50%。
+            </li>
+          </ul>
+        </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -116,7 +128,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">遠程護甲+1/+1。</td>
+            <td class="unit4">弓兵和馬弓騎兵護甲+1/+1。</td>
           </tr>
         </table>
 
