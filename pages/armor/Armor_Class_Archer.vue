@@ -302,16 +302,20 @@
               >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
             </li>
             <li>
-              <img class="gg" src="~assets/GenitourIcon.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/Kipchakicon.png" alt="" /><nuxt-link
                 to="/units/Kipchak"
                 >欽察</nuxt-link
               >→
               <img
                 class="gg"
-                src="~assets/GenitourIcon.png"
+                src="~assets/Kipchakicon.png"
                 alt=""
-              />精銳<nuxt-link to="/units/Kipchak">欽察</nuxt-link
-              >(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries">庫曼傭兵</nuxt-link>後同盟限定)
+              /><nuxt-link to="/units/Kipchak">精銳欽察</nuxt-link>(<nuxt-link
+                to="/civs/Cumans"
+                >庫曼</nuxt-link
+              >及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
+                >庫曼傭兵</nuxt-link
+              >後同盟限定)
             </li>
           </ul>
         </div>
@@ -351,8 +355,8 @@
                     >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>限定)
                   </li>
                 </ul>
-                </div>
-                <div class="col-md-4">
+              </div>
+              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
                 <ul>
                   <li>
@@ -454,28 +458,30 @@
             </div>
           </div>
           <h3>更新日誌</h3>
-            <div class="hrn1"></div>
-            <div class="n1">
-              <h3>
-                <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
-              </h3>
-              <ul>
-                <li>5.8改版前象弓騎兵的射手護甲是"-2"，所以當時攻擊加成+0的騎士系、拜占庭聖騎兵，答剌罕騎兵、貴族鐵騎和飛刀女獵手對象弓騎兵的攻擊是
-                0-(-2)=2。5.8改版移除之後上述單位不再對象弓騎兵有額外攻擊加成。</li>
-              </ul>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                5.8改版前象弓騎兵的射手護甲是"-2"，所以當時攻擊加成+0的騎士系、拜占庭聖騎兵，答剌罕騎兵、貴族鐵騎和飛刀女獵手對象弓騎兵的攻擊是
+                0-(-2)=2。5.8改版移除之後上述單位不再對象弓騎兵有額外攻擊加成。
+              </li>
+            </ul>
+          </div>
+          <h3>趣事</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                奴隸兵是唯一有射手護甲的遠程(傷害是近戰)騎兵單位。
+              </li>
+            </ul>
+          </div>
         </div>
-        <h3>趣事</h3>
-            <div class="hrn1"></div>
-            <div class="n1">
-              <ul>
-                <li>
-                  奴隸兵是唯一有射手護甲的遠程(傷害是近戰)騎兵單位。
-                </li>
-              </ul>
-            </div>
       </div>
     </div>
-    </div>    
   </div>
 </template>
 <script>
