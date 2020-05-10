@@ -12,17 +12,22 @@
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >研發，可讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >、<nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
-              to="/building/Watch_Tower"
-              >箭塔</nuxt-link
-            >、<nuxt-link to="/units/Galley">戰船</nuxt-link>和<nuxt-link
-              to="/units/Longboat"
-              >維京大戰船</nuxt-link
-            >+1攻擊和+1射程；<nuxt-link to="/building/Town_Center"
-              >城鎮中心</nuxt-link
-            >只+1攻擊。
+            >研發，可讓弓兵、城堡、箭塔、戰船維京大戰船、卡拉維爾戰船、海港、營壘、戰矛兵、標槍騎兵和火炮塔+1攻擊和+1射程。
+              城鎮中心攻擊和視野各+1。
           </p>
+
+          <ul>
+            <li>射程最遠弓兵:<nuxt-link to="/civs/Britons">不列顛</nuxt-link>(有強力護腕；文明加成讓徒步弓兵於城堡/帝王射程各+1/+2；特殊科技義勇騎兵讓徒步弓兵射程+1)</li>
+            <li>射程最遠矛兵:<nuxt-link to="/civs/Britons">不列顛</nuxt-link>(有強力護腕；特殊科技義勇騎兵讓徒步弓兵射程+1)；
+            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>:(有強力護腕；特殊科技擲矛器讓矛兵系列和標槍騎兵攻擊範圍+1)
+            </li>
+            <li>射程最遠馬弓騎兵:<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>(有強力護腕；特殊科技反曲弓讓馬弓騎兵射程+1。如果同盟有庫曼則也會影響欽察)</li>
+            <li>射程最遠箭塔:<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>(有強力護腕；文明加成讓箭塔於城堡/帝王射程各+1/+2)</li>
+            <li>射程最遠火炮塔:<nuxt-link to="/civs/Turks">土耳其</nuxt-link>(有強力護腕；特殊科技砲兵讓火砲塔、火砲戰船和火砲射程+2)</li>
+            <li>射程最遠城堡:<nuxt-link to="/civs/Teutons">條頓</nuxt-link>(特殊科技砲門垛口讓城堡射程+3)</li>
+          </ul>
+
+
         </div>
         <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
@@ -35,44 +40,35 @@
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-                to="/civs/Berbers"
-                >柏柏</nuxt-link
-              >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
-                to="/civs/Burmese"
-                >緬甸</nuxt-link
-              >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
-                to="/civs/Chinese"
-                >中國</nuxt-link
-              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
-                to="/civs/Huns"
-                >匈人</nuxt-link
-              >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
-                to="/civs/Indians"
-                >印度</nuxt-link
-              >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
-                to="/civs/Japanese"
-                >日本</nuxt-link
-              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
-                to="/civs/Koreans"
-                >朝鮮</nuxt-link
-              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
-                to="/civs/Malay"
-                >馬來</nuxt-link
-              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
-                to="/civs/Mongols"
-                >蒙古</nuxt-link
-              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
-                to="/civs/Saracens"
-                >薩拉森</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Turks"
-                >土耳其</nuxt-link
-              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
-                to="/civs/Vikings"
-                >維京</nuxt-link
-              >。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+<nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+<nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+<nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+<nuxt-link to="/civs/Incas">印加</nuxt-link>、
+<nuxt-link to="/civs/Indians">印度</nuxt-link>、
+<nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+<nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+<nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+<nuxt-link to="/civs/Viking">維京</nuxt-link>。
+
             </div>
           </div>
         </div>
@@ -85,16 +81,13 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
-                to="/civs/Franks"
-                >法蘭克</nuxt-link
-              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
-                to="/civs/Persians"
-                >波斯</nuxt-link
-              >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
-                to="/civs/Teutons"
-                >條頓</nuxt-link
-              >。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+<nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+<nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+<nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
             </div>
           </div>
         </div>
@@ -116,7 +109,16 @@
             </li>
           </ul>
         </div>
-        <h3>豆知識</h3>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：兵工廠科技研發速度加快50%。
+            </li>
+          </ul>
+        </div>
+        <h3>趣聞</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -223,15 +225,8 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
-                to="/building/Castle"
-                >城堡</nuxt-link
-              >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-              >、<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
-              >和<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
-              >+1攻擊和+1射程；<nuxt-link to="/building/Town_Center"
-                >城鎮中心</nuxt-link
-              >只+1攻擊。
+              讓弓兵、城堡、箭塔、戰船維京大戰船、卡拉維爾戰船、海港、營壘、戰矛兵、標槍騎兵和火炮塔+1攻擊和+1射程。
+              城鎮中心攻擊和視野各+1。
             </td>
           </tr>
         </table>
