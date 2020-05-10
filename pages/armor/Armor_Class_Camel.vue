@@ -18,8 +18,10 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            <b>駱駝系</b>是一個於《世紀帝國ii:非洲王朝》引入的<nuxt-link to="/armor">防禦裝甲</nuxt-link
-            >類別，在非洲王朝之前駱駝騎兵是以船艦的護甲替代駱駝護甲。所有在這個系列的兵種都會被剋駱駝系的兵種有額外的傷害。
+            <b>駱駝系</b>是一個於《<nuxt-link to="/games/ak"
+              >世紀帝國II：非洲王國</nuxt-link
+            >》引入的<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            >類別，在非洲王國之前駱駝騎兵是以船艦的護甲替代駱駝護甲。所有在這個系列的兵種都會被剋駱駝系的兵種有額外的傷害。
           </p>
         </div>
         <h3>駱駝系單位</h3>
@@ -71,13 +73,13 @@
               >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
             </li>
             <li>
-                  <img
-                    class="gg"
-                    src="~assets/BombardCannonIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
-                  (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
-                </li>
+              <img
+                class="gg"
+                src="~assets/Flaming_camel_icon.png"
+                alt=""
+              /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+              (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
+            </li>
           </ul>
         </div>
         <h3>剋駱駝系的單位與建築</h3>
@@ -89,14 +91,14 @@
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+30攻擊</strong></div>
                 <ul>
-                   <li>
-                  <img
-                    class="gg"
-                    src="~assets/BombardCannonIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
-                  (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
-                </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Flaming_camel_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+                    (<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
+                  </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+26攻擊</strong></div>
                 <ul>
