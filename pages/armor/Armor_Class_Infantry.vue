@@ -93,16 +93,14 @@
                 class="gg"
                 src="~assets/CondottieroIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>(10)(<nuxt-link
-                to="/civs/Italians"
-                >義大利</nuxt-link
-              >和同盟限定)
+              /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+              >(10)(<nuxt-link to="/civs/Italians">義大利</nuxt-link>和同盟限定)
             </li>
             <li>
               <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                 to="/units/Woad_Raider"
-                >菘藍武士</nuxt-link>→
-              <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
+                >菘藍武士</nuxt-link
+              >→ <img class="gg" src="~assets/WBRSK.png" alt="" /><nuxt-link
                 to="/units/Woad_Raider"
                 >精銳菘藍武士</nuxt-link
               >(<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
@@ -110,8 +108,8 @@
             <li>
               <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                 to="/units/Throwing_Axeman"
-                >擲斧兵</nuxt-link>→
-              <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
+                >擲斧兵</nuxt-link
+              >→ <img class="gg" src="~assets/TAXEM.png" alt="" /><nuxt-link
                 to="/units/Throwing_Axeman"
                 >精銳擲斧兵</nuxt-link
               >(<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>限定)
@@ -119,7 +117,8 @@
             <li>
               <img class="gg" src="~assets/HuskarlIcon.png" alt="" /><nuxt-link
                 to="/units/Huskarl"
-                >哥德衛隊</nuxt-link>→
+                >哥德衛隊</nuxt-link
+              >→
               <img class="gg" src="~assets/HuskarlIcon.png" alt="" /><nuxt-link
                 to="/units/Huskarl"
                 >精銳哥德衛隊</nuxt-link
@@ -128,8 +127,8 @@
             <li>
               <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                 to="/units/Samurai"
-                >日本武士</nuxt-link>→
-              <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
+                >日本武士</nuxt-link
+              >→ <img class="gg" src="~assets/SMURI.png" alt="" /><nuxt-link
                 to="/units/Samurai"
                 >精銳日本武士</nuxt-link
               >(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)
@@ -150,8 +149,8 @@
             <li>
               <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                 to="/units/Berserk"
-                >狂戰士</nuxt-link>→
-              <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
+                >狂戰士</nuxt-link
+              >→ <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
                 to="/units/Berserk"
                 >精銳狂戰士</nuxt-link
               >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
@@ -170,18 +169,20 @@
               >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
             </li>
             <li>
-                <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><nuxt-link
                 to="/units/Kamayuk"
-                >槍隊長</nuxt-link>→
-                <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><nuxt-link
+                >槍隊長</nuxt-link
+              >→
+              <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><nuxt-link
                 to="/units/Kamayuk"
                 >精銳槍隊長</nuxt-link
               >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/GbetoIcon.png" alt="" /><nuxt-link
-                to="/units/Gbeto">飛刀女獵手</nuxt-link>→
-              <img class="gg" src="~assets/GbetoIcon.png" alt="" /><nuxt-link
+                to="/units/Gbeto"
+                >飛刀女獵手</nuxt-link
+              >→ <img class="gg" src="~assets/GbetoIcon.png" alt="" /><nuxt-link
                 to="/units/Gbeto"
                 >精銳飛刀女獵手</nuxt-link
               >(<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定)
@@ -189,7 +190,8 @@
             <li>
               <img class="gg" src="~assets/ShotelIcon.png" alt="" /><nuxt-link
                 to="/units/Shotel_Warrior"
-                >彎刀勇士</nuxt-link>→
+                >彎刀勇士</nuxt-link
+              >→
               <img class="gg" src="~assets/ShotelIcon.png" alt="" /><nuxt-link
                 to="/units/Shotel_Warrior"
                 >精銳彎刀勇士</nuxt-link
@@ -200,14 +202,12 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Karambit_Warrior"
-                >爪刀勇士</nuxt-link>→
+              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Karambit_Warrior"
-                >精銳爪刀勇士</nuxt-link
+              /><nuxt-link to="/units/Karambit_Warrior">精銳爪刀勇士</nuxt-link
               >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
             </li>
           </ul>
@@ -230,7 +230,7 @@
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.png"
+                      src="~assets/EliteCannonGalleonicon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
@@ -261,8 +261,8 @@
                     >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
                   </li>
                 </ul>
-                </div>
-                <div class="col-md-4">
+              </div>
+              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
                 <ul>
                   <li>
@@ -289,7 +289,7 @@
                     >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
                   </li>
                 </ul>
-                  <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
+                <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
                 <ul>
                   <li>
                     <img
@@ -302,7 +302,6 @@
                 </ul>
               </div>
               <div class="col-md-4">
-                
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
                 <ul>
                   <li>
@@ -326,10 +325,9 @@
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>
-                </div>
               </div>
             </div>
-
+          </div>
         </div>
         <h3>科技</h3>
         <div class="hrn1"></div>
