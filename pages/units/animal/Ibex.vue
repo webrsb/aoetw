@@ -22,7 +22,8 @@
           >，而是會用斥候趕回資源採集點，而趕野山羊的技巧對新手來說相當困難，必須練習再練習，不斷的練習。
         </p>
         <p>
-           野山羊通常出現在有雪且高山的地圖上，例如蒙古高原。由於其蒼白的外衣，鬍鬚和尖角，野山羊非常類似中亞的西伯利亞山羊（Capra sibirica)。
+          野山羊通常出現在有雪且高山的地圖上，例如蒙古高原。由於其蒼白的外衣，鬍鬚和尖角，野山羊非常類似中亞的西伯利亞山羊(Capra
+          sibirica)。
         </p>
         <h3>文明優勢</h3>
         <div class="hrn1"></div>
@@ -32,7 +33,8 @@
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:打獵速度快50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多獵取20%的肉量。
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+              >:額外多獵取20%的肉量。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:獵人攜帶量+15。
@@ -68,7 +70,10 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/AoE2DE_ingame_ibex_icon.png" width="80" alt="" />
+                <img
+                  src="~assets/AoE2DE_ingame_ibex_icon.png"
+                  alt=""
+                />
               </div>
             </td>
           </tr>
