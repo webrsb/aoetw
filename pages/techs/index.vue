@@ -937,7 +937,7 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/scale_barding_armor.png"
+                src="~assets/plate_barding_armor.png"
                 alt=""
               /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link>
             </td>

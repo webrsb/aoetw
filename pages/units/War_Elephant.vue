@@ -203,7 +203,7 @@
               >(+1/+1) <br />
               <img
                 class="gg"
-                src="~assets/scale_barding_armor.png"
+                src="~assets/plate_barding_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
