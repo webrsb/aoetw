@@ -24,8 +24,8 @@
                 to="/techs"
                 >科技</nuxt-link
               >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >花費便宜15%/20%。
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >時代花費便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：同樣使<nuxt-link
@@ -40,6 +40,16 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >：研發該科技不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
               >。
+            </li>
+          </ul>
+        </div>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠科技研發速度加快50%。
             </li>
           </ul>
         </div>
@@ -82,13 +92,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
+              <img class="gg" src="~assets/blacksmith.png" alt="" /><nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >
             </td>
           </tr>
           <tr>
