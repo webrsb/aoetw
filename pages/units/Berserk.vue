@@ -481,7 +481,7 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>狂戰士的移動速度是0.9。</li>
+            <li>狂戰士的移動速度是1.05。</li>
             <li>狂戰士的遠防為0。</li>
             <li>引進<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>
