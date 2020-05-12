@@ -135,7 +135,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><nuxt-link to="/tree/bul">立陶宛科技樹</nuxt-link></em>
+          <em><nuxt-link to="/tree/lit">立陶宛科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
