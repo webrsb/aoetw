@@ -363,6 +363,13 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
+              <img width="85" height="85" src="~assets/Steppelancericon.png" />
+              <div>
+                <nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link>
+              </div>
+              <i class="fas fa-arrow-down"></i>
+            </td>
+            <td class="t19 trm">
               <img class="ef" src="~assets/husbandry.png" alt="" />
               <div><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link></div>
             </td>
@@ -404,7 +411,18 @@
                 >
               </div>
             </td>
-            <td class="t19 trm"></td>
+            <td class="t19 trm">
+              <img
+                width="85"
+                height="85"
+                src="~assets/Elitesteppelancericon.png"
+              />
+              <div>
+                <nuxt-link to="/units/Elite_Steppe_Lancer"
+                  >精銳草原騎兵</nuxt-link
+                >
+              </div>
+            </td>
           </tr>
         </table>
 
