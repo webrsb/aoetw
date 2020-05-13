@@ -6,7 +6,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#a868b1;">
               <div class="unititle" style="color: #fff;">
-                <nuxt-link to="/units/animal">世紀帝國II的野生動物</nuxt-link>
+                <nuxt-link to="/units/animal">世紀帝國II的野生動物 </nuxt-link>
               </div>
             </td>
           </tr>
@@ -20,8 +20,7 @@
               <nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link>•
               <nuxt-link to="/units/animal/Rhinoceros">犀牛</nuxt-link>•
               <nuxt-link to="/units/animal/Wild_Boar">野豬</nuxt-link>•
-              <nuxt-link to="/units/animal/Zebra">斑馬</nuxt-link>           
-
+              <nuxt-link to="/units/animal/Zebra">斑馬</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -80,7 +79,7 @@
               <nuxt-link to="/units/animal/Hawk">鷹</nuxt-link>•
               <nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link>•
               <nuxt-link to="/units/animal/Seagulls">海鷗</nuxt-link>•
-              <nuxt-link to="/units/animal/Stork">鸛</nuxt-link>•              
+              <nuxt-link to="/units/animal/Stork">鸛</nuxt-link>•
               <nuxt-link to="/units/animal/Stormy_Dog">風暴狗</nuxt-link>•
               <nuxt-link to="/units/animal/Vulture">禿鷹</nuxt-link>
             </td>
@@ -92,7 +91,6 @@
               <nuxt-link to="/units/animal/Flaming_Camel">火焰駱駝</nuxt-link>•
               <nuxt-link to="/units/animal/Furious_the_Monkey_Boy">狂暴猴孩</nuxt-link>•
               <nuxt-link to="/units/animal/Penguin">企鵝</nuxt-link>
-              
             </td>
           </tr>
         </table>
