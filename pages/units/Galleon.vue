@@ -368,7 +368,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/dock.png"
+                      src="~assets/HarborIcon.png"
                       width="22"
                       alt=""
                     /><nuxt-link to="/building/Harbor">海港</nuxt-link
@@ -561,7 +561,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/dock.png"
+                    src="~assets/HarborIcon.png"
                     width="22"
                     alt=""
                   /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link
