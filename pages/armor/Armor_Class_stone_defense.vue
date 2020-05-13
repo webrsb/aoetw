@@ -136,7 +136,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/Battleelephanticon.png"
+                      src="~assets/EliteBattleelephanticon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Battle_Elephant"
                       >精銳矛象伕</nuxt-link
@@ -153,7 +153,7 @@
                     >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
                   </li>
                 </ul>
-                              </div>
+              </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
                 <ul>
@@ -211,7 +211,7 @@
                     >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                   </li>
                 </ul>
-                              </div>
+              </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
@@ -243,55 +243,57 @@
         <div class="n1">
           下方科技可讓以下單位擁有對建築單位的額外傷害，按照殺傷力排列。
           <div class="n1">
-          <div class="row">
+            <div class="row">
               <div class="col-md-4">
-              <img
-                class="gg"
-                src="~assets/sappers.png"
-                width="22"
-                alt=""
-              /><nuxt-link to="/techs/Sappers">兵工學</nuxt-link>
+                <img
+                  class="gg"
+                  src="~assets/sappers.png"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/techs/Sappers">兵工學</nuxt-link>
 
-            <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
-            <ul>
-              <li>
+                <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      style="margin: 2px;"
+                      src="~assets/VillagerMaleIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Villager">村民</nuxt-link>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-md-4">
                 <img
                   class="gg"
-                  style="margin: 2px;"
-                  src="~assets/VillagerMaleIcon.png"
+                  src="~assets/unique_tech.png"
+                  width="22"
                   alt=""
-                /><nuxt-link to="/units/Villager">村民</nuxt-link>
-              </li>
-            </ul>
+                /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+                >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
+                <ul>
+                  <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/ArcherIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Archer">弓兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/CrossbowmanIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/ArbalestIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
+                  </li>
+                </ul>
+              </div>
             </div>
-            <div class="col-md-4">
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                width="22"
-                alt=""
-              /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
-              >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
-            <ul>
-              <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
-              <li>
-                <img class="gg" src="~assets/ArcherIcon.png" alt="" /><nuxt-link
-                  to="/units/Archer"
-                  >弓兵</nuxt-link
-                >→
-                <img
-                  class="gg"
-                  src="~assets/CrossbowmanIcon.png"
-                  alt=""
-                /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>→
-                <img
-                  class="gg"
-                  src="~assets/ArbalestIcon.png"
-                  alt=""
-                /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
-              </li>
-            </ul>
-                        </div>
           </div>
         </div>
       </div>
