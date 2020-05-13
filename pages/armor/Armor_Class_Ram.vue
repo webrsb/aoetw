@@ -43,7 +43,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TrebuchetPackedIcon.png"
+                src="~assets/TrebuchetUnpackedIcon.jpg"
                 alt=""
               /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
             </li>
@@ -86,10 +86,11 @@
                     >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/WarGalley.png" alt="" /><nuxt-link
-                      to="/units/War_Galley"
-                      >弩砲戰船</nuxt-link
-                    >→
+                    <img
+                      class="gg"
+                      src="~assets/WarGalley.png"
+                      alt=""
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/GalleonAoE2.png"
@@ -176,15 +177,18 @@
                     >(<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定)
                   </li>
                   <li>
-              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
-                to="/units/Arambai"
-                >飛鏢騎兵</nuxt-link
-              >→
-              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
-                to="/units/Arambai"
-                >精銳飛鏢騎兵</nuxt-link
-              >(<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
-            </li>
+                    <img
+                      class="gg"
+                      src="~assets/Arambaiicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/Arambaiicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Arambai">精銳飛鏢騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
+                  </li>
                   <li>
                     <img
                       class="gg"
@@ -230,8 +234,7 @@
                   </li>
                 </ul>
               </div>
-              
-      </div>
+            </div>
           </div>
         </div>
       </div>
