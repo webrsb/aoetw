@@ -343,10 +343,11 @@
                     /><nuxt-link to="/building/Outpost">哨站</nuxt-link>:5
                   </li>
                   <li>
-                    <img class="gg" src="~assets/dock.png" alt="" /><nuxt-link
-                      to="/building/Harbor"
-                      >海港</nuxt-link
-                    >:19
+                    <img
+                      class="gg"
+                      src="~assets/HarborIcon.png"
+                      alt=""
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link>:19
                   </li>
                 </ul>
               </div>

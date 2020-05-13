@@ -235,9 +235,11 @@
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
-                    <img width="25px" src="~assets/dock.png" alt="" /><nuxt-link
-                      to="/building/Harbor"
-                      >海港</nuxt-link
+                    <img
+                      width="25px"
+                      src="~assets/HarborIcon.png"
+                      alt=""
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
                     >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>

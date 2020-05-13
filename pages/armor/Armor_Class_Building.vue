@@ -224,15 +224,21 @@
                   >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                 </li>
                 <li>
-                  <img class="gg" src="~assets/dock.png" alt="" /><nuxt-link
-                    to="/building/Harbor"
-                    >海港</nuxt-link
-                  >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
+                  <img
+                    class="gg"
+                    src="~assets/HarborIcon.png"
+                    alt=""
+                  /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link
+                    to="/civs/Malay"
+                    >馬來</nuxt-link
+                  >限定)
                 </li>
                 <li>
-                  <img class="gg" src="~assets/Kreposticon.png" alt="" /><nuxt-link
-                    to="/building/Krepost"
-                    >營壘</nuxt-link
+                  <img
+                    class="gg"
+                    src="~assets/Kreposticon.png"
+                    alt=""
+                  /><nuxt-link to="/building/Krepost">營壘</nuxt-link
                   >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
                 </li>
               </ul>

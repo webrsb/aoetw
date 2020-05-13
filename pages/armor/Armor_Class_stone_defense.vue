@@ -85,7 +85,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/dock.png"
+                src="~assets/HarborIcon.png"
                 alt=""
               /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link
                 to="/civs/Malay"
