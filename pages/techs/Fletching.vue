@@ -148,17 +148,21 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
-                to="/building/Castle"
-                >城堡</nuxt-link
-              >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-              >、<nuxt-link to="/units/Galley">戰船</nuxt-link>、<nuxt-link
-                to="/units/Longboat"
-                >維京大戰船</nuxt-link
-              >、卡拉維爾戰船、海港、營壘、戰矛兵、標槍騎兵和火炮塔+1攻擊和+1射程。<nuxt-link
-                to="/building/Town_Center"
+              讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >、城堡、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >、<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
+              >和<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
+              >、<nuxt-link to="/units/Elite_Caravel"
+                >精銳卡拉維爾戰船</nuxt-link
+              >、<nuxt-link to="/building/Harbor">海港</nuxt-link>、<nuxt-link
+                to="/building/Krepost"
+                >營壘</nuxt-link
+              >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >和<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+              >+1攻擊和+1射程；<nuxt-link to="/building/Town_Center"
                 >城鎮中心</nuxt-link
-              >攻擊和視野各+1。
+              >攻擊和<nuxt-link to="/los">視野</nuxt-link>各+1。
             </td>
           </tr>
         </table>
