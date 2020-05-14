@@ -38,6 +38,16 @@
             </li>
           </ul>
         </div>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠科技研發速度加快50%。
+            </li>
+          </ul>
+        </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -80,13 +90,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              <img class="gg" src="~assets/feudal_age.png" alt="" /><nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
+              <img class="gg" src="~assets/blacksmith.png" alt="" /><nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >
             </td>
           </tr>
           <tr>
