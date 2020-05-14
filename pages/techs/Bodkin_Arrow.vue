@@ -13,15 +13,21 @@
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             研發可讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >、<nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
-              to="/building/Watch_Tower"
-              >箭塔</nuxt-link
-            >、<nuxt-link to="/units/Galley">戰船</nuxt-link>和<nuxt-link
+            >、城堡、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            >、<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link>和<nuxt-link
               to="/units/Longboat"
               >維京大戰船</nuxt-link
-            >+1攻擊和+1射程。<nuxt-link to="/building/Town_Center"
+            >、<nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
+            >、<nuxt-link to="/building/Harbor">海港</nuxt-link>、<nuxt-link
+              to="/building/Krepost"
+              >營壘</nuxt-link
+            >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+            >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>和<nuxt-link
+              to="/building/Bombard_Tower"
+              >火砲塔</nuxt-link
+            >+1攻擊和+1射程；<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
-            >只有攻擊+1。
+            >攻擊和<nuxt-link to="/los.php">視野</nuxt-link>各+1。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -41,6 +47,16 @@
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >的科技花費只需<nuxt-link to="/resource/Food">食物</nuxt-link>。
+            </li>
+          </ul>
+        </div>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠科技研發速度加快50%。
             </li>
           </ul>
         </div>
@@ -147,9 +163,17 @@
               >、城堡、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
               >、<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
               >和<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
+              >、<nuxt-link to="/units/Elite_Caravel"
+                >精銳卡拉維爾戰船</nuxt-link
+              >、<nuxt-link to="/building/Harbor">海港</nuxt-link>、<nuxt-link
+                to="/building/Krepost"
+                >營壘</nuxt-link
+              >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >和<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >+1攻擊和+1射程；<nuxt-link to="/building/Town_Center"
                 >城鎮中心</nuxt-link
-              >只+1攻擊。
+              >攻擊和<nuxt-link to="/los">視野</nuxt-link>各+1。
             </td>
           </tr>
         </table>
