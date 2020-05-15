@@ -70,6 +70,29 @@
             </li>
           </ul>
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              最初聚居堡壘不只讓同盟城堡的工作效率提升25%，也讓柏柏玩家的城堡工作效率提升25%(總共提升56.25%)。4.8改版後聚居堡壘就只會柏柏玩家的城堡提升25%工作效率(不會疊加)
+            </li>
+          </ul>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
+              >》的<nuxt-link to="/techs/Paper_Money">紙幣</nuxt-link
+              >引進前，聚居堡壘是唯一可以共享的特殊科技。
+            </li>
+          </ul>
+        </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -152,7 +175,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">城堡工作速率快25%。</td>
+            <td class="unit4">同盟城堡工作速率快25%。</td>
           </tr>
         </table>
 
