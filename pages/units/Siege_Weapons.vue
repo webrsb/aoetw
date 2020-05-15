@@ -663,7 +663,7 @@
               <td class="tunitc6">
                 <img
                   class="gg"
-                  src="~assets/Siegeengineers.jpg"
+                  src="~assets/siege_engineers.png"
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>
               </td>

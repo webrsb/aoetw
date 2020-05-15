@@ -90,7 +90,7 @@
                     /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Loom.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/loom.png" alt="" /><nuxt-link
                       to="/techs/Loom"
                       >織布技術</nuxt-link
                     >
@@ -228,7 +228,7 @@
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Bracer.jpg"
+                  src="~assets/Bracer.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
@@ -268,7 +268,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Ballistics.jpg"
+                  src="~assets/ballistics.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
@@ -329,7 +329,7 @@
                 <br />
                 <img
                   class="gg"
-                  src="~assets/Bracer.jpg"
+                  src="~assets/Bracer.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
@@ -526,7 +526,8 @@
               >：在黑暗/封建/城堡/帝王時代的工作效率分別加快5%/10%/15%/20%。
             </li>
             <li>
-              (36906更新) <nuxt-link to="/civs/Persians">波斯</nuxt-link
+              (36906更新)
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：黑暗時代的5%工作效率被移除。
             </li>
           </ul>

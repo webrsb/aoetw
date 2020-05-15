@@ -34,10 +34,8 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
-                to="/techs/Padded_Archer_Armor"
-                >弓兵護甲</nuxt-link
-              >研發速度加快50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：弓兵護甲研發速度加快50%。
             </li>
           </ul>
         </div>

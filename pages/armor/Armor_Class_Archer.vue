@@ -306,13 +306,10 @@
                 to="/units/Kipchak"
                 >欽察</nuxt-link
               >→
-              <img
-                class="gg"
-                src="~assets/Kipchakicon.png"
-                alt=""
-              /><nuxt-link to="/units/Kipchak">精銳欽察</nuxt-link>(<nuxt-link
-                to="/civs/Cumans"
-                >庫曼</nuxt-link
+              <img class="gg" src="~assets/Kipchakicon.png" alt="" /><nuxt-link
+                to="/units/Kipchak"
+                >精銳欽察</nuxt-link
+              >(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
               >及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
                 >庫曼傭兵</nuxt-link
               >後同盟限定)

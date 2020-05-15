@@ -12,7 +12,7 @@
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
-            研發可讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            研發，可讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >、城堡、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >、<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link>和<nuxt-link
               to="/units/Longboat"
@@ -124,7 +124,7 @@
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Bracer.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/Bracer.png" alt="" /><nuxt-link
                 to="/techs/Bracer"
                 >強力護腕</nuxt-link
               >

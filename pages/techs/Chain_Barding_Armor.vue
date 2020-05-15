@@ -129,7 +129,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/Chainbardingarmor.jpg"
+                  src="~assets/chain_barding_armor.png"
                   class="img-fluid"
                   alt=""
                 />

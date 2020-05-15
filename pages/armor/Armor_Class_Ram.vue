@@ -43,7 +43,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/TrebuchetUnpackedIcon.jpg"
+                src="~assets/TrebuchetUnpackedIcon.png"
                 alt=""
               /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
             </li>

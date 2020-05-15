@@ -290,7 +290,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>
                   </li>
@@ -896,7 +896,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/Loom.jpg"
+                      src="~assets/loom.png"
                       alt=""
                     /><nuxt-link to="/techs/Loom">織布技術</nuxt-link>
                   </td>
@@ -1061,7 +1061,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/Chainbardingarmor.jpg"
+                      src="~assets/chain_barding_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Chain_Barding_Armor"
                       >鏈鎧甲</nuxt-link
@@ -1110,7 +1110,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/Chainmailarmor.jpg"
+                      src="~assets/chain_mail_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Chain_Mail_Armor"
                       >步兵鏈甲</nuxt-link

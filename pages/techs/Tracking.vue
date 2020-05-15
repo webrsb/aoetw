@@ -232,7 +232,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/Kamayuk_Icon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/Kamayuk_Icon.png" /><nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長(精銳)</nuxt-link
               >

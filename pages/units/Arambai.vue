@@ -190,7 +190,7 @@
           <tr>
             <td class="tta1" style="width:10%">命中率</td>
             <td class="tta4">
-              <img src="~assets/Ballistics.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/ballistics.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
               >:可提升<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link

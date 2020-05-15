@@ -56,7 +56,7 @@
                   <img class="gg" src="~assets/tracking.png" alt="" /><nuxt-link
                     to="/techs/Tracking"
                     >追蹤技術</nuxt-link
-                  >
+                  >(於封建時代自動擁有)
                 </li>
                 <li>
                   <img

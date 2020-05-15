@@ -620,7 +620,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Bracer.jpg"
+                  src="~assets/Bracer.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
@@ -678,7 +678,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Siegeengineers.jpg"
+                  src="~assets/siege_engineers.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link

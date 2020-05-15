@@ -38,7 +38,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Heavypikemanicon.jpg" width="80" alt="" />
+                <img src="~assets/Heavypikemanicon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

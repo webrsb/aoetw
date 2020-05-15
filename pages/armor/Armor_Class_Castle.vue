@@ -42,10 +42,11 @@
               >
             </li>
             <li>
-              <img width="25px" src="~assets/Kreposticon.png" alt="" /><nuxt-link
-                to="/building/Krepost"
-                >營壘</nuxt-link
-              >
+              <img
+                width="25px"
+                src="~assets/Kreposticon.png"
+                alt=""
+              /><nuxt-link to="/building/Krepost">營壘</nuxt-link>
             </li>
           </ul>
         </div>

@@ -138,7 +138,7 @@
               </p>
               <p>
                 <img
-                  src="~assets/Chainbardingarmor.jpg"
+                  src="~assets/chain_barding_armor.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link

@@ -231,7 +231,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Bracer.jpg"
+                src="~assets/Bracer.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
@@ -292,13 +292,13 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Bracer.jpg"
+                src="~assets/Bracer.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
-                src="~assets/Murderholes.jpg"
+                src="~assets/murder_holes.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link
@@ -320,7 +320,7 @@
           <tr>
             <td class="tta1">準確度</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Ballistics.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ballistics.png" alt="" /><nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
               >:較易擊中移動目標

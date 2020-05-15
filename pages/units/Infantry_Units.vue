@@ -801,7 +801,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/Kamayuk_Icon.jpg"
+                  src="~assets/Kamayuk_Icon.png"
                   alt=""
                 /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>
               </td>
@@ -824,7 +824,7 @@
               <td class="tta1">
                 <img
                   class="gg"
-                  src="~assets/Kamayuk_Icon.jpg"
+                  src="~assets/Kamayuk_Icon.png"
                   alt=""
                 /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link>
               </td>
@@ -1081,7 +1081,7 @@
               <td class="tunitc6">
                 <img
                   class="gg"
-                  src="~assets/Chainmailarmor.jpg"
+                  src="~assets/chain_mail_armor.png"
                   alt=""
                 /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link>
               </td>

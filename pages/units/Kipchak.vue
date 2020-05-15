@@ -160,7 +160,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Bracer.jpg"
+                src="~assets/Bracer.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
@@ -204,7 +204,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Bracer.jpg"
+                src="~assets/Bracer.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)<br />
@@ -233,7 +233,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Ballistics.jpg"
+                src="~assets/ballistics.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
@@ -426,7 +426,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
@@ -491,7 +491,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)

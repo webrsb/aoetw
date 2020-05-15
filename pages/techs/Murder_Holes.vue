@@ -155,7 +155,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Murderholes.jpg" class="img-fluid" alt="" />
+                <img src="~assets/murder_holes.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

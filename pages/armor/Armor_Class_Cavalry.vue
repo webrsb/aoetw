@@ -255,16 +255,13 @@
               >(-2)(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Konnikicon.png"
-                alt=""
-              /><nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>→
-              <img
-                class="gg"
-                src="~assets/Konnikicon.png"
-                alt=""
-              /><nuxt-link to="/units/Konnik">精銳保加利亞騎兵</nuxt-link
+              <img class="gg" src="~assets/Konnikicon.png" alt="" /><nuxt-link
+                to="/units/Konnik"
+                >保加利亞騎兵</nuxt-link
+              >→
+              <img class="gg" src="~assets/Konnikicon.png" alt="" /><nuxt-link
+                to="/units/Konnik"
+                >精銳保加利亞騎兵</nuxt-link
               >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
             </li>
           </ul>
@@ -370,7 +367,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
@@ -401,7 +398,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)

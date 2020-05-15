@@ -369,7 +369,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/Fortified-wall-research.jpg"
+                src="~assets/fortified_wall.png"
                 alt=""
               />200食物100木材
             </td>

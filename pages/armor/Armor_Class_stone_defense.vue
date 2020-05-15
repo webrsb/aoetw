@@ -136,7 +136,7 @@
                     <img
                       class="gg"
                       style="margin: 2px;"
-                      src="~assets/EliteBattleelephanticon.png"
+                      src="~assets/EliteBattleElephantIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Battle_Elephant"
                       >精銳矛象伕</nuxt-link

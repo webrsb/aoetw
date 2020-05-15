@@ -123,7 +123,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Bracer.jpg"
+                src="~assets/Bracer.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1) <br />
@@ -153,7 +153,7 @@
               <br />
               <img
                 class="gg"
-                src="~assets/Bracer.jpg"
+                src="~assets/Bracer.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>(+1)
@@ -164,7 +164,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Ballistics.jpg"
+                src="~assets/ballistics.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link

@@ -882,7 +882,7 @@
                   class="gg"
                   width="22"
                   style="margin: 2px;"
-                  src="~assets/Chainbardingarmor.jpg"
+                  src="~assets/chain_barding_armor.png"
                   alt=""
                 /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link>
               </td>

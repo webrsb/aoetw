@@ -300,7 +300,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/Fortified-wall-research.jpg"
+                  src="~assets/fortified_wall.png"
                   class="img-fluid"
                   alt=""
                 />

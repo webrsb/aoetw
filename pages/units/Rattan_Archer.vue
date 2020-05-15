@@ -106,7 +106,7 @@
                 to="/techs/Bodkin_Arrow"
                 >羽箭</nuxt-link
               >(+1) <br />
-              <img src="~assets/Bracer.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/Bracer.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Bracer"
                 >強力護腕</nuxt-link
               >(+1) <br />
@@ -127,7 +127,7 @@
                 to="/techs/Bodkin_Arrow"
                 >羽箭</nuxt-link
               >(+1) <br />
-              <img src="~assets/Bracer.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/Bracer.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Bracer"
                 >強力護腕</nuxt-link
               >(+1)
@@ -145,7 +145,7 @@
           <tr>
             <td class="tta1" style="width:10%">命中率</td>
             <td class="tta4">
-              <img src="~assets/Ballistics.jpg" class="gg" alt="" /><nuxt-link
+              <img src="~assets/ballistics.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
               >(對移動目標命中率上升) <br />

@@ -234,7 +234,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Siegeengineers.jpg"
+                src="~assets/siege_engineers.png"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link

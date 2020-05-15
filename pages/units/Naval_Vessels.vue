@@ -746,7 +746,7 @@
                 <img
                   class="gg"
                   style="margin: 2px;"
-                  src="~assets/Bracer.jpg"
+                  src="~assets/Bracer.png"
                   alt=""
                 /><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>
               </td>
@@ -761,7 +761,7 @@
                 <img
                   class="gg"
                   style="margin: 2px;"
-                  src="~assets/Ballistics.jpg"
+                  src="~assets/ballistics.png"
                   alt=""
                 /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>
               </td>

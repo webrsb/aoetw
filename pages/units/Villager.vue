@@ -690,7 +690,7 @@
               <div>
                 <img
                   class="gg"
-                  src="~assets/Loom.jpg"
+                  src="~assets/loom.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Loom">織布技術</nuxt-link>(+15)
@@ -764,7 +764,7 @@
               <div>
                 <img
                   class="gg"
-                  src="~assets/Loom.jpg"
+                  src="~assets/loom.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Loom">織布技術</nuxt-link>(+1/+2)
@@ -781,7 +781,7 @@
               <div>
                 <img
                   class="gg"
-                  src="~assets/Chainmailarmor.jpg"
+                  src="~assets/chain_mail_armor.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link

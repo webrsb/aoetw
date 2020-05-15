@@ -62,14 +62,14 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Fortified-wall-research.jpg"
+                      src="~assets/fortified_wall.png"
                       alt=""
                     /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Ballistics.jpg"
+                      src="~assets/ballistics.png"
                       alt=""
                     /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>
                   </li>
@@ -90,7 +90,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Murderholes.jpg"
+                      src="~assets/murder_holes.png"
                       alt=""
                     /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link>
                   </li>
@@ -129,7 +129,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Siegeengineers.jpg"
+                      src="~assets/siege_engineers.png"
                       alt=""
                     /><nuxt-link to="/techs/Siege_Engineers"
                       >攻城工程師</nuxt-link

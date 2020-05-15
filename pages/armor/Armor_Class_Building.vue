@@ -242,9 +242,11 @@
                   >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
                 </li>
                 <li>
-                  <img class="gg" src="~assets/Kreposticon.png" alt="" /><nuxt-link
-                    to="/building/Krepost"
-                    >營壘</nuxt-link
+                  <img
+                    class="gg"
+                    src="~assets/Kreposticon.png"
+                    alt=""
+                  /><nuxt-link to="/building/Krepost">營壘</nuxt-link
                   >(<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
                 </li>
               </ul>
@@ -608,7 +610,7 @@
               <p>
                 <img
                   class="gg"
-                  src="~assets/Siegeengineers.jpg"
+                  src="~assets/siege_engineers.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers"> 攻城工程師</nuxt-link>
@@ -684,7 +686,7 @@
               <p>
                 <img
                   class="gg"
-                  src="~assets/Siegeengineers.jpg"
+                  src="~assets/siege_engineers.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers"> 攻城工程師</nuxt-link>

@@ -102,7 +102,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Siegeengineers.jpg"
+                src="~assets/siege_engineers.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link

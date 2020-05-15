@@ -267,7 +267,7 @@
               </p>
               <p>
                 <img
-                  src="~assets/Chainmailarmor.jpg"
+                  src="~assets/chain_mail_armor.png"
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link

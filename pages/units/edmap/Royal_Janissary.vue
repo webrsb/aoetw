@@ -65,7 +65,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/Royal Janissary.jpg"
+                  src="~assets/Royal_JanissaryIcon.png"
                   class="img-fluid"
                   alt=""
                 />

@@ -403,7 +403,7 @@
               <td class="tta4">
                 <img
                   class="gg"
-                  src="~assets/Siegeengineers.jpg"
+                  src="~assets/siege_engineers.png"
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
                 >:對<nuxt-link to="/armor/Armor_Class_Building"
@@ -486,7 +486,7 @@
                     <li>
                       <img
                         class="gg"
-                        src="~assets/Kamayuk_Icon.jpg"
+                        src="~assets/Kamayuk_Icon.png"
                         alt=""
                       /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link
                       >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
@@ -526,7 +526,7 @@
                     <li>
                       <img
                         class="gg"
-                        src="~assets/Kamayuk_Icon.jpg"
+                        src="~assets/Kamayuk_Icon.png"
                         alt=""
                       /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
                       >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)

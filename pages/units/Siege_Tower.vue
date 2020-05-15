@@ -107,7 +107,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Siegeengineers.jpg"
+                src="~assets/siege_engineers.png"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
@@ -120,7 +120,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Ballistics.jpg"
+                src="~assets/ballistics.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link

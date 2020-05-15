@@ -17,7 +17,7 @@
             >蒐幫忙蒐集資源，港灣大商站每秒會給玩家1.6<nuxt-link
               to="/resource/Food"
               >食物</nuxt-link
-            >、11<nuxt-link to="/resource/Wood">木材</nuxt-link>、0.7<nuxt-link
+            >、1<nuxt-link to="/resource/Wood">木材</nuxt-link>、0.7<nuxt-link
               to="/resource/Gold"
               >黃金</nuxt-link
             >和0.3<nuxt-link to="/resource/Stone">石頭</nuxt-link

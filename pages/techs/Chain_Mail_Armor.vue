@@ -133,7 +133,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/Chainmailarmor.jpg"
+                  src="~assets/chain_mail_armor.png"
                   class="img-fluid"
                   alt=""
                 />

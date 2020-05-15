@@ -1744,7 +1744,7 @@
                         <td class="tunitc6">
                           <img
                             class="gg"
-                            src="~assets/Kamayuk_Icon.jpg"
+                            src="~assets/Kamayuk_Icon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Pachacuti"
                             >帕查庫特克</nuxt-link

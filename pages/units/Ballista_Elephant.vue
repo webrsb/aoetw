@@ -165,7 +165,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Siegeengineers.jpg"
+                src="~assets/siege_engineers.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
@@ -191,7 +191,7 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/Siegeengineers.jpg"
+                src="~assets/siege_engineers.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
@@ -210,7 +210,7 @@
               >(+1/+1) <br />
               <img
                 class="gg"
-                src="~assets/Chainbardingarmor.jpg"
+                src="~assets/chain_barding_armor.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link
@@ -338,7 +338,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
@@ -359,7 +359,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)

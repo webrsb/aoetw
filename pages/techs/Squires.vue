@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>護衛</h1>
+        <h1>護衛技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>護衛</b>於<nuxt-link to="/techs/age/Castle_Age"
+            <b>護衛技術</b>於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
@@ -115,7 +115,7 @@
             </li>
             <li>
               儘管<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >無法研發護衛，他們的步兵仍然是遊戲中最快的，因為塞爾特的<nuxt-link
+              >無法研發護衛技術，他們的步兵仍然是遊戲中最快的，因為塞爾特的<nuxt-link
                 to="/civs"
                 >文明</nuxt-link
               >加成提高了15%步兵移動速度
@@ -126,8 +126,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            下面列出所有受<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-            >影響的單位。
+            下面列出所有受護衛技術影響的單位。
           </p>
         </div>
         <table class="table-bordered" width="100%">
@@ -310,7 +309,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/Kamayuk_Icon.jpg" /><nuxt-link
+              <img class="gg" src="~assets/Kamayuk_Icon.png" /><nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長(精銳)</nuxt-link
               >
@@ -375,7 +374,7 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：<nuxt-link
                 to="/techs/Perfusion"
                 >井噴</nuxt-link
-              >讓護衛研發快100%
+              >讓護衛技術研發快100%
             </li>
           </ul>
         </div>
@@ -384,7 +383,8 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發護衛速度快20%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >：研發護衛技術速度快20%。
             </li>
           </ul>
         </div>
@@ -395,18 +395,20 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>護衛需要花費200食物。</li>
+            <li>護衛技術需要花費200食物。</li>
             <li>
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：不能研發護衛。
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+              >：不能研發護衛技術。
             </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>護衛需要花費100食物。</li>
+            <li>護衛技術需要花費100食物。</li>
             <li>
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：可以研發護衛了。
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+              >：可以研發護衛技術了。
             </li>
           </ul>
         </div>
@@ -423,7 +425,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">護衛</div>
+              <div class="unititle2">護衛技術</div>
             </td>
           </tr>
           <tr>

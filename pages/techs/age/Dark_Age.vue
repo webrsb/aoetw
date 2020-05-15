@@ -211,7 +211,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Loom.jpg"
+                  src="~assets/loom.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Loom">織布技術</nuxt-link

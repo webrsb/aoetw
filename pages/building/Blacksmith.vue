@@ -120,7 +120,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Chainbardingarmor.jpg"
+                      src="~assets/chain_barding_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Chain_Barding_Armor"
                       >鏈鎧甲</nuxt-link
@@ -129,7 +129,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Chainmailarmor.jpg"
+                      src="~assets/chain_mail_armor.png"
                       alt=""
                     /><nuxt-link to="/techs/Chain_Mail_Armor"
                       >步兵鏈甲</nuxt-link
@@ -154,7 +154,7 @@
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Bracer.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/Bracer.png" alt="" /><nuxt-link
                       to="/techs/Bracer"
                       >強力護腕</nuxt-link
                     >

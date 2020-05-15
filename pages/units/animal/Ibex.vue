@@ -70,10 +70,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/AoE2DE_ingame_ibex_icon.png"
-                  alt=""
-                />
+                <img src="~assets/AoE2DE_ingame_ibex_icon.png" alt="" />
               </div>
             </td>
           </tr>

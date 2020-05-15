@@ -517,8 +517,10 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li><nuxt-link to="/civs/Malay">馬來</nuxt-link
-                  >: 演進時代速度變為增快66%。</li>
+            <li>
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>:
+              演進時代速度變為增快66%。
+            </li>
             <li>(36906更新) 修正海港有時不受化學、垛孔，火箭影響的問題</li>
           </ul>
         </div>

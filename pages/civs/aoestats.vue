@@ -79,7 +79,7 @@ const civ_wrap = {
   Franks: { name: '法蘭克', img: require('@/assets/TAXEM.png') },
   Goths: { name: '哥德', img: require('@/assets/HuskarlIcon.png') },
   Huns: { name: '匈人', img: require('@/assets/TarkanIcon.png') },
-  Incas: { name: '印加', img: require('@/assets/Kamayuk_Icon.jpg') },
+  Incas: { name: '印加', img: require('@/assets/Kamayuk_Icon.png') },
   Indians: { name: '印度', img: require('@/assets/ElephantArcherIcon.png') },
   Italians: {
     name: '義大利',

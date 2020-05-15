@@ -128,12 +128,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/Kamayuk_Icon.jpg"
+                      src="~assets/Kamayuk_Icon.png"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)

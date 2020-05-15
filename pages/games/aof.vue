@@ -117,7 +117,7 @@
               >
             </li>
             <li>
-              <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><nuxt-link
+              <img class="gg" src="~assets/Kamayuk_Icon.png" alt="" /><nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
               >

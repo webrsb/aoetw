@@ -558,7 +558,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Ballistics.jpg"
+                  src="~assets/ballistics.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
@@ -578,7 +578,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Murderholes.jpg"
+                  src="~assets/murder_holes.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link
@@ -662,7 +662,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Chainmailarmor.jpg"
+                  src="~assets/chain_mail_armor.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link
@@ -690,7 +690,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/Chainbardingarmor.jpg"
+                  src="~assets/chain_barding_armor.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link

@@ -617,7 +617,7 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t23 trm">
-              <img class="gg" src="~assets/Loom.jpg" alt="" />
+              <img class="gg" src="~assets/loom.png" alt="" />
               <div><nuxt-link to="/techs/Loom">織布技術</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
@@ -1111,14 +1111,14 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Chainbardingarmor.jpg" alt="" />
+              <img class="gg" src="~assets/chain_barding_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Chain_Barding_Armor">鏈鎧甲</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Chainmailarmor.jpg" alt="" />
+              <img class="gg" src="~assets/chain_mail_armor.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Chain_Mail_Armor">步兵鏈甲</nuxt-link>
               </div>
@@ -1138,7 +1138,7 @@
               </div>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/Bracer.jpg" alt="" />
+              <img class="gg" src="~assets/Bracer.png" alt="" />
               <div><nuxt-link to="/techs/Bracer">強力護腕</nuxt-link></div>
             </td>
             <td class="t19 trm">
@@ -1352,17 +1352,13 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t11 trm">
-              <img
-                class="gg"
-                src="~assets/Fortified-wall-research.jpg"
-                alt=""
-              />
+              <img class="gg" src="~assets/fortified_wall.png" alt="" />
               <div>
                 <nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
               </div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Ballistics.jpg" alt="" />
+              <img class="gg" src="~assets/ballistics.png" alt="" />
               <div><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link></div>
             </td>
             <td class="t11 trm">
@@ -1377,7 +1373,7 @@
               <div><nuxt-link to="/techs/Heated_Shot">火箭</nuxt-link></div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Murderholes.jpg" alt="" />
+              <img class="gg" src="~assets/murder_holes.png" alt="" />
               <div><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link></div>
             </td>
             <td class="t11 trm">
@@ -1411,7 +1407,7 @@
               </div>
             </td>
             <td class="t11 trm">
-              <img class="gg" src="~assets/Siegeengineers.jpg" alt="" />
+              <img class="gg" src="~assets/siege_engineers.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>
               </div>

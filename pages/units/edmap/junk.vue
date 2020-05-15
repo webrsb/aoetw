@@ -44,7 +44,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Junkicon.jpg" width="80" alt="" />
+                <img src="~assets/Junkicon.png" width="80" alt="" />
               </div>
             </td>
           </tr>
