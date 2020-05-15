@@ -143,9 +143,28 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
+        <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
+          </div>
+          <div style="margin-left: 60px;">
+            網路上的擲矛器
+            <div style="margin-left: 10px;">
+              <i
+                ><strong
+                  ><a
+                    href="https://preppersurvivaltools.com/weapons-self-defense-products/non-firearm-projectile-weapons/spear-thower-atlatl/"
+                    target="_blank"
+                    >擲矛器歷史考察</a
+                  ></strong
+                ></i
+              >
+            </div>
+          </div>
+        </div>
       </div>
     </div>
+    <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
   </div>
 </template>
 <script>
