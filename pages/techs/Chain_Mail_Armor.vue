@@ -16,38 +16,110 @@
               >步兵護甲</nuxt-link
             >+1/+1。
           </p>
-        </div>
-        <h3>文明加成</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
-              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >花費便宜15%/20%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>：<nuxt-link
-                to="/units/Villager"
-                >村民</nuxt-link
-              >也獲得+1/+1護甲
-            </li>
-            <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：研發該科技不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >。
-            </li>
-          </ul>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <em
-            >"連接金屬鏈製成的鎖甲是鱗甲的改進。它有更好的一致性，並在受到衝擊時仍舊保有良好的保護作用。鱗甲在受到衝擊時鱗片可能會鬆動，但鎖甲仍舊可以保持完好。由於鎖鍊比鱗片更小的關係，鎖甲穿起來更加靈活且舒適。不過雖然鎖甲有諸多改進，但製造成本也更加昂貴和耗時。"</em
-          >
+          <h3>文明可研發與否</h3>
+          <div class="hrn1"></div>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="n1">
+                <h4>
+                  <strong
+                    ><i class="fas fa-check" style="color: green;"></i
+                    ><span style="margin-left: 2px;">可研發</span></strong
+                  >
+                </h4>
+                <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+                <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+                <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+                <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+                <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+                <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+                <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+                <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+                <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+                <nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+                <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+                <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+                <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+                <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+                <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+                <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+                <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+                <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+                <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+                <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+                <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+                <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+                <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+                <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+                <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+                <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+                <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+                <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+                <nuxt-link to="/civs/Viking">維京</nuxt-link>。
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="n1">
+                <h4>
+                  <strong
+                    ><i class="fas fa-times" style="color: #d9534f;"></i
+                    ><span style="margin-left: 2px;">不可研發</span></strong
+                  >
+                </h4>
+                <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>。
+              </div>
+            </div>
+          </div>
+          <h3>文明加成</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                  to="/techs"
+                  >科技</nuxt-link
+                >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+                >花費便宜15%/20%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Incas">印加</nuxt-link>：<nuxt-link
+                  to="/units/Villager"
+                  >村民</nuxt-link
+                >也獲得+1/+1護甲
+              </li>
+              <li>
+                <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+                >：研發該科技不需要<nuxt-link to="/resource/Gold"
+                  >黃金</nuxt-link
+                >。
+              </li>
+            </ul>
+          </div>
+          <h3>團隊加成</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                >：兵工廠科技研發速度加快50%。
+              </li>
+            </ul>
+          </div>
+          <h3>歷史</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em
+              >"連接金屬鏈製成的鎖甲是鱗甲的改進。它有更好的一致性，並在受到衝擊時仍舊保有良好的保護作用。鱗甲在受到衝擊時鱗片可能會鬆動，但鎖甲仍舊可以保持完好。由於鎖鍊比鱗片更小的關係，鎖甲穿起來更加靈活且舒適。不過雖然鎖甲有諸多改進，但製造成本也更加昂貴和耗時。"</em
+            >
+          </div>
         </div>
       </div>
       <div class="col-md-4">
