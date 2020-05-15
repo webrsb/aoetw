@@ -13,7 +13,7 @@
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >射程+1，<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            >(包含矛兵)射程+1，<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
             >攻擊+2。(<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>)
           </p>
         </div>
@@ -61,7 +61,7 @@
             <li>義勇騎兵只會影響箭塔的第一次攻擊。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>
