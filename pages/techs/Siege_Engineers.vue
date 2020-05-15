@@ -16,10 +16,37 @@
             >(包括<nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
             >)對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
             >傷害+20%(<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
-            >+200攻擊)，射程+1(除了<nuxt-link to="/units/Battering_Ram"
+            >+200攻擊；<nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link
+            >+40攻擊)，射程+1(除了<nuxt-link to="/units/Battering_Ram"
               >衝撞車</nuxt-link
             >)。
           </p>
+          <ul>
+            <li>
+              最遠射程<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >:<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>(<nuxt-link
+                to="/techs/Shinkichon"
+                >神機箭</nuxt-link
+              >:投石車射程+1；有攻城工程師)。
+            </li>
+            <li>
+              最遠射程弩炮:<nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >與其同盟(團隊加成:弩炮射程+1；有攻城工程師)。
+            </li>
+            <li>
+              最遠射程巨型投石機:<nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >(<nuxt-link to="/techs/Timurid_Siegecraft"
+                >帖木兒攻城術</nuxt-link
+              >:巨型投石機射程+2；有攻城工程師)。
+            </li>
+            <li>
+              最遠射程火炮戰船:<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >(<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>:<nuxt-link
+                to="/units/Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              >射程+2)。
+            </li>
+          </ul>
         </div>
         <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
@@ -32,37 +59,29 @@
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-                to="/civs/Berbers"
-                >柏柏</nuxt-link
-              >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
-                to="/civs/Burmese"
-                >緬甸</nuxt-link
-              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
-              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                to="/civs/Japanese"
-                >日本</nuxt-link
-              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
-                to="/civs/Koreans"
-                >朝鮮</nuxt-link
-              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
-                to="/civs/Malay"
-                >馬來</nuxt-link
-              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
-                to="/civs/Portuguese"
-                >葡萄牙</nuxt-link
-              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
-                to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
-                to="/civs/Vietnamese"
-                >越南</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Viking">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -75,22 +94,18 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
-                to="/civs/Chinese"
-                >中國</nuxt-link
-              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
-                to="/civs/Huns"
-                >匈人</nuxt-link
-              >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
-                to="/civs/Malians"
-                >馬利</nuxt-link
-              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
-                to="/civs/Persians"
-                >波斯</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Turks"
-                >土耳其</nuxt-link
-              >。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>。
             </div>
           </div>
         </div>
