@@ -14,7 +14,7 @@
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
-            >護甲+1近戰護甲/+1<nuxt-link to="/armor">遠程護甲</nuxt-link>。
+            >護甲+1近戰護甲及+1<nuxt-link to="/armor">遠程護甲</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,8 +26,8 @@
               >有+1/+1防禦，可以有更高的耐受度與續戰力。由於<nuxt-link
                 to="/civs/Burmese"
                 >緬甸</nuxt-link
-              >有全滿<nuxt-link to="/techs">科技</nuxt-link
-              >的矛象伕(除了<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
+              >有所有矛象伕需要的<nuxt-link to="/techs">科技</nuxt-link
+              >(除了<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
               >)，這讓矛象伕的作戰能力更上層樓。象轎研發不需要<nuxt-link
                 to="/resource/Gold"
                 >黃金</nuxt-link
@@ -68,7 +68,7 @@
           </h3>
           <ul>
             <li>
-              最初成本為：200F/300W，並提供+1/+2的防禦，5.7版後成本為400F/300W，並提供+1/+1的防禦。
+              最初成本為：200食物/300木材，並提供+1/+2的防禦，5.7版後成本為400食物/300木材，並提供+1/+1的防禦。
             </li>
           </ul>
         </div>
