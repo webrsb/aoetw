@@ -36,6 +36,16 @@
             </li>
           </ul>
         </div>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠科技研發速度加快50%。
+            </li>
+          </ul>
+        </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
