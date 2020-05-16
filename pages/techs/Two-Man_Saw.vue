@@ -132,7 +132,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2">
-                <nuxt-link to="/techs/Double-Bit_Axe">雙面斧</nuxt-link>
+                雙人鋸
               </div>
             </td>
           </tr>
