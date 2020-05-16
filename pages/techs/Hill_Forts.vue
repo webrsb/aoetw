@@ -44,6 +44,15 @@
             </li>
           </ul>
         </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+							世紀帝國II首次發佈時，條頓人擁有類似山城堡效果的城鎮中心射程範圍+5的免費獎勵。 但是自從《世紀帝國II:征服者入侵》發布後該獎勵就被刪除了。
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
