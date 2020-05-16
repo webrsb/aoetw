@@ -9,7 +9,7 @@
     "dev-debug": "node --max-old-space-size=4096 --inspect node_modules/nuxt/bin/nuxt",
     "build": "nuxt build",
     "start": "cross-env NODE_ENV=production node server/index.js",
-    "generate": "nuxt generate",
+    "generate": "node --max_old_space_size=4096 ./node_modules/.bin/nuxt generate",
     "format-code": "prettier --write \"pages/**/*.js\" \"pages/**/*.vue\""
   },
   "dependencies": {
