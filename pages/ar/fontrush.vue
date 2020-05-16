@@ -184,7 +184,7 @@
             <td colspan="2">
               <div class="unititle">
                 <nuxt-link to="/units/Skirmisher"
-                  ><img src="~assets/SkirmisherIcon.png" width="45" alt="" />
+                  ><img src="~assets/SkirmisherIcon.png" alt="" />
                 </nuxt-link>
               </div>
             </td>

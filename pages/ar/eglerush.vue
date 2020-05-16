@@ -168,7 +168,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="45px" src="~assets/EagleScoutIcon.png" alt="" />
+                <img src="~assets/EagleScoutIcon.png" alt="" />
               </div>
             </td>
           </tr>

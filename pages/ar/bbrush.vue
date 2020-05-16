@@ -24,7 +24,7 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/MilitiaIcon.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/MilitiaIcon.png" alt="" /><nuxt-link
                 to="/units/Militia"
                 >民兵</nuxt-link
               >：<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
@@ -117,11 +117,9 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
-              <div class="col-md-4">
-                <h4>
-                  <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>高手hoang485
-                  <br />黑暗民兵爆<br />vs中國超高小凡
-                </h4>
+              <div class="col-md-6">
+                <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+                >高手hoang485黑暗民兵爆vs中國超高小凡
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/5emOpUECoVc"
@@ -146,11 +144,10 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  width="45"
-                  src="~assets/MilitiaIcon.png"
-                  alt=""
-                /><nuxt-link to="/units/Militia">民兵</nuxt-link>
+                <img src="~assets/MilitiaIcon.png" alt="" /><nuxt-link
+                  to="/units/Militia"
+                  >民兵</nuxt-link
+                >
               </div>
             </td>
           </tr>

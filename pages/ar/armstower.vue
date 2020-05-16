@@ -279,8 +279,8 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="45px" src="~assets/ManAtArmsIcon.png" alt="" />
-                <img width="45px" src="~assets/tower.png" alt="" />
+                <img width="120px" src="~assets/ManAtArmsIcon.png" alt="" />
+                <img width="120px" src="~assets/tower.png" alt="" />
               </div>
             </td>
           </tr>

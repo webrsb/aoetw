@@ -23,7 +23,7 @@
           </p>
           <ul>
             <li>
-              <img src="~assets/ArcherIcon.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/ArcherIcon.png" alt="" /><nuxt-link
                 to="/units/Archer"
                 >弓兵</nuxt-link
               >:俗稱小弓，<nuxt-link to="/techs/age/Feudal_Age"
@@ -200,7 +200,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="45" src="~assets/ArcherIcon.png" alt="" /><nuxt-link
+                <img src="~assets/ArcherIcon.png" alt="" /><nuxt-link
                   to="/units/Archer"
                 ></nuxt-link>
               </div>
