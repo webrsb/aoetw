@@ -214,7 +214,7 @@
               <gallery
                 ><img
                   class="imgn hg"
-                  src="~assets/Portuguese_preview.jpg"
+                  src="~assets/WonderLithuanians.jpg"
                   alt=""
               /></gallery>
               <p><em>立陶宛世界奇觀 特拉凱城堡</em></p>
@@ -239,7 +239,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Belem.jpg" width="250" alt="" />
+                <img src="~assets/Traku-pilis_trakaimuziejus.lt_.jpg" width="250" alt="" />
                 <p><em>位於立陶宛特拉凱省的特拉凱城堡</em></p>
               </div>
             </td>
