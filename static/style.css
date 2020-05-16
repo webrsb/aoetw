@@ -270,6 +270,8 @@ body {
 .gg{
   margin: 2px;
   width: 22px;
+  position: relative;
+  top: -2px;
 }
 .hg{
   width: 250px;
@@ -318,4 +320,10 @@ hr {
 .oh {
   width: 85px;
   height: 85px;
+}
+h1>img {
+  position: relative;
+  margin-bottom: -70px;
+  margin-right: 10px;
+  top: -41px;
 }

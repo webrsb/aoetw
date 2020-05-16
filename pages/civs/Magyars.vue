@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>馬扎爾</h1>
+        <h1><img src="~assets/magyars.png" />馬扎爾</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">

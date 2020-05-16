@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>阿茲特克</h1>
+        <h1><img src="~assets/aztecs.png" />阿茲特克</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -175,7 +175,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/330px-Jal-ixco.jpg" width="300px" alt="" />
+                <img src="~assets/330px-Jal-ixco.jpg" width="100%" alt="" />
                 <p>
                   <em
                     ><nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link

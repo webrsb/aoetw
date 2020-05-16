@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>斯拉夫</h1>
+        <h1><img src="~assets/slavs.png" />斯拉夫</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
