@@ -219,16 +219,13 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/U1guesG.jpg"
-                  alt=""
+                ><img class="imgn hg" src="~assets/U1guesG.jpg" alt=""
               /></gallery>
               <p><em>保加利亞世界奇觀 普雷斯拉夫圓頂教堂</em></p>
             </div>
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/krepost.png" alt=""
+                ><img class="imgn hg" src="~assets/Kreposticon.png" alt=""
               /></gallery>
               <p><em>保加利亞特殊建築:營壘</em></p>
             </div>
@@ -289,7 +286,7 @@
           <tr>
             <td class="unit3">特殊建築</td>
             <td class="unit4">
-              <img class="gg" src="~assets/kreposticon.png" /><nuxt-link
+              <img class="gg" src="~assets/Kreposticon.png" /><nuxt-link
                 to="/building/Krepost"
                 >營壘</nuxt-link
               >
