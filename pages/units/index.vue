@@ -415,6 +415,17 @@
               </div>
             </td>
           </tr>
+          <tr>
+            <td>
+              <div class="unitcontent">
+                <img class="gg" src="~assets/Xolotlicon.png" alt="" /><nuxt-link
+                  to="/units/Xolotl_Warrior"
+                  >索洛托勇士</nuxt-link
+                >
+                (限南美文明)
+              </div>
+            </td>
+          </tr>
         </table>
       </div>
       <div class="col-md-4">

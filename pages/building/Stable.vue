@@ -8,14 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <b>馬廄</b>是生產<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-          >與升級騎兵的<nuxt-link to="/building">建築</nuxt-link>。
-          <br />除<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>，<nuxt-link
-            to="/civs/Incas"
-            >印加</nuxt-link
-          >和<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>之外，所有<nuxt-link
-            to="/civs"
-            >文明</nuxt-link
-          >都有馬廄。
+          >與升級騎兵的<nuxt-link to="/building">建築</nuxt-link>。除<nuxt-link
+            to="/civs/Aztecs"
+            >阿茲特克</nuxt-link
+          >，<nuxt-link to="/civs/Incas">印加</nuxt-link>和<nuxt-link
+            to="/civs/Mayans"
+            >馬雅</nuxt-link
+          >之外，所有<nuxt-link to="/civs">文明</nuxt-link
+          >都有馬廄，但他們可以透過招降馬廄在<nuxt-link
+            to="/techs/age/Castle_Age"
+            >城堡時代</nuxt-link
+          >生產<nuxt-link to="/units/Xolotl_Warrior">索洛托勇士</nuxt-link>。
         </div>
         <h3>可訓練的單位與技術</h3>
         <div class="hrn1"></div>
@@ -65,6 +68,13 @@
                     to="/units/Camel"
                     >駱駝騎兵</nuxt-link
                   >
+                </li>
+                <li>
+                  <img
+                    class="gg"
+                    src="~assets/Xolotlicon.png"
+                    alt=""
+                  /><nuxt-link to="/units/Xolotl_Warrior">索洛托勇士</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -365,6 +375,16 @@
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：引入<nuxt-link
                 to="/techs/Marauders"
                 >掠奪者</nuxt-link
+              >。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              南美文明：引入<nuxt-link to="/units/Xolotl_Warrior"
+                >索洛托勇士</nuxt-link
               >。
             </li>
           </ul>
