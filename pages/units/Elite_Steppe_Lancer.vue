@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>草原騎兵</h1>
+        <h1>精銳草原騎兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -27,38 +27,50 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            草原騎兵適合團體和隘口上作戰，因為他們有1的射程可以攻擊到同伴身後的敵人，就像<nuxt-link
-              to="/civs/Incas"
-              >印加</nuxt-link
-            >的<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>一樣。
+            精銳草原騎兵適合團體和隘口上作戰，因為他們有1的射程可以攻擊到同伴身後的敵人。
           </p>
           <p>
-            草原騎兵的攻擊範圍可讓他們打到城牆後的敵人，所以用於城牆上的進攻防守都十分好用，對來犯的<nuxt-link
+            精銳草原騎兵的攻擊範圍可讓他們打到城牆後的敵人，所以用於城牆上的進攻防守都十分好用，對來犯的<nuxt-link
               to="/units/Battering_Ram"
               >衝撞車</nuxt-link
             >也能有效且安全的摧毀它們。
           </p>
           <p>
-            草原騎兵可以被視為中型騎兵，因為他們的基本屬性和成本都位於<nuxt-link
+            精銳草原騎兵可以被視為中型騎兵，因為他們的基本屬性和成本都位於<nuxt-link
               to="/units/Knight"
-              >騎士</nuxt-link
-            >和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>之間。
+              >騎兵</nuxt-link
+            >系和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>系之間。
           </p>
           <p>
-            精銳草原騎兵雖在一對一中擊敗不了騎士，但在同等資源的情況下，一群草原騎兵有可能相同數量的騎士，因為他們的<nuxt-link
+            精銳草原騎兵雖在一對一中擊敗不了騎士，但在同等資源的情況下，一群精銳草原騎兵有可能相同數量的騎士，因為他們的<nuxt-link
               to="/resource/Gold"
               >黃金</nuxt-link
-            >成本更便宜，還可以攻擊到同伴身後的敵人。
+            >成本更便宜，還可以攻擊到同伴身後的敵人。並可以與各種垃圾兵配合，因為精銳草原騎兵的射速能使垃圾兵自動在精銳草原騎兵與敵方單位之間形成緩衝。
           </p>
           <p>
-            精銳草原騎兵能與庫曼、蒙古、韃靼的<nuxt-link
-              to="/units/Cavalry_Archer"
-              >馬弓騎兵</nuxt-link
+            精銳草原騎兵能與<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+            >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
+              to="/civs/Tatars"
+              >韃靼</nuxt-link
+            >的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >/<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>/<nuxt-link
               to="/units/Mangudai"
               >蒙古突騎</nuxt-link
             >/<nuxt-link to="/units/Kipchaks">欽察</nuxt-link
             >組成不錯的軍隊，因為這三個文明在輕騎兵和馬弓騎兵上都有文明和科技加成。
+          </p>
+          <p>
+            精銳草原騎兵是最便宜的非垃圾非特殊單位的近戰騎兵，這使他們在對付垃圾兵（<nuxt-link
+              to="/units/Halberdier"
+              >戟兵</nuxt-link
+            >，<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+            >和<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
+            >）時也具有成本效益（就算是對付戟兵，也能利用其射程取得優勢），在大後期時可被視為"垃圾兵殺手"，這對<nuxt-link
+              to="/civs/Tatars"
+              >韃靼</nuxt-link
+            >人十分重要，因為他們缺乏良好的<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >。
           </p>
           <p>
             對抗精銳草原騎兵最好是使用駱駝部隊（尤其是<nuxt-link
@@ -69,10 +81,10 @@
               to="/units/Genoese_Crossbowman"
               >熱那亞弩手</nuxt-link
             >。另外，大量的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >和擁有<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-            >科技的<nuxt-link to="/civs/Vikings">維京</nuxt-link
+            >和已研發<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
+            ><nuxt-link to="/civs/Vikings">維京</nuxt-link
             ><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-            >也能對精銳草原騎兵構成威脅。與其他騎兵單位相比，精銳草原騎兵的低遠防使其更容易受到<nuxt-link
+            >也會對精銳草原騎兵構成威脅。與其他騎兵單位相比，精銳草原騎兵的低遠防使其更容易受到<nuxt-link
               to="/units/Archer_Units"
               >遠距離單位</nuxt-link
             >和防禦建築的傷害。
@@ -430,7 +442,7 @@
             </div>
           </div>
           以下科技可讓以下單位對<nuxt-link to="/units/Scout_Cavalry"
-            >草原騎兵</nuxt-link
+            >精銳草原騎兵</nuxt-link
           >有額外攻擊力
           <div class="n1">
             <img
@@ -549,7 +561,7 @@
               >提升精銳草原騎兵護甲和攻擊的科技研發快50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：精銳草原騎兵生產效率和升級快20%，<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
@@ -576,24 +588,26 @@
           </h3>
           <ul>
             <li>
-              起初，草原騎兵成本為70F/30G，攻擊力12，攻速1.9，移動速度1.5。34055更新後
-              草原騎兵成本改為70F/45G，攻擊力改為8，攻速改為2.3，移動速度改為1.45。
+              起初，精銳草原騎兵成本為70F/30G，攻擊力12，攻速1.9，移動速度1.5。
             </li>
             <li>
-              最初草原騎兵的堆疊尺寸很小，讓他們可以堆疊在一起。34055更新後堆疊尺寸增加一倍
+              (34055更新)
+              精銳草原騎兵成本改為70F/45G，攻擊力改為10，攻速改為2.3，移動速度改為1.45。
             </li>
+            <li>(34055更新) 堆疊尺寸增加一倍。</li>
             <li>
-              35584更新後<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >可以訓練草原騎兵。
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >(35584更新)：可以訓練精銳草原騎兵。
             </li>
-            <li>36202更新後精銳草原騎兵攻擊力改為11。</li>
+            <li>(36202更新) 精銳草原騎兵攻擊力改為11。</li>
             <li>
-              36202更新精銳草原騎兵受益於<nuxt-link to="/techs/Steppe_Husbandry"
+              (36202更新) 精銳草原騎兵受益於<nuxt-link
+                to="/techs/Steppe_Husbandry"
                 >大草原耕種技術</nuxt-link
               >。
             </li>
             <li>
-              36202更新草原騎兵受益於<nuxt-link to="/techs/Silk_Armor"
+              (36202更新) 精銳草原騎兵受益於<nuxt-link to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
               >。
             </li>
@@ -678,15 +692,17 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link><br />
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link><br />
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link><br /><nuxt-link
+                to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >
+              <br /><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >
@@ -784,7 +800,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝! 此頁面由協助編輯</div>
+        <div class="thanks">感謝! 此頁面由singsing612協助編輯</div>
       </div>
     </div>
   </div>

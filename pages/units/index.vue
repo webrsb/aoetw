@@ -388,6 +388,24 @@
               <div class="unitcontent">
                 <img
                   class="gg"
+                  src="~assets/Steppelancericon.png"
+                  alt=""
+                /><nuxt-link to="/units/Steppe_Lance">草原騎兵r</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/Elitesteppelancericon.png"
+                  alt=""
+                /><nuxt-link to="/units/Elite_Steppe_Lancer"
+                  >精銳草原騎兵</nuxt-link
+                >
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <div class="unitcontent">
+                <img
+                  class="gg"
                   src="~assets/Battleelephanticon.png"
                   alt=""
                 /><nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>→

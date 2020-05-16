@@ -72,6 +72,12 @@
                 <li>
                   <img
                     class="gg"
+                    src="~assets/Steppelancericon.png"
+                  /><nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link>
+                </li>
+                <li>
+                  <img
+                    class="gg"
                     src="~assets/Xolotlicon.png"
                     alt=""
                   /><nuxt-link to="/units/Xolotl_Warrior">索洛托勇士</nuxt-link>
@@ -128,6 +134,14 @@
                     src="~assets/ImperialCamelIcon.png"
                   /><nuxt-link to="/units/Imperial_Camel"
                     >帝王駱駝騎兵</nuxt-link
+                  >
+                </li>
+                <li>
+                  <img
+                    class="gg"
+                    src="~assets/Elitesteppelancericon.png"
+                  /><nuxt-link to="/units/Elite_Steppe_Lancer"
+                    >精銳草原騎兵</nuxt-link
                   >
                 </li>
                 <li>

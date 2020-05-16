@@ -185,8 +185,7 @@
             <li>
               文明加成中駐守遺跡的上限為5，並且影響所有騎兵。
             </li>
-            <li
-            i>
+            <li>
               (34055更新) 駐守遺跡上限降為4且不再影響<nuxt-link
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
@@ -212,10 +211,7 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/WonderLithuanians.jpg"
-                  alt=""
+                ><img class="imgn hg" src="~assets/WonderLithuanians.jpg" alt=""
               /></gallery>
               <p><em>立陶宛世界奇觀 特拉凱城堡</em></p>
             </div>
@@ -239,7 +235,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Traku-pilis_trakaimuziejus.lt_.jpg" width="250" alt="" />
+                <img
+                  src="~assets/Traku-pilis_trakaimuziejus.lt_.jpg"
+                  width="250"
+                  alt=""
+                />
                 <p><em>位於立陶宛特拉凱省的特拉凱城堡</em></p>
               </div>
             </td>
