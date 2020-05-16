@@ -707,7 +707,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .editer {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
@@ -721,8 +721,15 @@ export default {
   background-color: #fff;
 }
 
-.nav nav-tabs {
+.tabs > div:first-of-type {
   position: fixed;
+  background-color: #f5f5f5;
+  z-index: 300;
+  width: 100%;
+}
+
+.tab-content {
+  padding-top: 46px;
 }
 
 .flip-move {
