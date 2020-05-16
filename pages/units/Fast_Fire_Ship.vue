@@ -752,7 +752,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/FireShipIcon.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/FastFireShipIcon.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

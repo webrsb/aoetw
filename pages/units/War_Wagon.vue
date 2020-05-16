@@ -329,7 +329,7 @@
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.png"
+                      src="~assets/Elite_cannon_galleonicon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link

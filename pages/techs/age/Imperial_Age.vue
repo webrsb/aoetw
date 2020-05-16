@@ -389,7 +389,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/CannonGalleonIcon.png"
+                src="~assets/Elite_cannon_galleonicon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Elite_Cannon_Galleon"

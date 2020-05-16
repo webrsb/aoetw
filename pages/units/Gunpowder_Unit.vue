@@ -183,8 +183,10 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CannonGalleonIcon.png" /><nuxt-link
-                  to="/units/Elite_Cannon_Galleon"
+                <img
+                  class="gg"
+                  src="~assets/Elite_cannon_galleonicon.png"
+                /><nuxt-link to="/units/Elite_Cannon_Galleon"
                   >精銳火砲戰船</nuxt-link
                 >
               </td>

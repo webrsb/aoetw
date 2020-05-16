@@ -277,7 +277,7 @@
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.png"
+                      src="~assets/Elite_cannon_galleonicon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
@@ -769,11 +769,7 @@
           <tr>
             <td class="unit3">升級成本</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/cavaliers.png"
-                alt=""
-              />300食物300黃金
+              <img class="gg" src="~assets/Cavalier.png" alt="" />300食物300黃金
             </td>
           </tr>
           <tr>

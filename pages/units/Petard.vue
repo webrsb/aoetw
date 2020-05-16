@@ -332,7 +332,7 @@
                     >→
                     <img
                       class="gg"
-                      src="~assets/CannonGalleonIcon.png"
+                      src="~assets/Elite_cannon_galleonicon.png"
                       alt=""
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
@@ -520,7 +520,7 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Petard.png" alt=""
+                ><img class="imgn hg" src="~assets/Petards.png" alt=""
               /></gallery>
               <p><em>一群炸藥桶</em></p>
             </div>
