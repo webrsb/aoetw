@@ -1,5 +1,5 @@
 <template>
-  <b-tabs @input="tabChangeEvent">
+  <b-tabs class="play" @input="tabChangeEvent">
     <b-tab title="程式碼" active>
       <div class="editer">
         <div>
@@ -721,7 +721,7 @@ export default {
   background-color: #fff;
 }
 
-.tabs > div:first-of-type {
+.play.tabs > div:first-of-type {
   position: fixed;
   background-color: #f5f5f5;
   z-index: 300;

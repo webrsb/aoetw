@@ -881,7 +881,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >

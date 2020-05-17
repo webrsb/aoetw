@@ -390,7 +390,7 @@
                   class="gg"
                   src="~assets/Steppelancericon.png"
                   alt=""
-                /><nuxt-link to="/units/Steppe_Lance">草原騎兵r</nuxt-link>→
+                /><nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/Elitesteppelancericon.png"
@@ -950,6 +950,27 @@
                       src="~assets/Kipchakicon.png"
                       alt=""
                     /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Keshikicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Keshik">怯薛</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Konnikicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Flaming_camel_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
                   </div>
                 </b-card>
               </b-collapse>

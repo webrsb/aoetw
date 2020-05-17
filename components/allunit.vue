@@ -158,7 +158,9 @@
                   <br />
                   <nuxt-link to="/units/Berserk">狂戰士</nuxt-link>
                   <br />
-                  <nuxt-link to="/units/Leitis">烈提司</nuxt-link>
+                  <nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>
+                  <br />
+                  <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link><br />
@@ -179,7 +181,7 @@
                     >熱那亞弩手</nuxt-link
                   ><br />
                   <nuxt-link to="/units/Keshik">怯薛</nuxt-link><br />
-                  <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
+                  <nuxt-link to="/units/Leitis">烈堤司</nuxt-link>
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link
@@ -199,10 +201,8 @@
                   ><br />
                   <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
                   ><br />
-                  <nuxt-link to="/units/Leitis">烈堤司</nuxt-link
-                  ><br />
-                  <nuxt-link to="/units/Kipchak">欽察</nuxt-link
-                  ><br />
+                  <nuxt-link to="/units/Kipchak">欽察</nuxt-link><br />
+                  <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link><br />
                   <nuxt-link to="/units/Imperial_Skirmisher"
                     >帝王戰矛兵</nuxt-link
                   >
