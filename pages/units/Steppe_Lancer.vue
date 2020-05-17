@@ -623,7 +623,7 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Steppelancers.png" alt=""
+                ><img class="imgn hg" src="~assets/Steppelancers.jpg" alt=""
               /></gallery>
               <p><em>一群草原騎兵。</em></p>
             </div>

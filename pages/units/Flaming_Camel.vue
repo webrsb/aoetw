@@ -237,7 +237,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Krepost.png"
+                      src="~assets/Krepost.jpg"
                       alt=""
                     /><nuxt-link to="/building/Krepost">營壘</nuxt-link>:33
                   </li>

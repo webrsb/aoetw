@@ -289,7 +289,7 @@
             </div>
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/HarboraoeII.png" alt=""
+                ><img class="imgn hg" src="~assets/HarboraoeII.jpg" alt=""
               /></gallery>
               <p>
                 <em>海港外觀圖</em>

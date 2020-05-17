@@ -496,7 +496,7 @@
       <div class="n1">
         <div class="col-md-4">
           <gallery
-            ><img class="imgn hg" width="180" src="~assets/Krepost.png" alt=""
+            ><img class="imgn hg" width="180" src="~assets/Krepost.jpg" alt=""
           /></gallery>
           <div class="lightbox-caption" style="width:220px">
             <p><em>遊戲中的營壘。</em></p>

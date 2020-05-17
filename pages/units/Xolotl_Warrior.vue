@@ -520,7 +520,7 @@
               <gallery
                 ><img
                   class="imgn hg"
-                  src="~assets/In-game_Xolotl_Warrior.png"
+                  src="~assets/In-game_Xolotl_Warrior.jpg"
                   alt=""
               /></gallery>
               <p>
@@ -529,7 +529,7 @@
             </div>
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/Xolotl.png" alt=""
+                ><img class="imgn hg" src="~assets/Xolotl.jpg" alt=""
               /></gallery>
               <p>
                 <em>索洛托勇士和一般騎士。</em>

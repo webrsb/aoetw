@@ -112,7 +112,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Retrato_de_D.png" width="300" alt="" />
+                <img src="~assets/Retrato_de_D.jpg" width="300" alt="" />
                 <p><em>本系列主角 法蘭西斯科·德·阿爾梅達</em></p>
               </div>
             </td>
