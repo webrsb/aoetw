@@ -23,10 +23,10 @@
           <ul>
             <li>
               黃金在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >早期是非常重要的，因此應盡快研究紙幣。玩家擁有的盟友數量會隨著紙幣的影響而增加。例如一個3人的團隊可以500個<nuxt-link
+              >早期是非常重要的，因此應盡快研究紙幣。玩家擁有的盟友數量會隨著紙幣的影響而增加。例如一個3人的團隊可以500<nuxt-link
                 to="/resource/Food"
                 >食物</nuxt-link
-              >300木材換取1500金幣，這是一個超值的交易。
+              >300木材換取1500金幣(在《世紀帝國II:王者崛起》則是以800食物200黃金換取1300黃金)，這是一個超值的交易。
             </li>
             <li>
               即使玩家沒有盟友，如果地圖上的黃金已經用完了，它仍然可以使用。
@@ -40,13 +40,13 @@
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>紙幣花費800食物，200黃金</li>
+            <li>紙幣花費800食物，200黃金，40秒研發時間。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li>紙幣花費500食物，300木材</li>
+            <li>紙幣花費500食物，300木材，60秒研發時間。</li>
           </ul>
         </div>
 
@@ -134,7 +134,7 @@
           </tr>
           <tr>
             <td class="unit3">研發時間</td>
-            <td class="unit4">40秒</td>
+            <td class="unit4">60秒</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
