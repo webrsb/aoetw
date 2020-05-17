@@ -26,7 +26,7 @@
               >。是一個用於防守上很好的技術。結合日本的另一個可讓<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
-              >快速拆解和組裝特殊科技<nuxt-link to="/techs/Kataparuto"
+              >快速拆解和組裝的特殊科技<nuxt-link to="/techs/Kataparuto"
                 >彈射器</nuxt-link
               >，可以創造一個強大的防禦組合。<nuxt-link to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
@@ -61,7 +61,7 @@
           </h3>
           <ul>
             <li>射箭孔現在的成本為300食物300木材。</li>
-            <li>4.8改版後射箭孔讓箭塔能額外射2支箭。</li>
+            <li>4.8改版後射箭孔讓箭塔只能額外射2支箭。</li>
           </ul>
         </div>
         <h3>歷史</h3>
