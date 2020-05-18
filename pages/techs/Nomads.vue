@@ -56,6 +56,29 @@
             </li>
           </ul>
         </div>
+        <h3>更新日誌</h3>
+            <div class="hrn1"></div>
+            <div class="n1">
+              <h3>
+                <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+              </h3>
+              <ul>
+                <li>游牧研發成本為300木材。</li>
+              </ul>
+              <h3>
+                <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+              </h3>
+              <ul>
+                <li>游牧研發成本變為300木材150黃金。</li>
+              </ul>
+              <h3>
+                <em><nuxt-link to="/games/aof">決定版</nuxt-link></em>
+              </h3>
+              <ul>
+                <li>自毀未建造的居住房舍基地不會受游牧效果影響而增加可容納的人口。
+                </li>
+              </ul>
+            </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -116,6 +139,12 @@
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
             <td class="unit4">300</td>
+          </tr>
+          <tr>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
+            <td class="unit4">150</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
