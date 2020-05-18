@@ -81,7 +81,7 @@
             <li>
               黑曜石之箭讓弓兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >攻擊+1。
+              >攻擊+4。
             </li>
           </ul>
           <h3>
@@ -98,6 +98,27 @@
             </li>
           </ul>
         </div>
+        <h3>趣事</h3>
+            <div class="hrn1"></div>
+            <div class="n1">
+              <ul>
+                <li>4.8版本前對石造建築的+6攻擊(失落的帝國是+4)因為有bug所以沒有觸發。後來4.8版本就修正了。</li>
+                <li>在現實中黑曜石箭頭非常鋒利，但也非常脆弱，通常無法重複使用。儘管它們很銳利，但它們卻不適合摧毀磚石或牆壁，實際上很容易一塊木板就可以擋下它們。</li>
+                
+              </ul>
+            </div>
+        <h3>圖庫</h3>
+            <div class="hrn1"></div>
+            <div class="n1">
+              <div class="row">
+                <div class="col-md-4">
+                  <gallery
+                    ><img class="imgn hg" src="~assets/Obsidian_arrows_real.png" alt=""
+                  /></gallery>
+                  <p><em>真實的黑曜石箭頭。</em></p>
+                </div>
+                </div>
+              </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
