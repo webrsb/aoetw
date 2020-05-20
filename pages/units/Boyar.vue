@@ -32,7 +32,8 @@
               >相對的比<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >(聖<nuxt-link to="/units/Knight">騎士</nuxt-link
               >)還來的低，使<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
-              >作戰單位容易對它們造成更多傷害。
+              >作戰單位容易對它們造成更多傷害。但在36906更新中遠防獲得上修，這點
+               獲得改善。
             </li>
             <li>
               貴族鐵騎在遊戲設定上是為了彌補沒有遊俠的<nuxt-link
