@@ -185,7 +185,7 @@
             </li>
           </ul>
         </div>
-      </div>
+
       <h3>戰術概論</h3>
       <div class="hrn1"></div>
       <div class="n1">
@@ -546,6 +546,9 @@
           </div>
         </div>
       </div>
+              </div>
+
+
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
@@ -607,11 +610,13 @@
             </td>
           </tr>
         </table>
-
-        <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
+                <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
       </div>
     </div>
-  </div>
+    </div>
+
+
+
 </template>
 <script>
 export default {
