@@ -12,7 +12,7 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後所有騎兵攻速+25%。
+            >研發。研發後斥侯系、騎士系和騎馬保加利亞騎兵的速+33%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,17 +21,17 @@
           <ul>
             <li>
               <nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
-              >是在遊戲中最慢攻速的單位，
+              >是遊戲中最慢攻速的單位，
               但在研發馬鐙科技後，保加利亞騎兵攻速會和<nuxt-link
                 to="/units/Knight"
                 >騎士</nuxt-link
               >一様，同時擁有比騎士更高的攻擊，因此在<nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
-              >中，保加利亞騎兵的這項科技是必須的，但是成本非常高，因此建議先研發<nuxt-link
+              >中，馬鐙這項科技是必須研發的，但是成本非常高，因此建議先研發<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >科技。 在<nuxt-link to="/techs/age/Imperial_Age"
+              >科技。在<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >中，精銳保加利亞騎兵的攻速比<nuxt-link to="/units/Paladin"
                 >遊俠</nuxt-link
@@ -43,10 +43,10 @@
             </li>
             <li>
               馬鐙還影響<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >和重騎兵。以輕騎兵來說，這使他們能在垃圾兵中佔據巨大優勢，而且全滿的保加利亞<nuxt-link
+              >和重裝騎士。以輕騎兵來說，這使他們能在垃圾兵中佔據巨大優勢，而且全滿的保加利亞<nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
-              >會成為遊戲中最強的輕騎兵，能在一對一戰鬥中擊敗與普通匈牙利輕騎兵、<nuxt-link
+              >會成為遊戲中最強的輕騎兵，能在一對一戰鬥中擊敗普通匈牙利輕騎兵、<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >匈牙利輕騎兵， 甚至是已研發<nuxt-link to="/techs/Farimba"
@@ -54,7 +54,7 @@
               >的<nuxt-link to="/civs/Malians">馬利</nuxt-link>輕騎兵。
             </li>
             <li>
-              更新檔36906改為影響所有騎兵單位後連重騎兵系都有影響，這讓保加利亞的重裝騎士擁有不輸遊俠的戰鬥力（類似馬利的驃悍精神），但相對的這個改動讓保加利亞失去遊俠這個高階兵種。
+              更新檔36906改為影響所有騎兵單位後連重騎兵系都有影響，這讓保加利亞的重裝騎士在所有騎馬單位中(排除大象類)擁有每秒最高的攻擊，甚至比擁有四個遺跡的立陶宛遊俠還高(每秒11.85攻擊比上立陶宛每秒11.6攻擊)，但相對的這個改動讓保加利亞失去遊俠這個高階兵種。
             </li>
           </ul>
         </div>
@@ -66,7 +66,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速堡壘的研究時間(快25%)。
+              >能夠加速馬鐙的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -159,9 +159,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">
-              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>攻速+25%
+            <td class="unit4">斥侯系、騎士系和騎馬<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>攻速+33%
             </td>
           </tr>
         </table>
