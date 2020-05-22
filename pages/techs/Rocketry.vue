@@ -59,7 +59,15 @@
             </li>
           </ul>
         </div>
-      </div>
+      <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>人們普遍認為中國人發明了火藥。他們將其作成火箭並廣泛使用在娛樂和軍事上。儘管從未開發出精確的設計，
+          但火箭仍能對付沒有面對過這種武器的敵人而且獲得很好的效果。火箭在高速行駛時聲音嘈雜且有臭味。
+          他們會破壞所有擊中的任何東西，如果還攜帶爆裂物的話也會造成額外傷害。
+          </p>
+        </div>
+        </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
@@ -122,13 +130,13 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">750</td>
+            <td class="unit4">600</td>
           </tr>
           <tr>
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">750</td>
+            <td class="unit4">600</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
