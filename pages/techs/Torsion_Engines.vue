@@ -63,6 +63,18 @@
             </li>
           </ul>
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+               36909更新後弩炮的投射物波及範圍從0.3格增加為0.5格。
+            </li>
+          </ul>
+      </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
