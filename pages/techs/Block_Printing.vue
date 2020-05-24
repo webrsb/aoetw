@@ -39,43 +39,32 @@
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-                to="/civs/Britons"
-                >不列顛</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Byzantines"
-                >拜占庭</nuxt-link
-              >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
-                to="/civs/Byzantines"
-                >拜占庭</nuxt-link
-              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
-              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                to="/civs/Italians"
-                >義大利</nuxt-link
-              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
-                to="/civs/Koreans"
-                >朝鮮</nuxt-link
-              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
-                to="/civs/Malay"
-                >馬來</nuxt-link
-              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
-                to="/civs/Mayans"
-                >馬雅</nuxt-link
-              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
-                to="/civs/Portuguese"
-                >葡萄牙</nuxt-link
-              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
-                to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Teutons"
-                >條頓</nuxt-link
-              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
-                to="/civs/Vikings"
-                >維京</nuxt-link
-              >。
+<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+<nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+<nuxt-link to="/civs/Incas">印加</nuxt-link>、
+<nuxt-link to="/civs/Indians">印度</nuxt-link>、
+<nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+<nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+<nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+<nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+<nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+<nuxt-link to="/civs/Viking">維京</nuxt-link>。
+
             </div>
           </div>
         </div>
@@ -88,17 +77,16 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
-                to="/civs/Celts"
-                >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
-                to="/civs/Huns"
-                >匈人</nuxt-link
-              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
-                to="/civs/Mongols"
-                >蒙古</nuxt-link
-              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>。
+<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+<nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+<nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+<nuxt-link to="/civs/Turks">土耳其</nuxt-link>。
             </div>
           </div>
         </div>
@@ -113,19 +101,33 @@
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技便宜20%。
+            </li>
           </ul>
         </div>
-        <h3>歷史</h3>
+        <h3>團隊加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>
-            <nuxt-link to="/civs/Chinese">中國</nuxt-link
-            >古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用印刷技術留下紀錄。
-          </p>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：印刷技術研發速度快20%。
+            </li>
+          </ul>
         </div>
+        
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Chinese/">中國</nuxt-link>無法研發印刷技術。
+            </li>
+          </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
@@ -151,6 +153,14 @@
               可以研發印刷技術了。
             </li>
           </ul>
+        </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            <nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用印刷技術留下紀錄。
+          </p>
         </div>
       </div>
       <div class="col-md-4">
