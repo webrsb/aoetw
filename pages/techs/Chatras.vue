@@ -31,11 +31,11 @@
                 >品種</nuxt-link
               >和恰特拉傘的<nuxt-link to="/units/Elite_Battle_Elephant"
                 >精銳矛象伕</nuxt-link
-              >有350HP，僅輸給<nuxt-link to="/units/War_Elephant"
+              >有370HP，僅輸給<nuxt-link to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >（620HP），並與<nuxt-link to="/units/Elephant_Archer"
-                >象弓騎兵</nuxt-link
-              >（350HP）並列。
+              >（620HP），並可與<nuxt-link to="/units/Elephant_Archer"
+                >象弓騎兵匹敵</nuxt-link
+              >（350HP）。
             </li>
           </ul>
         </div>
@@ -64,6 +64,14 @@
               >+30 HP，5.7改版後增加為+50 HP。
             </li>
           </ul>
+        </div>
+        <h3>趣聞</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            Chatra（梵語中的雨傘），在傳統印度教，迦那教和佛教中是一種象徵英勇和具有儀式性的裝飾品。
+            它曾經並且現在仍作為泰國皇家御用裝飾。但它似乎在戰鬥中沒有實際用途。
+          </p>
         </div>
       </div>
       <div class="col-md-4">
@@ -140,7 +148,7 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>+30 HP。
+              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>+50 HP。
             </td>
           </tr>
         </table>
