@@ -548,7 +548,7 @@
                 width="30"
                 alt=""
               />
-              <div><nuxt-link to="/techs/Couriers">信使</nuxt-link></div>
+              <div><nuxt-link to="/techs/Couriers">織物盾</nuxt-link></div>
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/hoardings.png" width="30" alt="" />

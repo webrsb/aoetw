@@ -276,7 +276,7 @@
           <nuxt-link to="/civs/Incas">印加</nuxt-link>
           <ul>
             <li>
-              金冠（<nuxt-link to="/techs/Couriers">信使</nuxt-link
+              金冠（<nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >）從+10%移動速度改為+1/+2 防禦
             </li>
             <li>投石者不用先蓋城堡即可生產</li>

@@ -230,7 +230,7 @@
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link>/
-                  <nuxt-link to="/techs/Couriers">信使</nuxt-link>
+                  <nuxt-link to="/techs/Couriers">織物盾</nuxt-link>
                   (<nuxt-link to="/civs/Incas">印加</nuxt-link>)<br />
                   <nuxt-link to="/techs/Sultans">蘇丹</nuxt-link>/
                   <nuxt-link to="/techs/Shatagni">印度火銃</nuxt-link>

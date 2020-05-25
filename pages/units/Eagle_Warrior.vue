@@ -226,7 +226,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
+              /><nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >(+1/+2，<nuxt-link to="/civs/Incas">印加</nuxt-link
               >，從<nuxt-link to="/games/ak">非洲王國</nuxt-link>資料片開始)
             </td>
@@ -244,7 +244,7 @@
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 alt=""
-              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
+              /><nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >(+10%，<nuxt-link to="/civs/Incas">印加</nuxt-link
               >限定，只在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
               >資料片有)
@@ -582,7 +582,7 @@
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:<nuxt-link
                 to="/techs/Couriers"
-                >信使</nuxt-link
+                >織物盾</nuxt-link
               >給予鷹勇士+10％的移動速度。
             </li>
             <li>鷹勇士改變外觀。</li>
@@ -596,7 +596,7 @@
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:<nuxt-link
                 to="/techs/Couriers"
-                >信使</nuxt-link
+                >織物盾</nuxt-link
               >給予鷹勇士+1/+2的防禦。移除+10％的速度。
             </li>
           </ul>
