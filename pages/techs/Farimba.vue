@@ -34,8 +34,9 @@
               >還多。馬利的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >也是遊戲中攻擊排名非特殊騎兵第三(<nuxt-link to="/elements/Attack"
                 >攻擊力</nuxt-link
-              >19)和全遊戲第四，僅次於立陶宛遊俠、<nuxt-link
-                to="/units/Elite_Battle_Elephant"
+              >19)和全遊戲第四，僅次於<nuxt-link to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >遊俠、<nuxt-link to="/units/Elite_Battle_Elephant"
                 >精銳矛象伕</nuxt-link
               >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
             </li>
