@@ -42,7 +42,7 @@
                 >蒙古</nuxt-link
               >馬弓騎兵開火速度+20%；<nuxt-link to="/civs/Magyars"
                 >馬扎爾</nuxt-link
-              >馬弓騎兵+1攻擊和+1射程範圍)。
+              >馬弓騎兵+1攻擊和+1射程範圍；韃靼馬弓騎兵高地戰鬥傷害+50%和+1遠程護甲)。
             </li>
           </ul>
         </div>
@@ -58,7 +58,7 @@
             </li>
           </ul>
         </div>
-        <h3>豆知識</h3>
+        <h3>趣聞</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
