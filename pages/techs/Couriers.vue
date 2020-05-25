@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>織物盾</b>(決定版前叫織物盾)是<nuxt-link to="/civs/Incas"
+            <b>織物盾</b>(決定版前叫信使)是<nuxt-link to="/civs/Incas"
               >印加</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
@@ -55,7 +55,7 @@
           </h3>
           <ul>
             <li>
-              當時的名稱叫織物盾。
+              當時的名稱叫信使。
             </li>
             <li>
               織物盾給予<nuxt-link to="/units/Slinger">投石手</nuxt-link
