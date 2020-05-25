@@ -48,6 +48,26 @@
             </li>
           </ul>
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              王家侍從可以影響遠程步兵部隊。但在大多數情況下這是多餘的，因為斯拉夫人無法訓練任何遠程步兵部隊。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (34699更新) 王家侍從不再能影響遠程步兵單位
+            </li>
+          </ul>
+        </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -57,19 +77,6 @@
               >貴族鐵騎</nuxt-link
             >，並擔任王子最親密的顧問。在13世紀之後，王家侍從這個詞已經不再使用了。
           </p>
-        </div>
-
-        <h3>更新日誌</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <h3>
-            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>
-              (34699更新) 王家侍從不再能影響遠程步兵單位
-            </li>
-          </ul>
         </div>
       </div>
       <div class="col-md-4">
