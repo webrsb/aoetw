@@ -12,10 +12,14 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
-            >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。
+            >研發。研發後<nuxt-link to="/units/Scout_Cavalry"
+              >斥侯騎兵</nuxt-link
+            >系、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+            >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>和<nuxt-link
+              to="/units/Kipchak"
+              >欽察</nuxt-link
+            >的<nuxt-link to="/armor">遠程護甲</nuxt-link>都+1。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -71,6 +75,21 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速絲護甲的研究時間(快25%)。
+            </li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              最初絲護甲只影響馬弓騎兵和斥侯系。
+            </li>
+            <li>
+              (36202更新) 絲護甲會影響草原騎兵。
             </li>
           </ul>
         </div>
@@ -149,10 +168,14 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
-              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1
+              <nuxt-link to="/units/Scout_Cavalry">斥侯騎兵</nuxt-link
+              >系、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >和<nuxt-link to="/units/Kipchak">欽察</nuxt-link>的<nuxt-link
+                to="/armor"
+                >遠程護甲</nuxt-link
+              >+1
             </td>
           </tr>
         </table>
