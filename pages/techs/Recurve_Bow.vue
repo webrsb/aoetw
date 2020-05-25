@@ -41,7 +41,7 @@
               反曲弓讓<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >的馬弓騎兵可以與<nuxt-link to="/civs/Turks">土耳其</nuxt-link
               >和<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >的並列遊戲中最佳的馬弓騎兵。
+              >的並列遊戲中最佳馬弓騎兵。
             </li>
           </ul>
         </div>
@@ -64,7 +64,7 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>反曲弓只讓馬弓騎兵攻擊+1。</li>
+            <li>反曲弓只讓馬弓騎兵射程+1。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
