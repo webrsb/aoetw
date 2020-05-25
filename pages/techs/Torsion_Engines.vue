@@ -15,12 +15,12 @@
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Siege_Weapons"
               >攻城單位</nuxt-link
-            >的攻擊波及範圍增加。<nuxt-link to="/units/Siege_Tower"
+            >的攻擊波及範圍增加0.45。<nuxt-link to="/units/Siege_Tower"
               >攻城塔</nuxt-link
             >和<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
             >不受影響；<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
             >和<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
-            >受該<nuxt-link to="/techs">科技</nuxt-link>影響。
+            >的波及半徑則是增加為0.5。弩炮系則是增加0.4(總共0.5)。
           </p>
           <p>
             此科技配合<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
@@ -60,6 +60,18 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速扭力彈射器的研究時間(快25%)。
+            </li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (36909更新) 弩炮的投射物波及範圍從0.3格增加為0.5格。
             </li>
           </ul>
         </div>
