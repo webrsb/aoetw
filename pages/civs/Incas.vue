@@ -112,7 +112,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
+              /><nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >：槍隊長、投石手和<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >的護甲+1/+2。
@@ -149,7 +149,7 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>信使從+10%速度改成+1近戰/+2遠防。</li>
+            <li>織物盾從+10%速度改成+1近戰/+2遠防。</li>
             <li>有了<nuxt-link to="/building/Keep">大型箭塔</nuxt-link>。</li>
             <li>有了<nuxt-link to="/techs/Guilds">公會制度</nuxt-link>。</li>
             <li>
@@ -242,7 +242,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Couriers">信使</nuxt-link>
+              /><nuxt-link to="/techs/Couriers">織物盾</nuxt-link>
             </td>
           </tr>
         </table>

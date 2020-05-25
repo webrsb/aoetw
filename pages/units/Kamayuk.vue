@@ -63,7 +63,7 @@
               >反制<nuxt-link to="/armor/Armor_Class_Archer">弓箭手</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
-              >。雖然研發<nuxt-link to="/techs/Couriers">信使</nuxt-link
+              >。雖然研發<nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >後可讓槍隊長<nuxt-link to="/armor">遠防</nuxt-link
               >+2，但還是用<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
@@ -189,7 +189,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
+              /><nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >(+1/+2，從<nuxt-link to="/games/ak">非洲王國</nuxt-link
               >資料片開始)
             </td>
@@ -207,7 +207,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Couriers">信使</nuxt-link
+              /><nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >(+10%，只在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
               >資料片有)
             </td>
@@ -420,7 +420,7 @@
               >能夠提高槍隊長的生產速度還有加速<nuxt-link
                 to="/techs/Conscription"
                 >徵兵技術</nuxt-link
-              >、<nuxt-link to="/techs/Couriers">信使</nuxt-link
+              >、<nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
@@ -447,7 +447,7 @@
           <ul>
             <li>槍隊長的移動速度是0.95。</li>
             <li>
-              <nuxt-link to="/techs/Couriers">信使</nuxt-link
+              <nuxt-link to="/techs/Couriers">織物盾</nuxt-link
               >給槍隊長+10%移動速度。
             </li>
             <li>升級到精銳槍隊長需要1000食物600黃金。</li>
@@ -456,7 +456,7 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>信使現在給槍隊長+1/+2護甲，移除+10%移動速度。</li>
+            <li>織物盾現在給槍隊長+1/+2護甲，移除+10%移動速度。</li>
             <li>槍隊長得到新模組。</li>
             <li>升級到精銳槍隊長現在需要900食物500黃金。</li>
             <li><nuxt-link to="/techs/Arson">縱火</nuxt-link>引進。</li>
