@@ -12,10 +12,14 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Scout_Cavalry">斥侯騎兵</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Scout_Cavalry"
+              >斥侯騎兵</nuxt-link
             >系、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
             >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >、標槍騎兵和欽察的<nuxt-link to="/armor">遠程護甲</nuxt-link>都+1。
+            >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>和<nuxt-link
+              to="/units/Kipchak"
+              >欽察</nuxt-link
+            >的<nuxt-link to="/armor">遠程護甲</nuxt-link>都+1。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -82,7 +86,10 @@
           </h3>
           <ul>
             <li>
-              最初絲護甲只影響馬弓騎兵和斥侯系，36202更新後也會影響草原騎兵。
+              最初絲護甲只影響馬弓騎兵和斥侯系。
+            </li>
+            <li>
+              (36202更新) 絲護甲會影響草原騎兵。
             </li>
           </ul>
         </div>
@@ -162,9 +169,13 @@
             <td class="unit3">影響</td>
             <td class="unit4">
               <nuxt-link to="/units/Scout_Cavalry">斥侯騎兵</nuxt-link
-            >系、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
-            >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >、標槍騎兵和欽察的<nuxt-link to="/armor">遠程護甲</nuxt-link>+1
+              >系、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >和<nuxt-link to="/units/Kipchak">欽察</nuxt-link>的<nuxt-link
+                to="/armor"
+                >遠程護甲</nuxt-link
+              >+1
             </td>
           </tr>
         </table>
