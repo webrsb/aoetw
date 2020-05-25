@@ -57,6 +57,7 @@
             <li>
               戰狼號的研發成本為500木材250黃金。
             </li>
+          </ul>
           <h3>
             <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
           </h3>
