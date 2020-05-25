@@ -77,11 +77,7 @@
             <li>
               4.8改版後酋長會影響所有<nuxt-link to="/units/Infantry_Units"
                 >步兵單位</nuxt-link
-              >。
-            </li>
-            <li>
-              4.8b改版後酋長現在會給所有步兵單位對<nuxt-link
-                to="/armor/Armor_Class_Camel"
+              >並給所有步兵單位對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝騎兵類</nuxt-link
               >攻擊+2。
             </li>
@@ -107,7 +103,7 @@
               >》時因為bug而沒有給所有步兵單位對<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >駱駝騎兵類</nuxt-link
-              >攻擊+2。之後在4.8b改版後修正。
+              >攻擊+2。之後在4.8改版後修正。
             </li>
           </ul>
         </div>
