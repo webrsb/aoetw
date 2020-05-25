@@ -18,7 +18,10 @@
             >但需要額外的食物。
           </p>
           <p>
-            研發強制徵兵後民兵系的訓練成本只要80食物，配合供給科技成本更能降到65食物。
+            研發強制徵兵後<nuxt-link to="/units/Militia">民兵系</nuxt-link
+            >的訓練成本只要80食物，配合<nuxt-link to="/techs/Supplies"
+              >供給</nuxt-link
+            >科技成本更能降到65食物。
           </p>
         </div>
         <h3>戰術要點</h3>
