@@ -64,6 +64,21 @@
             </li>
           </ul>
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              最初波斯弓兵將弓兵的成本降為50木材；34699更新後成本增加為60木材。
+            </li>
+            <li>
+              最初波斯弓兵的研發成本為200食物200黃金；35584更新後成本改為400食物300黃金。
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
