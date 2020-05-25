@@ -17,6 +17,12 @@
             >不需花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >但需要額外的食物。
           </p>
+          <p>
+            研發強制徵兵後<nuxt-link to="/units/Militia">民兵系</nuxt-link
+            >的訓練成本只要80食物，配合<nuxt-link to="/techs/Supplies"
+              >供給</nuxt-link
+            >科技成本更能降到65食物。
+          </p>
         </div>
         <h3>戰術要點</h3>
         <div class="hrn1"></div>
@@ -62,12 +68,20 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              研發成本為1000F、600G，免除黃金成本。
+            </li>
+          </ul>
+          <h3>
             <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
           </h3>
           <ul>
             <li>
               減少研發成本為850F、500G
-              (原為1000F、600G)，且免除黃金外還需要額外的食物花費
+              (原為1000F、600G)，訓練成本免除黃金外但需要額外的食物花費。
             </li>
           </ul>
         </div>
@@ -147,7 +161,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">軍營步兵單位不需花費黃金。</td>
+            <td class="unit4">軍營步兵單位不需花費黃金但需花費額外的食物。</td>
           </tr>
         </table>
 
