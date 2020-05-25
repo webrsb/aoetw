@@ -90,7 +90,13 @@
                 >
               </p>
               <p>
-                <nuxt-link to="#a25">【最後的可汗】</nuxt-link>
+                <nuxt-link to="#a25">【帖木兒】</nuxt-link>、<nuxt-link
+                  to="#a26"
+                  >【伊瓦依洛】</nuxt-link
+                >、<nuxt-link to="#a27">【可泰安汗】</nuxt-link>、<nuxt-link
+                  to="#a28"
+                  >【孫子兵法戰役】</nuxt-link
+                >
               </p>
             </div>
           </div>
@@ -115,7 +121,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a1.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/01_william_wallace_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -194,7 +204,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a2.jpg" width="45" alt="" />
+                    <img src="~assets/02_joan_normal.png" width="90" alt="" />
                   </div>
                 </td>
               </tr>
@@ -266,7 +276,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a5.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/03_saladin_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -336,7 +350,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a4.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/04_genghis_khan_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -400,7 +418,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a3.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/05_barbarossa_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -477,7 +499,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a6.jpg" width="45" alt="" />
+                    <img src="~assets/06_attila_normal.png" width="90" alt="" />
                   </div>
                 </td>
               </tr>
@@ -545,7 +567,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a7.jpg" width="45" alt="" />
+                    <img src="~assets/07_el_cid_normal.png" width="90" alt="" />
                   </div>
                 </td>
               </tr>
@@ -615,7 +637,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a8.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/08_montezuma_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -681,7 +707,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a9.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/00_historical_battles_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -776,7 +806,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a10.jpg" width="45" alt="" />
+                    <img src="~assets/10_alaric_normal.png" width="90" alt="" />
                   </div>
                 </td>
               </tr>
@@ -830,7 +860,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a11.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/11_dracula_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -891,7 +925,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a12.jpg" width="45" alt="" />
+                    <img src="~assets/12_bari_normal.png" width="90" alt="" />
                   </div>
                 </td>
               </tr>
@@ -934,7 +968,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a13.jpg" width="45" alt="" />
+                    <img src="~assets/13_sforza_normal.png" width="90" alt="" />
                   </div>
                 </td>
               </tr>
@@ -997,7 +1031,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a14.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/14_pachacuti_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1047,7 +1085,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a15.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/15_prithviraj_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1103,7 +1145,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a16.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/00_historical_battles_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1207,7 +1253,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a17.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/16_tariq_ibn_ziyad_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1270,7 +1320,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a18.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/17_sundjata_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1333,7 +1387,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a19.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/18_francisco_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1390,7 +1448,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a20.jpg" width="45" alt="" />
+                    <img src="~assets/19_yodit_normal.png" width="90" alt="" />
                   </div>
                 </td>
               </tr>
@@ -1452,7 +1510,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a21.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/20_gajah_mada_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1519,7 +1581,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a22.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/21_suryavarman_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1580,7 +1646,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a23.jpg" width="45" alt="" />
+                    <img
+                      src="~assets/22_bayinnaung_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1641,7 +1711,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/a24.jpg" width="45" alt="" />
+                    <img src="~assets/23_le_loi_normal.png" width="90" alt="" />
                   </div>
                 </td>
               </tr>
@@ -1711,15 +1781,259 @@
                 <td class="unit" style="background-color: gray">
                   <div class="unititle">
                     <div id="a25">
-                      <nuxt-link to="/batt/">最後的可汗</nuxt-link>
+                      <nuxt-link to="/batt/">帖木兒</nuxt-link>
                     </div>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
+                  <div class="unititle">
+                    <img
+                      src="~assets/24_tamerlane_normal.png"
+                      width="90"
+                      alt=""
+                    />
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
                   <div class="unitcontent">
-                    待推出
+                    <nuxt-link to="/batt/">河中地區的埃米爾</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">波斯的菊兒汗</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">毀滅的先兆</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">印度斯坦的蘇丹</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">黎凡特的災禍</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">神在人間</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+
+          <div class="col-md-4" style="margin-top: 10px;">
+            <table class="table-bordered" width="100%">
+              <tr>
+                <td class="unit" style="background-color: gray">
+                  <div class="unititle">
+                    <div id="a26">
+                      <nuxt-link to="/batt/">伊瓦依洛</nuxt-link>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unititle">
+                    <img src="~assets/25_ivaylo_normal.png" width="90" alt="" />
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">最不可能的人</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">不可能的聯盟</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">保加利亞沙皇</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">英雄之亂</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">獨眼之王</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-md-4" style="margin-top: 10px;">
+            <table class="table-bordered" width="100%">
+              <tr>
+                <td class="unit" style="background-color: gray">
+                  <div class="unititle">
+                    <div id="a27">
+                      <nuxt-link to="/batt/">可泰安汗</nuxt-link>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unititle">
+                    <img src="~assets/26_kotyan_normal.png" width="90" alt="" />
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">戰旗飄揚</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">卡爾卡河戰役</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">拯救棚屋</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">血債血償</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">新的家園</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-md-4" style="margin-top: 10px;">
+            <table class="table-bordered" width="100%">
+              <tr>
+                <td class="unit" style="background-color: gray">
+                  <div class="unititle">
+                    <div id="a28">
+                      <nuxt-link to="/batt/">孫子兵法戰役</nuxt-link>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unititle">
+                    <img
+                      src="~assets/00_challenges_normal.png"
+                      width="90"
+                      alt=""
+                    />
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">早期經濟</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">急速發展</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">快速城堡時代</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">正在對敵人進行快攻</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">正在防禦快攻</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">陸戰</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">海戰</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">摧毀一座城堡</nuxt-link>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div class="unitcontent">
+                    <nuxt-link to="/batt/">戰鬥陣法</nuxt-link>
                   </div>
                 </td>
               </tr>
