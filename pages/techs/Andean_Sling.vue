@@ -120,7 +120,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">矛兵和投石手的最小射程被移除。</td>
+            <td class="unit4">矛兵、投石手和標槍騎兵的最小射程被移除。</td>
           </tr>
         </table>
 
