@@ -12,7 +12,10 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後斥侯系、騎士系和騎馬保加利亞騎兵的速+33%。
+            >研發。研發後<nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link
+            >系、<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >系和騎馬<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
+            >的速+33%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -43,8 +46,11 @@
             </li>
             <li>
               馬鐙還影響<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >和重裝騎士。以輕騎兵來說，這使他們能在垃圾兵中佔據巨大優勢，而且全滿的保加利亞<nuxt-link
-                to="/units/Hussar"
+              >和<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
+              >。以<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >來說，這使他們能在<nuxt-link to="/Trash_Unit.php"
+                >垃圾兵</nuxt-link
+              >中佔據巨大優勢，而且全滿的保加利亞<nuxt-link to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
               >會成為遊戲中最強的輕騎兵，能在一對一戰鬥中擊敗普通匈牙利輕騎兵、<nuxt-link
                 to="/civs/Mongols"
@@ -54,7 +60,11 @@
               >的<nuxt-link to="/civs/Malians">馬利</nuxt-link>輕騎兵。
             </li>
             <li>
-              更新檔36906改為影響所有騎兵單位後連重騎兵系都有影響，這讓保加利亞的重裝騎士在所有騎馬單位中(排除大象類)擁有每秒最高的攻擊，甚至比擁有四個遺跡的立陶宛遊俠還高(每秒11.85攻擊比上立陶宛每秒11.6攻擊)，但相對的這個改動讓保加利亞失去遊俠這個高階兵種。
+              (36906更新)
+              改為影響所有騎兵單位後連重騎兵系都有影響，這讓保加利亞的重裝騎士在所有騎馬單位中(排除大象類)擁有每秒最高的攻擊，甚至比擁有四個遺跡的<nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >遊俠還高(每秒11.85攻擊比上立陶宛每秒11.6攻擊)，但相對的這個改動讓保加利亞失去遊俠這個高階兵種。
             </li>
           </ul>
         </div>
@@ -159,7 +169,10 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">斥侯系、騎士系和騎馬<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>攻速+33%
+            <td class="unit4">
+              斥侯系、騎士系和騎馬<nuxt-link to="/units/Konnik"
+                >保加利亞騎兵</nuxt-link
+              >攻速+33%
             </td>
           </tr>
         </table>
