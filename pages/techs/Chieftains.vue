@@ -2,22 +2,21 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>織物盾</h1>
+        <h1>酋長</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>織物盾</b>(決定版前叫信使)是<nuxt-link to="/civs/Incas"
-              >印加</nuxt-link
+            <b>酋長</b>是<nuxt-link to="/civs/Vikings">維京</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-            >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
-              to="/units/Eagle_Warrior"
-              >鷹勇士</nuxt-link
-            >護甲+1/+2。
+            >研發。研發後<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
+            >+5攻擊，對<nuxt-link to="/armor/Armor_Class_Camel"
+              >駱駝騎兵類</nuxt-link
+            >+4攻擊。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -25,13 +24,16 @@
         <div class="n1">
           <ul>
             <li>
-              織物盾是值得研發的一項<nuxt-link to="/techs">科技</nuxt-link
-              >因為他讓<nuxt-link to="/civs/Incas">印加</nuxt-link
-              >軍隊核心的三種單位在戰場上生存更久。
-            </li>
-            <li>
-              在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-              >資料片織物盾是給跑速而不是裝甲，這讓研發織物盾是必須的一個動作因為低成本換來的是軍隊的高機動性。
+              除了<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >，<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+              >是遊戲中最耐打的<nuxt-link to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >。研發酋長讓狂戰士也能對抗<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >；然而使用<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >對付騎兵還是更有效益。另外<nuxt-link to="/units/Archer"
+                >弓箭手</nuxt-link
+              >對狂戰士來說仍舊是個威脅。
             </li>
           </ul>
         </div>
@@ -43,7 +45,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速織物盾的研究時間(快25%)。
+              >能夠加速酋長的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -54,36 +56,55 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
+            <li>研發酋長需要700食物400黃金。</li>
             <li>
-              當時的名稱叫信使。
+              酋長給<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
+              >攻擊+4。
             </li>
-            <li>
-              織物盾給予<nuxt-link to="/units/Slinger">投石手</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-              >、<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-              >+10％的移動速度。
-            </li>
-            <li>
-              研發成本為400食物200黃金。
-            </li>
+            <li>酋長只會影響狂戰士。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>織物盾給予+1/+2的防禦和+10％的移動速度。</li>
+            <li>研發酋長現在需要400食物300黃金。</li>
+            <li>
+              酋長現在給<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
+              >攻擊+5。
+            </li>
+            <li>
+              4.8改版後酋長會影響所有<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >並給所有步兵單位對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵類</nuxt-link
+              >攻擊+2。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>5.8改版研發成本改為600食物600黃金。</li>
+            <li>
+              5.7改版後酋長現在會給所有步兵單位對<nuxt-link
+                to="/armor/Armor_Class_Camel"
+                >駱駝騎兵類</nuxt-link
+              >攻擊+<strong>4</strong>。
+            </li>
           </ul>
-          <h3>
-            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
-          </h3>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
           <ul>
-            <li>名稱改為織物盾。</li>
+            <li>
+              酋長在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
+              >》時因為bug而沒有給所有步兵單位對<nuxt-link
+                to="/armor/Armor_Class_Camel"
+                >駱駝騎兵類</nuxt-link
+              >攻擊+2。之後在4.8改版後修正。
+            </li>
           </ul>
         </div>
       </div>
@@ -91,17 +112,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">織物盾</div>
+              <div class="unititle2">酋長</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/unique_tech_imperial.png"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~assets/unique_tech.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -114,24 +131,28 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4"><nuxt-link to="/civs/Incas">印加</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
-                to="/techs/age/Imperial_Age"
-                >帝王時代</nuxt-link
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
               >
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/castle.png" alt="" /><nuxt-link
-                to="/building/Castle"
-                >城堡</nuxt-link
-              >
+              <img
+                class="gg"
+                src="~assets/castle.png"
+                width="45"
+                alt=""
+              /><nuxt-link to="/building/Castle">城堡</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -147,13 +168,13 @@
             <td class="unit3">
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
-            <td class="unit4">600</td>
+            <td class="unit4">400</td>
           </tr>
           <tr>
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">600</td>
+            <td class="unit4">300</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
@@ -162,7 +183,12 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">槍隊長、投石手、鷹勇士護甲+1/+2。</td>
+            <td class="unit4">
+              步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >+5攻擊，對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
+              >+4攻擊。
+            </td>
           </tr>
         </table>
 
