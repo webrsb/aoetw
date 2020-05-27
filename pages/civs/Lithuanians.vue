@@ -85,7 +85,10 @@
             >等騎兵文明。此外，立陶宛也擁有完整的<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
             >科技，加上<nuxt-link to="/building/Monastery">修道院</nuxt-link
-            >工作效率+20%的團隊加分。然而，<nuxt-link to="/units/Infantry_Units"
+            >工作效率+20%的團隊加分。因此戰術上最好由這兩者互相搭配，並且盡可能地尋找遺跡來提升整體騎兵的額外戰鬥力。</p>
+            
+            
+            <p>然而，<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >並不突出。步兵單位缺乏<nuxt-link to="/techs/Plate_Mail_Armor"
@@ -98,17 +101,19 @@
             >系的移動速度提高了10％，並受益於特殊科技<nuxt-link
               to="/techs/Tower_Shields"
               >塔盾</nuxt-link
-            >，遠程護甲+2。其<nuxt-link to="/units/Siege_Weapons"
+            >，遠程護甲+2。假如料定敵方會發動斥侯或弓兵快攻，這些反制單位可以快一步攔截對方進而減少損失。其<nuxt-link to="/units/Siege_Weapons"
               >攻城器</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
             >也是平淡無奇。在防禦上只缺乏<nuxt-link to="/techs/Arrowslits"
               >箭狹槽</nuxt-link
             >，但擁有特殊科技<nuxt-link to="/techs/Hill_Forts">山城堡</nuxt-link
             >，<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >射程+3。經濟上只缺乏<nuxt-link to="/techs/Gold_Shaft_Mining"
+            >射程+3。</p>
+          
+          <p>經濟上缺乏<nuxt-link to="/techs/Gold_Shaft_Mining"
               >採金裝置</nuxt-link
-            >，但擁有開局+150<nuxt-link to="/resourses/Food">食物</nuxt-link
-            >的文明加成，是遊戲中最好的開局之一，因此經濟上還算不錯。
+            >，雖然擁有開局+150<nuxt-link to="/resourses/Food">食物</nuxt-link
+            >的文明加成，是遊戲中最好的開局之一，可以快速上封建打快攻或是直城馬爆等，但若不能活用這個特性，到了中後期跟沒有經濟加成的文明是差不多的。
           </p>
           <h3>特殊單位</h3>
           <li>
@@ -138,7 +143,7 @@
             >系和<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>系<nuxt-link
               to="/armor"
               >遠程護甲</nuxt-link
-            >+1。
+            >+2。
           </li>
         </div>
         <h3>文明加成</h3>
@@ -190,6 +195,9 @@
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
               >系。
+            </li>
+                        <li>
+              (36906更新) 烈堤司成本由50F/80G→70F/50G，訓練速度由23s/20s→20s/18s（後項是精銳數值）。塔盾成本由800F/200G→500F/200G，遠程防禦由1上升至2。
             </li>
           </ul>
         </div>
