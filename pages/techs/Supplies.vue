@@ -13,7 +13,7 @@
             >》首次登場，可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
-            >研發。研發後民兵系食物成本-15。僅哥德不可研發（因為文明特性本身就有步兵成本減免）。
+            >研發。研發後民兵系食物成本-15。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -49,7 +49,8 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li>新增供給科技。</li>
+            <li>新增供給科技，僅哥德不可研發（因為文明特性本身就有步兵成本減免）。</li>
+             <li>更新檔37650：以下文明不再有供給：中國、庫曼、匈人、高棉、立陶宛、馬雅、蒙古、韃靼。</li>
           </ul>
         </div>
       </div>
@@ -76,7 +77,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4">除哥德外所有文明</td>
+            <td class="unit4">除左述外所有文明</td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
