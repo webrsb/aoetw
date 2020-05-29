@@ -4,19 +4,7 @@
       <div class="col-md-12">
         <h1>重裝騎士</h1>
         <div class="hrn1"></div>
-        <div class="spw">
-          <em
-            ><img
-              src="~assets/Attila_the_Hun.png"
-              width="50px;"
-              alt=""
-              style="margin-right:20px;"
-            />阿提拉：不要搞錯了！：此頁面和<nuxt-link to="/units/Cavalry_Units"
-              >騎兵類單位</nuxt-link
-            >與<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵防禦</nuxt-link
-            >。不同喔！</em
-          >
-        </div>
+
       </div>
       <div class="col-md-8">
         <div class="n1">
@@ -79,7 +67,7 @@
               >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
                 to="/civs/Vietnamese"
                 >越南</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、韃靼、庫曼、立陶宛、保加利亞。
             </div>
           </div>
         </div>
@@ -247,6 +235,17 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
+            </td>
+          </tr>
+                    <tr>
+            <td class="tta1" style="width:10%">攻擊速度</td>
+            <td class="tta4">
+              <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
+                to="/techs/Stirrups"
+                >馬鐙</nuxt-link
+              >：攻擊速度快25%，(<nuxt-link to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >限定)
             </td>
           </tr>
           <tr>
@@ -565,10 +564,14 @@
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
               >：重裝騎士血量多20%，研發<nuxt-link to="/techs/Chivalry"
                 >騎士精神</nuxt-link
-              >後，<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
+              >後，訓練速度、<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >的研發速度和升級<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >的時間都加快40%
             </li>
+                            <li>
+                  <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+                  >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
+                </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
                 to="/techs/Forging"
@@ -593,6 +596,10 @@
                 >徵兵技術</nuxt-link
               >免費。
             </li>
+                            <li>
+                  <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+                  >：每擁有1個聖物，就額外多1攻擊力，最多額外多4攻。
+                </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -649,6 +656,25 @@
               >。
             </li>
           </ul>
+                        <h3>
+                <em><nuxt-link to="/games/aof">決定版</nuxt-link></em>
+              </h3>
+              <ul>
+                <li>
+                  <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+                  >：原本可以額外多5攻擊力，更新檔34055後下修為最多額外4攻。
+                </li>
+                <li>
+                  (36909更新)
+                  <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                  >：特殊科技馬蹬影響所有騎兵單位，但失去遊俠。
+                </li>
+                <li>
+                  (36909更新)
+                  <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+                  >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
+                </li>
+              </ul>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
