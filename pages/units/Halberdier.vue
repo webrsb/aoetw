@@ -90,7 +90,7 @@
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
                 to="/civs/Teutons"
                 >條頓</nuxt-link
-              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、韃靼、保加利亞、立陶宛、庫曼。
             </div>
           </div>
         </div>
@@ -233,7 +233,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link
-              >:長槍兵系和矛兵遠程護甲+1。<nuxt-link to="/civs/Lithuanians"
+              >:長槍兵系和矛兵遠程護甲+2。<nuxt-link to="/civs/Lithuanians"
                 >立陶宛</nuxt-link
               >限定。
             </td>
@@ -719,7 +719,10 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：戟兵近戰防禦+1
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：軍營單位於城堡時代和帝王時代近戰防禦各+1，共+2
+            </li>
+             <li>
+              立陶宛：移動速度+10%
             </li>
           </ul>
         </div>
@@ -804,7 +807,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新) 戟兵近戰防禦+1。
+              (35584更新) 軍營單位城堡時代起近戰防禦+1。(36906更新) 前述調整為軍營單位於城堡時代和帝王時代近戰防禦各+1，共+2。
             </li>
           </ul>
         </div>
