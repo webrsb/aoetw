@@ -1023,7 +1023,7 @@
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <div id="a14">
-                      <nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>
+                      <nuxt-link to="/batt/a14.jpg">黃金國(HD限定)</nuxt-link>
                     </div>
                   </div>
                 </td>
