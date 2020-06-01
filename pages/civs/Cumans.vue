@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><img src="~assets/lithuanians.png" />庫曼</h1>
+        <h1><img src="~assets/cumans.png" />庫曼</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -30,7 +30,7 @@
             ><nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link
             >，以提高輕騎兵、<nuxt-link to="/units/Steppe_Lancer"
               >草原騎兵</nuxt-link
-            >和<nuxt-link to="/units/Cavalry_Archer">馬弓</nuxt-link
+            >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >訓練速度。此外，庫曼人還能訓練能一次多發的馬弓<nuxt-link
               to="/units/Unique_Unit"
               >特殊單位</nuxt-link
@@ -81,16 +81,18 @@
             >，以及特殊科技<nuxt-link to="/techs/Steppe_Husbandry"
               >大草原耕種技術</nuxt-link
             >，使<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >和草原騎兵訓練速度+50%。此外，騎兵從<nuxt-link
-              to="/techs/age/Feudal_Age"
+            >和草原騎兵訓練速度<abbr title="科技樹誤植為100%">+50%</abbr
+            >。此外，騎兵從<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >開始每個時代速度提升5%。但奇怪的是，庫曼是唯一擁有<nuxt-link
               to="/units/Camel"
               >駱駝騎兵</nuxt-link
             >但無法升級為<nuxt-link to="/units/Heavy_Camel"
               >重裝駱駝騎兵</nuxt-link
-            >的文明。而庫曼的<nuxt-link to="/units/Cavalry_Archer"
-              >馬弓騎兵</nuxt-link
+            >的文明。
+          </p>
+          <p>
+            庫曼的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >也十分出色，擁有高攻速的<nuxt-link to="/units/Kipchak"
               >欽察</nuxt-link
             >以及大草原耕種技術使馬弓騎兵訓練速度+50%，但缺乏<nuxt-link
@@ -98,13 +100,14 @@
               >強力護腕</nuxt-link
             >使馬弓騎兵在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >變得虛弱。另外，因為缺乏強力護腕、<nuxt-link to="/units/Arbalest"
+            >變得虛弱。也因為缺乏強力護腕、<nuxt-link to="/units/Arbalest"
               >強弩兵</nuxt-link
             >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-            >，<nuxt-link to="/units/Archer">徒步弓兵</nuxt-link
-            >也相當虛弱。<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-            >上，擁有完整的步兵系統。<nuxt-link to="/units/Siege_Weapons"
-              >攻城器單位</nuxt-link
+            >相當虛弱。<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >方面，擁有完整的步兵系統，但沒有任何相關的文明加成。
+          </p>
+          <p>
+            <nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
             >上，擁有在封建時代就可以使用<nuxt-link to="/units/Battering_Ram"
               >衝撞車</nuxt-link
             >的大優勢，但在後期時，庫曼缺乏<nuxt-link
@@ -220,20 +223,22 @@
           <ul>
             <li>
               最初可以研發<nuxt-link to="/techs/Redemption">神聖思想</nuxt-link
-              >，36202更新後不能研發。
+              >、<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>。
+            </li>
+            <li>
+              最初欽察有1.8的視野範圍。
             </li>
             <li>
               最初，從<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
               >開始，<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >的移動速度提高10％。34055更新後，封建/<nuxt-link
-                to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >的騎兵速度提高為5％/ 10％/ 15％。
+              >的移動速度提高10％。
             </li>
             <li>
-              (34055更新) （精鋭）<nuxt-link to="/units/Kipchak">欽察</nuxt-link
+              (34055更新) (精鋭)<nuxt-link to="/units/Kipchak">欽察</nuxt-link
               >有40 (45) HP和2.2的攻速。
+            </li>
+            <li>
+              (34055更新) 欽察增加視野範圍為2.2。
             </li>
             <li>
               (34055更新) 精鋭欽察一次三發。
@@ -244,9 +249,18 @@
               >的時間從225秒增加到270秒。
             </li>
             <li>
+              (34055更新) 封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >的騎兵速度提高為5%/ 10%/ 15%。
+            </li>
+            <li>
               (36202更新) 城堡時代能研發<nuxt-link to="/units/Capped_Ram"
                 >裝甲衝撞車</nuxt-link
               >。
+            </li>
+            <li>
+              (36202更新) 將神聖思想及耕種技術從科技樹移除
             </li>
             <li>
               (36202更新) 欽察一次三發，精鋭欽察一次四發。
@@ -335,7 +349,7 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/WonderLithuanians.jpg" alt=""
+                ><img class="imgn hg" src="~assets/AoE2DE_Cuman_Wonder.jpg" alt=""
               /></gallery>
               <p><em>庫曼世界奇觀 Sarkel要塞</em></p>
             </div>
@@ -363,7 +377,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/Traku-pilis_trakaimuziejus.lt_.jpg"
+                  src="~assets/sarkel2.jpg"
                   width="250"
                   alt=""
                 />
