@@ -349,7 +349,10 @@
           <div class="row">
             <div class="col-md-4">
               <gallery
-                ><img class="imgn hg" src="~assets/AoE2DE_Cuman_Wonder.jpg" alt=""
+                ><img
+                  class="imgn hg"
+                  src="~assets/AoE2DE_Cuman_Wonder.jpg"
+                  alt=""
               /></gallery>
               <p><em>庫曼世界奇觀 Sarkel要塞</em></p>
             </div>
@@ -376,11 +379,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/sarkel2.jpg"
-                  width="250"
-                  alt=""
-                />
+                <img src="~assets/sarkel2.jpg" width="250" alt="" />
                 <p><em>位於俄羅斯羅斯托夫州的Sarkel要塞</em></p>
               </div>
             </td>

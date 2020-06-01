@@ -321,7 +321,7 @@
                 >
               </td>
               <td class="tta2">
-                <span class="fas fa-check" style="color: #d9534f;"></span>
+                <span class="fas fa-times" style="color: #d9534f;"></span>
               </td>
               <td class="tta3">
                 日本<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link>(敵對)

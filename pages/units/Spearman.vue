@@ -799,14 +799,18 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新) 長槍兵從城堡時代開始近戰防禦+1。
+              (35584更新): 長槍兵從城堡時代開始近戰防禦+1。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新)
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新):
               在封建/城堡/帝王時代，長槍兵減免改為25%/30%/35%，且對<nuxt-link
                 to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >攻擊+1/+2/+3。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
             </li>
           </ul>
         </div>

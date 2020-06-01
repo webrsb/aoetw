@@ -562,7 +562,7 @@
                 width="30"
                 alt=""
               />
-              <div><nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link></div>
+              <div><nuxt-link to="/tech/El_Dorado">黃金國</nuxt-link></div>
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/hoardings.png" width="30" alt="" />
@@ -1401,11 +1401,7 @@
               <img class="gg" src="~assets/chemistry.png" alt="" />
               <div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
-              <img
-                class="gg not"
-                src="~assets/Bombard-tower-research.jpg"
-                alt=""
-              />
+              <img class="gg not" src="~assets/bombard_tower_tech.png" alt="" />
               <div>
                 <nuxt-link to="/building/Bombard_Tower" class="not"
                   >火砲塔</nuxt-link

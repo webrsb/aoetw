@@ -1403,7 +1403,7 @@
               <img class="gg" src="~assets/chemistry.png" alt="" />
               <div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br />
-              <img class="gg" src="~assets/Bombard-tower-research.jpg" alt="" />
+              <img class="gg" src="~assets/bombard_tower_tech.png" alt="" />
               <div>
                 <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
               </div>

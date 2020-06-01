@@ -579,18 +579,22 @@
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>
-              (35584更新) 民兵從黑暗時代開始便宜35%。
+              (35584更新): 民兵從黑暗時代開始便宜35%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新) 民兵從城堡時代開始，近戰防禦+1。
+              (35584更新): 民兵從城堡時代開始，近戰防禦+1。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新)
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新):
               在黑暗/封建/城堡/帝王時代，民兵減免改為20%/25%/30%/35%，且對<nuxt-link
                 to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >攻擊+0/+1/+2/+3。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
             </li>
           </ul>
         </div>

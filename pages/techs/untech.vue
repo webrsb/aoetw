@@ -950,7 +950,7 @@
               /><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>
+              <nuxt-link to="/techs/El_Dorado">黃金國</nuxt-link>
             </td>
             <td class="tunitc5">750F 450G</td>
             <td class="tunitc6">鷹勇士+40 HP。</td>
@@ -1013,7 +1013,7 @@
             <td class="tunitc4">
               <nuxt-link to="/techs/Zealotry">狂熱</nuxt-link>
             </td>
-            <td class="tunitc5">750F 800G</td>
+            <td class="tunitc5">750F 700G</td>
             <td class="tunitc6">
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>和<nuxt-link
                 to="/units/Mameluke"

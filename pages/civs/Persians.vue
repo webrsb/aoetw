@@ -176,7 +176,7 @@
               >消耗額外木材，而不消耗黃金。
             </li>
             <li>
-              36906更新:移除
+              (36906更新) 移除
               <nuxt-link to="/building/Dock">碼頭</nuxt-link>與<nuxt-link
                 to="/building/Town_Center"
                 >城鎮中心</nuxt-link

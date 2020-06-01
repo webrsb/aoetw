@@ -650,6 +650,10 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               (35584更新)：雙手劍兵近戰防禦+1。
             </li>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>

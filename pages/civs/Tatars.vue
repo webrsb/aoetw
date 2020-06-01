@@ -164,7 +164,7 @@
               alt=""
             /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link
             >：針對騎兵、大象的駱駝<nuxt-link to="/units/Petard"
-              >爆炸桶</nuxt-link
+              >炸藥桶</nuxt-link
             >。
           </li>
           <h3>特殊科技</h3>

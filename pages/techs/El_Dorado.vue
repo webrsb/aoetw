@@ -87,6 +87,19 @@
             >感到不安。馬雅人為了保護他們隱藏的財富在激烈的戰鬥中會是非常強硬的對手。
           </p>
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>最初研發時間為50秒</li>
+          </ul>
+          <ul>
+            <li>(37650更新) 研發時間增加至70秒</li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -137,7 +150,7 @@
           </tr>
           <tr>
             <td class="unit3">研發時間</td>
-            <td class="unit4">50秒</td>
+            <td class="unit4">70秒</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">

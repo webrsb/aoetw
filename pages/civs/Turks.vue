@@ -68,10 +68,8 @@
               >，但是基於資源消耗的不平衡是不建議的，有免費的<nuxt-link
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
-              >/<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(舊稱<nuxt-link
-                to="/units/Hussar"
-                >匈牙利輕騎兵</nuxt-link
-              >)可以作為反制使用。
+              >/<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
+              >(舊稱翼騎兵)可以作為反制使用。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>的<nuxt-link
@@ -283,7 +281,7 @@
               >同盟後這項問題就被解決了。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>得<nuxt-link
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>的<nuxt-link
                 to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
               >(研發火砲術)跟遊戲裡攻擊最遠的<nuxt-link to="/units/Trebuchet"

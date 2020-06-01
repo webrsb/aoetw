@@ -229,9 +229,11 @@
                     /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
-                    <img src="~assets/LongboatIcon.png" alt="" /><nuxt-link
-                      to="/units/Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    <img
+                      class="gg"
+                      src="~assets/LongboatIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>

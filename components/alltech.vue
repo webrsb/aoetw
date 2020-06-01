@@ -257,7 +257,7 @@
                   <nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link>
                   (<nuxt-link to="/civs/Malians">馬利</nuxt-link>)<br />
                   <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>/
-                  <nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>
+                  <nuxt-link to="/tech/El_Dorado">黃金國</nuxt-link>
                   (<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>)<br />
                   <nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link>/
                   <nuxt-link to="/techs/Bagains">協議</nuxt-link>

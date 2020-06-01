@@ -160,7 +160,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4">除左述外所有文明</td>
+            <td class="unit4">請看介紹</td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

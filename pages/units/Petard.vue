@@ -7,7 +7,7 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <b>炸藥桶</b>(2013版稱<b>炸藥桶</b>)是<nuxt-link
+          <b>炸藥桶</b>(2013版稱<b>爆炸桶</b>)是<nuxt-link
             to="/units/Siege_Weapons"
             >攻城武器單位</nuxt-link
           >，可以在<nuxt-link to="/building/Castle">城堡</nuxt-link

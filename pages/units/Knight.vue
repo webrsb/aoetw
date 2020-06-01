@@ -656,7 +656,8 @@
               >/帝王時代各便宜15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>:移動速度在城堡/帝王時代增加10%/15%。
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >:移動速度在城堡/帝王時代增加10%/15%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：騎士<nuxt-link
@@ -669,7 +670,8 @@
               >的時間都加快40%
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>:每個放在修道院的遺跡都會給騎士+1攻擊(最多+4)。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >:每個放在修道院的遺跡都會給騎士+1攻擊(最多+4)。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
@@ -690,7 +692,8 @@
               >升級科技免黃金
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>:騎士由高往低攻擊的傷害增加50%。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >:騎士由高往低攻擊的傷害增加50%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -732,10 +735,12 @@
               >+2攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>:研發忠誠信仰和異端邪說的速度快20%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >:研發忠誠信仰和異端邪說的速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：兵工廠研發科技的速度快50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠研發科技的速度快50%。
             </li>
           </ul>
         </div>
@@ -793,7 +798,8 @@
             </li>
             <li>
               (34055更新)
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：最初騎士移動速度+10%。更新後改為在城堡/帝王時代速度增加10%/15%。。
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：最初騎士移動速度+10%。更新後改為在城堡/帝王時代速度增加10%/15%。。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
@@ -824,7 +830,8 @@
               >)。
             </li>
             <li>
-              <nuxt-link to="/units/Xolotl_Warrior">索洛托勇士</nuxt-link>和騎士的各項數據都是一樣的。
+              <nuxt-link to="/units/Xolotl_Warrior">索洛托勇士</nuxt-link
+              >和騎士的各項數據都是一樣的。
             </li>
           </ul>
         </div>

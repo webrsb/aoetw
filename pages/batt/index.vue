@@ -1023,7 +1023,9 @@
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <div id="a14">
-                      <nuxt-link to="/batt/El_Doradoa">黃金國(HD限定)</nuxt-link>
+                      <nuxt-link to="/batt/El_Doradoa"
+                        >黃金國(HD限定)</nuxt-link
+                      >
                     </div>
                   </div>
                 </td>
@@ -1031,11 +1033,7 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img
-                      src="~assets/a14.jpg"
-                      width="90"
-                      alt=""
-                    />
+                    <img src="~assets/a14.jpg" width="90" alt="" />
                   </div>
                 </td>
               </tr>

@@ -52,6 +52,19 @@
             強大的穆斯林軍隊的優勢在於他們的速度和對命運的絕對信仰。他們強烈的宗教信仰平息了任何戰士的自然恐懼，並給予他們敵人一種難以抵擋的無敵感。其影響是軍隊的規模和裝備與事實相去甚多。
           </p>
         </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>最初黃金成本為800</li>
+          </ul>
+          <ul>
+            <li>(37650更新) 黃金成本降至700</li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -121,7 +134,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">800</td>
+            <td class="unit4">700</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">

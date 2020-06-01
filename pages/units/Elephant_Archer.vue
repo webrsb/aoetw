@@ -872,6 +872,14 @@
               → 0，對反弓兵防禦類型0 → -2
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (37650更新) 攻擊速度從2.5秒減少至2秒、黃金成本則從80降至70。
+            </li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4">
@@ -963,7 +971,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">80</td>
+            <td class="unit4">70</td>
           </tr>
           <tr>
             <td
@@ -1000,7 +1008,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
             </td>
-            <td class="unit4">2.5</td>
+            <td class="unit4">2</td>
           </tr>
           <tr>
             <td class="unit3">

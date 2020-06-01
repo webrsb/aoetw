@@ -98,7 +98,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link
+              /><nuxt-link to="/tech/El_Dorado">黃金國</nuxt-link
               >(+40，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
             </td>
           </tr>
@@ -546,6 +546,10 @@
             </li>
             <li>
               (35584更新) 起始鷹斥侯擁有自動探圖功能。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
             </li>
           </ul>
         </div>

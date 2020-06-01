@@ -1410,7 +1410,7 @@
               <div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
-                src="~assets/Bombard-tower-research.jpg"
+                src="~assets/bombard_tower_tech.png"
                 alt=""
               />
               <div>

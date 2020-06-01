@@ -149,7 +149,7 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link
+              /><nuxt-link to="/tech/El_Dorado">黃金國</nuxt-link
               >(+40，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
             </td>
           </tr>
@@ -610,6 +610,15 @@
               5.7版本後鷹勇士現在對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝單位</nuxt-link
               >攻擊+2。
+            </li>
+          </ul>
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
             </li>
           </ul>
         </div>

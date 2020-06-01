@@ -151,7 +151,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Bombard-tower-research.jpg"
+                      src="~assets/bombard_tower_tech.png"
                       alt=""
                     /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>

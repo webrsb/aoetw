@@ -703,6 +703,15 @@
               >:不再擁有城堡建造速度更快的文明加成。
             </li>
           </ul>
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
+            </li>
+          </ul>
         </div>
         <h3>建築風格</h3>
         <div class="hrn1"></div>
