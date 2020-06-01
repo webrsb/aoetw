@@ -778,6 +778,14 @@
               >/帝王時代各便宜15%/20%。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              最初曼尼普爾騎兵給重裝騎士對一般建築額外+6攻擊；5.3改版後攻擊加成延伸為對一般和標準建築都+6攻擊。
+            </li>
+          </ul>
               <h3>
                 <em><nuxt-link to="/games/aof">決定版</nuxt-link></em>
               </h3>
