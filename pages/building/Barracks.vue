@@ -313,7 +313,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：軍營訓練速度快15%。
+              >：軍營訓練速度快10%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -400,6 +400,16 @@
               >訓練。
             </li>
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>
+          </ul>
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              (37650更新)
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >：軍事單位加快訓練速度由15%減為10%。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>

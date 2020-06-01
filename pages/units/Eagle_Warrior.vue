@@ -514,7 +514,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：鷹勇士生產速度提高15％。
+              >：鷹勇士訓練速度提高10％。
             </li>
           </ul>
         </div>
