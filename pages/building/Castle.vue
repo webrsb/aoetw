@@ -129,7 +129,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
                 to="/building/Castle"
                 >城堡</nuxt-link
-              >生產速度提高15％。
+              >訓練速度提高10％。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研究<nuxt-link

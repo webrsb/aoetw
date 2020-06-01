@@ -112,7 +112,7 @@
             <li>
               <nuxt-link to="/units/Villager">村民</nuxt-link>攜帶資源量+5
             </li>
-            <li>所有軍事單位訓練快15%</li>
+            <li>所有軍事單位訓練快10%</li>
             <li>
               每研發一個<nuxt-link to="/building/Monastery">修道院</nuxt-link
               >科技，<nuxt-link to="/units/Monk">僧侶</nuxt-link>+5HP
@@ -148,6 +148,16 @@
               特殊科技引入，<nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link
               >:矛兵額外獲得+1攻擊，+1射程
             </li>
+          </ul>
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              如果<nuxt-link to="/elements/Conversion">招降</nuxt-link
+              >了敵人的馬廄，可以訓練索洛托勇士。
+            </li>
+            <li>(37650更新) 軍事單位加快訓練速度由15%減為10%。</li>
           </ul>
         </div>
         <h3>圖庫</h3>

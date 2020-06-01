@@ -475,7 +475,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
                 to="/units/Elite_Eagle_Warrior"
                 >精銳鷹勇士</nuxt-link
-              >生產速度提高15％。
+              >訓練速度提高10％。
             </li>
           </ul>
         </div>

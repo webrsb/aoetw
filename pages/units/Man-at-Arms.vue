@@ -406,7 +406,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：裝甲步兵生產速度提高15％。
+              >：裝甲步兵訓練速度提高10％。
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link

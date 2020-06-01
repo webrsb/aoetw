@@ -435,7 +435,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：雙手劍兵生產速度提高15％。
+              >：雙手劍兵訓練速度提高10％。
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link

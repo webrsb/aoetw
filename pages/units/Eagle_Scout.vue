@@ -467,7 +467,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：鷹斥侯生產速度提高15％。
+              >：鷹斥侯訓練速度提高10％。
             </li>
           </ul>
         </div>

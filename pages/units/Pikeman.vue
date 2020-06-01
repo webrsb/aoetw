@@ -593,7 +593,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：重裝長槍兵生產速度提高15％。
+              >：重裝長槍兵訓練速度提高10％。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
