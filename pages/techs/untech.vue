@@ -1167,7 +1167,7 @@
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>系和<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
-              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。
+              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+2。
             </td>
           </tr>
           <tr>
