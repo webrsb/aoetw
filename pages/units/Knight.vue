@@ -19,7 +19,6 @@
               >長槍兵</nuxt-link
             >較劣勢。
           </p>
-          
         </div>
         <h3>文明可訓練與否</h3>
         <div class="hrn1"></div>
@@ -31,37 +30,37 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
-<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-<nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
-<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-<nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-<nuxt-link to="/civs/Huns">匈人</nuxt-link>、
-<nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-<nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
-<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
-<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-<nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-<nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-<nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
-<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-<nuxt-link to="/civs/Viking">維京</nuxt-link>。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Viking">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -74,10 +73,10 @@
                   >不可訓練：</b
                 >
               </h4>
-<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-<nuxt-link to="/civs/Incas">印加</nuxt-link>、
-<nuxt-link to="/civs/Indians">印度</nuxt-link>、
-<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>。
             </div>
           </div>
         </div>
@@ -226,7 +225,7 @@
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
             </td>
           </tr>
-                    <tr>
+          <tr>
             <td class="tta1" style="width:10%">攻擊速度</td>
             <td class="tta4">
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
@@ -275,7 +274,6 @@
           </tr>
         </table>
 
-
         <h3>剋騎士的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
@@ -284,7 +282,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
-                  <ul>
+                <ul>
                   <li>
                     <img
                       class="gg"
@@ -358,7 +356,7 @@
                     >
                   </li>
                 </ul>
-              
+
                 <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
                 <ul>
                   <li>
@@ -398,10 +396,9 @@
                     >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
                   </li>
                 </ul>
-                
-                </div>
-                <div class="col-md-6">
-                  <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
+              </div>
+              <div class="col-md-6">
+                <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
                 <ul>
                   <li>
                     <img
@@ -548,9 +545,8 @@
                   </li>
                 </ul>
               </div>
-                </div>
-
-              </div>
+            </div>
+          </div>
           <h3>科技</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -652,7 +648,7 @@
                 >視野</nuxt-link
               >下，羊群不會被牽走
             </li>
-            
+
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：對騎士有利的<nuxt-link to="/techs">科技</nuxt-link
@@ -660,7 +656,7 @@
               >/帝王時代各便宜15%/20%。
             </li>
             <li>
-              庫曼:移動速度在城堡/帝王時代增加10%/15%。
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>:移動速度在城堡/帝王時代增加10%/15%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：騎士<nuxt-link
@@ -673,7 +669,7 @@
               >的時間都加快40%
             </li>
             <li>
-              立陶宛:每個放在修道院的遺跡都會給騎士+1攻擊(最多+4)。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>:每個放在修道院的遺跡都會給騎士+1攻擊(最多+4)。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
@@ -694,11 +690,11 @@
               >升級科技免黃金
             </li>
             <li>
-              韃靼:騎士由高往低攻擊的傷害增加50%。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>:騎士由高往低攻擊的傷害增加50%。
             </li>
             <li>
-                  <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                  >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -736,10 +732,10 @@
               >+2攻擊。
             </li>
             <li>
-              立陶宛:研發忠誠信仰和異端邪說的速度快20%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>:研發忠誠信仰和異端邪說的速度快20%。
             </li>
             <li>
-              保加利亞：兵工廠研發科技的速度快50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：兵工廠研發科技的速度快50%。
             </li>
           </ul>
         </div>
@@ -786,30 +782,30 @@
               最初曼尼普爾騎兵給重裝騎士對一般建築額外+6攻擊；5.3改版後攻擊加成延伸為對一般和標準建築都+6攻擊。
             </li>
           </ul>
-              <h3>
-                <em><nuxt-link to="/games/aof">決定版</nuxt-link></em>
-              </h3>
-              <ul>
-                <li>
-                  (36909更新)
-                  <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-                  >：特殊科技馬蹬影響所有騎兵單位，但失去遊俠。
-                </li>
-                <li>
-                  (34055更新)
-                  庫曼：最初騎士移動速度+10%。更新後改為在城堡/帝王時代速度增加10%/15%。。
-                </li>
-                <li>
-                  <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
-                  >：原本可以額外多5攻擊力，更新檔34055後下修為最多額外4攻。
-                </li>
-                
-                <li>
-                  (36909更新)
-                  <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                  >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
-                </li>
-              </ul>
+          <h3>
+            <em><nuxt-link to="/games/aof">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (36909更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：特殊科技馬蹬影響所有騎兵單位，但失去遊俠。
+            </li>
+            <li>
+              (34055更新)
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：最初騎士移動速度+10%。更新後改為在城堡/帝王時代速度增加10%/15%。。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：原本可以額外多5攻擊力，更新檔34055後下修為最多額外4攻。
+            </li>
+
+            <li>
+              (36909更新)
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
@@ -828,7 +824,7 @@
               >)。
             </li>
             <li>
-              索洛托勇士和騎士的各項數據都是一樣的。
+              <nuxt-link to="/units/Xolotl_Warrior">索洛托勇士</nuxt-link>和騎士的各項數據都是一樣的。
             </li>
           </ul>
         </div>
@@ -860,8 +856,8 @@
               /></gallery>
               <p><em>一群騎士。</em></p>
             </div>
-           </div>
-    </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -998,7 +994,7 @@
         </table>
       </div>
     </div>
-</div>
+  </div>
 </template>
 <script>
 export default {
