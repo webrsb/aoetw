@@ -24,29 +24,7 @@
             >來培訓他們，讓他們成為“ 垃圾單位 ”。
           </p>
         </div>
-        <h3>戰術</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <p>
-            戟兵在攻擊騎兵部隊非常有用。到了大後期時，是一種非常好用的垃圾單位。
-          </p>
-          <p>
-            除了騎兵之外，他們在與敵方<nuxt-link to="/units/Elite_Skirmisher"
-              >戰矛兵</nuxt-link
-            >（即使<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
-            >對他們造成額外傷害）作戰方面相當不錯，因為他們可以接近<nuxt-link
-              to="/units/Elite_Skirmisher"
-              >戰矛兵</nuxt-link
-            >，並利用其最小射程。
-          </p>
-          <p>
-            他們是<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-            >的完美輔助，因為他們可以保護<nuxt-link to="/units/Siege_Weapons"
-              >攻城武器</nuxt-link
-            >免受敵方近戰騎兵的傷害。雖然它們可能缺乏進攻力量，但它們可以作為炮灰向前進攻。
-          </p>
-        </div>
-        <h3>文明可訓練與否</h3>
+                <h3>文明可訓練與否</h3>
         <div class="hrn1"></div>
         <div class="row">
           <div class="col-md-12">
@@ -56,41 +34,33 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
-                to="/civs/Byzantines"
-                >拜占庭</nuxt-link
-              >
-              、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
-                to="/civs/Celts"
-                >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
-                to="/civs/Goths"
-                >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
-              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                to="/civs/Japanese"
-                >日本</nuxt-link
-              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
-                to="/civs/Koreans"
-                >朝鮮</nuxt-link
-              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
-                to="/civs/Malay"
-                >馬來</nuxt-link
-              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
-                to="/civs/Persians"
-                >波斯</nuxt-link
-              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
-                to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Teutons"
-                >條頓</nuxt-link
-              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、韃靼、保加利亞、立陶宛、庫曼。
+<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+<nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+<nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+<nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+<nuxt-link to="/civs/Incas">印加</nuxt-link>、
+<nuxt-link to="/civs/Indians">印度</nuxt-link>、
+<nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+<nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+<nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
             </div>
           </div>
         </div>
@@ -119,6 +89,29 @@
             </div>
           </div>
         </div>
+        <h3>戰術</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            戟兵在攻擊騎兵部隊非常有用。到了大後期時，是一種非常好用的垃圾單位。
+          </p>
+          <p>
+            除了騎兵之外，他們在與敵方<nuxt-link to="/units/Elite_Skirmisher"
+              >戰矛兵</nuxt-link
+            >（即使<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+            >對他們造成額外傷害）作戰方面相當不錯，因為他們可以接近<nuxt-link
+              to="/units/Elite_Skirmisher"
+              >戰矛兵</nuxt-link
+            >，並利用其最小射程。
+          </p>
+          <p>
+            他們是<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >的完美輔助，因為他們可以保護<nuxt-link to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >免受敵方近戰騎兵的傷害。雖然它們可能缺乏進攻力量，但它們可以作為炮灰向前進攻。
+          </p>
+        </div>
+
         <h3>更多數據</h3>
         <div class="hrn1"></div>
         <div class="n1"></div>
