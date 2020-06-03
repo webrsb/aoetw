@@ -33,7 +33,7 @@
               >／500<nuxt-link to="/resource/Gold">黃金</nuxt-link
               >／600<nuxt-link to="/resource/Stone">石頭</nuxt-link>
             </li>
-            <li>人口上限：75</li>
+            <li>人口上限：100</li>
             <li>
               開場擁有單位：
               <ul>
@@ -71,11 +71,7 @@
               大地之母單位：
               <ul>
                 <li>
-                  <img
-                    src="~assets/TurtleShipIcon.png"
-                    class="gg"
-                    alt=""
-                  /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>3個
+                  精銳火砲戰船3個
                 </li>
               </ul>
             </li>
@@ -99,28 +95,28 @@
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
-            <tr>
+            <tr>              
               <td class="tc6">
-                <div class="p2"></div>
+                <div class="p6"></div>
                 玩家2
               </td>
-              <td class="tc6">特拉斯卡拉（紅色）阿茲特克</td>
+              <td class="tc6">科爾特斯海軍（紫色）西班牙</td>
               <td class="tc6">
                 <div class="p1"></div>
                 玩家3
               </td>
               <td class="tc6">
-                科爾特斯海軍（藍色）<nuxt-link to="/civs/Spanish"
+                科爾特斯陸軍（藍色）<nuxt-link to="/civs/Spanish"
                   >西班牙</nuxt-link
                 >
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p6"></div>
+             <td class="tc6">
+                <div class="p2"></div>
                 玩家4
               </td>
-              <td class="tc6" colspan="3">科爾特斯陸軍（紫色）西班牙</td>
+              <td class="tc6">特拉斯卡拉（紅色）阿茲特克</td>
             </tr>
           </table>
 
@@ -132,6 +128,7 @@
                 擊敗<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
                 >的海軍陸軍和特拉斯卡拉。
               </li>
+              <LI>防止特洛斯提特蘭的世界奇觀被摧毀就能保證您軍士氣。</LI>
             </ol>
           </div>
           <h3>任務提示</h3>
@@ -192,28 +189,14 @@
               本戰役玩家必須保衛特諾奇提特蘭，這座城市非常大，有許多<nuxt-link
                 to="/building"
                 >建築物</nuxt-link
-              >。在北方的海域，玩家可以得到三隻由眾神賜予的精銳龜甲船。特諾奇特蘭的南方橋樑被摧毀，以減緩科爾特斯海軍的進攻。玩家可以安全地從北方小島上的金礦中獲得黃金，因為在島上沒有美洲虎。
+              >。在北方的海域，玩家可以得到三隻精銳火砲戰船幫忙打擊敵人。特諾奇特蘭的南方橋樑被摧毀，以減緩科爾特斯海軍的進攻。玩家可以安全地從北方小島上的金礦中獲得黃金，因為在島上沒有美洲虎。
             </li>
             <li>
-              一開始，玩家需要加強對科爾特斯和特拉斯卡拉地面攻擊的防禦，同時建造<nuxt-link
-                to="/units/Fire_Ship"
-                >火戰船</nuxt-link
-              >抵禦科爾特斯海軍。為了防禦科爾特斯軍隊，玩家需要在北方建立額外的<nuxt-link
-                to="/building/Watch_Tower"
-                >箭塔</nuxt-link
-              >（最初只有一座），並在那裡駐防步兵以摧毀<nuxt-link
+              一開始，玩家需要加強對科爾特斯和特拉斯卡拉地面攻擊的防禦，優先挖石並在各個空曠處建造城堡防止西班牙陸軍登陸，並在北方駐防步兵以摧毀<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >和<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-              >。防禦特拉斯卡拉，玩家應該在西部建造大門和箭塔。玩家也應盡快升級火戰船和其他相關單位。
-            </li>
-            <li>
-              玩家可以很容易地擊敗科爾特斯軍隊的<nuxt-link
-                to="/building/Town_Center"
-                >城鎮中心</nuxt-link
-              >，只要在他們的大門前安置一個<nuxt-link to="/units/Trebuchet"
-                >巨型投石機</nuxt-link
-              >就可以摧毀它了。而特拉斯卡拉的防禦在遊戲剛開始時還很薄弱，也需要時間才能建立一個實際的軍隊，可以的話就早點進攻。一旦城鎮中心被摧毀，科爾特斯陸軍就會投降。
+              >。防禦特拉斯卡拉，玩家應該在西部建造大門和城堡。玩家也應盡快升級火戰船和其他相關單位。
             </li>
             <li>
               在特諾奇提特蘭以西的島嶼（通過三座橋樑相連），特拉斯卡拉有兩個<nuxt-link
@@ -228,10 +211,15 @@
               >、<nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link
               >攻擊你，還會用運輸船帶<nuxt-link to="/units/Siege_Ram"
                 >重型衝撞車</nuxt-link
-              >、巨型投石機和征服者渡海而來。他們的基地被火砲塔圍繞，不過基地的西面和東面都有漏洞，玩家可以輕鬆地用投石機摧毀火砲塔。但是玩家必須小心，不要讓載有單位的運輸船被塔擊沉。同樣的破壞城鎮中心他們就會投降。如果玩家此時已經擊敗了科爾特斯陸軍和特拉斯卡拉，為了找到科爾特斯海軍的城鎮中心，玩家可以考慮研究是否有大量的黃金研發<nuxt-link
-                to="/techs/Spies"
-                >間諜</nuxt-link
-              >技術，研究的成本會比之前便宜得多是因為大量的敵人村民被消滅了。
+              >、巨型投石機和征服者渡海而來。他們的基地被火砲塔圍繞，不過基地的西面和東面都有漏洞，玩家可以輕鬆地用投石機摧毀火砲塔。但是玩家必須小心，不要讓載有單位的運輸船被塔擊沉。開始進攻時，推薦由西側登入，並使用長槍兵搭配巨型投石機衝鋒，同時用火戰船堵住橋口不要讓敵方艦隊去阻礙登陸型動。一定要解決火砲塔才能用火戰船掩護以解決精銳火砲戰船。
+            </li>
+            <LI>解決掉海軍之後，接下來就順勢把西班牙陸軍和特拉斯卡拉解決即可。使用火砲戰船砲轟沿岸的防禦工事和建築再派陸上部隊收尾。</LI>
+          </ul>
+                    <h3>決定版變更點</h3>
+          <div class="hrn1"></div>
+          <ul>
+            <li>
+              人口上限由75改成100，西班牙海陸軍顏色對調，大地之母的3艘精銳龜甲船改成精銳火砲戰船。以往西班牙陸軍打掉北方的城鎮中心就投降，決定版修掉了。
             </li>
           </ul>
           <h3>細節</h3>
