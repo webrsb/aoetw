@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>悲傷之夜</h1>
+        <h1>悲痛之夜</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>悲傷之夜</b>是《<nuxt-link to="/games/aoc"
+            <b>悲痛之夜</b>是《<nuxt-link to="/games/aoc"
               >世紀帝國II：征服者入侵</nuxt-link
             >》<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
             >的第四個場景。
@@ -54,7 +54,7 @@
               >:900，<nuxt-link to="/resource/Gold">黃金</nuxt-link
               >:900，<nuxt-link to="/resource/Stone">石頭</nuxt-link>:600
             </li>
-            <li>人口上限:75</li>
+            <li>人口上限:100</li>
             <li>
               開場擁有單位:
               <ul>
@@ -148,25 +148,27 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p2"></div>
-                玩家2
-              </td>
-              <td class="tc6">特拉斯卡拉(紅色)阿茲特克</td>
+              
               <td class="tc6">
                 <div class="p1"></div>
-                玩家3
+                玩家2
               </td>
               <td class="tc6">
                 科爾特斯(藍色)<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
               </td>
+                            <td class="tc6">
+                <div class="p4"></div>
+                玩家3
+              </td>
+              <td class="tc6">征服阿茲特克(黃色)阿茲特克</td>
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4"></div>
+                <div class="p2"></div>
                 玩家4
               </td>
-              <td class="tc6">被征服的阿茲特克人(黃色)阿茲特克</td>
+              <td class="tc6">特拉斯卡拉(紅色)阿茲特克</td>
+
             </tr>
           </table>
 
@@ -273,6 +275,13 @@
               一旦你摧毀了這個奇蹟，科爾特斯會立即投降，你和被征服的阿茲台克人會一起宣布獲勝者，儘管狀態是“敵對”。
             </li>
           </ul>
+                    <h3>決定版變更點</h3>
+          <div class="hrn1"></div>
+          <ul>
+            <li>
+              人口上限由75改100。
+            </li>
+          </ul>
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <ul>
@@ -302,7 +311,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                悲傷之夜
+                悲痛之夜
               </div>
             </td>
           </tr>
@@ -365,7 +374,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link>
+              <nuxt-link to="/batt/The_Boiling_Lake">沸騰之湖</nuxt-link>
             </td>
           </tr>
         </table>
