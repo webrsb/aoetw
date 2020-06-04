@@ -63,7 +63,7 @@
                 玩家2
               </td>
               <td class="tc6">
-                <nuxt-link to="/civs/Britons">英國</nuxt-link>（紅色）<nuxt-link
+                <nuxt-link to="/civs/Britons">英格蘭</nuxt-link>（紅色）<nuxt-link
                   to="/civs/Britons"
                   >不列顛</nuxt-link
                 >
@@ -73,9 +73,7 @@
                 玩家3
               </td>
               <td class="tc6">
-                耶路撒冷（藍色）<nuxt-link to="/civs/Byzantines"
-                  >拜占庭</nuxt-link
-                >
+                耶路撒冷（藍色）法蘭克
               </td>
             </tr>
             <tr>
@@ -85,13 +83,13 @@
               </td>
               <td class="tc6" width="38%">
                 聖殿<nuxt-link to="/units/Knight">騎士</nuxt-link
-                >（黃色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+                >團（黃色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p8"></div>
                 玩家5
               </td>
-              <td class="tc6" width="38%">救傷團（橘色）條頓</td>
+              <td class="tc6" width="38%">醫院騎士團（橘色）條頓</td>
             </tr>
           </table>
 
@@ -138,6 +136,27 @@
                 to="/building/Stone_Wall"
                 >城牆</nuxt-link
               >或<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>。
+            </li>
+          </ul>
+        </div>
+               <h2>攻略</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              由於是一打四，開場就要快攻英格蘭減少敵人數，南方也要訓練長槍兵，大約七分鐘夏提永的雷諾就會殺進來。
+            </li>
+            <li>
+              再來就是訓練軍隊和衝車突破兩個騎士團的防守，讓僧侶把遺蹟運回指定地點。
+            </li>
+          </ul>
+        </div>
+               <h2>決定版變更點</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              耶路撒冷的種族由拜占庭改成法蘭克。
             </li>
           </ul>
         </div>
@@ -204,7 +223,7 @@
             <td class="unit3">下一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                >耶路撒冷攻城戰</nuxt-link
+                >兵臨聖城</nuxt-link
               >
             </td>
           </tr>
