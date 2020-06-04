@@ -82,7 +82,7 @@
                 玩家3
               </td>
               <td class="tc6" width="38%">
-                救傷團（橘色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+                醫院騎士團（橘色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -91,7 +91,7 @@
                 玩家4
               </td>
               <td class="tc6">
-                聖殿<nuxt-link to="/units/Knight">騎士</nuxt-link>（黃色）條頓
+                聖殿<nuxt-link to="/units/Knight">騎士</nuxt-link>團（黃色）條頓
               </td>
             </tr>
           </table>
@@ -141,6 +141,28 @@
             <li>
               <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
               >可以在一定距離之外擊毀箭塔。
+            </li>
+          </ul>
+        </div>
+                <h2>攻略</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              快速建立一個基地後，先蓋一座城堡防守。有多餘的兵力可以先去偷襲耶路薩冷正在種田的村民。
+            </li>
+                        <li>
+              開始進攻時，如有遇到聖殿騎士團和醫院騎士團就順便把他們的基地打敗。那五座塔用巨型投石機一一解決即可。有一座塔在中央需要破城而入，注意不要讓部隊毀掉修道院等設施，否則任務會失敗。
+            </li>
+
+          </ul>
+        </div>
+                <h2>決定版變更點</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              人口上限由75改100。
             </li>
           </ul>
         </div>
@@ -205,7 +227,7 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4"><nuxt-link to="/batt/Jihad">聖戰</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/batt/Jihad">聖戰！</nuxt-link></td>
           </tr>
         </table>
 
