@@ -12,7 +12,7 @@
               >薩拉丁戰役</nuxt-link
             >的第六關劇情關卡，也是薩拉丁戰役的最後一關<nuxt-link to="/batt"
               >戰役</nuxt-link
-            >
+            >。玩家必須在阿卡城建立世界奇觀並抵擋十字軍的攻擊。實際上阿卡城並不存在。
           </p>
         </div>
         <h2>玩家</h2>
@@ -33,7 +33,7 @@
                 >／1,000<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">100</td>
             </tr>
           </table>
 
@@ -64,7 +64,7 @@
               </td>
               <td class="tc6" colspan="3">
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
-                >的警備部隊（紫色）波斯
+                >哨站（紫色）波斯
               </td>
             </tr>
             <tr>
@@ -84,9 +84,7 @@
                 玩家3
               </td>
               <td class="tc6">
-                耶路撒冷（灰色）<nuxt-link to="/civs/Byzantines"
-                  >拜占庭</nuxt-link
-                >
+                耶路撒冷（灰色）法蘭克
               </td>
             </tr>
             <tr>
@@ -95,7 +93,7 @@
                 玩家4
               </td>
               <td class="tc6">
-                理查 （紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+                獅心王理查 （紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p4"></div>
@@ -103,7 +101,7 @@
               </td>
               <td class="tc6">
                 聖殿<nuxt-link to="/units/Knight">騎士</nuxt-link
-                >（黃色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+                >團（黃色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -111,7 +109,7 @@
                 <div class="p5"></div>
                 玩家6
               </td>
-              <td class="tc6">熱那亞人（藍綠色）拜占庭</td>
+              <td class="tc6">熱那亞（青色）義大利</td>
             </tr>
           </table>
 
@@ -161,13 +159,15 @@
               >範圍以外所冒的風險。
             </li>
           </ul>
-          <h2>芝麻小事</h2>
+          <h2>攻略</h2>
+                  <div class="hrn1"></div>
+        <div class="n1">
           <ul>
-            <li>阿克爾城歷史上並不存在</li>
+            
             <li>
               雖然任務的目標是建築<nuxt-link to="/building/Wonder"
                 >世界奇觀</nuxt-link
-              >並且防禦之，但還是比較建議運用起始資源進行充足的防守。
+              >並且防禦之，但還是比較建議運用起始資源進行充足的防守。不久後波斯會運送一匹精銳戰象到我方陣地。
             </li>
             <li>
               把神弓手駐進<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
@@ -181,7 +181,7 @@
             </li>
             <li>
               法蘭克人會派<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
-              >、耶路撒冷會派巨投，獅心王李察最後會架起他的<nuxt-link
+              >、耶路撒冷會派巨投，獅心王理察最後會架起他的<nuxt-link
                 to="/units/Siege_Weapons"
                 >英雄投石機</nuxt-link
               >：<nuxt-link to="/units/hero/God_s_Own_Sling">神之弓</nuxt-link
@@ -197,16 +197,26 @@
               你占據地圖的左側、敵人位於右側：敵人的分布，自上而下順序是熱那亞、法蘭克人、聖殿騎士、獅心王，與耶路撒冷。
             </li>
             <li>
-              建議的攻擊順序是耶路撒冷、<nuxt-link
+              成就「進攻即是最好的防禦」：在建造世界奇觀前打敗所有敵人。建議的攻擊順序是耶路撒冷、<nuxt-link
                 to="/units/hero/Richard_the_Lionheart"
-                >獅心王查理</nuxt-link
-              >，然後是法蘭克人和聖殿騎士、熱那亞，消滅理查與耶路撒冷後可以於地圖的右下角發現大量的金礦，反之，也可以先消滅法蘭克人與聖殿騎士，取得右上角的金礦。
+                >獅心王理查</nuxt-link
+              >，然後是法蘭克人和聖殿騎士、熱那亞，消滅理查與耶路撒冷後可以於地圖的右下角發現大量的金礦，反之，也可以先消滅法蘭克人與聖殿騎士，取得右上角的金礦。兵種組成建議是重裝馬騎弓兵、精銳阿拉伯奴隸兵、僧侶和巨型投石機。
             </li>
             <li>
               這關卡還有一個比較簡單的玩法：將西邊島嶼上的金礦、樹木採集完畢，就可以在這裡建造世界奇觀。當敵人主要關注於你的要塞防禦，世界奇觀的倒數也就默默完成。
             </li>
           </ul>
         </div>
+          </div>
+          <h2>決定版變更點</h2>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ol>
+              <li>人口上限由75改100，耶路撒冷種族由拜占庭改成法蘭克，熱那亞種族由拜占庭改成義大利。</li>
+              <li>新增成就「進攻即是最好的防禦」：在蓋世界奇觀之前全滅敵人。</li>
+            </ol>
+          </div>        
+        
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -264,7 +274,7 @@
           </tr>
           <tr>
             <td class="unit3">上一關</td>
-            <td class="unit4"><nuxt-link to="/batt/Jihad">聖戰</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/batt/Jihad">聖戰！</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
