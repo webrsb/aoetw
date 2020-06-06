@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>《世紀帝國II：決定版》</b
-            >，譯名有很多又稱<b>最後可汗</b>，是世紀帝國II第五張資料片，也是最新的資料片，將在2019年秋季發行。本資料片新增了四個新<nuxt-link
+            >，譯名有很多又稱<b>最後的可汗</b>，是世紀帝國II第五張資料片，也是最新的資料片，將在2019年秋季發行。本資料片新增了四個新<nuxt-link
               to="/civs"
               >文明</nuxt-link
             >、4K高畫質及完全重製的畫面及音軌。
@@ -151,7 +151,7 @@
             <li>
               <strong
                 ><nuxt-link to="/civs/Bulgarians">草原槍兵</nuxt-link></strong
-              >:庫曼、韃靼與波斯於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
+              >:庫曼、韃靼與蒙古於馬廄生產的特殊單位。擁有更廣攻擊範圍的近戰騎兵。
             </li>
             <li>
               <strong>索洛托勇士</strong
@@ -254,7 +254,7 @@
           <ul>
             <li>
               <strong><nuxt-link to="/techs/Supplies">供給</nuxt-link></strong
-              >:150肉 100金，民兵系成本-15食物，除哥德之外所有文明皆有。
+              >:150肉 100金，民兵系成本-15食物，除中國，庫曼，哥德，匈奴，高棉，立陶宛，馬雅，蒙古，韃靼之外所有文明皆有。
             </li>
           </ul>
         </div>
@@ -271,7 +271,7 @@
                 ><nuxt-link to="/techs/Timurid_Siegecraft"
                   >帖木兒攻城術</nuxt-link
                 ></strong
-              >:韃靼特殊科技。巨型投石機射程+1。
+              >:韃靼特殊科技。巨型投石機射程+2，可啟用火焰駱駝。
             </li>
             <li>
               <strong><nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link></strong
@@ -351,7 +351,7 @@
           <div class="n1"></div>
           <div class="n1">
             <ul>
-              <li>阿拉里克(歌德)</li>
+              <li>阿拉里克(哥德)</li>
               <li>巴里(拜占庭)</li>
               <li>
                 德古拉(馬札爾/斯拉夫/土耳其，特別是"火龍展翅"和"撥雲見月"這兩個改動最多。)
@@ -361,7 +361,7 @@
               <li>斯福爾扎(義大利)</li>
             </ul>
           </div>
-          <h5>歷史場景</h5>
+          <h5>歷史戰役場景</h5>
           <div class="n1"></div>
           <div class="n1">
             <ul>
