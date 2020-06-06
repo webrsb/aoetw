@@ -30,22 +30,16 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
-                to="/civs/Franks"
-                >法蘭克</nuxt-link
-              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
-                to="/civs/Huns"
-                >匈人</nuxt-link
-              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
-                to="/civs/Persians"
-                >波斯</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Teutons"
-                >條頓</nuxt-link
-              >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
-                to="/civs/Lithuanians"
-                >立陶宛</nuxt-link
-              >。
+<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+<nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+<nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+<nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
             </div>
           </div>
         </div>
@@ -58,43 +52,31 @@
                   >不可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-                to="/civs/Berbers"
-                >柏柏</nuxt-link
-              >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
-                to="/civs/Burmese"
-                >緬甸</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
-              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                to="/civs/Italians"
-                >義大利</nuxt-link
-              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
-                to="/civs/Khmer"
-                >高棉</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
-                to="/civs/Malay"
-                >馬來</nuxt-link
-              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
-                to="/civs/Mayans"
-                >馬雅</nuxt-link
-              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
-                to="/civs/Portuguese"
-                >葡萄牙</nuxt-link
-              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
-                to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
-                to="/civs/Vietnamese"
-                >越南</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >、<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>。
+<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+<nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+<nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+<nuxt-link to="/civs/Incas">印加</nuxt-link>、
+<nuxt-link to="/civs/Indians">印度</nuxt-link>、
+<nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+<nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+<nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+<nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+<nuxt-link to="/civs/Viking">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -108,10 +90,8 @@
             to="/building"
             >建築</nuxt-link
           >。<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-          >遊俠比一般遊俠多12HP；波斯（和其同盟）則是可以給弓兵多2的額外傷害，尤其對付打馬弓騎兵猶為明顯；<nuxt-link
-            to="/civs/Lithuanians"
-            >立陶宛</nuxt-link
-          >遊俠則每擁有1個聖物就能加1攻，最多加4攻可達到22攻，攻擊加滿能和法蘭克競爭最強遊俠寶座。<nuxt-link
+          >雖然缺乏品種，但受益於文明加成給遊俠額外20%HP，讓法蘭克的遊俠是全遊戲中血最厚的；<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+          >遊俠則每擁有1個聖物就能加1攻，最多加4攻可達到22攻，攻擊加滿能和法蘭克競爭最強遊俠寶座。庫曼的遊俠因為庫曼的文明加成讓其成為全遊戲遊俠移動速度最快的(+15%移動速度)；<nuxt-link
             to="/civs/Teutons"
             >條頓</nuxt-link
           >的遊俠則是缺跑速，但<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
@@ -298,249 +278,351 @@
             <div class="n1">
               <div class="row">
                 <div class="col-md-6">
-                  <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/HalberdierIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+22攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/PikemanIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+18攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/HeavyCamelIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Heavy_Camel"
-                        >重裝駱駝騎兵</nuxt-link
-                      >→
-                      <img
-                        class="gg"
-                        src="~assets/ImperialCamelIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Imperial_Camel"
-                        >帝王駱駝騎兵</nuxt-link
-                      >(<nuxt-link to="/units/Imperial_Camel"
-                        >帝王駱駝騎兵</nuxt-link
-                      >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/SpearmanIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
-                    </li>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/CannonGalleonIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Cannon_Galleon"
-                        >火砲戰船</nuxt-link
-                      >→
-                      <img
-                        class="gg"
-                        src="~assets/Elite_cannon_galleonicon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Elite_Cannon_Galleon"
-                        >精銳火砲戰船</nuxt-link
-                      >
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/Saracenmamluk_icon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Mameluke"
-                        >精銳阿拉伯奴隸兵</nuxt-link
-                      >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
-                    </li>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/Kamayuk_Icon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link
-                      >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
-                    </li>
-                  </ul>
-                </div>
-                <div class="col-md-6">
-                  <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/CamelIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
-                    </li>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/Saracenmamluk_icon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-                      >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/Kamayuk_Icon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-                      >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/New_Genoese_Crossbowman.png"
-                        alt=""
-                      /><nuxt-link to="/units/Genoese_Crossbowman"
-                        >精銳熱那亞弩手</nuxt-link
-                      >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/New_Genoese_Crossbowman.png"
-                        alt=""
-                      /><nuxt-link to="/units/Genoese_Crossbowman"
-                        >熱那亞弩手</nuxt-link
-                      >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/EliteEagleWarriorIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Elite_Eagle_Warrior"
-                        >精銳鷹勇士</nuxt-link
-                      >
-                    </li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
-                  <ul>
-                    <li>
-                      <img
-                        class="gg"
-                        src="~assets/EagleWarriorIcon.png"
-                        alt=""
-                      /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
-                    </li>
-                  </ul>
-                </div>
+                <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Flaming_camel_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/HalberdierIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+22攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/PikemanIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+18攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/HeavyCamelIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/ImperialCamelIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/SpearmanIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CannonGalleonIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/Elite_cannon_galleonicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
+                      >精銳火砲戰船</nuxt-link
+                    >
+                  </li>
+                </ul>
+
+                <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Saracenmamluk_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Mameluke"
+                      >精銳阿拉伯奴隸兵</nuxt-link
+                    >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Kamayukicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link
+                    >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
+                  </li>
+                </ul>
+
+                <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CamelIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Saracenmamluk_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+                    >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
+                  </li>
+                </ul>
+              </div>
+              <div class="col-md-6">
+                <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Kamayukicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
+                    >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/New_Genoese_Crossbowman.png"
+                      alt=""
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
+                      >精銳熱那亞弩手</nuxt-link
+                    >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/New_Genoese_Crossbowman.png"
+                      alt=""
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
+                      >熱那亞弩手</nuxt-link
+                    >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EliteEagleWarriorIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Eagle_Warrior"
+                      >精銳鷹勇士</nuxt-link
+                    >
+                  </li>
+                </ul>
+                <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EagleWarriorIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
+                  </li>
+                </ul>
+
+                <div style="margin:12px 0px;"><strong>+0攻擊</strong></div>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      style="margin: 2px;"
+                      src="~assets/MilitiaIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      style="margin: 2px;"
+                      src="~assets/ManAtArmsIcon.png"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/LongswordsManIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/2HandedswordsmanIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Two-Handed_Swordsman"
+                      >雙手劍兵</nuxt-link
+                    >→
+                    <img
+                      class="gg"
+                      src="~assets/ChampionIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/EagleScoutIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/CondottieroIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                    >(<nuxt-link to="/civs/Italians">義大利</nuxt-link
+                    >和同盟限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/ChuKoNuIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/ChuKoNuIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Chu_Ko_Nu">精銳連弩兵</nuxt-link
+                    >(<nuxt-link to="/civs/Chinese">中國</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
+                      to="/units/Berserk"
+                      >狂戰士</nuxt-link
+                    >→
+                    <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
+                      to="/units/Berserk"
+                      >精銳狂戰士</nuxt-link
+                    >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/JaguarWarriorIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/JaguarWarriorIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Jaguar_Warrior"
+                      >精銳豹勇士</nuxt-link
+                    >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
+                  </li>
+                </ul>
               </div>
             </div>
-            以下科技可讓以下單位對遊俠有額外攻擊力
-            <div class="n1">
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                width="22"
-                alt=""
-              /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
-              <div width="22" style="margin:12px 0px;">
-                <strong>+5攻擊</strong>(<nuxt-link to="/civs/Vikings"
-                  >維京</nuxt-link
-                >限定)
-              </div>
-              <ul>
-                <li>
-                  <img
-                    class="gg"
-                    src="~assets/MilitiaIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
-                  <img
-                    class="gg"
-                    src="~assets/ManAtArmsIcon.png"
-                    width="22"
-                    alt=""
-                  /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
-                  <img
-                    class="gg"
-                    src="~assets/LongswordsManIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
-                  <img
-                    class="gg"
-                    src="~assets/2HandedswordsmanIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Two-Handed_Swordsman"
-                    >雙手劍兵</nuxt-link
-                  >→
-                  <img
-                    class="gg"
-                    src="~assets/ChampionIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
-                </li>
-                <li>
-                  <img
-                    class="gg"
-                    src="~assets/SpearmanIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
-                  <img
-                    class="gg"
-                    src="~assets/PikemanIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
-                </li>
-                <li>
-                  <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
-                    to="/units/Berserk"
-                    >狂戰士</nuxt-link
-                  >→ <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
-                    to="/units/Berserk"
-                    >精銳狂戰士</nuxt-link
-                  >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
-                </li>
-                <li>
-                  <img
-                    class="gg"
-                    src="~assets/CondottieroIcon.png"
-                    alt=""
-                  /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
-                  >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
-                  >同盟的話)
-                </li>
-              </ul>
+          </div>
+          <h3>科技</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <img
+              class="gg"
+              src="~assets/unique_tech.png"
+              width="22"
+              alt=""
+            /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>
+            <div width="22" style="margin:12px 0px;">
+              <strong>+5攻擊</strong>(<nuxt-link to="/civs/Vikings"
+                >維京</nuxt-link
+              >限定)
             </div>
+            <ul>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/MilitiaIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Militia">民兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/ManAtArmsIcon.png"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/LongswordsManIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Two-Handed_Swordsman"
+                  >雙手劍兵</nuxt-link
+                >→
+                <img
+                  class="gg"
+                  src="~assets/ChampionIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/SpearmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/PikemanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
+              </li>
+              <li>
+                <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
+                  to="/units/Berserk"
+                  >狂戰士</nuxt-link
+                >→ <img class="gg" src="~assets/VBRSK.png" alt="" /><nuxt-link
+                  to="/units/Berserk"
+                  >精銳狂戰士</nuxt-link
+                >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/CondottieroIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                >(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link
+                >同盟的話)
+              </li>
+            </ul>
+          </div>
+        </div>
+              </div>
             <h3>文明加成</h3>
             <div class="hrn1"></div>
             <div class="n1">
@@ -550,6 +632,9 @@
                   >：只要在一個塞爾特單位的視野下，羊群不會被牽走
                 </li>
                 <li>
+                  庫曼:遊俠移動速度+15%
+                </li>
+                <li>
                   <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
                   >：遊俠血量多20%，研發<nuxt-link to="/techs/Chivalry"
                     >騎士精神</nuxt-link
@@ -557,8 +642,8 @@
                   >的研發速度都加快40%
                 </li>
                 <li>
-                  <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                  >：馬廄單位於城堡時代和帝王時代近戰防禦各+1，共+2。
+                  <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+                  >：每擁有1個聖物，就額外多1攻擊力，最多額外多4攻。
                 </li>
                 <li>
                   <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -574,8 +659,8 @@
                   >升級科技免黃金
                 </li>
                 <li>
-                  <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
-                  >：每擁有1個聖物，就額外多1攻擊力，最多額外多4攻。
+                  <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+                  >：遊俠近戰防禦+2。
                 </li>
               </ul>
             </div>
@@ -592,6 +677,10 @@
                   >的研究時間(快25%)。
                 </li>
                 <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠研發科技的速度快50%。
+            </li>
+                <li>
                   <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：遊俠+2視野。
                 </li>
                 <li>
@@ -601,6 +690,10 @@
                   >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
                   >研發快20%。
                 </li>
+                <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >:研發忠誠信仰和異端邪說的速度快20%。
+            </li>
                 <li>
                   <nuxt-link to="/civs/Persians">波斯</nuxt-link
                   >：遊俠對<nuxt-link to="/armor/Armor_Class_Archer"
@@ -648,7 +741,7 @@
                 <li>
                   (36909更新)
                   <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-                  >：特殊科技馬蹬影響所有騎兵單位，但失去遊俠，因此攻速快25%的遊俠只可能在自訂戰役的編輯模式使用。
+                  >：最初可以訓練遊俠，更新後遊俠被從科技樹拿掉。
                 </li>
                 <li>
                   (36909更新)
@@ -669,29 +762,13 @@
                   >和<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
                   >。然而，如果你考慮到升級遊俠前你還得升級成重裝騎士，那麼成本就是1600食物和1050黃金，則只有投石車與戰象更高。
                 </li>
-                <li>為了平衡，遊俠的攻速(1.93)比重裝騎士(1.83)還慢。</li>
+                <li>為了平衡，遊俠的攻速(1.9)比重裝騎士(1.8)還慢。</li>
                 <li>
                   騎士系列是遊戲中;僅有的四種對任何東西都沒加成的單位，另外三種是<nuxt-link
                     to="/units/Militia"
                     >民兵</nuxt-link
                   >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
                   >和<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>。
-                </li>
-                <li>
-                  <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
-                    to="/civs/Teutons"
-                    >條頓</nuxt-link
-                  >、以及收齊聖物的<nuxt-link to="/civs/Lithuanians"
-                    >立陶宛</nuxt-link
-                  >的遊俠有額外加成，因為法蘭克多了12hp（雖然缺品種但文明本身有加成）、條頓擁有額外2近防（美中不足的是缺耕種技術）、立陶宛根據持有的聖物最多額外多4攻；而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
-                    to="/techs/Bloodlines"
-                    >品種</nuxt-link
-                  >與<nuxt-link to="/techs/Plate_Barding_Armor"
-                    >鐵鎧甲</nuxt-link
-                  >。緊跟在後的是拜占庭遊俠，缺乏品種與<nuxt-link
-                    to="/techs/Blast_Furnace"
-                    >鼓風爐</nuxt-link
-                  >；其他有遊俠的文明則有科技全滿的遊俠。而各文明的遊俠單挑時，加滿攻4擊的立陶宛完勝法蘭克和條頓，而條頓和法蘭克的遊俠單挑時也因為多2近防的關係補足生命值的差距，近而可以把法蘭克遊俠打敗。
                 </li>
                 <li>
                   隨著<nuxt-link to="/games/ak">非洲王國</nuxt-link
@@ -704,12 +781,31 @@
                     >特殊單位</nuxt-link
                   >。)
                 </li>
-                <li>所有遊俠文明皆是歐洲或中東風格。</li>
+                <li>所有遊俠文明皆是歐洲或中東風格。決定版發行後中亞的庫曼也可以訓練遊俠。</li>
+                <li>
+                    擁有四個遺跡攻擊力滿22的立陶宛遊俠與精銳列提司、精銳彎刀勇士並列全遊戲攻擊力第二的寶座(排除攻城器和火藥單位)，僅輸給精銳戰象的24攻擊力。
+                </li>
                 <li>
                   <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>是<nuxt-link
                     to="/games/aof"
                     >失落的帝國</nuxt-link
-                  >之後，在決定版實裝前唯一的遊俠文明。而決定版實裝的四個新文明中，最初有三個文明有遊俠且科技都全滿，只有韃靼文明沒有遊俠；更新檔36909之後把保加利亞的遊俠拿掉了。
+                  >之後，在決定版實裝前唯一的遊俠文明。而決定版實裝的四個新文明中，最初有三個文明有遊俠且科技都全滿，只有韃靼文明沒有遊俠；更新檔36909之後把保加利亞的遊俠也拿掉了。
+                </li>
+                <li>
+                  <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
+                    to="/civs/Teutons"
+                    >條頓</nuxt-link
+                  >、以及收齊聖物的<nuxt-link to="/civs/Lithuanians"
+                    >立陶宛</nuxt-link
+                  >的遊俠有額外加成，法蘭克多了12hp（雖然缺品種但文明本身有加成）、條頓擁有額外2近防（美中不足的是缺耕種技術）、立陶宛根據持有的聖物最多額外多4攻；而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
+                    to="/techs/Bloodlines"
+                    >品種</nuxt-link
+                  >與<nuxt-link to="/techs/Plate_Barding_Armor"
+                    >鐵鎧甲</nuxt-link
+                  >。緊跟在後的是拜占庭遊俠，缺乏品種與<nuxt-link
+                    to="/techs/Blast_Furnace"
+                    >鼓風爐</nuxt-link
+                  >；其他有遊俠的文明則有科技全滿的遊俠。而各文明的遊俠單挑時，加滿4攻擊的立陶宛完勝法蘭克和條頓，而條頓和法蘭克的遊俠單挑時條頓因為多2近防的關係補足生命值的差距，近而可以擊敗法蘭克遊俠。
                 </li>
               </ul>
             </div>
@@ -744,15 +840,14 @@
                 </div>
                 <div class="col-md-4">
                   <gallery
-                    ><img class="imgn hg" src="~assets/Aok_paladin.gif" alt=""
+                    ><img class="imgn hg" src="~assets/IMG_20190725_161218.png" alt=""
                   /></gallery>
-                  <p><em>遊俠模型。</em></p>
+                  <p><em>決定版的遊俠。</em></p>
                 </div>
               </div>
             </div>
           </div>
-        </div>
-      </div>
+
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
@@ -838,7 +933,7 @@
           </tr>
           <tr>
             <td class="unit3">攻速</td>
-            <td class="unit4">1.93</td>
+            <td class="unit4">1.9</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
@@ -881,8 +976,8 @@
           </tr>
         </table>
       </div>
-    </div>
-  </div>
+</div>
+
 </template>
 <script>
 export default {
