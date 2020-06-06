@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>僧侶單位</h1>
+        <h1>僧侶裝甲</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-12">
