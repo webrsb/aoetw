@@ -501,6 +501,10 @@
                       >精銳駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
+                  <li>
+                    欽查→
+                    精銳欽查(庫曼限定)
+                  </li>
                 </ul>
               </div>
             </div>
@@ -584,6 +588,10 @@
                 /><nuxt-link to="/units/Elephant_Archer">精銳象弓騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
               </li>
+              <li>
+                    欽查→
+                    精銳欽查(庫曼限定)
+                  </li>
             </ul>
           </div>
         </div>
@@ -680,7 +688,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：長槍兵從城堡時代開始，近戰防禦+1
+              >：長槍兵在城堡時代和帝王時代，近戰防禦各+1，共+2。
             </li>
           </ul>
         </div>
@@ -799,10 +807,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新): 長槍兵從城堡時代開始近戰防禦+1。
+              (35584更新)：長槍兵從城堡時代開始近戰防禦+1。(36906更新)：改為城堡時代和帝王時代近戰防禦各+1，共+2。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新):
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新)：
               在封建/城堡/帝王時代，長槍兵減免改為25%/30%/35%，且對<nuxt-link
                 to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
