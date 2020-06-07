@@ -698,7 +698,7 @@
                   <div class="unititle">
                     <div id="a9">
                       <nuxt-link to="/batt/Battles_of_the_Conquerors"
-                        >征服者的戰役</nuxt-link
+                        >歷史戰役征服者的戰役篇章</nuxt-link
                       >
                     </div>
                   </div>
