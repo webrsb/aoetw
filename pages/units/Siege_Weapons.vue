@@ -178,7 +178,7 @@
               to="/civs/Celts"
               >塞爾特</nuxt-link
             >和<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-            >因為他們的<nuxt-link to="/civs">文明</nuxt-link>加成和<nuxt-link
+            >及蒙古因為他們的<nuxt-link to="/civs">文明</nuxt-link>加成和<nuxt-link
               to="/techs/untech"
               >獨特技術</nuxt-link
             >擁有最好的攻城武器。<nuxt-link to="/civs/Ethiopians"
@@ -198,24 +198,12 @@
               >：攻城武器開火速率快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
-                to="/units/Demolition_Ship"
-                >爆破船</nuxt-link
-              >+50% HP。
-            </li>
-            <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：巨型投石機命中率+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
               >：攻城器製造所的單位便宜15%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
-                to="/units/Cannon_Galleon"
-                >火砲戰船</nuxt-link
-              >有<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。
             </li>
           </ul>
         </div>
@@ -890,7 +878,7 @@
                     src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
-                  /><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
+                  />葡萄牙
                 </td>
                 <td class="tunitc4">
                   <nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>
