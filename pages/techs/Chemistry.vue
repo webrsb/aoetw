@@ -13,7 +13,7 @@
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發。研發後可生產<nuxt-link to="/units/Gunpowder_Unit"></nuxt-link
             ><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-            >（除了<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
+            >（除了<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克</nuxt-link
             >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>與<nuxt-link
@@ -86,6 +86,12 @@
             <li>化學只會影響射出的第一支箭。</li>
             <li>化學現在不會減緩投石車的投射物速率了。</li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>修正化學沒增加城堡第二發箭矢攻擊力的bug。</li>
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -152,15 +158,15 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
-            </td>
-            <td class="unit4">200</td>
-          </tr>
-          <tr>
-            <td class="unit3">
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
             <td class="unit4">300</td>
+          </tr>
+          <tr>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
+            <td class="unit4">200</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
