@@ -945,7 +945,7 @@
         <div class="row">
           <div class="col-md-4">
             <gallery
-              ><img class="imgn hg" src="~assets/Spearline.png" alt=""
+              ><img class="imgn hg" src="~assets/Spearman_lineup_aoe2de.png" alt=""
             /></gallery>
             <p><em>長槍兵類列</em></p>
           </div>
