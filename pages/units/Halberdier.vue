@@ -298,12 +298,10 @@
           </tr>
         </table>
 
-        <h3>剋長槍兵的單位</h3>
+        <h3>剋戟兵的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對長<nuxt-link to="/armor/Armor_Class_Spearman"
-            >槍兵類</nuxt-link
-          >的額外傷害，按造殺傷力排列。
+          以下單位擁有對戟兵的額外傷害，按照殺傷力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -597,9 +595,7 @@
               </div>
             </div>
           </div>
-          以下科技研發後對<nuxt-link to="/armor/Armor_Class_Spearman"
-            >長槍兵</nuxt-link
-          >有額外攻擊力，以數值排列
+          以下科技研發後對戟兵有額外攻擊力，以數值排列
           <div class="n1">
             <img
               class="gg"
