@@ -404,7 +404,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >:風琴砲一開始不售<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >:風琴砲一開始不受<nuxt-link to="/civs/Turks">土耳其</nuxt-link
               >的<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
               >影響。直到4.8改版後才開始有影響訓練速度(+20%)。
             </li>
