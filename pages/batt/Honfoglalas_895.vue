@@ -291,7 +291,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                （決定版地圖待補）
+                Honfoglalás DE 895.png
               </div>
             </td>
           </tr>
@@ -343,7 +343,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝! 此頁面由裕暉，天翔協助編輯</div>
+        <div class="thanks">感謝! 此頁面由裕暉，HARRY協助編輯</div>
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
