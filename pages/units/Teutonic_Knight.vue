@@ -66,8 +66,8 @@
               >可讓敵方僧侶難以招降我方單位。
             </li>
             <li>
-              條頓<nuxt-link to="/units/Knight">騎士</nuxt-link
-              >可與遊俠搭配，因為<nuxt-link to="/units/Archer_Units"
+              條頓騎士可與<nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >搭配，因為<nuxt-link to="/units/Archer_Units"
                 >弓箭手</nuxt-link
               >對他們毫無威脅。但最好的伙伴也許是<nuxt-link
                 to="/units/Siege_Weapons"
