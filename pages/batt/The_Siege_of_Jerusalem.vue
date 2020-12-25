@@ -17,7 +17,7 @@
               to="/civs/Britons"
               >英國</nuxt-link
             ><nuxt-link to="/units/hero/Richard_the_Lionheart"
-              >獅心王查理</nuxt-link
+              >獅心王理查</nuxt-link
             >，<nuxt-link to="/civs/Franks">法國</nuxt-link
             >菲利普·奧古斯都和神聖羅馬帝國斐特烈·<nuxt-link
               to="/batt/Barbarossa"

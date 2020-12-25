@@ -635,7 +635,7 @@
                 src="~assets/Richardthelionhearticon.png"
                 alt=""
               /><nuxt-link to="/units/hero/Richard_the_Lionheart"
-                >獅心王查理</nuxt-link
+                >獅心王理查</nuxt-link
               >
             </td>
             <td class="tunitc4">騎兵</td>

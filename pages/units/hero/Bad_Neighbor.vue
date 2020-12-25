@@ -42,7 +42,7 @@
                 >阿卡圍城戰</a
               >中被使用，但在史實中他是由腓力二世所擁有，而不是<nuxt-link
                 to="/units/hero/Richard_the_Lionheart"
-                >獅心王查理</nuxt-link
+                >獅心王理查</nuxt-link
               >。
             </li>
             <li>
