@@ -16,63 +16,97 @@
               to="/units/Archer_Units"
               >遠程</nuxt-link
             >的攻城武器(<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >和<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
             >)只有在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >才有。
+            >才有(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>除外)。
           </p>
           <p>
             除了<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >，<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>和<nuxt-link
-              to="/units/Petard"
-              >炸藥桶</nuxt-link
+            >，<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>、<nuxt-link
+              to="/units/Flaming_Camel"
+              >火焰駱駝</nuxt-link
+            >和<nuxt-link to="/units/Petard">炸藥桶</nuxt-link
             >之外，所有的攻城武器都擁有中到長的射程範圍。
           </p>
         </div>
         <h3>概要</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              像船一樣，攻城武器不能讓<nuxt-link to="/units/Monk"
-                >僧侶</nuxt-link
-              >治療，而必須由<nuxt-link to="/units/Villager">村民</nuxt-link
-              >修復。 修復攻城武器需要花費<nuxt-link to="/resource/Gold"
-                >黃金</nuxt-link
-              >。
-            </li>
-            <li>
-              所有的攻城武器都需要花費<nuxt-link to="/resource/Wood"
-                >木材</nuxt-link
-              >和黃金，唯一例外的是炸藥桶，他們花費<nuxt-link
-                to="/resource/Food"
-                >食物</nuxt-link
-              >和黃金。一般來說，<nuxt-link to="/units/Siege_Weapons"
-                >攻城單位</nuxt-link
-              >是最昂貴且訓練時間最長的單位。
-            </li>
-            <li>
-              要訓練火砲則必須先研發<nuxt-link to="/techs/Chemistry"
-                >化學</nuxt-link
-              >。
-            </li>
-            <li>
-              攻城武器和僧侶一樣需要研發<nuxt-link to="/techs">科技</nuxt-link
-              >後才<nuxt-link to="/elements/Conversion">招降</nuxt-link
-              >他們。要招降攻城武器，必須先研究<nuxt-link to="/techs/Redemption"
-                >神聖思想</nuxt-link
-              >。
-            </li>
-            <li>
-              <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
-              >，<nuxt-link to="/units/Onager">中型投石車</nuxt-link
-              >（從<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-              >資料片開始）和<nuxt-link to="/units/Siege_Onager"
-                >重型投石車</nuxt-link
-              >可以砸樹木開路，當然村民也可以。這相當具有戰略意義，特別是在森林茂密的地圖上例如:<nuxt-link
-                to="/maps/Black_Forest"
-                >黑森林</nuxt-link
-              >，可以繞後給對方來個措手不及。
-            </li>
-          </ul>
+        <div class="hrn1">
+          <div class="row">
+            <div class="col-md-8">
+              <ul>
+                <li>
+                  大部分攻城武器像船一樣不能讓<nuxt-link to="/units/Monk"
+                    >僧侶</nuxt-link
+                  >治療，而必須由<nuxt-link to="/units/Villager">村民</nuxt-link
+                  >修復。修復攻城武器需要花費<nuxt-link to="/resource/Gold"
+                    >黃金</nuxt-link
+                  >。
+                </li>
+                <li>
+                  所有的攻城武器都需要花費<nuxt-link to="/resource/Wood"
+                    >木材</nuxt-link
+                  >和黃金，唯一例外的是炸藥桶、弩炮象和火焰駱駝，他們花費<nuxt-link
+                    to="/resource/Food"
+                    >食物</nuxt-link
+                  >和黃金。一般來說，<nuxt-link to="/units/Siege_Weapons"
+                    >攻城單位</nuxt-link
+                  >是最昂貴且訓練時間最長的單位。
+                </li>
+                <li>
+                  要訓練火砲和火焰駱駝則必須分別先研發<nuxt-link
+                    to="/techs/Chemistry"
+                    >化學</nuxt-link
+                  >和<nuxt-link to="/techs/Timurid_Siegecraft"
+                    >帖木兒攻城術</nuxt-link
+                  >。
+                </li>
+                <li>
+                  攻城武器和僧侶一樣需要研發<nuxt-link to="/techs"
+                    >科技</nuxt-link
+                  >後才<nuxt-link to="/elements/Conversion">招降</nuxt-link
+                  >他們。要招降攻城武器，必須先研究<nuxt-link
+                    to="/techs/Redemption"
+                    >神聖思想</nuxt-link
+                  >。
+                </li>
+                <li>
+                  <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+                  >，<nuxt-link to="/units/Onager">中型投石車</nuxt-link
+                  >（從<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                  >資料片開始）和<nuxt-link to="/units/Siege_Onager"
+                    >重型投石車</nuxt-link
+                  >可以砸樹木開路，當然村民也可以。這相當具有戰略意義，特別是在森林茂密的地圖上例如:<nuxt-link
+                    to="/maps/Black_Forest"
+                    >黑森林</nuxt-link
+                  >，可以繞後給對方來個措手不及。
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-2">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="180"
+                  src="~assets/Villager_siegefixanim_aoe2de.gif"
+                  alt=""
+              /></gallery>
+              <div class="lightbox-caption" style="width:200px">
+                <p><em>村民正在修理裝甲衝撞車。</em></p>
+              </div>
+            </div>
+            <div class="col-md-2">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="180"
+                  src="~assets/Siegeonager_trees_aoe2de.gif"
+                  alt=""
+              /></gallery>
+              <div class="lightbox-caption" style="width:200px">
+                <p><em>利用投石車可以砸開樹木開路。</em></p>
+              </div>
+            </div>
+          </div>
         </div>
         <h3>分類</h3>
         <div class="hrn1"></div>
@@ -83,92 +117,99 @@
             >的和擅於對付<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             >和<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>的。
           </p>
-          <strong>對建築物</strong>
-          <ul>
-            <li>
-              <img
-                class="gg"
-                src="~assets/BatteringRamIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>
-            </li>
-            <li>
-              <img
-                class="gg"
-                src="~assets/BombardCannonIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
-            </li>
-            <li>
-              <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
-                to="/units/Petard"
-                >炸藥桶</nuxt-link
-              >
-            </li>
-            <li>
-              <img
-                class="gg"
-                src="~assets/TrebuchetPackedIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link>
-            </li>
-          </ul>
-          <strong>對單位</strong>
-          <ul>
-            <li>
-              <img class="gg" src="~assets/MangonelIcon.png" alt="" /><nuxt-link
-                to="/units/Mangonel"
-                >投石車</nuxt-link
-              >
-            </li>
-            <li>
-              <img class="gg" src="~assets/ScorpionIcon.png" alt="" /><nuxt-link
-                to="/units/Scorpion"
-                >弩砲</nuxt-link
-              >
-            </li>
-            <li>
-              <img
-                class="gg"
-                src="~assets/BombardCannonIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
-            </li>
-            <li>
-              <img class="gg" src="~assets/OrganGunIcon.png" alt="" /><nuxt-link
-                to="/units/Organ_Gun"
-                >風琴砲</nuxt-link
-              >
-            </li>
-            <li>
-              <img
-                class="gg"
-                src="~assets/Ballistaelephanticon.png"
-                alt=""
-              /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>
-            </li>
-          </ul>
-          <ul>
-            <p>
-              從<nuxt-link to="/games/ak">非洲王國</nuxt-link
-              >資料片開始，<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
-              >無法攻擊敵方建築或單位，所以無法歸類在上面兩類。而在失落的帝國資料片攻城塔可以開火，然而他們的主要目的還是運送部隊，所以還是不歸類於以上兩種。
-            </p>
-            <p>
-              火砲可以遠距離摧毀建築物，同時也能有效對敵方單位造成傷害，所以兩個類別都能放。
-            </p>
-            <p>
-              雖然兩個分類的功能可以互相交換，但這樣做非常沒有效率。例如<nuxt-link
-                to="/units/Mangonel"
-                >投石車</nuxt-link
-              >可以對整群步兵造成巨量傷害，也能對<nuxt-link
-                to="/building/Town_Center"
-                >城鎮中心</nuxt-link
-              >從安全距離轟炸，但對上<nuxt-link to="/building/Castle"
-                >城堡</nuxt-link
-              >就只有被打的份。巨型投石機在破壞防禦工事方面十分出色，但在攻擊單位上則命中率不佳，除了攻擊對方的巨型投石機除外。
-            </p>
-          </ul>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <strong>對建築物</strong>
+            <ul>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/BatteringRamIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/BombardCannonIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
+              </li>
+              <li>
+                <img class="gg" src="~assets/PetardIcon.png" alt="" /><nuxt-link
+                  to="/units/Petard"
+                  >炸藥桶</nuxt-link
+                >
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/TrebuchetPackedIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Trebuchet">投石機</nuxt-link>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <strong>對單位</strong>
+            <ul>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/MangonelIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Mangonel">投石車</nuxt-link>
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/ScorpionIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/BombardCannonIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/OrganGunIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>
+              </li>
+              <li>
+                <img
+                  class="gg"
+                  src="~assets/Ballistaelephanticon.png"
+                  alt=""
+                /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>
+              </li>
+            </ul>
+          </div>
+          <p>
+            從<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >資料片開始，<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
+            >無法攻擊敵方建築或單位，所以無法歸類在上面兩類。而在失落的帝國資料片攻城塔可以開火，然而他們的主要目的還是運送部隊，所以還是不歸類於以上兩種。
+          </p>
+          <p>
+            火砲可以遠距離摧毀建築物，同時也能有效對敵方單位造成傷害，所以兩個類別都能放。
+          </p>
+          <p>
+            雖然兩個分類的功能可以互相交換，但這樣做非常沒有效率。例如<nuxt-link
+              to="/units/Mangonel"
+              >投石車</nuxt-link
+            >可以對整群步兵造成巨量傷害，也能對<nuxt-link
+              to="/building/Town_Center"
+              >城鎮中心</nuxt-link
+            >從安全距離轟炸，但對上<nuxt-link to="/building/Castle"
+              >城堡</nuxt-link
+            >就只有被打的份。巨型投石機在破壞防禦工事方面十分出色，但在攻擊單位上則命中率不佳，除了攻擊對方的巨型投石機除外。
+          </p>
         </div>
         <h3>攻城器文明</h3>
         <div class="hrn1"></div>
@@ -178,14 +219,13 @@
               to="/civs/Celts"
               >塞爾特</nuxt-link
             >和<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-            >因為他們的<nuxt-link to="/civs">文明</nuxt-link>加成和<nuxt-link
-              to="/techs/untech"
-              >獨特技術</nuxt-link
-            >擁有最好的攻城武器。<nuxt-link to="/civs/Ethiopians"
+            >及蒙古因為他們的<nuxt-link to="/civs">文明</nuxt-link
+            >加成和<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >而擁有最好的攻城武器。<nuxt-link to="/civs/Ethiopians"
               >衣索比亞</nuxt-link
             >是唯一能夠使用<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
-            >所所有單位的文明。
+            >所有單位的文明。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -194,28 +234,59 @@
           <p>以下列出攻城武器有加成的文明</p>
           <ul>
             <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >：攻城武器訓練速率快18%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+              >：影響攻城武器的修道院科技成本-50%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城武器開火速率快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
-                to="/units/Demolition_Ship"
-                >爆破船</nuxt-link
-              >+50% HP。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：攻城武器開火速率快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >：影響攻城武器的科技成本-20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：封建時代可建造攻城器製造所，封建/城堡時代可訓練輕型衝撞車/裝甲衝撞車。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：巨型投石機命中率+30%。
             </li>
             <li>
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >：火炮造價便宜20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：攻城器單位黃金成本-15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：火炮開火速率+15%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
               >：攻城器製造所的單位便宜15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
-                to="/units/Cannon_Galleon"
-                >火砲戰船</nuxt-link
-              >有<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：攻城器單位在高地傷害增加50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >：火炮生命+25%，免費獲得化學。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費徵兵技術。
             </li>
           </ul>
         </div>
@@ -239,8 +310,32 @@
               >射程+1。
             </li>
             <li>
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
+              >：影響火焰駱駝和弩炮象的馬廄科技研發速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Indians">印度</nuxt-link
+              >：火焰駱駝對建築物攻擊+6。
+            </li>
+            <li>
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
               >：投石車最小射程範圍從3改為1。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：影響騎兵的修道院科技研發速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >：影響攻城武器的科技研發速度快80%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：攻城武器更能抵抗招降。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >：火炮訓練速度快25%。
             </li>
           </ul>
         </div>
@@ -503,7 +598,7 @@
               <!--射程!-->
               <td class="tta3">N/A</td>
               <!--射速!-->
-              <td class="tta3">19</td>
+              <td class="tta3">4</td>
               <!--視野!-->
               <td class="tta3">0.8</td>
               <!--速度!-->
@@ -551,6 +646,29 @@
               <td class="tta3">19</td>
               <!--視野!-->
               <td class="tta3">0</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  width="22"
+                  src="~assets/TrebuchetUnpackedIcon.png"
+                /><nuxt-link to="/units/Flamethrower">火焰車</nuxt-link>
+              </td>
+              <td class="tta3">160</td>
+              <!--生命值!-->
+              <td class="tta3">4</td>
+              <!--攻擊!-->
+              <td class="tta3">2/2</td>
+              <!--防禦!-->
+              <td class="tta3">5</td>
+              <!--射程!-->
+              <td class="tta3">0.25</td>
+              <!--射速!-->
+              <td class="tta3">7</td>
+              <!--視野!-->
+              <td class="tta3">0.6</td>
               <!--速度!-->
             </tr>
             <tr>
@@ -615,7 +733,7 @@
               <!--防禦!-->
               <td class="tta3">5</td>
               <!--射程!-->
-              <td class="tta3">6</td>
+              <td class="tta3">0.25</td>
               <!--射速!-->
               <td class="tta3">7</td>
               <!--視野!-->
@@ -640,11 +758,34 @@
               <!--防禦!-->
               <td class="tta3">5</td>
               <!--射程!-->
-              <td class="tta3">6</td>
+              <td class="tta3">0.25</td>
               <!--射速!-->
               <td class="tta3">7</td>
               <!--視野!-->
               <td class="tta3">0.8</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  width="22"
+                  src="~assets/Ballistaelephanticon.png"
+                /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
+              </td>
+              <td class="tta3">55</td>
+              <!--生命值!-->
+              <td class="tta3">20</td>
+              <!--攻擊!-->
+              <td class="tta3">0/0</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">N/A</td>
+              <!--射速!-->
+              <td class="tta3">4</td>
+              <!--視野!-->
+              <td class="tta3">1.3</td>
               <!--速度!-->
             </tr>
           </table>
@@ -663,6 +804,34 @@
               <td class="tunitc6">
                 <img
                   class="gg"
+                  width="22"
+                  style="margin: 2px;"
+                  src="~assets/Bloodlines.png"
+                  alt=""
+                /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>
+              </td>
+              <td class="tunitc4">封建</td>
+              <td class="tunitc5">150F 100G</td>
+              <td class="tunitc6">火焰駱駝和弩炮象生命值+20。</td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img
+                  class="gg"
+                  width="22"
+                  style="margin: 2px;"
+                  src="~assets/husbandry.png"
+                  alt=""
+                /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>
+              </td>
+              <td class="tunitc4">城堡</td>
+              <td class="tunitc5">250F</td>
+              <td class="tunitc6">火焰駱駝和弩炮象移動速度+10%。</td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img
+                  class="gg"
                   src="~assets/siege_engineers.png"
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>
@@ -673,7 +842,7 @@
                 攻城武器攻擊範圍+1(衝撞車除外)。對<nuxt-link
                   to="/armor/Armor_Class_Building"
                   >建築物</nuxt-link
-                >攻擊加成+20%(炸藥桶+40%)。
+                >攻擊加成+20%(炸藥桶+200、火焰駱駝+40)。
               </td>
             </tr>
             <tr>
@@ -782,7 +951,7 @@
                   /><nuxt-link to="/civs/Britons">不列顛</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Warwolf">戰狼號</nuxt-link>
+                  <nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>
                 </td>
                 <td class="tunitc5">800W 400G</td>
                 <td class="tunitc6">
@@ -816,8 +985,7 @@
                 </td>
                 <td class="tunitc5">750W 750G</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
-                  >攻擊+2，弩砲攻擊+4。
+                  弩砲攻擊+4。
                 </td>
               </tr>
               <tr>
@@ -862,10 +1030,24 @@
                     src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
+                  /><nuxt-link to="/civs/Khmer">高棉</nuxt-link>
+                </td>
+                <td class="tunitc4">
+                  <nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link>
+                </td>
+                <td class="tunitc5">700F 400G</td>
+                <td class="tunitc6">弩炮和弩炮象額外多發射一發弩箭。</td>
+              </tr>
+              <tr>
+                <td class="tunitc6">
+                  <img
+                    src="~assets/unique_tech_imperial.png"
+                    class="gg"
+                    alt=""
                   /><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Shinkichon">投擲器</nuxt-link>
+                  <nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link>
                 </td>
                 <td class="tunitc5">800W 500G</td>
                 <td class="tunitc6">投石車射程+1。</td>
@@ -879,7 +1061,7 @@
                   /><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Drill">鑿岩機</nuxt-link>
+                  <nuxt-link to="/techs/Drill">演習</nuxt-link>
                 </td>
                 <td class="tunitc5">500F 450G</td>
                 <td class="tunitc6">攻城器製造所的單位移動速度+50%。</td>
@@ -890,13 +1072,31 @@
                     src="~assets/unique_tech_imperial.png"
                     class="gg"
                     alt=""
-                  /><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
+                  /><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
                 </td>
                 <td class="tunitc4">
                   <nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>
                 </td>
                 <td class="tunitc5">700F 400G</td>
                 <td class="tunitc6">火藥單位對移動目標的命中率提升。</td>
+              </tr>
+              <tr>
+                <td class="tunitc6">
+                  <img
+                    src="~assets/unique_tech_imperial.png"
+                    class="gg"
+                    alt=""
+                  /><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
+                </td>
+                <td class="tunitc4">
+                  <nuxt-link to="/techs/Timurid_Siegecraft"
+                    >帖木兒攻城術</nuxt-link
+                  >
+                </td>
+                <td class="tunitc5">400W 500G</td>
+                <td class="tunitc6">
+                  巨型投石機射程+2並可以訓練火焰駱駝。
+                </td>
               </tr>
               <tr>
                 <td class="tunitc6">
