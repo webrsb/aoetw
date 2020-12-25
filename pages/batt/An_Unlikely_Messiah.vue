@@ -2,20 +2,20 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>一個不太可能的彌賽亞</h1>
+        <h1>橫空出世</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>一個不太可能的彌賽亞</b>是在<nuxt-link to="/batt/Joan_of_Arc"
+            <b>橫空出世</b>（舊譯：一個不太可能的彌賽亞）是在<nuxt-link to="/batt/Joan_of_Arc"
               >聖女貞德</nuxt-link
             ><nuxt-link to="/batt">戰役</nuxt-link
             >第一個劇情關卡，這是描述2位<nuxt-link to="/units/hero"
               >英雄</nuxt-link
-            ><nuxt-link to="/units/hero/Sieur_Bertrand">貝查德斯歐力</nuxt-link
-            >、<nuxt-link to="/units/hero/Sieur_de_Metz">梅茲的斯歐力</nuxt-link
-            >與法國軍隊護送貞德至齊儂的任務。
+            ><nuxt-link to="/units/hero/Sieur_Bertrand">貝查德爵士</nuxt-link
+            >、<nuxt-link to="/units/hero/Sieur_de_Metz">梅茲爵士</nuxt-link
+            >與法國軍隊護送貞德至希農的任務。
           </p>
         </div>
         <h2>玩家</h2>
@@ -65,12 +65,12 @@
                 <div class="p8"></div>
                 玩家4
               </td>
-              <td class="tc6" width="38%">齊儂（橘色）法蘭克</td>
+              <td class="tc6" width="38%">希農（橘色）法蘭克</td>
               <td class="tc6" width="12%">
                 <div class="p4"></div>
                 玩家5
               </td>
-              <td class="tc6" width="38%">法國的軍隊（黃色）法蘭克</td>
+              <td class="tc6" width="38%">法蘭西的軍隊（黃色）法蘭克</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -94,7 +94,7 @@
                 玩家6
               </td>
               <td class="tc6">
-                <nuxt-link to="/civs/Britons">英國</nuxt-link>（紅色）<nuxt-link
+                <nuxt-link to="/civs/Britons">英格蘭人</nuxt-link>（紅色）<nuxt-link
                   to="/civs/Britons"
                   >不列顛</nuxt-link
                 >
@@ -139,7 +139,7 @@
               <li>
                 護衛德從法考勞爾的<nuxt-link to="/building/Barracks"
                   >軍營</nuxt-link
-                >到齊儂去。
+                >到希農去。
               </li>
               <li>一定要確保貞德的性命安全。</li>
             </ol>
@@ -149,7 +149,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>法國的死對頭是英國人與勃艮地人。一定要多加小心他們的軍力。</li>
+            <li>法國的死對頭是英格蘭人人與勃艮地人。一定要多加小心他們的軍力。</li>
             <li>
               別指望軍心渙散的法國軍隊會提供什麼救援給你，不過倒是可以考慮那些受到貞德感召而願意挺身而出的義士。
             </li>
@@ -166,21 +166,13 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              雖然英國人是玩家的敵人，但外交標籤顯示他們與玩家結盟。這就解釋了為什麼他們在英法2軍交戰場景時的情況下不會攻擊玩家。
+              雖然英格蘭人是玩家的敵人，但外交標籤顯示他們與玩家結盟。這就解釋了為什麼他們在英法2軍交戰場景時的情況下不會攻擊玩家。
             </li>
             <li>
-              在地圖的最西邊的角落（齊儂城內），隱藏在樹木中的英軍的<nuxt-link
-                to="/units/Champion"
-                >劍兵勇士</nuxt-link
-              >可以防止英軍被擊敗。有可能用<nuxt-link to="/units/Archer_Units"
-                >遠程單位</nuxt-link
-              >殺死他，這將自動擊敗英軍。
+              玩家的主要盟友，法國軍隊，隨著情境與玩家的主要敵人勃艮第人與強盜結盟。法國軍隊最初也是和英格蘭人外交預設狀態為“結盟”，直到玩家到達地圖東部的戰場時，他們的外交立場變成“敵對”。
             </li>
             <li>
-              玩家的主要盟友，法國軍隊，隨著情境與玩家的主要敵人勃艮第人與強盜結盟。法國軍隊最初也是和英國人外交預設狀態為“結盟”，直到玩家到達地圖東部的戰場時，他們的外交立場變成“敵對”。
-            </li>
-            <li>
-              齊儂是玩家的另一個盟友，齊儂的外交狀態為與所有玩家結盟（包含玩家的所有敵人），因此，法國和齊儂軍隊不會出兵幫助玩家
+              希農是玩家的另一個盟友，希農的外交狀態為與所有玩家結盟（包含玩家的所有敵人），因此，法國和希農軍隊不會出兵幫助玩家
             </li>
             <li>
               這是所有貞德戰役中能使用“<nuxt-link to="/units/hero/Joan_the_Maid"
@@ -189,13 +181,20 @@
             </li>
           </ul>
         </div>
+                  <h3>決定版變更點</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>移除了隱藏在樹木裡的英軍的劍兵勇士。而勝敗機制有改，即使地圖上沒有勃根地和英格蘭人的軍隊和軍事建築也不會使他們被擊敗。</li>
+            </ul>
+          </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                一個不太可能的彌賽亞
+                橫空出世
               </div>
             </td>
           </tr>
@@ -251,7 +250,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link>
+              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良少女</nuxt-link>
             </td>
           </tr>
         </table>
