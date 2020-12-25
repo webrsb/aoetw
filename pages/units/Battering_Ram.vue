@@ -94,6 +94,10 @@
             >或<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >這類的單位拆除會更好。
           </p>
+          <p>
+            <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+            >是唯一能在封建時代就能蓋攻城器製造所並製造輕型衝撞車的文明，但由於資源和戰術的問題比，除了可泰安汗的第二關成就打法以外比較難用到這個特性。
+          </p>
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -402,6 +406,10 @@
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
               >：輕型衝撞車成本減少15%。
             </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：封建時代即可建造攻城器製造所並生產輕型衝撞車。
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -478,6 +486,15 @@
                   to="/techs/Ironclad"
                   >鋼鐵甲</nuxt-link
                 >
+              </li>
+            </ul>
+            <h3>
+              <em>決定版</em>
+            </h3>
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+                >：封建時代即可建造攻城器製造所並生產輕型衝撞車。
               </li>
             </ul>
           </div>
@@ -620,7 +637,12 @@
               <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
-              >
+              ><br /><img
+                class="gg"
+                src="~assets/feudal_age.png"
+                alt=""
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+              >（<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定）
             </td>
           </tr>
           <tr>
