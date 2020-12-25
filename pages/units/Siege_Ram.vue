@@ -84,7 +84,13 @@
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
                 to="/civs/Teutons"
                 >條頓</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>、<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
+                to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -118,7 +124,10 @@
               >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
-              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -154,10 +163,15 @@
             >的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>還來的快。
           </p>
           <p>
-            塞爾特文明也非常適合研發重型衝撞車，塞爾特不只有生產快速的優勢，更有特殊科技<nuxt-link
+            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+            >文明也非常適合研發重型衝撞車，塞爾特不只有生產快速的優勢，更有特殊科技<nuxt-link
               to="/techs/Furor_Celtica"
               >「塞爾特狂熱」</nuxt-link
-            >，讓塞爾特重型衝撞車的生命值從原本的270強化到405，耐打程度絕對超乎你的想像。
+            >，讓塞爾特重型衝撞車的生命值從原本的270強化到378，耐打程度絕對超乎你的想像。
+          </p>
+          <p>
+            <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+            >由於可以在城堡時代就研發裝甲衝撞車，因此上帝王時代後，在實力相當的情況下可以比其他文明更快升級至重型衝撞車並發起進攻，較為可惜的是該文明沒有攻城工程師。
           </p>
           <p>
             如果衝撞車被<nuxt-link to="/elements/Conversion">招降</nuxt-link
