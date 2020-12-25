@@ -27,59 +27,47 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
-                to="/civs/Berbers"
-                >柏柏</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞</nuxt-link
-              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                to="/civs/Persians"
-                >波斯</nuxt-link
-              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
-                to="/civs/Malians"
-                >馬利</nuxt-link
-              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
-                to="/civs/Italians"
-                >義大利</nuxt-link
-              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
-                to="/civs/Goths"
-                >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
-                to="/civs/Portuguese"
-                >葡萄牙</nuxt-link
-              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
-                to="/civs/Vietnamese"
-                >越南</nuxt-link
-              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
-                to="/civs/Burmese"
-                >緬甸</nuxt-link
-              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
               <h4>
                 <b
                   ><i class="fas fa-times" style="color: #d9534f;"></i
                   >不可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Mongols"
-                >蒙古</nuxt-link
-              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
-                to="/civs/Huns"
-                >匈人</nuxt-link
-              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
-                to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
-              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
-                to="/civs/Japanese"
-                >日本</nuxt-link
-              >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
-                to="/civs/Vikings"
-                >維京</nuxt-link
-              >。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+              <nuxt-link to="/civs/Viking">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -114,10 +102,7 @@
             >，必須小心不要砸到友軍了。
           </p>
           <p>
-            雖然火砲是遊戲中最昂貴的兵種之一，但火砲比<nuxt-link
-              to="/units/Trebuchet"
-              >投石機</nuxt-link
-            >更具操作性與機動性，因為他不需要組裝。
+            火炮和投石機是遊戲中射程最長，最昂貴的攻城武器。火炮比投石機更具機動性，因為它不需要像投石機那樣組/拆裝。但是投石機的黃金和木材成本都要比火砲便宜25（意大利人和葡萄牙人除外，他們有額外減免），而且每個文明都能使用；而火砲則僅適用於某些文明。投石機也可以用來摧毀樹木。            火炮的攻擊相比投石機更為精確，也可以對部隊造成飛濺傷害，但射程較短，也可能傷害友軍。它們對目標的傷害遠少於投石機，但射速更快，投射物飛行速度更快。總體而言，火炮在通用性方面優於投石機，因為它們對建築物和單位都有效，但是在破壞敵方建築物時投石機的射程和攻擊力是無與倫比。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -431,6 +416,9 @@
         <div class="n1">
           <ul>
             <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：忠誠信仰便宜50%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：火砲便宜20%。
             </li>
             <li>
@@ -442,10 +430,10 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：火砲<nuxt-link
                 to="/elements/Rate_of_Fire"
                 >射速</nuxt-link
-              >快15%的速度。
+              >快18%的速度。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:火砲擁有+
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：火砲擁有+
               25%的HP，<nuxt-link to="/techs/Chemistry">化學</nuxt-link
               >是免費的。
             </li>
@@ -474,8 +462,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >：火砲HP+25%。<nuxt-link to="/techs/Chemistry">化學</nuxt-link
-              >免費
+              >：火砲訓練速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：忠誠信仰和異端邪說研發速度快20%。
             </li>
           </ul>
         </div>
@@ -556,6 +547,14 @@
             <li>
               5.7版本<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
               >讓砲彈速度+0.2。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              更新檔36906：<nuxt-link to="/civs/Khmer">高棉</nuxt-link>失去火砲。
             </li>
           </ul>
         </div>
@@ -734,6 +733,9 @@
               >
               <br />+40對<nuxt-link to="/armor/Armor_Class_Ship"
                 >船類</nuxt-link
+              >
+              <br />+40對<nuxt-link to="/armor/Armor_Class_Fishing_Ship"
+                >漁船</nuxt-link
               >
               <br />+20對<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
