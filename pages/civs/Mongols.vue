@@ -30,7 +30,7 @@
               >馬弓騎兵</nuxt-link
             >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >，除沒有<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >和供給科技外，他們還有完整的<nuxt-link to="/units/Infantry_Units"
+            >和<nuxt-link to="/techs/Supplies">供給</nuxt-link>科技外，他們還有完整的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link>，而除了<nuxt-link
               to="/units/Bombard_Cannon"
@@ -49,10 +49,9 @@
             >，是除了<nuxt-link to="/civs/Chinese">中國人</nuxt-link
             >與非洲中東<nuxt-link to="/civs">文明</nuxt-link
             >外，唯二有<nuxt-link to="/units/Camel">駱駝</nuxt-link
-            >的。在決定版的一次更新獲得了<nuxt-link
-                to="/units/Steppe_Lancer"
-                >草原騎兵</nuxt-link
-              >以後，多了一個可以運用的騎兵系選擇，而且也擁有30%的生命值加成，包含血統更有98/124的生命值加上不俗的攻擊力以及多1的射程，遠遠比韃靼和庫曼的草原騎兵更為難纏。
+            >的。在決定版的一次更新獲得了<nuxt-link to="/units/Steppe_Lancer"
+              >草原騎兵</nuxt-link
+            >以後，多了一個可以運用的騎兵系選擇，而且也擁有30%的生命值加成，包含血統更有98/124的生命值加上不俗的攻擊力以及多1的射程，遠遠比韃靼和庫曼的草原騎兵更為難纏。
           </p>
           <h3>特殊單位</h3>
           <ul>
@@ -89,13 +88,9 @@
               <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>射速+20%
             </li>
             <li>
-              <nuxt-link to="/units/Light_Cavalry"
-                >輕騎兵</nuxt-link
-                >與<nuxt-link to="/units/Hussar"
-                  >匈牙利輕騎兵</nuxt-link
-                >以及<nuxt-link
-                to="/units/Steppe_Lancer"
-                >草原騎兵</nuxt-link
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >與<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
+              >以及<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
               >系的生命值+30%
             </li>
             <li>打獵的效率提高+40%</li>
@@ -163,7 +158,9 @@
         <div class="n1">
           <ul>
             <li>照理說蒙古也是遊牧民族，但卻需要蓋房子。</li>
-            <li>蒙古是少數主要兵種的科技沒有完整的種族：輕騎兵和草原騎兵有生命值加成，卻缺少鐵鎧甲；弓騎兵系有攻擊速度加成，卻缺少弓兵鏈甲；反而沒有特別加成的劍兵系除了供給以外有完整的兵工廠科技。</li>
+            <li>
+              蒙古是少數主要兵種的科技沒有完整的種族：輕騎兵和草原騎兵有生命值加成，卻缺少鐵鎧甲；弓騎兵系有攻擊速度加成，卻缺少弓兵鏈甲；反而沒有特別加成的劍兵系除了供給以外有完整的兵工廠科技。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
