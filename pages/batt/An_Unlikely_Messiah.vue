@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>橫空出世</b>（舊譯：一個不太可能的彌賽亞）是在<nuxt-link to="/batt/Joan_of_Arc"
+            <b>橫空出世</b>（舊譯：一個不太可能的彌賽亞）是在<nuxt-link
+              to="/batt/Joan_of_Arc"
               >聖女貞德</nuxt-link
             ><nuxt-link to="/batt">戰役</nuxt-link
             >第一個劇情關卡，這是描述2位<nuxt-link to="/units/hero"
@@ -94,10 +95,8 @@
                 玩家6
               </td>
               <td class="tc6">
-                <nuxt-link to="/civs/Britons">英格蘭人</nuxt-link>（紅色）<nuxt-link
-                  to="/civs/Britons"
-                  >不列顛</nuxt-link
-                >
+                <nuxt-link to="/civs/Britons">英格蘭人</nuxt-link
+                >（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
             </tr>
           </table>
@@ -149,7 +148,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>法國的死對頭是英格蘭人人與勃艮地人。一定要多加小心他們的軍力。</li>
+            <li>
+              法國的死對頭是英格蘭人人與勃艮地人。一定要多加小心他們的軍力。
+            </li>
             <li>
               別指望軍心渙散的法國軍隊會提供什麼救援給你，不過倒是可以考慮那些受到貞德感召而願意挺身而出的義士。
             </li>
@@ -181,13 +182,15 @@
             </li>
           </ul>
         </div>
-                  <h3>決定版變更點</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>移除了隱藏在樹木裡的英軍的劍兵勇士。而勝敗機制有改，即使地圖上沒有勃根地和英格蘭人的軍隊和軍事建築也不會使他們被擊敗。</li>
-            </ul>
-          </div>
+        <h3>決定版變更點</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              移除了隱藏在樹木裡的英軍的劍兵勇士。而勝敗機制有改，即使地圖上沒有勃根地和英格蘭人的軍隊和軍事建築也不會使他們被擊敗。
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -255,7 +258,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝！此頁面由裕暉、亞諭協助編輯。</div>
+        <div class="thanks">感謝！此頁面由裕暉、亞諭、harry3305協助編輯。</div>
       </div>
     </div>
   </div>
