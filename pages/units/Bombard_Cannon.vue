@@ -45,7 +45,7 @@
               >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Goths"
                 >哥德</nuxt-link
-              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+              >、<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -79,7 +79,7 @@
               >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
                 to="/civs/Vikings"
                 >維京</nuxt-link
-              >。
+              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>。
             </div>
           </div>
         </div>
@@ -445,7 +445,7 @@
               >快15%的速度。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:火砲擁有+
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：火砲擁有+
               25%的HP，<nuxt-link to="/techs/Chemistry">化學</nuxt-link
               >是免費的。
             </li>
@@ -474,8 +474,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >：火砲HP+25%。<nuxt-link to="/techs/Chemistry">化學</nuxt-link
-              >免費
+              >：火砲訓練速度快20%。
             </li>
           </ul>
         </div>
@@ -556,6 +555,14 @@
             <li>
               5.7版本<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
               >讓砲彈速度+0.2。
+            </li>
+          </ul>
+          <h3>
+            <em>決定版</em>
+          </h3>
+          <ul>
+            <li>
+              更新檔36906：高棉失去火砲。
             </li>
           </ul>
         </div>
