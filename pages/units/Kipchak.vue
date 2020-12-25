@@ -1006,10 +1006,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
-                >馬弓騎兵</nuxt-link
-              >+4/+6(精銳) <br />對<nuxt-link to="/armor/Armor_Class_Spearman"
-                >長槍兵</nuxt-link
+              對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
               >攻擊+1
             </td>
           </tr>
