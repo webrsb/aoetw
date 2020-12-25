@@ -1096,7 +1096,7 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link
               >4-<nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link
-              >、失落的帝國戰役-塞普勒斯(1191)
+              >、失落的帝國戰役-塞普勒斯島之戰(1191)
             </p>
             <br />
             <br />

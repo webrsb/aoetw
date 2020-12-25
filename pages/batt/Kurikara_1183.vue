@@ -412,7 +412,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯（1191）</nuxt-link>
+              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯島之戰（1191）</nuxt-link>
             </td>
           </tr>
         </table>

@@ -78,7 +78,7 @@
                   </li>
                   <li>
                     <nuxt-link to="/batt/Cyprus_1191"
-                      >塞普勒斯（1191）</nuxt-link
+                      >塞普勒斯島之戰（1191）</nuxt-link
                     >
                     <p>
                       文明：<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
