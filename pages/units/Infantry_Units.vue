@@ -52,15 +52,17 @@
                 >槍兵類</nuxt-link
               >是唯一的例外，他需要食物與<nuxt-link to="/resource/Wood"
                 >木材</nuxt-link
-              >。雖然大部分的步兵懼怕<nuxt-link to="/units/Archer_Units"
+              >。<nuxt-link to="/civs/Malay">馬來</nuxt-link
+              >則是研發強制徵兵後訓練民兵系只需要食物。雖然大部分的步兵懼怕<nuxt-link
+                to="/units/Archer_Units"
                 >弓兵單位</nuxt-link
               >與<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:<nuxt-link
                 to="/units/Archer"
                 >弓箭手</nuxt-link
-              >通常可以配合<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-              >，而<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >則是搭配<nuxt-link to="/units/Spearman">槍兵</nuxt-link>。
+              >通常可以用<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >反制，而<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >則是以<nuxt-link to="/units/Spearman">槍兵</nuxt-link>克制。
             </li>
             <li>
               由於速度很慢又是近戰，步兵很怕<nuxt-link to="/units/Monk"
@@ -86,20 +88,20 @@
             許多<nuxt-link to="/civs">文明</nuxt-link>依賴強大的步兵，<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克人</nuxt-link
-            >，<nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>，<nuxt-link
+            >、<nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>，<nuxt-link
               to="/civs/Japanese"
               >日本人</nuxt-link
-            >，<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>和<nuxt-link
-              to="/civs/Vikings"
-              >維京人</nuxt-link
-            >可以說是所有文明中最強大的步兵。<nuxt-link to="/civs/Celts"
-              >塞爾特</nuxt-link
             >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
-              to="/civs/Incas"
-              >印加</nuxt-link
-            >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>與<nuxt-link
-              to="/civs/Teutons"
-              >條頓</nuxt-link
+              to="/civs/Slavs"
+              >斯拉夫人</nuxt-link
+            >和<nuxt-link to="/civs/Vikings">維京人</nuxt-link
+            >可以說是所有文明中最強大的步兵。保加利亞、<nuxt-link
+              to="/civs/Celts"
+              >塞爾特</nuxt-link
+            >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
+              to="/civs/Malians"
+              >馬利</nuxt-link
+            >、馬來與<nuxt-link to="/civs/Teutons">條頓</nuxt-link
             >也是優秀的<nuxt-link to="/units/Infantry_Units">步兵文明</nuxt-link
             >。而<nuxt-link to="/civs/Incas">印加</nuxt-link
             >是唯一有所有步兵單位和技術的文明。
@@ -111,11 +113,19 @@
           <p>以下列出步兵有加成的文明</p>
           <ul>
             <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >:步兵訓練速度快18%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >:民兵系的升級成本免費。
+            </li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >:步兵單位在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
-              >各有+1/+2/+3的攻擊。
+              >各有+1/+2/+3的攻擊。影響步兵的修道院科技研發速度快50%
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>:<nuxt-link
@@ -124,7 +134,11 @@
               >便宜25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:步兵移動快25%。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:步兵移動快15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >:任何影響步兵的科技在封建/城堡/帝王成本便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>:<nuxt-link
@@ -132,12 +146,10 @@
                 >槍兵</nuxt-link
               >系免費升級。
             </li>
+
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:步兵便宜35%，步兵對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link
-              >有+1攻擊。
+              >:步兵成本從黑暗/封建/城堡/帝王便宜20%/25%/30%/35%，步兵在封建/城堡/帝王對標準建築獲得+1/+2/+3攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>:從<nuxt-link
@@ -145,7 +157,14 @@
                 >封建時代</nuxt-link
               >開始，步兵<nuxt-link to="/elements/Rate_of_Fire"
                 >攻擊速度</nuxt-link
-              >快25%。
+              >快33%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:槍兵木材成本少15%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >:槍兵系移動速度快10%
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
@@ -156,10 +175,38 @@
               >各有+1/+2/+3的<nuxt-link to="/armor">遠防</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >是免費的。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+              >:免費獲得<nuxt-link to="/techs/Forging">鍛造</nuxt-link
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >:步兵單位黃金成本少15%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:免費獲得<nuxt-link
+                to="/techs/Supplies"
+                >供給</nuxt-link
+              >。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發不用金
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >:步兵從高處攻擊傷害+25%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >:軍營從城堡/帝王時代獲得+1/+2近戰護甲
+            </li>
+            <li>
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >:免費獲得<nuxt-link to="/techs/Conscription">徵兵</nuxt-link>
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:步兵在<nuxt-link
@@ -181,6 +228,10 @@
           </p>
           <ul>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >:影響步兵的兵工廠科技研發快50%
+            </li>
+            <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:軍營工作效率快20%
             </li>
             <li>
@@ -188,6 +239,13 @@
                 to="/units/Condottiero"
                 >傭兵</nuxt-link
               >可在軍營訓練
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >:影響步兵的修道院科技研發快50%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:步兵更能對抗招降
             </li>
           </ul>
         </div>
@@ -219,7 +277,7 @@
               <td class="tta3">4</td>
               <td class="tta3">0/1</td>
               <td class="tta3">0</td>
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <td class="tta3">4</td>
               <td class="tta3">0.9</td>
             </tr>
@@ -240,7 +298,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>!-->
               <td class="tta3">4</td>
               <!--視野!-->
@@ -263,7 +321,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">4</td>
               <!--視野!-->
@@ -288,7 +346,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
@@ -307,11 +365,11 @@
               <!--生命值!-->
               <td class="tta3">13</td>
               <!--攻擊!-->
-              <td class="tta3">0/1</td>
+              <td class="tta3">1/1</td>
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
@@ -403,7 +461,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">6</td>
               <!--視野!-->
@@ -426,9 +484,9 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
-              <td class="tta3">5</td>
+              <td class="tta3">6</td>
               <!--視野!-->
               <td class="tta3">1.15</td>
               <!--速度!-->
@@ -451,7 +509,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">6</td>
               <!--視野!-->
@@ -474,7 +532,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">1.93</td>
+              <td class="tta3">1.9</td>
               <!--射速!-->
               <td class="tta3">6</td>
               <!--視野!-->
@@ -496,11 +554,11 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
-              <td class="tta3">1.2</td>
+              <td class="tta3">1.38</td>
               <!--速度!-->
             </tr>
             <tr>
@@ -518,11 +576,11 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
-              <td class="tta3">1.2</td>
+              <td class="tta3">1.38</td>
               <!--速度!-->
             </tr>
             <tr>
@@ -540,7 +598,7 @@
               <!--防禦!-->
               <td class="tta3">3</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
@@ -562,7 +620,7 @@
               <!--防禦!-->
               <td class="tta3">4</td>
               <!--射程!-->
-              <td class="tta3">1.83</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">6</td>
               <!--視野!-->
@@ -585,7 +643,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">1.73</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
@@ -608,7 +666,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
@@ -630,7 +688,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">1.93</td>
+              <td class="tta3">1.9</td>
               <!--射速!-->
               <td class="tta3">4</td>
               <!--視野!-->
@@ -652,7 +710,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">1.93</td>
+              <td class="tta3">1.9</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
@@ -675,11 +733,11 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
-              <td class="tta3">0.7</td>
+              <td class="tta3">0.8</td>
               <!--速度!-->
             </tr>
             <tr>
@@ -700,11 +758,11 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.13</td>
+              <td class="tta3">2..0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
-              <td class="tta3">0.7</td>
+              <td class="tta3">0.8</td>
               <!--速度!-->
             </tr>
             <tr>
@@ -722,7 +780,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.13</td>
+              <td class="tta3">2..0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
@@ -744,7 +802,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">1.83</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
@@ -767,7 +825,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">1.83</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
@@ -790,7 +848,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">1.93</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
@@ -811,9 +869,9 @@
               <!--攻擊!-->
               <td class="tta3">0/0</td>
               <!--防禦!-->
-              <td class="tta3">0</td>
+              <td class="tta3">1</td>
               <!--射程!-->
-              <td class="tta3">1.93</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">4</td>
               <!--視野!-->
@@ -830,13 +888,13 @@
               </td>
               <td class="tta3">80</td>
               <!--生命值!-->
-              <td class="tta3">7</td>
+              <td class="tta3">8</td>
               <!--攻擊!-->
               <td class="tta3">1/0</td>
               <!--防禦!-->
-              <td class="tta3">0</td>
+              <td class="tta3">1</td>
               <!--射程!-->
-              <td class="tta3">2.5</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">5</td>
               <!--視野!-->
@@ -858,7 +916,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
@@ -880,7 +938,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
@@ -902,7 +960,7 @@
               <!--防禦!-->
               <td class="tta3">5</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">6</td>
               <!--視野!-->
@@ -924,7 +982,7 @@
               <!--防禦!-->
               <td class="tta3">6</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">7</td>
               <!--視野!-->
@@ -947,7 +1005,7 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
@@ -972,11 +1030,280 @@
               <!--防禦!-->
               <td class="tta3">0</td>
               <!--射程!-->
-              <td class="tta3">2.03</td>
+              <td class="tta3">2.0</td>
               <!--射速!-->
               <td class="tta3">3</td>
               <!--視野!-->
               <td class="tta3">1.2</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/Karambitwarrioricon.png"
+                  alt=""
+                /><nuxt-link to="/units/Konnik">保加利亞騎兵(下馬)</nuxt-link>
+              </td>
+              <td class="tta3">45</td>
+              <!--生命值!-->
+              <td class="tta3">12</td>
+              <!--攻擊!-->
+              <td class="tta3">0/0</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">2.4</td>
+              <!--射速!-->
+              <td class="tta3">7</td>
+              <!--視野!-->
+              <td class="tta3">0.9</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/Karambitwarrioricon.png"
+                  alt=""
+                /><nuxt-link to="/units/Konnik"
+                  >精銳保加利亞騎兵(下馬)</nuxt-link
+                >
+              </td>
+              <td class="tta3">0</td>
+              <!--生命值!-->
+              <td class="tta3">13</td>
+              <!--攻擊!-->
+              <td class="tta3">0/1</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">2.4</td>
+              <!--射速!-->
+              <td class="tta3">7</td>
+              <!--視野!-->
+              <td class="tta3">0.9</td>
+              <!--速度!-->
+            </tr>
+          </table>
+
+          <p>
+            以下單位可在地圖編輯器裡找到
+          </p>
+          <table class="table-bordered" width="100%">
+            <tr class="tta">
+              <td width="19%">步兵單位</td>
+              <td width="9%">生命值</td>
+              <td width="9%">攻擊</td>
+              <td width="9%">防禦</td>
+              <td width="9%">射程</td>
+              <td width="9%">攻擊速度</td>
+              <td width="9%">
+                <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
+              </td>
+              <td width="9%">速度</td>
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/MilitiaIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Heavy_Swordsman">重劍兵</nuxt-link>
+              </td>
+              <td class="tta3">75</td>
+              <td class="tta3">7</td>
+              <td class="tta3">0/0</td>
+              <td class="tta3">0</td>
+              <td class="tta3">2.0</td>
+              <td class="tta3">4</td>
+              <td class="tta3">0.95</td>
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/ManAtArmsIcon.png"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/units/Amazon_Warrior">亞馬遜戰士</nuxt-link>
+              </td>
+              <td class="tta3">45</td>
+              <!--生命值!-->
+              <td class="tta3">8</td>
+              <!--攻擊!-->
+              <td class="tta3">0/0</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">2.0</td>
+              <!--<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>!-->
+              <td class="tta3">3</td>
+              <!--視野!-->
+              <td class="tta3">1.1</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/LongswordsManIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Eastern_Swordsman">東方劍士</nuxt-link>
+              </td>
+              <td class="tta3">60</td>
+              <!--生命值!-->
+              <td class="tta3">9</td>
+              <!--攻擊!-->
+              <td class="tta3">0/1</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">2.0</td>
+              <!--射速!-->
+              <td class="tta3">4</td>
+              <!--視野!-->
+              <td class="tta3">0.9</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Heavy_Pikeman"
+                  >強力重裝長槍兵</nuxt-link
+                >
+              </td>
+              <td class="tta3">75</td>
+              <!--生命值!-->
+              <td class="tta3">4</td>
+              <!--攻擊!-->
+              <td class="tta3">0/0</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">3.05</td>
+              <!--射速!-->
+              <td class="tta3">4</td>
+              <!--視野!-->
+              <td class="tta3">1</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Legionary">羅馬士兵</nuxt-link>
+              </td>
+              <td class="tta3">60</td>
+              <!--生命值!-->
+              <td class="tta3">9</td>
+              <!--攻擊!-->
+              <td class="tta3">0/1</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">2.0</td>
+              <!--射速!-->
+              <td class="tta3">5</td>
+              <!--視野!-->
+              <td class="tta3">0.9</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Nordic_Swordsman">北歐劍士</nuxt-link>
+              </td>
+              <td class="tta3">60</td>
+              <!--生命值!-->
+              <td class="tta3">9</td>
+              <!--攻擊!-->
+              <td class="tta3">0/1</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">2.0</td>
+              <!--射速!-->
+              <td class="tta3">4</td>
+              <!--視野!-->
+              <td class="tta3">0.9</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Bandit">Bandit</nuxt-link>
+              </td>
+              <td class="tta3">75</td>
+              <!--生命值!-->
+              <td class="tta3">10</td>
+              <!--攻擊!-->
+              <td class="tta3">0/0</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">2.0</td>
+              <!--射速!-->
+              <td class="tta3">6</td>
+              <!--視野!-->
+              <td class="tta3">0.9</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Iroquois_Warrior">易洛揆勇士</nuxt-link>
+              </td>
+              <td class="tta3">65</td>
+              <!--生命值!-->
+              <td class="tta3">8</td>
+              <!--攻擊!-->
+              <td class="tta3">0/1</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">2.0</td>
+              <!--射速!-->
+              <td class="tta3">3</td>
+              <!--視野!-->
+              <td class="tta3">?</td>
+              <!--速度!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img
+                  class="gg"
+                  src="~assets/2HandedswordsmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Ninja">忍者</nuxt-link>
+              </td>
+              <td class="tta3">50</td>
+              <!--生命值!-->
+              <td class="tta3">9</td>
+              <!--攻擊!-->
+              <td class="tta3">1/?</td>
+              <!--防禦!-->
+              <td class="tta3">0</td>
+              <!--射程!-->
+              <td class="tta3">1.8</td>
+              <!--射速!-->
+              <td class="tta3">4</td>
+              <!--視野!-->
+              <td class="tta3">1.1</td>
               <!--速度!-->
             </tr>
           </table>
@@ -1001,8 +1328,19 @@
                 >
               </td>
               <td class="tunitc4">封建</td>
-              <td class="tunitc5">50F</td>
+              <td class="tunitc5">0</td>
               <td class="tunitc6">步兵+2視野</td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img class="gg" src="~assets/tracking.png" alt="" /><nuxt-link
+                  to="/techs/Tracking"
+                  >供給</nuxt-link
+                >
+              </td>
+              <td class="tunitc4">封建</td>
+              <td class="tunitc5">150F 100G</td>
+              <td class="tunitc6">民兵系食物成本-15</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1238,7 +1576,7 @@
               <td class="tunitc6">
                 步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
                 >攻擊+5，對<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-                >攻擊+2。
+                >攻擊+4。
               </td>
             </tr>
             <tr>
@@ -1301,7 +1639,7 @@
               <td class="tunitc4">
                 <nuxt-link to="/techs/Couriers">織物盾</nuxt-link>
               </td>
-              <td class="tunitc5">400F 200G</td>
+              <td class="tunitc5">600F 600G</td>
               <td class="tunitc6">
                 <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
                   to="/units/Slinger"
@@ -1322,8 +1660,8 @@
               <td class="tunitc4">
                 <nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link>
               </td>
-              <td class="tunitc5">1000F 600G</td>
-              <td class="tunitc6">軍營步兵單位訓練不需花食物。</td>
+              <td class="tunitc5">850F 500G</td>
+              <td class="tunitc6">民兵系不需花費食物成本。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1373,11 +1711,41 @@
               <td class="tunitc4">
                 <nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link>
               </td>
-              <td class="tunitc5">450F 400G</td>
+              <td class="tunitc5">850F 400G</td>
               <td class="tunitc6">
                 <nuxt-link to="/units/Berserk">狂戰士</nuxt-link
                 >回血速度提升(每分鐘回20 HP變每分鐘回40 HP)。
               </td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="gg"
+                  style="margin: 2px;"
+                  alt=""
+                /><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
+              </td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Bagains">協議</nuxt-link>
+              </td>
+              <td class="tunitc5">900F 450G</td>
+              <td class="tunitc6">民兵系近戰護甲+5。</td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img
+                  src="~assets/unique_tech_imperial.png"
+                  class="gg"
+                  style="margin: 2px;"
+                  alt=""
+                /><nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>
+              </td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>
+              </td>
+              <td class="tunitc5">500F 200G</td>
+              <td class="tunitc6">長槍兵系和矛兵系遠程護甲+2。</td>
             </tr>
           </table>
 
@@ -1401,7 +1769,7 @@
                 ><img
                   class="imgn hg"
                   width="200"
-                  src="~assets/Infantryunitscastle.jpg"
+                  src="~assets/Infantryunitscastle.png"
                   alt=""
               /></gallery>
               <div class="lightbox-caption" style="width:220px">
