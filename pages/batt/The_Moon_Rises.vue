@@ -26,13 +26,13 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                3000／<nuxt-link to="/resource/Wood">木頭</nuxt-link>6000
-                <nuxt-link to="/resource/Food">食物</nuxt-link>／3000
-                <nuxt-link to="/resource/Gold">黃金</nuxt-link>／300
+                2000／<nuxt-link to="/resource/Wood">木頭</nuxt-link>2000
+                <nuxt-link to="/resource/Food">食物</nuxt-link>／1000
+                <nuxt-link to="/resource/Gold">黃金</nuxt-link>／500
                 <nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">145</td>
+              <td class="tc2" width="5%">200</td>
             </tr>
           </table>
 
@@ -58,166 +58,89 @@
             </tr>
             <tr>
               <td class="tc6" width="15%">
-                <div class="p7"></div>
+                <div class="p4"></div>
                 玩家2：
               </td>
               <td class="tc6" width="35%">
-                瓦拉幾亞（灰色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+                瓦拉幾亞鄉村（黃色）斯拉夫
               </td>
               <td class="tc6" width="15%">
-                <div class="p7"></div>
-                玩家3：
-              </td>
-              <td class="tc6" width="35%">
-                瓦拉幾亞（灰色）<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
-              </td>
-            </tr>
-            <tr>
-              <td class="tc6" width="15%">
-                <div class="p7"></div>
-                玩家4：
-              </td>
-              <td class="tc6" width="35%">
-                瓦拉幾亞（灰色）<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
-              </td>
-              <td class="tc6" width="15%">
-                <div class="p6"></div>
+                <div class="p3"></div>
                 玩家6：
               </td>
               <td class="tc6" width="35%">
-                奧斯曼軍營（紫色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+                匈牙利（綠色）<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
               </td>
             </tr>
-
-            <tr>
-              <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
-            </tr>
-            <tr>
-              <td class="tc6">
-                <div class="p4"></div>
-                玩家8：
-              </td>
-              <td class="tc6">鄉村（黃色）斯拉夫</td>
-            </tr>
-
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
               <td class="tc6">
+                <div class="p5"></div>
+                玩家3：
+              </td>
+              <td class="tc6">拉杜總督（青色）斯拉夫</td>
+              <td class="tc6">
+                <div class="p1"></div>
+                玩家4：
+              </td>
+              <td class="tc6">蘇丹穆罕默德二世（藍色）土耳其</td>
+            </tr>
+                        <tr>
+              <td class="tc6">
                 <div class="p6"></div>
                 玩家5：
               </td>
-              <td class="tc6">奧斯曼先鋒部隊（紫色）土耳其</td>
+              <td class="tc6">鄂圖曼帝國（紫色）土耳其</td>
               <td class="tc6">
-                <div class="p6"></div>
+                <div class="p7"></div>
                 玩家7：
               </td>
-              <td class="tc6">奧斯曼軍隊（紫色）土耳其</td>
+              <td class="tc6">阿金奇騎兵（灰色）土耳其</td>
             </tr>
-          </table>
-
-          <h3>開場</h3>
-          <li>
-            伊斯特萬城堡陣營:伊斯特萬，1位<nuxt-link to="/units/Villager"
-              >村民</nuxt-link
-            >，5位<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
-            >，5位<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link
-            >，5位<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
-          </li>
-          <li>
-            雅各布城堡陣營:雅各布，1位村民，5位弩兵，5位勁弩兵，5位火槍兵，1台<nuxt-link
-              to="/units/Onager"
-              >中型投石車</nuxt-link
-            >
-          </li>
-
-          <h3>主要任務</h3>
+          </table><br />
+          <dl class="dl-horizontal">
+            <dt> 開場：</dt>
+          <li>起始地點：騎士x6、重裝長槍兵x9、戰矛兵x3</li>
+          <li>中央地方：僧侶x4</li>
+          <li>盟友市集：貿易車隊x3（三處市集各1輛）</li>
+          <li>北方基地：貴族鐵騎x4、重裝長槍兵x8、戰矛兵x8、中型投石車x2</li>
+          <li>西南基地：騎士x5、馬騎弓兵x5、輕騎兵x10、重型弩砲x2</li>
+          <li>東方基地：貴族鐵騎x4、重裝長槍兵x8、戰矛兵x4、重型弩砲x2</li>
+          </dl>
+          <h3>任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>
-                <nuxt-link to="/units/hero/Vlad_Dracula"
-                  >佛列德-德古拉</nuxt-link
-                >必須活下去。
-              </li>
-              <li>伊斯特萬必須活下去。</li>
-              <li>雅各布必須活下來。</li>
+              <li>贏得與鄂圖曼軍隊的初戰。</li>
+              <li>確保您所有的城堡在倒數結束前屹立不倒。</li>
+              <li>次要任務：只要您一直保護瓦拉幾亞村落，他們就會一直為您提供資源。或者，您可以洗劫瓦拉幾亞村落，將他們招降為您的村民。</li>
             </ul>
-            <ol>
-              <li>
-                取五百<nuxt-link to="/civs/Turks">土耳其人</nuxt-link
-                >首級，震懾敵軍！
-              </li>
-              <li>
-                突襲村莊，掠奪燒毀一切！並且，剿滅你見到的所有奧斯曼軍隊。
-              </li>
-              <li>拖住敵人進攻15分鐘。</li>
-              <li>伯恩納里城堡不能被攻陷。</li>
-              <li>走山路去東南方與瓦拉幾亞軍隊會面。</li>
-              <li>整裝待發將土耳其軍營夷為平地！</li>
-              <li>
-                德古拉必須逃往匈牙利！伯恩納里城堡的下水道通向一個山川，德古拉在那裡有只早就就緒的小船。讓德古拉躲進城堡從下水道逃跑！
-              </li>
-            </ol>
           </div>
 
           <h3>任務提示</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>
-                注意：在某些特定的場景下地圖的一部分或者全部可能無法進入。目標只限於當前可以進入的區域。
-              </li>
-              <li>
-                場景的第一部分是一個描述德古拉對第一次奧斯曼入侵的回應的片段。你只需要坐著欣賞就行
-              </li>
-              <li>
-                每個堡壘有一些強勢和弱勢以及生產不同的軍隊，所以使用相應的防禦策略並提防敵人的<nuxt-link
-                  to="/units/Siege_Weapons"
-                  >攻城武器</nuxt-link
-                >！
-              </li>
-              <li>
-                德古拉的燒焦土地戰役要求整個鄉村都被夷為平地（摧毀除<nuxt-link
-                  to="/building/House"
-                  >房屋</nuxt-link
-                >以外的所有<nuxt-link to="/building">建築</nuxt-link
-                >或者按指示操作）以及打敗奧斯曼先鋒部隊。
-              </li>
-              <li>
-                對奧斯曼軍營的夜襲是極具勇氣的但也註定要失敗的。一旦你損失了大部分軍隊你會接到新的目標。
-              </li>
-              <li>弗列德‧德古拉和他的瓦拉幾亞王國可以晉級到帝王時代。</li>
+              <li>佛拉德‧德古拉的人口上限為200人，但他的防禦策略禁止他生產巨型投石機、衝撞車、戰艦和炸藥桶。</li>
+              <li>鄂圖曼進攻營地裡有防禦工事，襲擊他們等於是自殺。</li>
+              <li>由於破壞夾雜著春雨，使當地沙灘和橋樑大都無法通行，這分散了敵人的注意力，將他們集中到了佛拉德的要塞，但同時也使每個要塞都更加難攻。</li>
+              <li>充分利用每個要塞附近獨特的地理位置來掠奪敵軍，並弱化他們的攻擊力。</li>
+              <li>眾所周知，瓦拉幾亞農民用途多樣，可根據用途來抵禦體力充沛的敵人。</li>
             </ul>
           </div>
           <h3>斥候</h3>
           <div class="hrn1"></div>
           <div class="n1">
+
             <ul>
-              <li>
-                德古拉在首都塔格韋斯特開始了征途，他打算率領兩萬兩千大軍（灰色）到多瑙河埋伏附近的奧斯曼軍隊。
-              </li>
-              <li>
-                奧斯曼（紫色）是最危險的敵人。他們進入瓦拉幾亞的先鋒部隊包括蘇丹禁衛隊，<nuxt-link
-                  to="/units/Archer_Units"
-                  >弓箭手</nuxt-link
-                >，重騎兵，攻城武器和<nuxt-link to="/units/Pikeman"
-                  >重裝長槍兵</nuxt-link
-                >，並且他們還會在前線建立軍營。
-              </li>
-              <li>
-                德古拉的瓦拉幾亞王國（灰色）控制著地圖上大多數的小城鎮和堡壘，不惜一切代價也要保護它們。
-              </li>
-              <li>
-                奧斯曼先鋒軍（紫色）是一個主要的威脅，並且有一些分佈在地圖上的單位遲早要對付。
-              </li>
-              <li>
-                鄉村（黃色）幾乎沒有威脅，因為只有一小撮人保護他們的建築。但如果被土耳其人佔領了，他們可以給大奧斯曼軍隊提供供給。
-              </li>
-              <li>
-                在地圖的遠北處是伯恩納里城堡，那是德古拉的城堡（注：現為羅馬尼亞著名景點，懸崖上的吸血鬼城堡）。這是背水一戰的最佳地點。
-              </li>
+              <li>為了讓瓦拉幾亞免遭土耳其的進攻，佛拉德‧德古拉(1，紅色)建造了三個要塞：北部開放地區的弗格拉什，東部森林覆蓋的拉斯諾夫，以及西南山區的伯恩納里。這些城堡被四面八方圍攻了：</li>
+              <li>德古拉的對手兄弟拉杜總都(3，青色)，利用貴族鐵騎、重裝長槍兵和衝撞車從西部和北部攻擊弗格拉什。</li>
+              <li>鄂圖曼帝國主力軍隊(5，紫色)利用馬騎弓兵、騎士和炸藥桶從東部威脅拉斯諾夫，而且可能建造巨型投石機。</li>
+              <li>「征服者」蘇丹穆罕默德二世(4，藍色)從南部前往伯恩納里。他的精銳先鋒由長劍兵、土耳其火槍兵和火砲組成。</li>
+              <li>有幾個瓦拉幾亞村莊(2，黃色)給德古拉的軍隊提供供給，也是潛在的貿易伙伴。他們在攻擊間隙被鄂圖曼帝國的阿金奇騎兵(7，灰色)抓獲。</li>
+              <li>匈牙利(6，綠色)承諾幫助德古拉對抗土耳其人，但最近沒有任何消息。</li>
             </ul>
           </div>
 
@@ -225,78 +148,24 @@
           <div class="hrn1"></div>
 
           <ul>
-            <li>
-              情景開始時有一些“過場動畫”顯示德古拉和盟友擊敗撤退的土耳其人。最終，玩家可以控制兩個獨立的城堡，由各自的指揮官守衛。目標是獲得500擊殺數，但土耳其人（橙色）將無情地攻擊玩家的堡壘。
-            </li>
-            <li>
-              每座城堡都有一個村民。玩家需要他修理<nuxt-link
-                to="/building/Watch_Tower"
-                >箭塔</nuxt-link
-              >跟城堡，所以他應該得到很好的保護。玩家開局有很多弓箭手，這些弓箭手應該駐紮在前方防禦塔中。此外，每個城堡都有一個兵營，玩家應該訓練一些長槍手用於對抗土耳其<nuxt-link
-                to="/units/Cavalry_Units"
-                >騎兵</nuxt-link
-              >。中央城堡有一個<nuxt-link to="/building/Monastery"
-                >修道院</nuxt-link
-              >，而東部城堡有一個<nuxt-link to="/building/Stable"
-                >馬廄</nuxt-link
-              >，所以玩家可以建造<nuxt-link to="/units/Monk">僧侶</nuxt-link
-              >和<nuxt-link to="/units/Knight">騎士</nuxt-link>。
-            </li>
-            <li>
-              東部城堡比較危險，因為它經常會受到<nuxt-link to="/units/Trebuchet"
-                >巨型投石機</nuxt-link
-              >的攻擊。玩家應該使用他們的<nuxt-link to="/units/hero"
-                >英雄</nuxt-link
-              >和一些<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
-              >或騎士摧毀他們。中央城堡的主要威脅是<nuxt-link
-                to="/units/Battering_Ram"
-                >衝撞車</nuxt-link
-              >和<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-              >，但它們只能到達塔的範圍，因此玩家可以在需要時摧毀它們並修復箭塔。
-            </li>
-            <li>
-              在某些情況下，土耳其人將停止攻擊。這將允許玩家建立一支突擊部隊。東部城堡的兩側是西部的奧斯曼帝國營地（由箭塔守衛），以及南部的一個完整堡壘，所以玩家可能不得不進攻以獲得500次擊殺。中央城堡北面有一個奧斯曼營地，所以如果沒有敵方軍隊攻來，玩家應該派出長槍手和弓箭手去攻擊敵人。騎兵應該留在兩座城堡內預防土耳其攻城武器來犯。
-            </li>
-            <li>
-              一旦玩家獲得500次擊殺，他們將獲得德古拉和騎兵部隊的控制權。下一個目標是摧毀黃色的所有<nuxt-link
-                to="/building"
-                >建築物</nuxt-link
-              >; 他們在西邊有一個守衛良好的村莊（當心<nuxt-link
-                to="/units/Halberdier"
-                >戟兵</nuxt-link
-              >），北邊的一個漁村，以及藍色村莊西部和東部的<nuxt-link
-                to="/building/Mill"
-                >磨坊</nuxt-link
-              >和礦區。許多玩家在這裡遇到麻煩，認為他們已經破壞所有建築物但沒有觸發接下來的劇情。繼續探索地圖的整個西側，黃色可能有流浪村民。紫色（在早期的“過場動畫”中大部分被摧毀）也有部隊守衛著北方的漁村。在繼續之前，玩家應該注意在摧毀黃色建築物時給與的資源，因為這些將很快就會派上用場。如果你在前一階段有任何僧侶在拉斯諾夫城堡活著，你可以隨時在那裡治愈你的部隊。
-            </li>
-            <li>
-              一旦德古拉滿意地掠奪村莊後，玩家就可以控制遠方北部的伯恩那里城堡。土耳其人（橙色）將無情地進攻，玩家應該提防他們的火炮和<nuxt-link
-                to="/units/Trebuchet"
-                >投石機</nuxt-link
-              >。玩家應該使用<nuxt-link to="/units/Elite_Skirmisher"
-                >戰矛兵</nuxt-link
-              >，弩兵或<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
-              >來攔截敵軍，用<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >訓練騎士或騎士隊摧毀攻城武器。德古拉應該在城堡的東部以策安全。
-            </li>
-            <li>
-              存活的關鍵是將騎兵（包括德古拉）在圍攻開始時迅速出城摧毀火炮和巨型投石機;然後快速沖回大門內，並將其鎖定。敵人不會補上這些的單位，從而消除了最大的威脅。然後玩家應該將戰矛兵放滿中間的塔，並將其餘的軍隊作為誘餌。Paramount
-              既能守衛大門，也能保護火槍兵，同時保持後者在一定距攻擊近戰單位。最好的方法是將它們放在塔後面並用守衛模式。繼續訓練戰矛兵和長槍兵作誘餌。不要停止生產騎士單位。長槍兵主要是廉價誘餌，而戰矛兵則反擊弩兵和<nuxt-link
-                to="/units/Cavalry_Archer"
-                >馬弓騎兵</nuxt-link
-              >。投石車會成為完全駐滿兵的中間塔的目標，而衝撞車會是火槍兵和噴火塔的目標。玩家應該經常保存，並記錄時間，<b
-                >因為<nuxt-link to="/building/Gate">城門</nuxt-link
-                >必須在時間用完之前解鎖並且所有權轉移到瓦拉幾亞手上，不然這場戰役不會獲勝!</b
-              >
-            </li>
-            <li>
-              15分鐘後，玩家的部隊變回灰色，這時玩家只能控制德古拉。他應該沿著南部的山路與一支大型騎兵部隊聯繫，然後往西走攻擊橘色陣營。德古拉本打算這是一次突擊，但這一切都是徒勞的。德古拉應該保持安全並直接將他送回伯恩那里城堡（這就是為什麼大門必須在圍城結束時解鎖，否則德古拉無法回到城堡），注意<nuxt-link
-                to="/building/Guard_Tower"
-                >防禦箭塔</nuxt-link
-              >的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-              >，同時觀看騎兵軍隊慢慢屠殺一切。
-            </li>
+            <li>首先拿下一開始的會戰後，任務目標要您守下三個城堡60分鐘，只要任一城堡被攻破就算失敗。而對於黃色的村莊有兩個選擇：保護黃色的村莊不被灰色攻破可以定期獲得他們的資源進貢；或是改中立然後摧毀他們的城鎮中心洗劫部落以及用僧侶招降村民（改敵對我方軍隊會一併把村民殺死）。</li>
+            <li>兩種做法各有優缺，保護村民可以不用煩惱經濟的事，等進貢就好，但高難度下敵人攻勢猛烈使得資源容易短缺；如果洗劫部落則無法獲得貢品和貿易且需分神在經濟方面，但有村民可以發展經濟、蓋軍事建築及修城堡。如果要保護黃色，可以多造幾輛貿易車隊在東北方的市集貿易。高難度下通常來不及分神保護黃色，但只要東北方的村莊還在，依然可以得到貢品。</li>
+            <li>而在地圖北方基地西側、西南方基地的西南側、東方基地的東北側有遺跡，可以派僧侶去回收。</li>
+            <li>大約過了一半時間，匈牙利的軍隊會轉移給我方控制。</li>
+            <li>基地的防禦面如下：</li>
+            <ol>
+            <li>青色會使用重裝長槍兵、精銳貴族鐵騎、重型衝撞車從西邊和北邊進攻北方的基地，全部造戟兵應對即可，或是也可以配合僧侶招降貴族鐵騎、甚至用投石車配弩兵由牆內往外攻擊衝車和士兵。</li>
+            <li>藍色會用劍兵勇士、精銳土耳其火槍兵和火砲進攻西南側基地，使用重裝騎士應對並配僧侶治療。可擺一支別動隊在西側遺跡的地方，專門拆後方的火砲。</li>
+              <li>紫色會用重裝騎士、重裝馬騎弓兵、炸藥桶和巨型投石機由右側和下方攻擊東方的基地。因為沒有牆，所以這邊最難守。多的兵盡量往這裡送，匈牙利的支援部隊也全部派來這邊。控一下馬弓和城堡擊殺炸藥桶，然後一樣派幾支騎兵做別動隊，專門拆巨投。</li>
+              </ol>
           </ul>
+                    <h3>決定版變更點</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>之前是幾個場景連結的分階段篇章，決定版整個重製，改成只要守下基地60分就能過關。</li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
@@ -308,7 +177,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/DU4.jpg" alt="" /></div>
+              <div class="unititle">決定版地圖待補</div>
             </td>
           </tr>
           <tr>
