@@ -8,7 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>掃蕩羅亞爾</b>（舊譯：羅亞爾河大掃蕩）是在貞德<nuxt-link to="/batt">戰役</nuxt-link
+            <b>掃蕩羅亞爾</b>（舊譯：羅亞爾河大掃蕩）是在貞德<nuxt-link
+              to="/batt"
+              >戰役</nuxt-link
             >第三個劇情關卡，羅亞爾河戰役是百年戰爭中一場由<nuxt-link
               to="/units/hero/Joan_of_Arc_Champion"
               >聖女貞德</nuxt-link
@@ -49,10 +51,8 @@
               玩家3
             </td>
             <td class="tc6" width="38%">
-              <nuxt-link to="/civs/Britons">英格蘭人</nuxt-link>（紅色）<nuxt-link
-                to="/civs/Britons"
-                >不列顛</nuxt-link
-              >
+              <nuxt-link to="/civs/Britons">英格蘭人</nuxt-link
+              >（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -408,13 +408,17 @@
               </div>
             </div>
           </ul>
-               <div class="col-md-12">
-        <h3>決定版變更點</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>人口上限由75改125，法斯特爾夫來襲的軍隊只有重裝騎士，不再有裝甲衝撞車。</li>
-          </ul>
+          <div class="col-md-12">
+            <h3>決定版變更點</h3>
+            <div class="hrn1"></div>
+            <div class="n1">
+              <ul>
+                <li>
+                  人口上限由75改125，法斯特爾夫來襲的軍隊只有重裝騎士，不再有裝甲衝撞車。
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
     </div>

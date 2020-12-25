@@ -434,7 +434,7 @@
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良少女</nuxt-link
               ><br /><nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                >羅亞爾河大掃蕩</nuxt-link
+                >掃蕩羅亞爾</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Rising">叛變</nuxt-link
               ><br /><nuxt-link to="/batt/The_Siege_of_Paris"
@@ -510,7 +510,7 @@
             <td class="tunitc6">劍兵勇士</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                >羅亞爾河大掃蕩</nuxt-link
+                >掃蕩羅亞爾</nuxt-link
               >
               <br /><nuxt-link to="/batt/A_Perfect_Martyr"
                 >完美的烈士</nuxt-link
@@ -780,7 +780,7 @@
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                >羅亞爾河大掃蕩</nuxt-link
+                >掃蕩羅亞爾</nuxt-link
               >
             </td>
           </tr>
