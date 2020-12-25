@@ -367,7 +367,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>5-<nuxt-link
+                <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>5-<nuxt-link
                   to="/batt/Jihad"
                   >聖戰</nuxt-link
                 >
@@ -385,7 +385,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                沙拉丁6-<nuxt-link to="/batt/The_Lion_and_the_Demon"
+                薩拉丁6-<nuxt-link to="/batt/The_Lion_and_the_Demon"
                   >獅子與惡魔</nuxt-link
                 >
               </td>

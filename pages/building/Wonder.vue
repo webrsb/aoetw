@@ -787,7 +787,7 @@
               位於現今伊拉克薩邁拉，848年由阿拔斯王朝哈里發穆塔瓦基勒下令興建，852年完工，遊戲內的塔狀物只是清真寺的宣禮塔(用來提醒信徒每日五次朝拜)，真正的清真寺有多大可見一斑。
             </p>
             <p>
-              登場戰役：<nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link
+              登場戰役：<nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link
               >6-<nuxt-link to="/batt/The_Lion_and_the_Demon"
                 >獅子與惡魔</nuxt-link
               >、<nuxt-link to="/batt/Francisco_de_Almeida"
@@ -816,7 +816,7 @@
               位於現今德國萊茵蘭-普法爾茨州，阿夫利赫姆修道院的修士建立於1093年，12世紀開始變成學術中心，瑪麗亞這個名字是在1862年，耶穌會的修士加上去的。
             </p>
             <p>
-              登場戰役：沙拉丁5-<nuxt-link to="/batt/Jihad">聖戰</nuxt-link
+              登場戰役：薩拉丁5-<nuxt-link to="/batt/Jihad">聖戰</nuxt-link
               >、成吉思汗6-<nuxt-link to="/batt/Pax_Mongolia"
                 >蒙古太平</nuxt-link
               >、<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
@@ -845,7 +845,7 @@
               位於現今土耳其埃迪爾內，鄂圖曼帝國時期的清真寺，1575年完工，1913年遭到保加利亞大砲直接擊中頂端，但是只有輕微損傷，土耳其國父阿塔圖爾克下令不得修復，讓後代時刻以此為鑑。
             </p>
             <p>
-              登場戰役：沙拉丁1-<nuxt-link to="/batt/An_Arabian_Knight"
+              登場戰役：薩拉丁1-<nuxt-link to="/batt/An_Arabian_Knight"
                 >阿拉伯騎士</nuxt-link
               >、<nuxt-link to="/batt/El_Cida">熙德</nuxt-link>4-<nuxt-link
                 to="/batt/Black_Guards"

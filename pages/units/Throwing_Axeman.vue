@@ -494,7 +494,7 @@
         <div class="n1">
           <ul>
             <li>
-              在<nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link
+              在<nuxt-link to="/units/hero/Saladin">薩拉丁</nuxt-link
               >，<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
               >和<nuxt-link to="/units/hero/Joan_of_Arc_Champion"
                 >聖女貞德</nuxt-link

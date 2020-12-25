@@ -261,9 +261,9 @@
           >阿提拉</nuxt-link
         >，而在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
         >的戰役中，在<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
-        >與<nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link
+        >與<nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link
         >也頻繁的出現，耶路撒冷就是拜占庭文明。<nuxt-link to="/batt/Saladina"
-          >沙拉丁</nuxt-link
+          >薩拉丁</nuxt-link
         >第五關<nuxt-link to="/batt/Jihad">聖戰</nuxt-link
         >的十字軍泰爾，以及<nuxt-link to="/batt/Barbarossa"
           >巴巴羅薩戰役</nuxt-link
@@ -288,7 +288,7 @@
         >也有少量的出現，如西羅馬帝國，因為有了義大利文明的出現，以前由拜占庭扮演的義大利城邦，現在則準確的由義大利取代，
       </p>
       <p>以下詳細列出拜占庭出現的戰役</p>
-      <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+      <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
       <ul>
         <li>
           <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link
@@ -380,7 +380,7 @@
           /></gallery>
           <p>
             <em
-              >岩石圓頂，出現在沙拉丁的第四關及<nuxt-link to="/batt/Barbarossa"
+              >岩石圓頂，出現在薩拉丁的第四關及<nuxt-link to="/batt/Barbarossa"
                 >巴巴羅薩</nuxt-link
               >的最後一關</em
             >

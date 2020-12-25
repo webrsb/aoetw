@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>壞鄰居</b>是一個在<nuxt-link to="/batt/Saladina"
-              >沙拉丁戰役</nuxt-link
+              >薩拉丁戰役</nuxt-link
             >最終關：<nuxt-link to="/batt/The_Lion_and_the_Demon"
               >獅子與惡魔</nuxt-link
             >登場的<nuxt-link to="/units/hero">英雄</nuxt-link

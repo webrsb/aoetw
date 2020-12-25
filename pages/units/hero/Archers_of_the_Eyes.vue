@@ -31,15 +31,15 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link
+              <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link
               >的第四個戰役"耶路撒冷攻城戰"，玩家一開始會有幾名神弓手作防守用。
             </li>
             <li>
-              在沙拉丁最後戰役"獅子與惡魔"中玩家也會有一些神弓手做防守工作。
+              在薩拉丁最後戰役"獅子與惡魔"中玩家也會有一些神弓手做防守工作。
             </li>
             <li>
               在<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
-              >最後戰役"沉睡的皇帝"中，沙拉丁變成玩家敵人並有幾名神弓手在他的軍隊中。
+              >最後戰役"沉睡的皇帝"中，薩拉丁變成玩家敵人並有幾名神弓手在他的軍隊中。
             </li>
           </ul>
         </div>

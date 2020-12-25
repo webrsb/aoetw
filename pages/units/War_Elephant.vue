@@ -624,7 +624,7 @@
               歷史上的波斯帝國，在遊戲<nuxt-link to="/batt">戰役</nuxt-link
               >的<nuxt-link to="/units/hero/Genghis_Khan">成吉思汗</nuxt-link
               >，<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
-              >，以及<nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link
+              >，以及<nuxt-link to="/units/hero/Saladin">薩拉丁</nuxt-link
               >所處的時代，皆沒有使用戰象部隊。(然而遊戲裡有，請睜隻眼閉隻眼)
             </li>
             <li>

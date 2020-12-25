@@ -57,11 +57,11 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+              <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/An_Arabian_Knight">阿拉伯騎士</nuxt-link>•
-              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>•
+              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯君主</nuxt-link>•
               <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>•
               <nuxt-link to="/batt/The_Siege_of_Jerusalem"
                 >耶路撒冷攻城戰</nuxt-link

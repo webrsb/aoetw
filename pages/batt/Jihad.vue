@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>聖戰</b>為<nuxt-link to="/batt/Saladina">沙拉丁戰役</nuxt-link
+            <b>聖戰</b>為<nuxt-link to="/batt/Saladina">薩拉丁戰役</nuxt-link
             >的第五關劇情關卡，此關為<nuxt-link to="/units/hero/Saladin"
-              >沙拉丁</nuxt-link
+              >薩拉丁</nuxt-link
             >收復三座十字軍城市的<nuxt-link to="/batt">戰役</nuxt-link>。
           </p>
         </div>
@@ -183,7 +183,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+              <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
             </td>
           </tr>
           <tr>

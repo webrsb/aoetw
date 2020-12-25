@@ -93,13 +93,13 @@
                 >軍隊也出現在第一關。
               </li>
               <li>
-                <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>的<nuxt-link
+                <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>的<nuxt-link
                   to="/civs/Saracens"
                   >薩拉森人</nuxt-link
                 >出現在第五和第六關。
               </li>
               <li>
-                在<nuxt-link to="/batt/Saladina">沙拉丁戰役</nuxt-link
+                在<nuxt-link to="/batt/Saladina">薩拉丁戰役</nuxt-link
                 >中的耶路撒冷也在最後一關登場過。
               </li>
             </ul>

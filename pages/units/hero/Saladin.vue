@@ -2,17 +2,17 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>沙拉丁</h1>
+        <h1>薩拉丁</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>沙拉丁</strong>是《<nuxt-link to="/games/aof"
+            <strong>薩拉丁</strong>是《<nuxt-link to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >。他只能在<nuxt-link to="/batt">戰役</nuxt-link
-            >編輯器中使用，沙拉丁擁有<nuxt-link to="/units/Mameluke"
+            >編輯器中使用，薩拉丁擁有<nuxt-link to="/units/Mameluke"
               >阿拉伯奴隸兵</nuxt-link
             >的外觀。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
@@ -28,7 +28,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                沙拉丁
+                薩拉丁
               </div>
             </td>
           </tr>
