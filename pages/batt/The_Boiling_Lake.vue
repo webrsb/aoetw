@@ -31,8 +31,8 @@
             >。玩家可以捕獲的<nuxt-link to="/units/Trade_Cart"
               >貿易車隊</nuxt-link
             >移動到他們的軍事島上換取大砲，並抓住馬匹來獲得<nuxt-link
-              to="/units/Tarkan"
-              >答剌罕騎兵</nuxt-link
+              to="/units/Xolotl_Warrior"
+              >索洛托勇士</nuxt-link
             >，這些都是阿茲特克人平常不能使用的東西。
           </p>
         </div>
@@ -159,10 +159,8 @@
                 選擇性任務：
                 <ul>
                   <li>
-                    將奪得的貿易車隊和馬匹帶到火把處會讓你得到新的單位。馬會變成<nuxt-link
-                      to="/units/Tarkan"
-                      >精銳答剌罕騎兵</nuxt-link
-                    >，貿易車隊會變成<nuxt-link to="/units/Bombard_Cannon"
+                    將奪得的貿易車隊和馬匹帶到火把處會讓你得到新的單位。馬會變索洛托勇士，貿易車隊會變成<nuxt-link
+                      to="/units/Bombard_Cannon"
                       >火砲</nuxt-link
                     >。
                   </li>
@@ -238,6 +236,15 @@
               >。將一匹馬或交易車放入<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
               >外的六個火把內的空間，就可以換得以上單位。地圖的西部和東北部的西班牙馬圈內有馬匹，東部則有兩個貿易車隊，還有一個貿易車隊在西邊的一個廢棄的西班牙驛站附近，另外幾個在科爾特斯的基地裡。
+            </li>
+          </ul>
+          <h3>決定版變更點</h3>
+          <div class="hrn1"></div>
+          <ul>
+            <li>
+              原本帶馬可以換成精銳<nuxt-link to="/units/Tarkan"
+                >答剌罕騎兵</nuxt-link
+              >，決定版改成索洛托勇士，科技全滿的數值為HP140、攻擊18、近防5、遠防6。
             </li>
           </ul>
           <h3>歷史</h3>
@@ -317,7 +324,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link>
+              <nuxt-link to="/batt/Broken_Spears">折戟沉沙</nuxt-link>
             </td>
           </tr>
         </table>

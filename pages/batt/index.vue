@@ -685,7 +685,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link>
+                    <nuxt-link to="/batt/Broken_Spears">折戟沉沙</nuxt-link>
                   </div>
                 </td>
               </tr>

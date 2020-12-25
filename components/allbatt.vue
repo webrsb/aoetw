@@ -154,7 +154,7 @@
               <nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link>•
               <nuxt-link to="/batt/La_Noche_Triste">悲痛之夜</nuxt-link>•
               <nuxt-link to="/batt/The_Boiling_Lake">沸騰之湖</nuxt-link>•
-              <nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link>
+              <nuxt-link to="/batt/Broken_Spears">折戟沉沙</nuxt-link>
             </td>
           </tr>
           <tr>
