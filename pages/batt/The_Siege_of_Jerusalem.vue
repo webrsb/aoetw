@@ -200,7 +200,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>
+              <nuxt-link to="/batt/The_Horns_of_Hattin">哈丁角</nuxt-link>
             </td>
           </tr>
           <tr>

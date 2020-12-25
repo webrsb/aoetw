@@ -59,7 +59,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/batt/The_Horns_of_Hattin"
-                    >海丁的號角</nuxt-link
+                    >哈丁角</nuxt-link
                   >
                 </li>
                 <li>

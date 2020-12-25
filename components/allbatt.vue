@@ -62,7 +62,7 @@
             <td class="unit4">
               <nuxt-link to="/batt/An_Arabian_Knight">阿拉伯騎士</nuxt-link>•
               <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯君主</nuxt-link>•
-              <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>•
+              <nuxt-link to="/batt/The_Horns_of_Hattin">哈丁角</nuxt-link>•
               <nuxt-link to="/batt/The_Siege_of_Jerusalem"
                 >耶路撒冷攻城戰</nuxt-link
               >• <nuxt-link to="/batt/Jihad">聖戰</nuxt-link>•

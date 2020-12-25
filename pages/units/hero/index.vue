@@ -624,7 +624,7 @@
             <td class="tunitc6">
               <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯君主</nuxt-link
               ><br /><nuxt-link to="/batt/The_Horns_of_Hattin"
-                >海丁的號角</nuxt-link
+                >哈丁角</nuxt-link
               >
             </td>
           </tr>
