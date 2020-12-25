@@ -307,7 +307,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
+              <nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link>
             </td>
           </tr>
           <tr>

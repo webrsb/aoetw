@@ -436,7 +436,7 @@
               ><br /><nuxt-link to="/batt/The_Cleansing_of_the_Loire"
                 >掃蕩羅亞爾</nuxt-link
               >
-              <br /><nuxt-link to="/batt/The_Rising">叛變</nuxt-link
+              <br /><nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link
               ><br /><nuxt-link to="/batt/The_Siege_of_Paris"
                 >巴黎攻城戰</nuxt-link
               >

@@ -77,7 +77,7 @@
                     >掃蕩羅亞爾</nuxt-link
                   >
                 </li>
-                <li><nuxt-link to="/batt/The_Rising">叛變</nuxt-link></li>
+                <li><nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/The_Siege_of_Paris"
                     >巴黎攻城戰</nuxt-link

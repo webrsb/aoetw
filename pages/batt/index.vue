@@ -238,7 +238,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
+                    <nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link>
                   </div>
                 </td>
               </tr>
