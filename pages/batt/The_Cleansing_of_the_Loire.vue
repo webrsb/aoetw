@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>羅亞爾河大掃蕩</h1>
+        <h1>掃蕩羅亞爾</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>羅亞爾河大掃蕩</b>是在貞德<nuxt-link to="/batt">戰役</nuxt-link
+            <b>掃蕩羅亞爾</b>（舊譯：羅亞爾河大掃蕩）是在貞德<nuxt-link to="/batt">戰役</nuxt-link
             >第三個劇情關卡，羅亞爾河戰役是百年戰爭中一場由<nuxt-link
               to="/units/hero/Joan_of_Arc_Champion"
               >聖女貞德</nuxt-link
@@ -49,7 +49,7 @@
               玩家3
             </td>
             <td class="tc6" width="38%">
-              <nuxt-link to="/civs/Britons">英國</nuxt-link>（紅色）<nuxt-link
+              <nuxt-link to="/civs/Britons">英格蘭人</nuxt-link>（紅色）<nuxt-link
                 to="/civs/Britons"
                 >不列顛</nuxt-link
               >
@@ -60,7 +60,7 @@
               <div class="p8"></div>
               玩家4
             </td>
-            <td class="tc6">霍士道夫的軍隊（橘色）敵對</td>
+            <td class="tc6">法斯特爾夫的軍隊（橘色）敵對</td>
           </tr>
         </table>
 
@@ -84,7 +84,7 @@
                 >／50<nuxt-link to="/resource/Gold">黃金</nuxt-link
                 >／150<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </li>
-              <li><strong>人口上限：</strong>75</li>
+              <li><strong>人口上限：</strong>125</li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -166,7 +166,7 @@
         <div class="n1">
           <ol>
             <li>
-              最少要破壞三座英國人的<nuxt-link to="/building/Castle"
+              最少要破壞三座英格蘭人人的<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
               >。貞德必須活著。
             </li>
@@ -178,7 +178,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                羅亞爾河大掃蕩
+                掃蕩羅亞爾
               </div>
             </td>
           </tr>
@@ -234,7 +234,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
+              <nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link>
             </td>
           </tr>
         </table>
@@ -265,7 +265,7 @@
         <div class="n1">
           <ul>
             <li>
-              在攻擊英國人的城堡之前，要先肯定你有足夠的<nuxt-link
+              在攻擊英格蘭人人的城堡之前，要先肯定你有足夠的<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
               >。
@@ -277,13 +277,13 @@
         <div class="hrn1"></div>
         <ul>
           <li>
-            就算霍士道夫的軍隊基地被玩家打敗了，約翰·霍士道夫爵士和幾名<nuxt-link
+            就算法斯特爾夫的軍隊基地被玩家打敗了，約翰·法斯特爾夫爵士和幾名<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
-            >部隊仍然會在玩家摧毀第一座英國城堡後突襲玩家。
+            >部隊仍然會在玩家摧毀第一座英格蘭人城堡後突襲玩家。
           </li>
           <li>
-            儘管約翰·霍士道夫在這種情況下可以被殺害，但史實上他逃脫了帕提戰役（羅亞爾河戰役的最高潮）。
+            儘管約翰·法斯特爾夫在這種情況下可以被殺害，但史實上他逃脫了帕提戰役（羅亞爾河戰役的最高潮）。
           </li>
           <li>
             與<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
@@ -292,9 +292,9 @@
             >關卡和<nuxt-link to="/civs/Huns">匈人</nuxt-link
             ><nuxt-link to="/batt/Attila_the_Huna">阿提拉戰役</nuxt-link
             >的<nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link
-            >關卡一樣有增援部隊，情況不同的是，在摧毀第一座英國城堡之前，提早摧毀霍士道夫的基地並剷除他們的所有部隊，也不能阻止霍士道夫的增援部隊前來。
+            >關卡一樣有增援部隊，情況不同的是，在摧毀第一座英格蘭人城堡之前，提早摧毀法斯特爾夫的基地並剷除他們的所有部隊，也不能阻止法斯特爾夫的增援部隊前來。
           </li>
-          <li>在整場遊戲期間，霍士道夫會一直在嘲諷玩家（即使他被擊敗）。</li>
+          <li>在整場遊戲期間，法斯特爾夫會一直在嘲諷玩家（即使他被擊敗）。</li>
         </ul>
         <h2>概述</h2>
         <div class="hrn1"></div>
@@ -335,17 +335,17 @@
                     src="~assets/Joan_of_Arc2_4.jpg"
                     alt=""
                 /></gallery>
-                <p><em>越過淺灘朝霍士道夫前進。</em></p>
+                <p><em>越過淺灘朝法斯特爾夫前進。</em></p>
               </div>
             </div>
             <li>
-              地圖最東側是霍士道夫的基地，用你的<nuxt-link
+              地圖最東側是法斯特爾夫的基地，用你的<nuxt-link
                 to="/units/Crossbowman"
                 >弩兵</nuxt-link
               >屠殺<nuxt-link to="/units/Villager">村民</nuxt-link
               >，但記得讓軍隊遠離<nuxt-link to="/building/Town_Center"
                 >城鎮中心</nuxt-link
-              >，等村民出來在殺光他們，然後破壞城鎮中心。只要村民死光城鎮中心陷落霍士道夫就會投降，在這邊建立你的強大經濟體。
+              >，等村民出來在殺光他們，然後破壞城鎮中心。只要村民死光城鎮中心陷落法斯特爾夫就會投降，在這邊建立你的強大經濟體。
             </li>
             <li>
               先建造城鎮中心跟數棟房子，城鎮中心盡量離資源如木頭或是金礦近一點，玩家的南方有大量尚未使用的石頭和金礦，專注升級到<nuxt-link
@@ -363,13 +363,13 @@
                 <gallery
                   ><img class="imgn hg" src="~assets/Joan_of_Arc2_7.jpg" alt=""
                 /></gallery>
-                <p><em>摧毀霍士道夫的城鎮中心。</em></p>
+                <p><em>摧毀法斯特爾夫的城鎮中心。</em></p>
               </div>
               <div class="col-md-6">
                 <gallery
                   ><img class="imgn hg" src="~assets/Joan_of_Arc2_8.jpg" alt=""
                 /></gallery>
-                <p><em>霍士道夫突然出現在基地內！</em></p>
+                <p><em>法斯特爾夫突然出現在基地內！</em></p>
               </div>
             </div>
             <li>
@@ -389,9 +389,8 @@
               >，衝撞車攻擊城堡。剩下的兩座城堡重複此動作。當第一座城堡陷落時會有一些騎兵和<nuxt-link
                 to="/units/Capped_Ram"
                 >裝甲衝撞車</nuxt-link
-              >攻擊你的基地。留下5名騎士保衛應該足以對付他們了。如果玩家使用其他策略而沒有提早殲滅霍士道夫的城鎮，霍士道夫會在第一座城堡陷落時隨著12名騎兵和6台裝甲衝撞車朝玩家而來。一旦三座城堡陷落後就獲勝了。
+              >攻擊你的基地。留下5名騎士保衛應該足以對付他們了。如果玩家使用其他策略而沒有提早殲滅法斯特爾夫的城鎮，法斯特爾夫會在第一座城堡陷落時隨著12名騎兵玩家而來。一旦三座城堡陷落後就獲勝了。
             </li>
-
             <div class="row">
               <div class="col-md-6">
                 <gallery
@@ -408,6 +407,13 @@
                 <p><em>勝利！</em></p>
               </div>
             </div>
+          </ul>
+               <div class="col-md-12">
+        <h3>決定版變更點</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>人口上限由75改125，法斯特爾夫來襲的軍隊只有重裝騎士，不再有裝甲衝撞車。</li>
           </ul>
         </div>
       </div>
