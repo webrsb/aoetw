@@ -15,13 +15,13 @@
             >。 在《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
             >》中有三個重要的出場<nuxt-link to="/batt">戰役</nuxt-link
             >，分別是<nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link
-            >的<nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link
+            >的<nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link
             >和<nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link
             >，以及<nuxt-link to="/units/hero/Attila_the_Hun">阿提拉</nuxt-link
             >的<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>。
           </p>
           <p>
-            在<nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link
+            在<nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link
             >玩家可以選擇從<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
             >科爾特斯的馬圈收集20匹馬並關到玩家的馬圈來獲得勝利；在沸騰的湖玩家同樣可以在地圖上蒐集馬匹並帶到<nuxt-link
               to="/building/Castle"

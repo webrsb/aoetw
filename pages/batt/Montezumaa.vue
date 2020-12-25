@@ -48,7 +48,7 @@
                   >&nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link
+                  <nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link
                   >&nbsp;&nbsp;
                 </li>
                 <li>
