@@ -122,7 +122,7 @@
             <td class="unit3">上一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                >羅亞爾河大掃蕩</nuxt-link
+                >掃蕩羅亞爾</nuxt-link
               >
             </td>
           </tr>

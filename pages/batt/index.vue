@@ -230,7 +230,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                      >羅亞爾河大掃蕩</nuxt-link
+                      >掃蕩羅亞爾</nuxt-link
                     >
                   </div>
                 </td>

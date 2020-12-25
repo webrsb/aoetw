@@ -12,7 +12,7 @@
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在聖女貞德第三<nuxt-link to="/batt">戰役</nuxt-link
-            >"羅亞爾河大掃蕩"和戰役編輯器中找到，在該戰役中玩家破壞一座<nuxt-link
+            >"掃蕩羅亞爾"和戰役編輯器中找到，在該戰役中玩家破壞一座<nuxt-link
               to="/civs/Britons"
               >英國</nuxt-link
             ><nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -47,7 +47,7 @@
               /></gallery>
               <p>
                 <em
-                  >在戰役"羅亞爾河大掃蕩"中約翰霍士道夫爵士攻擊玩家城鎮並被<nuxt-link
+                  >在戰役"掃蕩羅亞爾"中約翰霍士道夫爵士攻擊玩家城鎮並被<nuxt-link
                     to="/units/Spearman"
                     >長槍兵</nuxt-link
                   >圍繞著(<nuxt-link to="/building/Mill">磨坊</nuxt-link

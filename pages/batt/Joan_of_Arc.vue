@@ -74,7 +74,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                    >羅亞爾河大掃蕩</nuxt-link
+                    >掃蕩羅亞爾</nuxt-link
                   >
                 </li>
                 <li><nuxt-link to="/batt/The_Rising">叛變</nuxt-link></li>
