@@ -21,10 +21,11 @@
           <p>
             最便宜的軍事部隊之一。此外，不需要<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link
-            >來培訓他們，讓他們成為“ 垃圾單位 ”。
+            >來培訓他們，讓他們成為“
+            <nuxt-link to="/Trash_Unit.php">垃圾兵單位</nuxt-link> ”。
           </p>
         </div>
-                <h3>文明可訓練與否</h3>
+        <h3>文明可訓練與否</h3>
         <div class="hrn1"></div>
         <div class="row">
           <div class="col-md-12">
@@ -34,33 +35,33 @@
                   ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
-<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
-<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-<nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
-<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-<nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-<nuxt-link to="/civs/Huns">匈人</nuxt-link>、
-<nuxt-link to="/civs/Incas">印加</nuxt-link>、
-<nuxt-link to="/civs/Indians">印度</nuxt-link>、
-<nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
-<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
-<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-<nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-<nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
-<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
             </div>
           </div>
         </div>
@@ -93,7 +94,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            戟兵在攻擊騎兵部隊非常有用。到了大後期時，是一種非常好用的垃圾單位。
+            戟兵在攻擊<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >部隊非常有用。到了大後期時，是一種非常好用的垃圾單位。
           </p>
           <p>
             除了騎兵之外，他們在與敵方<nuxt-link to="/units/Elite_Skirmisher"
@@ -468,18 +470,19 @@
                     >
                   </li>
                   <li>
-                <img
-                  class="gg"
-                  src="~assets/GenitourIcon.png"
-                  alt=""
-                /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>→
-                <img
-                  class="gg"
-                  src="~assets/GenitourIcon.png"
-                  alt=""
-                />精銳<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
-                >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>及其同盟限定)
-              </li>
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.png"
+                      alt=""
+                    />精銳<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+                    >及其同盟限定)
+                  </li>
                   <li>
                     <img
                       class="gg"
@@ -541,57 +544,54 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
-            <ul>
-              <li>
-                <img
-                  class="gg"
-                  src="~assets/HandCannoneerIcon.png"
-                  alt=""
-                /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
-              </li>
-              <li>
-                <img
-                  class="gg"
-                  src="~assets/Slingericon.png"
-                  alt=""
-                /><nuxt-link to="/units/Slinger">投石手</nuxt-link> (<nuxt-link
-                  to="/civs/Incas"
-                  >印加</nuxt-link
-                >限定)
-              </li>
-              <li>
-                <img
-                  class="gg"
-                  src="~assets/MangudaiIcon.png"
-                  width="22"
-                  alt=""
-                /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
-                <img
-                  class="gg"
-                  src="~assets/MangudaiIcon.png"
-                  width="22"
-                  alt=""
-                /><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
-                >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
-              </li>
-              <li>
-                <img
-                  class="gg"
-                  src="~assets/Kipchakicon.png"
-                  alt=""
-                /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>→
-                <img
-                  class="gg"
-                  src="~assets/Kipchakicon.png"
-                  alt=""
-                />精銳<nuxt-link to="/units/Kipchak">欽察</nuxt-link>(<nuxt-link
-                  to="/civs/Cumans"
-                  >庫曼</nuxt-link
-                >及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
-                  >庫曼傭兵</nuxt-link
-                >後同盟限定)
-              </li>
-            </ul>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/HandCannoneerIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Slingericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Slinger">投石手</nuxt-link>
+                    (<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/MangudaiIcon.png"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/MangudaiIcon.png"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
+                    >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Kipchakicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/Kipchakicon.png"
+                      alt=""
+                    />精銳<nuxt-link to="/units/Kipchak">欽察</nuxt-link
+                    >(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+                    >及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
+                      >庫曼傭兵</nuxt-link
+                    >後同盟限定)
+                  </li>
+                </ul>
               </div>
             </div>
           </div>
@@ -705,7 +705,8 @@
                 >建築物</nuxt-link
               >攻擊+3。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>的速度快100%。
+              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >的速度快100%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：戟兵<nuxt-link
@@ -714,7 +715,8 @@
               >快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：戟兵移動速度+10％。特殊科技塔盾給戟兵額外+2遠程護甲。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：戟兵移動速度+10％。特殊科技塔盾給戟兵額外+2遠程護甲。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：戟兵木材成本-15%。
@@ -738,10 +740,12 @@
               >對戟兵有利的<nuxt-link to="/techs">科技</nuxt-link>升級不須黃金。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：戟兵在高處的傷害+50%。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：戟兵在高處的傷害+50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：軍營單位於城堡時代和帝王時代近戰防禦各+1，共+2
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：軍營單位於城堡時代和帝王時代近戰防禦各+1，共+2
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
@@ -776,10 +780,12 @@
               >：戟兵更不容易被招降。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：研發忠誠信仰與異端邪說的速度+20%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：研發忠誠信仰與異端邪說的速度+20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：兵工廠研發科技速度+50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠研發科技速度+50%。
             </li>
           </ul>
         </div>
@@ -791,7 +797,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:對普通建築額外攻擊+1。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:對普通建築額外攻擊+1。
             </li>
           </ul>
           <h3>
@@ -804,7 +811,8 @@
               >護甲的單位有+16攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>:最初發行時無法訓練戟兵。1.0b改版後可以訓練戟兵了。
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+              >:最初發行時無法訓練戟兵。1.0b改版後可以訓練戟兵了。
             </li>
           </ul>
           <h3>
@@ -812,7 +820,8 @@
           </h3>
           <ul>
             <li>
-              戟兵現在對有<nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
+              戟兵現在對有<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
               >與<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
               >防禦護甲的單位有+17攻擊。
             </li>
@@ -852,23 +861,27 @@
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：戟兵木材成本-15%。
             </li>
             <li>
-            戟兵對有<nuxt-link to="/armor/Armor_Class_Mameluke"
+              戟兵對有<nuxt-link to="/armor/Armor_Class_Mameluke"
                 >奴隸兵</nuxt-link
               >防禦護甲的單位的攻擊降低五點(16→11)。
-           </li>
-            <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:36202更新購對普通建築額外攻擊變為+3。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>:最初無法訓練戟兵。35584更新後可以訓練了。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:36202更新購對普通建築額外攻擊變為+3。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >:最初無法訓練戟兵。35584更新後可以訓練了。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
-              >：36906更新後<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>給予的遠程護甲由+1增加為+2。
+              >：36906更新後<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link
+              >給予的遠程護甲由+1增加為+2。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
-              (35584更新) 軍營單位城堡時代起近戰防禦+1。(36906更新) 前述調整為軍營單位於城堡時代和帝王時代近戰防禦各+1，共+2。
+              (35584更新) 軍營單位城堡時代起近戰防禦+1。(36906更新)
+              前述調整為軍營單位於城堡時代和帝王時代近戰防禦各+1，共+2。
             </li>
           </ul>
         </div>
@@ -898,7 +911,10 @@
               雖然是叫做戟兵，但實際上武器是斧槍(瑞士斧)，只是初始的中文翻譯錯誤而已。
             </li>
             <li>
-              戟兵的英文為Hellebarde，這個字有可能是來自德文字Halm（棍）與Barte（斧），其實斧槍與<nuxt-link to="/civs/Chinese">中國</nuxt-link>的戟並不相同，斧槍是斧與槍的結合，而戟則是戈與矛/槍的結合，所以翻譯成戟兵並不恰當。
+              戟兵的英文為Hellebarde，這個字有可能是來自德文字Halm（棍）與Barte（斧），其實斧槍與<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >的戟並不相同，斧槍是斧與槍的結合，而戟則是戈與矛/槍的結合，所以翻譯成戟兵並不恰當。
             </li>
             <li>
               中國歷史上的戰神呂布，如果以武器來看，放到世紀帝國II他只是一名戟兵而已，而且是垃圾單位。
@@ -945,7 +961,10 @@
         <div class="row">
           <div class="col-md-4">
             <gallery
-              ><img class="imgn hg" src="~assets/Spearman_lineup_aoe2de.png" alt=""
+              ><img
+                class="imgn hg"
+                src="~assets/Spearman_lineup_aoe2de.png"
+                alt=""
             /></gallery>
             <p><em>長槍兵類列</em></p>
           </div>
@@ -968,7 +987,7 @@
             <gallery
               ><img
                 class="imgn hg"
-                src="~assets/HalberdiersAoE2Definitive.png"
+                src="~assets/HalberdiersAoE2Definitive.jpg"
                 alt=""
             /></gallery>
             <p><em>決定版的戟兵。</em></p>
@@ -1067,19 +1086,26 @@
             <td class="unit4">
               +32 vs<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               ><br />+28 vs<nuxt-link to="/armor/Armor_Class_War_Elephant"
-                >戰象類</nuxt-link>
+                >戰象類</nuxt-link
+              >
               <br />+26 vs<nuxt-link to="/armor/Armor_Class_Camel"
-                >駱駝騎兵</nuxt-link>
+                >駱駝騎兵</nuxt-link
+              >
               <br />+17 vs<nuxt-link to="/armor/Armor_Class_Ship"
-                >船隻</nuxt-link>
+                >船隻</nuxt-link
+              >
               <br />+17 vs<nuxt-link to="/armor/Armor_Class_Fishing_Ship"
-                >漁船</nuxt-link>
+                >漁船</nuxt-link
+              >
               <br />+11 vs<nuxt-link to="/armor/Armor_Class_Mameluke"
-                >奴隸兵</nuxt-link>
+                >奴隸兵</nuxt-link
+              >
               <br />+1 vs<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
-                >鷹勇士</nuxt-link>
+                >鷹勇士</nuxt-link
+              >
               <br />+1 vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link>
+                >標準建築</nuxt-link
+              >
             </td>
           </tr>
           <tr>
