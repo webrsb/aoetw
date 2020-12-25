@@ -664,7 +664,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link>
+                    <nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link>
                   </div>
                 </td>
               </tr>

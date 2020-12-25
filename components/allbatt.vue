@@ -151,7 +151,7 @@
             <td class="unit4">
               <nuxt-link to="/batt/Reign_of_Blood">血統統治</nuxt-link>•
               <nuxt-link to="/batt/The_Triple_Alliance">三城同盟</nuxt-link>•
-              <nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link>•
+              <nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link>•
               <nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link>•
               <nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link>•
               <nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link>

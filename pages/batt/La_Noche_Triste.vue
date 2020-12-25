@@ -359,7 +359,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link>
+              <nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link>
             </td>
           </tr>
           <tr>

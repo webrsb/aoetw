@@ -77,7 +77,7 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">同盟</td>
             </tr>
             <tr>
-                            <td class="tc6">
+              <td class="tc6">
                 <div class="p4"></div>
                 玩家3
               </td>
@@ -89,7 +89,6 @@
               <td class="tc6">
                 特斯科科（紫色）<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
               </td>
-
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #999999;">中立</td>
@@ -203,9 +202,8 @@
               科爾特斯(藍色)在本<nuxt-link to="/batt">戰役</nuxt-link
               >中不會出現，只會在地圖的東方有一頭狼代表他們陣營。當所有敵人都被擊敗時科爾特斯就會乘著船從北方出現，而阿茲特克人則誤以為他是羽蛇神。然後玩家跟科爾特斯會一同獲得勝利儘管不是同盟。
             </li>
-
           </ul>
-                    <h3>決定版變更點</h3>
+          <h3>決定版變更點</h3>
           <div class="hrn1"></div>
           <ul>
             <li>
