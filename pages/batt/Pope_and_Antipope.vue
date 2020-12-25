@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>宗教之爭</h1>
+        <h1>教宗之爭</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>宗教之爭</b>（舊譯：<b>教皇與僭稱教皇</b>）為<nuxt-link
+            <b>教宗之爭</b>（舊譯：<b>教皇與僭稱教皇</b>）為<nuxt-link
               to="/batt/Barbarossa"
               >巴巴羅薩戰役</nuxt-link
             >的第三關劇情關卡，此<nuxt-link to="/batt">戰役</nuxt-link
@@ -146,6 +146,9 @@
             <li>
               人口上限由75改125，原本米蘭（條頓）和克雷瑪（不列顛）改義大利人，盟友卡坎奴改名帝國軍隊，初期自動研發部份僧侶的科技。
             </li>
+            <li>
+              新增成就「真正的至高君主」：在不招降任何村民的情況下通關。
+            </li>
           </ul>
         </div>
         <h2>芝麻小事</h2>
@@ -182,9 +185,22 @@
             </li>
             <li>
               登陸後，米蘭、河道衛兵會傾其所有兵力攻擊玩家登岸的軍隊，建議帶上足夠的村民、<nuxt-link
-                to="/units/Teutonic_Knight"
-                >條頓武士</nuxt-link
-              >，一登岸就插幾座城堡駐兵。要注意的是由於米蘭改義大利人了，所以會有不少的匈牙利輕騎兵和熱那亞弩手，也會用攻程器拆我方的城堡，攻略難度比2013版難上一些。
+                to="/units/Halberdier"
+                >戟兵</nuxt-link
+              >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >，一登岸就插幾座城堡駐兵。要注意的是由於米蘭改義大利人了，所以會有不少的匈牙利輕騎兵和熱那亞弩手，若用條頓武士會被射成智障；也會用攻城器拆除我方的城堡，運用<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >反制並小心控兵。攻略難度比2013版難上一些。
+            </li>
+            <li>
+              成就打法：開局將所有的部隊全運到西側，並在米蘭北方集結。先利用一支長槍兵去打城門，此時敵方的<nuxt-link
+                to="/units/Man-at-Arms"
+                >裝甲步兵</nuxt-link
+              >會有反應，將長槍兵拉走後，再派另一隻長槍兵設不還擊狀態卡城門，其他部隊趁機通過城門。接著慢慢接近大教堂，先解決敵人的僧侶和<nuxt-link
+                to="/units/Mangonel"
+                >投石車</nuxt-link
+              >，其他兵引誘敵人的軍隊掩護僧侶招降大教堂。
             </li>
           </ol>
         </div>
@@ -194,7 +210,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                宗教之爭
+                教宗之爭
               </div>
             </td>
           </tr>

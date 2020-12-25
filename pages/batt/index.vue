@@ -445,7 +445,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Pope_and_Antipope">宗教之爭</nuxt-link>
+                    <nuxt-link to="/batt/Pope_and_Antipope">教宗之爭</nuxt-link>
                   </div>
                 </td>
               </tr>

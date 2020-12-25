@@ -52,7 +52,7 @@
                   <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/batt/Pope_and_Antipope">宗教之爭</nuxt-link>
+                  <nuxt-link to="/batt/Pope_and_Antipope">教宗之爭</nuxt-link>
                 </li>
                 <li>
                   <nuxt-link to="/batt/The_Lombard_League"
