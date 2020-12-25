@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>完美的烈士</h1>
+        <h1>遺芳餘烈</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>完美的烈士</strong>為<nuxt-link to="/batt/Joan_of_Arc"
+            <strong>遺芳餘烈</strong>（舊譯：完美的烈士）為<nuxt-link to="/batt/Joan_of_Arc"
               >聖女貞德戰役</nuxt-link
             >的第六關劇情關卡，此關法軍與英軍於卡斯提農決戰，是英法百年戰爭的最後一場戰役，發生在加斯科涅的多爾多尼河畔卡斯提農（今卡斯提農拉巴泰爾），法軍取得了決定性的勝利，自此英格蘭王國失去除加萊和海峽群島外的全部法國領土。
           </p>
@@ -45,7 +45,7 @@
                 玩家3
               </td>
               <td class="tc6" width="38%">
-                英國（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+                英格蘭人（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -63,7 +63,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                完美的烈士
+                遺芳餘烈
               </div>
             </td>
           </tr>
@@ -129,7 +129,7 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的完美的烈士
+            維基百科上的遺芳餘烈
             <div style="margin-left: 10px;">
               <i
                 ><strong
@@ -156,8 +156,8 @@
               >城堡時代</nuxt-link
             >
           </li>
-          <li><strong>起始資源：</strong>無</li>
-          <li><strong>人口上限：</strong>75</li>
+          <li><strong>起始資源：</strong>100食物、100木材</li>
+          <li><strong>人口上限：</strong>125</li>
         </ul>
       </div>
       <div class="col-md-4">
@@ -168,13 +168,10 @@
               class="gg"
               src="~assets/Guyjosselyneicon.png"
               alt=""
-            /><nuxt-link to="/units/hero/Guy_Josselyne">蓋佐斯爾立</nuxt-link>
+            /><nuxt-link to="/units/hero/Guy_Josselyne">蓋佐喬瑟林</nuxt-link>
           </li>
           <li>
-            <img class="gg" src="~assets/TradeCartIcon.png" alt="" /><nuxt-link
-              to="/units/Trade_Cart"
-              >貿易車隊</nuxt-link
-            >*1
+            <img class="gg" src="~assets/TradeCartIcon.png" alt="" />載著法蘭西國旗的馬車*1
           </li>
         </ul>
       </div>
@@ -199,7 +196,7 @@
           <li>
             <img class="gg" src="~assets/Jeanbureauicon.png" alt="" /><nuxt-link
               to="/units/hero/Jean_Bureau"
-              >約翰布荷</nuxt-link
+              >約翰‧布羅</nuxt-link
             >
           </li>
           <li>
@@ -281,7 +278,7 @@
         </li>
         <li>
           跟法國的大砲部隊會合，由<nuxt-link to="/units/hero/Jean_Bureau"
-            >約翰布荷</nuxt-link
+            >約翰‧布羅</nuxt-link
           >來指揮。
         </li>
         <li>
@@ -313,7 +310,7 @@
       <ul>
         <li>
           此關是整場戰役的故事旁白—<nuxt-link to="/units/hero/Guy_Josselyne"
-            >蓋佐斯爾立</nuxt-link
+            >蓋佐喬瑟林</nuxt-link
           >所出現的唯一場景，也是玩家唯一無法使用貞德的關卡。
         </li>
         <li>
@@ -326,7 +323,7 @@
         <li>
           英軍在此場卡斯提農戰役中的指揮官是舒茲伯利，原名約翰•塔爾波特KG，第一代舒茲伯利及沃特福德伯爵（John
           Talbot, 1st Earl of Shrewsbury and 1st Earl of
-          Waterford，1384年/1387年－1453年7月17日），又被稱為老塔爾波特，出生於施洛普郡，是英法百年戰爭中一名重要的英國軍事將領，也是唯一由蘭開斯特人擔任的法國<nuxt-link
+          Waterford，1384年/1387年－1453年7月17日），又被稱為老塔爾波特，出生於施洛普郡，是英法百年戰爭中一名重要的英格蘭人軍事將領，也是唯一由蘭開斯特人擔任的法國<nuxt-link
             to="/units/Knight"
             >騎士</nuxt-link
           >統帥。
@@ -342,42 +339,19 @@
     <div class="n1">
       <ul>
         <li>
-          場景開始時你只有國王蓋佐斯爾立和裝著法國旗子的貿易車隊。往東南邊穿過淺灘處後會有玩家的大軍等著你，再往西一點還有你的火砲，一開始你沒有任何資源跟<nuxt-link
+          場景開始時你只有國王蓋佐喬瑟林和裝著法蘭西國旗的馬車。往東南邊穿過淺灘處後會有玩家的大軍等著你，再往西一點還有你的火砲，一開始你沒有任何資源跟<nuxt-link
             to="/building"
             >建築</nuxt-link
           >，你需要進攻勃根地來建立你的基地。你可以攻擊勃根地的北邊基地，不過你可能會經歷一場硬戰而且損失非常慘重，選擇進攻勃根地的南邊基地可能會簡單些。
         </li>
         <li>
-          將你的火砲設定為不還擊狀態，之後帶軍隊沿著地圖邊緣往南走到一群巨石區，這裡是可以通行的，從這裡到達河流穿越處後，把你的<nuxt-link
-            to="/units/Villager"
-            >村民</nuxt-link
-          >跟貿易車隊安置好，用火砲跟<nuxt-link to="/units/Trebuchet"
-            >巨型投石機</nuxt-link
-          >摧毀所有建築，用<nuxt-link to="/units/Hand_Cannoneer"
-            >火槍兵</nuxt-link
-          >跟<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
-          >對付勃根地的<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
-          >跟<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>，用<nuxt-link
-            to="/units/Hussar"
-            >匈牙利輕騎兵</nuxt-link
-          >和<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-          >屠殺你看到的任何村民。
-        </li>
-        <li>
-          這時勃根地北方的軍隊（<nuxt-link to="/units/Crossbowman"
-            >弩兵</nuxt-link
-          >、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
-          >和<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
-          >）會過來增援，迅速解決他們，用匈牙利輕騎兵殺對面<nuxt-link
-            to="/units/Monk"
-            >僧侶</nuxt-link
-          >跟<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-          >。等到勃根地投降後，你會收到400食物、50黃金、50<nuxt-link
+          將你的火砲設定為不還擊狀態，之後進攻勃根地北方的基地。勃根地的北方基地被摧毀後，會收到400食物、50黃金、50<nuxt-link
             to="/resource/Stone"
             >石頭</nuxt-link
           >和不等的<nuxt-link to="/resource/Wood">木材</nuxt-link
-          >（木材量是根據他們留下多少決定）。在這裡建立你的基地並用城牆和城門封住河流穿越處。
+          >（木材量是根據他們留下多少決定）。
         </li>
+        <li>由於決定版將原本南方石頭看似堵住但實際上能通行的道路堵死了，因此若要直接進攻勃根地勢必會經過北方的城鎮。標準難度還可行，高難度一定會引起部份守軍的注意，甚至一交戰就會引來勃根地的全面進攻，只能犧牲一些部隊掩護後讓其他部隊偷摸進去。和先前的版本比起來，直接進攻北方基地可能還省事些</li>
         <li>
           現在趕快發展你的經濟體，優先建造<nuxt-link to="/building/House"
             >居住房舍</nuxt-link
@@ -391,7 +365,7 @@
           >的攻擊了。
         </li>
         <li>
-          河的北邊有兩艘<nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
+          如果是在南邊建立基地，則河的北邊有兩艘<nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
           >和一艘<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
           >會攻擊玩家的基地，可以用僧侶<nuxt-link to="/elements/Conversion"
             >招降</nuxt-link
@@ -418,7 +392,7 @@
               alt=""
           /></gallery>
           <p>
-            <em>讓軍隊沿著地圖邊緣走到這邊準備攻擊勃根地人。</em>
+            <em>先前版本可以讓軍隊沿著地圖邊緣走到這邊準備攻擊勃根地人，但決定版已不適用。</em>
           </p>
         </div>
         <div class="col-md-6">
@@ -516,6 +490,12 @@
           /></gallery>
           <p><em>玩家可以直接擊敗不列顛人獲得勝利。</em></p>
         </div>
+            <h3>決定版變更點</h3>
+    <div class="hrn1"></div>
+    <div class="n1">
+      <ul>
+        <li>人口上限由75改125。裝著法蘭西國旗的馬車不再被視為貿易車隊所以不會顯示閒置村民。攻破勃根地上方的基地後，牆會變玩家的。右下角原本看似被堵死實則有一條路可以攻進勃根地的基地，在決定版已經完全被堵死。</li>
+      </ul></div>
       </div>
     </div>
   </div>
