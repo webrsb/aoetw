@@ -2,19 +2,15 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>塞普勒斯(1191)</h1>
+        <h1>塞普勒斯島之戰(1191)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>賽普勒斯</b>是《<nuxt-link to="/games/aof"
-              >世紀帝國II：失落的帝國</nuxt-link
-            >》中<nuxt-link to="/batt/Battles_of_the_Forgotten"
-              >失落的帝國的戰役</nuxt-link
-            >的其中一個<nuxt-link to="/batt">戰役</nuxt-link>。該<nuxt-link
-              to="/batt"
+            <b>賽普勒斯島之戰</b>是歷史戰役的戰役的其中一個<nuxt-link to="/batt"
               >戰役</nuxt-link
+            >，原本於失落的帝國推出。該<nuxt-link to="/batt">戰役</nuxt-link
             >描述<nuxt-link to="/units/hero/Richard_the_Lionheart"
               >獅心王查理</nuxt-link
             >在第三次十字軍東征之前佔領西西里島與賽普勒斯的事蹟。
@@ -28,14 +24,14 @@
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
               <td class="tc2" width="15%">
-                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
                 無
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">200</td>
+              <td class="tc2" width="5%">125</td>
             </tr>
           </table>
 
@@ -55,141 +51,76 @@
                 <nuxt-link to="/civs/Britons">不列顛</nuxt-link>（紅色）
               </td>
             </tr>
-
-            <tr>
-              <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
-            </tr>
-            <tr>
-              <td class="tc6" width="15%">
-                <div class="p8"></div>
-                玩家2
-              </td>
-              <td class="tc6" width="35%">英軍（橘色）不列顛</td>
-              <td class="tc6" width="15%">
-                <div class="p1"></div>
-                玩家3
-              </td>
-              <td class="tc6" width="35%">
-                菲利浦．奧古斯都（藍色）<nuxt-link to="/civs/Franks"
-                  >法蘭克</nuxt-link
-                >
-              </td>
-            </tr>
-            <tr>
-              <td class="tc6">
-                <div class="p3"></div>
-                玩家4
-              </td>
-              <td class="tc6">
-                西西里國王坦克雷德（綠色）<nuxt-link to="/civs/Italians"
-                  >義大利</nuxt-link
-                >
-              </td>
-            </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">
-                同盟→敵對→同盟
+                敵對
               </td>
             </tr>
 
             <tr>
               <td class="tc6">
-                <div class="p4"></div>
-                玩家5
+                <div class="p5"></div>
+                玩家2
               </td>
-              <td class="tc6">墨西拿人（黃色）義大利</td>
+              <td class="tc6">利馬索爾（青色）拜占庭</td>
 
               <td class="tc6">
                 <div class="p6"></div>
-                玩家6
+                玩家3
               </td>
               <td class="tc6">
-                （紫色）<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
+                尼古西亞（紫色）<nuxt-link to="/civs/Byzantines"
+                  >拜占庭</nuxt-link
+                >
               </td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4" style="background:#ea6153;">
-                同盟→敵對
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家4
               </td>
-            </tr>
+              <td class="tc6">尼古西亞艦隊（紫色）拜占庭</td>
 
-            <tr>
               <td class="tc6">
-                <div class="p7"></div>
+                <div class="p6"></div>
                 玩家5
               </td>
-              <td class="tc6">賽普勒斯人（灰色）義大利</td>
               <td class="tc6">
-                <div class="p5"></div>
-                玩家6
+                尼古西亞斥侯（紫色）<nuxt-link to="/civs/Byzantines"
+                  >拜占庭</nuxt-link
+                >
               </td>
-              <td class="tc6">利馬索港（青色）拜占庭</td>
             </tr>
           </table>
 
           <h4>開場</h4>
           <li>
-            獅心王理查X1、<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
-            >X10、<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-            >X2、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >X3、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
-            >X5、<nuxt-link to="/units/Knight">騎士</nuxt-link>X9、<nuxt-link
-              to="/units/Spearman"
-              >長槍兵</nuxt-link
-            >X10、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>X10
+            <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>X6、<nuxt-link
+              to="/units/Fire_Ship"
+              >火戰船</nuxt-link
+            >X4、<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >X4（含<nuxt-link to="/units/hero/Richard_the_Lionheart"
+              >獅心王查理</nuxt-link
+            >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+            >X9、<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
+            >X10、<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>X20）
           </li>
 
-          <h3>主要任務</h3>
+          <h3>任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
+            <p>主要任務</p>
             <ul>
               <li>
-                理查必須存活。
-              </li>
-              <li>
-                瓊那必須存活。(得到瓊那到上船之前)
+                打敗尼古西亞人，逼迫伊薩克‧科穆寧投降。
               </li>
             </ul>
-            <ol>
-              <li>
-                在西西里登陸並把軍隊派到安營點。
-              </li>
-              <li>
-                讓理查去會見其他的王公。
-              </li>
-              <li>
-                把理查和瓊那帶回營地。
-              </li>
-              <li>
-                摧毀墨西拿城所有的倉庫(貿易工坊)來佔領墨西拿城(共五座倉庫)。
-              </li>
-              <li>
-                把理查、瓊那還有她的財產都帶到紅旗處的<nuxt-link
-                  to="/units/Transport_Ship"
-                  >運輸船</nuxt-link
-                >那。
-              </li>
-              <li>
-                把你想派去東征的軍隊都派上五支運輸船。包括<nuxt-link
-                  to="/units/hero"
-                  >英雄</nuxt-link
-                >在內你一共可以運50個單位，別忘了帶上能幫你攻城拔寨的武器，而且先讓單位坐進衝撞車再把衝撞車運上運輸船的話可以節省空間。如果你的艦隊已經就緒要準備揚帆啟程的話就點擊坦克雷德在地圖西邊的<nuxt-link
-                  to="/building/Castle"
-                  >城堡</nuxt-link
-                >(綠色)。
-              </li>
-              <li>
-                找到艦隊其餘的<nuxt-link to="/units/Naval_Vessels"
-                  >船艦</nuxt-link
-                >。
-              </li>
-              <li>
-                登陸利馬索港並奪下她的兩座城堡。想奪下城堡你只需要把理查帶到它旁邊去。
-              </li>
-              <li>
-                打敗賽普勒斯軍隊。
-              </li>
-            </ol>
+            <p>次要任務</p>
+            <ul>
+              <li>摧毀利馬索爾的城堡，占領該城。</li>
+              <li>搜尋海難中倖存的英格蘭士兵和船隻遺骸。</li>
+              <li>摧毀尼古西亞艦隊的海港要賽，獲取更多黃金。</li>
+            </ul>
           </div>
 
           <h3>任務提示</h3>
@@ -197,24 +128,16 @@
           <div class="n1">
             <ul>
               <li>
-                如果你想佔領一座城池歸為己用的話，別忘了你一開始破壞得越多，最後留下來給你自己的越少。
+                獅心王理查的任務開始於帝王時代，但人口上限僅有125。
               </li>
               <li>
-                有機會的話多用<nuxt-link to="/units/Monk">僧侶</nuxt-link
-                >替你的軍隊療傷。
+                仔細探索，尤其是海岸線附近，也許會有一些在風暴中倖存的英格蘭士兵在那裡等待救援。
               </li>
               <li>
-                <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link
-                >一片地域最有效的方法就是把你的單位都分散出去搜索。
+                您迫切需要一座基地，以展開下一步行動。先集中精力征服利馬索爾，然後再進攻尼古西亞。
               </li>
               <li>
-                當你在墨西拿城整軍備戰時，你可以根據自己的需要用<nuxt-link
-                  to="/building/Market"
-                  >市集</nuxt-link
-                >來買賣各種資源。
-              </li>
-              <li>
-                一開始所有人都是你的同盟，但是別被短暫的和平蒙蔽了雙眼，其實戰火隨時會被點燃...。
+                海洋能提供許多食物，因此建議組建一支捕魚船隊。
               </li>
             </ul>
           </div>
@@ -223,25 +146,26 @@
           <div class="n1">
             <ul>
               <li>
-                獅心王理查(紅色)正在發動他的第三次十字軍東征。首先，理查得先去和他交好的西西里王公們溝通戰備。你的征途開始於西西里島北邊的艦隊裡。
+                獅心王理查(1，紅色)指揮一支規模可觀的艦隊，欲占領利馬索爾，但一開始他既沒有村民，也沒有營地。
               </li>
               <li>
-                西西里的國王坦克雷德(綠色)居住在西邊的城池巴勒莫裡。她是你目前的同盟，也會主持你和王公們的見面會。
+                港口都市利馬索爾(2，青色)位於東方，可從水陸兩路發起進攻，但城中有一支經驗豐富的守城軍隊駐紮，主要由<nuxt-link
+                  to="/units/Spearman"
+                  >長槍兵</nuxt-link
+                >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+                >、<nuxt-link to="/units/Knight">騎士</nuxt-link>和<nuxt-link
+                  to="/units/Archer"
+                  >弓兵</nuxt-link
+                >組成。
               </li>
               <li>
-                菲利浦奧古斯都(藍色)是理查的老對手，但是這一次你們因為共同的目的而走到了一起。他已經在墨西拿城旁邊的西西里安營紮寨了。菲利浦倒不是以英勇善戰出名，但是他的詭計多端，深謀遠慮卻是人人皆知的。
-              </li>
-              <li>
-                墨西拿城(黃色)是西西里島上的一座城池。有高牆防護，和四通八達的海港。他們是你的同盟，但別去挑戰他們的底線。
-              </li>
-              <li>
-                利馬索港(青藍色)是賽普勒斯的一座港口。賽普勒斯位於地圖東邊角。
-              </li>
-              <li>
-                伊薩克．科穆寧(青藍色)是賽普勒斯的國王。他一般居住在王國中部戒備森嚴的尼古西亞城。她是你的盟友，但他一向不怎麼喜歡西歐的皇族勢力。
-              </li>
-              <li>
-                賽普勒斯(青藍色)裡的所有平民及軍隊都聽從伊薩克．科穆寧的領導。
+                尼古西亞(3，紫色)在伊薩克‧科穆寧手中。這座城市壁壘森嚴，位於北方，在西側還有一個強大的海軍基地。尼古西亞軍隊包含矛兵、<nuxt-link
+                  to="/units/Cataphract"
+                  >拜占庭聖騎兵</nuxt-link
+                >、步兵和<nuxt-link to="/units/Onager">中型投石車</nuxt-link
+                >。伊薩克‧科穆寧還有可能決定建造<nuxt-link to="/units/Trebuchet"
+                  >巨型投石機</nuxt-link
+                >。
               </li>
             </ul>
           </div>
@@ -250,82 +174,22 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              玩家一開始在海上有五艘運輸船。向下在西西里島海岸登陸並把軍隊帶往駐紮地。然後玩家會失去軍隊控制權只剩理查一人。理查表示自己要去跟其他王公商討東征大計。這時可以先探索墨西拿城因為待會要破懷城內的五座倉庫(貿易工廠)將理查帶到坦克雷德的城堡前與他會面(綠色)。經過一番折騰辯論後後玩家會獲得瓊那的控制權。把瓊那跟理查帶回原本軍隊處。
+              如果是選擇標準難度，一開始艦隊會自動升級為<nuxt-link
+                to="/units/Galleon"
+                >重型弩砲戰船</nuxt-link
+              >和<nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+              >。首先西側的島嶼有一支部隊，正北方也有一支遭遇海難的部隊（北方的先不要找，因為沒有多餘的運輸船可以裝載他們，等有餘裕後再回來接送他們即可，注意有幾艘戰艦，要帶艦隊護衛），東方的登陸口則有一支陸軍。讓運輸船在此登陸和其會合，先派幾隻騎兵往右探路並把那台投石車破壞後用攻城器打掉那座塔，軍隊一路往上掃蕩沿途的敵軍，然後用那台神之弓攻擊利馬索爾的城堡，打掉之後整個城的控制權就會歸屬到我方，城鎮最東邊還有一支海難的部隊。此時艦隊則是把海灣的敵艦掃蕩後集結在登陸口附近以防止敵方海軍的騷擾。
             </li>
             <li>
-              一回到紮營處玩家會取回軍隊控制權，這時墨西拿城與坦克雷德會變成與玩家敵對。任務變成破壞五座墨西拿城的倉庫(貿易工場)。如果剛剛有先探索那任務會變得簡單許多。將<nuxt-link
-                to="/units/Infantry_Units"
-                >步兵</nuxt-link
-              >放進衝撞車並用衝撞車破壞<nuxt-link to="/building/Gate"
-                >城門</nuxt-link
-              >，用弩兵跟長弓兵掩護衝撞車完成他們的工作。當理查靠近軍事<nuxt-link
-                to="/building"
-                >建築物</nuxt-link
-              >(<nuxt-link to="/building/Stable">馬廄</nuxt-link>、<nuxt-link
-                to="/building/Barracks"
-                >軍營</nuxt-link
-              >、<nuxt-link to="/building/Siege_Workshop"
-                >攻城武器製造所</nuxt-link
-              >、<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-              >)時一些會變成玩家的，破壞工廠時墨西拿城會給玩家一些資源。玩家可以用這些資源建造軍隊幫忙打下工廠。破壞最後一座工廠後，墨西拿城會歸降玩家。
-            </li>
-            <li>
-              下個目標是渡海，菲利浦．奧古斯都會給玩家一輛貿易馬車(名稱是瓊那的財產)，把理查、瓊那還有貿易馬車帶到紅色旗幟處登船。這時玩家可以繼續創建軍隊或是用貿易馬車到坦克雷德的市場貿易，用<nuxt-link
-                to="/resource/Gold"
-                >黃金</nuxt-link
-              >交易需要的資源並研發技術升級軍隊。當然玩家也可以直接用原本的軍隊直接上船。集滿50單位上船後點擊坦克雷德的城堡並目送理查的艦隊出航。
-            </li>
-            <li>
-              這裡要注意的點是瓊那上的那艘船在後面劇情會被抓住，所以裡面的軍隊也會被鎖在利馬索港的運輸船裡(僧侶除外，會待在運輸船附近的岸邊)。直到劇情觸發前玩家都所以玩家要謹慎選擇自己的軍隊上哪艘運輸船。
-            </li>
-            <li>
-              過場動畫後(理查的艦隊遇到暴風雨然後<nuxt-link
-                to="/units/Naval_Vessels"
-                >船隻</nuxt-link
-              >四散)玩家先找尋四散在海上自己的船隻。記得往左上找到利馬索港的時候會觸發劇情，獅心王發現伊薩克．科穆寧(青藍色)綁架了妹妹的船艦並要求贖金。只要觸發劇情就馬上走人否則玩家會被攻擊。現在任務變成佔領賽普勒斯城的兩座城堡。只要佔領兩座城堡賽普勒斯城的所有東西(包括軍隊)就會歸順玩家。玩家有兩條路可選，一條是從剛剛的港口讓國王直接搶灘上岸佔領第一座城堡，之後往第二座城堡過去然後靠近城門，當敵方單位為了打你通過城門時趁機溜進去佔領第二座城堡。另外一個是從左邊的陸地上岸，用衝撞車摧毀城門然後同樣地讓理查佔領城堡。理查只要靠近城堡就能佔領它們。
-            </li>
-            <li>
-              現在你佔領了利馬索港，盡快地發展經濟及訓練部隊。你最後的敵人是賽普勒斯和伊薩克．科穆寧。賽普勒斯有<nuxt-link
-                to="/units/Cataphract"
-                >拜占庭聖騎兵</nuxt-link
-              >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
-              >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
-              >、衝撞車和<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
-              >的龐大軍隊。如果時間拖得太久它們會變得異常強大(演進到<nuxt-link
-                to="/techs/age/Imperial_Age"
-                >帝王時代</nuxt-link
-              >而且單位都會變成最強階段)，盡快升級到帝王時代並升級所有需要的<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
-              >，用長槍兵對付拜占庭聖騎兵，<nuxt-link to="/units/Cavalry_Units"
-                >騎兵</nuxt-link
-              >對付戰矛兵，長弓兵加投石車掃射所有<nuxt-link
-                to="/elements/Line_of_Sight"
-                >視野</nuxt-link
-              >內的敵軍。你會需要<nuxt-link to="/units/Siege_Weapons"
-                >攻城武器</nuxt-link
-              >摧毀敵人的城堡跟<nuxt-link to="/building/Watch_Tower"
-                >箭塔</nuxt-link
-              >。伊薩克．科穆寧則有<nuxt-link to="/units/Paladin"
-                >遊俠</nuxt-link
-              >、戰矛兵、拜占庭聖騎兵、<nuxt-link to="/units/Hussar"
-                >匈牙利輕騎兵</nuxt-link
-              >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
-              >、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
-              >，你的軍隊面對它們不會有太多的阻礙，尤其你有很多<nuxt-link
-                to="/units/Longbowman"
-                >精銳長弓兵</nuxt-link
-              >的話。一旦伊薩克．科穆寧最後的城堡被摧毀，伊薩克及瓊那會走出來然後玩家便贏得這個戰役！
+              在發展經濟的同時派部隊巡視後把這片大陸的敵軍掃一掃，可以把原本是大地之母的部隊通通派去，因為這些部隊不會因為科技升級。接著盡快滅掉敵人的海軍省得要海陸交戰。開始進攻時，部隊以長弓兵和重騎兵搭配巨型投石機為主。
             </li>
           </ul>
         </div>
-        <h3>芝麻小事</h3>
+        <h3>決定版變更點</h3>
         <div class="hrn1"></div>
         <ul>
           <li>
-            玩家可以研發火砲<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
-            >科技(研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link
-            >後)，但是卻不能訓練火砲戰船，所以只是浪費資源!
+            原本之前還有理查商討東征大計、進攻墨西拿城的劇情，決定版把這部份刪掉，只保留後段的征討部份。人口上限由200改成125。
           </li>
         </ul>
       </div>
@@ -333,7 +197,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">塞普勒斯(1191)</div>
+              <div class="unititle2">塞普勒斯島之戰(1191)</div>
             </td>
           </tr>
           <tr>

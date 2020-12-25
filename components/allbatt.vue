@@ -277,7 +277,7 @@
               <nuxt-link to="/batt/Langshan_Jiang_919">狼山江(919)</nuxt-link>•
               <nuxt-link to="/batt/Kaesong_936">開城(936)</nuxt-link>•
               <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>•
-              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯(1191)</nuxt-link>•
+              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯島之戰(1191)</nuxt-link>•
               <nuxt-link to="/batt/Bapheus_1302">巴菲烏斯(1302)</nuxt-link>
             </td>
           </tr>
