@@ -15,7 +15,7 @@
               to="/batt/Joan_of_Arc"
               >聖女貞德</nuxt-link
             >最後<nuxt-link to="/batt">戰役</nuxt-link
-            >"完美的烈士"和戰役編輯器中找到。現實中約翰布荷是英法百年戰爭後期的<nuxt-link
+            >"遺芳餘烈"和戰役編輯器中找到。現實中約翰布荷是英法百年戰爭後期的<nuxt-link
               to="/civs/Franks"
               >法國</nuxt-link
             >砲兵指揮官和圍城工程師。他在決定性的卡斯蒂隆戰役中為法國贏得了最後的勝利。它的外觀是火砲彈有更優越的做戰能力，由於他屬於英雄單位，因此不能被<nuxt-link

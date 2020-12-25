@@ -209,7 +209,7 @@
               <li>
                 關卡類似<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
                 >第六關：<nuxt-link to="/batt/A_Perfect_Martyr"
-                  >完美的烈士</nuxt-link
+                  >遺芳餘烈</nuxt-link
                 >。有大量英雄在劇情中登場，有各自的特色語音對白。
               </li>
               <li>哀牢為寮國的古稱。</li>

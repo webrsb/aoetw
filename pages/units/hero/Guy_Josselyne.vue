@@ -13,7 +13,7 @@
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
             >最後<nuxt-link to="/batt">戰役</nuxt-link
-            >"完美的烈士"和戰役編輯器中找到。蓋佐斯爾立是<nuxt-link
+            >"遺芳餘烈"和戰役編輯器中找到。蓋佐斯爾立是<nuxt-link
               to="/batt/Joan_of_Arc"
               >聖女貞德戰役</nuxt-link
             >系列的旁白，也是遊戲中虛擬百年戰爭後期的領導者。蓋佐斯爾立的外觀是<nuxt-link
