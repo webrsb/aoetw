@@ -77,7 +77,9 @@
               >攻城工程師</nuxt-link
             >，使傷害再提高20%。
           </p>
-                    <p>庫曼有個文明特性是在封建時代就能建造攻城器製造所並生產輕型衝撞車，在城堡時代就能將其升級為裝甲衝撞車，因此在城堡時代開戰時用衝車破壞建築物的能力和其他文明相比可謂強上一截；甚至可以準備開囤，一上帝王時代就能直接升級為重型衝撞車發動攻勢。
+          <p>
+            <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+            >有個文明特性是在封建時代就能建造攻城器製造所並生產輕型衝撞車，在城堡時代就能將其升級為裝甲衝撞車，因此在城堡時代開戰時用衝車破壞建築物的能力和其他文明相比可謂強上一截；甚至可以準備開囤，一上帝王時代就能直接升級為重型衝撞車發動攻勢。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -396,7 +398,7 @@
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
               >：裝甲衝撞車成本減少15%。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
               >：城堡時代就能升級至裝甲衝撞車。
             </li>
@@ -481,13 +483,14 @@
                 to="/techs/Ironclad"
                 >鋼鐵甲</nuxt-link
               >
-            </li>           
+            </li>
           </ul>
           <h3>
             <em>決定版</em>
           </h3>
           <ul>
-            <li>(36202更新)<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+            <li>
+              (36202更新)<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
               >：城堡時代就能升級至裝甲衝撞車。
             </li>
           </ul>
@@ -608,11 +611,11 @@
               <img class="gg" src="~assets/imperial_age.png" alt="" /><nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              ><br>
+              ><br />
               <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
-              >（庫曼限定）
+              >（<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定）
             </td>
           </tr>
           <tr>
