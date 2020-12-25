@@ -224,24 +224,24 @@
                     </li>
                   </ul>
                 </div>
-                                        <h3>更新日誌</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <h3>
-            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>原本是在城堡時代開場，5.3之後變更為帝王時代開場。</li>
-          </ul>
-          <h3>
-            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
-          </h3>
-          <ul>
-            <li>
-              新增成就「如雄獅怒吼」：以困難難度通關。
-            </li>
-          </ul>
-        </div>
+                <h3>更新日誌</h3>
+                <div class="hrn1"></div>
+                <div class="n1">
+                  <h3>
+                    <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+                  </h3>
+                  <ul>
+                    <li>原本是在城堡時代開場，5.3之後變更為帝王時代開場。</li>
+                  </ul>
+                  <h3>
+                    <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+                  </h3>
+                  <ul>
+                    <li>
+                      新增成就「如雄獅怒吼」：以困難難度通關。
+                    </li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
