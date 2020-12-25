@@ -258,7 +258,7 @@
                       to="/batt/Joan_of_Arc"
                       >聖女貞德戰役</nuxt-link
                     >第5關<nuxt-link to="/batt/The_Siege_of_Paris"
-                      >巴黎攻城戰</nuxt-link
+                      >圍攻巴黎</nuxt-link
                     >，<nuxt-link to="/batt/Saladina">沙拉丁戰役</nuxt-link
                     ><nuxt-link to="/batt/The_Siege_of_Jerusalem"
                       >耶路撒冷攻城戰</nuxt-link
