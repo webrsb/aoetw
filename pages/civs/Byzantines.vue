@@ -295,7 +295,7 @@
           >:耶路撒冷
         </li>
         <li>
-          <nuxt-link to="/batt/The_Siege_of_Jerusalem">耶路撒冷攻城戰</nuxt-link
+          <nuxt-link to="/batt/The_Siege_of_Jerusalem">兵臨聖城</nuxt-link
           >:耶路撒冷
         </li>
         <li><nuxt-link to="/batt/Jihad">聖戰!</nuxt-link>:泰爾</li>

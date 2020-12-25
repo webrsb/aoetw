@@ -13,7 +13,7 @@
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link
             >第四<nuxt-link to="/batt">戰役</nuxt-link
-            >"耶路撒冷攻城戰"和戰役編輯器中找到。現實中聖殿騎士團首領是一名聖殿<nuxt-link
+            >"兵臨聖城"和戰役編輯器中找到。現實中聖殿騎士團首領是一名聖殿<nuxt-link
               to="/units/Knight"
               >騎士</nuxt-link
             >的領袖，通常被認為是十字軍東征中的關鍵人物。聖殿騎士團首領的外形與騎士有著相似之處，也類似於其他幾個<nuxt-link
