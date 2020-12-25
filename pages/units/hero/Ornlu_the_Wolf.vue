@@ -30,12 +30,12 @@
               >的第一個戰役"統一各部"，為了贏得維吾爾人的效忠，玩家必須殺死牠。
             </li>
             <li>
-              在<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+              在<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
               >的第四個戰役"悲傷之夜"，灰狼歐魯出現在東北小島上，那裡有許多金礦和美洲虎。
             </li>
             <li>
-              在<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
-              >的第二個戰役"三國同盟"中隱藏在<nuxt-link to="/building/Monastery"
+              在<nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link
+              >的第二個戰役"三城同盟"中隱藏在<nuxt-link to="/building/Monastery"
                 >修道院</nuxt-link
               >裡的灰狼歐魯之子，基本上是灰狼歐魯的改名版本。
             </li>

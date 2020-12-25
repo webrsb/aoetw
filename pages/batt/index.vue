@@ -56,7 +56,7 @@
               <p>
                 <nuxt-link to="#a6">【阿提拉】</nuxt-link>、<nuxt-link to="#a7"
                   >【熙德】</nuxt-link
-                >、<nuxt-link to="#a8">【蒙特蘇馬】</nuxt-link>、<nuxt-link
+                >、<nuxt-link to="#a8">【蒙提祖馬】</nuxt-link>、<nuxt-link
                   to="#a9"
                   >【征服者的戰役】</nuxt-link
                 >
@@ -629,7 +629,7 @@
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
                     <div id="a8">
-                      <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
+                      <nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link>
                     </div>
                   </div>
                 </td>
@@ -648,7 +648,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Reign_of_Blood">血親統治</nuxt-link>
+                    <nuxt-link to="/batt/Reign_of_Blood">血統統治</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -656,7 +656,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/The_Triple_Alliance"
-                      >三國同盟</nuxt-link
+                      >三城同盟</nuxt-link
                     >
                   </div>
                 </td>

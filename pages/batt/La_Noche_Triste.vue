@@ -10,7 +10,7 @@
           <p>
             <b>悲傷之夜</b>是《<nuxt-link to="/games/aoc"
               >世紀帝國II：征服者入侵</nuxt-link
-            >》<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+            >》<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
             >的第四個場景。
           </p>
           <p>
@@ -277,10 +277,10 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              場景開始戰鬥能力提升的豹勇士是在蒙特蘇馬戰役系列的旁白庫奧赫特莫克。需要注意的是，儘管這個角色用庫奧赫特莫克的聲音說話，他仍然只被認定為“豹勇士”，即使死亡也沒關係。
+              場景開始戰鬥能力提升的豹勇士是在蒙提祖馬戰役系列的旁白庫奧赫特莫克。需要注意的是，儘管這個角色用庫奧赫特莫克的聲音說話，他仍然只被認定為“豹勇士”，即使死亡也沒關係。
             </li>
             <li>
-              這個場景是庫奧赫特莫克親自出現在蒙特蘇馬戰役遊戲中的唯一一次。
+              這個場景是庫奧赫特莫克親自出現在蒙提祖馬戰役遊戲中的唯一一次。
             </li>
             <li>
               當你完成城市中心的建設，你會被告知有關東北部的小島充滿了黃金，是獻給美洲虎神的情報。另外，當完成<nuxt-link
@@ -309,7 +309,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙特蘇馬四.png" alt="" />
+                <img src="~assets/蒙提祖馬四.png" alt="" />
               </div>
             </td>
           </tr>
@@ -327,7 +327,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
+              <nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link>
             </td>
           </tr>
           <tr>

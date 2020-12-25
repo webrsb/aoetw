@@ -25,10 +25,10 @@
               >征服者入侵</nuxt-link
             >》中，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
             ><nuxt-link to="/batt">戰役</nuxt-link
-            ><nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>中的旁白。
+            ><nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link>中的旁白。
           </p>
           <p>
-            在<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+            在<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
             >的<nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
             >這一關中，雖然沒有講明，但暗示了登場的那隻強化版<nuxt-link
               to="/units/Jaguar_Warrior"
@@ -47,7 +47,7 @@
                 >阿茲特克人</nuxt-link
               >民保衛特諾奇蒂特蘭，他是前任統治者<nuxt-link
                 to="/batt/Montezumaa"
-                >蒙特蘇馬</nuxt-link
+                >蒙提祖馬</nuxt-link
               >二世的姪子，娶了他的一名女兒。他最終被埃爾南·科爾特斯率領的<nuxt-link
                 to="/units/Conquistador"
                 >西班牙征服者</nuxt-link

@@ -605,7 +605,7 @@
                 >餓虎撲食</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Triple_Alliance"
-                >三國同盟</nuxt-link
+                >三城同盟</nuxt-link
               >
             </td>
           </tr>

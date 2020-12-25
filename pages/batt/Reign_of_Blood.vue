@@ -2,14 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>血親統治</h1>
+        <h1>血統統治</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>血親統治</b>是<nuxt-link to="/batt/Montezumaa"
-              >蒙特蘇馬戰役</nuxt-link
+            <b>血統統治</b>(舊譯：血親統治)，是<nuxt-link to="/batt/Montezumaa"
+              >蒙提祖馬戰役</nuxt-link
             >的第一個場景。
           </p>
         </div>
@@ -74,25 +74,25 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p8"></div>
+                <div class="p2"></div>
                 玩家2
               </td>
-              <td class="tc6">
-                特班尼根(橙色)<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
-              </td>
-              <td class="tc6">
-                <div class="p2"></div>
-                玩家3
-              </td>
-              <td class="tc6">特拉理科（紅色）阿茲特克</td>
+              <td class="tc6">特拉堤克人（紅色）阿茲特克</td>
             </tr>
             <tr>
               <td class="tc6">
                 <div class="p6"></div>
-                玩家4
+                玩家3
               </td>
-              <td class="tc6">日奇密歐（紫色）馬雅</td>
+              <td class="tc6">索奇米科爾人（紫色）馬雅</td>
             </tr>
+            <td class="tc6">
+              <div class="p8"></div>
+              玩家4
+            </td>
+            <td class="tc6">
+              帝帕那卡（橙色）<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
+            </td>
           </table>
 
           <h3>主要任務</h3>
@@ -134,7 +134,7 @@
             <ul>
               <li>
                 你的<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-                >回報:蒙特蘇馬的部隊(綠色)一開始在封建時代並只有幾個士兵，它們必須保護好蒙特蘇馬的<nuxt-link
+                >回報:蒙提祖馬的部隊(綠色)一開始在封建時代並只有幾個士兵，它們必須保護好蒙提祖馬的<nuxt-link
                   to="/building/Town_Center"
                   >城鎮中心</nuxt-link
                 >免於早期敵人的攻擊。
@@ -146,7 +146,7 @@
                 >組成比較容易對付。
               </li>
               <li>
-                特班尼根(橙色)居住在你的東北部，除非你有<nuxt-link
+                帝帕那卡(橙色)居住在你的東北部，除非你有<nuxt-link
                   to="/units/Siege_Weapons"
                   >攻城武器</nuxt-link
                 >否則他的<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
@@ -159,7 +159,7 @@
                 >。
               </li>
               <li>
-                日奇密歐(紫色)是最危險的敵人。他們住在遙遠的西北部，它們訓練弓/弩兵、裝甲步兵/<nuxt-link
+                索奇米科爾人(紫色)是最危險的敵人。他們住在遙遠的西北部，它們訓練弓/弩兵、裝甲步兵/<nuxt-link
                   to="/units/Long_Swordsman"
                   >長劍兵</nuxt-link
                 >和<nuxt-link to="/units/Scoepion">弩砲</nuxt-link
@@ -178,19 +178,19 @@
               >攻擊美洲豹，但是你必須手動指定建築物攻擊美洲豹。
             </li>
             <li>
-              最近的兩座修道院是：你的基地的西北部（在你的基地與特班尼根之間）和另一個在你的基地的西南部（在你的基地與特拉裡科之間）。特班尼根和日奇密歐之間還有一個修道院，還有一個位於地圖西部的修道院。在取得神廟之前最好先建立起一定量的軍隊，因為你將不得不捍衛它們。
+              最近的兩座修道院是：你的基地的西北部（在你的基地與帝帕那卡之間）和另一個在你的基地的西南部（在你的基地與特拉裡科之間）。帝帕那卡和索奇米科爾人之間還有一個修道院，還有一個位於地圖西部的修道院。在取得神廟之前最好先建立起一定量的軍隊，因為你將不得不捍衛它們。
             </li>
             <li>
-              一旦你佔領了兩個最近的神廟，你應該通過在他們周圍駐紮軍事單位或者建造箭塔和城牆來保護他們。對於北方的修道院，你需要處理特班尼根，因為他們可能在修道院附近建立一個<nuxt-link
+              一旦你佔領了兩個最近的神廟，你應該通過在他們周圍駐紮軍事單位或者建造箭塔和城牆來保護他們。對於北方的修道院，你需要處理帝帕那卡，因為他們可能在修道院附近建立一個<nuxt-link
                 to="/building/Archery_Range"
                 >射箭場</nuxt-link
-              >。儘管他們有一個大門和一些圍牆，但實際上他們可以從他們的西部（與日奇密歐之間）偷偷溜進去，這裡沒有圍牆擋住，但是你必須留意在湖中間的兩座箭塔。一旦你取得了這個神廟，特班尼根會指責你玷污“他們的修道院”，並派遣一支鷹勇士對付你。你應該已經有一支準備對付特班尼根的軍隊。
+              >。儘管他們有一個大門和一些圍牆，但實際上他們可以從他們的西部（與索奇米科爾人之間）偷偷溜進去，這裡沒有圍牆擋住，但是你必須留意在湖中間的兩座箭塔。一旦你取得了這個神廟，帝帕那卡會指責你玷污“他們的修道院”，並派遣一支鷹勇士對付你。你應該已經有一支準備對付帝帕那卡的軍隊。
             </li>
             <li>
-              取得西部神廟將需要應付特拉裡科（沿途有兩座箭塔）和日奇密歐（擁有一座<nuxt-link
+              取得西部神廟將需要應付特拉裡科（沿途有兩座箭塔）和索奇米科爾人（擁有一座<nuxt-link
                 to="/building/Castle"
                 >城堡</nuxt-link
-              >以及諸如弩砲和弓箭手等若干軍事單位）的防禦。您必須至少將日奇密歐部隊趕離河岸讓你可以建立一個<nuxt-link
+              >以及諸如弩砲和弓箭手等若干軍事單位）的防禦。您必須至少將索奇米科爾人部隊趕離河岸讓你可以建立一個<nuxt-link
                 to="/building/Dock"
                 >碼頭</nuxt-link
               >。你可能需要帶上一些村民，並用你的士兵保護它們。用碼頭訓練一艘<nuxt-link
@@ -202,7 +202,7 @@
               >。你也可以用修道院訓練一個僧侶帶回遺跡就好。注意擊敗所有敵人不會獲得勝利。玩家仍然需要將遺跡放入神廟中來完成這個任務。
             </li>
             <li>
-              如果你在東邊的基地附近建立了一個市場，並且你想和任何一個敵對市場進行交易，最好的交易市場就是特拉裡科，因為和特班尼根交易需要從他們的西部走一條很長的路線（由於東部的大門被封鎖），但是由於距離的原因使得貿易得到的黃金變少，而試圖與日奇密歐進行交易將導致您的<nuxt-link
+              如果你在東邊的基地附近建立了一個市場，並且你想和任何一個敵對市場進行交易，最好的交易市場就是特拉裡科，因為和帝帕那卡交易需要從他們的西部走一條很長的路線（由於東部的大門被封鎖），但是由於距離的原因使得貿易得到的黃金變少，而試圖與索奇米科爾人進行交易將導致您的<nuxt-link
                 to="/units/Trade_Cart"
                 >貿易車隊</nuxt-link
               >被攻擊。為了和特拉裡科交易，你應該在摧毀他們東邊的箭塔，打敗他們的軍隊，保護你貿易車隊的安全。
@@ -212,12 +212,12 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              儘管特班尼根和日奇密歐在遊戲中是<nuxt-link to="/civs/Mayans"
+              儘管帝帕那卡和索奇米科爾人在遊戲中是<nuxt-link to="/civs/Mayans"
                 >馬雅人</nuxt-link
               >，但事實上他們並不是。他們和玩家以及特拉裡科都是納瓦人或說阿茲特克語/納瓦特爾語的人。
             </li>
             <li>
-              這是蒙特蘇馬系列中特拉斯卡拉人和<nuxt-link to="/civs/Spanish"
+              這是蒙提祖馬系列中特拉斯卡拉人和<nuxt-link to="/civs/Spanish"
                 >西班牙人</nuxt-link
               >根本沒出現的唯一場景
             </li>
@@ -229,14 +229,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                血親統治
+                血統統治
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙特蘇馬一.png" alt="" />
+                <img src="~assets/蒙提祖馬一.png" alt="" />
               </div>
             </td>
           </tr>
@@ -254,7 +254,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
+              <nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -290,7 +290,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link>
+              <nuxt-link to="/batt/The_Triple_Alliance">三城同盟</nuxt-link>
             </td>
           </tr>
         </table>

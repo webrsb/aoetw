@@ -179,7 +179,7 @@
               >)
             </li>
             <li>
-              <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>(阿茲特克)
+              <nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link>(阿茲特克)
             </li>
             <li>
               <nuxt-link to="/batt/Battles_of_the_Conquerors"
@@ -190,11 +190,11 @@
           <p>
             但事實上部分戰役與史實有明顯差異。如在<nuxt-link
               to="/batt/Montezumaa"
-              >蒙特蘇馬戰役</nuxt-link
+              >蒙提祖馬戰役</nuxt-link
             >中，<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
             >看似以排山倒海之勢而來，但<nuxt-link to="/civs/Aztecs"
               >阿茲特克人</nuxt-link
-            >在該戰役的結局中徹底地擊敗了西班牙人。然而歷史上科爾特茲隨行的部隊只有不到1000人，而且阿茲特克人最後戰敗了。而且事實上主角應為蒙特蘇馬二世之侄子－瓜特穆斯。
+            >在該戰役的結局中徹底地擊敗了西班牙人。然而歷史上科爾特茲隨行的部隊只有不到1000人，而且阿茲特克人最後戰敗了。而且事實上主角應為蒙提祖馬二世之侄子－瓜特穆斯。
           </p>
         </div>
         <h3>平衡更動</h3>
