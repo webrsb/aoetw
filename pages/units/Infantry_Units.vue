@@ -52,7 +52,9 @@
                 >槍兵類</nuxt-link
               >是唯一的例外，他需要食物與<nuxt-link to="/resource/Wood"
                 >木材</nuxt-link
-              >。馬來則是研發強制徵兵後訓練民兵系只需要食物。雖然大部分的步兵懼怕<nuxt-link to="/units/Archer_Units"
+              >。<nuxt-link to="/civs/Malay">馬來</nuxt-link
+              >則是研發強制徵兵後訓練民兵系只需要食物。雖然大部分的步兵懼怕<nuxt-link
+                to="/units/Archer_Units"
                 >弓兵單位</nuxt-link
               >與<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:<nuxt-link
@@ -89,17 +91,17 @@
             >、<nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>，<nuxt-link
               to="/civs/Japanese"
               >日本人</nuxt-link
-            >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>和<nuxt-link
-              to="/civs/Vikings"
-              >維京人</nuxt-link
-            >可以說是所有文明中最強大的步兵。保加利亞、<nuxt-link to="/civs/Celts"
+            >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+              to="/civs/Slavs"
+              >斯拉夫人</nuxt-link
+            >和<nuxt-link to="/civs/Vikings">維京人</nuxt-link
+            >可以說是所有文明中最強大的步兵。保加利亞、<nuxt-link
+              to="/civs/Celts"
               >塞爾特</nuxt-link
-            >、<nuxt-link
-              to="/civs/Incas"
-              >印加</nuxt-link
-            >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、馬來與<nuxt-link
-              to="/civs/Teutons"
-              >條頓</nuxt-link
+            >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
+              to="/civs/Malians"
+              >馬利</nuxt-link
+            >、馬來與<nuxt-link to="/civs/Teutons">條頓</nuxt-link
             >也是優秀的<nuxt-link to="/units/Infantry_Units">步兵文明</nuxt-link
             >。而<nuxt-link to="/civs/Incas">印加</nuxt-link
             >是唯一有所有步兵單位和技術的文明。
@@ -111,10 +113,12 @@
           <p>以下列出步兵有加成的文明</p>
           <ul>
             <li>
-              阿茲特克:步兵訓練速度快18%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >:步兵訓練速度快18%。
             </li>
             <li>
-              保加利亞:民兵系的升級成本免費。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >:民兵系的升級成本免費。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
@@ -133,7 +137,8 @@
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:步兵移動快15%。
             </li>
             <li>
-              中國:任何影響步兵的科技在封建/城堡/帝王成本便宜10%/15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >:任何影響步兵的科技在封建/城堡/帝王成本便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>:<nuxt-link
@@ -141,7 +146,7 @@
                 >槍兵</nuxt-link
               >系免費升級。
             </li>
-            
+
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >:步兵成本從黑暗/封建/城堡/帝王便宜20%/25%/30%/35%，步兵在封建/城堡/帝王對標準建築獲得+1/+2/+3攻擊。
@@ -155,10 +160,11 @@
               >快33%。
             </li>
             <li>
-              朝鮮:槍兵木材成本少15%
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:槍兵木材成本少15%
             </li>
             <li>
-              立陶宛:槍兵系移動速度快10%
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >:槍兵系移動速度快10%
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
@@ -169,25 +175,38 @@
               >各有+1/+2/+3的<nuxt-link to="/armor">遠防</nuxt-link>。
             </li>
             <li>
-              馬札爾:免費獲得鍛造技術、鑄鐵技術和鼓風爐
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+              >:免費獲得<nuxt-link to="/techs/Forging">鍛造</nuxt-link
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
+              >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
             </li>
             <li>
-              葡萄牙:步兵單位黃金成本少15%
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >:步兵單位黃金成本少15%
             </li>
             <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:免費獲得供給。
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:免費獲得<nuxt-link
+                to="/techs/Supplies"
+                >供給</nuxt-link
+              >。
             </li>
             <li>
-              西班牙:兵工廠科技研發不用金
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發不用金
             </li>
             <li>
-              韃靼:步兵從高處攻擊傷害+25%
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >:步兵從高處攻擊傷害+25%
             </li>
             <li>
-              條頓:軍營從城堡/帝王時代獲得+1/+2近戰護甲
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >:軍營從城堡/帝王時代獲得+1/+2近戰護甲
             </li>
             <li>
-              越南:免費獲得徵兵技術
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >:免費獲得<nuxt-link to="/techs/Conscription">徵兵</nuxt-link>
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:步兵在<nuxt-link
@@ -204,11 +223,13 @@
         <div class="n1">
           <p>
             以下列出步兵的<nuxt-link to="/elements/Team_Bonus"
-              >團隊加分</nuxt-link>
+              >團隊加分</nuxt-link
+            >
           </p>
           <ul>
             <li>
-              保加利亞:影響步兵的兵工廠科技研發快50%
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >:影響步兵的兵工廠科技研發快50%
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:軍營工作效率快20%
@@ -220,10 +241,11 @@
               >可在軍營訓練
             </li>
             <li>
-              立陶宛:影響步兵的修道院科技研發快50%
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >:影響步兵的修道院科技研發快50%
             </li>
             <li>
-              條頓:步兵更能對抗招降
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:步兵更能對抗招降
             </li>
           </ul>
         </div>
@@ -1064,6 +1086,7 @@
               <!--速度!-->
             </tr>
           </table>
+
           <p>
             以下單位可在地圖編輯器裡找到
           </p>
@@ -1174,9 +1197,7 @@
                   class="gg"
                   src="~assets/2HandedswordsmanIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Legionary"
-                  >羅馬士兵</nuxt-link
-                >
+                /><nuxt-link to="/units/Legionary">羅馬士兵</nuxt-link>
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->
@@ -1199,9 +1220,7 @@
                   class="gg"
                   src="~assets/2HandedswordsmanIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Nordic_Swordsman"
-                  >北歐劍士</nuxt-link
-                >
+                /><nuxt-link to="/units/Nordic_Swordsman">北歐劍士</nuxt-link>
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->
@@ -1224,9 +1243,7 @@
                   class="gg"
                   src="~assets/2HandedswordsmanIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Bandit"
-                  >Bandit</nuxt-link
-                >
+                /><nuxt-link to="/units/Bandit">Bandit</nuxt-link>
               </td>
               <td class="tta3">75</td>
               <!--生命值!-->
@@ -1249,9 +1266,7 @@
                   class="gg"
                   src="~assets/2HandedswordsmanIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Iroquois_Warrior"
-                  >易洛揆勇士</nuxt-link
-                >
+                /><nuxt-link to="/units/Iroquois_Warrior">易洛揆勇士</nuxt-link>
               </td>
               <td class="tta3">65</td>
               <!--生命值!-->
@@ -1274,9 +1289,7 @@
                   class="gg"
                   src="~assets/2HandedswordsmanIcon.png"
                   alt=""
-                /><nuxt-link to="/units/Ninja"
-                  >忍者</nuxt-link
-                >
+                /><nuxt-link to="/units/Ninja">忍者</nuxt-link>
               </td>
               <td class="tta3">50</td>
               <!--生命值!-->
@@ -1293,7 +1306,6 @@
               <td class="tta3">1.1</td>
               <!--速度!-->
             </tr>
-            
           </table>
         </div>
         <h3>相關科技</h3>
@@ -1718,8 +1730,7 @@
                 <nuxt-link to="/techs/Bagains">協議</nuxt-link>
               </td>
               <td class="tunitc5">900F 450G</td>
-              <td class="tunitc6">民兵系近戰護甲+5。
-              </td>
+              <td class="tunitc6">民兵系近戰護甲+5。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1734,8 +1745,7 @@
                 <nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>
               </td>
               <td class="tunitc5">500F 200G</td>
-              <td class="tunitc6">長槍兵系和矛兵系遠程護甲+2。
-              </td>
+              <td class="tunitc6">長槍兵系和矛兵系遠程護甲+2。</td>
             </tr>
           </table>
 
