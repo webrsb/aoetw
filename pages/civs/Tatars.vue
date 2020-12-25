@@ -118,8 +118,8 @@
               >劍兵勇士</nuxt-link
             >升級，還是唯一沒有<nuxt-link to="/techs/Chain_Mail_Armor"
               >步兵鏈甲</nuxt-link
-            >的文明。由於缺乏<nuxt-link to="/techs/Siege_Engineers"
-              >攻城工程師</nuxt-link
+            >的文明。由於缺乏<nuxt-link to="/units/Siege_Onager"
+              >重型投石車</nuxt-link
             >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >，<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
             >並不出彩，但特殊科技<nuxt-link to="/techs/Timurid_Siegecraft"
