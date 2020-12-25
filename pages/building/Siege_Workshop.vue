@@ -465,7 +465,7 @@
             <td class="unit4">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             <br>
-               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>（庫曼限定）
+               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>（<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定）
             </td>
           </tr>
           <tr>
