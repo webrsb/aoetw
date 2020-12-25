@@ -9,8 +9,8 @@
         <div class="n1">
           <p>
             <b>獅子與惡魔</b>為<nuxt-link to="/batt/Saladina"
-              >沙拉丁戰役</nuxt-link
-            >的第六關劇情關卡，也是沙拉丁戰役的最後一關<nuxt-link to="/batt"
+              >薩拉丁戰役</nuxt-link
+            >的第六關劇情關卡，也是薩拉丁戰役的最後一關<nuxt-link to="/batt"
               >戰役</nuxt-link
             >
           </p>
@@ -240,7 +240,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+              <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -9,9 +9,9 @@
         <div class="n1">
           <p>
             <b>阿拉伯騎士</b>為<nuxt-link to="/batt/Saladina"
-              >沙拉丁戰役</nuxt-link
+              >薩拉丁戰役</nuxt-link
             >的第一關劇情關卡，此關描述<nuxt-link to="/units/hero/Saladin"
-              >沙拉丁</nuxt-link
+              >薩拉丁</nuxt-link
             >率領軍隊逐出在埃及的法國十字軍。
           </p>
         </div>
@@ -126,6 +126,14 @@
             <li>利用你輕騎兵的視野以避免不必要的衝突。</li>
           </ul>
         </div>
+                <h2>攻略</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>首先一邊往埃及前進的同時一邊迎擊西法蘭克人的軍隊。之後埃及人會轉敵對，我方會拿到一台<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>，用它把埃及人的<nuxt-link to="/building/Gate">城門</nuxt-link>毀壞。</li>
+            <li>接著快速地用<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>隊移動到清真寺，到達後埃及改回同盟並有一批援軍。再來對附東法蘭克人，先把投石車打掉，再把剩餘軍隊掃蕩後摧毀<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>即可。</li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -159,7 +167,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+              <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -188,7 +196,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>
+              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯君主</nuxt-link>
             </td>
           </tr>
         </table>

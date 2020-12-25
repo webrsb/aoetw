@@ -622,7 +622,7 @@
             <td class="tunitc4">騎士</td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link
+              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯君主</nuxt-link
               ><br /><nuxt-link to="/batt/The_Horns_of_Hattin"
                 >海丁的號角</nuxt-link
               >
@@ -1417,7 +1417,7 @@
                         class="gg"
                         src="~assets/Saladinicon.png"
                         alt=""
-                      /><nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link>
+                      /><nuxt-link to="/units/hero/Saladin">薩拉丁</nuxt-link>
                     </td>
                     <td class="tunitc4">騎兵</td>
                     <td class="tunitc6">

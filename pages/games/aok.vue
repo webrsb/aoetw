@@ -244,7 +244,7 @@
               <nuxt-link to="/batt/William_Wallacea">威廉華勒斯</nuxt-link>
             </li>
             <li><nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link></li>
-            <li><nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link></li>
+            <li><nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link></li>
             <li><nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link></li>
             <li><nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link></li>
           </ul>

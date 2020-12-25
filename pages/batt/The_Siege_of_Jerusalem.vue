@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>耶路撒冷攻城戰</b>為<nuxt-link to="/batt/Saladina"
-              >沙拉丁戰役</nuxt-link
+              >薩拉丁戰役</nuxt-link
             >的第四關劇情關卡，此關為1187年耶路撒冷圍城的原型，也象徵著耶路撒冷王國的結束，此<nuxt-link
               to="/batt"
               >戰役</nuxt-link
@@ -119,7 +119,7 @@
               <li>
                 摧毀那五座防衛著耶路撒冷的<nuxt-link to="/building/Watch_Tower"
                   >箭塔</nuxt-link
-                >，就可以讓沙拉丁的軍隊佔據這個城市，但可千萬別毀了耶路撒冷的<nuxt-link
+                >，就可以讓薩拉丁的軍隊佔據這個城市，但可千萬別毀了耶路撒冷的<nuxt-link
                   to="/building/Monastery"
                   >修道院</nuxt-link
                 >或圓石。
@@ -175,7 +175,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+              <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
             </td>
           </tr>
           <tr>

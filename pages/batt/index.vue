@@ -48,7 +48,7 @@
                 <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link
                   to="#a2"
                   >【聖女貞德】</nuxt-link
-                >、<nuxt-link to="#a3">【沙拉丁】</nuxt-link>、<nuxt-link
+                >、<nuxt-link to="#a3">【薩拉丁】</nuxt-link>、<nuxt-link
                   to="#a4"
                   >【成吉思汗】</nuxt-link
                 >、<nuxt-link to="#a5">【巴巴羅薩】</nuxt-link>
@@ -268,7 +268,7 @@
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
                     <div id="a3">
-                      <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+                      <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
                     </div>
                   </div>
                 </td>
@@ -296,7 +296,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>
+                    <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯君主</nuxt-link>
                   </div>
                 </td>
               </tr>

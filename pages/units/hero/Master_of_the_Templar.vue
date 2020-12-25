@@ -11,7 +11,7 @@
             <strong>聖殿騎士團首領</strong>是《<nuxt-link to="/games/aok"
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
-            >，可以在<nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link
+            >，可以在<nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link
             >第四<nuxt-link to="/batt">戰役</nuxt-link
             >"耶路撒冷攻城戰"和戰役編輯器中找到。現實中聖殿騎士團首領是一名聖殿<nuxt-link
               to="/units/Knight"

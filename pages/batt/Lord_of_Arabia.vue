@@ -2,14 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>阿拉伯之主</h1>
+        <h1>阿拉伯君主</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>阿拉伯之主</b>為<nuxt-link to="/batt/Saladina"
-              >沙拉丁戰役</nuxt-link
+            <b>阿拉伯君主</b>為<nuxt-link to="/batt/Saladina"
+              >薩拉丁戰役</nuxt-link
             >的第二關劇情關卡，此關描述法國十字軍騎士<nuxt-link
               to="/units/hero/Reynald_de_Chatillon"
               >沙底隆的雷諾</nuxt-link
@@ -142,7 +142,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                阿拉伯之主
+                阿拉伯君主
               </div>
             </td>
           </tr>
@@ -167,7 +167,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+              <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
             </td>
           </tr>
           <tr>

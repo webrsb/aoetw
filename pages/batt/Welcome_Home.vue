@@ -259,7 +259,7 @@
                       >聖女貞德戰役</nuxt-link
                     >第5關<nuxt-link to="/batt/The_Siege_of_Paris"
                       >圍攻巴黎</nuxt-link
-                    >，<nuxt-link to="/batt/Saladina">沙拉丁戰役</nuxt-link
+                    >，<nuxt-link to="/batt/Saladina">薩拉丁戰役</nuxt-link
                     ><nuxt-link to="/batt/The_Siege_of_Jerusalem"
                       >耶路撒冷攻城戰</nuxt-link
                     >等案例)在擊敗極大汗之前，玩家可能會有一定程度的傷亡。

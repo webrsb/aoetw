@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>海丁的號角</b>為<nuxt-link to="/batt/Saladina"
-              >沙拉丁戰役</nuxt-link
+              >薩拉丁戰役</nuxt-link
             >的第三關劇情關卡，此關為第三次十字軍東征哈丁<nuxt-link to="/batt"
               >戰役</nuxt-link
             >（今哈丁角，太巴列，巴勒斯坦）的原型，十字軍作戰攜帶的聖物真十字架落入穆斯林手裡，嚴重打擊十字軍軍隊的士氣。
@@ -172,7 +172,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
+              <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -197,7 +197,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>
+              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯君主</nuxt-link>
             </td>
           </tr>
           <tr>
