@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>海丁的號角</h1>
+        <h1>哈丁角</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>海丁的號角</b>為<nuxt-link to="/batt/Saladina"
+            <b>哈丁角</b>為<nuxt-link to="/batt/Saladina"
               >薩拉丁戰役</nuxt-link
             >的第三關劇情關卡，此關為第三次十字軍東征哈丁<nuxt-link to="/batt"
               >戰役</nuxt-link
@@ -147,7 +147,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                海丁的號角
+                哈丁角
               </div>
             </td>
           </tr>

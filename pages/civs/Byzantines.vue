@@ -291,7 +291,7 @@
       <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
       <ul>
         <li>
-          <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link
+          <nuxt-link to="/batt/The_Horns_of_Hattin">哈丁角</nuxt-link
           >:耶路撒冷
         </li>
         <li>

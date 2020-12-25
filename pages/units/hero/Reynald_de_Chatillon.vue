@@ -14,7 +14,7 @@
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中找到。雷諾會短暫出現在<nuxt-link to="/batt/Saladina"
               >薩拉丁</nuxt-link
-            >第二戰役中作為他主要的敵人，在第三戰役"海丁的號角"中雷諾的部隊重新出現，玩家可以在該戰役中殺死雷諾。雷諾有<nuxt-link
+            >第二戰役中作為他主要的敵人，在第三戰役"哈丁角"中雷諾的部隊重新出現，玩家可以在該戰役中殺死雷諾。雷諾有<nuxt-link
               to="/units/Knight"
               >騎士</nuxt-link
             >的外貌也會受到<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link

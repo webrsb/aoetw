@@ -12,7 +12,7 @@
               >薩拉丁戰役</nuxt-link
             >的第二關劇情關卡，此關描述法國十字軍騎士<nuxt-link
               to="/units/hero/Reynald_de_Chatillon"
-              >沙底隆的雷諾</nuxt-link
+              >夏提永的雷諾</nuxt-link
             >襲擊紅海的<nuxt-link to="/batt">戰役</nuxt-link>。
           </p>
         </div>
@@ -34,7 +34,7 @@
                 >／100<nuxt-link to="/resource/Stone">石頭</nuxt-link>
               </td>
               <td class="tc1" width="14%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">100</td>
             </tr>
           </table>
 
@@ -68,7 +68,7 @@
                 <div class="p4"></div>
                 玩家3
               </td>
-              <td class="tc6" width="38%">阿魁巴（黃色）薩拉森</td>
+              <td class="tc6" width="38%">亞喀巴（黃色）薩拉森</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -87,7 +87,7 @@
                 <div class="p5"></div>
                 玩家5
               </td>
-              <td class="tc6">雷諾的武士（藍綠色）法蘭克</td>
+              <td class="tc6">雷諾的入侵者（藍綠色）法蘭克</td>
             </tr>
             <tr>
               <td class="tc6">
@@ -114,12 +114,12 @@
           <div class="n1">
             <ol>
               <li>
-                要打敗雷諾的武士、強盜、和海盜，以防止他們破壞你同盟的<nuxt-link
+                要打敗雷諾的入侵者、強盜、和海盜，以防止他們破壞你同盟的<nuxt-link
                   to="/building/Town_Center"
                   >城鎮中心</nuxt-link
                 >。
               </li>
-              <li>不能讓阿魁巴和麥地那這兩個盟友被打敗。</li>
+              <li>不能讓亞喀巴和麥地那這兩個盟友被打敗。</li>
             </ol>
           </div>
         </div>
@@ -133,6 +133,30 @@
                 to="/units/Trade_Cart"
                 >貿易車隊</nuxt-link
               >。
+            </li>
+          </ul>
+        </div>
+        <h2>攻略</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              這關難度偏高。先派現有的軍隊去把攻擊車隊的敵軍解決掉，順便看羊能帶回多少就帶回多少。
+            </li>
+            <li>
+              發展之後盡快打向雷諾的入侵者。家裡也要留人守備，海盜會運兵打過來以及送村民偷渡。
+            </li>
+            <li>
+              由於海盜可以上帝王，我方卻不行，因此打海盜免不了一番苦戰。橫渡後快速起一座城堡且要不停造長槍兵抵擋敵方騎兵的攻擊直到敵方的黃金用盡，再用衝車或炸藥桶打掉敵方的城堡或城鎮中心。
+            </li>
+          </ul>
+        </div>
+        <h2>決定版變更點</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              人口上限改為100，夏提永的雷諾一開始就會出現對玩家放話。雷諾的入侵者這版會升上城堡時代。
             </li>
           </ul>
         </div>
@@ -198,7 +222,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>
+              <nuxt-link to="/batt/The_Horns_of_Hattin">哈丁角</nuxt-link>
             </td>
           </tr>
         </table>
