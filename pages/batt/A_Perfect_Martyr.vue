@@ -113,7 +113,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
+              <nuxt-link to="/batt/The_Siege_of_Paris">圍攻巴黎</nuxt-link>
             </td>
           </tr>
           <tr>

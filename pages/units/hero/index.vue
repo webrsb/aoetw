@@ -414,7 +414,7 @@
             <td class="tunitc4">攻城單位</td>
             <td class="tunitc6">火砲</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
+              <nuxt-link to="/batt/The_Siege_of_Paris">圍攻巴黎</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -438,7 +438,7 @@
               >
               <br /><nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link
               ><br /><nuxt-link to="/batt/The_Siege_of_Paris"
-                >巴黎攻城戰</nuxt-link
+                >圍攻巴黎</nuxt-link
               >
             </td>
           </tr>
@@ -541,7 +541,7 @@
             <td class="tunitc4">弓兵</td>
             <td class="tunitc6">強弩兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
+              <nuxt-link to="/batt/The_Siege_of_Paris">圍攻巴黎</nuxt-link>
             </td>
           </tr>
           <tr>
