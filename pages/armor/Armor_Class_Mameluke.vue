@@ -28,20 +28,20 @@
           下列的單位都是奴隸兵單位
           <ul>
             <li>
-                    <img
-                      class="gg"
-                      src="~assets/Saracenmamluk_icon.png"
-                      width="22"
-                      alt=""
-                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>→
-                    <img
-                      class="gg"
-                      src="~assets/Saracenmamluk_icon.png"
-                      width="22"
-                      alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
-                    >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
-                  </li>
+              <img
+                class="gg"
+                src="~assets/Saracenmamluk_icon.png"
+                width="22"
+                alt=""
+              /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>→
+              <img
+                class="gg"
+                src="~assets/Saracenmamluk_icon.png"
+                width="22"
+                alt=""
+              /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link
+              >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
+            </li>
           </ul>
         </div>
         <h3>剋奴隸兵單位的單位</h3>
@@ -53,69 +53,76 @@
             <ul>
               <li>
                 <img
-                class="gg"
-                src="~assets/HalberdierIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>(決定版前是+16攻擊)
+                  class="gg"
+                  src="~assets/HalberdierIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+                >(決定版前是+16攻擊)
               </li>
               <li>
-                <img class="gg" src="~assets/PikemanIcon.png" alt="" /><nuxt-link
-                to="/units/Pikeman"
-                >重裝長槍兵</nuxt-link>
+                <img
+                  class="gg"
+                  src="~assets/PikemanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
             <ul>
               <li>
                 <img
-                class="gg"
-                src="~assets/HeavyCamelIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
-              <img
-                class="gg"
-                src="~assets/ImperialCamelIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
-              >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
+                  class="gg"
+                  src="~assets/HeavyCamelIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/ImperialCamelIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
+                >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/SpearmanIcon.png" alt="" /><nuxt-link
-                to="/units/Spearman"
-                >長槍兵</nuxt-link>
+                <img
+                  class="gg"
+                  src="~assets/SpearmanIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
               </li>
               <li>
-                    <img
-                      class="gg"
-                      src="~assets/CannonGalleonIcon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-                    >→
-                    <img
-                      class="gg"
-                      src="~assets/Elite_cannon_galleonicon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
-                      >精銳火砲戰船</nuxt-link>
-                  </li>
+                <img
+                  class="gg"
+                  src="~assets/CannonGalleonIcon.png"
+                  alt=""
+                /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/Elite_cannon_galleonicon.png"
+                  alt=""
+                /><nuxt-link to="/units/Elite_Cannon_Galleon"
+                  >精銳火砲戰船</nuxt-link
+                >
+              </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
             <ul>
               <li>
                 <img
-                      class="gg"
-                      src="~assets/Saracenmamluk_icon.png"
-                      width="22"
-                      alt=""
-                    /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link>
+                  class="gg"
+                  src="~assets/Saracenmamluk_icon.png"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link>
               </li>
               <li>
-                <img class="gg" src="~assets/Kamayuk_Icon.png" alt="" /><nuxt-link
-                to="/units/Kamayuk"
-                >精銳槍隊長</nuxt-link>
+                <img
+                  class="gg"
+                  src="~assets/Kamayuk_Icon.png"
+                  alt=""
+                /><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link>
               </li>
             </ul>
           </div>
