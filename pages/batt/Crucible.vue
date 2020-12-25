@@ -78,8 +78,7 @@
                 玩家6
               </td>
               <td class="tc6" width="38%">
-                回鶻人（藍綠色）<nuxt-link to="/civs/Tatars">韃靼</nuxt-link
-                >
+                回鶻人（藍綠色）<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
               </td>
             </tr>
             <tr>
