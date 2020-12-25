@@ -185,7 +185,7 @@
             <td class="tunitc4">騎兵</td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link>
+              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良少女</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -432,7 +432,7 @@
             </td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link
+              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良少女</nuxt-link
               ><br /><nuxt-link to="/batt/The_Cleansing_of_the_Loire"
                 >羅亞爾河大掃蕩</nuxt-link
               >
@@ -454,7 +454,7 @@
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >一個不大可能的彌賽亞</nuxt-link
+                >橫空出世</nuxt-link
               >
             </td>
           </tr>
@@ -747,7 +747,7 @@
             <td class="tunitc6">騎士</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >一個不大可能的彌賽亞</nuxt-link
+                >橫空出世</nuxt-link
               >
             </td>
           </tr>
@@ -762,7 +762,7 @@
             <td class="tunitc6">騎士</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >一個不大可能的彌賽亞</nuxt-link
+                >橫空出世</nuxt-link
               >
             </td>
           </tr>

@@ -228,7 +228,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link>
+              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良少女</nuxt-link>
             </td>
           </tr>
           <tr>

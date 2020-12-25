@@ -218,12 +218,13 @@
             <li>因為奧爾良城預設玩家為大地之母。</li>
           </ul>
         </div>
-                <h3>決定版變更點</h3>
+        <h3>決定版變更點</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>人口上限由75改為125。</li>
-          </ul>        </div>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -280,9 +281,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >橫空出世</nuxt-link
-              >
+              <nuxt-link to="/batt/An_Unlikely_Messiah">橫空出世</nuxt-link>
             </td>
           </tr>
           <tr>
