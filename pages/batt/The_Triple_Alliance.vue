@@ -32,7 +32,7 @@
               >:1000，<nuxt-link to="/resource/Gold">黃金</nuxt-link
               >:1000，<nuxt-link to="/resource/Stone">石頭</nuxt-link>:500
             </li>
-            <li>人口上限:75</li>
+            <li>人口上限:100</li>
             <li>
               開場擁有單位:
               <ul>
@@ -77,18 +77,19 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p6"></div>
-                玩家2
-              </td>
-              <td class="tc6">
-                特斯科科(紫色)<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
-              </td>
-              <td class="tc6">
+                            <td class="tc6">
                 <div class="p4"></div>
                 玩家3
               </td>
-              <td class="tc6">特拉科潘（黃色)阿茲特克</td>
+              <td class="tc6">特拉科潘（黃色）阿茲特克</td>
+              <td class="tc6">
+                <div class="p6"></div>
+                玩家4
+              </td>
+              <td class="tc6">
+                特斯科科（紫色）<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
+              </td>
+
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #999999;">中立</td>
@@ -96,10 +97,10 @@
             <tr>
               <td class="tc6">
                 <div class="p1"></div>
-                玩家4
+                玩家5
               </td>
               <td class="tc6">
-                科爾特斯(藍色)<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
+                科爾特斯（藍色）<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
               </td>
             </tr>
           </table>
@@ -172,7 +173,7 @@
               玩家一開始有4個鷹勇士要到他們馬雅和阿茲特克盟友，特拉科潘（黃色）和特斯科科（紫色）傳遞開戰協定。之後，玩家將接收一些<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >，並摧毀特拉斯卡拉人（紅色）的四個城鎮中心。之後盟友就會背叛成為敵人，玩家必須打敗他們才能贏得勝利。
+              >，並摧毀特拉斯卡拉人（紅色）的四個城鎮中心。之後盟友就會背叛成為敵人，玩家必須打敗他們才能贏得勝利。可以預先把石頭全部在同盟家蓋城堡。
             </li>
             <li>
               如果玩家將10個豹勇士帶到地圖中央隱藏的<nuxt-link
@@ -185,7 +186,8 @@
               >守衛的地方），玩家將獲得雨中的祝福（豹勇士將獲得400<nuxt-link
                 to="/elements/Hit_points"
                 >生命值</nuxt-link
-              >）。
+              >）。可以的話盡可能多帶，因為他們都會得到+400
+              HP。但是進攻時要注意敵人的僧侶的感化。
             </li>
             <li>
               最後敵人<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
@@ -201,9 +203,13 @@
               科爾特斯(藍色)在本<nuxt-link to="/batt">戰役</nuxt-link
               >中不會出現，只會在地圖的東方有一頭狼代表他們陣營。當所有敵人都被擊敗時科爾特斯就會乘著船從北方出現，而阿茲特克人則誤以為他是羽蛇神。然後玩家跟科爾特斯會一同獲得勝利儘管不是同盟。
             </li>
+
+          </ul>
+                    <h3>決定版變更點</h3>
+          <div class="hrn1"></div>
+          <ul>
             <li>
-              注意：玩家沒有必要只帶10名豹勇士去隱藏的神廟;可以盡可能多帶，因為他們都會得到+400
-              HP。
+              人口上限由75改為100。
             </li>
           </ul>
           <h3>細節</h3>
@@ -309,7 +315,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link>
+              <nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link>
             </td>
           </tr>
         </table>
