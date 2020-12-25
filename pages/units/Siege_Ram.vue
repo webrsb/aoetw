@@ -124,7 +124,10 @@
               >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
-              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、立陶宛。
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >。
             </div>
           </div>
         </div>
