@@ -245,7 +245,7 @@
               >在幾年後就被殺害。
             </li>
             <li>
-              這個戰役使用跟"悲傷之夜"同樣的地圖，呈現了特諾奇提特蘭和周圍的雨林
+              這個戰役使用跟"悲痛之夜"同樣的地圖，呈現了特諾奇提特蘭和周圍的雨林
             </li>
             <li>
               儘管使用了相同地圖，所有玩家的開始位子都交換過。同樣的特諾奇提特蘭周圍的樹木位置也有變更過。
@@ -329,7 +329,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link>
+              <nuxt-link to="/batt/The_Boiling_Lake">沸騰之湖</nuxt-link>
             </td>
           </tr>
           <tr>

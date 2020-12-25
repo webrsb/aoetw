@@ -597,7 +597,7 @@
             <td class="tunitc6">狼</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Crucible">統一各部</nuxt-link
-              ><br /><nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
+              ><br /><nuxt-link to="/batt/La_Noche_Triste">悲痛之夜</nuxt-link
               ><br /><nuxt-link to="/batt/Vindlandsaga_1000"
                 >芬特蘭撒格(1000)</nuxt-link
               >

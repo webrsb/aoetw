@@ -671,14 +671,14 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link>
+                    <nuxt-link to="/batt/La_Noche_Triste">悲痛之夜</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link>
+                    <nuxt-link to="/batt/The_Boiling_Lake">沸騰之湖</nuxt-link>
                   </div>
                 </td>
               </tr>

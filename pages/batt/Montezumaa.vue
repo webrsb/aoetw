@@ -52,11 +52,11 @@
                   >&nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
+                  <nuxt-link to="/batt/La_Noche_Triste">悲痛之夜</nuxt-link
                   >&nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link
+                  <nuxt-link to="/batt/The_Boiling_Lake">沸騰之湖</nuxt-link
                   >&nbsp;&nbsp;
                 </li>
                 <li>
@@ -88,13 +88,13 @@
                       </li>
                       <li>“Cortéz”的拼寫是錯誤的。應該拼成“Cortés”。</li>
                       <li>
-                        雖然遊戲中蒙提祖馬是在戰役"悲傷之夜"期間遇害，但實際上他的死亡是在該事件發生之前。
+                        雖然遊戲中蒙提祖馬是在戰役"悲痛之夜"期間遇害，但實際上他的死亡是在該事件發生之前。
                       </li>
                       <li>
                         庫奧赫特莫克不是蒙提祖馬二世的直接接班人。是先由他的兄弟奎特拉瓦克繼承，但之後他只上任八十天就因為天花死亡。庫奧赫特莫克才繼承了王位。
                       </li>
                       <li>
-                        實際上在戰役"悲傷之夜"之後阿茲特克人其實在戰鬥中輸了。
+                        實際上在戰役"悲痛之夜"之後阿茲特克人其實在戰鬥中輸了。
                       </li>
                     </ul>
                   </li>
