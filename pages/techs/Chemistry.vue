@@ -13,13 +13,15 @@
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發。研發後可生產<nuxt-link to="/units/Gunpowder_Unit"></nuxt-link
             ><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-            >（除了<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
-              to="/civs/Aztecs"
-              >阿茲特克</nuxt-link
-            >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>與<nuxt-link
-              to="/civs/Incas"
-              >印加</nuxt-link
-            >外）。<nuxt-link to="/units/Siege_Weapons"></nuxt-link
+            >（除了<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
+              to="/civs/Cumans"
+              >庫曼</nuxt-link
+            >、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+              to="/civs/Mayans"
+              >馬雅</nuxt-link
+            >與<nuxt-link to="/civs/Incas">印加</nuxt-link>外）。<nuxt-link
+              to="/units/Siege_Weapons"
+            ></nuxt-link
             ><nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >、<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
             >和防禦建築(如<nuxt-link to="/building/Castle">城堡</nuxt-link
