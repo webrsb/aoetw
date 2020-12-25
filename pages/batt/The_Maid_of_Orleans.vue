@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>奧爾良的少女</h1>
+        <h1>奧爾良少女</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>奧爾良的少女</b>是在<nuxt-link to="/batt/Joan_of_Arc"
+            <b>奧爾良少女</b>是在<nuxt-link to="/batt/Joan_of_Arc"
               >貞德戰役</nuxt-link
             >第二個劇情關卡，這是貞德帶領<nuxt-link to="/civs/Franks"
               >法國</nuxt-link
@@ -33,7 +33,7 @@
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">無</td>
               <td class="tc1" width="15%">人口上限：</td>
-              <td class="tc2" width="5%">75</td>
+              <td class="tc2" width="5%">125</td>
             </tr>
           </table>
 
@@ -69,14 +69,14 @@
                 <div class="p5"></div>
                 玩家5
               </td>
-              <td class="tc6" width="38%">布諾（藍綠色）法蘭克</td>
+              <td class="tc6" width="38%">布盧瓦（藍綠色）法蘭克</td>
             </tr>
             <tr>
               <td class="tc6" width="12%">
                 <div class="p4"></div>
                 玩家6
               </td>
-              <td class="tc6" width="38%">齊儂（黃色）法蘭克</td>
+              <td class="tc6" width="38%">希農（黃色）法蘭克</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -93,15 +93,15 @@
                 玩家3
               </td>
               <td class="tc6">
-                北<nuxt-link to="/civs/Britons">不列顛</nuxt-link>（紅色）不列顛
+                北英格蘭（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="tc6">
                 <div class="p8"></div>
-                玩家6
+                玩家7
               </td>
-              <td class="tc6">南不列顛（橘色）不列顛</td>
+              <td class="tc6">南英格蘭（橘色）不列顛</td>
             </tr>
           </table>
 
@@ -166,7 +166,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>送貞德到布諾以便她可以指揮法國的軍隊。</li>
+              <li>送貞德到布盧瓦以便她可以指揮法國的軍隊。</li>
               <li>運送六車的補給品到奧爾良城去。</li>
               <li>
                 只要毀掉一、兩座<nuxt-link to="/civs/Britons">英國</nuxt-link
@@ -182,7 +182,7 @@
         <div class="n1">
           <ul>
             <li>
-              在英國軍隊對我們造成更大傷亡之前，盡快趕到奧爾良去。但要特別注意駐在河的南邊的英國軍隊，同時別忘了和你的軍隊在布諾會合。
+              在英國軍隊對我們造成更大傷亡之前，盡快趕到奧爾良去。但要特別注意駐在河的南邊的英國軍隊，同時別忘了和你的軍隊在布盧瓦會合。
             </li>
             <li>
               一旦補給品送達奧爾良，你就可以建立你自己的軍力，法國<nuxt-link
@@ -218,13 +218,20 @@
             <li>因為奧爾良城預設玩家為大地之母。</li>
           </ul>
         </div>
+        <h3>決定版變更點</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>人口上限由75改為125。</li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                奧爾良的少女
+                奧爾良少女
               </div>
             </td>
           </tr>
@@ -274,16 +281,14 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >一個不大可能的彌賽亞</nuxt-link
-              >
+              <nuxt-link to="/batt/An_Unlikely_Messiah">橫空出世</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                >羅亞爾河大掃蕩</nuxt-link
+                >掃蕩羅亞爾</nuxt-link
               >
             </td>
           </tr>

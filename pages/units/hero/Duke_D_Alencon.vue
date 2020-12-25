@@ -12,7 +12,7 @@
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
-            >"奧爾良的少女"和戰役編輯器中找到。現實中他是阿朗鬆的約翰二世:在百年戰爭後期的一位<nuxt-link
+            >"奧爾良少女"和戰役編輯器中找到。現實中他是阿朗鬆的約翰二世:在百年戰爭後期的一位<nuxt-link
               to="/civs/Franks"
               >法國</nuxt-link
             >公爵和將軍。他是<nuxt-link to="/units/hero/Joan_of_Arc_Champion"
@@ -55,7 +55,7 @@
               /></gallery>
               <p>
                 <em
-                  >阿朗松公爵(左上)一開始在戰役"奧爾良的少女"和貞德的軍隊匯合。</em
+                  >阿朗松公爵(左上)一開始在戰役"奧爾良少女"和貞德的軍隊匯合。</em
                 >
               </p>
             </div>

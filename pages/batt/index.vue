@@ -212,7 +212,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/An_Unlikely_Messiah"
-                      >一個不大可能的彌賽亞</nuxt-link
+                      >橫空出世</nuxt-link
                     >
                   </div>
                 </td>
@@ -221,7 +221,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/The_Maid_of_Orleans"
-                      >奧爾良的少女</nuxt-link
+                      >奧爾良少女</nuxt-link
                     >
                   </div>
                 </td>

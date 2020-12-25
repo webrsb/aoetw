@@ -12,7 +12,7 @@
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，可以在貞德第一<nuxt-link to="/batt">戰役</nuxt-link
-            >"一個不大可能的彌賽亞"和戰役編輯器中找到。在之後的戰役貞德騎上了馬成為一個<nuxt-link
+            >"橫空出世"和戰役編輯器中找到。在之後的戰役貞德騎上了馬成為一個<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
             >。由於農家女貞德屬於<nuxt-link to="/units/hero">英雄</nuxt-link
@@ -49,7 +49,7 @@
               /></gallery>
               <p>
                 <em
-                  >在"一個不大可能的彌賽亞"一開始貞德(中)要被軍隊護送到支農。</em
+                  >在"橫空出世"一開始貞德(中)要被軍隊護送到支農。</em
                 >
               </p>
             </div>

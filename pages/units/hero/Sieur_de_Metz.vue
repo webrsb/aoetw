@@ -19,7 +19,7 @@
               to="/batt/Joan_of_Arc"
               >聖女貞德戰役</nuxt-link
             >“<nuxt-link to="/batt/An_Unlikely_Messiah"
-              >一個不大可能的彌賽亞</nuxt-link
+              >橫空出世</nuxt-link
             >”的場景中。梅茲爵士有<nuxt-link to="/units/Knight">騎士</nuxt-link
             >的外貌但有更好的戰鬥力。由於他屬於<nuxt-link to="/units/hero"
               >英雄</nuxt-link

@@ -35,7 +35,7 @@
           </p>
           <p>
             在第一關戰役（<nuxt-link to="/batt/An_Unlikely_Messiah"
-              >一個不大可能的彌賽亞</nuxt-link
+              >橫空出世</nuxt-link
             >），她會出現她從軍前的樣式，例如<nuxt-link
               to="/units/hero/Joan_the_Maid"
               >農家女貞德</nuxt-link
@@ -64,12 +64,12 @@
               <ol>
                 <li>
                   <nuxt-link to="/batt/An_Unlikely_Messiah"
-                    >一個不大可能的彌賽亞</nuxt-link
+                    >橫空出世</nuxt-link
                   >
                 </li>
                 <li>
                   <nuxt-link to="/batt/The_Maid_of_Orleans"
-                    >奧爾良的少女</nuxt-link
+                    >奧爾良少女</nuxt-link
                   >
                 </li>
                 <li>
