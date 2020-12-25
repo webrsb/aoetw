@@ -6,56 +6,60 @@
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
-       <div class="row">
+        <div class="row">
           <div class="col-md-12">
             <div class="row">
-             <div class="col-md-8">
-          <p>
-            <b>神聖思想</b>(2013版稱<b>信仰救贖</b>)於<nuxt-link
-              to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>
-            研發後可讓<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
-              to="/units/Missionary"
-              >傳教士</nuxt-link
-            ><nuxt-link to="/elements/Conversion">招降</nuxt-link
-            ><nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
-            >和大部分的敵方單位。
-          </p>
-          <p>
-            所有<nuxt-link to="/building">建築物</nuxt-link>包含<nuxt-link
-              to="/units/Trebuchet"
-              >巨型投石機</nuxt-link
-            >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >都不能從遠處直接招降，<nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
-            >必須站在他們身邊才能進行招降，其他<nuxt-link
-              to="/units/Siege_Weapons"
-              >攻城武器</nuxt-link
-            >(<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
-              to="/units/Mangonel"
-              >投石車</nuxt-link
-            >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
-            >)皆可從遠處直接招降。配上此<nuxt-link to="/techs">科技</nuxt-link
-            >後，僧侶搭配<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
-            >將顯得相當難纏，因為僧侶可以處理<nuxt-link to="/units/Crossbowman"
-              >弩兵</nuxt-link
-            >懼怕的<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-            >，唯獨需先研發<nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link
-            >增加血量，以免被投石車一發打死。
-          </p>
-        </div>
+              <div class="col-md-8">
+                <p>
+                  <b>神聖思想</b>(2013版稱<b>信仰救贖</b>)於<nuxt-link
+                    to="/techs/age/Castle_Age"
+                    >城堡時代</nuxt-link
+                  >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>
+                  研發後可讓<nuxt-link to="/units/Monk">僧侶</nuxt-link
+                  >和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+                  ><nuxt-link to="/elements/Conversion">招降</nuxt-link
+                  ><nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
+                  >和大部分的敵方單位。
+                </p>
+                <p>
+                  所有<nuxt-link to="/building">建築物</nuxt-link>包含<nuxt-link
+                    to="/units/Trebuchet"
+                    >巨型投石機</nuxt-link
+                  >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+                  >都不能從遠處直接招降，<nuxt-link to="/units/Monk"
+                    >僧侶</nuxt-link
+                  >和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+                  >必須站在他們身邊才能進行招降，其他<nuxt-link
+                    to="/units/Siege_Weapons"
+                    >攻城武器</nuxt-link
+                  >(<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
+                    to="/units/Mangonel"
+                    >投石車</nuxt-link
+                  >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+                  >)皆可從遠處直接招降。配上此<nuxt-link to="/techs"
+                    >科技</nuxt-link
+                  >後，僧侶搭配<nuxt-link to="/units/Crossbowman"
+                    >弩兵</nuxt-link
+                  >將顯得相當難纏，因為僧侶可以處理<nuxt-link
+                    to="/units/Crossbowman"
+                    >弩兵</nuxt-link
+                  >懼怕的<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+                  >，唯獨需先研發<nuxt-link to="/techs/Sanctity"
+                    >聖潔虔誠</nuxt-link
+                  >增加血量，以免被投石車一發打死。
+                </p>
+              </div>
               <div class="col-md-4">
-            <gallery
-              ><img class="" src="~assets/Redemption_anim_aoe2de.gif" alt=""
-            /></gallery>
+                <gallery
+                  ><img class="" src="~assets/Redemption_anim_aoe2de.gif" alt=""
+                /></gallery>
                 <div class="lightbox-caption" style="width:200px">
                   <p><em>一群僧侶正在招降箭塔。</em></p>
+                </div>
+              </div>
+            </div>
           </div>
-          </div>
-          </div>
-          </div>
-          </div>
+        </div>
         <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
         <div class="row">
@@ -67,25 +71,25 @@
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
-<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
-<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-<nuxt-link to="/civs/Incas">印加</nuxt-link>、
-<nuxt-link to="/civs/Indians">印度</nuxt-link>、
-<nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-<nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
-<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
-<nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-<nuxt-link to="/civs/Malians">馬利</nuxt-link>、
-<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
-<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
-<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
-<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
             </div>
           </div>
         </div>
@@ -98,22 +102,22 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
-<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
-<nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
-<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-<nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-<nuxt-link to="/civs/Huns">匈人</nuxt-link>、
-<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
-<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-<nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
-<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-<nuxt-link to="/civs/Viking">維京</nuxt-link>。
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Viking">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -179,7 +183,8 @@
               >、<nuxt-link to="/building/Gate">城門</nuxt-link>、<nuxt-link
                 to="/building/Fortified_Wall"
                 >垛牆</nuxt-link
-              >、<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>、堡壘。
+              >、<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >、<nuxt-link to="/maps/Fortress">堡壘</nuxt-link>。
             </div>
           </div>
         </div>
