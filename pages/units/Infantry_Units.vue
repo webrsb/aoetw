@@ -52,15 +52,15 @@
                 >槍兵類</nuxt-link
               >是唯一的例外，他需要食物與<nuxt-link to="/resource/Wood"
                 >木材</nuxt-link
-              >。雖然大部分的步兵懼怕<nuxt-link to="/units/Archer_Units"
+              >。馬來則是研發強制徵兵後訓練民兵系只需要食物。雖然大部分的步兵懼怕<nuxt-link to="/units/Archer_Units"
                 >弓兵單位</nuxt-link
               >與<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:<nuxt-link
                 to="/units/Archer"
                 >弓箭手</nuxt-link
-              >通常可以配合<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-              >，而<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >則是搭配<nuxt-link to="/units/Spearman">槍兵</nuxt-link>。
+              >通常可以用<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >反制，而<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >則是以<nuxt-link to="/units/Spearman">槍兵</nuxt-link>克制。
             </li>
             <li>
               由於速度很慢又是近戰，步兵很怕<nuxt-link to="/units/Monk"
@@ -86,18 +86,18 @@
             許多<nuxt-link to="/civs">文明</nuxt-link>依賴強大的步兵，<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克人</nuxt-link
-            >，<nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>，<nuxt-link
+            >、<nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>，<nuxt-link
               to="/civs/Japanese"
               >日本人</nuxt-link
-            >，<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>和<nuxt-link
+            >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>和<nuxt-link
               to="/civs/Vikings"
               >維京人</nuxt-link
-            >可以說是所有文明中最強大的步兵。<nuxt-link to="/civs/Celts"
+            >可以說是所有文明中最強大的步兵。保加利亞、<nuxt-link to="/civs/Celts"
               >塞爾特</nuxt-link
-            >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+            >、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>與<nuxt-link
+            >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、馬來與<nuxt-link
               to="/civs/Teutons"
               >條頓</nuxt-link
             >也是優秀的<nuxt-link to="/units/Infantry_Units">步兵文明</nuxt-link
@@ -111,11 +111,17 @@
           <p>以下列出步兵有加成的文明</p>
           <ul>
             <li>
+              阿茲特克:步兵訓練速度快18%。
+            </li>
+            <li>
+              保加利亞:民兵系的升級成本免費。
+            </li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >:步兵單位在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
-              >各有+1/+2/+3的攻擊。
+              >各有+1/+2/+3的攻擊。影響步兵的修道院科技研發速度快50%
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>:<nuxt-link
@@ -124,7 +130,10 @@
               >便宜25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:步兵移動快25%。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:步兵移動快15%。
+            </li>
+            <li>
+              中國:任何影響步兵的科技在封建/城堡/帝王成本便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>:<nuxt-link
@@ -132,12 +141,10 @@
                 >槍兵</nuxt-link
               >系免費升級。
             </li>
+            
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:步兵便宜35%，步兵對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link
-              >有+1攻擊。
+              >:步兵成本從黑暗/封建/城堡/帝王便宜20%/25%/30%/35%，步兵在封建/城堡/帝王對標準建築獲得+1/+2/+3攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>:從<nuxt-link
@@ -145,7 +152,13 @@
                 >封建時代</nuxt-link
               >開始，步兵<nuxt-link to="/elements/Rate_of_Fire"
                 >攻擊速度</nuxt-link
-              >快25%。
+              >快33%。
+            </li>
+            <li>
+              朝鮮:槍兵木材成本少15%
+            </li>
+            <li>
+              立陶宛:槍兵系移動速度快10%
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
@@ -156,10 +169,25 @@
               >各有+1/+2/+3的<nuxt-link to="/armor">遠防</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >是免費的。
+              馬札爾:免費獲得鍛造技術、鑄鐵技術和鼓風爐
+            </li>
+            <li>
+              葡萄牙:步兵單位黃金成本少15%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:免費獲得供給。
+            </li>
+            <li>
+              西班牙:兵工廠科技研發不用金
+            </li>
+            <li>
+              韃靼:步兵從高處攻擊傷害+25%
+            </li>
+            <li>
+              條頓:軍營從城堡/帝王時代獲得+1/+2近戰護甲
+            </li>
+            <li>
+              越南:免費獲得徵兵技術
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:步兵在<nuxt-link
@@ -176,10 +204,12 @@
         <div class="n1">
           <p>
             以下列出步兵的<nuxt-link to="/elements/Team_Bonus"
-              >團隊加分</nuxt-link
-            >
+              >團隊加分</nuxt-link>
           </p>
           <ul>
+            <li>
+              保加利亞:影響步兵的兵工廠科技研發快50%
+            </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:軍營工作效率快20%
             </li>
@@ -188,6 +218,12 @@
                 to="/units/Condottiero"
                 >傭兵</nuxt-link
               >可在軍營訓練
+            </li>
+            <li>
+              立陶宛:影響步兵的修道院科技研發快50%
+            </li>
+            <li>
+              條頓:步兵更能對抗招降
             </li>
           </ul>
         </div>
