@@ -109,7 +109,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                聖女貞德4-<nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
+                聖女貞德4-<nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link>
               </td>
               <td class="tta2">
                 <span

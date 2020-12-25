@@ -43,8 +43,7 @@
               玩家2
             </td>
             <td class="tc8">
-              特華（橙色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >
+              特華（橙色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
             </td>
             <td class="tc6">
               <div class="p3"></div>
@@ -223,9 +222,7 @@
       <ol>
         <li>西進以支援法國城鎮。要小心注意沿途的兩旁，貞德必須活著。</li>
         <li>
-          破壞特華的<nuxt-link to="/building/Town_Center"
-            >城鎮中心</nuxt-link
-          >。
+          破壞特華的<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>。
         </li>
         <li>破壞沙隆的城鎮中心。</li>
         <li>破壞漢斯的城鎮中心。</li>
@@ -407,13 +404,15 @@
             <p><em>為了勝利攻破城牆破壞城鎮中心！</em></p>
           </div>
         </div>
-              <h2>決定版變更點</h2>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <ul>
-          <li>
-            人口上限由75改125，敵方城鎮中心被打敗後會改同盟並重建城鎮中心，但不會出兵。</li>
-        </ul></div>
+        <h2>決定版變更點</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              人口上限由75改125，敵方城鎮中心被打敗後會改同盟並重建城鎮中心，但不會出兵。
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
