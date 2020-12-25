@@ -9,32 +9,39 @@
         <div class="row">
           <div class="col-md-12">
             <div class="row">
-             <div class="col-md-8">
-          <p>
-            <b>長槍兵</b>是<nuxt-link to="/units/Infantry_Units"
-              >步兵單位</nuxt-link
-            >，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
-            >可以從<nuxt-link to="/building/Barracks">軍營</nuxt-link
-            >生產。華人圈喜歡稱長槍兵為「XX(音同叉叉)」、斗笠、搓搓。初期是防禦敵人<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-            >的優秀兵種。
-          </p>
-          <p>
-            長槍兵是專門克制騎馬的單位(<nuxt-link to="/units/Cataphract"
-              >拜占庭聖騎兵</nuxt-link
-            >例外);但長槍兵被<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
-            >、<nuxt-link to="/units/Archer">弓箭手</nuxt-link>、<nuxt-link
-              to="/units/Infantry_Units">步兵</nuxt-link>克制。
-          </p>
-               </div>
-               <div class="col-md-4">
-            <gallery
-              ><img class="" src="~assets/SpearmenAttackKnightAnim.gif" alt=""
-            /></gallery>
-            <p><em>攻擊敵方騎士的長槍兵</em></p>
-          </div>
+              <div class="col-md-8">
+                <p>
+                  <b>長槍兵</b>是<nuxt-link to="/units/Infantry_Units"
+                    >步兵單位</nuxt-link
+                  >，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+                  >可以從<nuxt-link to="/building/Barracks">軍營</nuxt-link
+                  >生產。華人圈喜歡稱長槍兵為「XX(音同叉叉)」、斗笠、搓搓。初期是防禦敵人<nuxt-link
+                    to="/units/Scout_Cavalry"
+                    >斥候</nuxt-link
+                  >的優秀兵種。
+                </p>
+                <p>
+                  長槍兵是專門克制騎馬的單位(<nuxt-link to="/units/Cataphract"
+                    >拜占庭聖騎兵</nuxt-link
+                  >例外);但長槍兵被<nuxt-link to="/units/Scorpion"
+                    >弩砲</nuxt-link
+                  >、<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+                  >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+                  >克制。
+                </p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class=""
+                    src="~assets/SpearmenAttackKnightAnim.gif"
+                    alt=""
+                /></gallery>
+                <p><em>攻擊敵方騎士的長槍兵</em></p>
+              </div>
             </div>
-        </div>
           </div>
+        </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -416,18 +423,19 @@
                     >
                   </li>
                   <li>
-                <img
-                  class="gg"
-                  src="~assets/GenitourIcon.png"
-                  alt=""
-                /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>→
-                <img
-                  class="gg"
-                  src="~assets/GenitourIcon.png"
-                  alt=""
-                />精銳<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
-                >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>及其同盟限定)
-              </li>
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.png"
+                      alt=""
+                    />精銳<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+                    >及其同盟限定)
+                  </li>
                   <li>
                     <img
                       class="gg"
@@ -489,57 +497,54 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
-            <ul>
-              <li>
-                <img
-                  class="gg"
-                  src="~assets/HandCannoneerIcon.png"
-                  alt=""
-                /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
-              </li>
-              <li>
-                <img
-                  class="gg"
-                  src="~assets/Slingericon.png"
-                  alt=""
-                /><nuxt-link to="/units/Slinger">投石手</nuxt-link> (<nuxt-link
-                  to="/civs/Incas"
-                  >印加</nuxt-link
-                >限定)
-              </li>
-              <li>
-                <img
-                  class="gg"
-                  src="~assets/MangudaiIcon.png"
-                  width="22"
-                  alt=""
-                /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
-                <img
-                  class="gg"
-                  src="~assets/MangudaiIcon.png"
-                  width="22"
-                  alt=""
-                /><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
-                >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
-              </li>
-              <li>
-                <img
-                  class="gg"
-                  src="~assets/Kipchakicon.png"
-                  alt=""
-                /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>→
-                <img
-                  class="gg"
-                  src="~assets/Kipchakicon.png"
-                  alt=""
-                />精銳<nuxt-link to="/units/Kipchak">欽察</nuxt-link>(<nuxt-link
-                  to="/civs/Cumans"
-                  >庫曼</nuxt-link
-                >及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
-                  >庫曼傭兵</nuxt-link
-                >後同盟限定)
-              </li>
-            </ul>
+                <ul>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/HandCannoneerIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Slingericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Slinger">投石手</nuxt-link>
+                    (<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/MangudaiIcon.png"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/MangudaiIcon.png"
+                      width="22"
+                      alt=""
+                    /><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
+                    >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Kipchakicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/Kipchakicon.png"
+                      alt=""
+                    />精銳<nuxt-link to="/units/Kipchak">欽察</nuxt-link
+                    >(<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+                    >及其當庫曼研發<nuxt-link to="/civs/Cuman_Mercenaries"
+                      >庫曼傭兵</nuxt-link
+                    >後同盟限定)
+                  </li>
+                </ul>
               </div>
             </div>
           </div>
@@ -651,7 +656,8 @@
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：有利於長槍兵的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link>/帝王時代便宜10％/15％/20％。
+                >城堡</nuxt-link
+              >/帝王時代便宜10％/15％/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
@@ -664,14 +670,18 @@
                 >標準建築</nuxt-link
               >攻擊+1/+2/+3。研發<nuxt-link to="/techs/Perfusion"
                 >井噴</nuxt-link
-              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>和升級重裝長槍兵的速度快100%。
+              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >和升級重裝長槍兵的速度快100%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：長槍兵<nuxt-link
-                to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>快33％。
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：長槍兵移動速度加快10％。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：長槍兵移動速度加快10％。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -693,7 +703,8 @@
               >升級不須<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：長槍兵在高處攻擊的傷害+50%。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：長槍兵在高處攻擊的傷害+50%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -701,7 +712,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
-                to="/techs/Conscription">徵兵技術</nuxt-link>。
+                to="/techs/Conscription"
+                >徵兵技術</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
@@ -726,17 +739,21 @@
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：長槍兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
+              >：長槍兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires"
+                >護衛技術</nuxt-link
+              >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：長槍兵更不容易被招降。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：研發忠誠信仰和異端邪說的速度快20%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：研發忠誠信仰和異端邪說的速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：兵工廠科技研發速度快50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠科技研發速度快50%。
             </li>
           </ul>
         </div>
@@ -763,7 +780,9 @@
               >與<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
               >護甲的單位有+7攻擊。
             </li>
-            <li><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>:引入榮冠戰爭。</li>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>:引入榮冠戰爭。
+            </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >:1.0c版後長槍兵在任何時代都便宜35%。引入<nuxt-link
@@ -826,7 +845,9 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>(36202更新)：
               在封建/城堡/帝王時代，長槍兵的成本減免改為25%/30%/35%，且對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building">標準建築</nuxt-link>攻擊+1/+2/+3。
+                to="/armor/Armor_Class_Standard_Building"
+                >標準建築</nuxt-link
+              >攻擊+1/+2/+3。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
@@ -834,8 +855,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
-              >：36906更新後<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>給予長槍兵額外+2遠程護甲。
-            </li>            
+              >：36906更新後<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link
+              >給予長槍兵額外+2遠程護甲。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -873,7 +895,10 @@
         <div class="row">
           <div class="col-md-4">
             <gallery
-              ><img class="imgn hg" src="~assets/Spearman_lineup_aoe2de.png" alt=""
+              ><img
+                class="imgn hg"
+                src="~assets/Spearman_lineup_aoe2de.png"
+                alt=""
             /></gallery>
             <p><em>長槍兵類列</em></p>
           </div>
@@ -979,19 +1004,26 @@
             <td class="unit4">
               +15 vs<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               ><br />+15 vs<nuxt-link to="/armor/Armor_Class_War_Elephant"
-                >戰象類</nuxt-link>
+                >戰象類</nuxt-link
+              >
               <br />+12 vs<nuxt-link to="/armor/Armor_Class_Camel"
-                >駱駝騎兵</nuxt-link>
+                >駱駝騎兵</nuxt-link
+              >
               <br />+9 vs<nuxt-link to="/armor/Armor_Class_Ship"
-                >船隻</nuxt-link>
+                >船隻</nuxt-link
+              >
               <br />+9 vs<nuxt-link to="/armor/Armor_Class_Fishing_Ship"
-                >漁船</nuxt-link>
+                >漁船</nuxt-link
+              >
               <br />+4 vs<nuxt-link to="/armor/Armor_Class_Mameluke"
-                >奴隸兵</nuxt-link>
+                >奴隸兵</nuxt-link
+              >
               <br />+1 vs<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
-                >鷹斥候</nuxt-link>
+                >鷹斥候</nuxt-link
+              >
               <br />+1 vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link>
+                >標準建築</nuxt-link
+              >
             </td>
           </tr>
           <tr>
