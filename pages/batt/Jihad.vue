@@ -209,7 +209,7 @@
             <td class="unit3">上一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                >耶路撒冷攻城戰</nuxt-link
+                >兵臨聖城</nuxt-link
               >
             </td>
           </tr>

@@ -8,8 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>哈丁角</b>為<nuxt-link to="/batt/Saladina"
-              >薩拉丁戰役</nuxt-link
+            <b>哈丁角</b>為<nuxt-link to="/batt/Saladina">薩拉丁戰役</nuxt-link
             >的第三關劇情關卡，此關為第三次十字軍東征哈丁<nuxt-link to="/batt"
               >戰役</nuxt-link
             >（今哈丁角，太巴列，巴勒斯坦）的原型，十字軍作戰攜帶的聖物真十字架落入穆斯林手裡，嚴重打擊十字軍軍隊的士氣。
@@ -63,10 +62,8 @@
                 玩家2
               </td>
               <td class="tc6">
-                <nuxt-link to="/civs/Britons">英格蘭</nuxt-link>（紅色）<nuxt-link
-                  to="/civs/Britons"
-                  >不列顛</nuxt-link
-                >
+                <nuxt-link to="/civs/Britons">英格蘭</nuxt-link
+                >（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p1"></div>
@@ -82,8 +79,7 @@
                 玩家4
               </td>
               <td class="tc6" width="38%">
-                聖殿<nuxt-link to="/units/Knight">騎士</nuxt-link
-                >團（黃色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+                聖殿騎士團（黃色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p8"></div>
@@ -139,7 +135,7 @@
             </li>
           </ul>
         </div>
-               <h2>攻略</h2>
+        <h2>攻略</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -147,16 +143,19 @@
               由於是一打四，開場就要快攻英格蘭減少敵人數，南方也要訓練長槍兵，大約七分鐘夏提永的雷諾就會殺進來。
             </li>
             <li>
-              再來就是訓練軍隊和衝車突破兩個騎士團的防守，讓僧侶把遺蹟運回指定地點。
+              再來就是訓練軍隊和<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >突破兩個騎士團的防守，讓僧侶把遺蹟運回指定地點。
             </li>
           </ul>
         </div>
-               <h2>決定版變更點</h2>
+        <h2>決定版變更點</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
-              耶路撒冷的種族由拜占庭改成法蘭克。
+              耶路撒冷的種族由<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >改成法蘭克。
             </li>
           </ul>
         </div>
@@ -222,9 +221,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                >兵臨聖城</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Siege_of_Jerusalem">兵臨聖城</nuxt-link>
             </td>
           </tr>
         </table>

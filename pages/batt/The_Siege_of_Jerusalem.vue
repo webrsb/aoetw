@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>耶路撒冷攻城戰</h1>
+        <h1>兵臨聖城</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>耶路撒冷攻城戰</b>為<nuxt-link to="/batt/Saladina"
+            <b>兵臨聖城</b>為<nuxt-link to="/batt/Saladina"
               >薩拉丁戰役</nuxt-link
             >的第四關劇情關卡，此關為1187年耶路撒冷圍城的原型，也象徵著耶路撒冷王國的結束，此<nuxt-link
               to="/batt"
@@ -150,7 +150,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                耶路撒冷攻城戰
+                兵臨聖城
               </div>
             </td>
           </tr>
@@ -215,7 +215,7 @@
             <img src="~assets/HIW-logo.png" width="100" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            知識大圖解上的耶路撒冷攻城戰
+            知識大圖解上的兵臨聖城
             <div style="margin-left: 10px;">
               <em
                 ><strong

@@ -79,7 +79,7 @@
             </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                >耶路撒冷攻城戰</nuxt-link
+                >兵臨聖城</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Lion_and_the_Demon"
                 >獅子與惡魔</nuxt-link
@@ -558,7 +558,7 @@
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                >耶路撒冷攻城戰</nuxt-link
+                >兵臨聖城</nuxt-link
               >
             </td>
           </tr>

@@ -64,7 +64,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                    >耶路撒冷攻城戰</nuxt-link
+                    >兵臨聖城</nuxt-link
                   >
                 </li>
                 <li><nuxt-link to="/batt/Jihad">聖戰</nuxt-link></li>
