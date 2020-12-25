@@ -29,7 +29,7 @@
           </p>
           <p>
             在<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
-            >的<nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
+            >的<nuxt-link to="/batt/La_Noche_Triste">悲痛之夜</nuxt-link
             >這一關中，雖然沒有講明，但暗示了登場的那隻強化版<nuxt-link
               to="/units/Jaguar_Warrior"
               >豹勇士</nuxt-link

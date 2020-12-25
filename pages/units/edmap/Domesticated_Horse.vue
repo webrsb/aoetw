@@ -16,7 +16,7 @@
             >》中有三個重要的出場<nuxt-link to="/batt">戰役</nuxt-link
             >，分別是<nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link
             >的<nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link
-            >和<nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link
+            >和<nuxt-link to="/batt/The_Boiling_Lake">沸騰之湖</nuxt-link
             >，以及<nuxt-link to="/units/hero/Attila_the_Hun">阿提拉</nuxt-link
             >的<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>。
           </p>

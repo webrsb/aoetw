@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>沸騰的湖</h1>
+        <h1>沸騰之湖</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>沸騰的湖</b>是《<nuxt-link to="/games/aoc"
+            <b>沸騰之湖</b>是《<nuxt-link to="/games/aoc"
               >世紀帝國II：征服者入侵</nuxt-link
             >》<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
             >的第五個場景。該<nuxt-link to="/batt">戰役</nuxt-link
@@ -254,7 +254,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                沸騰的湖
+                沸騰之湖
               </div>
             </td>
           </tr>
@@ -311,7 +311,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link>
+              <nuxt-link to="/batt/La_Noche_Triste">悲痛之夜</nuxt-link>
             </td>
           </tr>
           <tr>

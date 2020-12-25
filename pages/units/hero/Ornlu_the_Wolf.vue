@@ -31,7 +31,7 @@
             </li>
             <li>
               在<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
-              >的第四個戰役"悲傷之夜"，灰狼歐魯出現在東北小島上，那裡有許多金礦和美洲虎。
+              >的第四個戰役"悲痛之夜"，灰狼歐魯出現在東北小島上，那裡有許多金礦和美洲虎。
             </li>
             <li>
               在<nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link

@@ -1012,7 +1012,7 @@
               登場戰役：熙德5-<nuxt-link to="/batt/King_of_Valencia"
                 >瓦倫西亞之主</nuxt-link
               >、蒙提祖馬4-<nuxt-link to="/batt/La_Noche_Triste"
-                >悲傷之夜</nuxt-link
+                >悲痛之夜</nuxt-link
               >、征服者的戰役-勒班陀（1571）
             </p>
             <br />

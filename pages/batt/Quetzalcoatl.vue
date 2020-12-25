@@ -296,7 +296,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link>
+              <nuxt-link to="/batt/La_Noche_Triste">悲痛之夜</nuxt-link>
             </td>
           </tr>
         </table>
