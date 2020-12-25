@@ -41,7 +41,7 @@
               >農家女貞德</nuxt-link
             >，在2-5的關為騎兵型態的貞德，在最後一個關卡，<nuxt-link
               to="/batt/A_Perfect_Martyr"
-              >完美的烈士</nuxt-link
+              >遺芳餘烈</nuxt-link
             >沒有出現(劇情中第5關後貞德被英軍俘虜)。她也可以在地圖編輯器中找到。為英雄單位，她不會被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
@@ -84,7 +84,7 @@
                   >
                 </li>
                 <li>
-                  <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
+                  <nuxt-link to="/batt/A_Perfect_Martyr">遺芳餘烈</nuxt-link>
                 </li>
               </ol>
             </div>

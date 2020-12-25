@@ -255,7 +255,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/A_Perfect_Martyr"
-                      >完美的烈士</nuxt-link
+                      >遺芳餘烈</nuxt-link
                     >
                   </div>
                 </td>

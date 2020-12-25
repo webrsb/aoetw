@@ -172,7 +172,7 @@
             <td class="tunitc4">騎兵</td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
+              <nuxt-link to="/batt/A_Perfect_Martyr">遺芳餘烈</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -334,7 +334,7 @@
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link
+              <nuxt-link to="/batt/A_Perfect_Martyr">遺芳餘烈</nuxt-link
               ><br /><nuxt-link to="/batt/The_Final_Fortress"
                 >撒克遜起義</nuxt-link
               >
@@ -398,7 +398,7 @@
               <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
+              <nuxt-link to="/batt/A_Perfect_Martyr">遺芳餘烈</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -513,7 +513,7 @@
                 >掃蕩羅亞爾</nuxt-link
               >
               <br /><nuxt-link to="/batt/A_Perfect_Martyr"
-                >完美的烈士</nuxt-link
+                >遺芳餘烈</nuxt-link
               >
             </td>
           </tr>
