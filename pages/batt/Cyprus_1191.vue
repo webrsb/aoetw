@@ -12,7 +12,7 @@
               >戰役</nuxt-link
             >，原本於失落的帝國推出。該<nuxt-link to="/batt">戰役</nuxt-link
             >描述<nuxt-link to="/units/hero/Richard_the_Lionheart"
-              >獅心王查理</nuxt-link
+              >獅心王理查</nuxt-link
             >在第三次十字軍東征之前佔領西西里島與賽普勒斯的事蹟。
           </p>
         </div>
@@ -100,7 +100,7 @@
               >火戰船</nuxt-link
             >X4、<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >X4（含<nuxt-link to="/units/hero/Richard_the_Lionheart"
-              >獅心王查理</nuxt-link
+              >獅心王理查</nuxt-link
             >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
             >X9、<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
             >X10、<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>X20）

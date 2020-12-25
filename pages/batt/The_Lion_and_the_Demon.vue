@@ -12,7 +12,7 @@
               >薩拉丁戰役</nuxt-link
             >的第六關劇情關卡，也是薩拉丁戰役的最後一關<nuxt-link to="/batt"
               >戰役</nuxt-link
-            >。玩家必須在阿卡城建立世界奇觀並抵擋十字軍的攻擊。實際上阿卡城並不存在。
+            >。玩家必須在阿卡城建立<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>並抵擋十字軍的攻擊。實際上阿卡城並不存在。
           </p>
         </div>
         <h2>玩家</h2>
@@ -214,7 +214,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>人口上限由75改100，耶路撒冷種族由拜占庭改成法蘭克，熱那亞種族由拜占庭改成義大利。</li>
+              <li>人口上限由75改100，耶路撒冷種族由<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>改成法蘭克，熱那亞種族由拜占庭改成<nuxt-link to="/civs/Italians">義大利</nuxt-link>。</li>
               <li>新增成就「進攻即是最好的防禦」：在蓋世界奇觀之前全滅敵人。</li>
             </ol>
           </div>        

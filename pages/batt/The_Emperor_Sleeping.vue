@@ -78,7 +78,7 @@
               </td>
               <td class="tc6" width="38%">
                 <nuxt-link to="/units/hero/Richard_the_Lionheart"
-                  >獅心王查理</nuxt-link
+                  >獅心王理查</nuxt-link
                 >（橘色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
             </tr>

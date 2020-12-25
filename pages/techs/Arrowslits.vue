@@ -161,7 +161,7 @@
           >與<a href="https://en.wikipedia.org/wiki/Framlingham_Castle"
             >弗拉姆林陵堡</a
           >、<nuxt-link to="/units/hero/Richard_the_Lionheart"
-            >獅心王查理</nuxt-link
+            >獅心王理查</nuxt-link
           >在<nuxt-link to="/civs/Franks">法國</nuxt-link>的<a
             href="https://en.wikipedia.org/wiki/Château_Gaillard"
             target="_blank"

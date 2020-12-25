@@ -215,7 +215,7 @@
                 <p>
                   <em
                     ><nuxt-link to="/units/hero/Richard_the_Lionheart"
-                      >獅心王查理</nuxt-link
+                      >獅心王理查</nuxt-link
                     >一世</em
                   >
                 </p>

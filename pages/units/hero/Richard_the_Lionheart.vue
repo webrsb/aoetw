@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>獅心王查理</h1>
+        <h1>獅心王理查</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>獅心王查理</strong>是《<nuxt-link to="/games/aok"
+            <strong>獅心王理查</strong>是《<nuxt-link to="/games/aok"
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
@@ -34,7 +34,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                獅心王查理
+                獅心王理查
               </div>
             </td>
           </tr>

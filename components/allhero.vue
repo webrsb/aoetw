@@ -75,7 +75,7 @@
                 >沙底隆的雷諾</nuxt-link
               >•
               <nuxt-link to="/units/hero/Richard_the_Lionheart"
-                >獅心王查理</nuxt-link
+                >獅心王理查</nuxt-link
               >• <nuxt-link to="/units/hero/Robin_Hood">羅賓漢</nuxt-link>•
               <nuxt-link to="/units/hero/Roland">羅蘭</nuxt-link>•
               <nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link>•
