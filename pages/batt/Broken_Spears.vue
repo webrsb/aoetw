@@ -10,7 +10,7 @@
           <p>
             <b>斷矛</b>是《<nuxt-link to="/games/aoc"
               >世紀帝國II：征服者入侵</nuxt-link
-            >》<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+            >》<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
             >的第六個場景。該<nuxt-link to="/batt">戰役</nuxt-link
             >玩家的敵人科爾特斯和特拉斯卡拉再度來犯，玩家必須守護特諾奇提特蘭。這次科爾特斯有兩個勢力，一個陸軍一個海軍。
           </p>
@@ -279,7 +279,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙特蘇馬六.png" alt="" />
+                <img src="~assets/蒙提祖馬六.png" alt="" />
               </div>
             </td>
           </tr>
@@ -297,7 +297,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
+              <nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link>
             </td>
           </tr>
           <tr>

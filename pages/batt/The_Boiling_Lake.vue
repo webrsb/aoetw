@@ -10,12 +10,12 @@
           <p>
             <b>沸騰的湖</b>是《<nuxt-link to="/games/aoc"
               >世紀帝國II：征服者入侵</nuxt-link
-            >》<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+            >》<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
             >的第五個場景。該<nuxt-link to="/batt">戰役</nuxt-link
             >重現了奧通巴之戰。
           </p>
           <p>
-            在該戰役中，蒙特蘇馬現在已經死了。<nuxt-link
+            在該戰役中，蒙提祖馬現在已經死了。<nuxt-link
               to="/units/hero/Cuauhtemoc"
               >庫奧赫特莫克</nuxt-link
             >現在是<nuxt-link to="/civs/Aztecs">阿茲特克人</nuxt-link
@@ -261,7 +261,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙特蘇馬五.png" alt="" />
+                <img src="~assets/蒙提祖馬五.png" alt="" />
               </div>
             </td>
           </tr>
@@ -279,7 +279,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
+              <nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link>
             </td>
           </tr>
           <tr>

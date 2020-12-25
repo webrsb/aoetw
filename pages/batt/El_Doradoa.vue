@@ -80,7 +80,7 @@
                 >團隊於2014年3月5日於3.3補丁新增的劇情戰役，原本預計為失落的帝國首發的5個官方戰役之一，但直到2014年補丁才完成。
               </li>
               <li>
-                此戰役於<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+                此戰役於<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
                 >後，第2篇同為美洲大陸為故事的戰役。
               </li>
             </ul>

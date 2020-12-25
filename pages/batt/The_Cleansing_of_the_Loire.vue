@@ -287,8 +287,8 @@
           </li>
           <li>
             與<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-            ><nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
-            >的<nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link
+            ><nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
+            >的<nuxt-link to="/batt/The_Triple_Alliance">三城同盟</nuxt-link
             >關卡和<nuxt-link to="/civs/Huns">匈人</nuxt-link
             ><nuxt-link to="/batt/Attila_the_Huna">阿提拉戰役</nuxt-link
             >的<nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link

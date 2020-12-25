@@ -10,7 +10,7 @@
           <p>
             <b>蛇鳥之神</b>是《<nuxt-link to="/games/aoc"
               >世紀帝國II：征服者入侵</nuxt-link
-            >》<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+            >》<nuxt-link to="/batt/Montezumaa">蒙提祖馬戰役</nuxt-link
             >的第三個場景。本<nuxt-link to="/batt">戰役</nuxt-link
             >是以羽蛇神的名字做命名，因為前一章科爾特斯在抵達之後被誤認為是羽蛇神的化身。
           </p>
@@ -144,7 +144,7 @@
             <ul>
               <li>
                 你的<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-                >回報:蒙特蘇馬(綠色)在南面一開始有一個堡壘，在地區中央有一大片懸崖，北部是你的盟友塔巴斯科(橙色)。西部是你敵人特拉斯卡拉(紅色)的城市。東部是西班牙人科爾特斯(藍色)，而他們的動機不明。
+                >回報:蒙提祖馬(綠色)在南面一開始有一個堡壘，在地區中央有一大片懸崖，北部是你的盟友塔巴斯科(橙色)。西部是你敵人特拉斯卡拉(紅色)的城市。東部是西班牙人科爾特斯(藍色)，而他們的動機不明。
               </li>
               <li>
                 塔巴斯科在地圖的北邊，他們座落在敵人之間，他們會在特定時間點被敵人擊敗，然後自殺身亡，只會留下一些不能訓練單位的建築物(例如:<nuxt-link
@@ -225,7 +225,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙特蘇馬三.png" alt="" />
+                <img src="~assets/蒙提祖馬三.png" alt="" />
               </div>
             </td>
           </tr>
@@ -243,7 +243,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
+              <nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -275,7 +275,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link>
+              <nuxt-link to="/batt/The_Triple_Alliance">三城同盟</nuxt-link>
             </td>
           </tr>
           <tr>

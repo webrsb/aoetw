@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>血統統治</b>是<nuxt-link to="/batt/Montezumaa"
+            <b>血統統治</b>(舊譯：血親統治)，是<nuxt-link to="/batt/Montezumaa"
               >蒙提祖馬戰役</nuxt-link
             >的第一個場景。
           </p>
@@ -73,7 +73,6 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-    
               <td class="tc6">
                 <div class="p2"></div>
                 玩家2
@@ -87,13 +86,13 @@
               </td>
               <td class="tc6">索奇米科爾人（紫色）馬雅</td>
             </tr>
-                      <td class="tc6">
-                <div class="p8"></div>
-                玩家4
-              </td>
-              <td class="tc6">
-                帝帕那卡（橙色）<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
-              </td>
+            <td class="tc6">
+              <div class="p8"></div>
+              玩家4
+            </td>
+            <td class="tc6">
+              帝帕那卡（橙色）<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
+            </td>
           </table>
 
           <h3>主要任務</h3>
@@ -230,14 +229,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                血親統治
+                血統統治
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙特蘇馬一.png" alt="" />
+                <img src="~assets/蒙提祖馬一.png" alt="" />
               </div>
             </td>
           </tr>

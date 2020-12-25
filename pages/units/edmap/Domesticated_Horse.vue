@@ -14,7 +14,7 @@
               >食物</nuxt-link
             >。 在《<nuxt-link to="/games/aoc">世紀帝國II：征服者入侵</nuxt-link
             >》中有三個重要的出場<nuxt-link to="/batt">戰役</nuxt-link
-            >，分別是<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
+            >，分別是<nuxt-link to="/batt/Montezumaa">蒙提祖馬</nuxt-link
             >的<nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link
             >和<nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link
             >，以及<nuxt-link to="/units/hero/Attila_the_Hun">阿提拉</nuxt-link
