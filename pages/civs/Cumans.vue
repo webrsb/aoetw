@@ -271,6 +271,17 @@
               >受益於<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
               >，但訓練速度從+80％降為+50％。
             </li>
+            <li>
+              (36202更新)
+              庫曼無法研發<nuxt-link to="/techs/Supplies"
+                >供給</nuxt-link
+              >。
+            </li>
+            <li>
+               (42848更新) 
+              欽察開火間隔從0增加成5，與<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >一樣。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
