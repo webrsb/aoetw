@@ -551,6 +551,14 @@
               >了。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (39284更新) 龜甲船的木材成本從180降為152。
+            </li>
+          </ul>
         </div>
         <h3>豆知識</h3>
         <div class="hrn1"></div>
@@ -689,7 +697,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">180</td>
+            <td class="unit4">152</td>
           </tr>
           <tr>
             <td class="unit3">

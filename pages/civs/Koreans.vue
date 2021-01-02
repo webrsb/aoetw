@@ -17,7 +17,7 @@
             ><nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link>與<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
-            >，且擁有隨時代增加射程的<nuxt-link to="/building/Guard_Tower"
+            >，且擁有隨時代自動升級的<nuxt-link to="/building/Guard_Tower"
               >防禦箭塔</nuxt-link
             >。
           </p>
@@ -60,7 +60,7 @@
             >，雖然龜甲船移動速度緩慢，但一艘就能夠對抗不少的<nuxt-link
               to="/units/Naval_Vessels"
               >戰船</nuxt-link
-            >。而朝鮮採石速度+20%與建造防禦單位更快，使得朝鮮非常適合進行塔攻，且升級至城堡時代後，箭塔會自動升級且射程會再額外+1，搭配血量厚實的遠程單位馬戰車，讓不人玩家都覺得朝鮮是一個很噁心的文明。
+            >。而朝鮮採石速度+20%使得朝鮮非常適合進行塔攻，且升級至城堡時代後，箭塔會自動升級，搭配血量厚實的遠程單位馬戰車，但是經過決定版不斷的對朝鮮進行削弱後(例如先後抽走防禦工事建造速度更快和箭塔射程加成的文明加成)，塔攻強度已大不如前。
           </p>
           <p>
             朝鮮人擅長的是海軍與箭塔，是一個相當具有防禦性的文明，因此除了遠程單位外，它的<nuxt-link
@@ -94,13 +94,10 @@
             >，不過擁有包含<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
             >和<nuxt-link to="/techs/Architecture">建築學</nuxt-link
             >在內的防禦<nuxt-link to="/techs">科技</nuxt-link
-            >，且箭塔從城堡時代+1射程，<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
-            >再+1，讓射程到達13，足以毀滅火砲（除了<nuxt-link to="/civs/Turks"
+            >，且擁有箭塔射程+2的特殊科技，讓射程到達13，足以毀滅火砲（除了<nuxt-link
+              to="/civs/Turks"
               >土耳其</nuxt-link
-            >）。此外箭塔、城堡和<nuxt-link to="/building/Stone_Wall"
-              >城牆</nuxt-link
-            >蓋的更快，配合採石高效率，使朝鮮成為一個出色的防禦文明，當然用這些防禦建築來進攻也是很可怕的。
+            >）。配合採石高效率，使朝鮮成為一個出色的防禦文明，當然用這些防禦建築來進攻也是很可怕的。
           </p>
           <h3>特殊單位</h3>
           <ul>
@@ -126,9 +123,9 @@
           <ul>
             <li>
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
-                to="/techs/Panokseon"
-                >板屋船</nuxt-link
-              >:龜甲船移動速度快15%。
+                to="/techs/Eupseong"
+                >邑城</nuxt-link
+              >:箭塔系射程+2。
             </li>
             <li>
               <img
@@ -156,8 +153,8 @@
                 >火砲塔</nuxt-link
               >仍須先研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link>)
             </li>
-            <li>箭塔射程於城堡時代 +1、帝王時代 +2</li>
-            <li>除攻城武器的軍事單位減少15%的木材消耗</li>
+            <li>弓兵護甲升級免費</li>
+            <li>除攻城武器的軍事單位減少20%的木材消耗</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus"
@@ -180,8 +177,14 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>龜甲船便宜-10%(100w/180g)。</li>
-            <li>馬戰車的建造時間從25秒減少到21秒。</li>
+            <li>
+              <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
+              >便宜-10%(100w/180g)。
+            </li>
+            <li>
+              <nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link
+              >的建造時間從25秒減少到21秒。
+            </li>
             <li>馬戰車成本降低到110w/60g。</li>
             <li>防禦工事(城牆，塔和城堡)的建造速度快33%。</li>
             <li>團隊加分改為，投石車最短射程縮小。</li>
@@ -218,7 +221,20 @@
           </h3>
           <ul>
             <li>
-              文明特性：增加除攻城武器的軍事單位減少15%的木材消耗、失去防禦工事(城牆，塔和城堡)的建造速度更快的特性
+              增加除攻城武器的軍事單位減少15%的木材消耗的文明加成、失去防禦工事(城牆，塔和城堡)的建造速度更快的文明加成
+            </li>
+            <li>
+              (39284更新) 軍事單位的木材成本從–15%改為-20%。
+              而馬戰車和龜甲船的木材成本分別調整為92和152
+            </li>
+            <li>
+              (42848更新) 朝鮮不再具有板屋船科技，由邑城取代
+            </li>
+            <li>
+              (42848更新) 城堡/帝王時代的箭塔不再具有+1/+2射程的文明加成
+            </li>
+            <li>
+              (42848更新) 擁有弓兵護甲升級免費的文明加成
             </li>
           </ul>
         </div>
@@ -226,7 +242,6 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>朝鮮是唯一有兩個特殊單位的東亞文明。</li>
             <li>
               朝鮮是唯一沒有品種的東亞文明(日本在<nuxt-link to="/games/aof"
                 >失落的帝國</nuxt-link
