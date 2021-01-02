@@ -110,9 +110,9 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/units/Villager">村民</nuxt-link>攜帶資源量+5
+              <nuxt-link to="/units/Villager">村民</nuxt-link>攜帶資源量+3
             </li>
-            <li>所有軍事單位訓練快10%</li>
+            <li>所有軍事單位訓練快11%</li>
             <li>
               每研發一個<nuxt-link to="/building/Monastery">修道院</nuxt-link
               >科技，<nuxt-link to="/units/Monk">僧侶</nuxt-link>+5HP
@@ -157,7 +157,18 @@
               如果<nuxt-link to="/elements/Conversion">招降</nuxt-link
               >了敵人的馬廄，可以訓練索洛托勇士。
             </li>
-            <li>(37650更新) 軍事單位加快訓練速度由15%減為10%。</li>
+            <li>(37650更新) 軍事單位加快訓練速度由15%減為11%。</li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/units/Villager">村民</nuxt-link
+              >攜帶資源量從+5減至+3。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >訓練時間降為12秒。
+            </li>
+            <li>(42848更新) 帝國戰爭模式遊戲開始時不再能獲得額外黃金</li>
           </ul>
         </div>
         <h3>圖庫</h3>

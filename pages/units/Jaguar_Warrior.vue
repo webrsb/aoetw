@@ -457,6 +457,7 @@
                 >步兵單位</nuxt-link
               >攻擊+10。
             </li>
+            <li>豹勇士的訓練時間為15秒。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
@@ -468,6 +469,12 @@
                 >步兵單位</nuxt-link
               >現在攻擊+11。
             </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>訓練時間降為12秒。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -566,7 +573,7 @@
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
-            <td class="unit4">17秒</td>
+            <td class="unit4">12秒</td>
           </tr>
           <tr>
             <td

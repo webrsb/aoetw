@@ -870,7 +870,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：村民攜帶+5。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：村民攜帶+3。
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
@@ -1063,6 +1063,9 @@
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
               農夫收集速度降為10%。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：村民攜帶從+5減至+3。
             </li>
           </ul>
         </div>
