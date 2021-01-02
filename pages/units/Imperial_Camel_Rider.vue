@@ -23,14 +23,14 @@
             >帝王時代</nuxt-link
           >最強大的騎兵之一，因為<nuxt-link to="/civs/Indians">印度</nuxt-link
           >文明並沒有<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
-          >所以<nuxt-link to="/units/Camel">駱駝兵種</nuxt-link
+          >所以<nuxt-link to="/units/Camel_Rider">駱駝兵種</nuxt-link
           >成為印度不可或缺的兵種之一。雖然坦度不如<nuxt-link
             to="/armor/Armor_Class_Cavalry"
             >騎兵類</nuxt-link
           >型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊單位，卻不會受到<nuxt-link
             to="/units/Samurai"
             >日本武士</nuxt-link
-          >的攻擊加成。<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link
+          >的攻擊加成。<nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝</nuxt-link
           >基本上你可以把他當成<nuxt-link to="/units/Paladin">遊俠</nuxt-link
           >看待。而帝王駱駝搭配<nuxt-link to="/units/Elite_Skirmisher"
             >戰矛兵</nuxt-link
@@ -234,13 +234,13 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -276,7 +276,7 @@
                       class="gg"
                       src="~assets/CamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -450,7 +450,7 @@
               <nuxt-link to="/civs/Indians">印度</nuxt-link
               >：帝王駱駝騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
-              >+6攻擊。
+              >+4攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -492,6 +492,13 @@
               >攻擊仍然不影響駱駝。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>(42848更新) 帝王駱駝騎兵對建築物攻擊力的團隊加分從+5減少至+4。
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
@@ -505,7 +512,7 @@
               >是否用駱駝作戰，但肯定的是他們會拿來運送物資。
             </li>
             <li>
-              遊戲中的<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              遊戲中的<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >是單峰駱駝，而現實中;中國與蒙古原產的是雙峰駱駝，速度極為緩慢，並不適合作戰。
             </li>
             <li>
@@ -518,7 +525,7 @@
               >。
             </li>
             <li>
-              駱駝與<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+              駱駝與<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
               >音效相同。
             </li>
             <li>
@@ -749,7 +756,7 @@
                 class="gg"
                 src="~assets/HeavyCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>
             </td>
           </tr>
         </table>

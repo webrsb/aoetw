@@ -172,7 +172,7 @@
               特殊單位<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >過於強勢，城堡之後有便宜的<nuxt-link to="/units/Knight"
                 >騎士</nuxt-link
-              >與<nuxt-link to="/units/Camel">駱駝</nuxt-link>可用。
+              >與<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>可用。
             </p>
             <h3>
               <strong><nuxt-link to="/civs/Huns">匈人</nuxt-link></strong>

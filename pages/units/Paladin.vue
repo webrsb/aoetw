@@ -14,7 +14,7 @@
             >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >，在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >最強勢的兵種之一，對於<nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >、<nuxt-link to="/units/Camel">駱駝兵種</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/units/Camel_Rider">駱駝兵種</nuxt-link>、<nuxt-link
               to="/units/Spearman"
               >長槍兵種</nuxt-link
             >較劣勢。
@@ -136,7 +136,7 @@
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
@@ -319,16 +319,16 @@
                         class="gg"
                         src="~assets/HeavyCamelIcon.png"
                         alt=""
-                      /><nuxt-link to="/units/Heavy_Camel"
+                      /><nuxt-link to="/units/Heavy_Camel_Rider"
                         >重裝駱駝騎兵</nuxt-link
                       >→
                       <img
                         class="gg"
                         src="~assets/ImperialCamelIcon.png"
                         alt=""
-                      /><nuxt-link to="/units/Imperial_Camel"
+                      /><nuxt-link to="/units/Imperial_Camel_Rider"
                         >帝王駱駝騎兵</nuxt-link
-                      >(<nuxt-link to="/units/Imperial_Camel"
+                      >(<nuxt-link to="/units/Imperial_Camel_Rider"
                         >帝王駱駝騎兵</nuxt-link
                       >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                     </li>
@@ -388,7 +388,7 @@
                         class="gg"
                         src="~assets/CamelIcon.png"
                         alt=""
-                      /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                      /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                     </li>
                     <li>
                       <img

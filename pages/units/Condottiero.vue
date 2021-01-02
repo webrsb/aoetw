@@ -35,7 +35,7 @@
               >有極高的攻擊加成，正因為如此，他們能夠打倒與<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >或<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >或<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >搭配的<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >、<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >或是<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
@@ -671,7 +671,7 @@
               >與<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>。
             </li>
             <li>
-              傭兵和<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link
+              傭兵和<nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝</nuxt-link
               >與<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
               >一樣都是特殊部隊，但傭兵會受到<nuxt-link to="/units/Samurai"
@@ -687,7 +687,7 @@
                 >傳教士</nuxt-link
               >、<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
-              >與<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link>。
+              >與<nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝</nuxt-link>。
             </li>
             <li>
               另外兩個<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link

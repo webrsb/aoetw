@@ -65,7 +65,7 @@
                 </li>
                 <li>
                   <img class="gg" src="~assets/CamelIcon.png" /><nuxt-link
-                    to="/units/Camel"
+                    to="/units/Camel_Rider"
                     >駱駝騎兵</nuxt-link
                   >
                 </li>
@@ -124,7 +124,7 @@
                 </li>
                 <li>
                   <img class="gg" src="~assets/HeavyCamelIcon.png" /><nuxt-link
-                    to="/units/Heavy_Camel"
+                    to="/units/Heavy_Camel_Rider"
                     >重裝駱駝騎兵</nuxt-link
                   >
                 </li>
@@ -132,7 +132,7 @@
                   <img
                     class="gg"
                     src="~assets/ImperialCamelIcon.png"
-                  /><nuxt-link to="/units/Imperial_Camel"
+                  /><nuxt-link to="/units/Imperial_Camel_Rider"
                     >帝王駱駝騎兵</nuxt-link
                   >
                 </li>

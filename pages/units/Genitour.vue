@@ -57,7 +57,7 @@
               >品種</nuxt-link
             >的<nuxt-link to="/civs">文明</nuxt-link
             >。且攻擊更高一點，另一方面他需要更久的訓練時間與更高的成本，且更怕<nuxt-link
-              to="/units/Camel"
+              to="/units/Camel_Rider"
               >駱駝</nuxt-link
             >與<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>等反<nuxt-link
               to="/armor/Armor_Class_Cavalry"
@@ -92,7 +92,7 @@
             </li>
             <li>
               長<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
               ><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
@@ -171,7 +171,7 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
               >、<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
@@ -415,14 +415,14 @@
                     class="gg"
                     src="~assets/HeavyCamelIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
+                  /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/ImperialCamelIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Imperial_Camel"
+                  /><nuxt-link to="/units/Imperial_Camel_Rider"
                     >帝王駱駝騎兵</nuxt-link
-                  >(<nuxt-link to="/units/Imperial_Camel"
+                  >(<nuxt-link to="/units/Imperial_Camel_Rider"
                     >帝王駱駝騎兵</nuxt-link
                   >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                 </li>
@@ -486,7 +486,7 @@
                     class="gg"
                     src="~assets/CamelIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                  /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                 </li>
                 <li>
                   <img

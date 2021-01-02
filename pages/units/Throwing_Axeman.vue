@@ -61,7 +61,7 @@
             <li>
               由於<nuxt-link to="/civs/Franks">法蘭克人</nuxt-link
               >相當依賴<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-              >，所以使用投擲斧兵來對付<nuxt-link to="/units/Camel"
+              >，所以使用投擲斧兵來對付<nuxt-link to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >是非常有用的對策。
@@ -98,7 +98,7 @@
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>和<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >。
             </td>

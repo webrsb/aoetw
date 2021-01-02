@@ -30,7 +30,7 @@
               >『鷹勇士』類</nuxt-link
             >，他有自己的防禦類型，<nuxt-link to="/units/Champion"
               >劍兵勇士</nuxt-link
-            >會給他很大的傷害。另一個例子是<nuxt-link to="/units/Camel"
+            >會給他很大的傷害。另一個例子是<nuxt-link to="/units/Camel_Rider"
               >駱駝騎兵</nuxt-link
             >，他不在<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵類</nuxt-link

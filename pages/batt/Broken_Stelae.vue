@@ -211,7 +211,7 @@
             >*2、石材*1)，摧毀修道院則直接獲得1000黃金。然而一但你攻擊他們，最北方的極大汗營地會馬上派出<nuxt-link
               to="/units/Crossbowman"
               >弩兵</nuxt-link
-            >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+            >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
             >、劍兵和重裝長槍兵的部隊朝你襲來。先壯大自己的經濟為優先。
           </li>
           <li>

@@ -268,7 +268,7 @@
               >組合。他們還會訓練戰矛兵，僧侶和一些<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
-              >。對抗它們的最好方法是訓練<nuxt-link to="/units/Heavy_Camel"
+              >。對抗它們的最好方法是訓練<nuxt-link to="/units/Heavy_Camel_Rider"
                 >重裝駱駝騎兵</nuxt-link
               >，戟兵和戰矛兵搭配一些重型騎兵（你也可以購買薩瓦蘭重騎兵，一種重裝且能自行<nuxt-link
                 to="/Regeneration"

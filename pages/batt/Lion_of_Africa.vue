@@ -231,7 +231,7 @@
             <li>
               巴努阿魯斯（黃）的<nuxt-link to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
-              >和<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >和<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >遍佈沙漠和東南邊境。他們是一支古老的族群，儘管伊斯蘭法典在當地延續了七百多年的影響，他們仍然像他們的怒米迪亞祖先在漢尼拔時代一樣，供奉有圖騰的女人。潛入沙漠，摧毀他們的營帳是終結他們入侵的唯一方法。
             </li>
             <li>

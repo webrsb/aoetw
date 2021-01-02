@@ -195,7 +195,7 @@
               >）是在西方的卡提瓦島半島的南海岸外的一座島城，它將會是接下來的主戰場。第烏城由馬利克阿雅姿統治，他是一位皈依了伊斯蘭教的俄國人，第烏人的主力軍是<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >，<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+              >，<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
               >和一些受穆斯林伊瑪目激勵而參戰的聖騎士。由於威尼斯工匠的協助，馬利克阿雅姿在城內建造了<nuxt-link
                 to="/building/Bombard_Tower"
                 >火砲塔</nuxt-link
@@ -356,7 +356,7 @@
                   >，<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
                   >和馬弓騎兵。第烏軍隊將會訓練<nuxt-link to="/units/Paladin"
                     >遊俠</nuxt-link
-                  >，戰象，<nuxt-link to="/units/Heavy_Camel"
+                  >，戰象，<nuxt-link to="/units/Heavy_Camel_Rider"
                     >重裝駱駝騎兵</nuxt-link
                   >和裝甲衝撞車。簡單來說，這三個勢力都是強大的對手。
                 </li>

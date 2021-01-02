@@ -410,7 +410,7 @@
               >：+1對普通建築的攻擊力
             </li>
             <li>
-              駱駝騎兵、<nuxt-link to="/units/Heavy_Camel"
+              駱駝騎兵、<nuxt-link to="/units/Heavy_Camel_Rider"
                 >重裝駱駝騎兵</nuxt-link
               >：攻擊力+1(變成6、8)
             </li>
@@ -467,7 +467,7 @@
             <li>火戰船+1 防禦，+1 對船防禦</li>
             <li>重型火戰船 +1 防禦，+2 對船防禦</li>
             <li>弩砲增加砲火尺寸（修正他們缺少穿透傷害的問題</li>
-            <li><nuxt-link to="/units/Camel">駱駝</nuxt-link>不再視為船</li>
+            <li><nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>不再視為船</li>
             <li>
               <nuxt-link to="/building/Fish_Trap">漁網</nuxt-link
               >建造時間從60秒改為40秒

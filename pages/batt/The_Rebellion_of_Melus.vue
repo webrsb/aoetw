@@ -32,7 +32,7 @@
               to="/building/Castle"
               >城堡</nuxt-link
             >，<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-            >，爆破船，<nuxt-link to="/units/Camel">駱駝</nuxt-link>和<nuxt-link
+            >，爆破船，<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>和<nuxt-link
               to="/building/Stone_Wall"
               >城牆</nuxt-link
             >升級，但少數帝王時代的技術幫玩家升級好了，例如精英<nuxt-link

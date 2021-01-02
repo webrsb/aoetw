@@ -26,7 +26,7 @@
             >的特殊單位自然是聞名的維京戰士，擁有較快的速度，自動回復的能力，適合對付<nuxt-link
               to="/units/Halberdier"
               >戟兵</nuxt-link
-            >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
               to="/units/Eagle_Warrior"
               >鷹勇士</nuxt-link
             >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link

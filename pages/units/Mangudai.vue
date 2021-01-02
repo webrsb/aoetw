@@ -40,7 +40,7 @@
             >加成，但蒙古突騎仍然不適合與<nuxt-link to="/units/Mangonel"
               >投石車</nuxt-link
             >或是<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
-            >正面交鋒。除此之外也要避免<nuxt-link to="/units/Camel"
+            >正面交鋒。除此之外也要避免<nuxt-link to="/units/Camel_Rider"
               >駱駝騎兵</nuxt-link
             >及<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
             >接近，他們對蒙古突騎擁有大量的加成傷害。規模龐大的<nuxt-link
@@ -119,7 +119,7 @@
                 >駱駝類</nuxt-link
               >，而不是<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
-              >，所以<nuxt-link to="/units/Camel">駱駝</nuxt-link>和<nuxt-link
+              >，所以<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>和<nuxt-link
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
               >等反騎兵單位對他的傷害較小。此外還有+1（精銳+2）的<nuxt-link
@@ -192,7 +192,7 @@
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
                 >阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
@@ -434,15 +434,15 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
-                    >(<nuxt-link to="/units/Imperial_Camel"
+                    >(<nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
                     >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -509,7 +509,7 @@
                       class="gg"
                       src="~assets/CamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
                   <li>
                     <img

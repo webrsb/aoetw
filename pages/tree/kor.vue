@@ -319,7 +319,7 @@
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/CamelIcon.png" />
-              <div><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link></div>
+              <div><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm not">
@@ -356,14 +356,14 @@
             <td class="t19 trm not">
               <img class="gg" src="~assets/HeavyCamelIcon.png" />
               <div>
-                <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
+                <nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
                 src="~assets/ImperialCamelIcon.png"
               />
               <div>
-                <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
+                <nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link>
               </div>
             </td>
             <td class="t19 trm not">

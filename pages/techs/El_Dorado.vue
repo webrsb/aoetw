@@ -44,7 +44,7 @@
               ></nuxt-link
               ><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >、<nuxt-link to="/units/Knight">騎士</nuxt-link>、甚至<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >的功能(有遼闊<nuxt-link to="/elements/Line_of_Sight"
                 >視野</nuxt-link

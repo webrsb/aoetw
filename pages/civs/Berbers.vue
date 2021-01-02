@@ -42,9 +42,9 @@
             ><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>可加快<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
-            >工作效率。由於長期得要在沙漠戰鬥<nuxt-link to="/units/Camel"
+            >工作效率。由於長期得要在沙漠戰鬥<nuxt-link to="/units/Camel_Rider"
               >駱駝</nuxt-link
-            >幾乎沙漠必備騎乘單位原因是<nuxt-link to="/units/Camel"
+            >幾乎沙漠必備騎乘單位原因是<nuxt-link to="/units/Camel_Rider"
               >駱駝</nuxt-link
             >本身比較不需要水源因此<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
@@ -296,7 +296,7 @@
             <td class="unit3">首選戰略</td>
             <td class="unit4">
               <nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >馬爆、<nuxt-link to="/units/Camel">駱駝</nuxt-link>弓配合
+              >馬爆、<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>弓配合
             </td>
           </tr>
           <tr>

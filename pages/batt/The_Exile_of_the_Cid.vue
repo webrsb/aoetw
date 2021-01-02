@@ -87,7 +87,7 @@
             <dt>大地之母單位：</dt>
             <dd>
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
-              >x6、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >x6、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >x4、<nuxt-link to="/units/Knight">騎士</nuxt-link
               >x2、巨型<nuxt-link to="/units/Mangonel">投石車</nuxt-link>x1
             </dd>

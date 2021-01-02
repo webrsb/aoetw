@@ -68,7 +68,7 @@
               匈人貴為強大的馬國但也只有生產加成，使馬更容易量產，在<nuxt-link
                 to="/tree/vie"
                 >科技樹</nuxt-link
-              >上只缺<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              >上只缺<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >/矛象其餘<nuxt-link to="/techs">科技</nuxt-link
               >是滿的因此爆馬是首選。
             </li>

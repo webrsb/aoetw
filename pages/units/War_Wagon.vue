@@ -55,7 +55,7 @@
               >。與近戰單位相比，馬戰車最大的優勢就是它的遠程攻擊，不會追擊敵人時破壞自己陣型。馬戰車不應該用來對付<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >和<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>。<nuxt-link
+              >和<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>。<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >對馬戰車有攻擊加成，但是除非數量大於馬戰車，不然馬戰車還是會贏。<nuxt-link
@@ -138,7 +138,7 @@
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
                 >阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
@@ -343,15 +343,15 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
-                    >(<nuxt-link to="/units/Imperial_Camel"
+                    >(<nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
                     >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -418,7 +418,7 @@
                       class="gg"
                       src="~assets/CamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
                   <li>
                     <img

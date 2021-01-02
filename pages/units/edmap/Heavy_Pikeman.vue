@@ -21,7 +21,7 @@
               to="/units/Spearman"
               >槍兵</nuxt-link
             >加了一些<nuxt-link to="/elements/Hit_points">血量</nuxt-link
-            >，並且在於<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >，並且在於<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
             >對戰時，並不如普通槍兵。
           </p>
         </div>

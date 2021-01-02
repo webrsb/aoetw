@@ -85,7 +85,7 @@
               >生命值+20%/騎士視野+2，因此有著遊戲最強大騎兵國之稱，為了平衡沒有品種(舊稱血統)/<nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
-              >，也無<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              >，也無<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >。在決定版出來後，新增的文明之一立陶宛只要聖物就能增加除了斥侯以外的騎兵單位的攻擊力，將與法國爭奪最強遊俠之位。
             </li>
             <li>

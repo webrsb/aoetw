@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>印度</b>是<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            <b>印度</b>是<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
             >和<nuxt-link to="/units/Gunpowder_Unit">火藥文明</nuxt-link
             >，《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
             >》新增的文明。印度軍隊一直以來都很依賴於大象，因此印度的<nuxt-link
@@ -16,9 +16,9 @@
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
             >。中世紀蒙兀兒帝國用駱駝攻入印度北部，且印度北部大多都是用駱駝當作戰的這也是之所以印度有駱駝的原因，遊戲為了體現他們所設定的時代因此給予印度遊戲中唯一陸上獨有的特殊單位<nuxt-link
-              to="/units/Imperial_Camel"
+              to="/units/Imperial_Camel_Rider"
               >帝王駱駝騎兵</nuxt-link
-            >比<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+            >比<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
             >更強更抗耐打且對新增對<nuxt-link to="/armor/Armor_Class_Building"
               >建築物</nuxt-link
             >的加成。中世紀的印度在<nuxt-link to="/civs/Chinese"
@@ -114,7 +114,7 @@
                 >黑暗時代</nuxt-link
               >便宜10%、<nuxt-link to="/techs/age/Feudal_Age"
                 >封建時代</nuxt-link
-              >便宜15%、城堡時代便宜20%、帝王時代便宜25%，村民捕魚工作效率+15%/漁獲攜帶量+15，城堡時代特殊科技蘇丹(黃金收入的效率一律+10%)，因此在雙方經濟未穩定下來前印度優勢極很大，但也因為村民更容易量產欠缺了<nuxt-link
+              >便宜15%、城堡時代便宜20%、帝王時代便宜25%，村民捕魚工作效率+10%，城堡時代特殊科技蘇丹(黃金收入的效率一律+10%)，因此在雙方經濟未穩定下來前印度優勢極很大，但也因為村民更容易量產欠缺了<nuxt-link
                 to="/techs/Treadmill_Crane"
                 >磨坊水車</nuxt-link
               >/<nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
@@ -144,8 +144,8 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
-              >：更強大的<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
+              >：更強大的<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >，對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊加成。
             </li>
@@ -176,12 +176,12 @@
               村民從黑暗時代便宜10%、封建時代便宜15%、城堡時代便宜20%、帝王時代便宜25%
             </li>
             <li>村民捕魚工作效率+10%</li>
-            <li>駱駝騎兵擁有遠防+1</li>
+            <li>馬廄單位在城堡時代+1遠防，帝王時代再+1遠防 (總共+2)</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
                 >:</strong
-              >駱駝騎兵對建築物攻擊力+5
+              >駱駝單位對建築物攻擊力+4
             </li>
           </ul>
         </div>
@@ -240,6 +240,13 @@
           </h3>
           <ul>
             <li>村民捕魚工作效率+15%→+10%、漁獲攜帶量+15→+0。</li>
+            <li>(37650更新) 駱駝單位對建築物的團隊加分不再受到<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
+              >減免。</li>
+            <li>(37650更新) 象弓騎兵攻擊速度從2.5秒減少至2秒，黃金成本則從80降至70。</li>
+            <li>(42848更新) 駱駝單位對建築物攻擊力的團隊加分從+5減少至+4。</li>
+            <li>(42848更新) 印度無法研發<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
+              >。</li>
+            <li>(42848更新) 文明加成從駱駝騎兵變成所有馬廄單位城堡時代都擁有+1遠防，帝王時代再+1遠防。</li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -304,7 +311,7 @@
           <tr>
             <td class="unit3">分類文明</td>
             <td class="unit4">
-              <nuxt-link to="/units/Camel">駱駝</nuxt-link>/<nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>/<nuxt-link
                 to="/units/Gunpowder_Unit"
                 >火藥</nuxt-link
               >
@@ -319,7 +326,7 @@
               >
               <br />
               <img class="gg" src="~assets/ImperialCamelIcon.png" /><nuxt-link
-                to="/units/Imperial_Camel"
+                to="/units/Imperial_Camel_Rider"
                 >帝王駱駝騎兵</nuxt-link
               >
             </td>
@@ -328,7 +335,7 @@
             <td class="unit3">首選戰略</td>
             <td class="unit4">
               <nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              ><nuxt-link to="/units/Camel">駱駝</nuxt-link>、<nuxt-link
+              ><nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>、<nuxt-link
                 to="/ar/scrush"
                 >封建肉馬</nuxt-link
               >

@@ -94,7 +94,7 @@
             <li>
               騎兵系統上欠缺了<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >(聖<nuxt-link to="/units/Knight">騎士</nuxt-link>)/<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               >系/東南亞獨有<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link

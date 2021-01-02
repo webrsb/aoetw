@@ -55,7 +55,7 @@
               to="/building"
               >建築</nuxt-link
             >的效率，讓阿拉伯奴隸兵更具侵略性。阿拉伯奴隸兵非常適合搭配<nuxt-link
-              to="/units/Camel"
+              to="/units/Camel_Rider"
               >駱駝騎兵</nuxt-link
             >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >與<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>。
@@ -69,7 +69,7 @@
               >拜占庭</nuxt-link
             >的<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
             >抵抗<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>與<nuxt-link
-              to="/units/Camel"
+              to="/units/Camel_Rider"
               >駱駝騎兵</nuxt-link
             >的攻擊。阿拉伯奴隸兵也有<nuxt-link to="/armor/Armor_Class_Archer"
               >射手</nuxt-link
@@ -295,15 +295,15 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
-                    >(<nuxt-link to="/units/Imperial_Camel"
+                    >(<nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
                     >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -334,7 +334,7 @@
                       class="gg"
                       src="~assets/CamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>

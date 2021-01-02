@@ -100,7 +100,7 @@
             <dd>
               <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >x13，<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
-              >x6，<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >x6，<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >x4，<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >x6，<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
               >x2。（中等難度以上無巨投）

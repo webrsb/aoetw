@@ -1528,7 +1528,7 @@
                         </td>
                         <td class="tunitc4">騎兵</td>
                         <td class="tunitc6">
-                          <nuxt-link to="/units/Imperial_Camel"
+                          <nuxt-link to="/units/Imperial_Camel_Rider"
                             >帝王駱駝騎兵</nuxt-link
                           >
                         </td>

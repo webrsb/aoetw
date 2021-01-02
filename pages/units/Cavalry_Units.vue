@@ -53,7 +53,7 @@
               >城堡</nuxt-link
             >以外的地方訓練：<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
             >在<nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
-            >研究後可以在馬厩中訓練，而<nuxt-link to="/units/Imperial_Camel"
+            >研究後可以在馬厩中訓練，而<nuxt-link to="/units/Imperial_Camel_Rider"
               >帝王駱駝騎兵</nuxt-link
             >則只能在馬廄訓練。拋開垃圾單位，所有騎兵單位訓練都需要<nuxt-link
               to="/resource/Food"
@@ -65,7 +65,7 @@
               to="/units/Spearman"
               >長槍兵</nuxt-link
             >。每個使用騎兵的玩家遲早都會在戰場上遇見他們，<nuxt-link
-              to="/units/Camel"
+              to="/units/Camel_Rider"
               >駱駝騎兵</nuxt-link
             >，<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
             >，<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>和<nuxt-link
@@ -117,7 +117,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >便宜25％
             </li>
@@ -126,7 +126,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link>：<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >護甲+1/+1。
             </li>
@@ -183,7 +183,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link>：<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >對<nuxt-link to="/building">建築</nuxt-link>攻擊+5。
             </li>
@@ -347,7 +347,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CamelIcon.png" /><nuxt-link
-                  to="/units/Camel"
+                  to="/units/Camel_Rider"
                   >駱駝騎兵</nuxt-link
                 >
               </td>
@@ -369,7 +369,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HeavyCamelIcon.png" /><nuxt-link
-                  to="/units/Heavy_Camel"
+                  to="/units/Heavy_Camel_Rider"
                   >重裝駱駝騎兵</nuxt-link
                 >
               </td>
@@ -391,7 +391,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ImperialCamelIcon.png" /><nuxt-link
-                  to="/units/Imperial_Camel"
+                  to="/units/Imperial_Camel_Rider"
                   >帝王駱駝騎兵</nuxt-link
                 >
               </td>
@@ -1199,7 +1199,7 @@
               </td>
               <td class="tunitc5">750F 800G</td>
               <td class="tunitc6">
-                <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>和<nuxt-link
+                <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>和<nuxt-link
                   to="/units/Mameluke"
                   >阿拉伯奴隸兵</nuxt-link
                 >+30 HP。

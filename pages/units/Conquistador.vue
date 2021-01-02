@@ -47,7 +47,7 @@
               >的傷害，而西班牙征服者則殺死敵人的<nuxt-link to="/units/Monk"
                 >僧侶</nuxt-link
               >。敵軍騎兵對西班牙征服者來說是一個巨大的威脅，尤其是<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >。<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >也是，所以戰鬥時不應該在同一地點停留太久。<nuxt-link
@@ -92,7 +92,7 @@
                 to="/units/Condottiero"
                 >傭兵</nuxt-link
               >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
@@ -242,15 +242,15 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
-                    >(<nuxt-link to="/units/Imperial_Camel"
+                    >(<nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
                     >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -342,7 +342,7 @@
                       class="gg"
                       src="~assets/CamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
                   <li>
                     <img

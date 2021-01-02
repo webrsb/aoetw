@@ -91,7 +91,7 @@
             <dt>開場：</dt>
             <dd>
               16位<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >、12位<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >、12位<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >、2位<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
               >、12位<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
               >、2台<nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>。

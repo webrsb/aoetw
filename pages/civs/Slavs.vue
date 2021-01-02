@@ -103,7 +103,7 @@
             ><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>)，<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
-            >也無<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >也無<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
             >和遊俠，僧侶雖然有東正教護甲但因前置條件太過嚴苛幾乎沒有實用性，在決定版之前更缺少<nuxt-link
               to="/techs/Faith"
               >忠誠信仰</nuxt-link

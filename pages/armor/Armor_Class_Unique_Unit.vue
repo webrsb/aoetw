@@ -20,7 +20,7 @@
           <p>
             <strong>特殊單位裝甲</strong
             >是一個防禦裝甲類別，所有在這個系列的兵種都會被剋特殊單位裝甲的兵種有額外的傷害。<nuxt-link
-              to="/units/Imperial_Camel"
+              to="/units/Imperial_Camel_Rider"
               >帝王駱駝騎兵</nuxt-link
             >和<nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
             >不包含在特殊單位裝甲裡。

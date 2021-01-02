@@ -161,7 +161,7 @@
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
               >/<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
-              >這二樣關鍵科技另外也無<nuxt-link to="/units/Camel"
+              >這二樣關鍵科技另外也無<nuxt-link to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               >科技。
             </li>

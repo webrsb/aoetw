@@ -138,7 +138,7 @@
             </li>
             <li>強力的弓兵和科技的減免讓中國的弓兵稱得上是頂尖。</li>
             <li>
-              作為少數有<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              作為少數有<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >的文明，反制<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >打帶跑的手段更加多元。
             </li>

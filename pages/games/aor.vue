@@ -425,14 +425,14 @@
               >獲得對<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >的額外攻擊加成，如此<nuxt-link to="/techs/Parthian_Tactics"
                 >安息人戰術</nuxt-link
-              >才能正確的影響其他文明的<nuxt-link to="/units/Camel"
+              >才能正確的影響其他文明的<nuxt-link to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               ><nuxt-link to="/units/Armor_Class_Cavalry_Archer"
                 >弓騎兵</nuxt-link
               >。例如柏柏第一戰役中的薩拉森駱駝弓騎兵。
             </li>
             <li>
-              修正<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>對<nuxt-link
+              修正<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>對<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >駱駝護甲</nuxt-link
               >的攻擊加成。

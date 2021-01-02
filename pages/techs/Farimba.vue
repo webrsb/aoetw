@@ -14,7 +14,7 @@
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >單位(<nuxt-link to="/units/Knight">騎士</nuxt-link>、<nuxt-link
-              to="/units/Camel"
+              to="/units/Camel_Rider"
               >駱駝騎兵</nuxt-link
             >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>)攻擊+5。
           </p>
@@ -26,10 +26,10 @@
             <li>
               剽悍精神讓<nuxt-link to="/civs/Malians">馬利</nuxt-link
               >的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >是遊戲中最具威力的之一。他們的<nuxt-link to="/units/Heavy_Camel"
+              >是遊戲中最具威力的之一。他們的<nuxt-link to="/units/Heavy_Camel_Rider"
                 >重裝駱駝騎兵</nuxt-link
               >可以獲得遊戲中最多的14攻擊，比<nuxt-link
-                to="/units/Imperial_Camel"
+                to="/units/Imperial_Camel_Rider"
                 >帝王駱駝騎兵</nuxt-link
               >還多。馬利的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >也是遊戲中攻擊排名非特殊騎兵第三(<nuxt-link to="/elements/Attack"

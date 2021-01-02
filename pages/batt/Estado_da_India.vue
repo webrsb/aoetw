@@ -180,7 +180,7 @@
               受坎納諾爾城城主科拉提立拉哈所背叛，法蘭西斯科阿爾梅達和他的兒子洛倫索在聖安杰洛堡遭到圍攻。
             </li>
             <li>
-              科拉提立拉哈（紅）指揮一支由大象、<nuxt-link to="/units/Camel"
+              科拉提立拉哈（紅）指揮一支由大象、<nuxt-link to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >、劍士和<nuxt-link to="/units/Archer">弓箭手</nuxt-link

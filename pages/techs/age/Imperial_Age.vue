@@ -208,7 +208,7 @@
                 src="~assets/HeavyCamelIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
               >：反騎兵單位。
             </li>
             <li>
@@ -217,7 +217,7 @@
                 src="~assets/ImperialCamelIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
               >：反騎兵單位。(限<nuxt-link to="/civs/Indians">印度</nuxt-link>)
             </li>
             <li>

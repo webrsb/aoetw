@@ -509,7 +509,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Camel">駱駝</nuxt-link>被移出<nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>被移出<nuxt-link
                 to="/armor/Armor_Class_Ship"
                 >船類</nuxt-link
               >的防禦，因此火砲塔對<nuxt-link to="/armor/Armor_Class_Camel"
