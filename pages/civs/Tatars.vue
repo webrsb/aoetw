@@ -175,7 +175,9 @@
             >：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
             >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            ><nuxt-link to="/armor">遠程護甲</nuxt-link>和<nuxt-link to="/armor">近程護甲</nuxt-link>+1。
+            ><nuxt-link to="/armor">遠程護甲</nuxt-link>和<nuxt-link to="/armor"
+              >近程護甲</nuxt-link
+            >+1。
           </li>
           <li>
             <img
@@ -195,7 +197,7 @@
               可畜養動物收集的<nuxt-link to="/resource/Food">食物</nuxt-link
               >+50%
             </li>
-              <li>
+            <li>
               從<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
               >開始，<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
               >會生產兩隻羊。 每建造一個城鎮中心，城鎮中心就會生產多兩隻羊。
@@ -270,18 +272,17 @@
               >。
             </li>
             <li>
-             (37650更新) 韃靼無法研發<nuxt-link to="/techs/Supplies"
+              (37650更新) 韃靼無法研發<nuxt-link to="/techs/Supplies"
                 >供給</nuxt-link
               >。
             </li>
             <li>
-              (42848更新) 絲護甲從遠程護甲+1變成遠程和近程護甲各+1。
+              (42848更新) 絲護甲從遠程護甲+1變成遠程和近戰護甲各+1。
             </li>
             <li>
               (42848更新) 從<nuxt-link to="/techs/age/Feudal_Age"
                 >封建時代</nuxt-link
-              >開始，<nuxt-link to="/building/Town_Center"
-                >城鎮中心</nuxt-link
+              >開始，<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
               >會生產兩隻羊。 每建造一個城鎮中心，城鎮中心就會生產多兩隻羊。
             </li>
           </ul>
