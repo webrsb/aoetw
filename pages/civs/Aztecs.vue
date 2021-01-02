@@ -158,8 +158,17 @@
               >了敵人的馬廄，可以訓練索洛托勇士。
             </li>
             <li>(37650更新) 軍事單位加快訓練速度由15%減為11%。</li>
-            <li>(42848更新) <nuxt-link to="/units/Villager">村民</nuxt-link>攜帶資源量從+5減至+3。</li>
-            <li>(42848更新) 索洛托勇士訓練時間改為12秒。</li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/units/Villager">村民</nuxt-link
+              >攜帶資源量從+5減至+3。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >訓練時間降為12秒。
+            </li>
+            <li>(42848更新) 帝國戰爭模式遊戲開始時不再能獲得額外黃金</li>
           </ul>
         </div>
         <h3>圖庫</h3>
