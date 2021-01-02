@@ -300,7 +300,7 @@
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
               >：攻城器製造所單位成本減少15%。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
               >：封建時代即可建造攻城器製造所並生產輕型衝撞車，城堡時代即可升級為裝甲衝撞車。
             </li>
@@ -464,8 +464,9 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
-            <br>
-               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>（<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定）
+              <br />
+              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+              >（<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定）
             </td>
           </tr>
           <tr>

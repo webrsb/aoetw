@@ -557,7 +557,11 @@
           </ul>
           <ul>
             <li>
-              (42848更新) <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>被<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>所取代。
+              (42848更新)
+              <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>被<nuxt-link
+                to="/techs/Eupseong"
+                >邑城</nuxt-link
+              >所取代。
             </li>
           </ul>
         </div>

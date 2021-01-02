@@ -39,7 +39,9 @@
               </p>
               <p>
                 <nuxt-link to="/games/de"
-                  ><img src="~assets/aoe2_dlc4.png" />決定版:最後的可汗</nuxt-link
+                  ><img
+                    src="~assets/aoe2_dlc4.png"
+                  />決定版:最後的可汗</nuxt-link
                 ><span class="arror">➠</span>
               </p>
             </div>
@@ -254,9 +256,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Perfect_Martyr"
-                      >遺芳餘烈</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_Perfect_Martyr">遺芳餘烈</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -303,9 +303,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Horns_of_Hattin"
-                      >哈丁角</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Horns_of_Hattin">哈丁角</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -822,9 +820,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Razing _Hellas"
-                      >剷平赫拉斯</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Razing _Hellas">剷平赫拉斯</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -847,7 +843,9 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Kingdom_of_Our_Own">我們的王國</nuxt-link>
+                    <nuxt-link to="/batt/A_Kingdom_of_Our_Own"
+                      >我們的王國</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
@@ -905,7 +903,9 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Moon_Rises_DE">撥雲見月(DE)</nuxt-link>
+                    <nuxt-link to="/batt/The_Moon_Rises_DE"
+                      >撥雲見月(DE)</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
@@ -939,7 +939,9 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Arrival_at_Bari_DE">抵達巴里(DE)</nuxt-link>
+                    <nuxt-link to="/batt/Arrival_at_Bari_DE"
+                      >抵達巴里(DE)</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
@@ -962,14 +964,18 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Best_Laid_Plans">錦囊妙計</nuxt-link>
+                    <nuxt-link to="/batt/The_Best_Laid_Plans"
+                      >錦囊妙計</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt//batt/The_Onrushing_Tide">奔湧之水</nuxt-link>
+                    <nuxt-link to="/batt//batt/The_Onrushing_Tide"
+                      >奔湧之水</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
@@ -1012,9 +1018,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Prodigal_Son"
-                      >浪子回頭</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Prodigal_Son">浪子回頭</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1044,9 +1048,7 @@
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <div id="a14">
-                      <nuxt-link to="/batt/Pachacutia"
-                        >帕查庫特克</nuxt-link
-                      >
+                      <nuxt-link to="/batt/Pachacutia">帕查庫特克</nuxt-link>
                     </div>
                   </div>
                 </td>
@@ -1054,7 +1056,11 @@
               <tr>
                 <td>
                   <div class="unititle">
-                    <img src="~assets/14_pachacuti_normal.png" width="90" alt="" />
+                    <img
+                      src="~assets/14_pachacuti_normal.png"
+                      width="90"
+                      alt=""
+                    />
                   </div>
                 </td>
               </tr>
@@ -1070,7 +1076,9 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Field_of_Blood">血戰之地</nuxt-link>
+                    <nuxt-link to="/batt/The_Field_of_Blood"
+                      >血戰之地</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
@@ -1088,10 +1096,12 @@
                   </div>
                 </td>
               </tr>
-               <tr>
+              <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Like_Father,_Like_Son">虎父無犬子</nuxt-link>
+                    <nuxt-link to="/batt/Like_Father,_Like_Son"
+                      >虎父無犬子</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
@@ -1122,25 +1132,23 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Born_of_Fire"
-                      >浴火而生</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Born_of_Fire">浴火而生</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Digvijaya_DE"
-                      >九合諸侯</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Digvijaya_DE">九合諸侯</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Hand_of_a_Princess">美人芳心</nuxt-link>
+                    <nuxt-link to="/batt/Hand_of_a_Princess"
+                      >美人芳心</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
@@ -1152,7 +1160,9 @@
                     >
                   </div>
                 </td>
-                <tr>
+              </tr>
+
+              <tr>
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/The_Legend_of_Prithviraj"

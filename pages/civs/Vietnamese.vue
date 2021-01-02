@@ -235,8 +235,8 @@
             <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
           </h3>
           <ul>
-           <li>
-             建築風格由東南亞調整為東亞風格
+            <li>
+              建築風格由東南亞調整為東亞風格
             </li>
             <li>獲得<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link></li>
             <li>

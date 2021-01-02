@@ -63,9 +63,7 @@
             <div class="col-md-6">
               <ol>
                 <li>
-                  <nuxt-link to="/batt/An_Unlikely_Messiah"
-                    >橫空出世</nuxt-link
-                  >
+                  <nuxt-link to="/batt/An_Unlikely_Messiah">橫空出世</nuxt-link>
                 </li>
                 <li>
                   <nuxt-link to="/batt/The_Maid_of_Orleans"
@@ -79,9 +77,7 @@
                 </li>
                 <li><nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link></li>
                 <li>
-                  <nuxt-link to="/batt/The_Siege_of_Paris"
-                    >圍攻巴黎</nuxt-link
-                  >
+                  <nuxt-link to="/batt/The_Siege_of_Paris">圍攻巴黎</nuxt-link>
                 </li>
                 <li>
                   <nuxt-link to="/batt/A_Perfect_Martyr">遺芳餘烈</nuxt-link>

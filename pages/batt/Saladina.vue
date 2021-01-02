@@ -58,9 +58,7 @@
                   <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯君主</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Horns_of_Hattin"
-                    >哈丁角</nuxt-link
-                  >
+                  <nuxt-link to="/batt/The_Horns_of_Hattin">哈丁角</nuxt-link>
                 </li>
                 <li>
                   <nuxt-link to="/batt/The_Siege_of_Jerusalem"

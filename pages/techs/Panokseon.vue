@@ -13,7 +13,9 @@
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
-            >移動快15%。這項科技被新的特殊科技<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>所取代
+            >移動快15%。這項科技被新的特殊科技<nuxt-link to="/techs/Eupseong"
+              >邑城</nuxt-link
+            >所取代
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -69,7 +71,8 @@
           </h3>
           <ul>
             <li>
-              (42848更新) <nuxt-link to="/techs/Eupseong">邑城</nuxt-link>取代板屋船。
+              (42848更新)
+              <nuxt-link to="/techs/Eupseong">邑城</nuxt-link>取代板屋船。
             </li>
           </ul>
         </div>

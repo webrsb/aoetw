@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>圍攻巴黎</b>（舊譯：巴黎攻城戰）為<nuxt-link to="/batt/Joan_of_Arc"
+            <b>圍攻巴黎</b>（舊譯：巴黎攻城戰）為<nuxt-link
+              to="/batt/Joan_of_Arc"
               >聖女貞德戰役</nuxt-link
             >的第五關劇情關卡，此關任務內容為貞德與法軍前往巴黎市區解救難民，並護送至康比涅的任務。
           </p>
@@ -56,10 +57,8 @@
               玩家3
             </td>
             <td class="tc6">
-              <nuxt-link to="/civs/Britons">英格蘭人</nuxt-link>（紅色）<nuxt-link
-                to="/civs/Britons"
-                >不列顛</nuxt-link
-              >
+              <nuxt-link to="/civs/Britons">英格蘭人</nuxt-link
+              >（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -71,7 +70,7 @@
               玩家2
             </td>
             <td class="tc6">勃根地（紫色）法蘭克</td>
-          </tr>          
+          </tr>
         </table>
 
         <h2>戰役說明</h2>
@@ -242,21 +241,22 @@
               >將會是一個棘手的問題。
             </li>
             <li>如果面對著強大的反抗時，就逃走吧！一定要逃走！</li>
-          </ul>          
+          </ul>
           <h3>細節</h3>
           <div class="hrn1"></div>
           <ul>
             <li>
               勃艮第的預設外交立場為同盟，原因不明。但只要他們看到一個玩家的單位，他們就會改變它外交關係並進行攻擊。在這之前先與勃艮第的外交關係改成中立，這樣就可以殲滅勃根地在康比涅城外的所有單位。
-            </li>            
-          </ul>        
-                    <h3>決定版變更點</h3>
+            </li>
+          </ul>
+          <h3>決定版變更點</h3>
           <div class="hrn1"></div>
           <ul>
-            <li>和英格蘭的外交關係更改成中立，城中的大地之母軍隊由民兵變成裝甲步兵，並且都有封建時代的科技。國王的手下在樹林隱藏的民兵也沒了，但支援完玩家後仍不會被擊敗。
-            </li>            
-          </ul>        
-        </div>        
+            <li>
+              和英格蘭的外交關係更改成中立，城中的大地之母軍隊由民兵變成裝甲步兵，並且都有封建時代的科技。國王的手下在樹林隱藏的民兵也沒了，但支援完玩家後仍不會被擊敗。
+            </li>
+          </ul>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">

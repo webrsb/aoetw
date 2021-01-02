@@ -78,9 +78,7 @@
               <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                >兵臨聖城</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Siege_of_Jerusalem">兵臨聖城</nuxt-link>
               <br /><nuxt-link to="/batt/The_Lion_and_the_Demon"
                 >獅子與惡魔</nuxt-link
               >
@@ -453,9 +451,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >橫空出世</nuxt-link
-              >
+              <nuxt-link to="/batt/An_Unlikely_Messiah">橫空出世</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -512,9 +508,7 @@
               <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
                 >掃蕩羅亞爾</nuxt-link
               >
-              <br /><nuxt-link to="/batt/A_Perfect_Martyr"
-                >遺芳餘烈</nuxt-link
-              >
+              <br /><nuxt-link to="/batt/A_Perfect_Martyr">遺芳餘烈</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -557,9 +551,7 @@
             <td class="tunitc4">騎士</td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                >兵臨聖城</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Siege_of_Jerusalem">兵臨聖城</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -746,9 +738,7 @@
             <td class="tunitc4">騎兵</td>
             <td class="tunitc6">騎士</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >橫空出世</nuxt-link
-              >
+              <nuxt-link to="/batt/An_Unlikely_Messiah">橫空出世</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -761,9 +751,7 @@
             <td class="tunitc4">騎兵</td>
             <td class="tunitc6">騎士</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >橫空出世</nuxt-link
-              >
+              <nuxt-link to="/batt/An_Unlikely_Messiah">橫空出世</nuxt-link>
             </td>
           </tr>
           <tr>

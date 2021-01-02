@@ -67,8 +67,7 @@
             </li>
             <li>
               條頓騎士可與<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-              >搭配，因為<nuxt-link to="/units/Archer_Units"
-                >弓箭手</nuxt-link
+              >搭配，因為<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
               >對他們毫無威脅。但最好的伙伴也許是<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link

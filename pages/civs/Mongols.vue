@@ -30,7 +30,8 @@
               >馬弓騎兵</nuxt-link
             >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >，除沒有<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >和<nuxt-link to="/techs/Supplies">供給</nuxt-link>科技外，他們還有完整的<nuxt-link to="/units/Infantry_Units"
+            >和<nuxt-link to="/techs/Supplies">供給</nuxt-link
+            >科技外，他們還有完整的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link>，而除了<nuxt-link
               to="/units/Bombard_Cannon"

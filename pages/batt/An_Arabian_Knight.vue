@@ -126,12 +126,24 @@
             <li>利用你輕騎兵的視野以避免不必要的衝突。</li>
           </ul>
         </div>
-                <h2>攻略</h2>
+        <h2>攻略</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>首先一邊往埃及前進的同時一邊迎擊西法蘭克人的軍隊。之後埃及人會轉敵對，我方會拿到一台<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>，用它把埃及人的<nuxt-link to="/building/Gate">城門</nuxt-link>毀壞。</li>
-            <li>接著快速地用<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>隊移動到清真寺，到達後埃及改回同盟並有一批援軍。再來對附東法蘭克人，先把投石車打掉，再把剩餘軍隊掃蕩後摧毀<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>即可。</li>
+            <li>
+              首先一邊往埃及前進的同時一邊迎擊西法蘭克人的軍隊。之後埃及人會轉敵對，我方會拿到一台<nuxt-link
+                to="/units/Cannon_Galleon"
+                >火砲戰船</nuxt-link
+              >，用它把埃及人的<nuxt-link to="/building/Gate">城門</nuxt-link
+              >毀壞。
+            </li>
+            <li>
+              接著快速地用<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >隊移動到清真寺，到達後埃及改回同盟並有一批援軍。再來對附東法蘭克人，先把投石車打掉，再把剩餘軍隊掃蕩後摧毀<nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >即可。
+            </li>
           </ul>
         </div>
       </div>
