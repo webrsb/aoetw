@@ -20,8 +20,7 @@
             >從沃庫勒爾到支農。這史實也忠實反映梅茲爵士出現在<nuxt-link
               to="/batt/Joan_of_Arc"
               >聖女貞德戰役</nuxt-link
-            >“<nuxt-link to="/batt/An_Unlikely_Messiah"
-              >橫空出世</nuxt-link
+            >“<nuxt-link to="/batt/An_Unlikely_Messiah">橫空出世</nuxt-link
             >”的場景中。貝查德爵士有<nuxt-link to="/units/Knight"
               >騎士</nuxt-link
             >的外貌但有更好的戰鬥力。由於他屬於<nuxt-link to="/units/hero"

@@ -906,13 +906,6 @@
                   alt=""
                 /><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
               </td>
-              <td class="tunitc4">
-                <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>
-              </td>
-              <td class="tunitc5">300W 300F</td>
-              <td class="tunitc6">
-                <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>移動快15%。
-              </td>
             </tr>
             <tr>
               <td class="tunitc6">

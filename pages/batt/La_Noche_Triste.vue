@@ -148,7 +148,6 @@
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              
               <td class="tc6">
                 <div class="p1"></div>
                 玩家2
@@ -156,7 +155,7 @@
               <td class="tc6">
                 科爾特斯(藍色)<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
               </td>
-                            <td class="tc6">
+              <td class="tc6">
                 <div class="p4"></div>
                 玩家3
               </td>
@@ -168,7 +167,6 @@
                 玩家4
               </td>
               <td class="tc6">特拉斯卡拉(紅色)阿茲特克</td>
-
             </tr>
           </table>
 
@@ -275,7 +273,7 @@
               一旦你摧毀了這個奇蹟，科爾特斯會立即投降，你和被征服的阿茲台克人會一起宣布獲勝者，儘管狀態是“敵對”。
             </li>
           </ul>
-                    <h3>決定版變更點</h3>
+          <h3>決定版變更點</h3>
           <div class="hrn1"></div>
           <ul>
             <li>

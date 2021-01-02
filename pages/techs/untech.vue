@@ -285,11 +285,11 @@
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>
+              <nuxt-link to="/techs/Eupseong">邑城</nuxt-link>
             </td>
             <td class="tunitc5">300W 300F</td>
             <td class="tunitc6">
-              <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>移動快15%。
+              <nuxt-link to="/building/Watch_Tower">箭塔系</nuxt-link>射程+2
             </td>
           </tr>
           <tr>

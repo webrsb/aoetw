@@ -244,7 +244,7 @@
                   <nuxt-link to="/techs/Tusk_Swords">象牙劍</nuxt-link>/
                   <nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link>
                   (<nuxt-link to="/civs/Khmer">高棉</nuxt-link>)<br />
-                  <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>/
+                  <nuxt-link to="/techs/Eupseong">邑城</nuxt-link>/
                   <nuxt-link to="/techs/Shinkichon">投擲器</nuxt-link>
                   (<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>)<br />
                   <nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link>/
