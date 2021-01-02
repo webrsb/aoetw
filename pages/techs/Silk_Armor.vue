@@ -19,7 +19,7 @@
             >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>和<nuxt-link
               to="/units/Kipchak"
               >欽察</nuxt-link
-            >的<nuxt-link to="/armor">遠程護甲</nuxt-link>都+1。
+            >的<nuxt-link to="/armor">遠程護甲</nuxt-link>及近戰護甲都+1。
           </p>
         </div>
         <h3>戰術要點</h3>
