@@ -641,6 +641,14 @@
               >有額外+4攻擊。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (39284更新) 傭兵攻擊增至10，受特殊科技巨盾的加成。
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
@@ -847,7 +855,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">9(近戰)</td>
+            <td class="unit4">10(近戰)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>

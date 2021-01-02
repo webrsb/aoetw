@@ -486,6 +486,10 @@
               <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link
               >非精銳降為2.03(與精銳相同)
             </li>
+            <li>
+              (39284更新)
+              熱那亞弩手訓練時間從22秒減至18秒，精銳熱那亞弩手訓練時間從19秒減至14秒。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -656,7 +660,7 @@
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
-            <td class="unit4">22/19(精銳)秒</td>
+            <td class="unit4">18/14(精銳)秒</td>
           </tr>
           <tr>
             <td

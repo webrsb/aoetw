@@ -36,7 +36,7 @@
             ><nuxt-link to="/techs/Pavise">巨盾</nuxt-link
             >使得弓兵更加強大，另外<nuxt-link to="/elements/Team_Bonus"
               >團隊加分</nuxt-link
-            >給予的僱<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+            >給予的<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
             >是遊戲裡唯一對<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
             >有加成的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             >且擁有對火藥的特殊裝甲(5.7版改成這樣)這也反映了歷史上在地中海的商業帝國)，位於地中海中央其港口城市的戰略位置非常重要，因此<nuxt-link
@@ -86,7 +86,7 @@
               >/美洲獨有<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >，但因為熱那亞弩手對<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
-              >得加成使的欠缺戟兵的主要問題並不大，另外義大利包含同盟擁有帝初無雙的僱傭兵(5.7版前僱傭兵並不受任何剋步兵的攻擊加成)使得剛上帝王時代時卻擁有要升級2次才擁有的<nuxt-link
+              >得加成使的欠缺戟兵的主要問題並不大，另外義大利包含同盟擁有帝初無雙的傭兵(5.7版前傭兵並不受任何剋步兵的攻擊加成)使得剛上帝王時代時卻擁有要升級2次才擁有的<nuxt-link
                 to="/units/Champion"
                 >劍兵勇士</nuxt-link
               >近乎一樣的素質。
@@ -126,7 +126,7 @@
             <li>
               經濟上只欠缺<nuxt-link to="/techs/Gold_Shaft_Mining"
                 >採金裝置</nuxt-link
-              >，但升級時代便宜15%、帝王時代特殊科技絲綢之路貿易單位便宜50%、漁船木材-15，因此影響並不大，另外<nuxt-link
+              >，但升級時代便宜15%、帝王時代特殊科技絲綢之路貿易單位便宜50%、漁船木材-11，因此影響並不大，另外<nuxt-link
                 to="/building/University"
                 >學院</nuxt-link
               >只欠缺攻城工程師，<nuxt-link to="/building/Blacksmith"
@@ -134,14 +134,14 @@
               >全滿，防禦相關全滿，因此義大利在科技優勢上是名列前茅的文明。
             </li>
             <li>
-              義大利因為擁有僱傭兵這帝王初期強大的步兵，因此搭配上步兵優勢大的國家團隊威力會更上一層樓。例:<nuxt-link
+              義大利因為擁有傭兵這帝王初期強大的步兵，因此搭配上步兵優勢大的國家團隊威力會更上一層樓。例:<nuxt-link
                 to="/civs/Burmese"
                 >緬甸</nuxt-link
               >、塞爾特、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
               >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>...等。
             </li>
             <li>
-              因為僱傭兵剋火藥單位的關係使的像是<nuxt-link to="/civs/Turks"
+              因為傭兵剋火藥單位的關係使的像是<nuxt-link to="/civs/Turks"
                 >土耳其</nuxt-link
               >類似的文明非常怕義大利這文明。
             </li>
@@ -175,7 +175,7 @@
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
                 to="/techs/Pavise"
                 >巨盾</nuxt-link
-              >：弓兵近防/遠防+1。
+              >：步弓兵和傭兵近防和遠防+1。
             </li>
             <li>
               <img
@@ -191,11 +191,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>碼頭科技便宜50%</li>
-            <li>漁船木材-11木材(64木材)</li>
-            <li>升級時代便宜15%</li>
-            <li>火藥單位便宜25%(遊戲裡實際上是20%)</li>
-            <li><strong>團隊加分:</strong>同盟可生產僱傭兵</li>
+            <li>碼頭科技成本-50%</li>
+            <li>漁船成本-15％(64木材)</li>
+            <li>升級時代成本-15%</li>
+            <li>火藥單位成本-20%</li>
+            <li><strong>團隊加分:</strong>帝王時代可以在軍營訓練傭兵</li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -213,9 +213,9 @@
           <ul>
             <li>研發時代成本便宜15%(而不是10%)</li>
             <li>
-              僱傭兵不再需要<nuxt-link to="/building/Castle">城堡</nuxt-link>。
+              傭兵不再需要<nuxt-link to="/building/Castle">城堡</nuxt-link>。
             </li>
-            <li>僱傭兵+1攻擊與+0.2的速度。</li>
+            <li>傭兵+1攻擊與+0.2的速度。</li>
             <li>
               有了<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>。
             </li>
@@ -232,14 +232,32 @@
                 >視野</nuxt-link
               >。
             </li>
-            <li>僱傭兵訓練時間從11秒增加到16秒。</li>
+            <li>傭兵訓練時間從11秒增加到16秒。</li>
             <li>熱那亞弩手成本從50w、50g降低到45w、45g。</li>
             <li>
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>不再受益於巨盾。
             </li>
             <li>
-              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，魚船花費60W →
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，漁船花費60W →
               64W。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              熱那亞弩手的裝彈時間從3減至2。
+            </li>
+            <li>
+              (36906更新) 漁船成本降低15％ (成本為64木材)。
+            </li>
+            <li>
+              (39284更新) 傭兵攻擊增至10，受特殊科技巨盾的加成。
+            </li>
+            <li>
+              (39284更新)
+              熱那亞弩手訓練時間從22秒減至18秒，精銳熱那亞弩手訓練時間從19秒減至14秒。
             </li>
           </ul>
         </div>
