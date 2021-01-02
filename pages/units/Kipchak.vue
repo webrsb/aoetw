@@ -849,6 +849,12 @@
             <li>
               (36202更新) 欽察一次三發，精鋭欽察一次四發。
             </li>
+            <li>
+              (42848更新) 欽察開火間隔從0增加成5，與<nuxt-link
+                to="/units/Mangudai"
+                >蒙古突騎</nuxt-link
+              >一樣。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -1016,7 +1022,7 @@
           </tr>
           <tr>
             <td class="unit3">開火間隔</td>
-            <td class="unit4">0</td>
+            <td class="unit4">5</td>
           </tr>
           <tr>
             <td class="unit3">射程</td>
