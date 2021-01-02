@@ -529,7 +529,7 @@
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/unique_tech.png" width="30" alt="" />
-              <div><nuxt-link to="/techs/Panokseon">板屋船</nuxt-link></div>
+              <div><nuxt-link to="/techs/Eupseong">邑城</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
             <td class="t13 trm"></td>

@@ -13,7 +13,7 @@
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
-            >移動快15%。
+            >移動快15%。這項科技被新的特殊科技<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>所取代
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -64,6 +64,14 @@
           <ul>
             <li>板屋船的成本為300食物300木材。</li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (42848更新) <nuxt-link to="/techs/Eupseong">邑城</nuxt-link>取代板屋船。
+            </li>
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -104,7 +112,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>
+              無
             </td>
           </tr>
           <tr>

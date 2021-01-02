@@ -110,10 +110,6 @@
                 src="~assets/dry_dock.png"
                 alt=""
               /><nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>(+15%) <br />
-              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Panokseon"
-                >板屋船</nuxt-link
-              >(+15%，<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -557,6 +553,11 @@
           <ul>
             <li>
               (39284更新) 龜甲船的木材成本從180降為152。
+            </li>
+          </ul>
+          <ul>
+            <li>
+              (42848更新) <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>被<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>所取代。
             </li>
           </ul>
         </div>

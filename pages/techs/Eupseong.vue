@@ -15,7 +15,8 @@
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Watch_Tower">箭塔系</nuxt-link
-            >射程+2。這項科技取代先前的特殊科技<nuxt-link to="/techs/Panokseon">板屋船</nuxt-link
+            >射程+2。這項科技取代先前的特殊科技<nuxt-link to="/techs/Panokseon"
+              >板屋船</nuxt-link
             >。
           </p>
         </div>
@@ -25,7 +26,8 @@
           <ul>
             <li>
               邑城與朝鮮的<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-            >自動升級相對應。 隨著射程的增加，朝鮮箭塔可以攻擊更遠的單位，並在敵人靠近前將其擊敗。
+              >自動升級相對應。
+              隨著射程的增加，朝鮮箭塔可以攻擊更遠的單位，並在敵人靠近前將其擊敗。
             </li>
           </ul>
         </div>
@@ -48,11 +50,11 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>朝鮮可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >研發特殊科技<nuxt-link to="/techs/Panokseon">板屋船</nuxt-link
-            >。</li>
-          </ul>  
+            <li>
+              朝鮮可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >研發特殊科技<nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>。
+            </li>
+          </ul>
           <h3>
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
@@ -61,7 +63,7 @@
               (42848更新) 邑城取代板屋船，朝鮮從此失去了箭塔射程加成的文明加成。
             </li>
           </ul>
-        </div>        
+        </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -147,8 +149,7 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              <nuxt-link to="/building/Watch_Tower">箭塔系</nuxt-link
-            >射程+2。
+              <nuxt-link to="/building/Watch_Tower">箭塔系</nuxt-link>射程+2。
             </td>
           </tr>
         </table>
