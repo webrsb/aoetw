@@ -223,7 +223,16 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Murder_Holes">近射孔</nuxt-link
-              >:消除最小射程
+              >:消除最小射程<br />
+              <img
+                class="gg"
+                src="~assets/unique_tech.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Eupseong">邑城</nuxt-link
+              >:+2，<nuxt-link to="/civs/Koreans"
+                >朝鮮</nuxt-link
+              >限定
             </td>
           </tr>
           <tr>
@@ -353,7 +362,7 @@
               >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >增加10%/20%/30%/40% HP
+              >增加10%/20%/30%/40% HP。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -369,8 +378,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-              >：箭塔建造速度更快(75s其他<nuxt-link to="/civs">文明</nuxt-link
-              >80s)。箭塔科技升級免費
+              >：箭塔科技升級免費。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：箭塔<nuxt-link
@@ -403,9 +411,20 @@
         <div class="n1">
           <ul>
             <li>
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+                >提升瞭望箭塔攻擊和射程的科技研發快50％。
+              </li>
+            <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >：瞭望箭塔+3視野。
             </li>
+            <li>
+                <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
+                  to="/techs/Heresy"
+                  >異端邪說</nuxt-link
+                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：同盟<nuxt-link
                 to="/building/University"
@@ -461,7 +480,7 @@
                 >義勇騎兵</nuxt-link
               >。只能在<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              >研發
+              >研發。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:引入<nuxt-link
@@ -479,7 +498,7 @@
                 to="/techs/Yeomen"
                 >義勇騎兵</nuxt-link
               >。可在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-              >研發
+              >研發。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
@@ -532,11 +551,11 @@
               在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，<nuxt-link
                 to="/civs/Koreans"
                 >朝鮮</nuxt-link
-              >蓋塔時間60s → 75s (其他文明 80s)
+              >蓋塔時間60s → 75s (其他文明 80s)。
             </li>
             <li>
               在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，箭塔花費25W
-              125S → 50W 125S
+              125S → 50W 125S。
             </li>
           </ul>
           <h3>
@@ -544,7 +563,13 @@
           </h3>
           <ul>
             <li>
-              封建時代前的生命值由1020減為700
+              封建時代前的生命值由1020減為700。
+            </li>
+            <li>
+              (42848更新) 朝鮮不再具有<nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>科技，由<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>取代。
+            </li>
+            <li>
+              (42848更新) 城堡/帝王時代的箭塔不再具有+1/+2射程的文明加成。
             </li>
           </ul>
         </div>
