@@ -731,6 +731,14 @@
               >。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (39284更新) 馬戰車的木材成本從110降為92。
+            </li>
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -850,7 +858,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">110</td>
+            <td class="unit4">92</td>
           </tr>
           <tr>
             <td class="unit3">
