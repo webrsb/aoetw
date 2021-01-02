@@ -616,6 +616,15 @@
               3hp → 1hp
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >:(36906更新) 漁船成本降低15％ (成本為64木材)。
+            </li>
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -723,7 +732,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">75</td>
+            <td class="unit4">64</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
