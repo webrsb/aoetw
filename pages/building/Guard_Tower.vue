@@ -497,7 +497,7 @@
             <li>
                 <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
                 >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-                >提升防禦箭塔攻擊和射程的科技研發快50％。
+                >提升防禦箭塔攻擊和射程的科技研發快80％。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
