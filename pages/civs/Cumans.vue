@@ -226,7 +226,8 @@
               >、<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>。
             </li>
             <li>
-              最初欽察有1.8的視野範圍。
+              最初<nuxt-link to="/units/Kipchak">欽察</nuxt-link
+              >有1.8的視野範圍。
             </li>
             <li>
               最初，從<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
@@ -270,6 +271,17 @@
               <nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link
               >受益於<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
               >，但訓練速度從+80％降為+50％。
+            </li>
+            <li>
+              (36202更新) 庫曼無法研發<nuxt-link to="/techs/Supplies"
+                >供給</nuxt-link
+              >。
+            </li>
+            <li>
+              (42848更新) 欽察開火間隔從0增加成5，與<nuxt-link
+                to="/units/Mangudai"
+                >蒙古突騎</nuxt-link
+              >一樣。
             </li>
           </ul>
         </div>
