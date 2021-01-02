@@ -341,6 +341,10 @@
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
                 >：兵工廠建造速度快30%
               </li>
+              <li>
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                >：兵工廠升級所需食物-50%
+              </li>
             </ul>
           </div>
           <h3>團隊加分</h3>
@@ -354,6 +358,10 @@
                 >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link
                 >和<nuxt-link to="/techs/Treadmill_Crane">磨坊水車</nuxt-link
                 >的速度快80％。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                >：兵工廠工作效率+80%
               </li>
             </ul>
           </div>
@@ -381,6 +389,18 @@
                 >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
                 >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
                 >的HP分別是1800/2100/2100。
+              </li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>最初保加利亞的團隊中兵工廠工作效率+50%</li>
+            </ul>
+            <ul>
+              <li>
+                (42848更新)
+                保加利亞的團隊中兵工廠工作效率提升為80%、兵工廠科技升級所需食物-50%
               </li>
             </ul>
           </div>
