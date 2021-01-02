@@ -362,7 +362,9 @@
               >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >增加10%/20%/30%/40% HP。
+              >增加10%/20%/30%/40% HP，<nuxt-link to="/techs/Town_Watch"
+                >城鎮瞭望</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -547,6 +549,11 @@
               >:在4.8版後<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
               >讓箭塔可發射額外<strong>兩支箭</strong>。
             </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+          </h3>
+          <ul>
             <li>
               在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，<nuxt-link
                 to="/civs/Koreans"
