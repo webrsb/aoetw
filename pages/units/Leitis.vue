@@ -709,7 +709,7 @@
           </tr>
           <tr>
             <td class="unit3">遠防</td>
-            <td class="unit4">2</td>
+            <td class="unit4">1</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>

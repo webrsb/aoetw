@@ -210,11 +210,12 @@
                 >塔盾</nuxt-link
               >成本由800F/200G→500F/200G，遠程防禦由1上升至2。
             </li>
-             <li>
-              (36202更新) 立陶宛無法研發<nuxt-link to="/techs/Supplies">供給</nuxt-link
+            <li>
+              (36202更新) 立陶宛無法研發<nuxt-link to="/techs/Supplies"
+                >供給</nuxt-link
               >。
             </li>
-             <li>
+            <li>
               (42848更新) 烈堤司和精銳烈堤司的遠程防禦從2減成1。
             </li>
           </ul>
