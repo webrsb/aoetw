@@ -48,6 +48,11 @@
                 >城堡</nuxt-link
               >/帝王時代研究速度快10%/15%/20%。
             </li>
+            <li></li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >：織布技術立即研發完成。
+            </li>
           </ul>
         </div>
         <h3>更新日誌</h3>
@@ -80,6 +85,16 @@
               >量+50。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+            <ul>
+              <li>
+                (36906更新)
+                <nuxt-link to="/civs/Goths">哥德</nuxt-link>：獲得免費織布技術。
+              </li>
+              <li>(42848更新) 哥德：織布技術不再免費，改為立即研發完成。</li>
+            </ul>
+          </h3>
         </div>
         <h3>豆知識</h3>
         <div class="hrn1"></div>
