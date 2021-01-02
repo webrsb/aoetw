@@ -34,7 +34,7 @@
             >、<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>、<nuxt-link
               to="/units/War_Elephant"
               >戰象</nuxt-link
-            >和<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+            >和<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
             >的攻擊有減傷效果；<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >和<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link

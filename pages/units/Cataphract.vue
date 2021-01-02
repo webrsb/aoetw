@@ -33,7 +33,7 @@
             <li>
               騎兵加成抵免能夠降低對<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
-              >加成的傷害，例如<nuxt-link to="/units/Heavy_Camel"
+              >加成的傷害，例如<nuxt-link to="/units/Heavy_Camel_Rider"
                 >重裝駱駝騎兵</nuxt-link
               >+18對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               >加成傷害攻擊擁有(+12/+16(精銳))
@@ -126,7 +126,7 @@
               >
             </li>
             <p>
-              除了<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              除了<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >之外，拜占庭聖騎兵是<nuxt-link to="/armor">遠防</nuxt-link
               >最弱的騎兵單位。所以用常理判斷，拜占庭聖騎兵相當害怕<nuxt-link
                 to="/units/Archer_Units"
@@ -333,15 +333,15 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
-                    >(<nuxt-link to="/units/Imperial_Camel"
+                    >(<nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
                     >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -415,7 +415,7 @@
                       class="gg"
                       src="~assets/CamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
                   <li>
                     <img

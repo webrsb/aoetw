@@ -82,7 +82,7 @@
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
               >，<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >，<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
+              >，<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>，<nuxt-link
                 to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >

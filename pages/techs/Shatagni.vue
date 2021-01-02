@@ -22,7 +22,7 @@
           <ul>
             <li>
               一支<nuxt-link to="/civs/Indians">印度</nuxt-link
-              >的軍隊應該要有以下兩種核心單位:<nuxt-link to="/units/Camel"
+              >的軍隊應該要有以下兩種核心單位:<nuxt-link to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >。印度火銃是讓<nuxt-link to="/units/Hand_Cannoneer"

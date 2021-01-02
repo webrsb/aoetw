@@ -117,7 +117,7 @@
             </ul>
             <ul>
               <li>
-                點擊<nuxt-link to="/units/Imperial_Camel"
+                點擊<nuxt-link to="/units/Imperial_Camel_Rider"
                   >帝王駱駝騎兵</nuxt-link
                 >以選擇大象單位。
               </li>
@@ -177,7 +177,7 @@
           <ul>
             <li>
               布里斯比羅吉‧兆汗（紅）的大軍在戰場南邊集結了，其中有重裝和輕步兵、步弓兵、<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、騎士和大象。
             </li>

@@ -57,8 +57,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            拜占庭人生產<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-            >/<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+            拜占庭人生產<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+            >/<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
             >，<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>/<nuxt-link
               to="/units/Pikeman"
               >重裝長槍兵</nuxt-link
@@ -203,7 +203,7 @@
           黑暗時代建築物獲得+10%HP，封建時代+20%，城堡時代+30%，帝王時代+40%(不累積最高+40%)
         </li>
         <li>
-          <nuxt-link to="/units/Camel">駱駝</nuxt-link>、槍兵、<nuxt-link
+          <nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>、槍兵、<nuxt-link
             to="/units/Skirmisher"
             >矛兵系列</nuxt-link
           >便宜25%

@@ -102,7 +102,7 @@
           將軍X1，<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
           >X10，<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
           >X6，<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>X7，<nuxt-link
-            to="/units/Heavy_Camel"
+            to="/units/Heavy_Camel_Rider"
             >重裝駱駝騎兵</nuxt-link
           >X6，<nuxt-link to="/units/Villager">村民</nuxt-link>X4
         </li>

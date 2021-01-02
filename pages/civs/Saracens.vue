@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>薩拉森</b>是中東的<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            <b>薩拉森</b>是中東的<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
             >，世紀帝國II的可使用的最初<nuxt-link to="/civs">文明</nuxt-link
             >之一。薩拉森這詞一個非常有爭議的詞源，在不同時代上代表著不同人事物，西方文獻裡是稱伊斯蘭/阿拉伯帝國，早期羅馬帝國是稱西奈半島的阿拉伯遊牧民族，東羅馬帝國(<nuxt-link
@@ -122,7 +122,7 @@
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
               /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >：中距離遠程攻擊的<nuxt-link to="/units/Camel"
+              >：中距離遠程攻擊的<nuxt-link to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >，對騎兵類攻擊有極大加成。
             </li>
@@ -284,7 +284,7 @@
           <tr>
             <td class="unit3">分類文明</td>
             <td class="unit4">
-              <nuxt-link to="/units/Camel">駱駝</nuxt-link>/<nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>/<nuxt-link
                 to="/units/Naval_Vessels"
                 >海軍</nuxt-link
               >
@@ -303,7 +303,7 @@
             <td class="unit3">首選戰略</td>
             <td class="unit4">
               <nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >僧侶/<nuxt-link to="/units/Camel">駱駝</nuxt-link>
+              >僧侶/<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>
             </td>
           </tr>
           <tr>

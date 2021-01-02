@@ -74,9 +74,9 @@
               <nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>•
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
               <br />
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>•
-              <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>•
-              <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
+              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>•
+              <nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>•
+              <nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link>
               <br />
               <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>•
               <nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link><br />
@@ -175,7 +175,7 @@
                   <nuxt-link to="/units/Slinger">投石手</nuxt-link><br />
                   <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
                   ><br />
-                  <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
+                  <nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
                   ><br />
                   <nuxt-link to="/units/Genoese_Crossbowman"
                     >熱那亞弩手</nuxt-link

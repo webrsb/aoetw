@@ -201,7 +201,7 @@
               </li>
               <li>
                 蓋爾米揚(4，黃色)十分看重游牧傳統，據說他們的騎射手從來不會射偏。他們的軍隊中包括輕騎兵、<nuxt-link
-                  to="/units/Camel"
+                  to="/units/Camel_Rider"
                   >駱駝騎兵</nuxt-link
                 >和馬騎弓兵，定期掃蕩敵人。
               </li>

@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>印度</b>是<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            <b>印度</b>是<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
             >和<nuxt-link to="/units/Gunpowder_Unit">火藥文明</nuxt-link
             >，《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
             >》新增的文明。印度軍隊一直以來都很依賴於大象，因此印度的<nuxt-link
@@ -16,9 +16,9 @@
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
             >。中世紀蒙兀兒帝國用駱駝攻入印度北部，且印度北部大多都是用駱駝當作戰的這也是之所以印度有駱駝的原因，遊戲為了體現他們所設定的時代因此給予印度遊戲中唯一陸上獨有的特殊單位<nuxt-link
-              to="/units/Imperial_Camel"
+              to="/units/Imperial_Camel_Rider"
               >帝王駱駝騎兵</nuxt-link
-            >比<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+            >比<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
             >更強更抗耐打且對新增對<nuxt-link to="/armor/Armor_Class_Building"
               >建築物</nuxt-link
             >的加成。中世紀的印度在<nuxt-link to="/civs/Chinese"
@@ -144,8 +144,8 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
-              >：更強大的<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
+              >：更強大的<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >，對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊加成。
             </li>
@@ -311,7 +311,7 @@
           <tr>
             <td class="unit3">分類文明</td>
             <td class="unit4">
-              <nuxt-link to="/units/Camel">駱駝</nuxt-link>/<nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>/<nuxt-link
                 to="/units/Gunpowder_Unit"
                 >火藥</nuxt-link
               >
@@ -326,7 +326,7 @@
               >
               <br />
               <img class="gg" src="~assets/ImperialCamelIcon.png" /><nuxt-link
-                to="/units/Imperial_Camel"
+                to="/units/Imperial_Camel_Rider"
                 >帝王駱駝騎兵</nuxt-link
               >
             </td>
@@ -335,7 +335,7 @@
             <td class="unit3">首選戰略</td>
             <td class="unit4">
               <nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              ><nuxt-link to="/units/Camel">駱駝</nuxt-link>、<nuxt-link
+              ><nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>、<nuxt-link
                 to="/ar/scrush"
                 >封建肉馬</nuxt-link
               >

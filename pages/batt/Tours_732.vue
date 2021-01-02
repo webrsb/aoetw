@@ -157,7 +157,7 @@
               </li>
               <li>
                 摩爾(綠色)佔據著西南部的波義提爾斯城，這使得他們很難被擊敗，它們有<nuxt-link
-                  to="/units/Camel"
+                  to="/units/Camel_Rider"
                   >駱駝騎兵</nuxt-link
                 >、騎士、弩砲，如果時間足夠還可能訓練<nuxt-link
                   to="/units/Mameluke"

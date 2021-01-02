@@ -61,7 +61,7 @@
               擁有<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
               >統/騎兵系統近乎全滿的<nuxt-link to="/tree/vie">科技樹</nuxt-link
               >，無<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-              >/<nuxt-link to="/units/Camel">駱駝</nuxt-link>，因此打<nuxt-link
+              >/<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>，因此打<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
               >/騎兵都是不錯選擇。

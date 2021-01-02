@@ -103,7 +103,7 @@
             >，其擅長對付騎兵的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>的<nuxt-link
-              to="/Heavy_Camel"
+              to="/Heavy_Camel_Rider"
               >重裝駱駝</nuxt-link
             ><nuxt-link to="/units/Knight">騎士</nuxt-link
             >、死亡會回饋的僧侶、還有西班牙所缺少的<nuxt-link

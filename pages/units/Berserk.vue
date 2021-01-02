@@ -105,7 +105,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >、<nuxt-link to="/building">建築物</nuxt-link>和<nuxt-link
@@ -559,7 +559,7 @@
                 to="/units/hero"
                 >英雄</nuxt-link
               >和<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               >部隊。
             </li>

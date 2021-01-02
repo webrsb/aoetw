@@ -264,7 +264,7 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
-              >:<nuxt-link to="/units/Camel">駱駝</nuxt-link>部隊獲得<nuxt-link
+              >:<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>部隊獲得<nuxt-link
                 to="/elements/Regeneration"
                 >回血</nuxt-link
               >能力(每分鐘回15 HP)，<nuxt-link to="/civs/Berbers"
@@ -329,15 +329,15 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
-                    >(<nuxt-link to="/units/Imperial_Camel"
+                    >(<nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
                     >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -371,7 +371,7 @@
                       class="gg"
                       src="~assets/CamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -648,7 +648,7 @@
               >是否用駱駝作戰，但肯定的是他們會拿來運送物資。
             </li>
             <li>
-              遊戲中的<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              遊戲中的<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >是單峰駱駝，而現實中;中國與蒙古原產的是雙峰駱駝，速度極為緩慢，並不適合作戰。
             </li>
             <li>
@@ -846,7 +846,7 @@
             <td class="unit3">從升級</td>
             <td class="unit4">
               <img class="gg" src="~assets/CamelIcon.png" alt="" /><nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >
             </td>
@@ -858,7 +858,7 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link>
             </td>
           </tr>
           <tr>

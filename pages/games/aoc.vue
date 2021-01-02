@@ -265,7 +265,7 @@
               >部隊可有 +1 的額外破壞力。
             </li>
             <li>
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >現在可迅速訓練成為長槍兵。
             </li>
             <li>

@@ -45,10 +45,10 @@
               >箭塔</nuxt-link
             >只能升級一次，以及不能蓋<nuxt-link to="/building/Bombard_Tower"
               >火砲塔</nuxt-link
-            >。但蒙古人也有<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >。但蒙古人也有<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
             >，是除了<nuxt-link to="/civs/Chinese">中國人</nuxt-link
             >與非洲中東<nuxt-link to="/civs">文明</nuxt-link
-            >外，唯二有<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >外，唯二有<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
             >的。在決定版的一次更新獲得了<nuxt-link to="/units/Steppe_Lancer"
               >草原騎兵</nuxt-link
             >以後，多了一個可以運用的騎兵系選擇，而且也擁有30%的生命值加成，包含血統更有98/124的生命值加上不俗的攻擊力以及多1的射程，遠遠比韃靼和庫曼的草原騎兵更為難纏。

@@ -107,7 +107,7 @@
               >/美洲獨有<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >，整體是可以使用的。再<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
-              >系統上缺少<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              >系統上缺少<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >/<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(舊稱<nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link

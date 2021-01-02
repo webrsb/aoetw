@@ -247,7 +247,7 @@
                 src="~assets/CamelIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>：反騎兵單位。
+              /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>：反騎兵單位。
             </li>
             <li>
               <img

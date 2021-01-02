@@ -84,7 +84,7 @@
               >：薩拉森海軍在陸地上有幾個哨站，一座<nuxt-link
                 to="/building/Castle"
                 >城堡</nuxt-link
-              >與幾隻<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              >與幾隻<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >，有一大群海軍在海面上巡邏。
             </li>
           </ul>
@@ -98,7 +98,7 @@
                 to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
-              >、<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
               >與<nuxt-link to="/units/Mangonel">投石車</nuxt-link>。
             </li>
           </ul>

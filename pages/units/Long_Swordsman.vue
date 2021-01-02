@@ -58,7 +58,7 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link

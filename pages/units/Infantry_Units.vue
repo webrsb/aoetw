@@ -1575,7 +1575,7 @@
               <td class="tunitc5">400F 300G</td>
               <td class="tunitc6">
                 步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
-                >攻擊+5，對<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+                >攻擊+5，對<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
                 >攻擊+4。
               </td>
             </tr>

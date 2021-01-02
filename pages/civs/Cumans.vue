@@ -85,9 +85,9 @@
             >。此外，騎兵從<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >開始每個時代速度提升5%。但奇怪的是，庫曼是唯一擁有<nuxt-link
-              to="/units/Camel"
+              to="/units/Camel_Rider"
               >駱駝騎兵</nuxt-link
-            >但無法升級為<nuxt-link to="/units/Heavy_Camel"
+            >但無法升級為<nuxt-link to="/units/Heavy_Camel_Rider"
               >重裝駱駝騎兵</nuxt-link
             >的文明。
           </p>
@@ -285,9 +285,9 @@
               >，<nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >的文明，也是唯一擁有<nuxt-link to="/units/Camel"
+              >的文明，也是唯一擁有<nuxt-link to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
-              >但無法升級為<nuxt-link to="/units/Heavy_Camel"
+              >但無法升級為<nuxt-link to="/units/Heavy_Camel_Rider"
                 >重裝駱駝騎兵</nuxt-link
               >的文明。
             </li>

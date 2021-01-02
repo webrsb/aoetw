@@ -32,7 +32,7 @@
               >柏柏</nuxt-link
             >文明一旦<nuxt-link to="/techs/Maghrabi_Camels"
               >馬格拉比駱駝</nuxt-link
-            >科技研發後，相關駱駝單位（<nuxt-link to="/units/Camel"
+            >科技研發後，相關駱駝單位（<nuxt-link to="/units/Camel_Rider"
               >駱駝騎兵</nuxt-link
             >及<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >）即可獲得回血能力。
@@ -63,7 +63,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>駱駝單位：<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >每分鐘回血15HP、<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
@@ -143,7 +143,7 @@
             >
               <div class="unititle">
                 <center>
-                  <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                  <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                 </center>
               </div>
             </td>

@@ -134,7 +134,7 @@
             </li>
             <li>
               埃及的伊克什德王朝(黃色)控制著阿斯旺城，這是一座橫跨西北部的尼羅河城池。一支由<nuxt-link
-                to="/units/Camel"
+                to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >、<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
               >和艦兵組成的隊伍層好幾次入侵努比亞，但都以失敗告終。

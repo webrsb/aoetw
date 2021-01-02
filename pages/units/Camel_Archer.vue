@@ -38,7 +38,7 @@
                 >攻擊速度</nuxt-link
               >高和移動快，他們可以支援重型騎兵（<nuxt-link to="/units/Knight"
                 >騎士</nuxt-link
-              >和<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+              >和<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
               >）對付各種<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
               >，他們也能有效殲滅<nuxt-link to="/units/Halberdier"
                 >戟兵</nuxt-link
@@ -90,7 +90,7 @@
                 >駱駝護甲</nuxt-link
               >和稍高的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
               >，對於那些對騎兵有攻擊加成的單位，比如<nuxt-link
-                to="/units/Heavy_Camel"
+                to="/units/Heavy_Camel_Rider"
                 >重裝駱駝騎兵</nuxt-link
               >，表現通常會更好。他們較低的<nuxt-link to="/elements/Frame_delay"
                 >開火間隔</nuxt-link
@@ -412,15 +412,15 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
+                    /><nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
-                    >(<nuxt-link to="/units/Imperial_Camel"
+                    >(<nuxt-link to="/units/Imperial_Camel_Rider"
                       >帝王駱駝騎兵</nuxt-link
                     >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -487,7 +487,7 @@
                       class="gg"
                       src="~assets/CamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
                   <li>
                     <img

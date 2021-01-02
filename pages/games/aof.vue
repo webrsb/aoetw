@@ -50,11 +50,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link
-              >：印度是印度的<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              >：印度是印度的<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >和<nuxt-link to="/units/Gunpowder_Unit">火藥文明</nuxt-link
               >，特殊單位是<nuxt-link to="/units/Elephant_Archer"
                 >象弓騎兵</nuxt-link
-              >與<nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
+              >與<nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
               >。
             </li>
             <li>
@@ -108,7 +108,7 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/Slingericon.png" alt="" /><nuxt-link

@@ -63,7 +63,7 @@
               ><nuxt-link to="/techs">科技</nuxt-link>全滿)。
             </li>
             <li>
-              日本武士對<nuxt-link to="/units/Imperial_Camel"
+              日本武士對<nuxt-link to="/units/Imperial_Camel_Rider"
                 >帝王駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link

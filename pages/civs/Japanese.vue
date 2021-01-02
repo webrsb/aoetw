@@ -168,7 +168,7 @@
               強大步兵的代價就是虛弱的騎兵，沒有<nuxt-link to="/units/Paladin"
                 >遊俠</nuxt-link
               >、<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
-              >與<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              >與<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >，所以日本面對長距離的<nuxt-link to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
               >會很吃力(比方<nuxt-link to="/units/Mangonel">投石車</nuxt-link

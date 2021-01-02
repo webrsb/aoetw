@@ -161,7 +161,7 @@
                 <li>熙德的軍隊（紅色）會跟阿方索國王的軍隊（藍色）結盟。</li>
                 <li>
                   這裡有三個敵人，黑衛陸軍、黑衛海軍、和約瑟夫精銳衛隊。兩個陸軍都由<nuxt-link
-                    to="/units/Camel"
+                    to="/units/Camel_Rider"
                     >駱駝</nuxt-link
                   >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
                   >組成、海軍主要是<nuxt-link to="/units/War_Galley"

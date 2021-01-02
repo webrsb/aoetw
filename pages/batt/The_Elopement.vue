@@ -151,12 +151,12 @@
             <li>
               存300黃金，然後點擊綠色的<nuxt-link to="/building/Stable"
                 >馬廄</nuxt-link
-              >，升級<nuxt-link to="/units/Imperial_Camel"
+              >，升級<nuxt-link to="/units/Imperial_Camel_Rider"
                 >帝王駱駝騎兵</nuxt-link
               >。
             </li>
             <li>
-              給伐木工兩匹<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              給伐木工兩匹<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
               >（駱駝騎兵），他會回報你一些<nuxt-link to="/resource/Wood"
                 >木材</nuxt-link
               >。

@@ -128,7 +128,7 @@
               貝根德爾王國(青色)在東邊的一座綠穀中，他是我們敵軍的同盟。他們會拖住我們，好讓達納罕的大軍逢修整備戰。所以最好的辦法是突擊他們，他們的軍隊包括劍兵、<nuxt-link
                 to="/units/Crossbowman"
                 >弩兵</nuxt-link
-              >和<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>。
+              >和<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>。
             </li>
             <li>
               在我們南邊，我們發現達爾金達人(橘色)已經加固了達納罕通往他的帝國的要道。現在幫助他們保戶要道以阻止敵軍進攻是你的首要任務。
@@ -304,9 +304,9 @@
               >市集</nuxt-link
             >貿易，幫助叛軍每付給他們300<nuxt-link to="/resource/Gold"
               >黃金</nuxt-link
-            >他們便會派出1名<nuxt-link to="/units/Imperial_Camel"
+            >他們便會派出1名<nuxt-link to="/units/Imperial_Camel_Rider"
               >帝王駱駝騎兵</nuxt-link
-            >、2名<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+            >、2名<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
             >及3名<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >進攻達納罕的營地，兩個對玩家的利益猶如杯水車薪，可以不用理會。
           </li>

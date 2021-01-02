@@ -427,8 +427,8 @@
             </li>
             <li>
               <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
-              >對<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-              >攻擊+7因為<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >對<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >攻擊+7因為<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >的護甲分類是<nuxt-link to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
               >。
@@ -505,7 +505,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>從<nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>從<nuxt-link
                 to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
               >分類中移除，所以箭塔對他們的攻擊加成也移除，現在箭塔對他們的攻擊是+1。

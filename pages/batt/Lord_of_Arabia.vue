@@ -102,7 +102,7 @@
           <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
-              4位<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              4位<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >、3位<nuxt-link to="/units/Villager">村民</nuxt-link
               >、3位<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
             </dd>

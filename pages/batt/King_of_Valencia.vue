@@ -104,7 +104,7 @@
               <nuxt-link to="/units/Knight">騎士</nuxt-link>x4、<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >x8、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >x8、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >x3、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
               >x3、<nuxt-link to="/units/Missionary">傳教士</nuxt-link
               >x2、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>x4。
@@ -171,7 +171,7 @@
               一開始在到達小城鎮後，開始將所有的軍隊村民往南移走，因為一開始部隊沒辦法跟敵方抗衡。
             </li>
             <li>
-              到達南邊後會有騎士，<nuxt-link to="/units/Camel"
+              到達南邊後會有騎士，<nuxt-link to="/units/Camel_Rider"
                 >駱駝騎兵</nuxt-link
               >加入你們，你們在往上方將會到達瓦倫西亞城。
             </li>

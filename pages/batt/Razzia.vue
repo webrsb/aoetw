@@ -87,7 +87,7 @@
             軍事單位 -<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >x5、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>x5、<nuxt-link
+            >x5、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>x5、<nuxt-link
               to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link

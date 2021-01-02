@@ -27,7 +27,7 @@
         <li>
           但值得注意的是，雖然<nuxt-link to="/units/Samurai">日本武士</nuxt-link
           >對於所有的特殊單位(包含他自己)有加成，但對<nuxt-link
-            to="/units/Imperial_Camel"
+            to="/units/Imperial_Camel_Rider"
             >帝王駱駝騎兵</nuxt-link
           >與<nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
           >是沒有加成的。
@@ -160,7 +160,7 @@
               <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
               >高，對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
-              >有額外的加成。但對<nuxt-link to="/units/Imperial_Camel"
+              >有額外的加成。但對<nuxt-link to="/units/Imperial_Camel_Rider"
                 >帝王駱駝騎兵</nuxt-link
               >與<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
@@ -214,7 +214,7 @@
             <td class="tunitc6">
               造價昂貴，但可以反制<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
-              >單位且具有遠程攻擊的近戰<nuxt-link to="/units/Camel"
+              >單位且具有遠程攻擊的近戰<nuxt-link to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               >騎兵單位。
             </td>
@@ -765,7 +765,7 @@
                     class="gg"
                     src="~assets/ImperialCamelIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Imperial_Camel"
+                  /><nuxt-link to="/units/Imperial_Camel_Rider"
                     >帝王駱駝騎兵</nuxt-link
                   >
                 </td>
@@ -775,7 +775,7 @@
                 <td class="tunitc6">
                   <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
                   >於<nuxt-link to="/building/Stable">馬廄</nuxt-link
-                  >中生產，<nuxt-link to="/units/Heavy_Camel"
+                  >中生產，<nuxt-link to="/units/Heavy_Camel_Rider"
                     >重裝駱駝騎兵</nuxt-link
                   >的升級，反騎兵單位。
                 </td>

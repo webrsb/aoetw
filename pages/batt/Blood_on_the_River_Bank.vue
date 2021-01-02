@@ -188,7 +188,7 @@
                 </li>
                 <li>
                   在河對岸西邊就是索索人（紅色）。索索人擁有堅固的防禦工事和強大的<nuxt-link
-                    to="/units/Camel"
+                    to="/units/Camel_Rider"
                     >駱駝騎兵</nuxt-link
                   >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
                   >、<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link

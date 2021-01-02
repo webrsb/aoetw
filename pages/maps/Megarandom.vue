@@ -14,7 +14,7 @@
               to="/units/Skirmisher"
               >矛兵</nuxt-link
             >，<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
-            >，甚至是<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+            >，甚至是<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
             >，或者<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
             >。通常在超級隨機裡，玩家可能面臨嚴重的<nuxt-link
               to="/resource/Gold"

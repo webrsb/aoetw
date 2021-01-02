@@ -21,12 +21,12 @@
           <p>
             巴卑爾是一位<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，只有在地圖編輯器中登場，外型是<nuxt-link
-              to="/units/Imperial_Camel"
+              to="/units/Imperial_Camel_Rider"
               >帝王駱駝騎兵</nuxt-link
             >，他是一個<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >，且會自己<nuxt-link to="/elements/Regeneration">回血</nuxt-link
-            >，且擁有等同<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+            >，且擁有等同<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
             >的各式升級。
           </p>
         </div>
