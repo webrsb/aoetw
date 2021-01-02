@@ -93,6 +93,14 @@
               >攻擊+<strong>4</strong>。
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (42848更新) 酋長成本為700食物500黃金。
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
@@ -168,13 +176,13 @@
             <td class="unit3">
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
-            <td class="unit4">400</td>
+            <td class="unit4">700</td>
           </tr>
           <tr>
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">300</td>
+            <td class="unit4">500</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
