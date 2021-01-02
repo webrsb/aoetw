@@ -66,7 +66,7 @@
           <ul>
             <li><nuxt-link to="/civs/Khmer">高棉</nuxt-link></li>
             <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-            >的矛象伕移動速度快15%，使得他們更不怕<nuxt-link to="/units/Monk"
+            >的矛象伕移動速度快10%，使得他們更不怕<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
             >，且城堡時代的特殊科技<nuxt-link to="/techs/Tusk_Swords"
               >象牙劍</nuxt-link
@@ -574,7 +574,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-              >：矛象伕移動速度加快15%。
+              >：矛象伕移動速度加快10%。
             </li>
             <li>
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>：矛象伕便宜30%。
@@ -648,6 +648,11 @@
           <ul>
             <li>(34699更新) 訓練時間減少為24秒</li>
           </ul>
+          <li>
+            (42848更新) <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+            ><nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+            >移動速度從快+15%減為快+10%。
+          </li>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>

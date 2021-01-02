@@ -143,7 +143,10 @@
           <div class="n1">
             <ul>
               <li>升級時代不需要建造任何建築以及建築沒有先前需求。</li>
-              <li>矛象伕移動速度+10%。</li>
+              <li>
+                <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+                >移動速度+10%。
+              </li>
               <li>
                 村民可以駐紮進居住<nuxt-link to="/building/House"
                   >房屋</nuxt-link
@@ -185,7 +188,9 @@
               (42848更新) 農夫效率從-3%改成-5%。
             </li>
             <li>
-              (42848更新) 矛象伕移動速度從快+15%減成快+10％。
+              (42848更新)
+              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              >移動速度從快+15%減為快+10%。
             </li>
           </ul>
         </div>

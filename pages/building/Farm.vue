@@ -337,7 +337,8 @@
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：磨坊便宜50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：農田不需要磨坊。
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >：農田不需要磨坊。但相對地效率-5%。
             </li>
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
@@ -432,6 +433,14 @@
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >(35584更新)：文明加成使農田減免增加為40%
+            </li>
+            <li>
+              (36906更新)
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：農夫效率-3%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：農夫效率-5%。
             </li>
           </ul>
         </div>
