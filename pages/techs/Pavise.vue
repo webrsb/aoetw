@@ -13,7 +13,7 @@
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >護甲+1/+1。
+            >及<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>護甲+1/+1。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -95,6 +95,14 @@
               4.8改版後巨盾不再影響<nuxt-link to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >了。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (39284更新) 傭兵受特殊科技巨盾的加成。
             </li>
           </ul>
         </div>
@@ -196,7 +204,10 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              徒步<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
+              徒步<nuxt-link to="/armor">遠程護甲</nuxt-link>及<nuxt-link
+                to="/units/Condottiero"
+                >傭兵</nuxt-link
+              >+1/+1。
             </td>
           </tr>
         </table>
