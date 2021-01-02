@@ -414,6 +414,14 @@
               15G
             </li>
           </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (39284更新) 成本從30食物15黃金改成25食物15黃金
+            </li>
+          </ul>
         </div>
         <h3>瑣事</h3>
         <div class="hrn1"></div>
@@ -538,7 +546,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Food">食物</nuxt-link>
             </td>
-            <td class="unit4">30</td>
+            <td class="unit4">25</td>
           </tr>
           <tr>
             <td class="unit3">
