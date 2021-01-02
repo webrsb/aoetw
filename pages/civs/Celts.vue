@@ -120,22 +120,22 @@
         <div class="n1">
           <ul>
             <li>
-              擁有強大的步兵除了天生的移動速度增加15%步兵的相關<nuxt-link
+              擁有強大的步兵，從封建時代開始步兵移動速度+15%，其相關<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              >全滿(除了<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
-              >因為平衡)。
+              >全滿(沒有<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >是因為要平衡)。
             </li>
             <li>
-              攻城器器相關科技都有(除了<nuxt-link to="/units/Bombard_Cannon"
+              攻城器相關科技都有(除了<nuxt-link to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
               >)，此外<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
-              >+20%、<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              >+25%、<nuxt-link to="/elements/Hit_points">血量</nuxt-link
               >+40%(<nuxt-link to="/techs/untech">帝王特殊科技</nuxt-link
               >塞爾特狂熱)、攻城器製造所工作效率+20%(<nuxt-link
                 to="/elements/Team_Bonus"
                 >團隊加分</nuxt-link
-              >)，因此攻城器的使用是上上選。
+              >)，因此使用攻城器是上上選。
             </li>
             <li>
               移動快速的菘藍武士對建築本身又有加成，適合打騷擾戰術，唯一缺點是本身護甲並不高，因此在有預先防禦下是很難打出一定成果。
@@ -154,19 +154,19 @@
               >。
             </li>
             <li>
-              塞爾特的馬廠雖然說有著遊戲中最強大<nuxt-link
+              塞爾特的馬廄雖然說有著遊戲中最強大<nuxt-link
                 to="/units/Cavalry_Units"
                 >騎兵單位</nuxt-link
               ><nuxt-link to="/units/Paladin">遊俠</nuxt-link>，卻沒有<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >/<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
-              >這二樣關鍵科技另外也無<nuxt-link to="/units/Camel_Rider"
+              >和<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
+              >這二樣關鍵科技，另外也沒有<nuxt-link to="/units/Camel_Rider"
                 >駱駝</nuxt-link
-              >科技。
+              >。
             </li>
             <li>
-              因為擁有伐木速度+15%的文明加成，跟遊戲中最強大的攻城器，在<nuxt-link
+              因為擁有伐木速度+15%的文明加成和遊戲中最強大的攻城器，在<nuxt-link
                 to="/maps/Black_Forest"
                 >黑森林</nuxt-link
               >這張遊戲地圖中被稱之為最強文明。
@@ -177,7 +177,7 @@
               >系統不完善的情況下擁有著最強大的攻城器和強大的步兵系統，幾乎確定是標準的打步兵的文明，因此在某些方面上很容易被針對。
             </li>
             <li>
-              塞爾特的文明加成，使得塞爾特在黑暗、封建有著不錯的先天優勢。
+              塞爾特的文明加成，使得塞爾特在封建有著不錯的先天優勢。
             </li>
           </ul>
           <h3>特殊單位</h3>
@@ -198,7 +198,7 @@
               >：<nuxt-link to="/building/Castle">城堡</nuxt-link>和<nuxt-link
                 to="/building/Watch_Tower"
                 >箭塔</nuxt-link
-              >攻擊速度+20%
+              >攻擊速度+25%
             </li>
             <li>
               <img
@@ -213,9 +213,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>伐木工工作效率提升15%</li>
-            <li>步兵移動速度+15%</li>
-            <li>攻城器發射速度+20%</li>
+            <li>伐木工工作效率+15%</li>
+            <li>從封建時代開始步兵移動速度+15%</li>
+            <li>攻城器攻擊速度+25%</li>
             <li>
               可以在其他玩家單位<nuxt-link to="/elements/Line_of_Sight"
                 >視野</nuxt-link
@@ -223,7 +223,7 @@
                 >綿羊</nuxt-link
               >
             </li>
-            <li><strong>團隊加分</strong>:攻城器製造所工作效率提升20%</li>
+            <li><strong>團隊加分</strong>:攻城器製造所工作效率+20%</li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -247,7 +247,15 @@
             <li>
               加入<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
               >特殊科技<nuxt-link to="/techs/Stronghold">堡壘</nuxt-link
-              >:城堡和箭塔攻擊速度+20%
+              >:城堡和箭塔攻擊速度+25%
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (42848更新) 步兵移動速度+15%的文明加成改為從封建時代開始。
             </li>
           </ul>
         </div>
