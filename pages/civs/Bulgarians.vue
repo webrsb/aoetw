@@ -139,6 +139,12 @@
           <ul>
             <li><nuxt-link to="/units/Militia">民兵</nuxt-link>系升級免費</li>
             <li>
+              <nuxt-link to="/building/Blacksmit">兵工廠</nuxt-link>和<nuxt-link
+                to="/building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >科技升級所需食物-50%
+            </li>
+            <li>
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
               ><nuxt-link to="/resourses/Stone">石頭</nuxt-link>成本減免50%
             </li>
@@ -152,7 +158,7 @@
                   >團隊加分</nuxt-link
                 ></strong
               >:<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-              >工作效率+50%
+              >工作效率+80%
             </li>
           </ul>
         </div>
@@ -190,6 +196,11 @@
               >的額外傷害。
             </li>
             <li>(36906更新) 無法訓練遊俠，馬鐙也能影響騎士系。</li>
+            <li>(42848更新) 團隊加分中兵工廠工作效率從+50%增加成+80%。</li>
+            <li>
+              (42848更新)
+              擁有兵工廠和攻城器製造所科技升級所需食物-50%的文明加成。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
