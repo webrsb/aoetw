@@ -559,7 +559,7 @@
               <nuxt-link to="/civs/Indians">印度</nuxt-link
               >：重裝駱駝騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
-              >+6攻擊。
+              >+4攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -624,6 +624,13 @@
               >有+9的攻擊。<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >反騎兵</nuxt-link
               >攻擊仍然不影響駱駝。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>(42848更新) 重裝駱駝騎兵對建築物攻擊力的團隊加分從+5減少至+4。
             </li>
           </ul>
         </div>
