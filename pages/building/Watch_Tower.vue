@@ -229,8 +229,8 @@
                 src="~assets/unique_tech.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Eupseong">邑城</nuxt-link
-              >:+2，<nuxt-link to="/civs/Koreans"
+              /><nuxt-link to="/techs/Eupseong">邑城</nuxt-link>:+2，<nuxt-link
+                to="/civs/Koreans"
                 >朝鮮</nuxt-link
               >限定
             </td>
@@ -379,8 +379,7 @@
               >花費-15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-              >：箭塔科技升級免費。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：箭塔科技升級免費。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：箭塔<nuxt-link
@@ -413,20 +412,21 @@
         <div class="n1">
           <ul>
             <li>
-                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-                >提升瞭望箭塔攻擊和射程的科技研發快80％。
-              </li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升瞭望箭塔攻擊和射程的科技研發快80％。
+            </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >：瞭望箭塔+3視野。
             </li>
             <li>
-                <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
-                  to="/techs/Heresy"
-                  >異端邪說</nuxt-link
-                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-             </li>
+              <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：同盟<nuxt-link
                 to="/building/University"
@@ -526,9 +526,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>從<nuxt-link
-                to="/armor/Armor_Class_Ship"
-                >船艦護甲</nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >從<nuxt-link to="/armor/Armor_Class_Ship">船艦護甲</nuxt-link
               >分類中移除，所以箭塔對他們的攻擊加成也移除，現在箭塔對他們的攻擊是+1。
             </li>
             <li>
@@ -573,7 +572,9 @@
               封建時代前的生命值由1020減為700。
             </li>
             <li>
-              (42848更新) 朝鮮不再具有<nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>科技，由<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>取代。
+              (42848更新) 朝鮮不再具有<nuxt-link to="/techs/Panokseon"
+                >板屋船</nuxt-link
+              >科技，由<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>取代。
             </li>
             <li>
               (42848更新) 城堡/帝王時代的箭塔不再具有+1/+2射程的文明加成。
