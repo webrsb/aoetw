@@ -474,7 +474,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -845,12 +846,12 @@
                 <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                   to="/techs/Kasbah"
                   >聚居堡壘</nuxt-link
-                >能夠提高烈堤司的生產速度
+                >能夠提高保加利亞騎兵的生產速度。
               </li>
               <li>
                 <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
                 >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-                >提升保加利亞騎兵護甲和攻擊的科技研發快50％。
+                >提升保加利亞騎兵護甲和攻擊的科技研發快80％。
               </li>
               <li>
                 <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
@@ -869,7 +870,7 @@
                 >研發快20%。
               </li>
               <li>
-                <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
+                <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
                   to="/techs/Heresy"
                   >異端邪說</nuxt-link
                 >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
@@ -899,6 +900,12 @@
               </li>
               <li>
                 (36906更新)保加利亞失去遊俠升級。
+              </li>
+              <li>
+                (42848更新) 下馬的保加利亞騎兵受益於單位升級。
+              </li>
+              <li>
+                (42848更新) 保加利亞的團隊加分中兵工廠工作效率從+50％增至+80%。
               </li>
             </ul>
           </div>
