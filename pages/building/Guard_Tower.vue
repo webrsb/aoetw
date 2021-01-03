@@ -89,15 +89,14 @@
               >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
                 to="/civs/Burmese"
                 >緬甸</nuxt-link
-              >、<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、<nuxt-link
-                to="/civs/Burmese"
-                >緬甸</nuxt-link
-              >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
-                to="/civs/Celts"
-                >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
+              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
@@ -110,25 +109,22 @@
               >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Lithuanians"
                 >立陶宛</nuxt-link
-              >、<nuxt-link
-                to="/civs/Magyars"
-                >馬扎爾</nuxt-link
-              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
-                to="/civs/Malians"
-                >馬利</nuxt-link
-              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
-                to="/civs/Mongols"
-                >蒙古</nuxt-link
-              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
-                to="/civs/Portuguese"
-                >葡萄牙</nuxt-link
-              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
-                to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Teutons"
-                >條頓</nuxt-link
-              >、<nuxt-link
+              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
+                to="/civs/Malay"
+                >馬來</nuxt-link
+              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
+                to="/civs/Mayans"
+                >馬雅</nuxt-link
+              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
+                to="/civs/Saracens"
+                >薩拉森</nuxt-link
+              >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
+                to="/civs/Spanish"
+                >西班牙</nuxt-link
+              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
                 to="/civs/Tatars"
                 >韃靼</nuxt-link
               >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
@@ -147,10 +143,10 @@
                   ><span style="margin-left: 2px;">不可建造文明</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
-                to="/civs/Huns"
-                >匈人</nuxt-link
-              >。
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
+                to="/civs/Goths"
+                >哥德</nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>。
             </div>
           </div>
         </div>
@@ -310,8 +306,8 @@
                 src="~assets/unique_tech.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Eupseong">邑城</nuxt-link
-              >:+2，<nuxt-link to="/civs/Koreans"
+              /><nuxt-link to="/techs/Eupseong">邑城</nuxt-link>:+2，<nuxt-link
+                to="/civs/Koreans"
                 >朝鮮</nuxt-link
               >限定
             </td>
@@ -495,19 +491,20 @@
         <div class="n1">
           <ul>
             <li>
-                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-                >提升防禦箭塔攻擊和射程的科技研發快80％。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升防禦箭塔攻擊和射程的科技研發快80％。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >：防禦箭塔+3視野。
             </li>
             <li>
-                <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
-                  to="/techs/Heresy"
-                  >異端邪說</nuxt-link
-                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+              <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
@@ -637,7 +634,7 @@
               >:在4.8版後<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
               >讓箭塔可發射額外<strong>兩支箭</strong>。
             </li>
-         </ul>       
+          </ul>
           <h3>
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
@@ -658,12 +655,14 @@
           </h3>
           <ul>
             <li>
-              (42848更新) 朝鮮不再具有<nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>科技，由<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>取代。
+              (42848更新) 朝鮮不再具有<nuxt-link to="/techs/Panokseon"
+                >板屋船</nuxt-link
+              >科技，由<nuxt-link to="/techs/Eupseong">邑城</nuxt-link>取代。
             </li>
             <li>
               (42848更新) 城堡/帝王時代的箭塔不再具有+1/+2射程的文明加成。
             </li>
-          </ul>       
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
