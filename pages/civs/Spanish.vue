@@ -168,7 +168,7 @@
             <li>彈道學對火砲戰船有效(遠距離武器更快、更精準)</li>
             <li>
               <nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-              ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>+ 15%
+              ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>+ 18%
             </li>
             <li>
               <strong
@@ -214,6 +214,11 @@
               >有效。
             </li>
             <li>建築風格改地中海。</li>
+            <li>
+              征服者會受到反<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >單位克制。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -234,7 +239,12 @@
               <nuxt-link to="/games/aoc">征服者入侵</nuxt-link
               >的logo就西班牙征服者帽子。
             </li>
-            <li>西班牙是唯一沒有弩兵的文明。</li>
+            <li>
+              西班牙是唯二沒有弩兵的文明，另外一個是<nuxt-link
+                to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >。
+            </li>
             <li>
               當初在開發征服者入侵時，在擴充文明方面，開發人員在西班牙與<nuxt-link
                 to="/civs/Italians"
