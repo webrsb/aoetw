@@ -198,8 +198,11 @@
           </h3>
           <ul>
             <li>自然資源存量從+20%減少到+15%。</li>
-            <li>4.8版後，馬雅無法研發<nuxt-link to="/units/Plumed_Archer">箭狹槽</nuxt-link
-              >。</li>
+            <li>
+              4.8版後，馬雅無法研發<nuxt-link to="/units/Plumed_Archer"
+                >箭狹槽</nuxt-link
+              >。
+            </li>
             <li>4.8版後，弓兵單位對建築物和石頭建築攻擊+6。</li>
           </ul>
           <h3>
@@ -210,16 +213,21 @@
               (34055更新) 羽毛箭射手成本增加到55木材55黃金。
             </li>
             <li>
-              (34699更新) <nuxt-link to="/maps/Nomad">遊牧</nuxt-link
-              >地圖中額外村民的文明加成會在建完<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              (34699更新)
+              <nuxt-link to="/maps/Nomad">遊牧</nuxt-link
+              >地圖中額外村民的文明加成會在建完<nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
               >後出現。
             </li>
             <li>
-              (37650更新) 馬雅無法研發<nuxt-link to="/techs/Supplies">供給</nuxt-link
+              (37650更新) 馬雅無法研發<nuxt-link to="/techs/Supplies"
+                >供給</nuxt-link
               >。
             </li>
             <li>
-              (42848更新) <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+              (42848更新)
+              <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
               >對石牆、城門、箭塔和碼頭取消雙倍攻擊加成。
             </li>
           </ul>
