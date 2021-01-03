@@ -693,9 +693,6 @@
               (42848更新) <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>工作效率從+50%增加成+80%。
             </li>
             <li>
-              (42848更新) 保加利亞兵工廠科技升級所需食物-50%。
-            </li>
-            <li>
               (42848更新) <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度 +30%。
             </li>
             </ul>
