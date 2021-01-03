@@ -187,18 +187,41 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>羽毛箭射手成本增加到50g/50w。</li>
+            <li>羽毛箭射手成本增加到50木材50黃金。</li>
             <li>
               <nuxt-link to="/units/Plumed_Archer">精銳羽毛箭射手</nuxt-link
-              >升級費用多200食物(現在是700f/1000w)。
+              >升級費用多200食物(現在是700食物1000黃金)。
             </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>黑曜石之箭造成+6的傷害，而不是4。</li>
-            <li>資源額外多20%，減少到15%。</li>
+            <li>自然資源存量從+20%減少到+15%。</li>
+            <li>4.8版後，馬雅無法研發<nuxt-link to="/units/Plumed_Archer">箭狹槽</nuxt-link
+              >。</li>
+            <li>4.8版後，弓兵單位對建築物和石頭建築攻擊+6。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (34055更新) 羽毛箭射手成本增加到55木材55黃金。
+            </li>
+            <li>
+              (34699更新) <nuxt-link to="/maps/Nomad">遊牧</nuxt-link
+              >地圖中額外村民的文明加成會在建完<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >後出現。
+            </li>
+            <li>
+              (37650更新) 馬雅無法研發<nuxt-link to="/techs/Supplies">供給</nuxt-link
+              >。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+              >對石牆、城門、箭塔和碼頭取消雙倍攻擊加成。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
