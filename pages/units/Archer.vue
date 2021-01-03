@@ -516,6 +516,9 @@
               >：兵工廠弓兵科技研發無需黃金。
             </li>
             <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：弓兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+            </li>
+            <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
