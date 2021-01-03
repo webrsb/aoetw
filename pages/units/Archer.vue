@@ -523,9 +523,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：弓兵在封建/<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
-              >/帝王時代的血量增加10%/15%/20%。<nuxt-link
+              >：弓兵血量增加20%。<nuxt-link
                 to="/techs/Conscription"
                 >徵兵技術</nuxt-link
               >免費。
