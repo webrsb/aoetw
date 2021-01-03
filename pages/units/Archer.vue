@@ -468,7 +468,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：弓兵生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：弓兵生產快11%。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：弓兵自<nuxt-link
@@ -476,6 +476,10 @@
                 >城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >有額外+1/+2的射程。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠弓兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弓兵<nuxt-link
@@ -490,6 +494,9 @@
               >快18%。
             </li>
             <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：弓兵護甲升級免費。
+            </li>
+            <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
               >：弓兵在封建/<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
@@ -498,7 +505,15 @@
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：弓兵花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >成本少15%。
+              >成本少20%。弓兵科技研發速度+30%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+              >：弓兵在封建/城堡/帝王vs標準建築+1/+2/+3攻擊力。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：兵工廠弓兵科技研發無需黃金。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -508,12 +523,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：弓兵在封建/<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
-              >/帝王時代的血量增加10%/15%/20%。免費<nuxt-link
-                to="/techs/Conscription"
+              >：弓兵血量增加20%。<nuxt-link to="/techs/Conscription"
                 >徵兵技術</nuxt-link
-              >。
+              >免費。
             </li>
           </ul>
         </div>
@@ -526,13 +538,25 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >的研究時間(快25%)
+              >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
               >：弓兵生產和升級快20%。研發<nuxt-link to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
               >速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升弓兵護甲和攻擊的科技研發快80％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弓兵<nuxt-link
@@ -624,7 +648,7 @@
               >攻擊+6。4.8版後增加對<nuxt-link
                 to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
-              >攻擊+6
+              >攻擊+6。
             </li>
           </ul>
           <h3>
@@ -635,7 +659,40 @@
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>: 將<nuxt-link
                 to="/techs/Boiling_Oil"
                 >沸油</nuxt-link
-              >取代為<nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link>
+              >取代為<nuxt-link to="/techs/Kamandaran">波斯弓兵</nuxt-link>。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>:
+              弓兵在封建/城堡/帝王vs標準建築+1/+2/+3攻擊力。
+            </li>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >弓兵的木材成本從–15%改為-20%。
+            </li>
+            <li>
+              (42848更新) 朝鮮弓兵護甲升級免費。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞兵工廠科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度
+              +30%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>的<nuxt-link
+                to="/techs/Obsidian_Arrows"
+                >黑曜石之箭</nuxt-link
+              >對石牆、城門、箭塔和碼頭取消雙倍攻擊加成。
             </li>
           </ul>
         </div>
