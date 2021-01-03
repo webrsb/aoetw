@@ -538,10 +538,6 @@
               >：弩兵在城堡/帝王vs標準建築+2/+3攻擊力。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠弩兵科技研發無需黃金。
-            </li>
-            <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
