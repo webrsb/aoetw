@@ -932,7 +932,7 @@
           <tr>
             <td class="unit3">升級成本</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Arbalester.png" alt="" />350<nuxt-link
+              <img class="gg" src="~assets/arbalest.png" alt="" />350<nuxt-link
                 to="/resource/Food"
                 >食物</nuxt-link
               >300黃金
