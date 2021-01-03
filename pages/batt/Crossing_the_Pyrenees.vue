@@ -116,7 +116,7 @@
             >x5、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
             >x15、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >x5、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
-            >x10、<nuxt-link to="/units/Arbalest">強驽兵</nuxt-link
+            >x10、<nuxt-link to="/units/Arbalester">強驽兵</nuxt-link
             >x5、<nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link>x5。
           </li>
           <li>

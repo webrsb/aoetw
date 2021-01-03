@@ -128,7 +128,7 @@
               >運輸船</nuxt-link
             >*2、<nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link
             >*3、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-            >*2、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >*2、<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
             >*3、雙手劍士*6、<nuxt-link to="/units/Monk">僧侶</nuxt-link>*1
           </p>
           <h3>大地之母單位：</h3>

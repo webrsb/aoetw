@@ -48,7 +48,7 @@
             >，並可以藉著射程與強大的攻擊，一擊必殺<nuxt-link
               to="/units/Elite_Skirmisher"
               >戰矛兵</nuxt-link
-            >與<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>等單位。
+            >與<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>等單位。
           </p>
         </div>
         <h3>戰術</h3>

@@ -14,7 +14,7 @@
               >弓兵英雄</nuxt-link
             >，可以在許多<nuxt-link to="/batt">戰役</nuxt-link
             >和戰役編輯器中找到。現實中的神弓手是講努比亞弓箭手，他們以專業的槍法而聞名，據說可以弓箭精準射中敵人眼睛因此得名。神弓手的外觀是<nuxt-link
-              to="/units/Arbalest"
+              to="/units/Arbalester"
               >強弩兵</nuxt-link
             >，會受<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link

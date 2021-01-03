@@ -74,7 +74,7 @@
             </li>
             <li>
               匈人雖然有著遊戲中最優質的馬弓騎兵但是步弓方面卻是欠缺極大，欠<nuxt-link
-                to="/units/Arbalest"
+                to="/units/Arbalester"
                 >勁弩兵</nuxt-link
               >/<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >/<nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link>。

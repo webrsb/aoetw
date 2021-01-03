@@ -38,7 +38,7 @@
                 alt=""
               /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>→
               <img class="gg" src="~assets/ArbalestIcon.png" alt="" /><nuxt-link
-                to="/units/Arbalest"
+                to="/units/Arbalester"
                 >強弩兵</nuxt-link
               >
             </li>

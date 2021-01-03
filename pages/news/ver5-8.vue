@@ -76,7 +76,7 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/civs/Incas">印加</nuxt-link
-              ><nuxt-link to="/techs/Couriers">金冠</nuxt-link>花費400F 200G →
+              ><nuxt-link to="/techs/Fabric_Shields">金冠</nuxt-link>花費400F 200G →
               600F 600G
             </li>
             <li>

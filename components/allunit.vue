@@ -47,7 +47,7 @@
             <td class="unit3">
               <nuxt-link to="/units/Archer">弓兵</nuxt-link>•
               <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>•
-              <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link><br />
+              <nuxt-link to="/units/Arbalester">強弩兵</nuxt-link><br />
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>•
               <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>•
               <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link>

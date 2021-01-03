@@ -468,7 +468,7 @@
             <li>
               修正<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >/<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>/<nuxt-link
-                to="/units/Arbalest"
+                to="/units/Arbalester"
                 >強弩兵</nuxt-link
               >對石造建築護甲的攻擊加成。
             </li>

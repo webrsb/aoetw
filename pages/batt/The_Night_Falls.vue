@@ -132,7 +132,7 @@
           <li>
             11位<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
             >，7位<nuxt-link to="/units/Spearman">戟兵</nuxt-link
-            >，10位<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >，10位<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
             >，10位<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
             >，2台<nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>。
           </li>

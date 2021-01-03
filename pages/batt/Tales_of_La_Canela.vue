@@ -149,7 +149,7 @@
                   <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>：60黃金
                 </li>
                 <li>
-                  <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>：45黃金
+                  <nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>：45黃金
                 </li>
                 <li>
                   <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link

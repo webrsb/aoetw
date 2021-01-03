@@ -69,7 +69,7 @@
                 >血量</nuxt-link
               >+20%)，但欠缺核心<nuxt-link to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
-              >/<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>/<nuxt-link
+              >/<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>/<nuxt-link
                 to="/techs/Ring_Archer_Armor"
                 >弓兵鏈甲</nuxt-link
               >/<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link>/<nuxt-link

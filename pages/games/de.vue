@@ -448,7 +448,7 @@
           </li>
           <li>箭塔的血量在城堡時代前由1020被降低至700。</li>
           <li>Camel 改名為Camel Rider(中文還是叫駱駝騎兵)。</li>
-          <li>Arbalest 更名為Arbalester(中文還是叫強弩兵)。</li>
+          <li>Arbalester 更名為Arbalester(中文還是叫強弩兵)。</li>
           <li>Nordic Swordsman 更名為Norse Warrior()。</li>
           <li>戰矛兵升級成本由200木/100金增加為230木/130金。</li>
           <li>草藥學效果增加50%。</li>

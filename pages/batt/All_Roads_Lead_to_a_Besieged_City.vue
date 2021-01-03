@@ -247,7 +247,7 @@
                 <li>
                   原版非官方的<nuxt-link to="/games/aof">失落的帝國</nuxt-link
                   >版本裡，玩家在地圖最北方會有一個<nuxt-link
-                    to="/units/Arbalest"
+                    to="/units/Arbalester"
                     >強弩兵</nuxt-link
                   >，用來防止玩家過早被擊敗。（就像<nuxt-link
                     to="/batt/Genghis_Khana"

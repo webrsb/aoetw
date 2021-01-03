@@ -107,7 +107,7 @@
                   >重裝馬弓騎兵</nuxt-link
                 >x2，<nuxt-link to="/units/Two-Handed_Swordsman"
                   >雙手劍兵</nuxt-link
-                >x2，<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+                >x2，<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
                 >x2，<nuxt-link to="/units/Samurai">精銳日本武士</nuxt-link
                 >x3，<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
                 >x2，<nuxt-link to="/units/Trade_Cart">貿易馬車</nuxt-link>x1。

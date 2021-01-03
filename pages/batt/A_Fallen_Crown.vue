@@ -295,7 +295,7 @@
             如果剛剛的轟炸沒有殺掉達納罕，沒有關係，往西北方向來到達爾金達人的城堡，路上會遇到阿爾迪亞的叛軍，解決他們！在城堡這裡部屬多台<nuxt-link
               to="/units/Siege_Onager"
               >重型投石車</nuxt-link
-            >以及許多的<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >以及許多的<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
             >，然後靜待達納罕的到來，並直接將它斬落馬下。或是玩家也可主動出擊殺死達納罕。此場景唯一目標就是殺死達納罕，不論建造甚麼部隊只要專注在騎大象的國王身上即可。
           </li>
           <li>

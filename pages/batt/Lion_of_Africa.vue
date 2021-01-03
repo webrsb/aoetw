@@ -124,7 +124,7 @@
             阿方索阿爾布開特、<nuxt-link to="/units/Villager">村民</nuxt-link
             >*9、重裝<nuxt-link to="/units/Knight">騎士</nuxt-link
             >*1、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
-            >*7、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >*7、<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
             >*4、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
             >*1、<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >*1、<nuxt-link to="/units/Galley">戰船</nuxt-link>*2、<nuxt-link

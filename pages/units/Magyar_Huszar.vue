@@ -21,7 +21,7 @@
             馬扎爾驃騎兵雖貴為<nuxt-link to="/units/Unique_Unit"
               >城堡兵</nuxt-link
             >但是在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >時研發<nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
+            >時研發<nuxt-link to="/techs/Corvinian_Army">科維尼安軍隊</nuxt-link
             >後即不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >因此被稱為是垃圾兵，值得一提馬扎爾驃騎兵跟<nuxt-link
               to="/units/Knight"
@@ -37,7 +37,7 @@
         <div class="n1">
           <ul>
             <li>
-              馬扎爾驃騎兵不需要黃金(需研發<nuxt-link to="/techs/Mercenaries"
+              馬扎爾驃騎兵不需要黃金(需研發<nuxt-link to="/techs/Corvinian_Army"
                 >科維尼安軍隊</nuxt-link
               >)整體相對其他城堡兵便宜，所以在<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
@@ -59,7 +59,7 @@
               馬扎爾驃騎兵搭配馬扎爾<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >是一大強力組合，馬扎爾驃騎兵只需要肉(需研發<nuxt-link
-                to="/techs/Mercenaries"
+                to="/techs/Corvinian_Army"
                 >科維尼安軍隊</nuxt-link
               >)<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >需要黃金/<nuxt-link to="/resource/Wood">木材</nuxt-link
@@ -236,7 +236,7 @@
                 src="~assets/unique_tech.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
+              /><nuxt-link to="/techs/Corvinian_Army">科維尼安軍隊</nuxt-link
               >(訓練馬扎爾驃騎兵不需要黃金)
             </td>
           </tr>
@@ -527,7 +527,7 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >、<nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
+              >、<nuxt-link to="/techs/Corvinian_Army">科維尼安軍隊</nuxt-link
               >的研究時間，以及在城堡裡訓練馬扎爾驃騎兵的速度(都快25%)。
             </li>
             <li>

@@ -97,7 +97,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>是<nuxt-link
+            <nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>是<nuxt-link
               to="/units/Archer_Units"
               >遠程單位</nuxt-link
             >，所以聚集起來就可以造成大量傷害，可對<nuxt-link

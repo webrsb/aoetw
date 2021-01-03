@@ -84,7 +84,7 @@
                     src="~assets/ArbalestIcon.png"
                     class="gg"
                     alt=""
-                  /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>10個
+                  /><nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>10個
                 </li>
                 <li>
                   <img

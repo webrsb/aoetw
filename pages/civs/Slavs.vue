@@ -95,7 +95,7 @@
             貴族鐵騎本身是為了彌補沒有<nuxt-link to="/units/Paladin"
               >遊俠</nuxt-link
             >的斯拉夫也沒很特殊的加成，整體而言斯拉夫有強大步兵，弓箭卻很脆弱沒<nuxt-link
-              to="/units/Arbalest"
+              to="/units/Arbalester"
               >強弩兵</nuxt-link
             >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
               to="/techs/Bracer"

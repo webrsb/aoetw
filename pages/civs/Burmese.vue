@@ -80,7 +80,7 @@
             經濟方面，緬甸擁有免費的<nuxt-link to="/resource/Wood"
               >木材</nuxt-link
             >升級，雖然<nuxt-link to="/armor">遠程護甲</nuxt-link
-            >只有一階可以研發且沒有<nuxt-link to="/units/Arbalest"
+            >只有一階可以研發且沒有<nuxt-link to="/units/Arbalester"
               >強弩兵</nuxt-link
             >但在封建時仍可加快<nuxt-link to="/units/Archer_Units"
               >弓兵</nuxt-link

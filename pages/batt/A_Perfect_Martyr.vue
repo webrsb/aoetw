@@ -206,7 +206,7 @@
           </li>
           <li>
             <img class="gg" src="~assets/ArbalestIcon.png" alt="" /><nuxt-link
-              to="/units/Arbalest"
+              to="/units/Arbalester"
               >強弩兵</nuxt-link
             >*16
           </li>

@@ -300,7 +300,7 @@
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link>
+              <nuxt-link to="/techs/Corvinian_Army">科維尼安軍隊</nuxt-link>
             </td>
             <td class="tunitc5">200F 300G</td>
             <td class="tunitc6">
@@ -800,7 +800,7 @@
               /><nuxt-link to="/civs/Incas">印加</nuxt-link>
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Couriers">織物盾</nuxt-link>
+              <nuxt-link to="/techs/Fabric_Shields">織物盾</nuxt-link>
             </td>
             <td class="tunitc5">400F 200G</td>
             <td class="tunitc6">

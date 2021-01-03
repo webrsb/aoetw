@@ -104,7 +104,7 @@
           。 大地之母單位 -<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
           >重騎兵x1、<nuxt-link to="/units/Heavy_Cavalry_Archer"
             >重裝馬弓騎兵</nuxt-link
-          >x2、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+          >x2、<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
           >x2、戰矛兵x1、<nuxt-link to="/units/Karambit_Warrior"
             >爪刀勇士</nuxt-link
           >x1、戟兵x2、<nuxt-link to="/units/Fast_Fire_Ship"

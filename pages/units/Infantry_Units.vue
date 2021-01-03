@@ -1637,7 +1637,7 @@
                 /><nuxt-link to="/civs/Incas">印加</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/techs/Couriers">織物盾</nuxt-link>
+                <nuxt-link to="/techs/Fabric_Shields">織物盾</nuxt-link>
               </td>
               <td class="tunitc5">600F 600G</td>
               <td class="tunitc6">

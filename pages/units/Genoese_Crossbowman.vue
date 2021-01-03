@@ -73,7 +73,7 @@
               熱那亞弩手對各種艦船也有攻擊加成。事實上，兩名精銳熱那亞弩手就能擊沉一艘完全升級的<nuxt-link
                 to="/units/Galleon"
                 >重型弩砲戰船</nuxt-link
-              >，而擊沉同一艘船則需要十名<nuxt-link to="/units/Arbalest"
+              >，而擊沉同一艘船則需要十名<nuxt-link to="/units/Arbalester"
                 >強弩兵</nuxt-link
               >，這使得熱那亞弩手能夠很好地防禦沿海襲擊。
             </li>

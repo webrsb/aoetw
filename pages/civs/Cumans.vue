@@ -100,7 +100,7 @@
               >強力護腕</nuxt-link
             >使馬弓騎兵在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >變得虛弱。也因為缺乏強力護腕、<nuxt-link to="/units/Arbalest"
+            >變得虛弱。也因為缺乏強力護腕、<nuxt-link to="/units/Arbalester"
               >強弩兵</nuxt-link
             >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
             >相當虛弱。<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link

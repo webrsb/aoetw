@@ -88,7 +88,7 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/ArbalestIcon.png" /><nuxt-link
-                    to="/units/Arbalest"
+                    to="/units/Arbalester"
                     >強弩兵</nuxt-link
                   >
                 </li>

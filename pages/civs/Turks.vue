@@ -104,7 +104,7 @@
               >的文明，儘管<nuxt-link to="/armor/Armor_Class_Archer"
                 >弓兵</nuxt-link
               >系統缺乏<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
-              >/<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+              >/<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
               >，但是他們擁有遊戲裡血最多的<nuxt-link
                 to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link

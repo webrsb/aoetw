@@ -15,7 +15,7 @@
             >》資料片中的地圖編輯器中出現。
           </p>
           <p>
-            劉仁澍的外表是<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            劉仁澍的外表是<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
             >，他不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>

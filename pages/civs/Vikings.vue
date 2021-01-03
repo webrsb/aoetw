@@ -55,7 +55,7 @@
             >都少了許多，尤其沒有<nuxt-link to="/techs/Bloodlines"
               >品種</nuxt-link
             >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
-            >，但仍有<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >，但仍有<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
             >與<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
             >可與步兵搭配，沒有<nuxt-link to="/units/Bombard_Cannon"
               >火砲</nuxt-link

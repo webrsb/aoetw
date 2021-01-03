@@ -227,7 +227,7 @@
               </li>
               <li>
                 劉仁㴬（？-1433），一作劉仁澍。黎利部將。後黎開國元勛之一、在太祖死後被任命為五大輔臣之一，死於朝廷內的政治清算。以<nuxt-link
-                  to="/units/Arbalest"
+                  to="/units/Arbalester"
                   >強弩兵</nuxt-link
                 >形象在劇情中登場
               </li>

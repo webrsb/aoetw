@@ -46,7 +46,7 @@
               >作戰。就應該盡快研發強制徵兵讓他們的步兵像<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
-              >研發<nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
+              >研發<nuxt-link to="/techs/Corvinian_Army">科維尼安軍隊</nuxt-link
               >後的<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
               >一樣不用黃金就能生產。
             </li>

@@ -230,7 +230,7 @@
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link>/
-                  <nuxt-link to="/techs/Couriers">織物盾</nuxt-link>
+                  <nuxt-link to="/techs/Fabric_Shields">織物盾</nuxt-link>
                   (<nuxt-link to="/civs/Incas">印加</nuxt-link>)<br />
                   <nuxt-link to="/techs/Sultans">蘇丹</nuxt-link>/
                   <nuxt-link to="/techs/Shatagni">印度火銃</nuxt-link>
@@ -247,7 +247,7 @@
                   <nuxt-link to="/techs/Eupseong">邑城</nuxt-link>/
                   <nuxt-link to="/techs/Shinkichon">投擲器</nuxt-link>
                   (<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>)<br />
-                  <nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link>/
+                  <nuxt-link to="/techs/Corvinian_Army">科維尼安軍隊</nuxt-link>/
                   <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>
                   (<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>)<br />
                   <nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link>/

@@ -24,7 +24,7 @@
             <li>
               有反曲弓加成的<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >擁有和<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+              >擁有和<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
               >一樣的射程，讓他們能更好地執行打帶跑。反曲弓可以看做是一種<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link

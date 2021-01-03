@@ -63,7 +63,7 @@
             </li>
             <li>
               印度的<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
-              >統上只欠缺<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link
+              >統上只欠缺<nuxt-link to="/units/Arbalester">勁弩兵</nuxt-link
               >但是<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >的強大使的這項缺少影響並不大另外也有馬弓可以用，當研發<nuxt-link
                 to="/techs/age/Imperial_Age"
@@ -226,7 +226,7 @@
           <ul>
             <li>新的建築風格。</li>
             <li>
-              5.5版後，沒有<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+              5.5版後，沒有<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
               >了。
             </li>
             <li>

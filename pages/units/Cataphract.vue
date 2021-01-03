@@ -134,7 +134,7 @@
               >。
             </p>
             <p>
-              <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>、<nuxt-link
                 to="/units/Heavy_Scorpion"
                 >重型弩砲</nuxt-link
               >與<nuxt-link to="/units/Heavy_Cavalry_Archer"

@@ -1144,7 +1144,7 @@
                 /><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link>
+                <nuxt-link to="/techs/Corvinian_Army">科維尼安軍隊</nuxt-link>
               </td>
               <td class="tunitc5">200F 300G</td>
               <td class="tunitc6">訓練馬扎爾驃騎兵不需消耗黃金。</td>

@@ -119,7 +119,7 @@
               10位<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
               >、10位<nuxt-link to="/units/Two-Handed_Swordsman"
                 >雙手劍兵</nuxt-link
-              >、3位戟兵、5位<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+              >、3位戟兵、5位<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
               >、5位<nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >、1台<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link

@@ -143,7 +143,7 @@
             <li>
               塞爾特缺點之一是他們的<nuxt-link to="/units/Archer_Units"
                 >弓兵系</nuxt-link
-              >統，欠缺<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link
+              >統，欠缺<nuxt-link to="/units/Arbalester">勁弩兵</nuxt-link
               >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
                 to="/techs/Ring_Archer_Armor"
                 >弓兵鏈甲</nuxt-link

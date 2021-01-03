@@ -94,7 +94,7 @@
             >並不突出。步兵單位缺乏<nuxt-link to="/techs/Plate_Mail_Armor"
               >步兵板甲</nuxt-link
             >，而<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link
-            >缺乏<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >缺乏<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
             >升級和<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
             >。但是，<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
             >系和<nuxt-link to="/units/Spearman">長槍兵</nuxt-link

@@ -351,7 +351,7 @@
                   src="~assets/ArbalestIcon.png"
                   width="30"
                   alt=""
-                /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+                /><nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
                 ><img
                   class="gg"
                   src="~assets/CavalryArcherIcon.png"

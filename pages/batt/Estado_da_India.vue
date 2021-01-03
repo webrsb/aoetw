@@ -119,7 +119,7 @@
               to="/units/Knight"
               >騎士</nuxt-link
             >*3、<nuxt-link to="/units/Villager">村民</nuxt-link>*4、<nuxt-link
-              to="/units/Arbalest"
+              to="/units/Arbalester"
               >強弩兵</nuxt-link
             >*4、<nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
             >*5、<nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link

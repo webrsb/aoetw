@@ -28,8 +28,8 @@
               >在<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
               >戰鬥中更加彈性化，因為<nuxt-link to="/civs/Franks"
                 >法蘭克人</nuxt-link
-              >無法訓練<nuxt-link to="/units/Arbalest"></nuxt-link
-              ><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>，<nuxt-link
+              >無法訓練<nuxt-link to="/units/Arbalester"></nuxt-link
+              ><nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>，<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
               >的<nuxt-link to="/tree/vie">科技樹</nuxt-link

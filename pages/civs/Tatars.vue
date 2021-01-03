@@ -108,7 +108,7 @@
             >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
             >也受益於<nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link
             >。雖然擁有<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-            >，但由於缺乏<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >，但由於缺乏<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
             >升級，<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >並不出色。
           </p>

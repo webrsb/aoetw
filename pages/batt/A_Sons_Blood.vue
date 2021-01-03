@@ -117,7 +117,7 @@
           <h3>開場：</h3>
           <p>
             <nuxt-link to="/units/Halbedier">戟兵</nuxt-link>*3、
-            <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>*3、
+            <nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>*3、
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>*2、
             <nuxt-link to="/units/Missionary">傳教士</nuxt-link>*1、
             <nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>*1、

@@ -99,9 +99,9 @@
             </td>
             <td class="t15 trm not">
               <img class="gg" src="~assets/ArbalestIcon.png" /><nuxt-link
-                to="/units/Arbalest"
+                to="/units/Arbalester"
                 ><div>
-                  <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
+                  <nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>
                 </div></nuxt-link
               >
             </td>

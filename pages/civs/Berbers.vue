@@ -81,7 +81,7 @@
             <li>
               柏柏雖然貴為馬弓騎兵剋星但是<nuxt-link to="/units/Archer_Units"
                 >弓兵系</nuxt-link
-              >統裡缺<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link
+              >統裡缺<nuxt-link to="/units/Arbalester">勁弩兵</nuxt-link
               >/<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >。<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >系統則是欠缺<nuxt-link to="/units/Halberdier">戟兵</nuxt-link

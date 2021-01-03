@@ -101,7 +101,7 @@
             >，但擁有<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >50%<nuxt-link to="/resourses/Stone">石頭</nuxt-link
             >減免的文明加成。值得一提的是，沒有圍牆的保加利亞將難以應付大量的<nuxt-link
-              to="/units/Arbalest"
+              to="/units/Arbalester"
               >強弩兵</nuxt-link
             >或<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>。
           </p>

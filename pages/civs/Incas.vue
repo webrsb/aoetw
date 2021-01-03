@@ -112,7 +112,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Couriers">織物盾</nuxt-link
+              /><nuxt-link to="/techs/Fabric_Shields">織物盾</nuxt-link
               >：槍隊長、投石手和<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >的護甲+1/+2。
@@ -242,7 +242,7 @@
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
-              /><nuxt-link to="/techs/Couriers">織物盾</nuxt-link>
+              /><nuxt-link to="/techs/Fabric_Shields">織物盾</nuxt-link>
             </td>
           </tr>
         </table>

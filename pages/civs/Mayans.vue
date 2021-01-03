@@ -80,7 +80,7 @@
               >統，因弓兵成本從封建時代-10%、城堡時代-20%、帝王時代-30%、城堡時代特殊科技黑曜石之箭(弓兵、<nuxt-link
                 to="/units/Crossbowman"
                 >弩兵</nuxt-link
-              >、<nuxt-link to="/units/Arbalest">勁弩兵</nuxt-link>對<nuxt-link
+              >、<nuxt-link to="/units/Arbalester">勁弩兵</nuxt-link>對<nuxt-link
                 to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >攻擊+6)，弓兵便宜的文明加成羽毛箭射手也有受惠因此使用弓兵近乎馬雅首選，系統上只欠缺<nuxt-link

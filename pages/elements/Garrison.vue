@@ -148,7 +148,7 @@
               >、<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
               >也會提升箭量，但增加不多。』<br />
               『<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>、<nuxt-link
-                to="/units/Arbalest"
+                to="/units/Arbalester"
                 >強弩兵</nuxt-link
               >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >（或<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link

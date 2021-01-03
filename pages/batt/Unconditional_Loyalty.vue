@@ -164,7 +164,7 @@
               <li>
                 特魯烏蘭城 (橘色)
                 已經被叛軍佔領了。他們布置了重兵來防止我們勤王。他們的部隊有<nuxt-link
-                  to="/units/Arbalest"
+                  to="/units/Arbalester"
                   >強弩兵</nuxt-link
                 >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
                 >、大象、<nuxt-link to="/units/Onager">中型投石車</nuxt-link

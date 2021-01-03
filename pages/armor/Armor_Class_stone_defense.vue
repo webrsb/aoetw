@@ -289,7 +289,7 @@
                       class="gg"
                       src="~assets/ArbalestIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
+                    /><nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>
                   </li>
                 </ul>
               </div>

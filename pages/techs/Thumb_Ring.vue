@@ -114,7 +114,7 @@
               <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Crossbowman"
                 >弩兵</nuxt-link
-              >、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
+              >、<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">

@@ -93,7 +93,7 @@
             </li>
             <li>
               條頓<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
-              >統非常的不完善，沒有<nuxt-link to="/units/Arbalest"
+              >統非常的不完善，沒有<nuxt-link to="/units/Arbalester"
                 >強弩兵</nuxt-link
               >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
                 to="/techs/Parthian_Tactics"

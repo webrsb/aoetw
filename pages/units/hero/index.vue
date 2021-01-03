@@ -75,7 +75,7 @@
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
+              <nuxt-link to="/units/Arbalester">強弩兵</nuxt-link>
             </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Siege_of_Jerusalem">兵臨聖城</nuxt-link>

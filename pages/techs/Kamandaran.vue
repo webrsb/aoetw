@@ -25,7 +25,7 @@
               波斯弓兵是一項非常有用的科技，<nuxt-link to="/units/Archer"
                 >弓兵</nuxt-link
               >系只花費60木材，但為了保持遊戲平衡，波斯缺乏<nuxt-link
-                to="/units/Arbalest"
+                to="/units/Arbalester"
                 >強弩兵</nuxt-link
               >和<nuxt-link to="/techs/Bracer">強力護腕</nuxt-link
               >的升級。話雖如此，弩兵在後期對戰中也能用於對抗<nuxt-link
@@ -44,7 +44,7 @@
               就像<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>的<nuxt-link
                 to="/techs/untech"
                 >特殊科技</nuxt-link
-              ><nuxt-link to="/techs/Mercenaries">科維尼安軍隊</nuxt-link
+              ><nuxt-link to="/techs/Corvinian_Army">科維尼安軍隊</nuxt-link
               >和<nuxt-link to="/civs/Malay">馬來</nuxt-link
               >的特殊科技<nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link
               >一樣，應儘快研發波斯弓兵，以便最大程度地使用弓兵。由放弓兵要花費45黃金，因此玩家最好在需要7名或更多的弓箭手的情況下才研究，否則波斯弓兵的黃金成本會不划算。

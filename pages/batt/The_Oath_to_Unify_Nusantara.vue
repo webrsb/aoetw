@@ -174,7 +174,7 @@
                 </li>
                 <li>
                   我們的北邊是馬來西亞，他和亞洲大陸接壤。島上面的淡馬錫城已經脫離了他們的宗主國，而獨立而成強大的新加坡城。他們和我們爭奪殖民南洋上的無主小島，所以在他們侵擾殖民地時也會主動攻擊我們。淡馬錫以<nuxt-link
-                    to="/units/Arbalest"
+                    to="/units/Arbalester"
                     >強弩兵</nuxt-link
                   >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
                   >、重騎兵、<nuxt-link to="/units/Bombard_Cannon"
