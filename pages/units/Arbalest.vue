@@ -24,8 +24,9 @@
               </h4>
               <p>
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
-                  to="/civs/Byzantines"
-                  >拜占庭</nuxt-link
+                  to="/civs/Britons"
+                  >不列顛</nuxt-link
+                >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
                 >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                   to="/civs/Ethiopians"
                   >衣索比亞</nuxt-link
@@ -33,24 +34,22 @@
                   to="/civs/Italians"
                   >義大利</nuxt-link
                 >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
-                  to="/civs/Koreans"
-                  >朝鮮</nuxt-link
-                >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
-                  to="/civs/Malay"
-                  >馬來</nuxt-link
-                >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
-                  to="/civs/Mayans"
-                  >馬雅</nuxt-link
-                >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
-                  to="/civs/Saracens"
-                  >薩拉森</nuxt-link
-                >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
-                  to="/civs/Vikings"
-                  >維京</nuxt-link
-                >。<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
-                  to="/civs/Britons"
-                  >不列顛</nuxt-link
-                >。
+                  to="/civs/Khmer"
+                  >高棉</nuxt-link
+                >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
+                  to="/civs/Magyars"
+                  >馬扎爾</nuxt-link
+                >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+                  to="/civs/Malians"
+                  >馬利</nuxt-link
+                >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
+                  to="/civs/Mongols"
+                  >蒙古</nuxt-link
+                >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+                >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
+                  to="/civs/Vietnamese"
+                  >越南</nuxt-link
+                >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
               </p>
             </div>
           </div>
@@ -66,24 +65,29 @@
               </h4>
               <p>
                 <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
-                  to="/civs/Huns"
-                  >匈人</nuxt-link
-                >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                  to="/civs/Persians"
-                  >波斯</nuxt-link
-                >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-                >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                  to="/civs/Turks"
-                  >土耳其</nuxt-link
+                  to="/civs/Bulgarians"
+                  >保加利亞</nuxt-link
                 >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
                   to="/civs/Celts"
                   >塞爾特</nuxt-link
-                >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
-                  to="/civs/Goths"
-                  >哥德</nuxt-link
-                >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
-                  to="/civs/Teutons"
-                  >條頓</nuxt-link
+                >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
+                  to="/civs/Franks"
+                  >法蘭克</nuxt-link
+                >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
+                  to="/civs/Huns"
+                  >匈人</nuxt-link
+                >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
+                  to="/civs/Lithuanians"
+                  >立陶宛</nuxt-link
+                >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
+                  to="/civs/Slavs"
+                  >斯拉夫</nuxt-link
+                >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                  to="/civs/Tatars"
+                  >韃靼</nuxt-link
+                >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
+                  to="/civs/Turks"
+                  >土耳其</nuxt-link
                 >。
               </p>
             </div>
@@ -145,7 +149,7 @@
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >。
+              >、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -532,52 +536,45 @@
           <div class="n1">
             <ul>
               <li>
-                <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
-                  to="/units/Crossbowman"
-                  >弩兵</nuxt-link
-                >快生產快15%。
+                <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+                >：強弩兵生產快11%。
               </li>
               <li>
                 <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-                >：弩兵自<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-                >/帝王時代有額外+1/+2的射程。
+                >：強弩兵+2的射程。
               </li>
               <li>
-                <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弩兵<nuxt-link
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link>：強弩兵<nuxt-link
                   to="/techs"
                   >科技</nuxt-link
-                >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-                >/帝王時代各便宜15%/20%。
+                >便宜20%。
               </li>
               <li>
                 <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-                >：弩兵<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+                >：強弩兵<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
                 >快18%。
               </li>
               <li>
-                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：弩兵在<nuxt-link
-                  to="/techs/age/Castle_Age"
-                  >城堡</nuxt-link
-                >/帝王時代各便宜20%/30%。
+                <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+                >：強弩兵護甲升級免費。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：強弩兵便宜30%。
               </li>
               <li>
                 <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-                >：弩兵花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >成本少15%。
+                >：強弩兵花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >成本少20%。弓兵科技研發速度+30%。
               </li>
               <li>
-                <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
-                  to="/techs/Chemistry"
-                  >化學</nuxt-link
-                >免費。
+                <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+                >：強弩兵vs標準建築+3攻擊力。
               </li>
               <li>
                 <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-                >：弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-                >/帝王時代的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
-                >增加15%/20%。免費<nuxt-link to="/techs/Conscription"
-                  >徵兵</nuxt-link
-                >。
+                >：強弩兵血量增加20%。<nuxt-link to="/techs/Conscription"
+                  >徵兵技術</nuxt-link
+                >免費。
               </li>
             </ul>
           </div>
@@ -586,13 +583,32 @@
           <div class="n1">
             <ul>
               <li>
-                <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-                >：弩兵快生產快20%。
+                <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                  to="/techs/Kasbah"
+                  >聚居堡壘</nuxt-link
+                >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
+                >的研究時間(快25%)。
               </li>
               <li>
-                <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵<nuxt-link
-                  to="/elements/Line_of_Sight"
-                  >視野</nuxt-link
+                <nuxt-link to="/civs/Britons">不列顛</nuxt-link
+                >：強弩兵生產和升級快20%。研發<nuxt-link to="/techs/Thumb_Ring"
+                  >拇指環</nuxt-link
+                >速度快20%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+                >提升強弩兵護甲和攻擊的科技研發快80％。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                  to="/techs/Heresy"
+                  >異端邪說</nuxt-link
+                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+                >：強弩兵<nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link
                 >+2。
               </li>
               <li>
@@ -603,7 +619,13 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-                >：弩兵對<nuxt-link to="/building">建築</nuxt-link>攻擊+1。
+                >：強弩兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+                  >標準建築</nuxt-link
+                >攻擊+1。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+                >：強弩兵更不容易被招降。
               </li>
             </ul>
           </div>
@@ -675,6 +697,42 @@
                   to="/civs/Khmer"
                   >高棉</nuxt-link
                 >有了強弩兵。
+              </li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>:
+                強弩兵vs標準建築+3攻擊力。
+              </li>
+              <li>
+                (39284更新)
+                <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+                >強弩兵的木材成本從–15%改為-20%。
+              </li>
+              <li>
+                (42848更新) 朝鮮強弩兵護甲升級免費。
+              </li>
+              <li>
+                (42848更新)
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+                >團隊加分中<nuxt-link to="/building/Blacksmith"
+                  >兵工廠</nuxt-link
+                >工作效率從+50%增加成+80%。
+              </li>
+              <li>
+                (42848更新)
+                <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度
+                +30%。
+              </li>
+              <li>
+                (42848更新)
+                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:<nuxt-link
+                  to="/techs/Obsidian_Arrows"
+                  >黑曜石之箭</nuxt-link
+                >對石牆、城門、箭塔和碼頭取消雙倍攻擊加成。
               </li>
             </ul>
           </div>
