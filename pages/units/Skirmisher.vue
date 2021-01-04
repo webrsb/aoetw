@@ -198,7 +198,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link
-              >:長槍兵系和矛兵遠程護甲+1。<nuxt-link to="/civs/Lithuanians"
+              >:長槍兵系和矛兵遠程護甲+2。<nuxt-link to="/civs/Lithuanians"
                 >立陶宛</nuxt-link
               >限定
             </td>
