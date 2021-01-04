@@ -278,9 +278,9 @@
               /><nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >(+1/+2)<br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Sipahi"
+                to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >(<nuxt-link to="/armor">遠程護甲</nuxt-link>+1，<nuxt-link
+              >(+1/+1，<nuxt-link
                 to="/civs/Tatars"
                 >韃靼</nuxt-link
               >限定 )
@@ -728,13 +728,15 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對精鋭欽察有利的科技在帝王時代便宜20%。
+              >：對精鋭欽察有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
               >：欽察速度在城堡時代/<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
-              >提升10％/ 15％。
+              >提升10％/15％。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
@@ -746,9 +748,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：精鋭欽察對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >：精鋭欽察在城堡/帝王vs<nuxt-link to="/armor/Armor_Class_Building"
                 >標準建築</nuxt-link
-              >攻擊+4
+              >+2/+3攻擊力。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
@@ -756,7 +758,7 @@
                 >兵工廠</nuxt-link
               >對精鋭欽察有利的科技升級不用<nuxt-link to="/resource/Gold"
                 >黃金</nuxt-link
-              >
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -802,7 +804,7 @@
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >提升欽察護甲和欽察攻擊的科技研發快50％。
+              >提升欽察護甲和欽察攻擊的科技研發快80％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研究<nuxt-link
@@ -854,6 +856,12 @@
                 to="/units/Mangudai"
                 >蒙古突騎</nuxt-link
               >一樣。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
             </li>
           </ul>
         </div>
