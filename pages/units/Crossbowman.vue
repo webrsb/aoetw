@@ -540,6 +540,9 @@
                 >：弩兵在城堡/帝王vs標準建築+2/+3攻擊力。
               </li>
               <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：弓兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+              </li>
+              <li>
                 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
                   to="/techs/Chemistry"
                   >化學</nuxt-link
@@ -799,7 +802,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              除了<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>之外的所有文明
+              請看介紹
             </td>
           </tr>
           <tr>
