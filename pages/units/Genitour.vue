@@ -319,7 +319,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
-              >(+1/+2)
+              >(+1/+2)<br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Sipahi"
+                >絲護甲</nuxt-link
+              >(+1/+1，<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >限定 )
             </td>
           </tr>
           <tr>
@@ -739,7 +746,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠標槍騎兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -748,23 +759,36 @@
               >/帝王時代便宜15%/20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：標槍騎兵速度在城堡時代/<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >提升10％/ 15％。
+            </li>
+            <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：多20%的血量。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link
-              >：標槍騎兵的血量在<nuxt-link to="/techs/age/Castle_Age"
+              >：標槍騎兵在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/帝王時代各便宜10%/20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：標槍騎兵木材成本便宜20%。標槍騎兵護甲升級免費。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
               >：標槍騎兵發射速度快25%。
             </li>
             <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：標槍騎兵科技研發速度+30%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：標槍騎兵<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
-              >攻擊+3。
+              >：標槍騎兵在城堡/帝王vs<nuxt-link to="/armor/Armor_Class_Building"
+                >標準建築</nuxt-link
+              >+2/+3攻擊力。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：升級<nuxt-link
@@ -773,10 +797,13 @@
               >科技不用黃金。
             </li>
             <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：標槍騎兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+            </li>
+            <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：標槍騎兵的血量在<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
-              >/帝王時代各增加15%/20%的血量。
+              >：標槍騎兵血量增加20%。<nuxt-link to="/techs/Conscription"
+                >徵兵技術</nuxt-link
+              >免費。
             </li>
           </ul>
         </div>
@@ -791,6 +818,12 @@
               >的速度快20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升標槍騎兵護甲和攻擊的科技研發快80％。
+            </li>
+            <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
@@ -798,11 +831,18 @@
               >研發快20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li> 
+            <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。
             </li>
+            <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：標槍騎兵+2視野。</li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：標槍騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
@@ -818,7 +858,7 @@
           </h3>
           <ul>
             <li>
-              遠程防禦為3/4(精銳)
+              遠程防禦為3/4(精銳)。
             </li>
             <li>
               最初非精銳的標槍騎兵有4的攻擊與3的射程，4.8版後為3的攻擊與4的射程。
@@ -833,7 +873,35 @@
           </h3>
           <ul>
             <li>
-              (35584更新) 非精銳的遠程防禦增加為4
+              標槍騎兵對長槍兵+2攻擊。
+            </li>
+            <li>
+              (35584更新) 非精銳的標槍騎兵遠程防禦增加為4。
+            </li>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >標槍騎兵的木材成本從–15%改為-20%。
+            </li>
+            <li>
+              (42848更新) 朝鮮帝王戰矛兵護甲升級免費。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞兵工廠科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度
+              +30%。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>的<nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>從遠程護甲+1變成遠程和近戰護甲各+1。
             </li>
           </ul>
         </div>
@@ -996,6 +1064,9 @@
               >弓箭手<br />+2(精銳)對<nuxt-link
                 to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
+              ><br />+2(精銳)對<nuxt-link
+                to="/armor/Armor_Class_Spearman"
+                >長槍兵</nuxt-link
               >
             </td>
           </tr>
