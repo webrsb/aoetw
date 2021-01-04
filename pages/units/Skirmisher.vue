@@ -451,6 +451,10 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠矛兵科技升級所需食物-50%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：成本便宜25%。
             </li>
             <li>
@@ -461,7 +465,7 @@
               >各便宜10%/15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：矛兵木材成本便宜20%。弓兵護甲升級免費。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：矛兵木材成本便宜20%。矛兵護甲升級免費。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：矛兵移動速度提高10%。
