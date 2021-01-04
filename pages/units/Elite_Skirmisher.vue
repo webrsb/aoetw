@@ -467,6 +467,10 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠戰矛兵科技升級所需食物-50%。
+            </li>	           
+            <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：成本便宜25%。
             </li>
             <li>
