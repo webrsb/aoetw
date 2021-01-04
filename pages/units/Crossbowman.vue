@@ -522,7 +522,7 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-                >：弩兵護甲升級免費。
+                >：弩兵木材成本便宜20%。弩兵護甲升級免費。
               </li>
               <li>
                 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：弩兵在<nuxt-link
