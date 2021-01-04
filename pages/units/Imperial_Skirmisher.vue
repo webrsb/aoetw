@@ -227,7 +227,16 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵鏈甲</nuxt-link
-              >(+1/+2)
+              >(+1/+2)<br />
+              <img
+                class="gg"
+                src="~assets/unique_tech_imperial.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link
+              >:長槍兵系和矛兵遠程護甲+2。<nuxt-link to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >限定
             </td>
           </tr>
           <tr>
@@ -402,7 +411,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠帝王戰矛兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：成本便宜25%。
@@ -410,23 +423,32 @@
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：對帝王戰矛兵有利的<nuxt-link to="/techs">科技</nuxt-link
-              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >各便宜15%/20%。
+              >便宜20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：帝王戰矛兵木材成本便宜20%。帝王戰矛兵護甲升級免費。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：帝王戰矛兵移動速度提高10%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：帝王戰矛兵科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >升級科技免黃金
+              >升級科技免黃金。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：帝王戰矛兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：帝王戰矛兵在帝王帝王時代的<nuxt-link to="/elements/Hit_points"
-                >血量</nuxt-link
-              >增加20%。免費<nuxt-link to="/techs/Conscription"
+              >：帝王戰矛兵血量增加20%。<nuxt-link to="/techs/Conscription"
                 >徵兵技術</nuxt-link
-              >。
+              >免費。
             </li>
           </ul>
         </div>
@@ -439,7 +461,7 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >的研究時間(快25%)
+              >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
@@ -447,6 +469,18 @@
                 >拇指環</nuxt-link
               >速度快20%。
             </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升帝王戰矛兵護甲和攻擊的科技研發快80％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li> 
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：帝王戰矛兵<nuxt-link to="/elements/Line_of_Sight"
@@ -464,11 +498,49 @@
               >：帝王戰矛兵對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+2。
+              >攻擊+1。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：帝王戰矛兵更不容易被招降。
+            </li>
+          </ul>
+                  </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：引入<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>。
+            </li>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >帝王戰矛兵的木材成本從–15%改為-20%。
+            </li>
+            <li>
+              (36906更新) 立陶宛的塔盾中帝王戰矛兵遠程護甲從+1增至+2。
+            </li>
+            <li>
+              (42848更新) 朝鮮帝王戰矛兵護甲升級免費。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞兵工廠科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度
+              +30%。
             </li>
           </ul>
         </div>
