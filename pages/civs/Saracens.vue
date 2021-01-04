@@ -48,7 +48,7 @@
               to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >也有<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
-            >血量/容量上升，<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
+            >血量和運載量加成，<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
             ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>上升。
           </p>
         </div>
@@ -58,11 +58,10 @@
           <ul>
             <li>
               薩拉森的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >有對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >+3攻擊加成。步行<nuxt-link to="/units/Archer_Units"
+              >和步行<nuxt-link to="/units/Archer_Units"
                 >弓兵</nuxt-link
-              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
-              >也有+1加成。
+              >有對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成。
             </li>
             <li>
               薩拉森除了歐洲獨特的<nuxt-link to="/units/Cavalry_Units"
@@ -76,7 +75,7 @@
             </li>
             <li>
               薩拉森在<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
-              >統上也是全滿再加上團隊對建築攻擊+1加成的讓玩家也可以打弓兵相關戰術。
+              >統上也是全滿再加上團隊對建築攻擊+2加成的讓玩家也可以打弓兵相關戰術。
             </li>
             <li>
               薩拉森在<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
@@ -100,7 +99,7 @@
               >/<nuxt-link to="/techs/Shipwright">造船員</nuxt-link>/<nuxt-link
                 to="/techs/Heated_Shot"
                 >火箭</nuxt-link
-              >(舊稱火箭)，但有著運輸船兩倍生命/裝載容量+5，戰船攻擊速度+20%，因此只在生產成本還有沒重型火戰船的弱勢上，整體也不怎爛。
+              >(舊稱火箭)，但有著運輸船兩倍血量和運載量+5，戰船攻擊速度+25%，因此只在生產成本還有沒重型火戰船的弱勢上，整體也不怎爛。
             </li>
             <li>
               薩拉森作為伊斯蘭教起源地區，<nuxt-link to="/building/Monastery"
@@ -141,7 +140,7 @@
                 src="~assets/unique_tech_imperial.png"
                 alt=""
               /><nuxt-link to="/techs/Zealotry">狂熱</nuxt-link
-              >：駱駝騎兵/阿拉伯奴隸兵血量+30。
+              >：駱駝單位血量+30。
             </li>
           </ul>
         </div>
@@ -153,22 +152,22 @@
               <nuxt-link to="/building/Market">市集</nuxt-link
               >貿易成本僅5%(不是30%)
             </li>
-            <li>市集建造成本-100木材(原價175木材)</li>
-            <li>運輸船擁有兩倍血量/裝載量+5</li>
+            <li>市集木材成本-100(原為175)</li>
+            <li>運輸船兩倍血量和運載量+5</li>
             <li>
-              <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
-              >(槳帆戰船)攻擊速度+20%
+              <nuxt-link to="/units/Galley">戰船</nuxt-link
+              >攻擊速度+25%
             </li>
             <li>
-              遠程單位(除矛兵)，在封建/城堡/帝王vs標準建築+1/+2/+3攻擊力。
+              遠程單位(除矛兵和火槍兵，但包括標槍騎兵)在封建/城堡/帝王時代對標準建築+1/+2/+3攻擊力。馬弓騎兵(包括標槍騎兵)對標準建築額外+1攻擊力
             </li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
                 >:</strong
               >徒步弓兵對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築物</nuxt-link
-              >攻擊力+1
+                >標準建築</nuxt-link
+              >攻擊力+2
             </li>
           </ul>
         </div>
@@ -185,24 +184,26 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>市集成本-175木材。</li>
+            <li>市集木材成本-75。</li>
             <li>阿拉伯奴隸兵獲得+1攻擊。</li>
           </ul>
-          <h3>更新日誌</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
             <h3>
               <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
             </h3>
             <ul>
               <li>
-                市集木材減免100 (原為75)。
+                市集木材成本-100。
               </li>
               <li>
-                遠程單位(除矛兵)，在封建/城堡/帝王vs標準建築+1/+2/+3攻擊力。
+                遠程單位(除矛兵和火槍兵，但包括標槍騎兵)在封建/城堡/帝王時代對標準建築+1/+2/+3攻擊力。馬弓騎兵(包括標槍騎兵)對標準建築額外+1攻擊力。
+              </li>
+              <li>
+                戟兵對阿拉伯奴隸兵從+16減至+11。
+              </li>
+              <li>
+                （精銳）阿拉伯奴隸兵的開火間隔減少了。
               </li>
             </ul>
-          </div>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
