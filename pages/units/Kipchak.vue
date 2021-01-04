@@ -750,7 +750,7 @@
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >：精鋭欽察在城堡/帝王vs<nuxt-link to="/armor/Armor_Class_Building"
                 >標準建築</nuxt-link
-              >+2/+3攻擊力。
+              >+3/+4攻擊力。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
