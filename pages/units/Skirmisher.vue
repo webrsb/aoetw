@@ -448,7 +448,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：成本便宜25%。
@@ -461,10 +461,23 @@
               >各便宜10%/15%/20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：矛兵木材成本便宜20%。弓兵護甲升級免費。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：矛兵移動速度提高10%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：矛兵科技研發速度+30%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >升級科技免黃金
+              >升級科技免黃金。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：矛兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -474,12 +487,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/帝王時代的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
-              >增加10%/15%/20%。免費<nuxt-link to="/techs/Conscription"
+              >：矛兵血量增加20%。<nuxt-link to="/techs/Conscription"
                 >徵兵技術</nuxt-link
-              >。
-            </li>
+              >免費。
+             </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -491,7 +502,7 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >的研究時間(快25%)
+              >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
@@ -500,16 +511,28 @@
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵<nuxt-link
-                to="/elements/Line_of_Sight"
-                >視野</nuxt-link
-              >+2。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升矛兵護甲和攻擊的科技研發快80％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵<nuxt-link
+                to="/elements/Line_of_Sight"
+                >視野</nuxt-link
+              >+2。
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
@@ -583,6 +606,31 @@
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
               >：引入<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>。
+            </li>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >弓兵的木材成本從–15%改為-20%。
+            </li>
+            <li>
+              (36906更新) 立陶宛的塔盾中矛兵遠程護甲從+1增至+2。
+            </li>
+            <li>
+              (42848更新) 朝鮮矛兵護甲升級免費。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞兵工廠科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度
+              +30%。
             </li>
           </ul>
         </div>
