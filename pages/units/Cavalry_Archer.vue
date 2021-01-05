@@ -765,7 +765,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：標槍騎兵血量增加20%。<nuxt-link to="/techs/Conscription"
+              >：血量增加20%。<nuxt-link to="/techs/Conscription"
                 >徵兵技術</nuxt-link
               >免費。
             </li>
