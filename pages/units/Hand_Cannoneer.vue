@@ -45,14 +45,17 @@
                 to="/civs/Khmer"
                 >高棉</nuxt-link
               >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
-                to="/civs/Malians"
-                >馬利</nuxt-link
-              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
-                to="/civs/Portuguese"
-                >葡萄牙</nuxt-link
-              >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、<nuxt-link
-                to="/civs/Spanish"
-                >西班牙</nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
+                to="/civs/Saracens"
+                >薩拉森</nuxt-link
+              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
               >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
@@ -72,12 +75,14 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
                 to="/civs/Britons"
                 >不列顛</nuxt-link
+              >、<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
               >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
                 to="/civs/Celts"
                 >塞爾特</nuxt-link
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
-                to="/civs/Ethiopians"
-                >衣索比亞</nuxt-link
+                to="/civs/Cumans"
+                >庫曼</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
@@ -396,9 +401,13 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：火槍兵便宜20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：火槍兵護甲升級免費。
+            </li>
+            <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：火槍兵的<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >成本少15%。
+              >成本少20%。弓兵科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
@@ -406,6 +415,10 @@
                 >兵工廠</nuxt-link
               >升級<nuxt-link to="/techs">科技</nuxt-link
               >免黃金。火槍兵的開火速度快18%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：火槍兵高地戰鬥傷害+50%
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
@@ -423,13 +436,23 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >的研究時間(快25%)
+              >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：火槍兵生產快20%。研發<nuxt-link to="/techs/Thumb_Ring"
-                >拇指環</nuxt-link
-              >速度快20%。
+              >：火槍兵生產快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升火槍兵護甲和攻擊的科技研發快80％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -443,7 +466,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >:火槍兵訓練速度快20％。
+              >:火槍兵訓練速度快25％。
             </li>
           </ul>
         </div>
@@ -509,6 +532,30 @@
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
               >:在4.8版本後，火槍兵便宜20％。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >火槍兵的<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本少20%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>火槍兵護甲升級免費。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 葡萄牙科技研發速度+30%。
             </li>
           </ul>
         </div>
