@@ -929,8 +929,8 @@
             </li>
             <li>
               (39284更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >馬弓騎兵的黃金成本少20%。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              馬弓騎兵的黃金成本少20%。
             </li>
             <li>
               (39284更新)
@@ -938,7 +938,8 @@
               馬弓騎兵的木材成本從–15%改為-20%。
             </li>
             <li>
-              (42848更新) 朝鮮: 馬弓騎兵護甲升級免費。
+              (42848更新) <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:
+              馬弓騎兵護甲升級免費。
             </li>
             <li>
               (42848更新)
@@ -947,10 +948,12 @@
               >工作效率從+50%增加成+80%。
             </li>
             <li>
-              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
+              (42848更新) <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              兵工廠科技升級所需食物-50%。
             </li>
             <li>
-              (42848更新) 葡萄牙: 科技研發速度+30%。
+              (42848更新) <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              科技研發速度+30%。
             </li>
             <li>
               (42848更新)
