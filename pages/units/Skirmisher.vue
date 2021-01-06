@@ -465,10 +465,12 @@
               >各便宜10%/15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：矛兵木材成本便宜20%。矛兵護甲升級免費。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：矛兵木材成本便宜20%。矛兵護甲升級免費。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：矛兵移動速度提高10%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：矛兵移動速度提高10%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -481,7 +483,10 @@
               >升級科技免黃金。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：矛兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：矛兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -494,7 +499,7 @@
               >：矛兵血量增加20%。<nuxt-link to="/techs/Conscription"
                 >徵兵技術</nuxt-link
               >免費。
-             </li>
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
