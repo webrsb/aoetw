@@ -135,9 +135,7 @@
                 alt=""
               /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >(對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
-              >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link
-              >+3，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+              >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >限定)
           </tr>
           <tr>
@@ -183,7 +181,7 @@
               >(+1/+1，<nuxt-link
                 to="/civs/Tatars"
                 >韃靼</nuxt-link
-              >限定 )
+              >限定)
             </td>
           </tr>
           <tr>
@@ -229,7 +227,7 @@
               >(+40%，<nuxt-link
                 to="/civs/Franks"
                 >法蘭克</nuxt-link
-              >限定 )
+              >限定)
             <br />
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
                 to="/techs/Chivalry"
@@ -237,7 +235,7 @@
               >(+50%，<nuxt-link
                 to="/civs/Cumans"
                 >庫曼</nuxt-link
-              >限定 )
+              >限定)
            </td>
             </tr>
         </table>
