@@ -81,14 +81,17 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
               >花費便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：該科技免費。
             </li>
             <li>
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：該科技研發速度+30%。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：該科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -115,10 +118,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>:無法研發<nuxt-link
-                to="/techs/Ring_Archer_Armor"
-                >弓兵鏈甲</nuxt-link
-              >。
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>:無法研發弓兵鏈甲。
             </li>
           </ul>
           <h3>
@@ -143,12 +143,13 @@
           </h3>
           <ul>
             <li>
-              (42848更新) <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-              >弓兵鏈甲免費。
+              (42848更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>弓兵鏈甲免費。
             </li>
             <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度+30%。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              弓兵鏈甲研發速度+30%。
             </li>
           </ul>
         </div>
