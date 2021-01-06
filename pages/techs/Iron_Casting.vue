@@ -20,10 +20,13 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
-              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：該科技所需食物-50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
               >時代花費便宜15%/20%。
             </li>
@@ -35,6 +38,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：該科技免費。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：該科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -49,7 +56,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度加快50%。
+              >：鑄造技術研發速度加快80%。
             </li>
           </ul>
         </div>
