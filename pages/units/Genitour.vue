@@ -92,9 +92,8 @@
             </li>
             <li>
               長<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/civs/Incas">印加</nuxt-link
               ><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
                 to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
@@ -171,9 +170,8 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Pikeman"
-                >重裝長槍兵</nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >、<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
               >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
@@ -323,10 +321,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Sipahi"
                 >絲護甲</nuxt-link
-              >(+1/+1，<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >限定 )
+              >(+1/+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定 )
             </td>
           </tr>
           <tr>
@@ -422,7 +417,9 @@
                     class="gg"
                     src="~assets/HeavyCamelIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>→
+                  /><nuxt-link to="/units/Heavy_Camel_Rider"
+                    >重裝駱駝騎兵</nuxt-link
+                  >→
                   <img
                     class="gg"
                     src="~assets/ImperialCamelIcon.png"
@@ -749,8 +746,10 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠標槍騎兵科技升級所需食物-50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >標槍騎兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -768,13 +767,14 @@
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：多20%的血量。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈人</nuxt-link
-              >：標槍騎兵在<nuxt-link to="/techs/age/Castle_Age"
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：標槍騎兵在<nuxt-link
+                to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/帝王時代各便宜10%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：標槍騎兵木材成本便宜20%。標槍騎兵護甲升級免費。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：標槍騎兵木材成本便宜20%。標槍騎兵護甲升級免費。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
@@ -786,7 +786,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：標槍騎兵在城堡/帝王vs<nuxt-link to="/armor/Armor_Class_Building"
+              >：標槍騎兵在城堡/帝王vs<nuxt-link
+                to="/armor/Armor_Class_Building"
                 >標準建築</nuxt-link
               >+3/+4攻擊力。
             </li>
@@ -797,7 +798,10 @@
               >科技不用黃金。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：標槍騎兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：標槍騎兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
@@ -835,14 +839,16 @@
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
               >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-            </li> 
+            </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。
             </li>
-            <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：標槍騎兵+2視野。</li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：標槍騎兵+2視野。
+            </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：標槍騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
@@ -901,7 +907,11 @@
               +30%。
             </li>
             <li>
-              (42848更新) <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>的<nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>從遠程護甲+1變成遠程和近戰護甲各+1。
+              (42848更新)
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>的<nuxt-link
+                to="/techs/Silk_Armor"
+                >絲護甲</nuxt-link
+              >從遠程護甲+1變成遠程和近戰護甲各+1。
             </li>
           </ul>
         </div>
@@ -1064,8 +1074,7 @@
               >弓箭手<br />+2(精銳)對<nuxt-link
                 to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              ><br />+2(精銳)對<nuxt-link
-                to="/armor/Armor_Class_Spearman"
+              ><br />+2(精銳)對<nuxt-link to="/armor/Armor_Class_Spearman"
                 >長槍兵</nuxt-link
               >
             </td>
