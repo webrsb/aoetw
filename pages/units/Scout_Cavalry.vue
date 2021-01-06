@@ -95,7 +95,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20)
+            </td>
           </tr>
+
           <tr>
             <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
@@ -126,8 +128,7 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link
-              >(+5，<nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >限定)
+              >(+5，<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定)
               <br />
               <img
                 src="~assets/unique_tech_imperial.png"
@@ -135,10 +136,11 @@
                 alt=""
               /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >(對<nuxt-link to="/armor/Armor_Class_Standard_Building"
-              >標準建築</nuxt-link
-            >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >限定)
+                >標準建築</nuxt-link
+              >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
+            </td>
           </tr>
+
           <tr>
             <td class="tta1" style="width:10%">攻擊速度</td>
             <td class="tta4">
@@ -148,8 +150,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link>(+33%
-              ，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >限定)
+              ，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -179,10 +180,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >(+1/+1，<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >限定)
+              >(+1/+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -225,20 +223,14 @@
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
                 to="/techs/Chivalry"
                 >騎士精神</nuxt-link
-              >(+40%，<nuxt-link
-                to="/civs/Franks"
-                >法蘭克</nuxt-link
-              >限定)
-            <br />
+              >(+40%，<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>限定)
+              <br />
               <img class="gg" src="~assets/unique_tech.png" alt="" /><nuxt-link
                 to="/techs/Chivalry"
                 >大草原耕種技術</nuxt-link
-              >(+50%，<nuxt-link
-                to="/civs/Cumans"
-                >庫曼</nuxt-link
-              >限定)
-           </td>
-            </tr>
+              >(+50%，<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定)
+            </td>
+          </tr>
         </table>
 
         <h3>剋斥侯的單位與建築</h3>
@@ -275,7 +267,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -510,8 +503,10 @@
               >便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠斥候科技升級所需食物-50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >斥候科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
@@ -526,13 +521,15 @@
             </li>
             <li>
               <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-              >：斥候速度在封建時代/城堡時代/<nuxt-link to="/techs/age/Imperial_Age"
+              >：斥候速度在封建時代/城堡時代/<nuxt-link
+                to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >提升5％/10％/15％。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >：斥候從封建時代開始血量多20%(在<nuxt-link to="/games/ak">非洲王國</nuxt-link
+              >：斥候從封建時代開始血量多20%(在<nuxt-link to="/games/ak"
+                >非洲王國</nuxt-link
               >資料片上線後)，研發<nuxt-link to="/techs/Chivalry"
                 >騎士精神</nuxt-link
               >後<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
@@ -561,10 +558,12 @@
               >升級科技免<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：斥候高地戰鬥傷害+50%。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：斥候高地戰鬥傷害+50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：斥候近防在城堡時代+1，帝王時代再+1。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：斥候近防在城堡時代+1，帝王時代再+1。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -598,7 +597,8 @@
               >提升斥候護甲和攻擊的科技研發快80％。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈人</nuxt-link>：斥候生產和升級效率快20%，<nuxt-link to="/techs/Bloodlines"
+              <nuxt-link to="/civs/Huns">匈人</nuxt-link
+              >：斥候生產和升級效率快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
@@ -608,7 +608,7 @@
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
               >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-            </li> 
+            </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：斥候+2視野。
             </li>
@@ -691,29 +691,29 @@
               (35584更新) 起始斥侯擁有自動探圖功能。
             </li>
             <li>
-              (36906更新) <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >馬廄單位在城堡時代+1近防，帝王時代再+1遠防 (總共+2)。
+              (36906更新) <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:
+              馬廄單位在城堡時代+1近防，帝王時代再+1遠防 (總共+2)。
             </li>
             <li>
-              (42848更新) <nuxt-link to="/civs/Indians">印度</nuxt-link
-              >馬廄單位在城堡時代+1遠防，帝王時代再+1遠防 (總共+2)。
+              (42848更新) <nuxt-link to="/civs/Indians">印度</nuxt-link>:
+              馬廄單位在城堡時代+1遠防，帝王時代再+1遠防 (總共+2)。
             </li>
             <li>
-              (42848更新) <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >斥侯+1遠防。
+              (42848更新) <nuxt-link to="/civs/Turks">土耳其</nuxt-link> ;
+              斥侯+1遠防。
             </li>
             <li>
               (42848更新)
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >工作效率從+50%增加成+80%。
             </li>
             <li>
-              (42848更新) 保加利亞兵工廠科技升級所需食物-50%。
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
             </li>
             <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
               +30%。
             </li>
           </ul>
