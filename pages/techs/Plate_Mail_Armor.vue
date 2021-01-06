@@ -85,10 +85,13 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：該科技所需食物-50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：該科技所需食物-50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
               >花費便宜20%。
             </li>
             <li>
@@ -98,7 +101,8 @@
               >也獲得+1/+2護甲。
             </li>
             <li>
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：該科技研發速度+30%。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：該科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -113,7 +117,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度加快80%。
+              >：步兵板甲研發速度加快80%。
             </li>
           </ul>
         </div>
