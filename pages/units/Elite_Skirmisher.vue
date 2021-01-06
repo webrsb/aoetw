@@ -467,9 +467,11 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠戰矛兵科技升級所需食物-50%。
-            </li>	           
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >戰矛兵科技升級所需食物-50%。
+            </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：成本便宜25%。
             </li>
@@ -481,10 +483,12 @@
               >各便宜15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：戰矛兵木材成本便宜20%。戰矛兵護甲升級免費。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：戰矛兵木材成本便宜20%。戰矛兵護甲升級免費。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：戰矛兵移動速度提高10%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：戰矛兵移動速度提高10%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -497,7 +501,10 @@
               >升級科技免黃金。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：戰矛兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：戰矛兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
@@ -535,7 +542,7 @@
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
               >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-            </li> 
+            </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
