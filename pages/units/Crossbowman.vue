@@ -506,7 +506,8 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>弩兵科技升級所需食物-50%。
+                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+                >弩兵科技升級所需食物-50%。
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弩兵<nuxt-link
@@ -540,7 +541,10 @@
                 >：弩兵在城堡/帝王vs標準建築+2/+3攻擊力。
               </li>
               <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：弓兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+                <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+                >：弓兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring"
+                  >拇指環</nuxt-link
+                >免費。
               </li>
               <li>
                 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -708,9 +712,7 @@
                 +30%。
               </li>
               <li>
-                (42848更新)
-                馬雅的<nuxt-link
-                  to="/techs/Obsidian_Arrows"
+                (42848更新) 馬雅的<nuxt-link to="/techs/Obsidian_Arrows"
                   >黑曜石之箭</nuxt-link
                 >對石牆、城門、箭塔和碼頭取消雙倍攻擊加成。
               </li>
