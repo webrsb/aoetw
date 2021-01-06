@@ -506,7 +506,8 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>弩兵科技升級所需食物-50%。
+                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+                >弩兵科技升級所需食物-50%。
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弩兵<nuxt-link
@@ -522,7 +523,7 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-                >：弩兵護甲升級免費。
+                >：弩兵木材成本便宜20%。弩兵護甲升級免費。
               </li>
               <li>
                 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：弩兵在<nuxt-link
@@ -538,6 +539,12 @@
               <li>
                 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
                 >：弩兵在城堡/帝王vs標準建築+2/+3攻擊力。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+                >：弓兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring"
+                  >拇指環</nuxt-link
+                >免費。
               </li>
               <li>
                 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -597,7 +604,7 @@
                 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
                 >：弩兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                   >標準建築</nuxt-link
-                >攻擊+1。
+                >攻擊+2。
               </li>
               <li>
                 <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -705,9 +712,7 @@
                 +30%。
               </li>
               <li>
-                (42848更新)
-                馬雅的<nuxt-link
-                  to="/techs/Obsidian_Arrows"
+                (42848更新) 馬雅的<nuxt-link to="/techs/Obsidian_Arrows"
                   >黑曜石之箭</nuxt-link
                 >對石牆、城門、箭塔和碼頭取消雙倍攻擊加成。
               </li>
@@ -799,7 +804,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              除了<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>之外的所有文明
+              請看介紹
             </td>
           </tr>
           <tr>
