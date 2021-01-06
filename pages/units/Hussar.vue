@@ -33,11 +33,17 @@
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
+                to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >、<nuxt-link
                 to="/civs/Burmese"
                 >緬甸</nuxt-link
               >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
                 to="/civs/Celts"
                 >塞爾特</nuxt-link
+              >、<nuxt-link
+                to="/civs/Cumans"
+                >庫曼</nuxt-link
               >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
                 to="/civs/Huns"
@@ -45,7 +51,13 @@
               >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
                 to="/civs/Italians"
                 >義大利</nuxt-link
+              >、<nuxt-link
+                to="/civs/Khmer"
+                >高棉</nuxt-link
               >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
@@ -55,6 +67,9 @@
                 to="/civs/Slavs"
                 >斯拉夫</nuxt-link
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
               >。
@@ -79,7 +94,7 @@
               >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
                 to="/civs/Japanese"
                 >日本</nuxt-link
-              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+              >、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
@@ -123,7 +138,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >，<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
+              >、<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
               >、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>。
             </td>
@@ -131,14 +146,14 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Spearman">槍兵</nuxt-link>系，<nuxt-link
+              <nuxt-link to="/units/Spearman">槍兵</nuxt-link>系、<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >，<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >，<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>，<nuxt-link
+              >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >，大部分近戰單位
+              >、大部分近戰單位
             </td>
           </tr>
           <tr class="tta">
@@ -151,18 +166,6 @@
               <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
             </td>
             <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/ScoutCavalryIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
-              <img
-                class="gg"
-                src="~assets/LightCavalryIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
-              <img class="gg" src="~assets/HussarIcon.png" alt="" />匈牙利輕騎兵
-              <br />
               <img
                 class="gg"
                 src="~assets/Bloodlines.png"
@@ -201,9 +204,20 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
-              >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊+3。
+              >(對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >標準建築</nuxt-link
+            >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+              >限定)
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Rate_of_Fire">攻速</nuxt-link>
+            </td>
+            <td class="tta4">
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link>(+33%
+              ，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >限定)
             </td>
           </tr>
           <tr>
@@ -229,7 +243,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
-              >(+1/+2)
+              >(+1/+2)<br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Silk_Armor"
+                >絲護甲</nuxt-link
+              >(+1/+1，<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >限定)
             </td>
           </tr>
           <tr>
@@ -262,7 +283,14 @@
                 src="~assets/conscription.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link>(+33%)<br />
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Chivalry"
+                >大草原耕種技術</nuxt-link
+              >(+50%，<nuxt-link
+                to="/civs/Cumans"
+                >庫曼</nuxt-link
+              >限定)
             </td>
           </tr>
         </table>
@@ -527,6 +555,10 @@
               >：匈牙利輕騎兵便宜20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠匈牙利輕騎兵科技升級所需食物-50%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
@@ -536,26 +568,40 @@
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：只要在一個塞爾特單位的<nuxt-link to="/elements/Line_of_Sight"
                 >視野</nuxt-link
-              >下，羊群不會被牽走
+              >下，羊群不會被牽走。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
-                to="/building/Blacksmith"
-                >兵工廠</nuxt-link
-              >升級<nuxt-link to="/techs">科技</nuxt-link>免黃金
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：匈牙利輕騎兵速度提升15％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Indians">印度</nuxt-link
+              >：匈牙利輕騎兵遠防+2。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
                 to="/techs/Forging"
                 >鍛造技術</nuxt-link
-              >.鑄鐵.<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
-              >科技，匈牙利輕騎兵系生產便宜15%
+              >、鑄鐵、<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
+              >科技，匈牙利輕騎兵生產便宜15%。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
               >：匈牙利輕騎兵<nuxt-link to="/elements/Hit_points"
                 >血量</nuxt-link
               >多30%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級<nuxt-link to="/techs">科技</nuxt-link>免黃金。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：匈牙利輕騎兵高地戰鬥傷害+50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：匈牙利輕騎兵升級免費。匈牙利輕騎兵遠防+1。
             </li>
           </ul>
         </div>
@@ -568,7 +614,13 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >的研究時間(快25%)。%。
+              >的研究時間(快25%)。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升匈牙利輕騎兵護甲和攻擊的科技研發快80％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link
@@ -577,6 +629,12 @@
               >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
             </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li> 
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
               >：匈牙利輕騎兵+2視野。
@@ -619,6 +677,40 @@
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >:5.5版本後匈牙利輕騎兵現在便宜15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >:無法訓練匈牙利輕騎兵。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              高棉可以訓練匈牙利輕騎兵。
+            </li>
+            <li>
+              (34055更新) <nuxt-link to="/civs/Lithuanian">立陶宛</nuxt-link>:
+              不再擁有每駐守一件遺跡，匈牙利輕騎兵攻擊力就+1(最高+5)的文明加成。
+            </li>
+            <li> (37650更新) 匈牙利輕騎兵攻擊動畫更短。雖然這不會影響輸出，但可以更好的追擊單位。</li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Indians">印度</nuxt-link>:
+              馬廄單位在城堡時代+1遠防，帝王時代再+1遠防 (總共+2)。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:
+              匈牙利輕騎兵+1遠防。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
             </li>
           </ul>
         </div>
