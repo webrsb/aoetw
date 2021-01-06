@@ -414,8 +414,10 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠帝王戰矛兵科技升級所需食物-50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >帝王戰矛兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：成本便宜25%。
@@ -426,10 +428,12 @@
               >便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：帝王戰矛兵木材成本便宜20%。帝王戰矛兵護甲升級免費。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：帝王戰矛兵木材成本便宜20%。帝王戰矛兵護甲升級免費。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：帝王戰矛兵移動速度提高10%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：帝王戰矛兵移動速度提高10%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -442,7 +446,10 @@
               >升級科技免黃金。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：帝王戰矛兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：帝王戰矛兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
@@ -480,7 +487,7 @@
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
               >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-            </li> 
+            </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：帝王戰矛兵<nuxt-link to="/elements/Line_of_Sight"
@@ -505,7 +512,7 @@
               >：帝王戰矛兵更不容易被招降。
             </li>
           </ul>
-                  </div>
+        </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
