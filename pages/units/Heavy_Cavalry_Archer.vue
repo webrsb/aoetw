@@ -132,15 +132,15 @@
             >、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>與<nuxt-link
               to="/civs/Magyars"
               >馬扎爾</nuxt-link
-            >。<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
+            >。<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
             >擁有絕佳的<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
             >。<nuxt-link to="/civs/Huns">匈人</nuxt-link>則是有便宜的<nuxt-link
               to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
-            >，<nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>對<nuxt-link
+            >，<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>對<nuxt-link
               to="/armor/Armor_Class_Building"
               >建築</nuxt-link
-            >有+4的攻擊，而<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            >有攻擊加成，而<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
             >人在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >透過<nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
             >科技，讓馬弓騎兵射程與攻擊額外+1。<nuxt-link to="/civs/Turks"
@@ -154,7 +154,7 @@
             >的優勢，在高海拔戰鬥則有傷害加成，團隊加分讓馬弓視野加2可以輔助以上的馬弓文明，並且透過<nuxt-link
               to="/techs/Silk_Armor"
               >絲護甲</nuxt-link
-            >可以+1遠防可增加遠程攻擊的抗性；<nuxt-link to="/civs/Cumans"
+            >可以+1近防和遠防增加攻擊的抗性；<nuxt-link to="/civs/Cumans"
               >庫曼</nuxt-link
             >則有在封建時代開始每個時代跑速+5%的優勢，透過研發<nuxt-link
               to="/techs/Steppe_Husbandry"
@@ -184,10 +184,10 @@
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
                 >阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Skirmisher"
-                >矛兵</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link
               >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </td>
@@ -354,7 +354,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >(+0/+1，韃靼限定)
+              >(+1/+1，韃靼限定)
             </td>
           </tr>
           <tr>
@@ -455,7 +455,9 @@
                     class="gg"
                     src="~assets/HeavyCamelIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>→
+                  /><nuxt-link to="/units/Heavy_Camel_Rider"
+                    >重裝駱駝騎兵</nuxt-link
+                  >→
                   <img
                     class="gg"
                     src="~assets/ImperialCamelIcon.png"
@@ -773,25 +775,48 @@
               >便宜50%。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠重裝馬弓騎兵科技升級所需食物-50%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：對重裝馬弓騎兵有利的科技在帝王時代便宜20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：重裝馬弓騎兵速度在帝王時代提升15％。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：多20%的血量。
             </li>
             <li><nuxt-link to="/civs/Huns">匈人</nuxt-link>：造價便宜20%。</li>
+            <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：重裝馬弓騎兵木材成本便宜20%。重裝馬弓騎兵護甲升級免費。
+            </li>
             <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：射速快25%。</li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >:重裝馬弓騎兵<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本減少20%。重裝馬弓騎兵科技研發速度+30%。
+            </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+4
+              >+4攻擊力。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >科技升級不用<nuxt-link to="/resource/Gold">黃金</nuxt-link>
+              >科技升級不用<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：重裝馬弓騎兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -804,14 +829,6 @@
               >：血量增加20%。免費<nuxt-link to="/techs/Conscription"
                 >徵兵技術</nuxt-link
               >。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
-              >：拇指環和安息人戰術免費，在高海拔攻擊時造成傷害加成25%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-              >：從封建時代開始，每個時代跑速+5%。
             </li>
           </ul>
         </div>
@@ -828,10 +845,16 @@
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：馬弓騎兵生產快20%。研發<nuxt-link to="/techs/Thumb_Ring"
+              >：重裝馬弓騎兵生產快20%。研發<nuxt-link to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
               >和<nuxt-link to="/techs/Parthian_Tactics">安息人戰術</nuxt-link
               >的速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升重裝馬弓騎兵護甲和攻擊的科技研發快80％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：<nuxt-link
@@ -841,18 +864,25 @@
               >研發快20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。
             </li>
             <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：重裝馬弓騎兵視野+2。
+            </li>
+            <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：重裝馬弓騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
               >抵抗力更強。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：馬騎弓兵視野+2。
             </li>
           </ul>
         </div>
@@ -938,6 +968,44 @@
               >：引入大草原耕種技術。
             </li>
             <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：引入絲護甲。</li>
+            <li>
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>:
+              重裝馬弓騎兵在帝王vs標準建築+4攻擊力。
+            </li>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              重裝馬弓騎兵的黃金成本少20%。
+            </li>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:
+              重裝馬弓騎兵的木材成本從–15%改為-20%。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:
+              重裝馬弓騎兵護甲升級免費。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              兵工廠科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              科技研發速度+30%。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>:
+              <nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link
+              >從遠程護甲+1變成遠程和近戰護甲各+1。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
