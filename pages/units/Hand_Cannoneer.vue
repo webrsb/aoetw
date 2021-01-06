@@ -466,7 +466,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >:火槍兵訓練速度快20％。
+              >:火槍兵訓練速度快25％。
             </li>
           </ul>
         </div>
