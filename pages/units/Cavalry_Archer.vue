@@ -111,10 +111,10 @@
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
                 >阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Skirmisher"
-                >矛兵</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link
               >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </td>
@@ -281,10 +281,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Sipahi"
                 >絲護甲</nuxt-link
-              >(+1/+1，<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >限定 )
+              >(+1/+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定 )
             </td>
           </tr>
           <tr>
@@ -385,7 +382,9 @@
                     class="gg"
                     src="~assets/HeavyCamelIcon.png"
                     alt=""
-                  /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>→
+                  /><nuxt-link to="/units/Heavy_Camel_Rider"
+                    >重裝駱駝騎兵</nuxt-link
+                  >→
                   <img
                     class="gg"
                     src="~assets/ImperialCamelIcon.png"
@@ -703,8 +702,10 @@
               >便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠馬弓騎兵科技升級所需食物-50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >馬弓騎兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -729,7 +730,8 @@
               >/帝王時代便宜10%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：馬弓騎兵木材成本便宜20%。馬弓騎兵護甲升級免費。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：馬弓騎兵木材成本便宜20%。馬弓騎兵護甲升級免費。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
@@ -743,10 +745,11 @@
               >成本減少20%。馬弓騎兵科技研發速度+30%。
             </li>
             <li>
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：在城堡/帝王對<nuxt-link
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+              >：在城堡/帝王對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >+3/+4攻擊力。              
+              >+3/+4攻擊力。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
@@ -755,7 +758,10 @@
               >科技升級不用黃金。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：馬弓騎兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：馬弓騎兵高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -918,20 +924,21 @@
             </li>
             <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：引入絲護甲。</li>
             <li>
-                <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>:
-                馬弓騎兵在城堡/帝王vs標準建築+3/+4攻擊力。
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>:
+              馬弓騎兵在城堡/帝王vs標準建築+3/+4攻擊力。
             </li>
             <li>
               (39284更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>馬弓騎兵的黃金成本少20%。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >馬弓騎兵的黃金成本少20%。
             </li>
             <li>
               (39284更新)
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-              >馬弓騎兵的木材成本從–15%改為-20%。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>:
+              馬弓騎兵的木材成本從–15%改為-20%。
             </li>
             <li>
-              (42848更新) 朝鮮馬弓騎兵護甲升級免費。
+              (42848更新) 朝鮮: 馬弓騎兵護甲升級免費。
             </li>
             <li>
               (42848更新)
@@ -940,14 +947,16 @@
               >工作效率從+50%增加成+80%。
             </li>
             <li>
-              (42848更新) 保加利亞兵工廠科技升級所需食物-50%。
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新) 葡萄牙: 科技研發速度+30%。
             </li>
             <li>
               (42848更新)
-              葡萄牙科技研發速度+30%。
-            </li>
-            <li>
-              (42848更新) <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>的<nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>從遠程護甲+1變成遠程和近戰護甲各+1。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>:
+              <nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link
+              >從遠程護甲+1變成遠程和近戰護甲各+1。
             </li>
           </ul>
         </div>
