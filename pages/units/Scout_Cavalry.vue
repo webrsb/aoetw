@@ -134,8 +134,9 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
-              >(對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
-              >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+              >(對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >標準建築</nuxt-link
+            >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >限定)
           </tr>
           <tr>
