@@ -560,7 +560,7 @@
               >升級科技免<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：斥候高地戰鬥傷害+50%。<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>免費。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：斥候高地戰鬥傷害+50%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：斥候近防在城堡時代+1，帝王時代再+1。
