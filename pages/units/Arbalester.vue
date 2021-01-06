@@ -556,7 +556,7 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-                >：強弩兵護甲升級免費。
+                >：強弩兵木材成本便宜20%。強弩兵護甲升級免費。
               </li>
               <li>
                 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：強弩兵便宜30%。
@@ -621,7 +621,7 @@
                 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
                 >：強弩兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                   >標準建築</nuxt-link
-                >攻擊+1。
+                >攻擊+2。
               </li>
               <li>
                 <nuxt-link to="/civs/Teutons">條頓</nuxt-link
