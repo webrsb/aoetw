@@ -173,8 +173,7 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link
-              >(+5，<nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >限定)
+              >(+5，<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定)
               <br />
               <img
                 src="~assets/unique_tech_imperial.png"
@@ -182,9 +181,8 @@
                 alt=""
               /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >(對<nuxt-link to="/armor/Armor_Class_Standard_Building"
-              >標準建築</nuxt-link
-            >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >限定)
+                >標準建築</nuxt-link
+              >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -215,10 +213,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >(+1/+1，<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >限定)
+              >(+1/+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -237,8 +232,10 @@
               <nuxt-link to="/elements/Rate_of_Fire">攻速</nuxt-link>
             </td>
             <td class="tta4">
-              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link to="/techs/Stirrups">馬鐙</nuxt-link>(+33%
-              ，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
+                to="/techs/Stirrups"
+                >馬鐙</nuxt-link
+              >(+33% ，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
               >限定)
             </td>
           </tr>
@@ -273,18 +270,12 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Chivalry"
                 >騎士精神</nuxt-link
-              >(+40%，<nuxt-link
-                to="/civs/Franks"
-                >法蘭克</nuxt-link
-              >限定)
+              >(+40%，<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>限定)
               <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Chivalry"
                 >大草原耕種技術</nuxt-link
-              >(+50%，<nuxt-link
-                to="/civs/Cumans"
-                >庫曼</nuxt-link
-              >限定)
+              >(+50%，<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定)
             </td>
           </tr>
         </table>
@@ -323,7 +314,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -569,8 +561,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技研發在<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
+              >：科技研發在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代各便宜15%/20%。
             </li>
             <li>
@@ -613,13 +604,18 @@
               >升級科技免<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：輕騎兵高地戰鬥傷害+50%。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：輕騎兵高地戰鬥傷害+50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：輕騎兵近防在城堡時代+1，帝王時代再+1。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：輕騎兵近防在城堡時代+1，帝王時代再+1。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link to="/civs/Hussar">匈牙利輕騎兵</nuxt-link>免費升級。輕騎兵遠防+1。
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
+                to="/civs/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >免費升級。輕騎兵遠防+1。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -658,7 +654,7 @@
                 to="/techs/Heresy"
                 >異端邪說</nuxt-link
               >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-            </li> 
+            </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：輕騎兵+2視野。
             </li>
@@ -768,28 +764,29 @@
               >。
             </li>
             <li>
-              (34055更新) <nuxt-link to="/civs/Lithuanian">立陶宛</nuxt-link>不再擁有每駐守一件遺跡，輕騎兵攻擊力就+1(最高+5)的文明加成。
+              (34055更新) <nuxt-link to="/civs/Lithuanian">立陶宛</nuxt-link>:
+              不再擁有每駐守一件遺跡，輕騎兵攻擊力就+1(最高+5)的文明加成。
             </li>
             <li>
-              (42848更新) <nuxt-link to="/civs/Indians">印度</nuxt-link
-              >馬廄單位在城堡時代+1遠防，帝王時代再+1遠防 (總共+2)。
+              (42848更新) <nuxt-link to="/civs/Indians">印度</nuxt-link>:
+              馬廄單位在城堡時代+1遠防，帝王時代再+1遠防 (總共+2)。
             </li>
             <li>
-              (42848更新) <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >輕騎兵+1遠防。
+              (42848更新) <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:
+              輕騎兵+1遠防。
             </li>
             <li>
               (42848更新)
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >工作效率從+50%增加成+80%。
             </li>
             <li>
-              (42848更新) 保加利亞兵工廠科技升級所需食物-50%。
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
             </li>
             <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>科技研發速度
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
               +30%。
             </li>
           </ul>
