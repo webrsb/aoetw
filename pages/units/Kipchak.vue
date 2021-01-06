@@ -280,10 +280,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >(+1/+1，<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >限定 )
+              >(+1/+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定 )
             </td>
           </tr>
           <tr>
@@ -389,7 +386,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -748,7 +746,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：精鋭欽察在城堡/帝王vs<nuxt-link to="/armor/Armor_Class_Building"
+              >：精鋭欽察在城堡/帝王vs<nuxt-link
+                to="/armor/Armor_Class_Building"
                 >標準建築</nuxt-link
               >+3/+4攻擊力。
             </li>
