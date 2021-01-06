@@ -32,7 +32,7 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >也獲得+1/+1護甲
+              >也獲得+1/+1護甲。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：該科技研發速度+30%。
