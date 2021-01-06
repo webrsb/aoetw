@@ -57,7 +57,9 @@
               >跟<nuxt-link to="/units/Archer">弓兵</nuxt-link>還有<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
-              >，但是土耳其火槍兵在大數量時是可以吃掉弓兵、騎兵甚至<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >，但是土耳其火槍兵在大數量時是可以吃掉弓兵、騎兵甚至<nuxt-link
+                to="/units/Elite_Skirmisher"
+                >戰矛兵</nuxt-link
               >，但是基於資源消耗的不平衡是不建議的，有免費升級的<nuxt-link
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
@@ -65,9 +67,7 @@
               >(舊稱翼騎兵)可以作為反制使用。
             </li>
             <li>
-              土耳其<nuxt-link
-                to="/units/Bombard_Cannon"
-                >火炮</nuxt-link
+              土耳其<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
               >可說是遊戲裡射程最遠的<nuxt-link to="/units/Bombard_Cannon"
                 >火炮</nuxt-link
               >，<nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -75,9 +75,12 @@
               >擁有全遊戲最遠的射程13(需研發帝王時代特殊科技<nuxt-link
                 to="/techs/Crenellations"
                 >砲門垛口</nuxt-link
-              >)，因此除了土耳其火砲(需研發帝王時代特殊科技<nuxt-link to="/techs/Artillery"
+              >)，因此除了土耳其火砲(需研發帝王時代特殊科技<nuxt-link
+                to="/techs/Artillery"
                 >火砲術</nuxt-link
-              >)/<nuxt-link to="/units/Mangonel">投石機</nuxt-link>/火砲戰船可以無損打到以外，沒有任何的<nuxt-link to="/units/Siege_Weapons"
+              >)/<nuxt-link to="/units/Mangonel">投石機</nuxt-link
+              >/火砲戰船可以無損打到以外，沒有任何的<nuxt-link
+                to="/units/Siege_Weapons"
                 >攻城器</nuxt-link
               >可無損打到。(為了平衡所以沒有<nuxt-link
                 to="/techs/Siege_Engineers"
@@ -85,10 +88,12 @@
               >)
             </li>
             <li>
-              土耳其是遊戲唯一不能使用戰矛兵及<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              土耳其是遊戲唯一不能使用戰矛兵及<nuxt-link to="/units/Pikeman"
+                >重裝長槍兵</nuxt-link
               >的文明，儘管<nuxt-link to="/armor/Armor_Class_Archer"
                 >弓兵</nuxt-link
-              >系統缺乏戰矛兵/<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
+              >系統缺乏戰矛兵/<nuxt-link to="/units/Arbalester"
+                >強弩兵</nuxt-link
               >，但是他們擁有遊戲裡血最多的<nuxt-link
                 to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
@@ -97,17 +102,21 @@
               >(<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >系血量+20)，<nuxt-link to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
-              >系統也只欠缺重裝長槍兵/<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >系統也只欠缺重裝長槍兵/<nuxt-link to="/units/Halberdier"
+                >戟兵</nuxt-link
               >/美洲獨有<nuxt-link to="/Eagle_Warrior">鷹勇士</nuxt-link>。
             </li>
             <li>
-              雖然欠缺重裝長槍兵/戟兵/戰矛兵遊戲中的兩大垃圾兵，但是騎兵系統的<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
+              雖然欠缺重裝長槍兵/戟兵/戰矛兵遊戲中的兩大垃圾兵，但是騎兵系統的<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
               >系有免費升級，因此在封建打<nuxt-link to="/units/Scout_Cavalry"
                 >肉馬</nuxt-link
               >爆時一進入城堡時代威力會瞬間爆發，除了東南亞獨有<nuxt-link
                 to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
-              >/<nuxt-link to="/units/Paladin">遊俠</nuxt-link>，騎兵系統還是有不錯的優勢的。
+              >/<nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >，騎兵系統還是有不錯的優勢的。
             </li>
             <li>
               海戰系統上除了<nuxt-link to="/units/Fast_Fire_Ship"
@@ -127,18 +136,22 @@
               >進攻上有一定難度。
             </li>
             <li>
-              火槍兵和騎兵是很吃肉的單位，但是土耳其沒有<nuxt-link to="/techs/Crop_Rotation">輪耕制度</nuxt-link
+              火槍兵和騎兵是很吃肉的單位，但是土耳其沒有<nuxt-link
+                to="/techs/Crop_Rotation"
+                >輪耕制度</nuxt-link
               >，因此後期需要更多<nuxt-link to="/units/Villager">村民</nuxt-link
               >種田來支撐<nuxt-link to="/resource/Food">食物</nuxt-link
               >的消耗，<nuxt-link to="/resource/Gold">黃金</nuxt-link
               >部分因為有金礦採集速度+20%因此在擁有金礦下是不容易沒黃金的。
             </li>
             <li>
-              沒有戰矛兵也就代表跟<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              沒有戰矛兵也就代表跟<nuxt-link to="/civs/Vietnamese"
+                >越南</nuxt-link
               >同盟時不會擁有<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
               >，但是跟<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >同盟時會擁有可以彌補戰矛兵漏洞的<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >同盟時會擁有可以彌補戰矛兵漏洞的<nuxt-link to="/units/Genitour"
+                >標槍騎兵</nuxt-link
               >，城堡時代特殊科技采邑騎兵(馬弓騎兵系血量+20)的加成讓土耳其的標槍騎兵會更強大。
             </li>
             <li>
@@ -209,7 +222,7 @@
         <div class="n1">
           <em><nuxt-link to="/tree/tur">土耳其科技樹</nuxt-link></em>
         </div>
-                <br />
+        <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -218,10 +231,14 @@
           </h3>
           <ul>
             <li>
-              (42848更新) 獲得<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>系遠防+1的文明加成。
+              (42848更新) 獲得<nuxt-link to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
+              >系遠防+1的文明加成。
             </li>
             <li>
-              (42848更新) 精銳<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>命中率有65%。
+              (42848更新) 精銳<nuxt-link to="/units/Janissary"
+                >土耳其火槍兵</nuxt-link
+              >命中率有65%。
             </li>
           </ul>
         </div>
@@ -241,27 +258,24 @@
               >。
             </li>
             <li>
-              土耳其是唯一沒有<nuxt-link
-                to="/units/Elite_Skirmisher"
+              土耳其是唯一沒有<nuxt-link to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
               >/<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >的文明，這也代表進入後期時部隊會越來越珍貴且文明本身會越來越弱勢。
             </li>
             <li>
-              跟<nuxt-link
-                to="/civs/Byzantines"
-                >拜占庭</nuxt-link
-              >的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              跟<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>的<nuxt-link
+                to="/building/Wonder"
+                >世界奇觀</nuxt-link
               >建築上非常相像，拜占庭的聖索菲亞大教堂被征服後也增加了4根柱子
             </li>
             <li>
-              土耳其雖說沒有戰矛兵但跟<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+              土耳其雖說沒有戰矛兵但跟<nuxt-link to="/civs/Berbers"
+                >柏柏</nuxt-link
               >同盟後這項問題就被解決了。
             </li>
             <li>
-              土耳其的<nuxt-link
-                to="/units/Cannon_Galleon"
-                >火砲戰船</nuxt-link
+              土耳其的<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >(研發火砲術)跟遊戲裡攻擊最遠的<nuxt-link to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >(研發<nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
