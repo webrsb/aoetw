@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>薩拉森</b>是中東的<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
+            <b>薩拉森</b>是中東的<nuxt-link to="/units/Camel_Rider"
+              >駱駝</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
             >，世紀帝國II的可使用的最初<nuxt-link to="/civs">文明</nuxt-link
             >之一。薩拉森這詞一個非常有爭議的詞源，在不同時代上代表著不同人事物，西方文獻裡是稱伊斯蘭/阿拉伯帝國，早期羅馬帝國是稱西奈半島的阿拉伯遊牧民族，東羅馬帝國(<nuxt-link
@@ -48,7 +49,8 @@
               to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >也有<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
-            >血量和運載量加成，<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
+            >血量和運載量加成，<nuxt-link to="/units/Naval_Vessels"
+              >戰船</nuxt-link
             ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>上升。
           </p>
         </div>
@@ -58,8 +60,7 @@
           <ul>
             <li>
               薩拉森的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >和步行<nuxt-link to="/units/Archer_Units"
-                >弓兵</nuxt-link
+              >和步行<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >有對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊加成。
             </li>
@@ -154,12 +155,12 @@
             </li>
             <li>市集木材成本-100(原為175)</li>
             <li>運輸船兩倍血量和運載量+5</li>
+            <li><nuxt-link to="/units/Galley">戰船</nuxt-link>攻擊速度+25%</li>
             <li>
-              <nuxt-link to="/units/Galley">戰船</nuxt-link
-              >攻擊速度+25%
-            </li>
-            <li>
-              遠程單位(除矛兵和火槍兵，但包括標槍騎兵)在封建/城堡/帝王時代對標準建築+1/+2/+3攻擊力。馬弓騎兵(包括標槍騎兵)對標準建築額外+1攻擊力
+              遠程單位(除<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >，但包括<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >)在封建/城堡/帝王時代對標準建築+1/+2/+3攻擊力。馬弓騎兵(包括標槍騎兵)對標準建築額外+1攻擊力
             </li>
             <li>
               <strong
@@ -187,23 +188,34 @@
             <li>市集木材成本-75。</li>
             <li>阿拉伯奴隸兵獲得+1攻擊。</li>
           </ul>
-            <h3>
-              <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
-                市集木材成本-100。
-              </li>
-              <li>
-                遠程單位(除矛兵和火槍兵，但包括標槍騎兵)在封建/城堡/帝王時代對標準建築+1/+2/+3攻擊力。馬弓騎兵(包括標槍騎兵)對標準建築額外+1攻擊力。
-              </li>
-              <li>
-                戟兵對阿拉伯奴隸兵從+16減至+11。
-              </li>
-              <li>
-                （精銳）阿拉伯奴隸兵的開火間隔減少了。
-              </li>
-            </ul>
+          <h3>
+            <em><nuxt-link to="/games/aok">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              市集木材成本-100。
+            </li>
+            <li>
+              遠程單位(除<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >，但包括<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >)在封建/城堡/帝王時代對<nuxt-link
+                to="/armor/Armor_Class_standard_building"
+                >標準建築</nuxt-link
+              >+1/+2/+3攻擊力。<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >(包括標槍騎兵)對標準建築額外+1攻擊力。
+            </li>
+            <li>
+              戟兵對阿<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >從+16減至+11。
+            </li>
+            <li>
+              （精銳）阿拉伯奴隸兵的<nuxt-link to="/elements/Frame_delay"
+                >開火間隔</nuxt-link
+              >減少了。
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
