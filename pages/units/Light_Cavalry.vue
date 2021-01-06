@@ -137,21 +137,6 @@
             <td class="tta4">
               <img
                 class="gg"
-                src="~assets/ScoutCavalryIcon.png"
-                alt=""
-              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
-              <img
-                class="gg"
-                src="~assets/LightCavalryIcon.png"
-                alt=""
-              />輕騎兵→
-              <img class="gg" src="~assets/HussarIcon.png" alt="" /><nuxt-link
-                to="/units/Hussar"
-                >匈牙利輕騎兵</nuxt-link
-              >
-              <br />
-              <img
-                class="gg"
                 src="~assets/Bloodlines.png"
                 width="30"
                 alt=""
@@ -187,21 +172,17 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link>：<nuxt-link
-                to="/building/Stable"
-                >馬廄</nuxt-link
-              >單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定
+              /><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link
+              >(+5，<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定)
               <br />
               <img
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
-              >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
-              >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >(對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
+              >+6，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -232,13 +213,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
-              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1。<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >限定
+              >(+1/+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -260,10 +235,8 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Stirrups"
                 >馬鐙</nuxt-link
-              >：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >和<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
-              >攻速+25%。<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >限定
+              >(+33% ，<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >限定)
             </td>
           </tr>
           <tr>
@@ -297,17 +270,12 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Chivalry"
                 >騎士精神</nuxt-link
-              >：馬廄工作速率快40%。<nuxt-link to="/civs/Franks"
-                >法蘭克</nuxt-link
-              >限定
+              >(+40%，<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>限定)
               <br />
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
-                to="/techs/Steppe_Husbandry"
+                to="/techs/Chivalry"
                 >大草原耕種技術</nuxt-link
-              >：<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
-              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >訓練速度+50%。<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定
+              >(+50%，<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>限定)
             </td>
           </tr>
         </table>
@@ -346,7 +314,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -581,16 +550,25 @@
               >便宜50%。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠輕騎兵科技升級所需食物-50%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：只要在一個塞爾特單位的<nuxt-link to="/elements/Line_of_Sight"
                 >視野</nuxt-link
-              >下，羊群不會被牽走
+              >下，羊群不會被牽走。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技研發在封建/<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
-              >/帝王時代各便宜10%/15%/20%。
+              >：科技研發在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜15%/20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：輕騎兵速度在城堡時代/<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >提升10％/15％。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：輕騎兵<nuxt-link
@@ -598,7 +576,11 @@
                 >血量</nuxt-link
               >多20%，研發<nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
               >後<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
-              >研發速度快40%
+              >研發速度快40%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Indians">印度</nuxt-link
+              >：輕騎兵遠防在城堡時代+1，帝王時代再+1。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
@@ -606,16 +588,34 @@
                 >鍛造技術</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link
               >、<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
-              >科技，輕騎兵生產便宜15%
+              >科技，輕騎兵生產便宜15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：輕騎兵血量多30%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：輕騎兵科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >升級科技免<nuxt-link to="/resource/Gold">黃金</nuxt-link>
+              >升級科技免<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：輕騎兵免費升級。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：輕騎兵高地戰鬥傷害+50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：輕騎兵近防在城堡時代+1，帝王時代再+1。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
+                to="/civs/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >免費升級。輕騎兵遠防+1。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -637,11 +637,23 @@
               >的研究時間(快25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升輕騎兵護甲和攻擊的科技研發快80％。
+            </li>
+            <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link
               >：輕騎兵生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與<nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link
               >研發快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：輕騎兵+2視野。
@@ -750,6 +762,32 @@
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
               >。
+            </li>
+            <li>
+              (34055更新) <nuxt-link to="/civs/Lithuanian">立陶宛</nuxt-link>:
+              不再擁有每駐守一件遺跡，輕騎兵攻擊力就+1(最高+5)的文明加成。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Indians">印度</nuxt-link>:
+              馬廄單位在城堡時代+1遠防，帝王時代再+1遠防 (總共+2)。
+            </li>
+            <li>
+              (42848更新) <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:
+              輕騎兵+1遠防。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
+              +30%。
             </li>
           </ul>
         </div>
