@@ -703,7 +703,7 @@
             <td class="unit4">
               +150 vs<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
-              >(每1個步兵進駐攻擊+10，最多+40) <br />+50 vs<nuxt-link
+              >(每1個步兵進駐攻擊+10，最多+50) <br />+50 vs<nuxt-link
                 to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
               >
