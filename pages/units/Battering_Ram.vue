@@ -383,7 +383,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：輕型衝撞車訓練速度快15%。
+              >：輕型衝撞車訓練速度快11%。
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
