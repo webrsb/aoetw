@@ -242,7 +242,11 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城器單位</nuxt-link
-              >生產速度快15%。
+              >生產速度快11%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：升級攻城器單位所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研發<nuxt-link
@@ -252,10 +256,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：攻城器製造所在封建/<nuxt-link to="/techs/age/Castle_Age"
+              >：攻城器製造所在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >多20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+              >多30%/40%的<nuxt-link to="/elements/Hit_points"
                 >血量</nuxt-link
               >。
             </li>
@@ -265,6 +269,16 @@
                 >科技</nuxt-link
               >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代各便宜15%/20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：封建時代即可建造攻城器製造所並生產輕型衝撞車，城堡時代即可升級為裝甲衝撞車。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >：<nuxt-link to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >成本-20%。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link
@@ -279,14 +293,6 @@
               >即可建造)。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：蓋攻城器製造所建築速度快30%、<nuxt-link
-                to="/units/Gunpowder_Unit"
-                >火藥單位</nuxt-link
-              ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
-              >快15%(<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>)。
-            </li>
-            <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研究<nuxt-link
                 to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
@@ -297,13 +303,18 @@
               >分別快10%/15%/20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：攻城器單位<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >花費減少20%。攻城器單位科技研發速度+30%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
               >：攻城器製造所單位成本減少15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-              >：封建時代即可建造攻城器製造所並生產輕型衝撞車，城堡時代即可升級為裝甲衝撞車。
-            </li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：蓋攻城器製造所建築速度快30%。火砲攻擊速度快18%。
+            </li>         
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -324,8 +335,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-              >：攻城器製造所<nuxt-link to="/elements/Garrison">駐軍</nuxt-link
-              >單位多5個(總共15個)。
+              >：攻城器製造所提供+5人口。
             </li>
           </ul>
         </div>
@@ -365,13 +375,13 @@
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
                 to="/techs/Rocketry"
                 >火箭技術</nuxt-link
-              >(750木材，750黃金)→諸葛努手攻擊+2，弩砲攻擊+4。
+              >(750木材，750黃金)→連弩兵攻擊+2，弩砲攻擊+4。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>：<nuxt-link
                 to="/techs/Torsion_Engines"
                 >扭力彈射器</nuxt-link
-              >(1000食物，600黃金)→攻城器製造所單位傷害範圍變大
+              >(1000食物，600黃金)→攻城器製造所單位傷害範圍變大。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：<nuxt-link
@@ -410,6 +420,21 @@
               >/帝王時代分別有1800/2100HP。
             </li>
             <li>引入<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              攻城器製造所科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
+              +30%。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
