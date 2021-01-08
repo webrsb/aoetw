@@ -28,8 +28,12 @@
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Bulgarians"
+                >保加利亞</nuxt-link
+              >、<nuxt-link
                 to="/civs/Celts"
                 >塞爾特</nuxt-link
+              >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
               >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
@@ -72,6 +76,9 @@
                 to="/civs/Japanese"
                 >日本</nuxt-link
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >、<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -81,6 +88,9 @@
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Tatars"
+                >韃靼</nuxt-link
+              >、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
               >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
@@ -441,13 +451,15 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：重型投石車生產速度快15%。
+              >：重型投石車生產速度快11%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：升級重型投石車所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：重型投石車<nuxt-link to="/elements/Rate_of_Fire"
-                >攻擊速度</nuxt-link
-              >快25%(<nuxt-link to="/tree/vie">科技樹</nuxt-link>寫20%是錯的!)
+              >：重型投石車攻擊速度快25%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -462,6 +474,12 @@
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：重型投石車訓練和升級速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
@@ -545,6 +563,21 @@
               <li>
                 <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
                 >的團隊加分改為最小範圍-2，而不是射程+1。
+              </li>
+            </ul>
+            <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              攻城器製造所科技升級所需食物-50%。
+              </li>
+              <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
+              +30%。
               </li>
             </ul>
           </div>
