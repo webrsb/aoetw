@@ -158,11 +158,11 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
-              >：<nuxt-link to="/units//building/Siege_Workshop"
+              >(<nuxt-link to="/units//building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
-              >的單位傷害範圍增加。<nuxt-link to="/civs/Ethiopians"
+              >的單位傷害範圍增加，<nuxt-link to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >限定
+              >限定)
             </td>
           </tr>
           <tr>
@@ -193,12 +193,12 @@
                 src="~assets/unique_tech_imperial.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>:<nuxt-link
+              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>(<nuxt-link
                 to="/units/Gunpowder_Unit"
                 >火藥單位</nuxt-link
-              >對移動目標的命中率提升。<nuxt-link to="/civs/Portuguese"
+              >對移動目標的命中率提升，<nuxt-link to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
-              >限定
+              >限定)
             </td>
           </tr>
           <tr>
@@ -425,18 +425,17 @@
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：火砲的<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >成本減少了15%。
+              >成本減少20%。火砲科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：火砲<nuxt-link
                 to="/elements/Rate_of_Fire"
                 >射速</nuxt-link
-              >快18%的速度。
+              >快18%。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：火砲擁有+
-              25%的HP，<nuxt-link to="/techs/Chemistry">化學</nuxt-link
-              >是免費的。
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：火砲HP+25%。<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >免費。
             </li>
           </ul>
         </div>
@@ -447,6 +446,10 @@
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：火砲訓練速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：忠誠信仰和異端邪說研發速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
@@ -463,11 +466,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >：火砲訓練速度快20%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
-              >：忠誠信仰和異端邪說研發速度快20%。
+              >：火砲訓練速度快25%。
             </li>
           </ul>
         </div>
@@ -555,9 +554,14 @@
           </h3>
           <ul>
             <li>
-              更新檔36906：<nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              (36906更新) <nuxt-link to="/civs/Khmer">高棉</nuxt-link
               >失去火砲。
             </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
+              +30%。
+              </li>
           </ul>
         </div>
         <h3>英雄</h3>
