@@ -41,20 +41,6 @@
               >或是<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </li>
             <li>
-              傭兵的另一個優勢是其對反<nuxt-link
-                to="/armor/Armor_Class_Infantry"
-                >步兵單位</nuxt-link
-              >的攻擊有+10防禦。這個防禦獎勵可以讓他們抵銷<nuxt-link
-                to="/units/Plumed_Archer"
-                >羽毛箭射手</nuxt-link
-              >，<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
-                to="/units/Hand_Cannoneer"
-                >火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
-              >和<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
-              >的加成攻擊。
-            </li>
-            <li>
               傭兵移動速度快，有不錯的裝甲和高<nuxt-link
                 to="/elements/Hit_points"
                 >生命值</nuxt-link
@@ -124,7 +110,7 @@
             </li>
             <li>
               在HD
-              patch5.7版中傭兵將擁有獨特裝甲，將只會減少火槍單位的反<nuxt-link
+              patch5.7版後傭兵擁有獨特裝甲，只會減少火槍單位的反<nuxt-link
                 to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
               >傷害，不包含其他的反步兵傷害。
@@ -161,7 +147,10 @@
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>。
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
+              >、<nuxt-link to="/units/Jaguar_Warriors">豹勇士</nuxt-link
+              >、<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -200,7 +189,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >:+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -210,27 +199,27 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
-              >:步兵攻擊+4，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >限定。<br />
+              >(+4，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >限定)<br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
-              >:步兵單位有<nuxt-link to="/elements/Area_of_Effect"
+              >(步兵單位有<nuxt-link to="/elements/Area_of_Effect"
                 >踐踏傷害</nuxt-link
-              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。<br />
+              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定)<br />
               <img
                 class="gg"
                 src="~assets/unique_tech.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >:步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >(對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               >攻擊+5，對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝騎兵</nuxt-link
-              >攻擊+4，<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定。
+              >攻擊+4，<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -256,7 +245,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link
-              >(+1/+2)
+              >(+1/+2)<br />
+              <img
+                class="gg"
+                src="~assets/unique_tech.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Pavise">巨盾</nuxt-link
+              >(+1/+1，<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -318,8 +314,8 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">井噴</nuxt-link
-              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >限定。
+              >(+100%，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >限定)
             </td>
           </tr>
         </table>
@@ -487,32 +483,39 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：傭兵生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：傭兵生產快11%。
             </li>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：傭兵攻擊+3。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠傭兵科技升級所需食物-50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：傭兵攻擊+3。<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：傭兵移動速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：傭兵<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
-              >在帝王時代便宜20%。
+              >便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：傭兵便宜35%並對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+1。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
-                to="/techs/Arson"
-                >縱火</nuxt-link
-              >的速度快100%。
+              >攻擊+3。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
+              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>的速度快100%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研發<nuxt-link to="/techs/Pavise">巨盾</nuxt-link
+              >後傭兵護甲+1/+1。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：傭兵攻速快33%。
@@ -533,13 +536,7 @@
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：傭兵<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >花費便宜15%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >免費。
+              >花費便宜20%。傭兵科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
@@ -548,13 +545,21 @@
               >科技升級不用黃金。
             </li>
             <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：傭兵高地戰鬥傷害+50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：傭兵+2近程護甲。
+            </li>
+            <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
                 to="/techs/Conscription"
                 >徵兵技術</nuxt-link
               >免費。
             </li>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>：傭兵多20% HP。
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>：傭兵多20%HP。
             </li>
           </ul>
         </div>
@@ -570,13 +575,23 @@
               >的研究時間(快25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升傭兵護甲和攻擊的科技研發快80％。
+            </li>
+            <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：傭兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
+              >：傭兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >科技的時間快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -645,8 +660,36 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
+            <li>移除<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>，改為各文明升級封建時代後自動擁有。</li>
+            <li>
+              (35584更新) <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:傭兵+1近程護甲。
+            </li>
+            <li>
+              (36906更新) 條頓:傭兵增為+2近程護甲。
+            </li>
+            <li>
+              (37650更新) <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>:軍事單位加快訓練速度由15%減為11%。
+            </li>
             <li>
               (39284更新) 傭兵攻擊增至10，受特殊科技巨盾的加成。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 傭兵<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >花費便宜20%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
+            </li>
+            <li>
+              (42848更新)
+              葡萄牙: 科技研發速度+30%。
             </li>
           </ul>
         </div>
@@ -815,7 +858,7 @@
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
-            <td class="unit4">13秒</td>
+            <td class="unit4">18秒</td>
           </tr>
           <tr>
             <td
