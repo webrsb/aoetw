@@ -98,10 +98,16 @@
                 >:2
               </li>
               <li>
+                <img class="gg" src="~assets/gate.png" alt="" /><nuxt-link
+                  to="/building/Gate"
+                  >城門</nuxt-link
+                >:2
+              </li>
+              <li>
                 <img class="gg" src="~assets/stone_wall.png" alt="" /><nuxt-link
                   to="/building/Fortified_Wall"
-                  >垛牆</nuxt-link
-                >:2
+                  >垛牆/垛牆城門</nuxt-link
+                >:3
               </li>
               <li>
                 <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
@@ -138,7 +144,7 @@
         </div>
         <div class="col-md-6">
           <div class="n1 bonuses">
-            <strong>研究攻城工程師</strong>
+            <strong>研究攻城工程師後</strong>
             <ul>
               括號內為研發磚瓦技術與建築學後
               <li>
@@ -157,10 +163,16 @@
                 >:2
               </li>
               <li>
+                <img class="gg" src="~assets/gate.png" alt="" /><nuxt-link
+                  to="/building/Gate"
+                  >城門</nuxt-link
+                >:2
+              </li>
+              <li>
                 <img class="gg" src="~assets/stone_wall.png" alt="" /><nuxt-link
                   to="/building/Fortified_Wall"
-                  >垛牆</nuxt-link
-                >:2(3)
+                  >垛牆/垛牆城門</nuxt-link
+                >:2/3
               </li>
               <li>
                 <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
@@ -214,9 +226,10 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
-                to="/units/Mangonel"
-                >投石車</nuxt-link
+              <nuxt-link to="/units/Archer">弓兵</nuxt-link
+              >、<nuxt-link to="/units/Cavalry Archers">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >、<nuxt-link to="/units/Scorpions">弩砲</nuxt-link
               >、近戰單位特別是<nuxt-link to="/units/Magyar_Huszar"
                 >馬扎爾驃騎兵</nuxt-link
               >。
@@ -448,7 +461,13 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -458,7 +477,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本少15%。
+              >：花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本少20%。炸藥桶科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -481,10 +500,20 @@
               >的研究時間(快25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
                 to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
               >的速度快80%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：炸藥桶對僧侶的招降有較好的抗性。
             </li>
           </ul>
         </div>
@@ -503,6 +532,20 @@
           <ul>
             <li>成本為65F/20G</li>
           </ul>
+          <h3>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+            </h3>
+            <ul>
+              <li>
+              (39284更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本少20%。
+              </li>
+              <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
+              +30%。
+              </li>
+            </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
