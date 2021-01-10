@@ -174,6 +174,12 @@
                   >決定版</nuxt-link
                 >
               </li>
+              <li>
+                <img class="gg" src="~assets/deicon.png" alt="" /><nuxt-link
+                  to="/games/delw"
+                  >西方霸主</nuxt-link
+                >
+              </li>
             </ul>
           </div>
         </div>
@@ -181,6 +187,10 @@
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>最新消息</strong></h4>
             <ul>
+              <li>
+                新的<nuxt-link to="/games/delw">西方霸主</nuxt-link
+                >資料片頁面及大量決定版更新，由 singsing612 貢獻！
+              </li>
               <li>
                 <nuxt-link to="/qa">常見問題</nuxt-link>頁面新增決定版的相關解答
               </li>
