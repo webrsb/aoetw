@@ -131,7 +131,7 @@
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
               >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>。
             </td>
           </tr>
@@ -514,7 +514,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：鷹勇士訓練速度提高10％。
+              >：鷹勇士訓練速度提高11％。
             </li>
           </ul>
         </div>
@@ -530,13 +530,19 @@
               >、的研究時間(快25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠科技研發速度快80%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：鷹勇士訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
+              >：鷹勇士訓練和升級快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：研發忠誠信仰和異端邪說的速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -617,8 +623,10 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
             </li>
           </ul>
         </div>
