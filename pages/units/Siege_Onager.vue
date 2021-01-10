@@ -30,10 +30,9 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
                 to="/civs/Bulgarians"
                 >保加利亞</nuxt-link
-              >、<nuxt-link
-                to="/civs/Celts"
-                >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
+                to="/civs/Cumans"
+                >庫曼</nuxt-link
               >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
@@ -78,19 +77,16 @@
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Lithuanians"
                 >立陶宛</nuxt-link
-              >、<nuxt-link
-                to="/civs/Magyars"
-                >馬扎爾</nuxt-link
-              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
-                to="/civs/Mayans"
-                >馬雅</nuxt-link
-              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
-                to="/civs/Portuguese"
-                >葡萄牙</nuxt-link
-              >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >、<nuxt-link
+              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
+                to="/civs/Malay"
+                >馬來</nuxt-link
+              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
+                to="/civs/Persians"
+                >波斯</nuxt-link
+              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
+                to="/civs/Spanish"
+                >西班牙</nuxt-link
+              >、<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、<nuxt-link
                 to="/civs/Turks"
                 >土耳其</nuxt-link
               >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
@@ -570,14 +566,16 @@
             </h3>
             <ul>
               <li>
-              (42848更新)
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
-              攻城器製造所科技升級所需食物-50%。
+                (42848更新)
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+                <nuxt-link to="/units//building/Siege_Workshop"
+                  >攻城器製造所</nuxt-link
+                >科技升級所需食物-50%。
               </li>
               <li>
-              (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
-              +30%。
+                (42848更新)
+                <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+                所有科技研發速度 +30%。
               </li>
             </ul>
           </div>
