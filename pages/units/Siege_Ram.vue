@@ -65,13 +65,13 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
                 to="/civs/Bulgarians"
                 >保加利亞</nuxt-link
-              >、<nuxt-link
-                to="/civs/Byzantines"
-                >拜占庭</nuxt-link
-              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
-                to="/civs/Chinese"
-                >中國</nuxt-link
-              >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
+                to="/civs/Celts"
+                >塞爾特</nuxt-link
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Cumans"
+                >庫曼</nuxt-link
+              >、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
                 to="/civs/Incas"
                 >印加</nuxt-link
@@ -87,10 +87,10 @@
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
                 to="/civs/Tatars"
                 >韃靼</nuxt-link
-              >、<nuxt-link
-                to="/civs/Teutons"
-                >條頓</nuxt-link
-              >、<nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
+                to="/civs/Vikings"
+                >維京</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -118,16 +118,16 @@
               >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
                 to="/civs/Lithuanians"
                 >立陶宛</nuxt-link
-              >、<nuxt-link
-                to="/civs/Magyars"
-                >馬扎爾</nuxt-link
-              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
-                to="/civs/Malians"
-                >馬利</nuxt-link
-              >、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link
-                to="/civs/Turks"
-                >土耳其</nuxt-link
-              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
+                to="/civs/Malay"
+                >馬來</nuxt-link
+              >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
+              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
+                to="/civs/Vietnamese"
+                >越南</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -494,8 +494,9 @@
               >：重型衝撞車成本減少15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：重型衝撞車高地戰鬥傷害+50%。
-            </li> 
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：重型衝撞車高地戰鬥傷害+50%。
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -586,7 +587,8 @@
             <li>
               (42848更新)
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
-              攻城器製造所科技升級所需食物-50%。
+              <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
+              >科技升級所需食物-50%。
             </li>
           </ul>
         </div>
@@ -757,8 +759,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +200 vs<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
+              +200 vs<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >(每1個步兵進駐攻擊+10，最多+60) <br />+65 vs<nuxt-link
                 to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
