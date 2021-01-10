@@ -682,6 +682,10 @@
         <div class="n1">
           <ul>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠戟兵科技升級所需食物-50%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：戟兵在<nuxt-link
                 to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
@@ -697,15 +701,14 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於戟兵的技術在帝王時代便宜 20％。
+              >：有利於戟兵的科技在帝王時代便宜 20％。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：戟兵便宜35％而且對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >攻擊+3。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
               >的速度快100%。
             </li>
             <li>
@@ -715,11 +718,11 @@
               >快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
-              >：戟兵移動速度+10％。特殊科技塔盾給戟兵額外+2遠程護甲。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：戟兵木材成本減少20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：戟兵木材成本-15%。
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：戟兵移動速度+10％。特殊科技塔盾給戟兵額外+2遠程護甲。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -728,10 +731,8 @@
               >和<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：戟兵科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
@@ -767,26 +768,24 @@
               >、的研究時間(快25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：兵工廠科技研發速度快80%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：戟兵訓練快20%。研發<nuxt-link to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
+              >：戟兵訓練快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >科技的時間快20%。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：戟兵更不容易被招降。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
               >：研發忠誠信仰與異端邪說的速度+20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠研發科技速度+50%。
-            </li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：戟兵更不容易被招降。
+            </li>         
           </ul>
         </div>
         <h3>更新日誌</h3>
@@ -882,6 +881,25 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
               (35584更新) 軍營單位城堡時代起近戰防禦+1。(36906更新)
               前述調整為軍營單位於城堡時代和帝王時代近戰防禦各+1，共+2。
+            </li>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：除攻城武器的軍事單位減少20%的木材消耗。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              重裝長槍兵科技研發速度+30%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
             </li>
           </ul>
         </div>
