@@ -33,137 +33,134 @@
           <div class="hrn1"></div>
           <div class="n1">
             通常實戰中，點下帝王的瞬間就會開始著手貿易車隊的運行，如太早進行貿易則會損害經濟，無法抵禦對手，而太晚貿易則會缺乏黃金。
-            
-        <h3>更多數據</h3>
-        <div class="hrn1"></div>
-        <div class="n1"></div>
-        <table class="table-bordered" width="100%">
-          <tr class="tta">
-            <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle">劣勢與優勢</div>
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-            <td class="tta4">無</td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">任何東西</td>
-          </tr>
-          <tr class="tta">
-            <td class="unit" colspan="2" style="text-align: center;">
-              <div class="unititle">升級</div>
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">黃金收集速率</td>
-            <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/unique_tech.png"
-                style="margin: 2px;"
-                alt=""
-              /><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link>(+10%，<nuxt-link
-                to="/civs/Indians"
-                >印度</nuxt-link
-              >限定)
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">速度</td>
-            <td class="tta4">
-              <img
-                class="gg"
-                style="margin: 2px;"
-                img
-                width="22"
-                src="~assets/caravan.png"
-                alt=""
-              /><nuxt-link to="/techs/Caravan">商隊</nuxt-link>(+50%)
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">
-              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
-            </td>
-            <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/faith.png"
-                width="22"
-                alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
-              <img
-                class="gg"
-                src="~assets/Heresy.png"
-                width="22"
-                alt=""
-              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">造價減少</td>
-            <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/unique_tech_imperial.png"
-                style="margin: 2px;"
-                alt=""
-              /><nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link
-              >(-50%，<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
-            </td>
-          </tr>
-        </table>
-          
-        </div>
-        <h3>文明加成</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研究<nuxt-link
-                to="/techs/Faith"
-                >忠誠信仰</nuxt-link
-              >便宜50％。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
-                to="/elements/Line_of_Sight"
-                >視野</nuxt-link
-              >內的動物不會被轉化
-            </li>
-            <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於貿易車隊的<nuxt-link to="/techs">科技</nuxt-link
-              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
-              >便宜15/20％
-            </li>
-            <li>
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：貿易車隊訓練減少20%黃金。
-            </li>
-          </ul>          
+
+            <h3>更多數據</h3>
+            <div class="hrn1"></div>
+            <div class="n1"></div>
+            <table class="table-bordered" width="100%">
+              <tr class="tta">
+                <td class="unit" colspan="2" style="text-align: center;">
+                  <div class="unititle">劣勢與優勢</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tta1" style="width:30%">強勢(容易對抗)</td>
+                <td class="tta4">無</td>
+              </tr>
+              <tr>
+                <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
+                <td class="tta4">任何東西</td>
+              </tr>
+              <tr class="tta">
+                <td class="unit" colspan="2" style="text-align: center;">
+                  <div class="unititle">升級</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tta1" style="width:10%">黃金收集速率</td>
+                <td class="tta4">
+                  <img
+                    class="gg"
+                    src="~assets/unique_tech.png"
+                    style="margin: 2px;"
+                    alt=""
+                  /><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link
+                  >(+10%，<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
+                </td>
+              </tr>
+              <tr>
+                <td class="tta1" style="width:10%">速度</td>
+                <td class="tta4">
+                  <img
+                    class="gg"
+                    style="margin: 2px;"
+                    img
+                    width="22"
+                    src="~assets/caravan.png"
+                    alt=""
+                  /><nuxt-link to="/techs/Caravan">商隊</nuxt-link>(+50%)
+                </td>
+              </tr>
+              <tr>
+                <td class="tta1" style="width:10%">
+                  抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+                </td>
+                <td class="tta4">
+                  <img
+                    class="gg"
+                    src="~assets/faith.png"
+                    width="22"
+                    alt=""
+                  /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link><br />
+                  <img
+                    class="gg"
+                    src="~assets/Heresy.png"
+                    width="22"
+                    alt=""
+                  /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
+                </td>
+              </tr>
+              <tr>
+                <td class="tta1" style="width:10%">造價減少</td>
+                <td class="tta4">
+                  <img
+                    class="gg"
+                    src="~assets/unique_tech_imperial.png"
+                    style="margin: 2px;"
+                    alt=""
+                  /><nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link
+                  >(-50%，<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
+                </td>
+              </tr>
+            </table>
+          </div>
+          <h3>文明加成</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研究<nuxt-link
+                  to="/techs/Faith"
+                  >忠誠信仰</nuxt-link
+                >便宜50％。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
+                  to="/elements/Line_of_Sight"
+                  >視野</nuxt-link
+                >內的動物不會被轉化
+              </li>
+              <li>
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link
+                >：有利於貿易車隊的<nuxt-link to="/techs">科技</nuxt-link
+                >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+                >便宜15/20％
+              </li>
+              <li>
+                <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+                >：貿易車隊訓練減少20%黃金。
+              </li>
+            </ul>
           </div>
           <h3>團隊加分</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
               <li>
-              <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
-                to="/techs/Heresy"
-                >異端邪說</nuxt-link
-              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-            </li>
+                <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
+                  to="/techs/Heresy"
+                  >異端邪說</nuxt-link
+                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+              </li>
               <li>
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
                 >：貿易車隊所獲取的黃金單位增加25%。
               </li>
               <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：貿易車隊對招降的抵抗力更強。
-            </li>
+                <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+                >：貿易車隊對招降的抵抗力更強。
+              </li>
             </ul>
           </div>
         </div>
