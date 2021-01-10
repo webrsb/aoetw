@@ -96,12 +96,10 @@
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link></li>
-            韃靼的草原騎兵擁有對低地單位傷害+25%的文明加成，加上本身的射程，這使他們在有大量高海拔的地圖上處於優勢，甚至比騎士好用。且還受益於特殊科技<nuxt-link
+            韃靼的草原騎兵擁有對低地單位傷害+50%的文明加成，加上本身的射程，這使他們在有大量高海拔的地圖上處於優勢，甚至比騎士好用。且還受益於特殊科技<nuxt-link
               to="/techs/Silk_Armor"
               >絲護甲</nuxt-link
-            >，使他們更能抵禦<nuxt-link to="/units/Archer_Units"
-              >弓兵系</nuxt-link
-            >的攻擊。
+            >，使他們更能抵禦攻擊。
           </ul>
         </div>
         <h3>更多數據</h3>
@@ -203,7 +201,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >(<nuxt-link to="/armor">遠程護甲</nuxt-link>+1，<nuxt-link
+              >(+1/+1，<nuxt-link
                 to="/civs/Tatars"
                 >韃靼</nuxt-link
               >限定)
@@ -545,7 +543,7 @@
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >提升草原騎兵護甲和草原騎兵攻擊的科技研發快50％。
+              >提升草原騎兵護甲和攻擊的科技研發快80％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link
