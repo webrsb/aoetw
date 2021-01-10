@@ -1142,7 +1142,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
             </td>
-            <td class="unit4">6</td>
+            <td class="unit4">4 (+2)</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
