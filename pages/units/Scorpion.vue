@@ -145,8 +145,9 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
-              >：攻城器製造所的單位傷害範圍增加。<nuxt-link
-                to="/civs/Ethiopians"
+              >：<nuxt-link to="/units//building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >的單位傷害範圍增加。<nuxt-link to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
               >限定<br />
               <img
@@ -389,9 +390,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：升級<nuxt-link
-                to="/units/Heavy_Scorpion"
-                >重型弩砲</nuxt-link
+              >：升級<nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
               >所需食物-50%。
             </li>
             <li>
@@ -408,20 +407,19 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對弩砲有加成的<nuxt-link to="/techs">科技</nuxt-link
-              >便宜20%。
+              >：對弩砲有加成的<nuxt-link to="/techs">科技</nuxt-link>便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：弩砲黃金花費減少20%。弩砲科技研發速度+30%。
             </li>
             <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-              >：弩砲成本減少15%。
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：弩砲成本減少15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：弩砲高地戰鬥傷害+50%。
-            </li> 
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：弩砲高地戰鬥傷害+50%。
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -537,28 +535,31 @@
             <li>增加弩砲的砲彈大小</li>
           </ul>
           <h3>
-              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
               (36909更新) <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>:
-                <nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link>使弩炮的投射物波及範圍從0.3格增加為0.5格。
+              <nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
+              >使弩砲的投射物波及範圍從0.3格增加為0.5格。
             </li>
             <li>
               (42848更新) 衣索比亞:
-                扭力彈射器使弩炮的投射物波及範圍從0.5格減為0.4格。
+              扭力彈射器使弩砲的投射物波及範圍從0.5格減為0.4格。
             </li>
-              <li>
+            <li>
               (42848更新)
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
-              攻城器製造所科技升級所需食物-50%。
-              </li>
-              <li>
+              <nuxt-link to="/units//building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >科技升級所需食物-50%。
+            </li>
+            <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 所有科技研發速度
               +30%。
-              </li>
-            </ul>
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
