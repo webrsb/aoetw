@@ -329,7 +329,9 @@
             <ul>
               <li>
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-                >：世界奇觀的生命值+40%。城鎮瞭望免費%。
+                >：世界奇觀的生命值+40%。<nuxt-link to="/techs/Town_Watch"
+                  >城鎮瞭望</nuxt-link
+                >免費%。
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -347,7 +349,9 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
-                >：城鎮瞭望和城鎮巡邏研發速度快20%。
+                >：城鎮瞭望和<nuxt-link to="/techs/Town_Patrol"
+                  >城鎮巡邏</nuxt-link
+                >研發速度快20%。
               </li>
               <li>
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -576,9 +580,7 @@
                 >巴巴羅薩行軍</nuxt-link
               >、阿提拉3-<nuxt-link to="/batt/Walls_of_Constantinople"
                 >君士坦丁堡的城牆</nuxt-link
-              >、可泰安汗5-<nuxt-link to="/batt/A_New_Home"
-                >新的家園</nuxt-link
-              >
+              >、可泰安汗5-<nuxt-link to="/batt/A_New_Home">新的家園</nuxt-link>
             </p>
           </div>
           <div class="col-md-4">
@@ -694,8 +696,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >日本</span
+              <span class="we">日本</span
               ><strong
                 ><a href="https://zh.wikipedia.org/wiki/東大寺" target="_blank"
                   >東大寺</a
@@ -794,7 +795,8 @@
                 >獅子與惡魔</nuxt-link
               >、<nuxt-link to="/batt/Francisco_de_Almeida"
                 >法蘭西斯科·德·阿爾梅達</nuxt-link
-              >3-<nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>、帖木兒5-黎凡特的災禍
+              >3-<nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link
+              >、帖木兒5-黎凡特的災禍
             </p>
           </div>
           <div class="col-md-4">
@@ -853,13 +855,13 @@
                 to="/batt/Black_Guards"
                 >黑衛隊</nuxt-link
               >、<nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link
-              >4-<nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link>、帖木兒5-黎凡特的災禍
+              >4-<nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link
+              >、帖木兒5-黎凡特的災禍
             </p>
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >維京</span
+              <span class="we">維京</span
               ><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/博爾貢木板教堂"
@@ -941,8 +943,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >朝鮮</span
+              <span class="we">朝鮮</span
               ><strong
                 ><a href="https://zh.wikipedia.org/wiki/皇龍寺" target="_blank"
                   >皇龍寺</a
@@ -969,7 +970,8 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we">馬雅</span><strong
+              <span class="we">馬雅</span
+              ><strong
                 ><a href="https://baike.baidu.com/item/蒂卡尔" target="_blank"
                   >大美洲豹神廟</a
                 ></strong
@@ -1044,7 +1046,8 @@
             </p>
             <p>
               登場戰役：<nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link
-              >3-<nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link>、帕查庫特克2-血戰之地
+              >3-<nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link
+              >、帕查庫特克2-血戰之地
             </p>
           </div>
           <div class="col-md-4">
@@ -1175,8 +1178,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >柏柏</span
+              <span class="we">柏柏</span
               ><strong
                 ><a
                   href="https://en.wikipedia.org/wiki/Hassan_Tower"
@@ -1221,7 +1223,8 @@
               位於現今衣索比亞拉利貝拉，是阿克蘇姆帝國時期的建築物，阿克蘇姆帝國從330年開始就成為基督教國家，建築物本身一直是個基督教堂，整座教堂是一塊岩石鑿出來的。
             </p>
             <p>
-              登場戰役：優娣忒3-摔落的皇冠、<nuxt-link to="/batt/Yodita">優娣忒</nuxt-link
+              登場戰役：優娣忒3-摔落的皇冠、<nuxt-link to="/batt/Yodita"
+                >優娣忒</nuxt-link
               >5-<nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </p>
           </div>
@@ -1253,8 +1256,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >葡萄牙</span
+              <span class="we">葡萄牙</span
               ><strong
                 ><a href="https://zh.wikipedia.org/wiki/貝倫塔" target="_blank"
                   >貝倫塔</a
@@ -1345,8 +1347,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >馬來</span
+              <span class="we">馬來</span
               ><strong
                 ><a href="https://en.wikipedia.org/wiki/Kalasan" target="_blank"
                   >卡拉桑</a
@@ -1371,8 +1372,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >越南</span
+              <span class="we">越南</span
               ><strong
                 ><a
                   href="https://en.wikipedia.org/wiki/B%C3%BAt_Th%C3%A1p_Temple"
@@ -1397,19 +1397,18 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >保加利亞</span
+              <span class="we">保加利亞</span
               ><strong
                 ><a
                   href="https://en.wikipedia.org/wiki/Round_Church,_Preslav"
                   target="_blank"
                   >普雷斯拉夫圓頂教堂</a
                 ></strong
-              >             
+              >
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" />
+                <img class="imgn hg" src="~assets/Round_Church.png" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1422,19 +1421,16 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >庫曼</span
+              <span class="we">庫曼</span
               ><strong
-                ><a
-                  href="https://en.wikipedia.org/wiki/Sarkel"
-                  target="_blank"
+                ><a href="https://en.wikipedia.org/wiki/Sarkel" target="_blank"
                   >Sarkel要塞</a
                 ></strong
               >
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" />
+                <img class="imgn hg" src="~assets/Sarkel.png" alt="" />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1447,8 +1443,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >立陶宛</span
+              <span class="we">立陶宛</span
               ><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/%E7%89%B9%E6%8B%89%E5%87%AF%E5%9F%8E%E5%A0%A1"
@@ -1459,7 +1454,11 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/Trakai_Island_Castle.png"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1472,8 +1471,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >韃靼</span
+              <span class="we">韃靼</span
               ><strong
                 ><a
                   href="https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory"
@@ -1484,12 +1482,17 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" />
+                <img
+                  class="imgn hg"
+                  src="~assets/Ulugh_Beg_Observatory.png"
+                  alt=""
+                />
               </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
-              位於現今烏茲別克撒馬爾罕，由帖木兒王朝天文學家烏魯伯格於1420年代建成，是伊斯蘭世界中最好的天文台之一。 該天文台於1449年被摧毀，並於1908年重新發現。
+              位於現今烏茲別克撒馬爾罕，由帖木兒王朝天文學家烏魯伯格於1420年代建成，是伊斯蘭世界中最好的天文台之一。
+              該天文台於1449年被摧毀，並於1908年重新發現。
             </p>
             <p>
               登場戰役：無
@@ -1497,8 +1500,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >勃根地</span
+              <span class="we">勃根地</span
               ><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E5%B8%82%E6%94%BF%E5%8E%85"
@@ -1519,11 +1521,10 @@
             <p>
               登場戰役：未知
             </p>
-                      </div>
+          </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >西西里</span
+              <span class="we">西西里</span
               ><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/%E8%92%99%E9%9B%B7%E9%98%BF%E8%8E%B1?fbclid=IwAR2FV4_OldeZvwe9NWLJXlqzfQockmm_04mK1vxT7nhc1kkRiaNqTjKbY9o"
@@ -1543,7 +1544,7 @@
             </p>
             <p>
               登場戰役：未知
-            </p>           
+            </p>
           </div>
           <div class="col-md-12"></div>
         </div>
