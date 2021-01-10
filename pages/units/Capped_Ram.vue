@@ -380,9 +380,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：升級<nuxt-link
-                to="/units/Siege_Ram"
-                >重型衝撞車</nuxt-link
+              >：升級<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
               >所需食物-50%。
             </li>
             <li>
@@ -402,7 +400,7 @@
               >：對裝甲衝撞車有利的<nuxt-link to="/techs">科技</nuxt-link
               >在帝王時代便宜20%。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
               >：城堡時代就能升級至裝甲衝撞車。
             </li>
@@ -416,8 +414,9 @@
               >：裝甲衝撞車成本減少15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：裝甲衝撞車高地戰鬥傷害+50%。
-            </li>  
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：裝甲衝撞車高地戰鬥傷害+50%。
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -425,8 +424,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：攻城器製造所單位生產速度快20%。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
+                to="/building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >單位生產速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
@@ -518,7 +519,8 @@
             <li>
               (42848更新)
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
-              攻城器製造所科技升級所需食物-50%。
+              <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
+              >科技升級所需食物-50%。
             </li>
             <li>
               (42848更新)
@@ -701,8 +703,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +150 vs<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
+              +150 vs<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >(每1個步兵進駐攻擊+10，最多+50) <br />+50 vs<nuxt-link
                 to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
