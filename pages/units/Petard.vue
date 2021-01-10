@@ -226,8 +226,9 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Archer">弓兵</nuxt-link
-              >、<nuxt-link to="/units/Cavalry Archers">馬弓騎兵</nuxt-link
+              <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
+                to="/units/Cavalry Archers"
+                >馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
               >、<nuxt-link to="/units/Scorpions">弩砲</nuxt-link
               >、近戰單位特別是<nuxt-link to="/units/Magyar_Huszar"
@@ -477,7 +478,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本少20%。炸藥桶科技研發速度+30%。
+              >：花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本少20%。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -533,19 +534,15 @@
             <li>成本為65F/20G</li>
           </ul>
           <h3>
-              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
               (39284更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本少20%。
-              </li>
-              <li>
-              (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
-              +30%。
-              </li>
-            </ul>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本少20%。
+            </li>
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
