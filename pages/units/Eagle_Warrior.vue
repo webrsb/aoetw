@@ -787,6 +787,8 @@
               +2 vs<nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link
               ><br />
               +1 vs <nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>
+              <br />
+              +1 vs <nuxt-link to="/armor/Armor_Class_Fishing_Ship">漁船</nuxt-link>
             </td>
           </tr>
           <tr>
