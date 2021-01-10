@@ -20,7 +20,9 @@
             >和<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
             >不受影響；<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
             >和<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
-            >的波及半徑則是增加為0.5。弩炮系則是增加0.3(總共0.4)。
+            >的波及半徑則是增加為0.5。<nuxt-link to="/units/Scorpion"
+              >弩砲</nuxt-link
+            >系則是增加0.3(總共0.4)。
           </p>
           <p>
             此科技配合<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
@@ -71,10 +73,12 @@
           </h3>
           <ul>
             <li>
-              (36909更新) 弩炮的投射物波及範圍從0.3格增加為0.5格。
+              (36909更新)
+              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link
+              >的投射物波及範圍從0.3格增加為0.5格。
             </li>
             <li>
-              (42848更新) 弩炮的投射物波及範圍從0.5格減為0.4格。
+              (42848更新) 弩砲的投射物波及範圍從0.5格減為0.4格。
             </li>
           </ul>
         </div>
