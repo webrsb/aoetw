@@ -259,8 +259,7 @@
               >：攻城器製造所在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >多30%/40%的<nuxt-link to="/elements/Hit_points"
-                >血量</nuxt-link
+              >多30%/40%的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
               >。
             </li>
             <li>
@@ -271,12 +270,14 @@
               >/帝王時代各便宜15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-              >：封建時代即可建造攻城器製造所並生產輕型衝撞車，城堡時代即可升級為裝甲衝撞車。
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link>：<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >即可建造攻城器製造所並生產輕型衝撞車，城堡時代即可升級為裝甲衝撞車。
             </li>
             <li>
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link
-              >：<nuxt-link to="/units/Bombard_Cannon"
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：<nuxt-link
+                to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
               >成本-20%。
             </li>
@@ -314,7 +315,7 @@
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >：蓋攻城器製造所建築速度快30%。火砲攻擊速度快18%。
-            </li>         
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -432,8 +433,8 @@
             </li>
             <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
-              +30%。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              所有科技研發速度 +30%。
             </li>
           </ul>
         </div>
