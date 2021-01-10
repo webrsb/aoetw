@@ -758,6 +758,7 @@
               <br /><nuxt-link to="/games/aof">失落的帝國</nuxt-link>
               <br /><nuxt-link to="/games/ak">非洲王國</nuxt-link>
               <br /><nuxt-link to="/games/aor">王者崛起</nuxt-link>
+              <br /><nuxt-link to="/games/delw">西方霸主</nuxt-link>
             </td>
           </tr>
         </table>
