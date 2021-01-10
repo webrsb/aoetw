@@ -743,7 +743,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">8</td>
+            <td class="unit4">6 (+2)</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
