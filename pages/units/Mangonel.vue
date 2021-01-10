@@ -394,9 +394,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：升級<nuxt-link
-                to="/units/Onager"
-                >中型投石車</nuxt-link
+              >：升級<nuxt-link to="/units/Onager">中型投石車</nuxt-link
               >所需食物-50%。
             </li>
             <li>
@@ -412,10 +410,12 @@
               >快25%
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：對輕型衝撞車有利的<nuxt-link to="/techs">科技</nuxt-link
-              >便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：對<nuxt-link
+                to="/units/Battering_Ram"
+                >輕型衝撞車</nuxt-link
+              >有利的<nuxt-link to="/techs">科技</nuxt-link>便宜20%。
             </li>
-            
+
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：輕型投石車<nuxt-link to="/resource/Gold">黃金</nuxt-link
@@ -426,8 +426,9 @@
               >：輕型投石車訓練成本減少15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：輕型投石車高地戰鬥傷害+50%。
-            </li>   
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：輕型投石車高地戰鬥傷害+50%。
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -521,20 +522,22 @@
             </li>
           </ul>
           <h3>
-              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
               (42848更新)
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
-              攻城器製造所科技升級所需食物-50%。
-              </li>
-              <li>
+              <nuxt-link to="/units//building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >科技升級所需食物-50%。
+            </li>
+            <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
-              +30%。
-              </li>
-            </ul>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              所有科技研發速度+30％。
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
