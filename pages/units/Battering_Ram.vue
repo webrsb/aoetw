@@ -383,13 +383,24 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：輕型衝撞車訓練速度快15%。
+              >：輕型衝撞車訓練速度快11%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：升級<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
+              >所需食物-50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：輕型衝撞車<nuxt-link to="/elements/Rate_of_Fire"
                 >攻擊速度</nuxt-link
-              >快20%
+              >快25%
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -399,16 +410,22 @@
               >各便宜15%/20%。
             </li>
             <li>
+              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
+              >：封建時代即可建造<nuxt-link to="/units//building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >並生產輕型衝撞車。
+            </li>
+            <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：輕型衝撞車黃金花費減少15%。
+              >：輕型衝撞車黃金花費減少20%。輕型衝撞車科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
               >：輕型衝撞車成本減少15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-              >：封建時代即可建造攻城器製造所並生產輕型衝撞車。
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：輕型衝撞車高地戰鬥傷害+50%。
             </li>
           </ul>
         </div>
@@ -417,8 +434,16 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：攻城器製造所單位生產速度快20%。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
+                to="/units//building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >單位生產速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
@@ -489,12 +514,25 @@
               </li>
             </ul>
             <h3>
-              <em>決定版</em>
+              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
             </h3>
             <ul>
               <li>
                 <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-                >：封建時代即可建造攻城器製造所並生產輕型衝撞車。
+                >：封建時代即可建造<nuxt-link
+                  to="/units//building/Siege_Workshop"
+                  >攻城器製造所</nuxt-link
+                >並生產輕型衝撞車。
+              </li>
+              <li>
+                (42848更新)
+                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+                攻城器製造所科技升級所需食物-50%。
+              </li>
+              <li>
+                (42848更新)
+                <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+                科技研發速度 +30%。
               </li>
             </ul>
           </div>
@@ -696,8 +734,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +125 vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
-                >標準建築</nuxt-link
+              +125 vs<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >(每1個步兵進駐攻擊+10，最多+40) <br />+40 vs<nuxt-link
                 to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
