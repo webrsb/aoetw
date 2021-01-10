@@ -559,7 +559,7 @@
             </li>
             <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 所有科技研發速度
               +30%。
               </li>
           </ul>
