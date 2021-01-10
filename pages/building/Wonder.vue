@@ -1511,7 +1511,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" />
+                <!-- <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" /> -->
               </gallery>
             </div>
             <div class="hrn1"></div>
@@ -1535,7 +1535,7 @@
             </h3>
             <div class="wimg">
               <gallery>
-                <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" />
+                <!-- <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" /> -->
               </gallery>
             </div>
             <div class="hrn1"></div>
