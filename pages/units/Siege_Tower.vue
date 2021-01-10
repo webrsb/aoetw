@@ -99,7 +99,8 @@
                 src="~assets/chemistry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
+              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >(+1，只影響《世紀帝國II：失落的帝國》的攻城塔)
             </td>
           </tr>
           <tr>
@@ -110,9 +111,7 @@
                 src="~assets/siege_engineers.png"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:攻城武器射程+1(<nuxt-link to="/units/Battering_Ram"
-                >衝撞車</nuxt-link
-              >除外)
+              >:(攻城武器射程+1，只影響《世紀帝國II：失落的帝國》的攻城塔)
             </td>
           </tr>
           <tr>
@@ -124,7 +123,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:對移動目標命中率上升(只影響《世紀帝國II：失落的帝國》的攻城塔)
+              >:(對移動目標命中率上升，只影響《世紀帝國II：失落的帝國》的攻城塔)
             </td>
           </tr>
           <tr>
@@ -496,7 +495,13 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：攻城塔生產快15%。
+              >：攻城塔生產快11%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
@@ -507,15 +512,15 @@
             (只影響《世紀帝國II：失落的帝國》的攻城塔，其他資料片的不會)
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：利於攻城塔的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
+              >：對攻城塔有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >便宜10％/15％/20％。
+              >便宜15％/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：攻城塔<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >成本減少15%。
+              >成本減少20%。攻城塔科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -530,6 +535,12 @@
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城塔訓練速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
@@ -586,6 +597,16 @@
             </li>
             <li>攻城塔現在移動速度為0.8。</li>
             <li>4.8版本後，訓練成本為200W160G。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 所有科技研發速度
+              +30%。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
