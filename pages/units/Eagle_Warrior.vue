@@ -131,7 +131,7 @@
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+              >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>。
             </td>
           </tr>
