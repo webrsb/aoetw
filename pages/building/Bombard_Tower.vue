@@ -116,19 +116,17 @@
               >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
                 >朝鮮</nuxt-link
-              >、<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >、<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
                 to="/civs/Tatars"
                 >韃靼</nuxt-link
-              >、<nuxt-link
-                to="/civs/Teutons"
-                >條頓</nuxt-link
-              >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link>、<nuxt-link
-                to="/civs/Vietnamese"
-                >越南</nuxt-link
-              >。
+              >、<nuxt-link to="/civs/Teutons">條頓</nuxt-link>、<nuxt-link
+                to="/civs/Turks"
+                >土耳其</nuxt-link
+              >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
             </div>
           </div>
         </div>
@@ -147,10 +145,10 @@
               >、<nuxt-link to="/civs/Britons">不列顛</nuxt-link>、<nuxt-link
                 to="/civs/Bulgarians"
                 >保加利亞</nuxt-link
-              >、<nuxt-link
-                to="/civs/Burmese"
-                >緬甸</nuxt-link
-              >、<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、<nuxt-link
+                to="/civs/Celts"
+                >塞爾特</nuxt-link
+              >、<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>、<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
@@ -430,8 +428,7 @@
               >：科技在帝王時代便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-              >：火砲塔科技免費。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：火砲塔科技免費。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -456,19 +453,20 @@
         <div class="n1">
           <ul>
             <li>
-                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-                >提升火砲塔攻擊和射程的科技研發快80％。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升火砲塔攻擊和射程的科技研發快80％。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
               >：火砲塔+3視野。
             </li>
             <li>
-                <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
-                  to="/techs/Heresy"
-                  >異端邪說</nuxt-link
-                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+              <nuxt-link to="/civs/Berbers">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
@@ -526,9 +524,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>被移出<nuxt-link
-                to="/armor/Armor_Class_Ship"
-                >船類</nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
+              >被移出<nuxt-link to="/armor/Armor_Class_Ship">船類</nuxt-link
               >的防禦，因此火砲塔對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >只有+1額外攻擊。
@@ -560,7 +557,7 @@
             <li>
               朝鮮失去建造速度快33%的文明加成。
             </li>
-          </ul>     
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>

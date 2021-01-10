@@ -144,10 +144,8 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>和<nuxt-link
-                to="/units/Mameluke"
-                >阿拉伯奴隸兵</nuxt-link
-              >HP+30。
+              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >和<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>HP+30。
             </td>
           </tr>
         </table>

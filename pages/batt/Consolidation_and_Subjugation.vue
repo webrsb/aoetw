@@ -135,7 +135,8 @@
             >x5、<nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
             >x5、<nuxt-link to="/units/Heavy_Cavalry_Archer"
               >重裝馬弓騎兵</nuxt-link
-            >x10、<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+            >x10、<nuxt-link to="/units/Heavy_Camel_Rider"
+              >重裝駱駝騎兵</nuxt-link
             >x10、<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
             >（翼騎兵）x10、<nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link
             >x2、<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>x2。

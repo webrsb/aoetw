@@ -264,9 +264,8 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
-              >:<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>部隊獲得<nuxt-link
-                to="/elements/Regeneration"
-                >回血</nuxt-link
+              >:<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
+              >部隊獲得<nuxt-link to="/elements/Regeneration">回血</nuxt-link
               >能力(每分鐘回15 HP)，<nuxt-link to="/civs/Berbers"
                 >柏柏</nuxt-link
               >限定
@@ -329,7 +328,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -630,7 +630,8 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li>(42848更新) 重裝駱駝騎兵對建築物攻擊力的團隊加分從+5減少至+4。
+            <li>
+              (42848更新) 重裝駱駝騎兵對建築物攻擊力的團隊加分從+5減少至+4。
             </li>
           </ul>
         </div>
@@ -858,7 +859,9 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Imperial_Camel_Rider"
+                >帝王駱駝騎兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>

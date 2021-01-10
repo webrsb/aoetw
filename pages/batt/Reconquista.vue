@@ -100,7 +100,8 @@
               <nuxt-link to="/units/Cavalier">重裝騎士</nuxt-link>x6、<nuxt-link
                 to="/units/Villager"
                 >村民</nuxt-link
-              >x6、<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+              >x6、<nuxt-link to="/units/Heavy_Camel_Rider"
+                >重裝駱駝騎兵</nuxt-link
               >x6、<nuxt-link to="/units/Two-Handed_Swordsman"
                 >雙手劍兵</nuxt-link
               >x8、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>x4、
@@ -148,7 +149,8 @@
                 黑衛陸軍就在瓦倫西亞的北部是最近的威脅，是由<nuxt-link
                   to="/units/Cavalry_Archer"
                   >馬弓騎兵</nuxt-link
-                >，<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>組成的。
+                >，<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+                >組成的。
               </li>
               <li>
                 黑衛海軍在瓦倫西亞西部，可以登陸，海軍比陸軍還要好防守，海軍除了一些騎兵外還有<nuxt-link

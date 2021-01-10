@@ -103,7 +103,8 @@
               4位<nuxt-link to="/units/Villager">村民</nuxt-link>、1位<nuxt-link
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
-              >、4位<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+              >、4位<nuxt-link to="/units/Heavy_Camel_Rider"
+                >重裝駱駝騎兵</nuxt-link
               >、8位<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
               >、6位<nuxt-link to="/units/hero/Archers_of_the_Eyes"
                 >神弓手</nuxt-link

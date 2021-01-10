@@ -306,7 +306,8 @@
               >黃金</nuxt-link
             >他們便會派出1名<nuxt-link to="/units/Imperial_Camel_Rider"
               >帝王駱駝騎兵</nuxt-link
-            >、2名<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+            >、2名<nuxt-link to="/units/Heavy_Camel_Rider"
+              >重裝駱駝騎兵</nuxt-link
             >及3名<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >進攻達納罕的營地，兩個對玩家的利益猶如杯水車薪，可以不用理會。
           </li>

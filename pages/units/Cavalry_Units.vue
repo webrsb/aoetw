@@ -53,7 +53,8 @@
               >城堡</nuxt-link
             >以外的地方訓練：<nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link
             >在<nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
-            >研究後可以在馬厩中訓練，而<nuxt-link to="/units/Imperial_Camel_Rider"
+            >研究後可以在馬厩中訓練，而<nuxt-link
+              to="/units/Imperial_Camel_Rider"
               >帝王駱駝騎兵</nuxt-link
             >則只能在馬廄訓練。拋開垃圾單位，所有騎兵單位訓練都需要<nuxt-link
               to="/resource/Food"
@@ -1199,10 +1200,9 @@
               </td>
               <td class="tunitc5">750F 800G</td>
               <td class="tunitc6">
-                <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>和<nuxt-link
-                  to="/units/Mameluke"
-                  >阿拉伯奴隸兵</nuxt-link
-                >+30 HP。
+                <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+                >和<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>+30
+                HP。
               </td>
             </tr>
             <tr>

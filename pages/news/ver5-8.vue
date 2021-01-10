@@ -76,8 +76,8 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/civs/Incas">印加</nuxt-link
-              ><nuxt-link to="/techs/Fabric_Shields">金冠</nuxt-link>花費400F 200G →
-              600F 600G
+              ><nuxt-link to="/techs/Fabric_Shields">金冠</nuxt-link>花費400F
+              200G → 600F 600G
             </li>
             <li>
               <img src="~assets/tower.png" class="gg" alt="" />朝鮮蓋塔時間60s →

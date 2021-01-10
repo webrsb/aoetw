@@ -227,7 +227,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -621,8 +622,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link
-              >:(36906更新) 漁船成本降低15％ (成本為64木材)。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>:(36906更新)
+              漁船成本降低15％ (成本為64木材)。
             </li>
           </ul>
         </div>

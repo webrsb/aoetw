@@ -54,7 +54,8 @@
               >和<nuxt-link to="/units/Gunpowder_Unit">火藥文明</nuxt-link
               >，特殊單位是<nuxt-link to="/units/Elephant_Archer"
                 >象弓騎兵</nuxt-link
-              >與<nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
+              >與<nuxt-link to="/units/Imperial_Camel_Rider"
+                >帝王駱駝騎兵</nuxt-link
               >。
             </li>
             <li>
@@ -108,7 +109,9 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Imperial_Camel_Rider"
+                >帝王駱駝騎兵</nuxt-link
+              >
             </li>
             <li>
               <img class="gg" src="~assets/Slingericon.png" alt="" /><nuxt-link

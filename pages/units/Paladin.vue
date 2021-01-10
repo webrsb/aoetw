@@ -14,10 +14,8 @@
             >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >，在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >最強勢的兵種之一，對於<nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >、<nuxt-link to="/units/Camel_Rider">駱駝兵種</nuxt-link>、<nuxt-link
-              to="/units/Spearman"
-              >長槍兵種</nuxt-link
-            >較劣勢。
+            >、<nuxt-link to="/units/Camel_Rider">駱駝兵種</nuxt-link
+            >、<nuxt-link to="/units/Spearman">長槍兵種</nuxt-link>較劣勢。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -136,10 +134,11 @@
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Monk"
-                >僧侶</nuxt-link
-              >和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
+                to="/units/War_Elephant"
+                >戰象</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">

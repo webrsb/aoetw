@@ -30,7 +30,8 @@
           >型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊單位，卻不會受到<nuxt-link
             to="/units/Samurai"
             >日本武士</nuxt-link
-          >的攻擊加成。<nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝</nuxt-link
+          >的攻擊加成。<nuxt-link to="/units/Imperial_Camel_Rider"
+            >帝王駱駝</nuxt-link
           >基本上你可以把他當成<nuxt-link to="/units/Paladin">遊俠</nuxt-link
           >看待。而帝王駱駝搭配<nuxt-link to="/units/Elite_Skirmisher"
             >戰矛兵</nuxt-link
@@ -234,7 +235,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -496,7 +498,8 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li>(42848更新) 帝王駱駝騎兵對建築物攻擊力的團隊加分從+5減少至+4。
+            <li>
+              (42848更新) 帝王駱駝騎兵對建築物攻擊力的團隊加分從+5減少至+4。
             </li>
           </ul>
         </div>
@@ -525,7 +528,8 @@
               >。
             </li>
             <li>
-              駱駝與<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+              駱駝與<nuxt-link to="/units/Heavy_Camel_Rider"
+                >重裝駱駝騎兵</nuxt-link
               >音效相同。
             </li>
             <li>
@@ -756,7 +760,9 @@
                 class="gg"
                 src="~assets/HeavyCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Heavy_Camel_Rider"
+                >重裝駱駝騎兵</nuxt-link
+              >
             </td>
           </tr>
         </table>

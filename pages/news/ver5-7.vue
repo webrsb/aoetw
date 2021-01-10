@@ -103,7 +103,8 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.png"
                 alt=""
-              />駱駝弓騎兵(包含精銳) -2裝甲 vs.<nuxt-link to="/units/Camel_Rider"
+              />駱駝弓騎兵(包含精銳) -2裝甲 vs.<nuxt-link
+                to="/units/Camel_Rider"
                 >駱駝</nuxt-link
               >
               (2 變成 0)

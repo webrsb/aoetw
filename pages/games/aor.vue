@@ -432,9 +432,8 @@
               >。例如柏柏第一戰役中的薩拉森駱駝弓騎兵。
             </li>
             <li>
-              修正<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>對<nuxt-link
-                to="/armor/Armor_Class_Camel"
-                >駱駝護甲</nuxt-link
+              修正<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Camel">駱駝護甲</nuxt-link
               >的攻擊加成。
             </li>
             <li>

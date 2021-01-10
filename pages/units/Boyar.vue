@@ -89,10 +89,10 @@
                 >槍隊長</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Monk"
-                >僧侶</nuxt-link
-              >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
+                to="/units/War_Elephant"
+                >戰象</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
               >、烈堤司、防禦建築、<nuxt-link to="/units/Archer_Units"
                 >弓兵單位</nuxt-link
@@ -225,7 +225,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"

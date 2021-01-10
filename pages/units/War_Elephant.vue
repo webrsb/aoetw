@@ -136,10 +136,9 @@
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
               >，<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >，<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>，<nuxt-link
-                to="/units/Monk"
-                >僧侶</nuxt-link
-              >，<nuxt-link to="/units/Genoese_Crossbowman"
+              >，<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >，<nuxt-link to="/units/Monk">僧侶</nuxt-link>，<nuxt-link
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >
             </td>
@@ -321,7 +320,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"

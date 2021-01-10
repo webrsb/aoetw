@@ -34,9 +34,8 @@
               >每趟運載黃金量+10%；遺跡收集黃金速度也+10%。身為一個高度倚賴黃金單位的<nuxt-link
                 to="/civs"
                 >文明</nuxt-link
-              >(<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Hand_Cannoneer"
-                >火槍兵</nuxt-link
+              >(<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >)，蘇丹是印度玩家需要及早研發的科技。
             </li>

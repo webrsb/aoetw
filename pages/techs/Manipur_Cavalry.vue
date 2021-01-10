@@ -14,7 +14,8 @@
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
-            >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+            >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>對<nuxt-link
+              to="/armor/Armor_Class_Standard_Building"
               >標準建築</nuxt-link
             >+6攻擊。
           </p>
@@ -60,25 +61,25 @@
             <li>
               曼尼普爾騎兵一開始只對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
-              >攻擊+6。5.3改版後攻擊加成分配到<nuxt-link to="/armor/Armor_Class_Building"
+              >攻擊+6。5.3改版後攻擊加成分配到<nuxt-link
+                to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >，這讓<nuxt-link to="/techs/Architecture"
-                >建築學</nuxt-link
+              >，這讓<nuxt-link to="/techs/Architecture">建築學</nuxt-link
               >不能完全抵消曼尼普爾騎兵的攻擊加成。
             </li>
-           </ul>
-           <h3>
+          </ul>
+          <h3>
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
             <li>
               (37650更新) 對<nuxt-link to="/armor/Armor_Class_Standard_Building"
-              >標準建築</nuxt-link
-            >+6攻擊，對<nuxt-link to="/armor/Armor_Class_Building"
-              >建築裝甲</nuxt-link
-            >(建築裝甲和標準建築裝甲並不一樣)沒有攻擊加成，因此磚瓦技術(+3建築護甲)不能抵消曼尼普爾騎兵的攻擊加成。
+                >標準建築</nuxt-link
+              >+6攻擊，對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築裝甲</nuxt-link
+              >(建築裝甲和標準建築裝甲並不一樣)沒有攻擊加成，因此磚瓦技術(+3建築護甲)不能抵消曼尼普爾騎兵的攻擊加成。
             </li>
           </ul>
         </div>

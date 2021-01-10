@@ -217,7 +217,8 @@
                 src="~assets/ImperialCamelIcon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel_Rider"
+                >帝王駱駝騎兵</nuxt-link
               >：反騎兵單位。(限<nuxt-link to="/civs/Indians">印度</nuxt-link>)
             </li>
             <li>

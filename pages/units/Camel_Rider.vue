@@ -343,7 +343,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -660,8 +661,7 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
-            <li>(42848更新) 駱駝騎兵對建築物攻擊力的團隊加分從+5減少至+4。
-            </li>
+            <li>(42848更新) 駱駝騎兵對建築物攻擊力的團隊加分從+5減少至+4。</li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -693,7 +693,8 @@
               >。
             </li>
             <li>
-              駱駝與<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+              駱駝與<nuxt-link to="/units/Heavy_Camel_Rider"
+                >重裝駱駝騎兵</nuxt-link
               >音效相同。
             </li>
             <li>
@@ -868,7 +869,9 @@
                 class="gg"
                 src="~assets/HeavyCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Heavy_Camel_Rider"
+                >重裝駱駝騎兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>

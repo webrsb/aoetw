@@ -498,9 +498,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>從<nuxt-link
-                to="/armor/Armor_Class_Ship"
-                >船艦護甲</nuxt-link
+              <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >從<nuxt-link to="/armor/Armor_Class_Ship">船艦護甲</nuxt-link
               >分類移除，所以<nuxt-link to="/building/Town_Center"
                 >城鎮中心</nuxt-link
               >對他們的攻擊加乘沒有了，現在<nuxt-link to="/building/Town_Center"

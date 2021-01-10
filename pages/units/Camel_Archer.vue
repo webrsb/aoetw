@@ -38,7 +38,8 @@
                 >攻擊速度</nuxt-link
               >高和移動快，他們可以支援重型騎兵（<nuxt-link to="/units/Knight"
                 >騎士</nuxt-link
-              >和<nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+              >和<nuxt-link to="/units/Heavy_Camel_Rider"
+                >重裝駱駝騎兵</nuxt-link
               >）對付各種<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
               >，他們也能有效殲滅<nuxt-link to="/units/Halberdier"
                 >戟兵</nuxt-link
@@ -412,7 +413,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"

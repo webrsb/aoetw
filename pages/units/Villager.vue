@@ -1065,7 +1065,9 @@
               農夫收集速度降為10%。
             </li>
             <li>
-              (42848更新) <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：村民攜帶從+5減至+3。
+              (42848更新)
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >：村民攜帶從+5減至+3。
             </li>
           </ul>
         </div>

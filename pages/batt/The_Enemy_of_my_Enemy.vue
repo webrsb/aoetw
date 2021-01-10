@@ -175,9 +175,8 @@
               <li>
                 摩爾人的叛軍會使用<nuxt-link to="/units/Archer_Units"
                   >弓兵</nuxt-link
-                >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>和<nuxt-link
-                  to="/units/Mangonel"
-                  >輕型投石車</nuxt-link
+                >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+                >和<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
                 >，無論是那一方的軍隊，都會有<nuxt-link to="/units/Monk"
                   >僧侶</nuxt-link
                 >。托雷多擁有堅固的<nuxt-link to="/building/Stone_Wall"

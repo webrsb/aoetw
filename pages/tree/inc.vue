@@ -350,7 +350,9 @@
             <td class="t19 trm not">
               <img class="gg" src="~assets/HeavyCamelIcon.png" />
               <div>
-                <nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>
+                <nuxt-link to="/units/Heavy_Camel_Rider"
+                  >重裝駱駝騎兵</nuxt-link
+                >
               </div>
               <i class="fas fa-arrow-down"></i><br />
               <img class="gg not" src="~assets/ImperialCamelIcon.png" />
@@ -548,7 +550,9 @@
                 width="30"
                 alt=""
               />
-              <div><nuxt-link to="/techs/Fabric_Shields">織物盾</nuxt-link></div>
+              <div>
+                <nuxt-link to="/techs/Fabric_Shields">織物盾</nuxt-link>
+              </div>
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/hoardings.png" width="30" alt="" />

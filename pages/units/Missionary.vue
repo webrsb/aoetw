@@ -77,10 +77,9 @@
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Halberdier"
-                >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Genoese_Crossbowman"
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
               >、<nuxt-link to="/building/Castle">城堡</nuxt-link>。
@@ -211,7 +210,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"

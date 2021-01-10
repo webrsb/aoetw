@@ -468,7 +468,9 @@
             <li>火戰船+1 防禦，+1 對船防禦</li>
             <li>重型火戰船 +1 防禦，+2 對船防禦</li>
             <li>弩砲增加砲火尺寸（修正他們缺少穿透傷害的問題</li>
-            <li><nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>不再視為船</li>
+            <li>
+              <nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>不再視為船
+            </li>
             <li>
               <nuxt-link to="/building/Fish_Trap">漁網</nuxt-link
               >建造時間從60秒改為40秒

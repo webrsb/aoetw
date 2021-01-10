@@ -18,7 +18,8 @@
             >弓箭手的弩手吉恩·德·格拉維爾（Jean de
             Graville）。格拉維爾領主出現在<nuxt-link to="/batt/Joan_of_Arc"
               >聖女貞德戰役</nuxt-link
-            >“完美的受難者”的最後場景中。他具有與<nuxt-link to="/units/Arbalester"
+            >“完美的受難者”的最後場景中。他具有與<nuxt-link
+              to="/units/Arbalester"
               >強弩兵</nuxt-link
             >相似的攻擊和射程，但是擁有自己的頭像並有更多的<nuxt-link
               to="/elements/Hit_points"

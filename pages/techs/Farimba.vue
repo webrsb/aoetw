@@ -26,7 +26,8 @@
             <li>
               剽悍精神讓<nuxt-link to="/civs/Malians">馬利</nuxt-link
               >的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >是遊戲中最具威力的之一。他們的<nuxt-link to="/units/Heavy_Camel_Rider"
+              >是遊戲中最具威力的之一。他們的<nuxt-link
+                to="/units/Heavy_Camel_Rider"
                 >重裝駱駝騎兵</nuxt-link
               >可以獲得遊戲中最多的14攻擊，比<nuxt-link
                 to="/units/Imperial_Camel_Rider"

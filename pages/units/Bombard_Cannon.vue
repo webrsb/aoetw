@@ -434,7 +434,8 @@
               >快18%。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：火砲HP+25%。<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >：火砲HP+25%。<nuxt-link to="/techs/Chemistry">化學</nuxt-link
               >免費。
             </li>
           </ul>
@@ -554,14 +555,13 @@
           </h3>
           <ul>
             <li>
-              (36906更新) <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-              >失去火砲。
+              (36906更新) <nuxt-link to="/civs/Khmer">高棉</nuxt-link>失去火砲。
             </li>
             <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 所有科技研發速度
-              +30%。
-              </li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              所有科技研發速度 +30%。
+            </li>
           </ul>
         </div>
         <h3>英雄</h3>

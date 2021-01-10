@@ -144,7 +144,8 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel_Rider"
+                >帝王駱駝騎兵</nuxt-link
               >：更強大的<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
               >，對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >攻擊加成。
@@ -240,13 +241,26 @@
           </h3>
           <ul>
             <li>村民捕魚工作效率+15%→+10%、漁獲攜帶量+15→+0。</li>
-            <li>(37650更新) 駱駝單位對建築物的團隊加分不再受到<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >減免。</li>
-            <li>(37650更新) 象弓騎兵攻擊速度從2.5秒減少至2秒，黃金成本則從80降至70。</li>
+            <li>
+              (37650更新) 駱駝單位對建築物的團隊加分不再受到<nuxt-link
+                to="/techs/Masonry"
+                >磚瓦技術</nuxt-link
+              >減免。
+            </li>
+            <li>
+              (37650更新)
+              象弓騎兵攻擊速度從2.5秒減少至2秒，黃金成本則從80降至70。
+            </li>
             <li>(42848更新) 駱駝單位對建築物攻擊力的團隊加分從+5減少至+4。</li>
-            <li>(42848更新) 印度無法研發<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
-              >。</li>
-            <li>(42848更新) 文明加成從駱駝騎兵變成所有馬廄單位城堡時代都擁有+1遠防，帝王時代再+1遠防。</li>
+            <li>
+              (42848更新) 印度無法研發<nuxt-link to="/techs/Plate_Barding_Armor"
+                >鐵鎧甲</nuxt-link
+              >。
+            </li>
+            <li>
+              (42848更新)
+              文明加成從駱駝騎兵變成所有馬廄單位城堡時代都擁有+1遠防，帝王時代再+1遠防。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>

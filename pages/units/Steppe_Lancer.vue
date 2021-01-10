@@ -63,7 +63,8 @@
             對抗草原騎兵最好是使用駱駝部隊（尤其是<nuxt-link
               to="/units/Mameluke"
               >阿拉伯奴隸兵</nuxt-link
-            >和<nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
+            >和<nuxt-link to="/units/Imperial_Camel_Rider"
+              >帝王駱駝騎兵</nuxt-link
             >），<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>和<nuxt-link
               to="/units/Genoese_Crossbowman"
               >熱那亞弩手</nuxt-link
@@ -201,10 +202,7 @@
               <img src="~assets/unique_tech.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Silk_Armor"
                 >絲護甲</nuxt-link
-              >(+1/+1，<nuxt-link
-                to="/civs/Tatars"
-                >韃靼</nuxt-link
-              >限定)
+              >(+1/+1，<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -288,7 +286,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"

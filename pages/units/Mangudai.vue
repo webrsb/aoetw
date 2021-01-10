@@ -119,9 +119,8 @@
                 >駱駝類</nuxt-link
               >，而不是<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
-              >，所以<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link>和<nuxt-link
-                to="/units/Spearman"
-                >長槍兵</nuxt-link
+              >，所以<nuxt-link to="/units/Camel_Rider">駱駝</nuxt-link
+              >和<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
               >等反騎兵單位對他的傷害較小。此外還有+1（精銳+2）的<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
                 >騎兵防禦</nuxt-link
@@ -192,10 +191,10 @@
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
                 >阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Skirmisher"
-                >矛兵</nuxt-link
-              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link
                 to="/units/Samurai"
                 >日本武士</nuxt-link
@@ -434,7 +433,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
