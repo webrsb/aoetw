@@ -13,10 +13,14 @@
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >、<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-            >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>和<nuxt-link
-              to="/building/Castle"
-              >城堡</nuxt-link
-            >的單位訓練速度快33%。
+            >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>、<nuxt-link
+              to="/building/Krepost"
+              >營壘</nuxt-link
+            >和<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的工作效率快33%。
+          </p>
+          <p>
+            與遊戲說明不一樣，此科技效果包含以上建築物研究科技的速度。
           </p>
           <p>
             徵兵技術被認為是必不可少的研究，因為它在補充軍隊或積累大量單位方面非常有效益。
@@ -33,10 +37,12 @@
               >能夠加速徵兵技術的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：徵兵技術<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
-              >便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >：徵兵技術研發速度+30%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：徵兵技術<nuxt-link to="/techs">科技</nuxt-link>便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：徵兵技術免費。
@@ -138,10 +144,11 @@
               <nuxt-link to="/building/Barracks">軍營</nuxt-link>、<nuxt-link
                 to="/building/Archery_Range"
                 >射箭場</nuxt-link
-              >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>和<nuxt-link
-                to="/building/Castle"
-                >城堡</nuxt-link
-              >的單位訓練速度快33%。
+              >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>、<nuxt-link
+                to="/building/Krepost"
+                >營壘</nuxt-link
+              >和<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >工作效率快33%。
             </td>
           </tr>
         </table>
