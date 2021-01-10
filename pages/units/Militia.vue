@@ -476,7 +476,7 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >、的研究時間(快25%)。
+              >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
@@ -593,7 +593,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
+              >(37650更新)：軍事單位加快訓練速度由15%減為11%。
             </li>
             <li>
               (42848更新)
