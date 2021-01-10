@@ -99,7 +99,8 @@
                 src="~assets/chemistry.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1，只影響《世紀帝國II：失落的帝國》的攻城塔)
+              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >(+1，只影響《世紀帝國II：失落的帝國》的攻城塔)
             </td>
           </tr>
           <tr>
@@ -512,8 +513,7 @@
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：對攻城塔有利的<nuxt-link to="/techs">科技</nuxt-link
-              >在<nuxt-link to="/techs/age/Castle_Age"
-                >城堡</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >便宜15％/20％。
             </li>
@@ -599,15 +599,15 @@
             <li>4.8版本後，訓練成本為200W160G。</li>
           </ul>
           <h3>
-              <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
               (42848更新)
-              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 科技研發速度
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>: 所有科技研發速度
               +30%。
-              </li>
-            </ul>
+            </li>
+          </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
