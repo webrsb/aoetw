@@ -227,8 +227,7 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider"
-                      >重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -394,7 +393,9 @@
                       class="gg"
                       src="~assets/FireGalleyIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>→
+                    /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>
+                    </li>
+                    <li>
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.png"
@@ -488,7 +489,7 @@
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
                 to="/elements/Line_of_Sight"
                 >視野</nuxt-link
-              >內的動物不會被轉化
+              >內的動物不會被轉化。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -496,13 +497,15 @@
                 to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link>便宜
-              15/20％
+              15/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
-              >：漁船便宜20％。研究<nuxt-link to="/techs/Gillnets"
+              >：漁船便宜15％。研究<nuxt-link to="/techs/Gillnets"
                 >流刺網</nuxt-link
-              >，<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
+              >、<nuxt-link to="/techs/Careening"
+                >航海技術</nuxt-link
+              >、<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船員</nuxt-link
               >便宜50％。
@@ -515,7 +518,7 @@
               >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
-              >提高5%/10%/15%/20%
+              >提高5%/10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
@@ -541,6 +544,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
+            <li>
+                <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                  to="/techs/Heresy"
+                  >異端邪說</nuxt-link
+                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+              </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：隊伍中的漁船對招降的抵抗力更強。
@@ -622,8 +631,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link>:(36906更新)
-              漁船成本降低15％ (成本為64木材)。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >:(36906更新) 漁船成本降低15％ (成本為64木材)。
             </li>
           </ul>
         </div>
@@ -733,7 +742,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Wood">木材</nuxt-link>
             </td>
-            <td class="unit4">64</td>
+            <td class="unit4">75</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
@@ -757,7 +766,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Fishing_Ship">漁船</nuxt-link>
             </td>
           </tr>
           <tr>
