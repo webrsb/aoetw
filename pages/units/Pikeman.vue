@@ -212,19 +212,6 @@
           </tr>
           <tr>
             <td class="tta1" style="width:10%">
-              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
-            </td>
-            <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/tracking.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
@@ -647,7 +634,13 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：重裝長槍兵訓練速度提高18％。
+              >：重裝長槍兵訓練速度提高11％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >重裝長槍兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
@@ -666,13 +659,13 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於長槍兵的技術在<nuxt-link to="/techs/age/Castle_Age"
+              >：有利於長槍兵的科技在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/帝王時代便宜15％/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：重裝長槍兵在城堡/帝王時代，減免為30%/35%，對<nuxt-link
+              >：重裝長槍兵成本在城堡/帝王時代，減免為30%/35%，對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+2/+3。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
@@ -684,6 +677,10 @@
               >：重裝長槍兵<nuxt-link to="/elements/Rate_of_Fire"
                 >攻擊速度</nuxt-link
               >快33％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：重裝長槍兵木材成本減少20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
@@ -700,6 +697,10 @@
               >：重裝長槍兵在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/帝王時代有+2/+3<nuxt-link to="/armor">遠程護甲</nuxt-link>。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：重裝長槍兵科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
@@ -744,22 +745,24 @@
               >、的研究時間(快25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：重裝長槍兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires"
                 >護衛技術</nuxt-link
               >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：重裝長槍兵更不容易被招降。
-            </li>
-            <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
               >：研發忠誠信仰和異端邪說的速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度快50%。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：重裝長槍兵更不容易被招降。
             </li>
           </ul>
         </div>
@@ -877,6 +880,25 @@
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
               >：36906更新後<nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link
               >給予重裝長槍兵額外+2遠程護甲。
+            </li>
+            <li>
+              (39284更新)
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：除攻城武器的軍事單位減少20%的木材消耗。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              重裝長槍兵科技研發速度+30%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
             </li>
           </ul>
         </div>
@@ -1081,7 +1103,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">4</td>
+            <td class="unit4">4 (+2)</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
