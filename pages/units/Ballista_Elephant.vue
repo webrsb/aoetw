@@ -393,7 +393,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -756,10 +757,11 @@
               >的研究時間(快25%)
             </li>
             <li>
-                <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-                >：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-                >提升弩砲象護甲的科技研發快80％。
-              </li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升弩砲象護甲的科技研發快80％。
+            </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
@@ -767,18 +769,18 @@
               >和<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。
             </li>
             <li>
-                <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
-                  to="/techs/Heresy"
-                  >異端邪說</nuxt-link
-                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-              </li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：弩砲象更不容易被<nuxt-link to="/elements/Conversion"
                 >招降</nuxt-link
               >。
             </li>
-          </ul>           
+          </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
@@ -973,7 +975,8 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>+8<br />
-              <nuxt-link to="/armor/Armor_Class_Fishing_Ship">漁船</nuxt-link>+8<br />
+              <nuxt-link to="/armor/Armor_Class_Fishing_Ship">漁船</nuxt-link
+              >+8<br />
               <nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >+3/+4(精銳) <br /><nuxt-link
