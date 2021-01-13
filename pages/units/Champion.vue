@@ -38,19 +38,19 @@
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Cumans"
                 >庫曼</nuxt-link
-              >、<nuxt-link
-                to="/civs/Franks"
-                >法蘭克</nuxt-link
-              >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
-                to="/civs/Incas"
-                >印加</nuxt-link
-              >、<nuxt-link to="/civs/Indians">印度</nuxt-link>、<nuxt-link
-                to="/civs/Italians"
-                >義大利</nuxt-link
-              >、<nuxt-link to="/civs/Japanese">日本</nuxt-link>、<nuxt-link
-                to="/civs/Koreans"
-                >朝鮮</nuxt-link
-              >、<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
+                to="/civs/Goths"
+                >哥德</nuxt-link
+              >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
+                to="/civs/Indians"
+                >印度</nuxt-link
+              >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >、<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>、<nuxt-link
+                to="/civs/Lithuanians"
+                >立陶宛</nuxt-link
+              >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malians"
                 >馬利</nuxt-link
               >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、<nuxt-link
@@ -78,16 +78,16 @@
                   >不可訓練：</b
                 >
               </h4>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、<nuxt-link
-                to="/civs/Huns"
-                >匈人</nuxt-link
-              >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
-                to="/civs/Malay"
-                >馬來</nuxt-link
-              >、<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
-                to="/civs/Persians"
-                >波斯</nuxt-link
-              >、<nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>、<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
+              >、<nuxt-link to="/civs/Huns">匈人</nuxt-link>、<nuxt-link
+                to="/civs/Khmer"
+                >高棉</nuxt-link
+              >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
+                to="/civs/Mayans"
+                >馬雅</nuxt-link
+              >、<nuxt-link to="/civs/Persians">波斯</nuxt-link>、<nuxt-link
                 to="/civs/Tatars"
                 >韃靼</nuxt-link
               >。
@@ -147,9 +147,8 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Eagle_Warrior"
-                >鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
@@ -333,7 +332,8 @@
                 src="~assets/Suplliesicon.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Supplies">供給</nuxt-link>:民兵系食物成本-15
+              /><nuxt-link to="/techs/Supplies">供給</nuxt-link
+              >:民兵系食物成本-15
             </td>
           </tr>
         </table>
@@ -487,8 +487,7 @@
               >：劍兵勇士訓練速度提高11％。
             </li>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >：劍兵勇士+3攻擊。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：劍兵勇士+3攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
@@ -504,7 +503,8 @@
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
-              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>和升級劍兵勇士的速度快100%。
+              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >和升級劍兵勇士的速度快100%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -518,9 +518,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：劍兵勇士+3<nuxt-link to="/armor"
-                >遠程護甲</nuxt-link
-              >。
+              >：劍兵勇士+3<nuxt-link to="/armor">遠程護甲</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -532,7 +530,7 @@
                 >兵工廠</nuxt-link
               >的<nuxt-link to="/techs">科技</nuxt-link>升級不須黃金。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
               >：劍兵勇士在高處攻擊的傷害+50%。
             </li>
@@ -566,15 +564,16 @@
               >、的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度快80%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：劍兵勇士訓練和升級快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
-                to="/techs/Arson"
-                >縱火</nuxt-link
-              >科技的時間快20%。
+              >：劍兵勇士訓練和升級快20%。研發<nuxt-link to="/techs/Squires"
+                >護衛技術</nuxt-link
+              >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
