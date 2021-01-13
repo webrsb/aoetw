@@ -123,7 +123,7 @@
             </div>
             <div class="col-md-4">
               單位類：
-              <ul>               
+              <ul>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                     >攻城武器</nuxt-link
@@ -135,7 +135,11 @@
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>
                 </li>
-                <li><nuxt-link to="/armor/Armor_Class_Fishing_Ship">漁船</nuxt-link></li>
+                <li>
+                  <nuxt-link to="/armor/Armor_Class_Fishing_Ship"
+                    >漁船</nuxt-link
+                  >
+                </li>
                 <li><nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link></li>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Turtle_Ship"
@@ -153,9 +157,7 @@
                   >
                 </li>
                 <li>
-                  <nuxt-link to="/armor/Armor_Class_Mameluke"
-                    >奴隸兵</nuxt-link
-                  >
+                  <nuxt-link to="/armor/Armor_Class_Mameluke">奴隸兵</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -285,7 +287,7 @@
               </div>
 
               <div class="col-md-6">
-                <ul>                  
+                <ul>
                   <li>
                     <img
                       class="gg"
@@ -344,18 +346,14 @@
                       class="gg"
                       src="~assets/Leitisicon.png"
                       alt=""
-                    /><nuxt-link to="/units/Leitis"
-                      >烈堤司</nuxt-link
-                    >
+                    /><nuxt-link to="/units/Leitis">烈堤司</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Keshikicon.png"
                       alt=""
-                    /><nuxt-link to="/units/Keshik"
-                      >怯薛</nuxt-link
-                    >
+                    /><nuxt-link to="/units/Keshik">怯薛</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -1306,7 +1304,8 @@
                   </td>
                   <td class="tunitc5">900F 450G</td>
                   <td class="tunitc6">
-                    民兵系近程護甲+5。
+                    <nuxt-link to="/units/Militia">民兵系</nuxt-link
+              >近程護甲+5。
                   </td>
                 </tr>
                 <tr>
