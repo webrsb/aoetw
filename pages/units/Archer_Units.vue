@@ -129,7 +129,9 @@
             >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
               to="/civs/Mongols"
               >蒙古</nuxt-link
-            >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+            >、<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、<nuxt-link
+              to="/civs/Turks"
+              >土耳其</nuxt-link
             >與薩拉森都有優秀的馬弓騎兵，特別是那些擁有珍貴的<nuxt-link
               to="/techs/Parthian_Tactics"
               >安息人戰術</nuxt-link
@@ -141,48 +143,63 @@
         <div class="n1">
           <p>以下列出弓兵有加成的文明</p>
           <ul>
+            <li>
+              阿茲特克：遠距離單位生產快11%。
+            </li>
             <li>不列顛：徒步弓兵在城堡/帝王額外+1/+2射程。</li>
             <li>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：矛兵便宜25％
+              保加利亞：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >遠距離單位科技升級所需食物-50%。
+            </li>
+            <li>
+              拜占庭：矛兵便宜25％。
+            </li>
+            <li>
+              中國：遠距離單位<nuxt-link to="/techs">科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
               衣索比亞：弓兵<nuxt-link to="/elements/Rate_of_Fire"
                 >射速</nuxt-link
-              >提高15％。
+              >提高18％。
             </li>
             <li>匈人：馬弓騎兵在城堡/帝王分別便宜10％/20％。</li>
-            <li>義大利：火槍兵便宜15％。</li>
             <li>
-              馬雅：弓箭手在<nuxt-link to="/techs/age/Feudal_Age"
-                >封建</nuxt-link
+              朝鮮：弓兵護甲升級免費。矛兵木材成本便宜20％。
+            </li>
+            <li>義大利：火槍兵便宜15％。</li>
+            <li>立陶宛：矛兵移動速度提高10%。</li>
+            <li>
+              馬雅：弓兵在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
               >分別便宜10％/20％/30％。
             </li>
-            <li>蒙古：馬弓騎兵射速快20％。</li>
+            <li>蒙古：馬弓騎兵射速快25％。</li>
             <li>
-              薩拉森：馬弓騎兵對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築物</nuxt-link
-              >攻擊+3。
+              葡萄牙：弓兵花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本少20%。遠距離單位科技研發速度+30%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
-                to="/units/Bombard_Cannon"
-                >火砲</nuxt-link
-              >和<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
-              >的射速提高15％。
+              薩拉森：遠距離單位(除矛兵)，在封建/城堡/帝王對標準建築+1/+2/+3攻擊力。
             </li>
             <li>
-              土耳其：<nuxt-link to="/techs/Chemistry">化學</nuxt-link>免費。
+              西班牙：火槍兵和<nuxt-link to="/units/Conquistador"
+                >西班牙征服者</nuxt-link
+              >的射速提高18％。兵工廠遠距離單位科技升級無需黃金。
             </li>
             <li>
-              越南：射箭場單位分別在<nuxt-link to="/techs/age/Feudal_Age"
-                >封建</nuxt-link
-              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
-              >+10％/15％/20％的<nuxt-link to="/elements/Hit_points"
-                >生命值</nuxt-link
-              >。
+              韃靼：免費安息人戰術和拇指環。遠距離單位高地戰鬥傷害+50%。
+            </li>
+            <li>
+              土耳其：<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >免費。火槍兵血量+25%。
+            </li>
+            <li>
+              越南：射箭場單位血量增加20%。<nuxt-link to="/techs/Conscription"
+                >徵兵技術</nuxt-link
+              >免費。
             </li>
           </ul>
         </div>
@@ -198,18 +215,28 @@
             <li>柏柏：可在射箭場訓練鏢槍騎兵。</li>
             <li>不列顛：射箭場效率提高20％。</li>
             <li>
+              保加利亞：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >提升弓兵護甲和攻擊的科技研發快80％。
+            </li>
+            <li>
+              匈人：馬廄研發馬弓騎兵相關科技快20%。
+            </li>
+            <li>
               馬扎爾：徒步弓兵有+2<nuxt-link to="/elements/Line_of_Sight"
                 >視野</nuxt-link
               >。
             </li>
             <li>
-              薩拉森：徒步弓兵對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築物</nuxt-link
-              >+1攻擊。
+              馬利：學院研發遠距離單位相關科技快80%。
             </li>
             <li>
-              土耳其：<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-              >生產速度快20％。
+              薩拉森：徒步弓兵對標準建築+2攻擊。
+            </li>
+            <li>
+              韃靼：馬弓騎兵視野+2。
+            </li>
+            <li>
+              土耳其：火槍兵生產速度快20％。
             </li>
             <li>越南：可在射箭場訓練帝王戰矛兵。</li>
           </ul>
@@ -226,6 +253,9 @@
                 to="/units/Unique_Unit"
                 >特殊單位</nuxt-link
               >內最大的軍事兵種。
+            </li>
+            <li>
+              除了藤甲弓兵和羽毛箭射手外，所有徒步弓兵和火藥單位的移動速度均為0.96。
             </li>
           </ul>
         </div>
@@ -1149,6 +1179,58 @@
               <td class="tta3">5</td>
               <!--開火間隔!-->
             </tr>
+            <tr>
+              <td class="tta1">
+                <img class="gg" src="~assets/Kipchakicon.png" /><nuxt-link
+                  to="/units/Rattan_Archer"
+                  >欽察</nuxt-link
+                >
+              </td>
+              <td class="tta3">40</td>
+              <!--生命值!-->
+              <td class="tta3">4</td>
+              <!--攻擊!-->
+              <td class="tta3">0/0</td>
+              <!--防禦!-->
+              <td class="tta3">4</td>
+              <!--射程!-->
+              <td class="tta3">2.2</td>
+              <!--射速!-->
+              <td class="tta3">90</td>
+              <!--命中率!-->
+              <td class="tta3">5</td>
+              <!--視野!-->
+              <td class="tta3">1.4</td>
+              <!--速度!-->
+              <td class="tta3">5</td>
+              <!--開火間隔!-->
+            </tr>
+            <tr>
+              <td class="tta1">
+                <img class="gg" src="~assets/Kipchakicon.png" /><nuxt-link
+                  to="/units/Rattan_Archer"
+                  >精銳欽察</nuxt-link
+                >
+              </td>
+              <td class="tta3">45</td>
+              <!--生命值!-->
+              <td class="tta3">5</td>
+              <!--攻擊!-->
+              <td class="tta3">0/0</td>
+              <!--防禦!-->
+              <td class="tta3">4</td>
+              <!--射程!-->
+              <td class="tta3">2.2</td>
+              <!--射速!-->
+              <td class="tta3">90</td>
+              <!--命中率!-->
+              <td class="tta3">5</td>
+              <!--視野!-->
+              <td class="tta3">1.4</td>
+              <!--速度!-->
+              <td class="tta3">5</td>
+              <!--開火間隔!-->
+            </tr>
           </table>
         </div>
         <h3>相關科技</h3>
@@ -1375,7 +1457,24 @@
                 <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>
               </td>
               <td class="tunitc5">750W 450G</td>
-              <td class="tunitc6">徒步弓兵射程+1，箭塔攻擊+2。</td>
+              <td class="tunitc6">徒步弓兵射程+1。</td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img
+                  class="gg"
+                  src="~assets/unique_tech.png"
+                  style="margin: 2px;"
+                  alt=""
+                /><nuxt-link to="/civs/Cumans">庫曼</nuxt-link>
+              </td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Steppe_Husbandry"
+                  >大草原耕種技術</nuxt-link
+                >
+              </td>
+              <td class="tunitc5">200F 300W</td>
+              <td class="tunitc6">馬弓騎兵訓練速度快50%。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1437,6 +1536,21 @@
                   src="~assets/unique_tech.png"
                   style="margin: 2px;"
                   alt=""
+                /><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
+              </td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>
+              </td>
+              <td class="tunitc5">400W 300G</td>
+              <td class="tunitc6">馬弓騎兵、標槍騎兵和欽察護甲+1/+1。</td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img
+                  class="gg"
+                  src="~assets/unique_tech.png"
+                  style="margin: 2px;"
+                  alt=""
                 /><nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
               <td class="tunitc4">
@@ -1490,16 +1604,30 @@
                   src="~assets/unique_tech_imperial.png"
                   style="margin: 2px;"
                   alt=""
-                /><nuxt-link to="/civs/Chinese">中國</nuxt-link>
+                /><nuxt-link to="/civs/Cumans">庫曼</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/techs/Rocketry">火箭技術</nuxt-link>
+                <nuxt-link to="/techs/Cuman_Mercenaries">庫曼傭兵</nuxt-link>
               </td>
-              <td class="tunitc5">750W 750G</td>
+              <td class="tunitc5">650W 400G</td>
               <td class="tunitc6">
-                <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
-                >攻擊+2，弩砲攻擊+4。
+                隊伍成員能在城堡免費生產10名精銳欽察。
               </td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img
+                  class="gg"
+                  src="~assets/unique_tech_imperial.png"
+                  style="margin: 2px;"
+                  alt=""
+                /><nuxt-link to="/civs/Incas">印加</nuxt-link>
+              </td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Fabric_Shields">織物盾</nuxt-link>
+              </td>
+              <td class="tunitc5">600F 600G</td>
+              <td class="tunitc6">投石手護甲+1/+2。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1515,6 +1643,21 @@
               </td>
               <td class="tunitc5">500F 300G</td>
               <td class="tunitc6">火槍兵射程+1。</td>
+            </tr>
+            <tr>
+              <td class="tunitc6">
+                <img
+                  class="gg"
+                  src="~assets/unique_tech_imperial.png"
+                  style="margin: 2px;"
+                  alt=""
+                /><nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>
+              </td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>
+              </td>
+              <td class="tunitc5">500F 200G</td>
+              <td class="tunitc6">矛兵遠程護甲+2。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1545,8 +1688,7 @@
               </td>
               <td class="tunitc5">700F 400G</td>
               <td class="tunitc6">
-                <nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
-                >對移動目標的命中率提升。
+                火槍兵對移動目標的命中率提升。
               </td>
             </tr>
           </table>
