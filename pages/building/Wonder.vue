@@ -329,7 +329,9 @@
             <ul>
               <li>
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-                >：世界奇觀的生命值+40%。
+                >：世界奇觀的生命值+40%。<nuxt-link to="/techs/Town_Watch"
+                  >城鎮瞭望</nuxt-link
+                >免費%。
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -344,6 +346,16 @@
               <li>
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link
                 >：世界奇觀成本減少15%木材。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Persians">波斯</nuxt-link
+                >：城鎮瞭望和<nuxt-link to="/techs/Town_Patrol"
+                  >城鎮巡邏</nuxt-link
+                >研發速度快20%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+                >：世界奇觀建造速度快30%。
               </li>
             </ul>
           </div>
@@ -564,11 +576,11 @@
               >在1453年征服君士坦丁堡，蘇丹穆罕默德二世下令將大教堂轉變為清真寺。
             </p>
             <p>
-              登場戰役：<nuxt-link to="/batt/Barbarossas_March"
+              登場戰役：巴巴羅薩5-<nuxt-link to="/batt/Barbarossas_March"
                 >巴巴羅薩行軍</nuxt-link
-              >、<nuxt-link to="/batt/Walls_of_Constantinople"
+              >、阿提拉3-<nuxt-link to="/batt/Walls_of_Constantinople"
                 >君士坦丁堡的城牆</nuxt-link
-              >
+              >、可泰安汗5-<nuxt-link to="/batt/A_New_Home">新的家園</nuxt-link>
             </p>
           </div>
           <div class="col-md-4">
@@ -601,10 +613,6 @@
                 >失落的帝國戰役</nuxt-link
               >-<nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
             </p>
-            <br />
-            <br />
-            <br />
-            <br />
           </div>
           <div class="col-md-4">
             <h3>
@@ -682,14 +690,13 @@
               位於現今<nuxt-link to="/civs/Italians">義大利</nuxt-link
               >拉偉納城外，狄奧多里克本人建立於520年。當代國王陵墓唯一的留到今日的，且是純粹的哥德建築，並沒有使用羅馬或是拜占庭式的建築風格。
             </p>
-            <p>登場戰役：無</p>
+            <p>登場戰役：塔里克·伊本·齊亞德2-攻城拔寨</p>
             <br />
             <br />
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                ><nuxt-link to="/civs/Japanese">日本</nuxt-link></span
+              <span class="we">日本</span
               ><strong
                 ><a href="https://zh.wikipedia.org/wiki/東大寺" target="_blank"
                   >東大寺</a
@@ -729,7 +736,7 @@
             <p>
               登場戰役：成吉思汗2-<nuxt-link to="/batt/A_Life_of_Revenge"
                 >復仇人生</nuxt-link
-              >
+              >、伊瓦依洛3-保加利亞沙皇、伊瓦依洛5-獨眼之王
             </p>
           </div>
           <div class="col-md-4">
@@ -759,12 +766,8 @@
             <p>
               登場戰役：成吉思汗4-<nuxt-link to="/batt/The_Horde_Rides_West"
                 >策馬西征</nuxt-link
-              >
+              >、法蘭西斯科·德·阿爾梅達5-兒子的血仇
             </p>
-            <br />
-            <br />
-            <br />
-            <br />
           </div>
           <div class="col-md-4">
             <h3>
@@ -792,7 +795,8 @@
                 >獅子與惡魔</nuxt-link
               >、<nuxt-link to="/batt/Francisco_de_Almeida"
                 >法蘭西斯科·德·阿爾梅達</nuxt-link
-              >3-<nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>
+              >3-<nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link
+              >、帖木兒5-黎凡特的災禍
             </p>
           </div>
           <div class="col-md-4">
@@ -851,13 +855,13 @@
                 to="/batt/Black_Guards"
                 >黑衛隊</nuxt-link
               >、<nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link
-              >4-<nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link>
+              >4-<nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link
+              >、帖木兒5-黎凡特的災禍
             </p>
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                ><nuxt-link to="/civs/Vikings">維京</nuxt-link></span
+              <span class="we">維京</span
               ><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/博爾貢木板教堂"
@@ -936,13 +940,10 @@
               位於現今義大利羅馬，建立於312年，嚴格說起來並不算是中世紀建築，而他至今保存完好，是所有羅馬現存凱旋門最新的一座。
             </p>
             <p>登場戰役：無</p>
-            <br />
-            <br />
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                ><nuxt-link to="/civs/Koreans">朝鮮</nuxt-link></span
+              <span class="we">朝鮮</span
               ><strong
                 ><a href="https://zh.wikipedia.org/wiki/皇龍寺" target="_blank"
                   >皇龍寺</a
@@ -964,12 +965,13 @@
             <p>
               登場戰役：征服者的戰役-<nuxt-link to="/batt/Noryang_Point_1598"
                 >洛陽點（1598）</nuxt-link
-              >
+              >、失落的帝國戰役-礪波山（1183）
             </p>
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we">馬雅</span><br /><strong
+              <span class="we">馬雅</span
+              ><strong
                 ><a href="https://baike.baidu.com/item/蒂卡尔" target="_blank"
                   >大美洲豹神廟</a
                 ></strong
@@ -1013,7 +1015,7 @@
                 >瓦倫西亞之主</nuxt-link
               >、蒙提祖馬4-<nuxt-link to="/batt/La_Noche_Triste"
                 >悲痛之夜</nuxt-link
-              >、征服者的戰役-勒班陀（1571）
+              >、征服者的戰役-勒班陀（1571）、塔里克·伊本·齊亞德2-攻城拔寨
             </p>
             <br />
             <br />
@@ -1044,7 +1046,8 @@
             </p>
             <p>
               登場戰役：<nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link
-              >3-<nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link>
+              >3-<nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link
+              >、帕查庫特克2-血戰之地
             </p>
           </div>
           <div class="col-md-4">
@@ -1075,6 +1078,33 @@
           </div>
           <div class="col-md-4">
             <h3>
+              <span class="we"
+                >印度(<nuxt-link to="/games/aor">王者崛起</nuxt-link>版本)</span
+              ><strong
+                ><a
+                  href="https://zh.wikipedia.org/wiki/布里哈迪希瓦拉神廟"
+                  target="_blank"
+                  >布里哈迪希瓦拉神廟</a
+                ></strong
+              >
+            </h3>
+            <div class="wimg">
+              <gallery>
+                <img
+                  class="imgn hg"
+                  src="~assets/Brihadeeswarartempleaoe2irl.png"
+                  alt=""
+                />
+              </gallery>
+            </div>
+            <div class="hrn1"></div>
+            <p>
+              位於現今印度泰米爾納德邦，建立於1000年左右，印度最高的神廟，供奉濕婆神，主殿內供奉有印度現存最大的石雕林伽(各位男性，就是你胯下那根)。
+            </p>
+            <p>登場戰役：勃印曩1-餓虎撲食、法蘭西斯科·德·阿爾梅達4-葡屬印度</p>
+          </div>
+          <div class="col-md-4">
+            <h3>
               <span class="we">義大利</span
               ><strong
                 ><a
@@ -1096,10 +1126,8 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link
               >4-<nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link
-              >、失落的帝國戰役-塞普勒斯島之戰(1191)
+              >、失落的帝國戰役-塞普勒斯島之戰(1191)、塔里克·伊本·齊亞德2-攻城拔寨
             </p>
-            <br />
-            <br />
           </div>
           <div class="col-md-4">
             <h3>
@@ -1121,7 +1149,7 @@
             <p>
               位於現今羅馬尼亞胡內多阿拉，建於1446年，歐洲最大城堡之一，被選為羅馬尼亞七大奇蹟。城堡共有三個大區：騎士大廳、飯廳與環形走廊。
             </p>
-            <p>登場戰役：無</p>
+            <p>登場戰役：成吉思汗6-蒙古太平、可泰安汗3-拯救棚屋</p>
           </div>
           <div class="col-md-4">
             <h3>
@@ -1150,8 +1178,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                ><nuxt-link to="/civs/Berbers">柏柏</nuxt-link></span
+              <span class="we">柏柏</span
               ><strong
                 ><a
                   href="https://en.wikipedia.org/wiki/Hassan_Tower"
@@ -1196,7 +1223,8 @@
               位於現今衣索比亞拉利貝拉，是阿克蘇姆帝國時期的建築物，阿克蘇姆帝國從330年開始就成為基督教國家，建築物本身一直是個基督教堂，整座教堂是一塊岩石鑿出來的。
             </p>
             <p>
-              登場戰役：<nuxt-link to="/batt/Yodita">優娣忒</nuxt-link
+              登場戰役：優娣忒3-摔落的皇冠、<nuxt-link to="/batt/Yodita"
+                >優娣忒</nuxt-link
               >5-<nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </p>
           </div>
@@ -1228,8 +1256,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                ><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link></span
+              <span class="we">葡萄牙</span
               ><strong
                 ><a href="https://zh.wikipedia.org/wiki/貝倫塔" target="_blank"
                   >貝倫塔</a
@@ -1284,7 +1311,7 @@
                 >猛蛇出洞</nuxt-link
               >、勃印曩3-<nuxt-link to="/batt/The_Royal_Peacock"
                 >百鳥朝鳳</nuxt-link
-              >、勃印曩5-鳳凰涅槃
+              >、勃印曩5-鳳凰涅槃、布里斯比羅吉5-布里陀毗羅闍傳說
             </p>
           </div>
           <div class="col-md-4">
@@ -1315,13 +1342,12 @@
               >5-<nuxt-link to="/batt/Nirvanapada">千古偉業</nuxt-link
               >、勃印曩1-<nuxt-link to="/batt/The_Burmese_Tigers"
                 >餓虎撲食</nuxt-link
-              >
+              >、勃印曩4-白象化身
             </p>
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                ><nuxt-link to="/civs/Malay">馬來</nuxt-link></span
+              <span class="we">馬來</span
               ><strong
                 ><a href="https://en.wikipedia.org/wiki/Kalasan" target="_blank"
                   >卡拉桑</a
@@ -1341,18 +1367,15 @@
               登場戰役：<nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link
               >5-<nuxt-link to="/batt/The_Pasunda_Bubat_Tragedy"
                 >風雲變色</nuxt-link
-              >、勃印曩5-鳳凰涅槃
+              >、勃印曩5-鳳凰涅槃、布里斯比羅吉2-九合諸侯
             </p>
-            <br />
-            <br />
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                ><nuxt-link to="/civs/Vietnamese">越南</nuxt-link></span
+              <span class="we">越南</span
               ><strong
                 ><a
-                  href="http://www.baohuasi.org/gnews/2013413/2013413280755.html"
+                  href="https://en.wikipedia.org/wiki/B%C3%BAt_Th%C3%A1p_Temple"
                   target="_blank"
                   >寧福寺</a
                 ></strong
@@ -1374,13 +1397,58 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we"
-                >印度(<nuxt-link to="/games/aor">王者崛起</nuxt-link>版本)</span
+              <span class="we">保加利亞</span
               ><strong
                 ><a
-                  href="https://zh.wikipedia.org/wiki/布里哈迪希瓦拉神廟"
+                  href="https://en.wikipedia.org/wiki/Round_Church,_Preslav"
                   target="_blank"
-                  >布里哈迪希瓦拉神廟</a
+                  >普雷斯拉夫圓頂教堂</a
+                ></strong
+              >
+            </h3>
+            <div class="wimg">
+              <gallery>
+                <img class="imgn hg" src="~assets/Round_Church.png" alt="" />
+              </gallery>
+            </div>
+            <div class="hrn1"></div>
+            <p>
+              位於現今位於保加利亞大普雷斯拉夫，10世紀初在沙皇西蒙一世統治時期建成，圓形教堂被認為是中世紀保加利亞建築中最具代表性的建築，有金色教堂的名稱。
+            </p>
+            <p>
+              登場戰役：伊瓦依洛2-不可能的聯盟
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h3>
+              <span class="we">庫曼</span
+              ><strong
+                ><a href="https://en.wikipedia.org/wiki/Sarkel" target="_blank"
+                  >Sarkel要塞</a
+                ></strong
+              >
+            </h3>
+            <div class="wimg">
+              <gallery>
+                <img class="imgn hg" src="~assets/Sarkel.png" alt="" />
+              </gallery>
+            </div>
+            <div class="hrn1"></div>
+            <p>
+              位於現今俄羅斯羅斯托夫州，830年或840年由西突厥的可薩人建成，其後在965年由斯維亞托斯拉夫·伊戈列維奇統治的基輔羅斯佔領，並由斯拉夫人定居。
+            </p>
+            <p>
+              登場戰役：帖木兒3-毀滅的先兆、伊瓦依洛5-獨眼之王、可泰安汗5-新的家園
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h3>
+              <span class="we">立陶宛</span
+              ><strong
+                ><a
+                  href="https://zh.wikipedia.org/wiki/%E7%89%B9%E6%8B%89%E5%87%AF%E5%9F%8E%E5%A0%A1"
+                  target="_blank"
+                  >特拉凱城堡</a
                 ></strong
               >
             </h3>
@@ -1388,16 +1456,95 @@
               <gallery>
                 <img
                   class="imgn hg"
-                  src="~assets/Brihadeeswarartempleaoe2irl.png"
+                  src="~assets/Trakai_Island_Castle.png"
                   alt=""
                 />
               </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
-              位於現今印度泰米爾納德邦，建立於1000年左右，印度最高的神廟，供奉濕婆神，主殿內供奉有印度現存最大的石雕林伽(各位男性，就是你胯下那根)。
+              位於立陶宛特拉凱省Galvė湖中一座島上，14世紀由科斯圖提斯公爵興建，大約1409年，科斯圖提斯的兒子維陶塔斯大帝時期，主要部分已經建成，有著極為重要的戰略意義。。
             </p>
-            <p>登場戰役：勃印曩1-餓虎撲食</p>
+            <p>
+              登場戰役：伊瓦依洛5-獨眼之王
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h3>
+              <span class="we">韃靼</span
+              ><strong
+                ><a
+                  href="https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory"
+                  target="_blank"
+                  >烏魯伯格天文台</a
+                ></strong
+              >
+            </h3>
+            <div class="wimg">
+              <gallery>
+                <img
+                  class="imgn hg"
+                  src="~assets/Ulugh_Beg_Observatory.png"
+                  alt=""
+                />
+              </gallery>
+            </div>
+            <div class="hrn1"></div>
+            <p>
+              位於現今烏茲別克撒馬爾罕，由帖木兒王朝天文學家烏魯伯格於1420年代建成，是伊斯蘭世界中最好的天文台之一。
+              該天文台於1449年被摧毀，並於1908年重新發現。
+            </p>
+            <p>
+              登場戰役：無
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h3>
+              <span class="we">勃根地</span
+              ><strong
+                ><a
+                  href="https://zh.wikipedia.org/wiki/%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E5%B8%82%E6%94%BF%E5%8E%85"
+                  target="_blank"
+                  >布魯塞爾市政廳</a
+                ></strong
+              >
+            </h3>
+            <div class="wimg">
+              <gallery>
+                <!-- <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" /> -->
+              </gallery>
+            </div>
+            <div class="hrn1"></div>
+            <p>
+              位於現今比利時布魯塞爾大廣場，建於中世紀的哥德式建築，該市政廳最古老的部分是其東翼，始建於1402－1420年。
+            </p>
+            <p>
+              登場戰役：未知
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h3>
+              <span class="we">西西里</span
+              ><strong
+                ><a
+                  href="https://zh.wikipedia.org/wiki/%E8%92%99%E9%9B%B7%E9%98%BF%E8%8E%B1?fbclid=IwAR2FV4_OldeZvwe9NWLJXlqzfQockmm_04mK1vxT7nhc1kkRiaNqTjKbY9o"
+                  target="_blank"
+                  >蒙雷阿萊主教座堂</a
+                ></strong
+              >
+            </h3>
+            <div class="wimg">
+              <gallery>
+                <!-- <img class="imgn hg" src="~assets/Butthapaoe2irl.png" alt="" /> -->
+              </gallery>
+            </div>
+            <div class="hrn1"></div>
+            <p>
+              位於現今義大利西西里島巴勒莫省蒙雷阿萊，由古列爾莫二世於1174年開始興建，到1182年奉獻給升天聖母，是世界上現存最大的諾曼式建築。這教堂的罕見之處在於它協調地將拜占庭鑲嵌藝術、阿拉伯建築風格以及諾曼式樣融合於一身。
+            </p>
+            <p>
+              登場戰役：未知
+            </p>
           </div>
           <div class="col-md-12"></div>
         </div>
