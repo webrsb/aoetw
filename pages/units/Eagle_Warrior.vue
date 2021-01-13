@@ -518,7 +518,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度快80%。
+              >：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
