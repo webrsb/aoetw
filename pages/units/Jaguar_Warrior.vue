@@ -210,19 +210,6 @@
           </tr>
           <tr>
             <td class="tta1" style="width:10%">
-              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
-            </td>
-            <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/tracking.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
@@ -411,7 +398,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：豹勇士生產速度快15%。
+              >：豹勇士生產速度快11%。(實際訓練時間只需11秒)
             </li>
           </ul>
         </div>
@@ -430,6 +417,12 @@
               >的研究時間(快25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升豹勇士攻擊和護甲的科技研發快80％。
+            </li>
+            <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
@@ -437,6 +430,12 @@
                 to="/techs/Arson"
                 >縱火</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -474,6 +473,9 @@
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
+            <li>
+              移除追蹤技術。作為替代只要玩家升級到封建時代時所有步兵視野自動+2
+            </li>
             <li>訓練時間降為12秒。</li>
           </ul>
         </div>
@@ -613,7 +615,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">10/12(精銳)(近戰)</td>
+            <td class="unit4">10/11(精銳)(近戰)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -625,7 +627,7 @@
               >+10 <br />對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >+2 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
-                >標準建築物</nuxt-link
+                >標準建築</nuxt-link
               >+2
             </td>
           </tr>
@@ -658,7 +660,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">3/5(精銳)</td>
+            <td class="unit4">3 (+2)/5 (+2)(精銳)</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
