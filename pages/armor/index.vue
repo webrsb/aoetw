@@ -114,16 +114,16 @@
                     >戰象</nuxt-link
                   >
                 </li>
-              </ul>
-            </div>
-            <div class="col-md-4">
-              單位類：
-              <ul>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                     >火藥單位</nuxt-link
                   >
                 </li>
+              </ul>
+            </div>
+            <div class="col-md-4">
+              單位類：
+              <ul>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                     >攻城武器</nuxt-link
@@ -134,6 +134,11 @@
                 </li>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/armor/Armor_Class_Fishing_Ship"
+                    >漁船</nuxt-link
+                  >
                 </li>
                 <li><nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link></li>
                 <li>
@@ -150,6 +155,9 @@
                   <nuxt-link to="/armor/Armor_Class_Condottiero"
                     >傭兵</nuxt-link
                   >
+                </li>
+                <li>
+                  <nuxt-link to="/armor/Armor_Class_Mameluke">奴隸兵</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -268,11 +276,6 @@
                       >狂戰士</nuxt-link
                     >
                   </li>
-                </ul>
-              </div>
-
-              <div class="col-md-6">
-                <ul>
                   <li>
                     <img
                       class="gg"
@@ -280,6 +283,11 @@
                       alt=""
                     /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>
                   </li>
+                </ul>
+              </div>
+
+              <div class="col-md-6">
+                <ul>
                   <li>
                     <img
                       class="gg"
@@ -331,6 +339,29 @@
                       alt=""
                     /><nuxt-link to="/units/Karambit_Warrior"
                       >爪刀勇士</nuxt-link
+                    >
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Leitisicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Leitis">烈堤司</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Keshikicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Keshik">怯薛</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Konnikicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Konnikicon.png"
+                      >保加利亞騎兵</nuxt-link
                     >
                   </li>
 
@@ -576,6 +607,13 @@
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Kipchakicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Kipchak">欽察</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Galley.png" alt="" /><nuxt-link
@@ -1182,7 +1220,7 @@
                   </td>
                   <td class="tunitc5">300F 150G</td>
                   <td class="tunitc6">
-                    徒步<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
+                    徒步弓兵及傭兵<nuxt-link to="/armor">護甲</nuxt-link>+1/+1。
                   </td>
                 </tr>
                 <tr>
@@ -1224,6 +1262,22 @@
                       class="gg"
                       src="~assets/unique_tech.png"
                       alt=""
+                    /><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>
+                  </td>
+                  <td class="tunitc4">
+                    <nuxt-link to="/techs/Silk_Armor">絲護甲</nuxt-link>
+                  </td>
+                  <td class="tunitc5">400W 300G</td>
+                  <td class="tunitc6">
+                    斥侯騎兵系、草原騎兵、馬弓騎兵、標槍騎兵和欽察護甲+1/+1。
+                  </td>
+                </tr>
+                <tr>
+                  <td class="tunitc6">
+                    <img
+                      class="gg"
+                      src="~assets/unique_tech.png"
+                      alt=""
                     /><nuxt-link to="/civs/Teutons">條頓</nuxt-link>
                   </td>
                   <td class="tunitc4">
@@ -1234,6 +1288,24 @@
                     <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                       >攻城武器</nuxt-link
                     >近戰護甲+4。
+                  </td>
+                </tr>
+                <tr>
+                  <td class="tunitc6">
+                    <img
+                      class="gg"
+                      src="~assets/unique_tech_imperial.png"
+                      style="margin: 2px;"
+                      alt=""
+                    /><nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>
+                  </td>
+                  <td class="tunitc4">
+                    <nuxt-link to="/techs/Bagains">協議</nuxt-link>
+                  </td>
+                  <td class="tunitc5">900F 450G</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/units/Militia">民兵系</nuxt-link
+              >近程護甲+5。
                   </td>
                 </tr>
                 <tr>
@@ -1254,6 +1326,23 @@
                     >、<nuxt-link to="/units/Slinger">投石手</nuxt-link
                     >和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
                     >的護甲+1/+2。
+                  </td>
+                </tr>
+                <tr>
+                  <td class="tunitc6">
+                    <img
+                      class="gg"
+                      src="~assets/unique_tech_imperial.png"
+                      style="margin: 2px;"
+                      alt=""
+                    /><nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>
+                  </td>
+                  <td class="tunitc4">
+                    <nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>
+                  </td>
+                  <td class="tunitc5">500F 200G</td>
+                  <td class="tunitc6">
+                    長槍兵系和矛兵遠程護甲+2。
                   </td>
                 </tr>
                 <tr>
