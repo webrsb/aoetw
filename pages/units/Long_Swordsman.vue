@@ -416,7 +416,10 @@
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
                 to="/units/Militia"
                 >民兵系</nuxt-link
-              >升級免費。兵工廠長劍兵科技升級所需食物-50%。
+              >升級免費。<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >長劍兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
@@ -507,7 +510,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度快80%。
+              >：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
