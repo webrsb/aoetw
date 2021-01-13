@@ -74,9 +74,8 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Eagle_Warrior"
-                >鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
             </td>
@@ -267,7 +266,8 @@
                 src="~assets/Suplliesicon.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Supplies">供給</nuxt-link>:民兵系食物成本-15
+              /><nuxt-link to="/techs/Supplies">供給</nuxt-link
+              >:民兵系食物成本-15
               <br />
               <img
                 class="gg"
@@ -435,11 +435,11 @@
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
                 to="/units/Militia"
                 >民兵系</nuxt-link
-              >升級免費。兵工廠雙手劍兵科技升級所需食物-50%。
+              >升級免費。<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >雙手劍兵科技升級所需食物-50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >：雙手劍兵+3攻擊。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：雙手劍兵+3攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
@@ -455,7 +455,9 @@
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
-              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>和升級<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>的速度快100%。
+              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >和升級<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+              >的速度快100%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -469,9 +471,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：雙手劍兵+3<nuxt-link to="/armor"
-                >遠程護甲</nuxt-link
-              >。
+              >：雙手劍兵+3<nuxt-link to="/armor">遠程護甲</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -517,15 +517,16 @@
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度快80%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：雙手劍兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
-                to="/techs/Arson"
-                >縱火</nuxt-link
-              >科技的時間快20%。
+              >：雙手劍兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires"
+                >護衛技術</nuxt-link
+              >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
