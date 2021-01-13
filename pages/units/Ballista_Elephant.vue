@@ -170,7 +170,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊+20% <br />
+              >攻擊+20% (只限精銳) <br />
               <img
                 class="gg"
                 src="~assets/chemistry.png"
@@ -233,6 +233,17 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Husbandry">耕種技術</nuxt-link>(+10%)
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
+            <td class="tta4">
+              <img class="gg" src="~assets/faith.png" alt="" /><nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -746,10 +757,22 @@
               >的研究時間(快25%)
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >提升弩砲象護甲的科技研發快80％。
+            </li>
+            <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
                 >耕種技術</nuxt-link
               >和<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -759,7 +782,19 @@
             </li>
           </ul>
         </div>
-        <h3>豆知識</h3>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            大象是高棉最重要的軍事動物之一。歷史紀錄裡蘇里亞爾曼二世（1113-1150）有不下20萬隻大象的力量。從十二世紀到十三世紀初，幾個倖存的浮雕也表明，至少在歷史上，高棉族國王和<nuxt-link
+              to="/civs/Indians"
+              >印度</nuxt-link
+            >族國王為他們的戰象裝備了如同<nuxt-link to="/units/Trebuchet"
+              >投石機</nuxt-link
+            >那般巨大的床弩。
+          </p>
+        </div>
+        <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -782,31 +817,8 @@
               >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >應該有攻擊+2的加成但是因為bug而沒有實際加成。
             </li>
-          </ul>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <p>
-            大象是高棉最重要的軍事動物之一。歷史紀錄裡蘇里亞爾曼二世（1113-1150）有不下20萬隻大象的力量。從十二世紀到十三世紀初，幾個倖存的浮雕也表明，至少在歷史上，高棉族國王和<nuxt-link
-              to="/civs/Indians"
-              >印度</nuxt-link
-            >族國王為他們的戰象裝備了如同<nuxt-link to="/units/Trebuchet"
-              >投石機</nuxt-link
-            >那般巨大的床弩。
-          </p>
-        </div>
-        <h3>趣事</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
             <li>
-              由於該單位是騎兵單位和攻城單位的獨特組合，因此弩砲象是遊戲中唯一可以由僧侶治療而不必由村民修復的攻城武器。
-            </li>
-            <li>弩砲象是城堡時代唯一能夠砍伐樹木的軍事單位。</li>
-            <li>
-              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
-              >2.5，弩砲象是在遊戲中最慢的攻擊騎兵。
+              如果弩砲象在近距離攻擊目標，大型箭矢不會像往常一樣貫穿並對群體造成傷害。相反，只會對第一個目標造成傷害。
             </li>
           </ul>
         </div>
@@ -962,13 +974,15 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>+8
-              <br /><nuxt-link to="/armor/Armor_Class_stone_defense"
+              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>+8<br />
+              <nuxt-link to="/armor/Armor_Class_Fishing_Ship">漁船</nuxt-link
+              >+8<br />
+              <nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
               >+3/+4(精銳) <br /><nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >+3，+4(精銳) <br /><nuxt-link to="/armor/Armor_Class_Building"
+              >+3/+4(精銳) <br /><nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >+2/+4(精銳)
             </td>
@@ -987,7 +1001,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
             </td>
-            <td class="unit4">4</td>
+            <td class="unit4">12</td>
           </tr>
           <tr>
             <td class="unit3">射程</td>
