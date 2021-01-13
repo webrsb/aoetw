@@ -221,7 +221,8 @@
                 src="~assets/Suplliesicon.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Supplies">供給</nuxt-link>:民兵系食物成本-15
+              /><nuxt-link to="/techs/Supplies">供給</nuxt-link
+              >:民兵系食物成本-15
               <br />
               <img
                 class="gg"
@@ -386,10 +387,10 @@
               >：民兵訓練速度提高11％。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
-                to="/units/Militia"
-                >民兵系</nuxt-link
-              >升級免費。兵工廠民兵科技升級所需食物-50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：民兵系升級免費。<nuxt-link to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >民兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
@@ -399,7 +400,8 @@
               +1/+2/+3攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：從封建時代開始民兵移動加快15％。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：從封建時代開始民兵移動加快15％。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -414,7 +416,8 @@
                 >標準建築</nuxt-link
               >攻擊+0/+1/+2/+3。研發<nuxt-link to="/techs/Perfusion"
                 >井噴</nuxt-link
-              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>和升級民兵的速度快100%。
+              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >和升級民兵的速度快100%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -443,7 +446,7 @@
               >對<nuxt-link to="/units/Spearman">民兵</nuxt-link
               >有利的<nuxt-link to="/techs">科技</nuxt-link>升級不須黃金。
             </li>
-             <li>
+            <li>
               <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
               >：民兵在高處攻擊的傷害+50%。
             </li>
@@ -479,8 +482,10 @@
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度快80%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
