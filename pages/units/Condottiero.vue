@@ -269,19 +269,6 @@
           </tr>
           <tr>
             <td class="tta1" style="width:10%">
-              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
-            </td>
-            <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/tracking.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
@@ -943,7 +930,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">6</td>
+            <td class="unit4">6 (+2)</td>
           </tr>
         </table>
 
