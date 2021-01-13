@@ -92,15 +92,15 @@
                 to="/units/Condottiero"
                 >傭兵</nuxt-link
               >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
-              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>、<nuxt-link
-                to="/units/Elite_Skirmisher"
-                >戰矛兵</nuxt-link
+              >、<nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
+              >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
-              >、<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
+                to="/units/Camel_Archer"
+                >駱駝弓騎兵</nuxt-link
               >。
             </td>
           </tr>
@@ -243,7 +243,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -422,11 +423,9 @@
                       alt=""
                     /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
                   </li>
-                  
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
                 <ul>
-                  
                   <li>
                     <img
                       class="gg"
@@ -648,7 +647,10 @@
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>速度快80%。
             </li>
-            <li><nuxt-link to="/civs/Tatars">韃靼</nuxt-link>：西班牙征服者+2視野。</li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：西班牙征服者+2視野。
+            </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：西班牙征服者更不容易被招降。
@@ -860,7 +862,9 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link>
               <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry_archer">馬弓騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry_archer"
+                >馬弓騎兵</nuxt-link
+              >
               <br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               ><br /><nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
