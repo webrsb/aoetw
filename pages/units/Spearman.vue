@@ -626,8 +626,10 @@
               >：長槍兵訓練速度提高11％。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠長槍兵科技升級所需食物-50%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >長槍兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
@@ -671,7 +673,8 @@
               >快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：長槍兵木材成本減少20%。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：長槍兵木材成本減少20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
@@ -736,8 +739,10 @@
               >、的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度快80%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
@@ -752,7 +757,7 @@
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：長槍兵更不容易被招降。
-            </li>          
+            </li>
           </ul>
         </div>
         <h3>更新日誌</h3>
