@@ -210,19 +210,6 @@
           </tr>
           <tr>
             <td class="tta1" style="width:10%">
-              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
-            </td>
-            <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/tracking.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
@@ -475,7 +462,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
                 to="/units/Elite_Eagle_Warrior"
                 >精銳鷹勇士</nuxt-link
-              >訓練速度提高10％。
+              >訓練速度提高11％。
             </li>
           </ul>
         </div>
@@ -491,13 +478,22 @@
               >、的研究時間(快25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：精銳鷹勇士訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
+              >：精銳鷹勇士訓練和升級快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：研發忠誠信仰和異端邪說的速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -556,8 +552,10 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
             </li>
           </ul>
         </div>
@@ -715,7 +713,8 @@
                 >駱駝騎兵</nuxt-link
               ><br />+2 vs<nuxt-link to="/armor/Armor_Class_Ship"
                 >船隻</nuxt-link
-              >
+              ><br />
+              +2 vs<nuxt-link to="/armor/Armor_Class_Fishing_Ship">漁船</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -747,7 +746,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">6</td>
+            <td class="unit4">6 (+2)</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
