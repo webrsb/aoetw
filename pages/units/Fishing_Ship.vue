@@ -227,7 +227,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -394,8 +395,8 @@
                       src="~assets/FireGalleyIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Fire_Galley">火艨艟</nuxt-link>
-                    </li>
-                    <li>
+                  </li>
+                  <li>
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.png"
@@ -503,8 +504,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
               >：漁船便宜15％。研究<nuxt-link to="/techs/Gillnets"
                 >流刺網</nuxt-link
-              >、<nuxt-link to="/techs/Careening"
-                >航海技術</nuxt-link
+              >、<nuxt-link to="/techs/Careening">航海技術</nuxt-link
               >、<nuxt-link to="/techs/Dry_Dock">船塢</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船員</nuxt-link
@@ -545,11 +545,11 @@
         <div class="n1">
           <ul>
             <li>
-                <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
-                  to="/techs/Heresy"
-                  >異端邪說</nuxt-link
-                >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
-              </li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：隊伍中的漁船對招降的抵抗力更強。
@@ -631,8 +631,8 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Italians">義大利</nuxt-link
-              >:(36906更新) 漁船成本降低15％ (成本為64木材)。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>:(36906更新)
+              漁船成本降低15％ (成本為64木材)。
             </li>
           </ul>
         </div>
