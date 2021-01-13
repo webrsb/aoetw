@@ -239,7 +239,8 @@
                 src="~assets/Suplliesicon.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Supplies">供給</nuxt-link>:民兵系食物成本-15
+              /><nuxt-link to="/techs/Supplies">供給</nuxt-link
+              >:民兵系食物成本-15
               <br />
               <img
                 class="gg"
@@ -406,7 +407,8 @@
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
                 to="/units/Militia"
                 >民兵系</nuxt-link
-              >升級免費。兵工廠裝甲步兵科技升級所需食物-50%。
+              >升級免費。<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >裝甲步兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
@@ -432,7 +434,8 @@
                 >標準建築</nuxt-link
               >攻擊+1/+2/+3。研發<nuxt-link to="/techs/Perfusion"
                 >井噴</nuxt-link
-              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>和升級<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >和升級<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
               >的速度快100%。
             </li>
             <li>
@@ -497,15 +500,16 @@
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：兵工廠科技研發速度快80%。
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：裝甲步兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
-                to="/techs/Arson"
-                >縱火</nuxt-link
-              >科技的時間快20%。
+              >：裝甲步兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires"
+                >護衛技術</nuxt-link
+              >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
