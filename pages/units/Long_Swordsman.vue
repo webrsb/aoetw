@@ -202,19 +202,6 @@
           </tr>
           <tr>
             <td class="tta1" style="width:10%">
-              <nuxt-link to="/elements/Line_of_Sight">視野</nuxt-link>
-            </td>
-            <td class="tta4">
-              <img
-                class="gg"
-                src="~assets/tracking.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1" style="width:10%">
               <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
             </td>
             <td class="tta4">
@@ -257,6 +244,13 @@
           <tr>
             <td class="tta1" style="width:10%">生產成本</td>
             <td class="tta4">
+              <img
+                class="gg"
+                src="~assets/Suplliesicon.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Supplies">供給</nuxt-link>:民兵系食物成本-15
+              <br />
               <img
                 class="gg"
                 src="~assets/unique_tech_imperial.png"
@@ -416,20 +410,22 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：長劍兵訓練速度提高10％。
+              >：長劍兵訓練速度提高11％。
             </li>
             <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
                 to="/units/Militia"
                 >民兵系</nuxt-link
-              >升級免費。
+              >升級免費。<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >長劍兵科技升級所需食物-50%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >：長劍兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+              >：長劍兵在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
-              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>有
-              +1/+2/+3攻擊。
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>有+2/+3攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
@@ -437,21 +433,17 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：利於長劍兵的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
+              >：利於長劍兵的科技在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
-              >/帝王時代便宜10％/15％/20％。
+              >/帝王時代便宜15％/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：長劍兵在城堡/帝王時代，減免為30%/35%，對<nuxt-link
-                to="/armor/Armor_Class_Building"
-                >建築物</nuxt-link
+                to="/armor/Armor_Class_Standard_Building"
+                >標準建築</nuxt-link
               >攻擊+2/+3。研發<nuxt-link to="/techs/Perfusion">井噴</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
-                to="/techs/Arson"
-                >縱火</nuxt-link
-              >和升級<nuxt-link to="/units/Two-Handed_Swordsman"
+              >後研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>和升級<nuxt-link to="/units/Two-Handed_Swordsman"
                 >雙手劍兵</nuxt-link
               >的速度快100%。
             </li>
@@ -473,19 +465,21 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：長劍兵黃金成本減少15％。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >。
+              >：長劍兵黃金成本減少20％。長劍兵科技研發速度+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >的<nuxt-link to="/techs">科技</nuxt-link>升級不須黃金。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：長劍兵在高處攻擊的傷害+50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：長劍兵在城堡時代和帝王時代，近戰防禦各+1，共+2。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
@@ -498,11 +492,8 @@
                 to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
               >/帝王時代加15％/20％的<nuxt-link to="/elements/Hit_points"
-                >生命值</nuxt-link
+                >血量</nuxt-link
               >。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：長劍兵近戰防禦+1
             </li>
           </ul>
         </div>
@@ -515,16 +506,25 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
-              >、的研究時間(快25%)。
+              >的研究時間(快25%)。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：長劍兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
+              >：長劍兵訓練和升級快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >科技的時間快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：研發忠誠信仰和異端邪說的速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -629,6 +629,9 @@
           </h3>
           <ul>
             <li>
+              移除追蹤技術。作為替代只要玩家升級到封建時代時所有步兵視野自動+2
+            </li>
+            <li>
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
               >：協議增加民兵系近戰防禦+3。
             </li>
@@ -650,7 +653,26 @@
 
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >(37650更新)：軍事單位加快訓練速度由15%減為10%。
+              >(37650更新)：軍事單位加快訓練速度由15%減為11%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:
+              從封建時代開始步兵移動速度+15%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              民兵科技研發速度+30%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
+              團隊加分中<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >工作效率從+50%增加成+80%。
+            </li>
+            <li>
+              (42848更新) 保加利亞: 兵工廠科技升級所需食物-50%。
             </li>
           </ul>
         </div>
@@ -819,7 +841,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">4</td>
+            <td class="unit4">4 (+2)</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
