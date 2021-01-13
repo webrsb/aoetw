@@ -129,8 +129,9 @@
             >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
               to="/civs/Mongols"
               >蒙古</nuxt-link
-            >、<nuxt-link to="/civs/Tatars">韃靼</nuxt-link
-            >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+            >、<nuxt-link to="/civs/Tatars">韃靼</nuxt-link>、<nuxt-link
+              to="/civs/Turks"
+              >土耳其</nuxt-link
             >與薩拉森都有優秀的馬弓騎兵，特別是那些擁有珍貴的<nuxt-link
               to="/techs/Parthian_Tactics"
               >安息人戰術</nuxt-link
@@ -147,18 +148,17 @@
             </li>
             <li>不列顛：徒步弓兵在城堡/帝王額外+1/+2射程。</li>
             <li>
-              保加利亞：兵工廠遠距離單位科技升級所需食物-50%。
+              保加利亞：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >遠距離單位科技升級所需食物-50%。
             </li>
             <li>
               拜占庭：矛兵便宜25％。
             </li>
             <li>
-              中國：遠距離單位<nuxt-link
-                to="/techs"
-                >科技</nuxt-link
+              中國：遠距離單位<nuxt-link to="/techs">科技</nuxt-link
               >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/帝王時代各便宜10%/15%/20%。
-              </li>
+            </li>
             <li>
               衣索比亞：弓兵<nuxt-link to="/elements/Rate_of_Fire"
                 >射速</nuxt-link
@@ -171,8 +171,7 @@
             <li>義大利：火槍兵便宜15％。</li>
             <li>立陶宛：矛兵移動速度提高10%。</li>
             <li>
-              馬雅：弓兵在<nuxt-link to="/techs/age/Feudal_Age"
-                >封建</nuxt-link
+              馬雅：弓兵在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
               >分別便宜10％/20％/30％。
@@ -186,14 +185,16 @@
               薩拉森：遠距離單位(除矛兵)，在封建/城堡/帝王對標準建築+1/+2/+3攻擊力。
             </li>
             <li>
-              西班牙：火槍兵和<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
+              西班牙：火槍兵和<nuxt-link to="/units/Conquistador"
+                >西班牙征服者</nuxt-link
               >的射速提高18％。兵工廠遠距離單位科技升級無需黃金。
             </li>
             <li>
               韃靼：免費安息人戰術和拇指環。遠距離單位高地戰鬥傷害+50%。
             </li>
             <li>
-              土耳其：<nuxt-link to="/techs/Chemistry">化學</nuxt-link>免費。火槍兵血量+25%。
+              土耳其：<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >免費。火槍兵血量+25%。
             </li>
             <li>
               越南：射箭場單位血量增加20%。<nuxt-link to="/techs/Conscription"
@@ -214,9 +215,7 @@
             <li>柏柏：可在射箭場訓練鏢槍騎兵。</li>
             <li>不列顛：射箭場效率提高20％。</li>
             <li>
-              保加利亞：<nuxt-link
-                to="/building/Blacksmith"
-                >兵工廠</nuxt-link
+              保加利亞：<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >提升弓兵護甲和攻擊的科技研發快80％。
             </li>
             <li>
@@ -1470,7 +1469,9 @@
                 /><nuxt-link to="/civs/Cumans">庫曼</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link>
+                <nuxt-link to="/techs/Steppe_Husbandry"
+                  >大草原耕種技術</nuxt-link
+                >
               </td>
               <td class="tunitc5">200F 300W</td>
               <td class="tunitc6">馬弓騎兵訓練速度快50%。</td>
