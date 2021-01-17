@@ -36,7 +36,7 @@
                 src="~assets/Pacific_Islands_Mangroves.jpg"
                 alt=""
             /></gallery>
-            <p class="text-center"><em>四座湖泊小地圖。</em></p>
+            <p class="text-center"><em>四座湖泊小地圖</em></p>
           </div>
         </div>
       </div>
