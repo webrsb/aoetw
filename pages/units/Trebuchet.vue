@@ -438,13 +438,18 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+              >：<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：投石機<nuxt-link
                 to="/elements/Rate_of_Fire"
                 >攻擊速度</nuxt-link
-              >快20%
+              >快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -454,12 +459,23 @@
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈人</nuxt-link
-              >：投石機對單位命中率+35%。
+              >：投石機對單位命中率+30%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：投石機<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >成本便宜15%。
+              >成本便宜20%。投石機科技研發速度+30%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Tatars">韃靼</nuxt-link
+              >：投石機在高處攻擊的傷害+50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >：<nuxt-link
+                to="/techs/Chemistry"
+                >化學</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -480,6 +496,10 @@
               >能夠加速訓練投石機和<nuxt-link to="/techs/Conscription"
                 >徵兵技術</nuxt-link
               >的研究時間(快25%)。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
+              >：研發忠誠信仰和異端邪說的速度快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
@@ -543,6 +563,15 @@
             </li>
             <li>
               (36202更新) 韃靼：帖木兒攻城術射程改為+2。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >(37650更新)：軍事單位加快訓練速度由15%減為11%。
+            </li>
+            <li>
+              (42848更新)
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>:
+              投石機科技研發速度+30%。
             </li>
           </ul>
         </div>
@@ -710,7 +739,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
             </td>
-            <td class="unit4">6</td>
+            <td class="unit4">24</td>
           </tr>
 
           <tr>
