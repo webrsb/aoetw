@@ -7,9 +7,9 @@
       </div>
       <div class="col-md-12">
         <p>
-          隨機地圖是目前最主要遊戲模式（另一地圖是真實世界）。在該模式中每場遊戲的地形地貌隨機生成都不相同，在地圖的每個腳弱都有不同的景觀和地形。
+          隨機地圖是目前最主要遊戲模式（另外還有真實世界和特殊地圖）。在該模式中每場遊戲的地形地貌隨機生成都不相同，在地圖的每個腳弱都有不同的景觀和地形。
         </p>
-        <h3>地圖列表</h3>
+        <h3>隨機地圖列表</h3>
         <div class="hrn1"></div>
         <div class="row n1">
           <div class="col-md-2">
@@ -21,6 +21,7 @@
               <li><nuxt-link to="/maps/Archipelago">群島</nuxt-link></li>
               <li><nuxt-link to="/maps/Baltic">波羅的海</nuxt-link></li>
               <li><nuxt-link to="/maps/Black_Forest">黑森林</nuxt-link></li>
+              <li><nuxt-link to="/maps/Crater_Lake">火山湖</nuxt-link></li>
               <li><nuxt-link to="/maps/Coastal">沿海</nuxt-link></li>
               <li><nuxt-link to="/maps/Continental">大陸</nuxt-link></li>
               <li><nuxt-link to="/maps/Fortress">堡壘</nuxt-link></li>
@@ -59,6 +60,7 @@
               <li><nuxt-link to="/maps/Land_of_Lakes">百湖之城</nuxt-link></li>
               <li><nuxt-link to="/maps/Golden_Pit">金礦谷</nuxt-link></li>
               <li><nuxt-link to="/maps/Hideout">藏身之處</nuxt-link></li>
+              <li><nuxt-link to="/maps/Hill_Fort">山寨</nuxt-link></li>
               <li><nuxt-link to="/maps/Lombardia">倫巴地</nuxt-link></li>
               <li><nuxt-link to="/maps/Steppe">乾草原</nuxt-link></li>
               <li><nuxt-link to="/maps/Valley">峽谷</nuxt-link></li>
@@ -85,7 +87,7 @@
               ><img src="~assets/RajaIcon.png" />王者崛起</nuxt-link
             >
             <ul>
-              <li><nuxt-link to="/maps/Bog_Islands">沼澤</nuxt-link></li>
+              <li><nuxt-link to="/maps/Bog_Islands">禁閉島</nuxt-link></li>
               <li><nuxt-link to="/maps/Mangrove_Jungle">紅樹林</nuxt-link></li>
               <li>
                 <nuxt-link to="/maps/Pacific_Islands">太平洋群島</nuxt-link>
@@ -99,7 +101,14 @@
               ><img src="~assets/deicon.png" />決定版</nuxt-link
             >
             <ul>
-              <li>待推出</li>
+              <li><nuxt-link to="/maps/Alpine_Lakes">高山湖泊</nuxt-link></li>
+              <li><nuxt-link to="/maps/Bogland">沼澤</nuxt-link></li>
+              <li><nuxt-link to="/maps/Four_Lakes">四座湖泊</nuxt-link></li>
+              <li><nuxt-link to="/maps/Golden_Swamp">金沼澤</nuxt-link></li>
+              <li><nuxt-link to="/maps/Land_Nomad">陸地游牧</nuxt-link></li>
+              <li><nuxt-link to="/maps/Mountain_Ridge">山脊</nuxt-link></li>
+              <li><nuxt-link to="/maps/Ravines">山澗</nuxt-link></li>
+              <li><nuxt-link to="/maps/Wolf_Hill">狼山</nuxt-link></li>
             </ul>
           </div>
         </div>
