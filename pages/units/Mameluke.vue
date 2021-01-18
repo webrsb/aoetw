@@ -391,7 +391,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/CamelIcon.png.png"
+                      src="~assets/CamelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>
                   </li>
