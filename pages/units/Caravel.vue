@@ -312,7 +312,8 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.png"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel_Rider"
+                      >重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -571,12 +572,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：研究<nuxt-link
-                to="/techs/Fletching"
-                >絕世好箭</nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：研究<nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link
               >、<nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link
-              >、<nuxt-link to="/techs/Bracer">強力護腕
-</nuxt-link
+              >、<nuxt-link to="/techs/Bracer">強力護腕 </nuxt-link
               >的速度提高80%。
             </li>
             <li>
