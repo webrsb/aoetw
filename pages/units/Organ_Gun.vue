@@ -48,17 +48,17 @@
                 to="/units/Mangonel"
                 >輕型投石車</nuxt-link
               >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
-              >，僅多出<nuxt-link to="/armor">近防</nuxt-link>2<nuxt-link
+              >一樣，僅多出<nuxt-link to="/armor">近防</nuxt-link>2<nuxt-link
                 to="/armor"
                 >遠防</nuxt-link
               >升級後也只有6，優勢是需要的資源比較便宜只需要80<nuxt-link
                 to="/resource/Wood"
                 >木材</nuxt-link
-              >60<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >、訓練時間比較短只需要21秒。
+              >56<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >(所有單位的黃金成本-20%的文明加成)、訓練時間比較短只需要21秒。
             </li>
             <li>
-              風琴砲在特定情況下量產傷害是不錯的，但也僅此在量產後才有效果比其他<nuxt-link
+              風琴砲在特定情況下量產傷害是不錯的，但也僅此在量產後才有效果，比其他<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城器單位</nuxt-link
               >真的是屬於劣勢。
@@ -89,7 +89,11 @@
                 >傭兵</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
-              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
+                to="/units/Onager"
+                >投石車</nuxt-link
+              >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>
             </td>
           </tr>
           <tr class="tta">
@@ -356,7 +360,7 @@
           <ul>
             <p>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >:風琴砲黃金成本便宜15%。
+              >:風琴砲黃金成本便宜20%。風琴砲科技研發速度+30%。
             </p>
           </ul>
         </div>
@@ -374,6 +378,12 @@
               >的速度(+25%)。
             </li>
             <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
                 to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
@@ -385,7 +395,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >：風琴砲生產速度+20%。
+              >：風琴砲生產速度+25%。
             </li>
           </ul>
         </div>
@@ -419,6 +429,18 @@
             </li>
             <li>風琴砲的最小射程為1。</li>
             <li>5.7改版後風琴砲現在有2的擴散攻擊。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              (39284更新)<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：所有單位的黃金成本-20%。
+            </li>
+            <li>
+              (42848更新) 葡萄牙:科技研發速度+30%。
+            </li>
           </ul>
         </div>
         <h3>豆知識</h3>
@@ -551,7 +573,7 @@
             <td class="unit3">
               <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
-            <td class="unit4">60</td>
+            <td class="unit4">56</td>
           </tr>
           <tr>
             <td
@@ -590,7 +612,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
             </td>
-            <td class="unit4">6</td>
+            <td class="unit4">12</td>
           </tr>
           <tr>
             <td class="unit3">射程</td>
