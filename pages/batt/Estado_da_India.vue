@@ -249,7 +249,7 @@
               </li>
               <li>
                 趁敵軍進攻空檔往城門外推進，兵力掩護下蓋城堡、<nuxt-link
-                  to="/units//building/Siege_Workshop"
+                  to="/building/Siege_Workshop"
                   >攻城器製造所</nuxt-link
                 >。等周圍敵人兵力、箭塔及城堡摧毀後（紅色的城堡也可用火砲戰船從海面清除），缺口處儘速蓋城牆和城門。
               </li>

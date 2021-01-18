@@ -345,7 +345,7 @@
             to="/building/Monastery"
             >修道院</nuxt-link
           >、<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>和<nuxt-link
-            to="/units//building/Siege_Workshop"
+            to="/building/Siege_Workshop"
             >攻城器製造所</nuxt-link
           >)還有第二個城鎮中心，如果有488石頭可以蓋一座<nuxt-link
             to="/building/Castle"

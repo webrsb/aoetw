@@ -29,7 +29,7 @@
           </p>
           <p>
             歷史上他們木工與金屬加工的優異，因而提高了<nuxt-link
-              to="/units//building/Siege_Workshop"
+              to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >工作效率/伐木速度/<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link

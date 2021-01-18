@@ -81,7 +81,7 @@
                     <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
                   </td>
                   <td>
-                    <nuxt-link to="/units//building/Siege_Workshop"
+                    <nuxt-link to="/building/Siege_Workshop"
                       >攻城器製造所</nuxt-link
                     >效率快20％。
                   </td>

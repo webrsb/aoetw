@@ -25,7 +25,7 @@
             雖然做為無法開火和生產單位的建築，兵工廠在戰略考量上卻常常是優先的選擇，不只可研發進攻需要的科技，也是<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >建造<nuxt-link to="/units//building/Siege_Workshop"
+            >建造<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >的先決<nuxt-link to="/building">建築物</nuxt-link>。
           </p>
