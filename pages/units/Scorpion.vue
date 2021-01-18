@@ -10,7 +10,7 @@
           <p>
             <b>弩砲</b>可訓練於<nuxt-link to="/units//building/Siege_Workshop"
               >攻城器製造所</nuxt-link
-            >，他發射大型箭矢，可對敵人造成貫穿，但只有目標單位會受到全部的傷害，其他單位只會受到一半的傷害。不像<nuxt-link
+            >，他發射大型箭矢，可對敵人造成貫穿，但只有目標單位會受到完整的傷害，其他單位只會受到一半的傷害。不像<nuxt-link
               to="/units/Mangonel"
               >投石車</nuxt-link
             >，弩砲不會傷害友方單位，所以在近距離的肉搏戰相當好用。
@@ -694,6 +694,12 @@
             <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
+          </tr>
+          <tr>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
+            <td class="unit4">40</td>
           </tr>
           <tr>
             <td class="unit3">
