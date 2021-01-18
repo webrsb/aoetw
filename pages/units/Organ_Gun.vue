@@ -89,11 +89,11 @@
                 >傭兵</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
-              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
-              >、<nuxt-link to="/units/Onager">投石車</nuxt-link
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
+                to="/units/Onager"
+                >投石車</nuxt-link
               >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
-              >
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>
             </td>
           </tr>
           <tr class="tta">
@@ -430,7 +430,7 @@
             <li>風琴砲的最小射程為1。</li>
             <li>5.7改版後風琴砲現在有2的擴散攻擊。</li>
           </ul>
-           <h3>
+          <h3>
             <em><nuxt-link to="/games/de">決定版</nuxt-link></em>
           </h3>
           <ul>
@@ -439,10 +439,9 @@
               >：所有單位的黃金成本-20%。
             </li>
             <li>
-              (42848更新)
-              葡萄牙:科技研發速度+30%。
+              (42848更新) 葡萄牙:科技研發速度+30%。
             </li>
-        </ul>
+          </ul>
         </div>
         <h3>豆知識</h3>
         <div class="hrn1"></div>
