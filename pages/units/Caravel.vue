@@ -561,9 +561,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：卡拉維爾戰船訓練減少15%<nuxt-link to="/resource/Gold"
+              >：卡拉維爾戰船訓練減少20%<nuxt-link to="/resource/Gold"
                 >黃金</nuxt-link
-              >成本，HP+10％。
+              >成本。血量+10％。卡拉維爾戰船科技研發速度 +30%。
             </li>
           </ul>
         </div>
@@ -571,6 +571,19 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
+            <li>
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
+              >：研究<nuxt-link to="/techs/Fletching">絕世好箭</nuxt-link
+              >、<nuxt-link to="/techs/Bodkin_Arrow">羽箭</nuxt-link
+              >、<nuxt-link to="/techs/Bracer">強力護腕 </nuxt-link
+              >的速度提高80%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>：<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >與<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>研發快20%。
+            </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
@@ -736,6 +749,9 @@
             <td class="unit4">
               +6/+7(精銳)對<nuxt-link to="/armor/Armor_Class_Ship"
                 >船</nuxt-link
+              >
+              <br />+6/+7(精銳)對<nuxt-link to="/armor/Armor_Class_Fishing_Ship"
+                >漁船</nuxt-link
               >
               <br />+8/+9(精銳)對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
