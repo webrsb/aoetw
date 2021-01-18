@@ -99,7 +99,7 @@
               >（175木材）都可以省下來，直接前置<nuxt-link
                 to="/building/Monastery"
                 >修道院</nuxt-link
-              >與<nuxt-link to="/units//building/Siege_Workshop"
+              >與<nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >，出僧侶與<nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >弩砲。唯獨15分上<nuxt-link to="/techs/age/Castle_Age"

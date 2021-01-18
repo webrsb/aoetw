@@ -10,7 +10,7 @@
           <p>
             <b>輕型衝撞車</b
             >是世紀帝國II遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從<nuxt-link
-              to="/units//building/Siege_Workshop"
+              to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >製造，對一般單位的<nuxt-link to="/elements/Attack"
               >攻擊力</nuxt-link
@@ -411,7 +411,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-              >：封建時代即可建造<nuxt-link to="/units//building/Siege_Workshop"
+              >：封建時代即可建造<nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >並生產輕型衝撞車。
             </li>
@@ -435,7 +435,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
-                to="/units//building/Siege_Workshop"
+                to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >單位生產速度快20%。
             </li>
@@ -520,7 +520,7 @@
               <li>
                 <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
                 >：封建時代即可建造<nuxt-link
-                  to="/units//building/Siege_Workshop"
+                  to="/building/Siege_Workshop"
                   >攻城器製造所</nuxt-link
                 >並生產輕型衝撞車。
               </li>

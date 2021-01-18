@@ -158,7 +158,7 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
-              >(<nuxt-link to="/units//building/Siege_Workshop"
+              >(<nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >的單位傷害範圍增加，<nuxt-link to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link

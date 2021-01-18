@@ -255,7 +255,7 @@
                 </li>
                 <li>
                   在整個遊戲過程中，玩家必須隨時駐守五個單位在帕維亞的城堡中，以維持他們的忠誠度，並使用他們的<nuxt-link
-                    to="/units//building/Siege_Workshop"
+                    to="/building/Siege_Workshop"
                     >攻城器製造所</nuxt-link
                   >，點擊該<nuxt-link to="/building">建築</nuxt-link
                   >將花費200黃金產生一個火砲。否則，帕維亞將反抗玩家。

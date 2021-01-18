@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>重型弩砲</b>可訓練於<nuxt-link
-              to="/units//building/Siege_Workshop"
+              to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >，他發射大型箭矢，可對敵人造成貫穿，但只有目標單位會受到全部的傷害，其他單位只會受到一半的傷害。不像<nuxt-link
               to="/units/Mangonel"
@@ -220,7 +220,7 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
-              >：<nuxt-link to="/units//building/Siege_Workshop"
+              >：<nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >的單位傷害範圍增加。<nuxt-link to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
@@ -636,7 +636,7 @@
             <li>
               (42848更新)
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
-              <nuxt-link to="/units//building/Siege_Workshop"
+              <nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >科技升級所需食物-50%。
             </li>
@@ -777,6 +777,12 @@
             <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
+          </tr>
+          <tr>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
+            <td class="unit4">50</td>
           </tr>
           <tr>
             <td class="unit3">

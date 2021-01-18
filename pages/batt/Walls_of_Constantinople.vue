@@ -174,7 +174,7 @@
                   >射箭場</nuxt-link
                 >來訓練<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
                 >。立即開始反擊馬西亞諾波利斯。蓋<nuxt-link
-                  to="/units//building/Siege_Workshop"
+                  to="/building/Siege_Workshop"
                   >攻城器製造所</nuxt-link
                 >來生產<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
                 >來摧毀馬西安堡的<nuxt-link to="/building">建築</nuxt-link

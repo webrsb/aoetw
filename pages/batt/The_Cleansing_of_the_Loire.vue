@@ -377,7 +377,7 @@
                 to="/civs/Britons"
                 >不列顛人</nuxt-link
               >的城堡時，記得在不列顛人的城牆邊建造你自己的城堡，還有<nuxt-link
-                to="/units//building/Siege_Workshop"
+                to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >以及<nuxt-link to="/building/Stable">馬廄</nuxt-link
               >，生產<nuxt-link to="/units/Knight">騎士</nuxt-link

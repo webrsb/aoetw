@@ -15,7 +15,7 @@
             ，玩家必須先升級到<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >，研發<nuxt-link to="/techs">科技</nuxt-link>後才可以在<nuxt-link
-              to="/units//building/Siege_Workshop"
+              to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >進行訓練。 它主要用來對付大群敵人。 它特別的<nuxt-link
               to="/elements/Area_of_Effect"

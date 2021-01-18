@@ -14,7 +14,7 @@
             >
             ，當玩家升級到了<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >後，便可以在<nuxt-link to="/units//building/Siege_Workshop"
+            >後，便可以在<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >進行訓練。 主要拿來對付成群的敵人，他的高攻擊與<nuxt-link
               to="/elements/Area_of_Effect"
@@ -528,7 +528,7 @@
             <li>
               (42848更新)
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
-              <nuxt-link to="/units//building/Siege_Workshop"
+              <nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >科技升級所需食物-50%。
             </li>

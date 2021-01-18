@@ -118,7 +118,7 @@
               >暸望台</nuxt-link
             >x3、<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >x1、<nuxt-link to="/building/Stable">馬廄</nuxt-link>x1、<nuxt-link
-              to="/units//building/Siege_Workshop"
+              to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >x1、<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>x1。
           </li>
