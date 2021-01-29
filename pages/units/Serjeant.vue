@@ -14,7 +14,7 @@
             >，能夠在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >的<nuxt-link to="/building/Donjon">城樓</nuxt-link
             >和<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。薩金特衛兵是個可能建造城樓的單位。薩金特衛兵可以在<nuxt-link
+            >中訓練。薩金特衛兵是個可以建造城樓的單位。薩金特衛兵可以在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >升級為<nuxt-link to="/units/Shotel_Warrior">精銳薩金特衛兵</nuxt-link
