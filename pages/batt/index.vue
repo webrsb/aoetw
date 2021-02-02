@@ -528,7 +528,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/A_Barbarian_Betrothal"
-                      >蠻族的婚約</nuxt-link
+                      >野蠻人的宴會</nuxt-link
                     >
                   </div>
                 </td>

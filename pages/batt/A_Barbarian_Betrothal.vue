@@ -2,13 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>蠻族的婚約</h1>
+        <h1>野蠻人的宴會</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>蠻族的婚約</b>為<nuxt-link to="/batt/Attila_the_Huna"
+            <b>野蠻人的宴會</b>（舊譯：蠻族的婚約）為<nuxt-link
+              to="/batt/Attila_the_Huna"
               >阿提拉戰役</nuxt-link
             >的第四關劇情關卡。
           </p>
@@ -62,7 +63,8 @@
                 玩家2
               </td>
               <td class="tc6">
-                勃根地（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
+                勃根地（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+                >/<nuxt-link to="/civs/Burgundians">勃根地</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p2"></div>
@@ -174,13 +176,28 @@
               >，能夠隨時迎擊敵人。
             </li>
           </ul>
+          <h2>決定版變更點</h2>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                西羅馬軍隊刪除一開始的日本武士。掃平城鎮後迎擊的軍隊由劍兵勇士和精銳拜占庭聖騎兵改為戰役特有的軍團兵和百夫長
+              </li>
+              <li>
+                (44725更新)：如果有下載西方霸主的DLC，勃根地的文明會轉變成正確的<nuxt-link
+                  to="/civs/Burgundians"
+                  >勃根地</nuxt-link
+                >人。
+              </li>
+            </ul>
+          </div>
           <h2>芝麻小事</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
               <li>
                 <nuxt-link to="/units/hero/Attila_the_Hun">阿提拉</nuxt-link
-                >必須擊敗三個對手勃艮第（紫色），奧爾良（青色）和梅茲（紅色）。可以通過摧毀他們的市中心來威脅勃艮第與你結成聯盟，向他們進貢500黃金，並在10分鐘內建造一座城堡給他們。或者可以不摧毀他們的市中心，等著就好，他們會提出同樣的條件。
+                >必須擊敗三個對手勃艮第（紫色），奧爾良（青色）和梅茲（紅色）。可以通過摧毀他們的市中心來威脅勃艮第與你結成聯盟，向他們進貢500黃金，並在10分鐘內建造一座城堡給他們。或者可以不摧毀他們的市中心，等著就好，過了遊戲時間40分鐘後他們會提出同樣的條件。注意蓋城堡的時限否則會轉回敵對。
               </li>
               <li>
                 一旦奧爾良的<nuxt-link to="/building/Town_Center"
@@ -191,20 +208,17 @@
                 >。
               </li>
               <li>
-                另外，如果玩家在擊敗勃艮第，奧爾良和梅斯之前殺死位於地圖頂部森林後面的西羅馬帝國的佔位單位（一名<nuxt-link
+                在決定版之前，如果玩家在擊敗勃艮第，奧爾良和梅斯之前殺死位於地圖頂部森林後面的西羅馬帝國的佔位單位（一名<nuxt-link
                   to="/units/Samurai"
                   >日本武士</nuxt-link
                 >），西羅馬帝國將被打敗，他們的軍隊仍然會生成，但是因為他們事先已經被“打敗”了，所以你只需要在那些軍隊對你造成重大傷亡前，擊敗最後的<nuxt-link
                   to="/civs/Franks"
                   >法蘭克人</nuxt-link
-                >城鎮。
+                >城鎮。決定版已不適用。
               </li>
               <li>
                 注意：如果<nuxt-link to="/batt">戰役</nuxt-link
-                >在看似擊敗西羅馬軍隊後還沒有完成，就去尋找可能已經逃到城鎮外，在地圖上亂跑的西羅馬流亡單位你需要找到這樣的單位，殺死他們，以徹底擊敗西羅馬軍隊。在大多數情況下，流亡單位可能是一個精英<nuxt-link
-                  to="/units/Cataphract"
-                  >拜占庭聖騎兵</nuxt-link
-                >，只能用斥候或馬弓追殺，因為他傾向於逃跑而不是反擊。
+                >在看似擊敗西羅馬軍隊後還沒有完成，就去尋找可能已經逃到城鎮外，在地圖上亂跑的西羅馬流亡單位你需要找到這樣的單位，殺死他們，以徹底擊敗西羅馬軍隊。
               </li>
             </ul>
           </div>
@@ -215,7 +229,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                蠻族的婚約
+                野蠻人的宴會
               </div>
             </td>
           </tr>
@@ -269,9 +283,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Catalaunian_Fields"
-                >卡塔隆尼亞平原</nuxt-link
-              >
+              <nuxt-link to="/batt/Catalaunian_Fields">沙隆戰役</nuxt-link>
             </td>
           </tr>
         </table>
