@@ -40,7 +40,11 @@
                 <div class="p6"></div>
                 玩家2
               </td>
-              <td class="tc6" width="38%">勃根地（紫色）法蘭克</td>
+              <td class="tc6" width="38%">
+                勃根地（紫色）法蘭克/<nuxt-link to="/civs/Burgundians"
+                  >勃根地</nuxt-link
+                >
+              </td>
               <td class="tc6" width="12%">
                 <div class="p2"></div>
                 玩家3
@@ -506,6 +510,12 @@
           <ul>
             <li>
               人口上限由75改125。裝著法蘭西國旗的馬車不再被視為貿易車隊所以不會顯示閒置村民。攻破勃根地上方的基地後，牆會變玩家的。右下角原本看似被堵死實則有一條路可以攻進勃根地的基地，在決定版已經完全被堵死。
+            </li>
+            <li>
+              (44725更新)：如果有下載西方霸主的DLC，勃根地的文明會轉變成正確的<nuxt-link
+                to="/civs/Burgundians"
+                >勃根地</nuxt-link
+              >人。
             </li>
           </ul>
         </div>
