@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>第一次十字軍東征</b>(簡稱東征)是<nuxt-link to="/civs/Sicilians">西西里</nuxt-link
+            <b>第一次十字軍東征</b>(簡稱東征)是<nuxt-link to="/civs/Sicilians"
+              >西西里</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -24,13 +25,21 @@
         <div class="n1">
           <ul>
             <li>
-              這項科技能快速的獲得大量<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
-              >。建造越多<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-              >，其效果就越好，例如在<nuxt-link to="/maps/Arena">競技場</nuxt-link
-              >上建造4/5個城鎮中心，然後一次性獲得40/50個<nuxt-link to="/units/Serjeant"
-              >薩金特衛兵</nuxt-link
-            >，但這需要花費大量時間和資源。如果與西西里另一個特殊科技<nuxt-link to="/techs/Scutage">兵役免除稅</nuxt-link
-              >一起使用，這項科技帶來的步兵將有助於獲得更多<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              這項科技能快速的獲得大量<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >。建造越多<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >，其效果就越好，例如在<nuxt-link to="/maps/Arena"
+                >競技場</nuxt-link
+              >上建造4/5個城鎮中心，然後一次性獲得40/50個<nuxt-link
+                to="/units/Serjeant"
+                >薩金特衛兵</nuxt-link
+              >，但這需要花費大量時間和資源。如果與西西里另一個特殊科技<nuxt-link
+                to="/techs/Scutage"
+                >兵役免除稅</nuxt-link
+              >一起使用，這項科技帶來的步兵將有助於獲得更多<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
               >。
             </li>
             <li>
@@ -134,11 +143,10 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              所有<nuxt-link to="/building/Town_Center"
-              >城鎮中心</nuxt-link
-            >(最多5座)一次性生產10個<nuxt-link to="/units/Serjeant"
-              >薩金特衛兵</nuxt-link
-            >
+              所有<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >(最多5座)一次性生產10個<nuxt-link to="/units/Serjeant"
+                >薩金特衛兵</nuxt-link
+              >
             </td>
           </tr>
         </table>
