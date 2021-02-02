@@ -225,8 +225,10 @@
                   (<nuxt-link to="/civs/Huns">匈人</nuxt-link>)<br />
                   <nuxt-link to="/techs/Hill_Forts">山城堡</nuxt-link>/
                   <nuxt-link to="/techs/Tower_Shields">塔盾</nuxt-link>
-                  (<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>)
-                  <br />
+                  (<nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link>)<br />
+                  <nuxt-link to="/techs/Burgundian_Vineyards">勃根地葡萄園</nuxt-link>/
+                  <nuxt-link to="/techs/Flemish_Revolution">佛拉芒革命</nuxt-link>
+                  (<nuxt-link to="/civs/Burgundians">勃根地</nuxt-link>)
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link>/
@@ -299,7 +301,10 @@
                   (<nuxt-link to="/civs/Vikings">維京</nuxt-link>)<br />
                   <nuxt-link to="/techs/Steppe_Husbandry">大草原耕種技術</nuxt-link>/
                   <nuxt-link to="/techs/Cuman_Mercenaries">庫曼傭兵</nuxt-link>
-                  (<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>)
+                  (<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>)<br />
+                  <nuxt-link to="/techs/First_Crusade">第一次十字軍東征</nuxt-link>/
+                  <nuxt-link to="/techs/Scutage">軍役免除金</nuxt-link>
+                  (<nuxt-link to="/civs/Sicilians">西西里</nuxt-link>)
                 </div>
               </div>
             </td>
