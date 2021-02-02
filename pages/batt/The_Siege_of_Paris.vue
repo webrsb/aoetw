@@ -69,7 +69,11 @@
               <div class="p6"></div>
               玩家2
             </td>
-            <td class="tc6">勃根地（紫色）法蘭克</td>
+            <td class="tc6">
+              勃根地（紫色）法蘭克/<nuxt-link to="/civs/Burgundians"
+                >勃根地</nuxt-link
+              >
+            </td>
           </tr>
         </table>
 
@@ -254,6 +258,12 @@
           <ul>
             <li>
               和英格蘭的外交關係更改成中立，城中的大地之母軍隊由民兵變成裝甲步兵，並且都有封建時代的科技。國王的手下在樹林隱藏的民兵也沒了，但支援完玩家後仍不會被擊敗。
+            </li>
+            <li>
+              (44725更新)：如果有下載西方霸主的DLC，勃根地的文明會轉變成正確的<nuxt-link
+                to="/civs/Burgundians"
+                >勃根地</nuxt-link
+              >人。
             </li>
           </ul>
         </div>
