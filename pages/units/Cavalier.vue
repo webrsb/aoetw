@@ -56,7 +56,11 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
-              <nuxt-link to="/civs/Viking">維京</nuxt-link>。
+              <nuxt-link to="/civs/Viking">維京</nuxt-link>、
+              <nuxt-link to="/civs/Burgundians">勃根地</nuxt-link>、<nuxt-link
+                to="/civs/Sicilians"
+                >西西里</nuxt-link
+              >。
             </div>
           </div>
         </div>
@@ -82,11 +86,18 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          重裝騎士在帝王時代比<nuxt-link to="/techs/age/Castle_Age"
-            >城堡時代</nuxt-link
-          >擁有更多的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
-          >與<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-          >。在團戰時，可以做為主要的坦與輸出。
+          <p>
+            重裝騎士在帝王時代比<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >擁有更多的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >與<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >。在團戰時，可以做為主要的坦與輸出。
+          </p>
+          <p>
+            西方霸主DLC的新增文明中，<nuxt-link to="/civs/Burgundians"
+              >勃根地</nuxt-link
+            >有可以在城堡時代升級為重裝騎士的優勢且研發馬廄科技花費-50%，和同時代科技點滿的城堡騎士相比，除了有額外多2攻擊力的優勢以外，帝王初期也能立刻以更便宜的成本升級成遊俠；相對地為了平衡使勃根地缺少品種科技。
+          </p>
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -703,6 +714,14 @@
                 >徵兵技術</nuxt-link
               >免費。
             </li>
+            <li>
+              <nuxt-link to="/civs/Burgundians">勃根地</nuxt-link
+              >：馬廄科技便宜50，城堡時代即可研發重裝騎士。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Sicilians">西西里</nuxt-link
+              >：陸上單位遭受有額外傷害加成的單位攻擊時，其額外傷害-50%。
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -789,6 +808,13 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：馬廄單位於帝王時代近戰防禦+1(城堡帝王各+1共+2)。
             </li>
+            <li>
+              (44725更新) 引入西方霸主DLC的新增文明<nuxt-link
+                to="/civs/Burgundians"
+                >勃根地</nuxt-link
+              >和<nuxt-link to="/civs/Sicilians">西西里</nuxt-link
+              >及其文明特性。
+            </li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -849,7 +875,12 @@
                 src="~assets/imperial_age.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              ><br />
+              <img class="gg" src="~assets/castle_age.png" alt="" /><nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >（<nuxt-link to="/civs/Burgundians">勃根地</nuxt-link>限定）
             </td>
           </tr>
           <tr>
