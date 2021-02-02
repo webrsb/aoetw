@@ -294,7 +294,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link>
+              <nuxt-link to="/batt/A_Barbarian_Betrothal">野蠻人的宴會</nuxt-link>
             </td>
           </tr>
         </table>

@@ -332,7 +332,7 @@
           >:君士坦丁堡、菲利普堡
         </li>
         <li>
-          <nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link
+          <nuxt-link to="/batt/A_Barbarian_Betrothal">野蠻人的宴會</nuxt-link
           >:西羅馬帝國
         </li>
         <li>

@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>野蠻人的宴會</b>（舊譯：蠻族的婚約）為<nuxt-link to="/batt/Attila_the_Huna"
+            <b>野蠻人的宴會</b>（舊譯：蠻族的婚約）為<nuxt-link
+              to="/batt/Attila_the_Huna"
               >阿提拉戰役</nuxt-link
             >的第四關劇情關卡。
           </p>
@@ -62,7 +63,8 @@
                 玩家2
               </td>
               <td class="tc6">
-                勃根地（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>/勃根地
+                勃根地（紫色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+                >/<nuxt-link to="/civs/Burgundians">勃根地</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p2"></div>
@@ -174,18 +176,21 @@
               >，能夠隨時迎擊敵人。
             </li>
           </ul>
-                  <h2>決定版變更點</h2>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>西羅馬軍隊刪除一開始的日本武士。掃平城鎮後迎擊的軍隊由劍兵勇士和精銳拜占庭聖騎兵改為戰役特有的軍團兵和百夫長
-              
-            </li>
-            <li>更新#44725：如果有下載西方霸主的DLC，勃根地的文明會轉變成正確的勃根地人。
-              
-            </li>
-          </ul>
-                  </div>
+          <h2>決定版變更點</h2>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                西羅馬軍隊刪除一開始的日本武士。掃平城鎮後迎擊的軍隊由劍兵勇士和精銳拜占庭聖騎兵改為戰役特有的軍團兵和百夫長
+              </li>
+              <li>
+                (44725更新)：如果有下載西方霸主的DLC，勃根地的文明會轉變成正確的<nuxt-link
+                  to="/civs/Burgundians"
+                  >勃根地</nuxt-link
+                >人。
+              </li>
+            </ul>
+          </div>
           <h2>芝麻小事</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -278,9 +283,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Catalaunian_Fields"
-                >沙隆戰役</nuxt-link
-              >
+              <nuxt-link to="/batt/Catalaunian_Fields">沙隆戰役</nuxt-link>
             </td>
           </tr>
         </table>

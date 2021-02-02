@@ -120,7 +120,7 @@
               <nuxt-link to="/batt/Walls_of_Constantinople"
                 >君士坦丁堡的城牆</nuxt-link
               >•
-              <nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link
+              <nuxt-link to="/batt/A_Barbarian_Betrothal">野蠻人的宴會</nuxt-link
               >•
               <nuxt-link to="/batt/Catalaunian_Fields">卡塔隆尼亞平原</nuxt-link
               >•
