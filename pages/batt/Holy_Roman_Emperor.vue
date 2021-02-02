@@ -107,7 +107,7 @@
               <div class="p6"></div>
               <strong
                 >勃根地（<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-                >）</strong
+                >/勃根地）</strong
               >：勃艮第是地圖上較弱的對手之一，他們對玩家不構成威脅但他們的<nuxt-link
                 to="/building/Watch_Tower"
                 >箭塔</nuxt-link
@@ -310,6 +310,9 @@
           <li>
             成就「條頓狂暴」：以全滅敵人的方式過關（庫曼勢力需存活）。
           </li>
+                      <li>
+              更新#44725：如果有下載西方霸主的DLC，勃根地的文明會轉變成正確的勃根地人。
+            </li>
         </ul>
       </div>
       <h2>攻略</h2>
