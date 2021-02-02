@@ -453,7 +453,7 @@
             <gallery
               ><img
                 class="imgn hg"
-                src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o9_400.png"
+                src="~assets/serjeants.png"
                 alt=""
             /></gallery>
             <p><em>一群薩金特衛兵</em></p>
@@ -517,7 +517,7 @@
                 >城堡</nuxt-link
               ><br /><img
                 class="gg"
-                src="~assets/Donjonicon.png"
+                src="~assets/Aoe2-icon-serjeant.png"
                 width="45"
                 alt=""
               /><nuxt-link to="/building/Donjon">城樓</nuxt-link>
@@ -619,7 +619,7 @@
             <td class="unit4">
               <img
                 class="gg"
-                src="~assets/ShotelIcon.png"
+                src="~assets/Aoe2-icon-serjeant.png"
                 alt=""
               />精銳薩金特衛兵
             </td>
