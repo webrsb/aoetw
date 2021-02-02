@@ -38,7 +38,7 @@
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
-              勃根地（DLC）。
+              <nuxt-link to="/civs/Burgundians">勃根地</nuxt-link>。
             </div>
           </div>
         </div>
@@ -76,7 +76,7 @@
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
               <nuxt-link to="/civs/Viking">維京</nuxt-link>、
-              西西里（DLC）。
+              <nuxt-link to="/civs/Sicilians">西西里</nuxt-link>。
             </div>
           </div>
         </div>
@@ -675,7 +675,10 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：遊俠近戰防禦+2。
             </li>
             <li>
-              勃根地（DLC）：馬廄科技便宜50%，城堡時代即可升級為重裝騎士。
+              <nuxt-link to="/civs/Burgundians">勃根地</nuxt-link>：<nuxt-link
+                to="/building/Stable"
+                >馬廄</nuxt-link
+              >科技便宜50%，城堡時代即可升級為重裝騎士。
             </li>
           </ul>
         </div>
@@ -821,7 +824,8 @@
               >。緊跟在後的是拜占庭遊俠，缺乏品種與<nuxt-link
                 to="/techs/Blast_Furnace"
                 >鼓風爐</nuxt-link
-              >；勃根地有研發科技便宜50%的優勢且在城堡時代就能研發重裝騎士，因此帝初就可以用遊俠先行壓制對方一波，但為了平衡而缺少品種，因此後期對面其他科技全滿的遊俠國時劣勢就顯現出來；其他有遊俠的文明則有科技全滿的遊俠。而各文明的遊俠單挑時，加滿4攻擊的立陶宛完勝法蘭克和條頓，而條頓和法蘭克的遊俠單挑時條頓因為多2近防的關係補足生命值的差距，近而可以擊敗法蘭克遊俠。
+              >；<nuxt-link to="/civs/Burgundians">勃根地</nuxt-link
+              >有研發科技便宜50%的優勢且在城堡時代就能研發重裝騎士，因此帝王初期就可以用遊俠先行壓制對方一波，但為了平衡而缺少品種，因此後期對面其他科技全滿的遊俠國時劣勢就顯現出來；其他有遊俠的文明則有科技全滿的遊俠。而各文明的遊俠單挑時，加滿4攻擊的立陶宛完勝法蘭克和條頓，而條頓和法蘭克的遊俠單挑時條頓因為多2近防的關係補足生命值的差距，近而可以擊敗法蘭克遊俠。
             </li>
           </ul>
         </div>
