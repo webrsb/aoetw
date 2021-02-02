@@ -87,7 +87,11 @@
                 <div class="p6"></div>
                 玩家2
               </td>
-              <td class="tc6">勃根地（紫色）法蘭克/勃根地</td>
+              <td class="tc6">
+                勃根地（紫色）法蘭克/<nuxt-link to="/civs/Burgundians"
+                  >勃根地</nuxt-link
+                >
+              </td>
               <td class="tc6">
                 <div class="p2"></div>
                 玩家3
@@ -223,8 +227,11 @@
         <div class="n1">
           <ul>
             <li>人口上限由75改為125。</li>
-                        <li>
-              更新#44725：如果有下載西方霸主的DLC，勃根地的文明會轉變成正確的勃根地人。
+            <li>
+              (44725更新)：如果有下載西方霸主的DLC，<nuxt-link
+                to="/civs/Burgundians"
+                >勃根地</nuxt-link
+              >的文明會轉變成正確的勃根地人。
             </li>
           </ul>
         </div>
