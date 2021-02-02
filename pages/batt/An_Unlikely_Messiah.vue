@@ -82,7 +82,11 @@
                 <div class="p6"></div>
                 玩家2
               </td>
-              <td class="tc6">勃根地（紫色）法蘭克</td>
+              <td class="tc6">
+                勃根地（紫色）法蘭克/<nuxt-link to="/civs/Burgundians"
+                  >勃根地</nuxt-link
+                >
+              </td>
               <td class="tc6">
                 <div class="p3"></div>
                 玩家3
@@ -188,6 +192,9 @@
           <ul>
             <li>
               移除了隱藏在樹木裡的英軍的劍兵勇士。而勝敗機制有改，即使地圖上沒有勃根地和英格蘭人的軍隊和軍事建築也不會使他們被擊敗。
+            </li>
+            <li>
+              (44725更新)：如果有下載西方霸主的DLC，勃根地的文明會轉變成正確的勃根地人。
             </li>
           </ul>
         </div>
