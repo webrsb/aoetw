@@ -975,6 +975,38 @@
                       alt=""
                     /><nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>
                   </div>
+                  <div class="game_title">
+                    <nuxt-link to="/games/delw"
+                      ><img
+                        src="~assets/deicon.png"
+                        style="margin-right:5px"
+                      />西方霸主</nuxt-link
+                    >
+                  </div>
+                  <hr />
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Aoe2-icon-coustillier.png"
+                      alt=""
+                    /><nuxt-link to="/units/Coustillier">馬上輕裝兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Aoe2-icon-flemish-militia.png"
+                      alt=""
+                    /><nuxt-link to="/units/Flemish_Militia"
+                      >佛拉芒民兵</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Aoe2-icon-serjeant.png"
+                      alt=""
+                    /><nuxt-link to="/units/Serjeant">薩金特衛兵</nuxt-link>
+                  </div>
                 </b-card>
               </b-collapse>
             </td>
