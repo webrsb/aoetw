@@ -474,7 +474,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ShotelIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/Aoe2-icon-serjeant.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>
@@ -517,7 +517,7 @@
                 >城堡</nuxt-link
               ><br /><img
                 class="gg"
-                src="~assets/Aoe2-icon-serjeant.png"
+                src="~assets/Kreposticon.png"
                 width="45"
                 alt=""
               /><nuxt-link to="/building/Donjon">城樓</nuxt-link>
