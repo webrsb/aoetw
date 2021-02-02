@@ -82,7 +82,11 @@
                 <div class="p6"></div>
                 玩家2
               </td>
-              <td class="tc6">勃根地（紫色）法蘭克/勃根地</td>
+              <td class="tc6">
+                勃根地（紫色）法蘭克/<nuxt-link to="/civs/Burgundians"
+                  >勃根地</nuxt-link
+                >
+              </td>
               <td class="tc6">
                 <div class="p3"></div>
                 玩家3
