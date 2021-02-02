@@ -76,10 +76,13 @@
               <br />
               <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link>•
               <nuxt-link to="/units/Heavy_Camel_Rider">重裝駱駝騎兵</nuxt-link>•
-              <nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link>
+              <nuxt-link to="/units/Imperial_Camel_Rider"
+                >帝王駱駝騎兵</nuxt-link
+              >
               <br />
               <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>•
-              <nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link><br />
+              <nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link
+              ><br />
               <nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>
             </td>
           </tr>
@@ -141,7 +144,8 @@
               <div class="row">
                 <div class="col-md-4">
                   <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link><br />
-                  <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link><br />
+                  <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+                  ><br />
                   <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link><br />
                   <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link><br />
                   <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link>
@@ -161,6 +165,8 @@
                   <nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>
                   <br />
                   <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
+                  <br />
+                  <nuxt-link to="/units/Flemish_Militia">佛拉芒民兵</nuxt-link>
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link><br />
@@ -169,19 +175,22 @@
                   <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link><br />
                   <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                   ><br />
-                  <nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link><br />
+                  <nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
+                  ><br />
                   <nuxt-link to="/units/Missionary">傳教士</nuxt-link><br />
                   <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link><br />
                   <nuxt-link to="/units/Slinger">投石手</nuxt-link><br />
                   <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
                   ><br />
-                  <nuxt-link to="/units/Imperial_Camel_Rider">帝王駱駝騎兵</nuxt-link
+                  <nuxt-link to="/units/Imperial_Camel_Rider"
+                    >帝王駱駝騎兵</nuxt-link
                   ><br />
                   <nuxt-link to="/units/Genoese_Crossbowman"
                     >熱那亞弩手</nuxt-link
                   ><br />
                   <nuxt-link to="/units/Keshik">怯薛</nuxt-link><br />
-                  <nuxt-link to="/units/Leitis">烈堤司</nuxt-link>
+                  <nuxt-link to="/units/Leitis">烈堤司</nuxt-link><br />
+                  <nuxt-link to="/units/Serjeant">薩金特衛兵</nuxt-link>
                 </div>
                 <div class="col-md-4">
                   <nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link
@@ -202,7 +211,10 @@
                   <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
                   ><br />
                   <nuxt-link to="/units/Kipchak">欽察</nuxt-link><br />
-                  <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link><br />
+                  <nuxt-link to="/units/Coustillier">馬上輕裝兵</nuxt-link
+                  ><br />
+                  <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link
+                  ><br />
                   <nuxt-link to="/units/Imperial_Skirmisher"
                     >帝王戰矛兵</nuxt-link
                   >
