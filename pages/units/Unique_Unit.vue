@@ -619,7 +619,7 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>
             </td>
-            <td class="tunitc6">死亡後會變成步兵繼續作戰的的騎兵單位。</td>
+            <td class="tunitc6">死亡後會變成步兵繼續作戰的的騎兵單位，能透過城堡或營壘訓練。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -678,6 +678,39 @@
           </tr>
         </table>
 
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="tunitcc" style="width: 15%;">兵種</td>
+            <td class="tunitcc" style="width: 15%;">文明</td>
+            <td class="tunitcc" style="width: 70%;">概要</td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              <h3>
+                <em>西方霸主</em>
+              </h3>
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              馬上輕裝兵
+            </td>
+            <td class="tunitc4">
+              勃根地
+            </td>
+            <td class="tunitc6">每隔一段時間會提高帳面攻擊力，瞬間對單位造成大量傷害的騎兵，對建築無效。</td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              薩金特衛兵
+            </td>
+            <td class="tunitc4">
+              西西里
+            </td>
+            <td class="tunitc6">可以建造城樓的重裝步兵單位，能透過城堡或城樓訓練。</td>
+          </tr>
+        </table>
+        <br />
         <div class="row">
           <div class="col-md-12">
             <h3>非城堡</h3>
@@ -794,8 +827,17 @@
                 </td>
                 <td class="tunitc6">碼頭生產，攻擊具有貫穿功能的戰船。</td>
               </tr>
-            </table>
 
+              <tr>
+                <td class="tunitc6">
+                  佛萊明民兵</td>
+                <td class="tunitc4">
+                  勃根地
+                </td>
+                <td class="tunitc6">城鎮中心訓練或由村民轉變，擅長攻擊騎兵單位的重步兵。需先研發佛萊明革命才能訓練。</td>
+              </tr>
+            </table>
+        <br />
             <div class="row">
               <div class="col-md-12">
                 <h3>文明共享</h3>
