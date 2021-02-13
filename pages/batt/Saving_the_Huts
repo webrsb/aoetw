@@ -1,0 +1,217 @@
+<template>
+  <div class="container">
+    <div class="row padtop">
+      <div class="col-md-12">
+        <h1>拯救棚屋</h1>
+        <div class="hrn1"></div>
+      </div>
+      <div class="col-md-8">
+        <div class="n1">
+          <p>
+            拯救棚屋是可泰安汗戰役的第三關。西方帶來消息說匈牙利願意接納庫曼人，但在這之前得先拯救更多的族人同胞。
+          </p>
+        </div>
+        <h2>玩家</h2>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>基本資訊</h3>
+          <table class="table-bordered" width="100%">
+            <tr>
+              <td class="tc1" width="14%">起始時代：</td>
+              <td class="tc2" width="15%">
+                封建時代
+              </td>
+              <td class="tc1" width="14%">起始資源：</td>
+              <td class="tc2">
+                700木材／900食物／600黃金／250石頭（標準）<br>
+                200木材／400食物／100黃金／0石頭（其他）<br>
+              </td>
+              <td class="tc1" width="14%">人口上限：</td>
+              <td class="tc2" width="5%">150</td>
+            </tr>
+          </table>
+
+           <h3>AI</h3>
+          <table class="table-bordered" width="100%">
+            <tr>
+              <td class="tc4" colspan="4" style="background: #2980b9;">
+                玩家本身
+              </td>
+            </tr>
+            <tr>
+              <td class="tc6" width="14%">
+                <div class="p2"></div>
+                玩家1
+              </td>
+              <td class="tc6" colspan="6">
+                庫曼人（綠色）
+              </td>
+            </tr>
+
+            <tr>
+              <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
+            </tr>
+            <tr>
+              <td class="tc6" width="14%">
+                <div class="p5"></div>
+                玩家2
+              </td>
+              <td class="tc6">吉艮汗（青色）庫曼人</td>
+              <td class="tc6" width="14%">
+                <div class="p7"></div>
+                玩家3
+              </td>
+              <td class="tc6">庫曼部落（灰色）庫曼人</td>
+            </tr>
+<tr>
+              <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
+            </tr>
+           <tr>
+              <td class="tc6" width="14%">
+                <div class="p1"></div>
+                玩家5
+              </td>
+              <td class="tc6">匈牙利人（藍色）馬扎爾人</td>
+            </tr>
+            <tr>
+              <td col class="tc4" colspan="4" style="background:#ea6153;">
+                敵對
+              </td>
+            </tr>
+            <tr>
+              <td class="tc6" width="14%">
+                <div class="p4"></div>
+                玩家4
+              </td>
+              <td class="tc6">韃靼人（黃色）韃靼人</td>
+              <td class="tc6" width="14%">
+                <div class="p8"></div>
+                玩家6
+              </td>
+              <td colspan="3" class="tc6">蒙古人（橙色）蒙古人</td>
+            </tr>
+          <tr>
+              <td class="tc6" width="14%">
+                <div class="p8"></div>
+                玩家7
+              </td>
+            <td colspan="3" class="tc6">速不台（橙色）蒙古人</td>
+            </tr>
+          </table>
+
+          <br />
+          <dl class="dl-horizontal">
+            <dt> 開場：</dt>
+            <dd>
+             可泰安汗、欽察x7、輕騎兵x1、草原騎兵x3
+            </dd>
+          </dl>
+          <h3>任務</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+           <ul>
+              <li>可泰安汗必須活著。</li>
+		<li>速不台在追殺您。尋求摩爾達維亞當地庫曼人的支持。</li>
+		<li>穿過隘口，控制庫曼村莊，並做好戰鬥到最後一刻的準備。</li>
+             <li>盡可能為您的村莊抵禦韃靼掠奪者的進攻。</li>
+		<li>解放目前被蒙古人和韃靼人佔領的所有庫曼部落，幫助您的人民逃離至匈牙利。</li>
+		<li>派可泰安前往匈牙利的世界奇觀。</li>
+            </ul>
+          </div>
+          <h3>提示</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+
+           <ul>
+              <li>庫曼人只能在城堡時代發展，人口上限為150。他們還無法修建石牆。</li>
+		<li>您的資源不足以和蒙古人及韃靼正面對抗。因此要仔細考慮戰鬥時機，有時候避開衝突是更好的選擇。</li>
+		<li>初期有可能擊退蒙古主力，但他們的補給到達本區域後，您的能力就不足以和他們長期對抗了。應當把焦點轉移到保障您手下的生命上。</li>
+		<li>一開始，韃靼騎兵能夠對可泰安和他的軍隊構成相當的威脅。然而在兵工廠和其他軍事建築升級後，您的軍隊在與這些韃靼掠奪者對陣時就會輕鬆許多。</li>
+                </ul>
+ 
+          </div>
+          <h3>斥候</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>可泰安(1，綠色)已率領一小隊騎兵抵達摩爾達維亞。這個區域是吉艮汗(2，青色)帶領的庫曼部落的家園。</li>
+              <li>韃靼掠奪者(4，黃色)分佈各處，走到哪裡就搶到哪裡。他們的馬騎弓兵、輕騎兵和可怕的怯薛機動性極強。</li>
+              <li>同時，蒙古人(6，橙色)為了穩固自己在這邊的勢力，正在逐一佔領外圍村莊。為了摧毀所有抵抗的力量，他們會訓練馬騎弓兵、輕騎兵和攻城單位。這些都是為了迎接速不台帶領的蒙古主力的到來。他將會帶來蒙古最精銳的兵種：匈牙利輕騎兵、蒙古突騎和進階攻城裝備。</li>
+            </ul>
+          </div>
+          <h3>攻略</h3>
+          <div class="hrn1"></div>
+           <ul>
+              <li>開場要先到達指定地點，沿途清除掉路上的敵人後，到達時會看到韃靼人正在攻擊青色，合力解決後去見吉艮汗。到北部的村莊發展，並在東北蓋第二個城鎮中心。發展途中盟友會戰敗，隨後會送玩家一些資源。利用這些資源升上城堡時代。</li>
+		<li>上城堡後，匈牙利會要可泰安汗去見他，同時通知速不台再過40分鐘後會來到。在去匈牙利之前必須解放五個營地。由於敵人幾乎都是騎兵系，因此配兵以駱駝騎兵加上馬騎弓兵（或是欽察）為主，就能輕鬆地陸續掃蕩五個營地的敵人，只要營地內沒有蒙古人或韃靼人（含箭塔）就解放成功。</li>
+             <li>最後在到達匈牙利前有個韃靼人的關卡，上方有條小路可以繞過去，解決或拖住防守的敵軍後，讓可泰安抵達匈牙利的世界奇觀即過關。</li>
+             <li>高難度之下蒙古人和韃靼人會定期進攻，如果可能則利用市集交易盡快在城鎮中心附近蓋一座城堡，否則敲鐘後用可泰安汗將兵引到初始的城鎮中心迎戰。</li>
+            </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">拯救棚屋</div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              （地圖待補）
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">戰役資訊</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">版本</td>
+            <td class="unit4">
+              決定版
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">戰役</td>
+            <td class="unit4">
+              最後的可汗
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">文明</td>
+            <td class="unit4">
+              庫曼
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">戰役關卡編號</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">章節</td>
+            <td class="unit4">
+              可泰安汗第三章
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">上一關</td>
+            <td class="unit4">卡爾卡河戰役</td>
+          </tr>
+          <tr>
+            <td class="unit3">下一關</td>
+            <td class="unit4">血債血償</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</template>
+<script>
+export default {
+  layout: 'allbatt',
+  components: {}
+}
+</script>
+<style></style>
