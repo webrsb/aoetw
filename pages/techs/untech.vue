@@ -23,8 +23,8 @@
         <table class="table-bordered table-striped" width="100%">
           <tr>
             <td class="tunitcc" style="width: 15%;">文明</td>
-            <td class="tunitcc" style="width: 10%;">特殊科技</td>
-            <td class="tunitcc" style="width: 15%;">花費</td>
+            <td class="tunitcc" style="width: 15%;">特殊科技</td>
+            <td class="tunitcc" style="width: 12%;">花費</td>
             <td class="tunitcc">影響</td>
           </tr>
           <tr>
@@ -350,16 +350,11 @@
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>
+              胡爾切擲矛兵
             </td>
             <td class="tunitc5">300F 300G</td>
             <td class="tunitc6">
-              <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-              ><nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
-              >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >和<nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石頭建築</nuxt-link
-              >攻擊+6。
+              可以讓矛兵系攻擊時投擲第二根長矛。
             </td>
           </tr>
           <tr>
@@ -464,7 +459,7 @@
             <td class="tunitc4">
               <nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link>
             </td>
-            <td class="tunitc5">400W 350G。</td>
+            <td class="tunitc5">400W 350G</td>
             <td class="tunitc6">
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >近戰護甲+4。
@@ -586,6 +581,30 @@
               ><nuxt-link to="/armor">遠程護甲</nuxt-link>及近戰護甲+1。
             </td>
           </tr>
+          <tr>
+            <td class="tunitc6">
+              <img src="~assets/unique_tech.png" class="gg" alt="" />勃根地
+            </td>
+            <td class="tunitc4">
+              勃根地葡萄園
+            </td>
+            <td class="tunitc5">400F 300G</td>
+            <td class="tunitc6">
+              將所有食物以2:1換成黃金，並讓農夫生產食物的同時也能緩慢地生產黃金。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img src="~assets/unique_tech.png" class="gg" alt="" />西西里
+            </td>
+            <td class="tunitc4">
+              第一次十字軍東征
+            </td>
+            <td class="tunitc5">300F 600G</td>
+            <td class="tunitc6">
+              會有7個薩金特衛兵出現在每個城鎮中心（最多五個），僅限一次。
+            </td>
+          </tr>
         </table>
 
         <h3>帝王時代</h3>
@@ -593,8 +612,8 @@
         <table class="table-bordered table-striped" width="100%">
           <tr>
             <td class="tunitcc" style="width: 15%;">文明</td>
-            <td class="tunitcc" style="width: 10%;">特殊科技</td>
-            <td class="tunitcc" style="width: 15%;">花費</td>
+            <td class="tunitcc" style="width: 15%;">特殊科技</td>
+            <td class="tunitcc" style="width: 12%;">花費</td>
             <td class="tunitcc">影響</td>
           </tr>
           <tr>
@@ -1013,10 +1032,10 @@
             <td class="tunitc4">
               <nuxt-link to="/techs/Zealotry">狂熱</nuxt-link>
             </td>
-            <td class="tunitc5">750F 700G</td>
+            <td class="tunitc5">500F 450G</td>
             <td class="tunitc6">
               <nuxt-link to="/units/Camel_Rider">駱駝騎兵</nuxt-link
-              >和<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>+30
+              >和<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>+20
               HP。
             </td>
           </tr>
@@ -1184,6 +1203,37 @@
             <td class="tunitc6">
               <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>+2射程、可啟用
               <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
+            </td>
+          <tr>
+            <td class="tunitc6">
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              />勃根地
+            </td>
+            <td class="tunitc4">
+              佛萊明革命
+            </td>
+            <td class="tunitc5">800F 450G</td>
+            <td class="tunitc6">
+              將所有村民轉化為佛萊明民兵，並可在城鎮中心訓練佛萊明民兵。
+            </td>
+          </tr>
+          <tr>
+            <td class="tunitc6">
+              <img
+                src="~assets/unique_tech_imperial.png"
+                class="gg"
+                alt=""
+              />西西里
+            </td>
+            <td class="tunitc4">
+              兵役免除稅
+            </td>
+            <td class="tunitc5">500F 400G</td>
+            <td class="tunitc6">
+              自己和同盟各依照各自擁有的軍事單位數，每擁有一個軍事單位可獲得15黃金。
             </td>
           </tr>
         </table>
