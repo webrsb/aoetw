@@ -23,13 +23,14 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                500木材/500食物/250黃金/250石料
+                500木材/500食物/250黃金/250石料［註］
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">300</td>
             </tr>
           </table>
-
+          註：標準難度下，木材和食物各加1000，黃金和石料各加500<br />
+          <br />
 
           <h3>AI</h3>
           <table class="table-bordered" width="100%">
