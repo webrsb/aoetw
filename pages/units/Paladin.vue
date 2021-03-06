@@ -97,7 +97,7 @@
             to="/civs/Teutons"
             >條頓</nuxt-link
           >的遊俠則是缺跑速，但<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
-          >和攻防都有滿且有額外多2的近防；而<nuxt-link to="/civs/Byzantines"
+          >和攻防都有滿且有額外多2的近防；庫曼雖然沒有耕種技術但文明有跑速加成故速度是最快的；勃根地因為城堡時代就可以升到重裝騎士且研發科技便宜50%因此一上帝王很快就可以級遊俠，但為了平衡性而相對的沒有品種科技因此少了20生命點數；而<nuxt-link to="/civs/Byzantines"
             >拜占庭</nuxt-link
           >與塞爾特遊俠則是重看不重用。
         </div>
@@ -129,10 +129,8 @@
               <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >、<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
-                to="/units/Berserk"
-                >狂戰士</nuxt-link
-              >、<nuxt-link to="/units/Genoese_Crossbowman"
+              >、<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>
+               、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
@@ -815,9 +813,9 @@
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、<nuxt-link
                 to="/civs/Teutons"
                 >條頓</nuxt-link
-              >、以及收齊聖物的<nuxt-link to="/civs/Lithuanians"
+              >、庫曼、以及收齊聖物的<nuxt-link to="/civs/Lithuanians"
                 >立陶宛</nuxt-link
-              >的遊俠有額外加成，法蘭克多了12hp（雖然缺品種但文明本身有加成）、條頓擁有額外2近防（美中不足的是缺耕種技術）、立陶宛根據持有的聖物最多額外多4攻；而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
+              >的遊俠有額外加成，法蘭克多了12HP（雖然缺品種但文明本身有加成）、條頓擁有額外2近防（美中不足的是缺耕種技術）、庫曼缺耕種技術但因為文明加成所以跑速多5%故擁有速度最快的遊俠、立陶宛根據持有的聖物最多額外多4攻；而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與<nuxt-link to="/techs/Plate_Barding_Armor">鐵鎧甲</nuxt-link
@@ -825,7 +823,11 @@
                 to="/techs/Blast_Furnace"
                 >鼓風爐</nuxt-link
               >；<nuxt-link to="/civs/Burgundians">勃根地</nuxt-link
-              >有研發科技便宜50%的優勢且在城堡時代就能研發重裝騎士，因此帝王初期就可以用遊俠先行壓制對方一波，但為了平衡而缺少品種，因此後期對面其他科技全滿的遊俠國時劣勢就顯現出來；其他有遊俠的文明則有科技全滿的遊俠。而各文明的遊俠單挑時，加滿4攻擊的立陶宛完勝法蘭克和條頓，而條頓和法蘭克的遊俠單挑時條頓因為多2近防的關係補足生命值的差距，近而可以擊敗法蘭克遊俠。
+              >有研發科技便宜50%的優勢且在城堡時代就能研發重裝騎士，因此帝王初期就可以用遊俠先行壓制對方一波，但為了平衡而缺少品種，因此後期對面其他科技全滿的遊俠國時劣勢就顯現出來；其他有遊俠的文明則有科技全滿的遊俠。
+            </li>
+            <li>各文明的遊俠單挑時，加滿4攻擊的立陶宛完勝法蘭克和條頓，而條頓和法蘭克的遊俠單挑時條頓因為多2近防的關係補足生命值的差距，近而可以擊敗法蘭克遊俠。
+            </li>
+            <li>西班牙是唯一不被官方歸類在騎兵種族中卻擁有完整升級科技遊俠的種族。
             </li>
           </ul>
         </div>
