@@ -1305,7 +1305,7 @@
                   <td class="tunitc5">900F 450G</td>
                   <td class="tunitc6">
                     <nuxt-link to="/units/Militia">民兵系</nuxt-link
-              >近程護甲+5。
+                    >近程護甲+5。
                   </td>
                 </tr>
                 <tr>

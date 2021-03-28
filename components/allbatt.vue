@@ -434,10 +434,87 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              最後的可汗
+              <nuxt-link to="/batt/Tamerlane">帖木兒</nuxt-link>
             </td>
             <td class="unit4">
-              待推出
+              <nuxt-link to="/batt/Amir_of_Transoxiana">河中地區的埃米爾</nuxt-link>•
+              <nuxt-link to="/batt/Gurkhan_of_Persia">波斯的菊兒汗</nuxt-link>•
+              <nuxt-link to="/batt/Harbinger_of_Destruction">毀滅的先兆</nuxt-link>•
+              <nuxt-link to="/batt/Sultan_of_Hindustan">印度斯坦的蘇丹</nuxt-link>•
+              <nuxt-link to="/batt/Scourge_of_the_Levant">黎凡特的災禍</nuxt-link>•
+              <nuxt-link to="/batt/A_Titan_Amongst_Mortals">神在人間</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3" style="width: 15%;">
+              <nuxt-link to="/batt/Ivaylo">伊瓦依洛</nuxt-link>
+            </td>
+            <td class="unit4">
+              <nuxt-link to="/batt/A_Most_Unlikely_Man">最不可能的人</nuxt-link>•
+              <nuxt-link to="/batt/An_Unlikely_Alliance">不可能的聯盟</nuxt-link>•
+              <nuxt-link to="/batt/Tsar_of_the_Bulgars">保加利亞沙皇</nuxt-link>•
+              <nuxt-link to="/batt/Echoes_of_Heroes">英雄之亂</nuxt-link>•
+              <nuxt-link to="/batt/Tsar_of_the_Bulgars">獨眼之王</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3" style="width: 15%;">
+              <nuxt-link to="/batt/Kotyan_Khan">可泰安汗</nuxt-link>
+            </td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Raising_the_Banners">戰旗飄揚</nuxt-link>•
+              <nuxt-link to="/batt/The_Battle_at_the_Kalka_River">卡爾卡河戰役</nuxt-link>•
+              <nuxt-link to="/batt/Saving_the_Huts">拯救棚屋</nuxt-link>•
+              <nuxt-link to="/batt/Blood_for_Blood">血債血償</nuxt-link>•
+              <nuxt-link to="/batt/A_New_Home">新的家園</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#3a73c7;">
+              <div class="unititle2">
+                <nuxt-link to="/games/delw"
+                  ><img
+                    src="~assets/deicon.png"
+                    style="margin-right:5px"
+                  />西方霸主</nuxt-link
+                >
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3" style="width: 15%;">
+              <nuxt-link to="/batt/Edward_Longshanks">長腿愛德華</nuxt-link>
+            </td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Vain_Ambition">自負的野心</nuxt-link>•
+              <nuxt-link to="/batt/A_Man_of_God">上帝的子民</nuxt-link>•
+              <nuxt-link to="/batt/Toom_Tabard">空外套</nuxt-link>•
+              <nuxt-link to="/batt/Hammer_of_the_Scots">蘇格蘭之錘</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3" style="width: 15%;">
+              <nuxt-link to="/batt/Tamerlane">大公爵</nuxt-link>
+            </td>
+            <td class="unit4">
+              <nuxt-link to="/batt/A_Kingdom_Divided">王國分裂</nuxt-link>•
+              <nuxt-link to="/batt/The_Wolf_and_the_Lion">狼與獅</nuxt-link>•
+              <nuxt-link to="/batt/The_Cleansing_of_Paris">掃蕩巴黎</nuxt-link>•
+              <nuxt-link to="/batt/Unholy_Marriage">罪惡的婚姻</nuxt-link>•
+              <nuxt-link to="/batt/The_Hook_and_Cod_Wars">鉤子和鱈魚之戰</nuxt-link>•
+              <nuxt-link to="/batt/The_Maid_Falls">聖女隕落</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3" style="width: 15%;">
+              <nuxt-link to="/batt/The_Hautevilles">歐特維爾家族</nuxt-link>
+            </td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Guiscard_Addrives">吉斯卡爾的到來</nuxt-link>•
+              <nuxt-link to="/batt/Roger_in_Sicily">西西里的羅傑</nuxt-link>•
+              <nuxt-link to="/batt/Bohemond_and_the_Emperor">博希蒙德與皇帝</nuxt-link>•
+              <nuxt-link to="/batt/Bohemond_in_the_East">東方的博希蒙德</nuxt-link>•
+              <nuxt-link to="/batt/Wonder_of_the_World">世界奇觀</nuxt-link>
             </td>
           </tr>
         </table>
