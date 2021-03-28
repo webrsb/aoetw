@@ -61,6 +61,9 @@
               >，他們對於她的加成分別是+12，+20，+30(按照升級)。
             </li>
           </ul>
+          <p>
+            在決定版新增的DLC─西方霸主中新增的勃根地戰役最後一關「<nuxt-link to="/batt/The_Maid_Falls">聖女隕落</nuxt-link>」，該戰役玩家的陣營是<nuxt-link to="/civs/Burgundians">勃根地</nuxt-link>，因此聖女貞德和法國軍隊以敵對勢力登場。該戰役可以說是圍攻巴黎一役中，勃根地方面的行動，任務目標就是突破康比涅，並把貞德擊落馬下俘虜。由於勃根地的故事從貞德被處刑前一天開始講起，因此最終也終於貞德之死；隨著觀看者的角度不同，在好人菲利普的眼中，貞德就只是一個昧於政治現實的傻瓜。
+          </p>
         </div>
         <h3>出場戰役</h3>
         <div class="hrn1"></div>
@@ -78,11 +81,7 @@
                 >
               </td>
               <td class="tta2">
-                <span
-                  style="color: green;"
-                  class="glyphicon glyphicon-ok okc"
-                  aria-hidden="true"
-                ></span>
+                可以
               </td>
               <td class="tta3">
                 <div class="p1" style="height: 23px"></div>
@@ -96,11 +95,7 @@
                 >
               </td>
               <td class="tta2">
-                <span
-                  style="color: green;"
-                  class="glyphicon glyphicon-ok okc"
-                  aria-hidden="true"
-                ></span>
+                可以
               </td>
               <td class="tta3">
                 <div class="p1" style="height: 23px"></div>
@@ -112,11 +107,7 @@
                 聖女貞德4-<nuxt-link to="/batt/The_Rising">龍飛鳳起</nuxt-link>
               </td>
               <td class="tta2">
-                <span
-                  style="color: green;"
-                  class="glyphicon glyphicon-ok okc"
-                  aria-hidden="true"
-                ></span>
+                可以
               </td>
               <td class="tta3">
                 <div class="p1" style="height: 23px"></div>
@@ -130,15 +121,23 @@
                 >
               </td>
               <td class="tta2">
-                <span
-                  style="color: green;"
-                  class="glyphicon glyphicon-ok okc"
-                  aria-hidden="true"
-                ></span>
+                可以
               </td>
               <td class="tta3">
                 <div class="p1" style="height: 23px"></div>
                 玩家
+              </td>
+            </tr>
+            <tr>
+              <td class="tta1">
+                大公爵6-<nuxt-link to="/batt/The_Maid_Falls">聖女隕落</nuxt-link>
+              </td>
+              <td class="tta2">
+                不可
+              </td>
+              <td class="tta3">
+                <div class="p1" style="height: 23px"></div>
+                聖女貞德（敵人）
               </td>
             </tr>
           </table>
@@ -432,10 +431,10 @@
             >領導的前鋒軍隊在帕提戰役中取得勝利(遊戲中"羅亞爾河大掃盪"戰役)。一連串的勝利讓查理七世得以在蘭斯登基。(遊戲中"背叛"戰役)
           </p>
           <p>
-            查理七世登基後便開始尋求和解的可能性，然而勃艮地的菲利普公爵利用和解當作障眼法，暗暗增加對巴黎的援軍，而貞德也前往康白尼以抵禦勃艮地軍隊，然而康白尼城膽小怕事，在貞德進入康白尼之前就關上<nuxt-link
+            查理七世登基後便開始尋求和解的可能性，然而勃艮地的菲利普公爵利用和解當作障眼法，暗暗增加對巴黎的援軍，而貞德也前往康比涅以抵禦勃艮地軍隊，然而康比涅城膽小怕事，在貞德進入康比涅之前就關上<nuxt-link
               to="/building/Gate"
               >城門</nuxt-link
-            >，使的貞德與她的小支部隊被俘虜。(遊戲中"圍攻巴黎"戰役)
+            >，使的貞德與她的小支部隊被俘虜。(遊戲中聖女貞德"圍攻巴黎"）、大公爵"聖女殞落"戰役)
           </p>
           <p>
             英國人痛恨貞德，於是安排了不公正的宗教法庭意圖處死貞德，但貞德的供詞與行為毫無瑕疵，使的宗教法庭根本無法定罪。然而，貞德並不識字，所以在英國人要脅立即處死的威嚇下，貞德用她唯一會寫的字，她的名字，簽下了認罪書。並且在5月30號在盧昂的老集市廣場被處以火刑，死前還緊緊握住十字架不放。
