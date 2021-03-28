@@ -40,6 +40,9 @@
               >阿伯哈拉戰象</nuxt-link
             >取代了這個位子。
           </p>
+          <p>
+            在<nuxt-link to="/games/delw">西方霸主</nuxt-link>新增的戰役中，在<nuxt-link to="/batt/Edward_Longshanks">長腿愛德華</nuxt-link>的第五關會以敵人的身份登場，該關的遊戲目標之一就是要將華勒斯擊殺。
+          </p>
         </div>
       </div>
       <div class="col-md-4">
