@@ -172,7 +172,8 @@
               >和一些<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >，而奄蔡人的軍隊主要就由<nuxt-link to="/units/Knight"
                 >騎士</nuxt-link
-              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>組成。
+              >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >組成。
             </li>
           </ul>
           <h2>芝麻小事</h2>
@@ -295,7 +296,9 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Barbarian_Betrothal">野蠻人的宴會</nuxt-link>
+              <nuxt-link to="/batt/A_Barbarian_Betrothal"
+                >野蠻人的宴會</nuxt-link
+              >
             </td>
           </tr>
           <tr>

@@ -291,7 +291,8 @@
             >的<nuxt-link to="/batt/The_Triple_Alliance">三城同盟</nuxt-link
             >關卡和<nuxt-link to="/civs/Huns">匈人</nuxt-link
             ><nuxt-link to="/batt/Attila_the_Huna">阿提拉戰役</nuxt-link
-            >的<nuxt-link to="/batt/A_Barbarian_Betrothal">野蠻人的宴會</nuxt-link
+            >的<nuxt-link to="/batt/A_Barbarian_Betrothal"
+              >野蠻人的宴會</nuxt-link
             >關卡一樣有增援部隊，情況不同的是，在摧毀第一座英格蘭人城堡之前，提早摧毀法斯特爾夫的基地並剷除他們的所有部隊，也不能阻止法斯特爾夫的增援部隊前來。
           </li>
           <li>在整場遊戲期間，法斯特爾夫會一直在嘲諷玩家（即使他被擊敗）。</li>

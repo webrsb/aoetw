@@ -669,8 +669,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：<nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >戟兵科技升級所需食物-50%。
@@ -708,7 +707,8 @@
               >快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>：戟兵木材成本減少20%。
+              <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
+              >：戟兵木材成本減少20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
@@ -758,18 +758,16 @@
               >、的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link
-              >：<nuxt-link
+              <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >科技研發速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：戟兵訓練快20%。研發<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>、<nuxt-link
-                to="/techs/Arson"
-                >縱火</nuxt-link
-              >科技的時間快20%。
+              >：戟兵訓練快20%。研發<nuxt-link to="/techs/Squires"
+                >護衛技術</nuxt-link
+              >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Lithuanians">立陶宛</nuxt-link
@@ -778,7 +776,7 @@
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：戟兵更不容易被招降。
-            </li>         
+            </li>
           </ul>
         </div>
         <h3>更新日誌</h3>

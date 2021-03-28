@@ -451,10 +451,7 @@
         <div class="row">
           <div class="col-md-4">
             <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/serjeants.png"
-                alt=""
+              ><img class="imgn hg" src="~assets/serjeants.png" alt=""
             /></gallery>
             <p><em>一群薩金特衛兵</em></p>
           </div>
@@ -474,7 +471,11 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Aoe2-icon-serjeant.png" class="img-fluid" alt="" />
+                <img
+                  src="~assets/Aoe2-icon-serjeant.png"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
             </td>
           </tr>

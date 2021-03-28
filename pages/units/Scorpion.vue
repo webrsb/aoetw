@@ -550,8 +550,7 @@
             <li>
               (42848更新)
               <nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>:
-              <nuxt-link to="/building/Siege_Workshop"
-                >攻城器製造所</nuxt-link
+              <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
               >科技升級所需食物-50%。
             </li>
             <li>

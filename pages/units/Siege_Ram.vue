@@ -219,8 +219,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂熱</nuxt-link
-              >:<nuxt-link to="/building/Siege_Workshop"
-                >攻城器製造所</nuxt-link
+              >:<nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
               >的單位+40% HP。<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定
             </td>
           </tr>

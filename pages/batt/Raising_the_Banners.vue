@@ -8,7 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>戰旗飄揚</b>是<nuxt-link to="/batt/Kotyan_Khan">可泰安汗戰役</nuxt-link>的第一關。<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>的入侵讓<nuxt-link to="/civs/Cumans">庫曼人</nuxt-link>一敗塗地，此時可泰安汗出面召集庫曼部落來對抗這個入侵者。
+            <b>戰旗飄揚</b>是<nuxt-link to="/batt/Kotyan_Khan"
+              >可泰安汗戰役</nuxt-link
+            >的第一關。<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
+            >的入侵讓<nuxt-link to="/civs/Cumans">庫曼人</nuxt-link
+            >一敗塗地，此時可泰安汗出面召集庫曼部落來對抗這個入侵者。
           </p>
         </div>
         <h2>玩家</h2>
@@ -55,7 +59,9 @@
                 <div class="p2"></div>
                 玩家2
               </td>
-              <td class="tc6">基輔（紅色）<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link></td>
+              <td class="tc6">
+                基輔（紅色）<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>
+              </td>
               <td class="tc6" width="14%">
                 <div class="p1"></div>
                 玩家3
@@ -79,12 +85,16 @@
                 <div class="p4"></div>
                 玩家5
               </td>
-              <td class="tc6">韃靼斥侯（黃色）<nuxt-link to="/civs/Tatars">韃靼人</nuxt-link></td>
+              <td class="tc6">
+                韃靼斥侯（黃色）<nuxt-link to="/civs/Tatars">韃靼人</nuxt-link>
+              </td>
               <td class="tc6" width="14%">
                 <div class="p8"></div>
                 玩家6
               </td>
-              <td colspan="3" class="tc6"><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>斥侯（橙色）蒙古人</td>
+              <td colspan="3" class="tc6">
+                <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>斥侯（橙色）蒙古人
+              </td>
             </tr>
           </table>
 
@@ -92,7 +102,9 @@
           <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
-              可泰安汗、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>x2、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link>x3、<nuxt-link to="/units/Kipchak">欽察</nuxt-link>x3
+              可泰安汗、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >x2、<nuxt-link to="/units/Steppe_Lancer">草原騎兵</nuxt-link
+              >x3、<nuxt-link to="/units/Kipchak">欽察</nuxt-link>x3
             </dd>
           </dl>
           <h3>任務</h3>
@@ -106,8 +118,15 @@
               <li>拜訪基輔羅斯公國和加利西亞沃里尼公國。</li>
               <li>說服基輔和加利西亞沃里尼亞王國對抗蒙古人的戰爭。</li>
               <li>釋放被蒙古人俘虜的羅斯王子。</li>
-              <li>摧毀基輔(2，紅色)北邊的蒙古<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>。</li>
-              <li>摧毀蒙古<nuxt-link to="/building/Castle">城堡</nuxt-link>，把蒙古人趕出該地區。</li>
+              <li>
+                摧毀基輔(2，紅色)北邊的蒙古<nuxt-link to="/building/Watch_Tower"
+                  >箭塔</nuxt-link
+                >。
+              </li>
+              <li>
+                摧毀蒙古<nuxt-link to="/building/Castle">城堡</nuxt-link
+                >，把蒙古人趕出該地區。
+              </li>
             </ul>
           </div>
           <h3>提示</h3>
@@ -115,13 +134,19 @@
           <div class="n1">
             <ul>
               <li>
-                西庫曼部落只會與可泰安對話。不過，您依然可以先派其他<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>探索地圖，找到所有的部落，然後再派可泰安去見他們。這個區域有一些敵對勢力，但都可以輕易避開。
+                西庫曼部落只會與可泰安對話。不過，您依然可以先派其他<nuxt-link
+                  to="/units/Cavalry_Units"
+                  >騎兵</nuxt-link
+                >探索地圖，找到所有的部落，然後再派可泰安去見他們。這個區域有一些敵對勢力，但都可以輕易避開。
               </li>
               <li>
                 蒙古人突如其來的迅速擴張嚴重打擊了庫曼的士氣。如果蒙古斥侯趕在可泰安之前抵達某個部落，該部落就會臣服，並變為你的敵對勢力。
               </li>
               <li>
-                欽察<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>低於大部份騎乘<nuxt-link to="/units/Archer">弓兵</nuxt-link><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>。
+                欽察<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+                >的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+                >低於大部份騎乘<nuxt-link to="/units/Archer">弓兵</nuxt-link
+                ><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>。
               </li>
               <li>
                 直接向蒙古城堡發動進攻大多會失敗。在佔領城堡前，先假裝失敗而撤退，試著把傲慢的蒙古和韃靼守軍引到城堡之外。
@@ -147,13 +172,34 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              首先可泰安汗要去拜訪所有的<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>部落，讓他們加入我軍。先是場搶人大戰，腳步絕對不能停，因為<nuxt-link to="/civs/Tatars">韃靼人</nuxt-link>也會同時出動來搶人，先搶先贏，高難度之下有可能會有幾個部落會被搶。九個部落都搶完了，再去拜訪紅色和藍色。
+              首先可泰安汗要去拜訪所有的<nuxt-link to="/civs/Cumans"
+                >庫曼</nuxt-link
+              >部落，讓他們加入我軍。先是場搶人大戰，腳步絕對不能停，因為<nuxt-link
+                to="/civs/Tatars"
+                >韃靼人</nuxt-link
+              >也會同時出動來搶人，先搶先贏，高難度之下有可能會有幾個部落會被搶。九個部落都搶完了，再去拜訪紅色和藍色。
             </li>
             <li>
-              先拜訪紅色，紅色會拒絕和可泰安汗結盟，再去拜訪藍色，藍色會要可泰安汗救出王子，送他回去後再去拜訪紅色，紅色會要可泰安汗清掉北方的<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>，兩者都是注意一下柵欄後的<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link to="/units/Mangonel">投石車</nuxt-link>，用可泰安汗去坦並攻擊他們。在紅色和藍色中間有個<nuxt-link to="/building/Monastery">修道院</nuxt-link>和<nuxt-link to="/units/Monk">僧侶</nuxt-link>，受傷的部隊可以去那邊醫治。
+              先拜訪紅色，紅色會拒絕和可泰安汗結盟，再去拜訪藍色，藍色會要可泰安汗救出王子，送他回去後再去拜訪紅色，紅色會要可泰安汗清掉北方的<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >，兩者都是注意一下柵欄後的<nuxt-link to="/units/Monk"
+                >僧侶</nuxt-link
+              >和<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >，用可泰安汗去坦並攻擊他們。在紅色和藍色中間有個<nuxt-link
+                to="/building/Monastery"
+                >修道院</nuxt-link
+              >和<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >，受傷的部隊可以去那邊醫治。
             </li>
             <li>
-              當紅色的要求達成後會送可泰安汗12隻<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>和4台<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>，任務目標轉成摧毀蒙古城堡。先將大部份守軍誘出城堡的射程範圍後擊殺，然後確保城寨內都沒兵後再將<nuxt-link to="/units/Battering_Ram">衝車</nuxt-link>派出去把城堡推平就能結束本關。
+              當紅色的要求達成後會送可泰安汗12隻<nuxt-link to="/units/Pikeman"
+                >重裝長槍兵</nuxt-link
+              >和4台<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
+              >，任務目標轉成摧毀蒙古城堡。先將大部份守軍誘出城堡的射程範圍後擊殺，然後確保城寨內都沒兵後再將<nuxt-link
+                to="/units/Battering_Ram"
+                >衝車</nuxt-link
+              >派出去把城堡推平就能結束本關。
             </li>
           </ul>
         </div>
@@ -210,7 +256,11 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4"><nuxt-link to="/batt/The_Battle_at_the_Kalka_River">卡爾卡河戰役</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/batt/The_Battle_at_the_Kalka_River"
+                >卡爾卡河戰役</nuxt-link
+              >
+            </td>
           </tr>
         </table>
       </div>

@@ -519,8 +519,7 @@
             <ul>
               <li>
                 <nuxt-link to="/civs/Cumans">庫曼</nuxt-link
-                >：封建時代即可建造<nuxt-link
-                  to="/building/Siege_Workshop"
+                >：封建時代即可建造<nuxt-link to="/building/Siege_Workshop"
                   >攻城器製造所</nuxt-link
                 >並生產輕型衝撞車。
               </li>

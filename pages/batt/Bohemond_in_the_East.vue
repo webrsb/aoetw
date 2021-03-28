@@ -8,7 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>東方的博希蒙德</b>是<nuxt-link to="/games/delw">西方霸主</nuxt-link>DLC新增的<nuxt-link to="/batt">戰役</nuxt-link>中，<nuxt-link to="/batts/The_Hautevilles">歐特維爾家族</nuxt-link>的第四關。
+            <b>東方的博希蒙德</b>是<nuxt-link to="/games/delw"
+              >西方霸主</nuxt-link
+            >DLC新增的<nuxt-link to="/batt">戰役</nuxt-link>中，<nuxt-link
+              to="/batts/The_Hautevilles"
+              >歐特維爾家族</nuxt-link
+            >的第四關。
           </p>
         </div>
         <h2>玩家</h2>
@@ -23,7 +28,11 @@
               </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">
-                500<nuxt-link to="/resource/Wood">木材</nuxt-link>/500<nuxt-link to="/resource/Food">食物</nuxt-link>/250<nuxt-link to="/resource/Gold">黃金</nuxt-link>/250<nuxt-link to="/resource/Stone">石料</nuxt-link>［註］
+                500<nuxt-link to="/resource/Wood">木材</nuxt-link>/500<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >/250<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >/250<nuxt-link to="/resource/Stone">石料</nuxt-link>［註］
               </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">300</td>
@@ -46,7 +55,8 @@
                 玩家1
               </td>
               <td class="tc6" colspan="3">
-                諾曼人[<nuxt-link to="/civs/Sicilians">西西里人</nuxt-link>]（藍色）
+                諾曼人[<nuxt-link to="/civs/Sicilians">西西里人</nuxt-link
+                >]（藍色）
               </td>
             </tr>
 
@@ -58,7 +68,11 @@
                 <div class="p6"></div>
                 玩家2
               </td>
-              <td class="tc6">安提阿（紫色）<nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link></td>
+              <td class="tc6">
+                安提阿（紫色）<nuxt-link to="/civs/Byzantines"
+                  >拜占庭人</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -69,7 +83,9 @@
                 玩家3
               </td>
               <td class="tc6">
-                阿梅德‧伊本‧馬爾萬（綠色）<nuxt-link to="/civs/Turks">土耳其人</nuxt-link>
+                阿梅德‧伊本‧馬爾萬（綠色）<nuxt-link to="/civs/Turks"
+                  >土耳其人</nuxt-link
+                >
               </td>
             </tr>
             <tr>
@@ -123,7 +139,9 @@
           <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
-              一座大城市、一大匹軍隊、<nuxt-link to="/units/Villager">村民</nuxt-link>x30
+              一座大城市、一大匹軍隊、<nuxt-link to="/units/Villager"
+                >村民</nuxt-link
+              >x30
             </dd>
           </dl>
 
@@ -143,7 +161,10 @@
             <p>次要任務</p>
             <ul>
               <li>打敗阿梅德‧伊本‧馬爾萬的駐軍。</li>
-              <li>研究<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>暫時激勵十字軍。</li>
+              <li>
+                研究<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
+                >暫時激勵十字軍。
+              </li>
             </ul>
           </div>
           <h3>提示</h3>
@@ -151,22 +172,37 @@
           <div class="n1">
             <ul>
               <li>
-                您的人口上限為300人，可以研究<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>和<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>的<nuxt-link to="/techs">科技</nuxt-link>，但無法訓練新的<nuxt-link to="/units/Villager">村民</nuxt-link>。
+                您的人口上限為300人，可以研究<nuxt-link
+                  to="/techs/age/Castle_Age"
+                  >城堡時代</nuxt-link
+                >和<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+                >的<nuxt-link to="/techs">科技</nuxt-link
+                >，但無法訓練新的<nuxt-link to="/units/Villager">村民</nuxt-link
+                >。
               </li>
               <li>
                 敵人的進攻是有節奏的。利用戰鬥間的空檔來重建防守、收集資源，並壯大您的軍隊以抵禦下一次的進攻。
               </li>
               <li>
-                <nuxt-link to="/building/Monastery">修道院</nuxt-link>裡的<nuxt-link to="/Relic">聖物</nuxt-link>是您唯一的<nuxt-link to="/resource/Gold">黃金</nuxt-link>來源。<nuxt-link to="/resource/Stone">石料</nuxt-link>可以在城市內的古代廢墟中找到。
+                <nuxt-link to="/building/Monastery">修道院</nuxt-link
+                >裡的<nuxt-link to="/Relic">聖物</nuxt-link>是您唯一的<nuxt-link
+                  to="/resource/Gold"
+                  >黃金</nuxt-link
+                >來源。<nuxt-link to="/resource/Stone">石料</nuxt-link
+                >可以在城市內的古代廢墟中找到。
               </li>
               <li>
-                隨著圍攻的繼續，可用的資源會變得緊缺。使用<nuxt-link to="/building/Market">市集</nuxt-link>來交易您所需要的資源，不過要知道，通貨膨脹在持久的圍攻戰中是必然的結果。
+                隨著圍攻的繼續，可用的資源會變得緊缺。使用<nuxt-link
+                  to="/building/Market"
+                  >市集</nuxt-link
+                >來交易您所需要的資源，不過要知道，通貨膨脹在持久的圍攻戰中是必然的結果。
               </li>
               <li>
                 攻佔阿梅德‧伊本‧馬爾萬的要塞後，您就可以採集東南山區的資源。
               </li>
               <li>
-                研究<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>和尋獲聖槍可以為您的所有單位提供短暫的一次性增益。務必善加利用。
+                研究<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
+                >和尋獲聖槍可以為您的所有單位提供短暫的一次性增益。務必善加利用。
               </li>
             </ul>
           </div>
@@ -179,15 +215,30 @@
               </li>
 
               <li>
-                對十字軍來說有個壞消息，塞耳柱<nuxt-link to="/civs/Turks">土耳其</nuxt-link>軍閥卡布卡（4，青色）已經率領大軍抵達，意在奪回城市。他兵分多路包圍了城市的<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link>和六處<nuxt-link to="/building/Gate">城門</nuxt-link>。他的軍隊將會以混合部隊的型式發動一波又一波的攻勢。儘管實力堅強，但卡布卡在絕對優勢面前顯得猶豫不決，因為過重的傷亡可能會讓麾下本就各懷鬼胎的多元部隊面臨崩潰。因此他會週期性的掣撤退並重組軍隊，為之後的進攻做準備。
+                對十字軍來說有個壞消息，塞耳柱<nuxt-link to="/civs/Turks"
+                  >土耳其</nuxt-link
+                >軍閥卡布卡（4，青色）已經率領大軍抵達，意在奪回城市。他兵分多路包圍了城市的<nuxt-link
+                  to="/building/Stone_Wall"
+                  >城牆</nuxt-link
+                >和六處<nuxt-link to="/building/Gate">城門</nuxt-link
+                >。他的軍隊將會以混合部隊的型式發動一波又一波的攻勢。儘管實力堅強，但卡布卡在絕對優勢面前顯得猶豫不決，因為過重的傷亡可能會讓麾下本就各懷鬼胎的多元部隊面臨崩潰。因此他會週期性的掣撤退並重組軍隊，為之後的進攻做準備。
               </li>
 
               <li>
-                因為卡布卡在十字軍徹底擊敗駐軍前就已抵達，所以安提安在東邊的要塞仍然由阿梅德‧伊本‧馬爾萬領導的穆斯林駐軍（3，綠色）所控制。這支部隊含有<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>、<nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link>，且有一座<nuxt-link to="/building/Castle">城堡</nuxt-link>保護他們。這些駐軍不會離開他們的防守位置，因此威脅不大，但他們阻擋了前往城市後方山區獲得額外資源的路線。
+                因為卡布卡在十字軍徹底擊敗駐軍前就已抵達，所以安提安在東邊的要塞仍然由阿梅德‧伊本‧馬爾萬領導的穆斯林駐軍（3，綠色）所控制。這支部隊含有<nuxt-link
+                  to="/units/Mameluke"
+                  >阿拉伯奴隸兵</nuxt-link
+                >、<nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link
+                >，且有一座<nuxt-link to="/building/Castle">城堡</nuxt-link
+                >保護他們。這些駐軍不會離開他們的防守位置，因此威脅不大，但他們阻擋了前往城市後方山區獲得額外資源的路線。
               </li>
 
               <li>
-                最後，傳言由<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>皇帝阿歷克塞‧科穆寧所率領的一支援軍正在趕來，估計<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>帝國也在覬覦這座城市。博希蒙德必須在他的老對手抵達之前擊退土耳其人。
+                最後，傳言由<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+                >皇帝阿歷克塞‧科穆寧所率領的一支援軍正在趕來，估計<nuxt-link
+                  to="/civs/Byzantines"
+                  >拜占庭</nuxt-link
+                >帝國也在覬覦這座城市。博希蒙德必須在他的老對手抵達之前擊退土耳其人。
               </li>
             </ul>
           </div>
@@ -195,15 +246,39 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              這場是守城戰，和愛德華戰役2一樣，我方村民能造的<nuxt-link to="/building">建築</nuxt-link>有限。由於城牆科技會自動研發，因此優先研發<nuxt-link to="/building">建築</nuxt-link><nuxt-link to="/elements/Hit_points">生命值</nuxt-link>和弓箭類的科技，兵力以<nuxt-link to="/units/Archer">弓兵</nuxt-link>不夠就補<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>）和<nuxt-link to="/units/Mangonel">投石車</nuxt-link>為主。
+              這場是守城戰，和愛德華戰役2一樣，我方村民能造的<nuxt-link
+                to="/building"
+                >建築</nuxt-link
+              >有限。由於城牆科技會自動研發，因此優先研發<nuxt-link
+                to="/building"
+                >建築</nuxt-link
+              ><nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+              >和弓箭類的科技，兵力以<nuxt-link to="/units/Archer"
+                >弓兵</nuxt-link
+              >不夠就補<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >）和<nuxt-link to="/units/Mangonel">投石車</nuxt-link>為主。
             </li>
 
             <li>
-              敵人有三波攻勢，每一波會給玩家10分鐘準備後，再長達10分鐘的攻勢。用<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>和<nuxt-link to="/units/Mangonel">投石車</nuxt-link>由內往外打出去，石頭一夠就在敵人常攻來的幾個地方蓋<nuxt-link to="/building/Castle">城堡</nuxt-link>。第二波攻勢開始前可以研發<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>強化我方軍隊的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>和<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>（效力僅有10分，建議第三波攻擊開始前再延發）。在喘息的空擋，拉幾位村民把損害最嚴重的城牆補一補。
+              敵人有三波攻勢，每一波會給玩家10分鐘準備後，再長達10分鐘的攻勢。用<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >和<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >由內往外打出去，石頭一夠就在敵人常攻來的幾個地方蓋<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >。第二波攻勢開始前可以研發<nuxt-link to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >強化我方軍隊的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >和<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
+              >（效力僅有10分，建議第三波攻擊開始前再延發）。在喘息的空擋，拉幾位村民把損害最嚴重的城牆補一補。
             </li>
 
             <li>
-              東南方綠色的駐軍可打可不打，只要把軍隊打爆後就會投降我方並獲得資源，後方還有一小塊礦區可以去採。利用喘息的空檔去打就可以，打爆後建築也歸我管，但為了減少損失建議還是把城堡和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>的打掉。
+              東南方綠色的駐軍可打可不打，只要把軍隊打爆後就會投降我方並獲得資源，後方還有一小塊礦區可以去採。利用喘息的空檔去打就可以，打爆後建築也歸我管，但為了減少損失建議還是把城堡和<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >的打掉。
             </li>
 
             <li>
@@ -211,7 +286,11 @@
             </li>
 
             <li>
-              通關後沒有失去任何<nuxt-link to="/units/hero">英雄</nuxt-link>可獲得成就「義大利瓊斯和第一次十字軍東征」，把所有<nuxt-link to="/units/hero">英雄</nuxt-link>塞到城堡裡不讓他們出戰即可。
+              通關後沒有失去任何<nuxt-link to="/units/hero">英雄</nuxt-link
+              >可獲得成就「義大利瓊斯和第一次十字軍東征」，把所有<nuxt-link
+                to="/units/hero"
+                >英雄</nuxt-link
+              >塞到城堡裡不讓他們出戰即可。
             </li>
           </ul>
         </div>
@@ -264,11 +343,17 @@
           </tr>
           <tr>
             <td class="unit3">上一關</td>
-            <td class="unit4"><nuxt-link to="/batt/Bohemond_and_the_Emperor">博希蒙德與皇帝</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Bohemond_and_the_Emperor"
+                >博希蒙德與皇帝</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4"><nuxt-link to="/batt/Wonder_of_the_World">世界奇觀</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Wonder_of_the_World">世界奇觀</nuxt-link>
+            </td>
           </tr>
         </table>
       </div>

@@ -8,7 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>新的家園</b>是<nuxt-link to="/batt/Kotyan_Khan">可泰安汗戰役</nuxt-link>的第五關也是最終關。該關有兩個分歧，玩家必須選擇留在匈牙利替可泰安汗報仇或是前往<nuxt-link to="/civs/Bulgarians">保加利亞</nuxt-link>展開新的生活。
+            <b>新的家園</b>是<nuxt-link to="/batt/Kotyan_Khan"
+              >可泰安汗戰役</nuxt-link
+            >的第五關也是最終關。該關有兩個分歧，玩家必須選擇留在匈牙利替可泰安汗報仇或是前往<nuxt-link
+              to="/civs/Bulgarians"
+              >保加利亞</nuxt-link
+            >展開新的生活。
           </p>
         </div>
         <h2>玩家</h2>
@@ -58,19 +63,26 @@
                 <div class="p5"></div>
                 玩家2
               </td>
-              <td class="tc6">庫曼人（青色）<nuxt-link to="/civs/Cumans">庫曼</nuxt-link></td>
+              <td class="tc6">
+                庫曼人（青色）<nuxt-link to="/civs/Cumans">庫曼</nuxt-link>
+              </td>
               <td class="tc6" width="14%">
                 <div class="p1"></div>
                 玩家3
               </td>
-              <td class="tc6">匈牙利人（藍色）<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link></td>
+              <td class="tc6">
+                匈牙利人（藍色）<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc6" width="14%">
                 <div class="p7"></div>
                 玩家6
               </td>
-              <td class="tc6"><nuxt-link to="/civs/Bulgarians">保加利亞人</nuxt-link>###（灰色）保加利亞</td>
+              <td class="tc6">
+                <nuxt-link to="/civs/Bulgarians">保加利亞人</nuxt-link
+                >###（灰色）保加利亞
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
@@ -80,7 +92,11 @@
                 <div class="p6"></div>
                 玩家8
               </td>
-              <td class="tc6">拜占庭人（紫色）<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link></td>
+              <td class="tc6">
+                拜占庭人（紫色）<nuxt-link to="/civs/Byzantines"
+                  >拜占庭</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td col class="tc4" colspan="4" style="background:#ea6153;">
@@ -92,7 +108,9 @@
                 <div class="p2"></div>
                 玩家4
               </td>
-              <td class="tc6">奧地利人（紅色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link></td>
+              <td class="tc6">
+                奧地利人（紅色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              </td>
               <td class="tc6" width="14%">
                 <div class="p8"></div>
                 玩家5
@@ -126,7 +144,9 @@
                 跟隨庫曼汗首領前往多瑙河。
               </li>
               <li>
-                登上前往保加利亞的<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>或前往匈牙利村莊來留在匈牙利。
+                登上前往保加利亞的<nuxt-link to="/units/Transport_Ship"
+                  >運輸船</nuxt-link
+                >或前往匈牙利村莊來留在匈牙利。
               </li>
             </ul>
             <p>匈牙利</p>
@@ -134,12 +154,22 @@
               <li>不要讓匈牙利人(3，藍色)被打敗。</li>
               <li>打敗匈牙利貴族(5，橙色)。</li>
               <li>打敗奧地利人(4，紅色)。</li>
-              <li>次要任務：找到被毀的匈牙利<nuxt-link to="/building/Castle">城堡</nuxt-link>(<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>)。</li>
               <li>
-                次要任務：若要占領匈牙利村裝，您必須摧毀村內的敵方<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>。這些村莊會向其控制者輸送資源。
+                次要任務：找到被毀的匈牙利<nuxt-link to="/building/Castle"
+                  >城堡</nuxt-link
+                >(<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>)。
               </li>
               <li>
-                次要任務：將牛推車和牛戰車送到城堡廢墟(世界奇觀)前的標記區域後，您將獲得更多資源與<nuxt-link to="/units/Villager">村民</nuxt-link>。
+                次要任務：若要占領匈牙利村裝，您必須摧毀村內的敵方<nuxt-link
+                  to="/building/Watch_Tower"
+                  >箭塔</nuxt-link
+                >。這些村莊會向其控制者輸送資源。
+              </li>
+              <li>
+                次要任務：將牛推車和牛戰車送到城堡廢墟(世界奇觀)前的標記區域後，您將獲得更多資源與<nuxt-link
+                  to="/units/Villager"
+                  >村民</nuxt-link
+                >。
               </li>
             </ul>
             <p>保加利亞</p>
@@ -155,7 +185,9 @@
           <div class="n1">
             <ul>
               <li>
-                庫曼人的人口上限為150人且不能建造<nuxt-link to="/building/Dock">碼頭</nuxt-link>。
+                庫曼人的人口上限為150人且不能建造<nuxt-link to="/building/Dock"
+                  >碼頭</nuxt-link
+                >。
               </li>
             </ul>
             <p>匈牙利</p>
@@ -164,14 +196,20 @@
                 貝拉國王統治下的匈牙利人將陸續參戰。因此保護他們對您最有利。
               </li>
               <li>
-                眾多匈牙利村莊會向所有提供保護之人提供資源。村中被摧毀的<nuxt-link to="/building">建築</nuxt-link>愈多，資源產量愈低。您可以幫助貝拉國王征服村莊，或是將其燒為平地，讓您的敵人也得不到更多資源。
+                眾多匈牙利村莊會向所有提供保護之人提供資源。村中被摧毀的<nuxt-link
+                  to="/building"
+                  >建築</nuxt-link
+                >愈多，資源產量愈低。您可以幫助貝拉國王征服村莊，或是將其燒為平地，讓您的敵人也得不到更多資源。
               </li>
               <li>匈牙利境內仍有庫曼人。如果您能找到，他們就會加入您。</li>
             </ul>
             <p>保加利亞</p>
             <ul>
               <li>
-                保加利亞人最近遭到叛亂，再加上統治者比較柔弱，因此實力不比以往，不要期望他們能提供很多幫助。不過他們偶爾會提供<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link>。
+                保加利亞人最近遭到叛亂，再加上統治者比較柔弱，因此實力不比以往，不要期望他們能提供很多幫助。不過他們偶爾會提供<nuxt-link
+                  to="/units/Konnik"
+                  >保加利亞騎兵</nuxt-link
+                >。
               </li>
               <li>
                 內塞伯爾城的補給來自海上，因此無法將其守軍困死。只有透過正面進攻，才能打破堅固的防禦。
@@ -183,13 +221,29 @@
           <div class="n1">
             <ul>
               <li>
-                大隊庫曼<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>。
+                大隊庫曼<nuxt-link to="/armor/Armor_Class_Cavalry"
+                  >騎兵</nuxt-link
+                >。
               </li>
               <li>
-                匈牙利位於西邊。貝拉國王(3，藍色)已對奧地利的非腓特烈公爵(4，紅色)和反叛的匈牙利貴族(5，橙色)發動進攻。奧地利軍包括<nuxt-link to="/units/Knight">騎士</nuxt-link>、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>和<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>，匈牙利叛軍則會訓練<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
+                匈牙利位於西邊。貝拉國王(3，藍色)已對奧地利的非腓特烈公爵(4，紅色)和反叛的匈牙利貴族(5，橙色)發動進攻。奧地利軍包括<nuxt-link
+                  to="/units/Knight"
+                  >騎士</nuxt-link
+                >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+                >、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+                >和<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+                >，匈牙利叛軍則會訓練<nuxt-link to="/units/Crossbowman"
+                  >弩兵</nuxt-link
+                >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+                >、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+                >和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
               </li>
               <li>
-                保加利亞位於東南方、多瑙河對岸。保加利亞人(6，灰色)最近剛被拉丁帝國(7，黃色)的十字軍奪走了內塞伯爾城，需要您幫助他們奪回來。拉丁帝國的軍隊中有騎士、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link>和重裝長槍兵。
+                保加利亞位於東南方、多瑙河對岸。保加利亞人(6，灰色)最近剛被拉丁帝國(7，黃色)的十字軍奪走了內塞伯爾城，需要您幫助他們奪回來。拉丁帝國的軍隊中有騎士、<nuxt-link
+                  to="/units/Skirmisher"
+                  >矛兵</nuxt-link
+                >、<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
+                >和重裝長槍兵。
               </li>
               <li>
                 據傳另一位庫曼汗正在巴爾幹半島活動，或許他也願意加入您。
@@ -203,19 +257,50 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              這關一開始會面臨兩個選擇：留在匈牙利或是去保加利亞。如果要去匈牙利就往西南走，如果要去保加利亞就搭乘<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>，不管選哪個都會得到一支追隨玩家的軍隊。由於不能建<nuxt-link to="/building/Dock">碼頭</nuxt-link>生產運輸船，因此不能干涉另一個地區。可以當作兩關來看，一個選擇一關，雖然最終結局是一樣的。
+              這關一開始會面臨兩個選擇：留在匈牙利或是去保加利亞。如果要去匈牙利就往西南走，如果要去保加利亞就搭乘<nuxt-link
+                to="/units/Transport_Ship"
+                >運輸船</nuxt-link
+              >，不管選哪個都會得到一支追隨玩家的軍隊。由於不能建<nuxt-link
+                to="/building/Dock"
+                >碼頭</nuxt-link
+              >生產運輸船，因此不能干涉另一個地區。可以當作兩關來看，一個選擇一關，雖然最終結局是一樣的。
             </li>
           </ul>
           <p>匈牙利</p>
           <ul>
             <li>
-              首先先抵達<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>前可以獲得基地和<nuxt-link to="/units/Villager">村民</nuxt-link>，隨後將牛車推到城堡前可以獲得資源或村民。搜尋一下地圖會有一些。稍微發展一下後，將兵力集中在中央的匈牙利基地，奧地利會不斷派兵進攻那邊。
+              首先先抵達<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >前可以獲得基地和<nuxt-link to="/units/Villager">村民</nuxt-link
+              >，隨後將牛車推到城堡前可以獲得資源或村民。搜尋一下地圖會有一些。稍微發展一下後，將兵力集中在中央的匈牙利基地，奧地利會不斷派兵進攻那邊。
             </li>
             <li>
-              地圖上有五座匈牙利貴族控制的村莊。將這些村莊的<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>摧毀後控制權會轉讓給藍色的匈牙利，我方則是會獲得少許資源。我方基地東南方的村莊可以放著讓盟友打。
+              地圖上有五座匈牙利貴族控制的村莊。將這些村莊的<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >摧毀後控制權會轉讓給藍色的匈牙利，我方則是會獲得少許資源。我方基地東南方的村莊可以放著讓盟友打。
             </li>
             <li>
-              任務會要您打敗西班牙貴族和奧地利，如果在45分內打敗奧地利有成就「一去不返。」兵種使用<nuxt-link to="/units/Paladin">遊俠</nuxt-link>和大量的<nuxt-link to="/units/Kipchak">精銳欽察</nuxt-link>搭配<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>，如果打<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>應付不來還可用<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>當肉盾，用<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>配合<nuxt-link to="/units/Kipchak">欽察</nuxt-link>掃敵。奧地利有兩座基地，攻擊時優先用巨投把軍事建築拆掉，奧地利的攻勢就會中斷一大半。大約在遊戲時間40分時北邊會有一匹由<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、馬弓和兩台<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>及<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>所組成的援軍，配合這支援軍繼續推進。
+              任務會要您打敗西班牙貴族和奧地利，如果在45分內打敗奧地利有成就「一去不返。」兵種使用<nuxt-link
+                to="/units/Paladin"
+                >遊俠</nuxt-link
+              >和大量的<nuxt-link to="/units/Kipchak">精銳欽察</nuxt-link
+              >搭配<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
+                to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
+              >，如果打<nuxt-link to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >應付不來還可用<nuxt-link to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >當肉盾，用<nuxt-link to="/units/Siege_Onager"
+                >重型投石車</nuxt-link
+              >配合<nuxt-link to="/units/Kipchak">欽察</nuxt-link
+              >掃敵。奧地利有兩座基地，攻擊時優先用巨投把軍事建築拆掉，奧地利的攻勢就會中斷一大半。大約在遊戲時間40分時北邊會有一匹由<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >、馬弓和兩台<nuxt-link to="/units/Siege_Onager"
+                >重型投石車</nuxt-link
+              >及<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+              >所組成的援軍，配合這支援軍繼續推進。
             </li>
             <li>
               最後用遊俠和欽察把所有匈牙利的村莊一一收復後，先把匈牙利貴族的外交關係改敵對（初始我方對他的關係設定是中立，若沒改掉我方的軍隊不會自動打建築），再把剩下的匈牙利貴族基地打掉後即可過關。
@@ -224,10 +309,22 @@
           <p>保加利亞</p>
           <ul>
             <li>
-              首先先去保加利亞的營地後，會要玩家救保加利亞村民，救完後那些村民的控制權會歸屬我方，利用他們建立一個基地，並將軍隊佈署在拉丁帝國<nuxt-link to="/building/Gate">城門</nuxt-link>前警戒。保加利亞在拉丁帝國被攻破前每隔一段時間會不斷提供一支<nuxt-link to="/units/Konnik">精銳保加利亞騎兵</nuxt-link>給我方，但往後有多餘的資源時還是得盡快升級我方的<nuxt-link to="NOLINKS">重騎兵</nuxt-link><nuxt-link to="/techs">科技</nuxt-link>。
+              首先先去保加利亞的營地後，會要玩家救保加利亞村民，救完後那些村民的控制權會歸屬我方，利用他們建立一個基地，並將軍隊佈署在拉丁帝國<nuxt-link
+                to="/building/Gate"
+                >城門</nuxt-link
+              >前警戒。保加利亞在拉丁帝國被攻破前每隔一段時間會不斷提供一支<nuxt-link
+                to="/units/Konnik"
+                >精銳保加利亞騎兵</nuxt-link
+              >給我方，但往後有多餘的資源時還是得盡快升級我方的<nuxt-link
+                to="NOLINKS"
+                >重騎兵</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link>。
             </li>
             <li>
-              過了一段時間，拉丁帝國會建造世界奇觀，我方則是在南方會有一匹由村民、精銳欽察、和兩台巨型投石機組成的援軍，並且會得到一筆資源。一旦準備好了就向拉丁帝國進攻。進攻到一半時<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>會宣戰，因此家裡還是要留一些軍隊守備。
+              過了一段時間，拉丁帝國會建造世界奇觀，我方則是在南方會有一匹由村民、精銳欽察、和兩台巨型投石機組成的援軍，並且會得到一筆資源。一旦準備好了就向拉丁帝國進攻。進攻到一半時<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
+              >會宣戰，因此家裡還是要留一些軍隊守備。
             </li>
             <li>
               打敗拉丁帝國後，保加利亞會重建該城池，重建地差不多後會蓋世界奇觀。注意在這之後就不會提供保加利亞騎兵給我方了，因此要自行訓練遊俠來補充損失的保加利亞騎兵。而在蓋世界奇觀的同時，拜占庭軍隊的運輸船會一波又一波的朝保加利亞的世界奇觀襲來，因此必須派軍隊去援防，以及在登陸點附近建造城堡、派一支欽察防禦海上的登陸等等。
@@ -296,7 +393,9 @@
           </tr>
           <tr>
             <td class="unit3">上一關</td>
-            <td class="unit4"><nuxt-link to="/batt/Blood_for_Blood">血債血償</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Blood_for_Blood">血債血償</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>

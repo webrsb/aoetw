@@ -736,8 +736,7 @@
             </td>
             <td class="tunitc5">1000F 600G</td>
             <td class="tunitc6">
-              <nuxt-link to="/building/Siege_Workshop"
-                >攻城器製造所</nuxt-link
+              <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
               >的單位傷害範圍增加(<nuxt-link to="/units/Battering_Ram"
                 >輕型衝撞車</nuxt-link
               >和<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>除外)。

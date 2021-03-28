@@ -441,8 +441,9 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快11%。
             </li>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >：<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
               >便宜50%。
             </li>
             <li>
@@ -471,8 +472,7 @@
               >：投石機在高處攻擊的傷害+50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >：<nuxt-link
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >免費。

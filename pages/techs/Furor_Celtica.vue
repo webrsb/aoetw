@@ -30,8 +30,7 @@
               >加成(<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >開火速度快20%)和<nuxt-link to="/elements/Team_Bonus"
                 >團隊加分</nuxt-link
-              >(<nuxt-link to="/building/Siege_Workshop"
-                >攻城器製造所</nuxt-link
+              >(<nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
               >工作速率快15%)，讓塞爾特攻城武器是遊戲中最為人所懼怕的
             </li>
           </ul>
