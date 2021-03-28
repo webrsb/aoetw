@@ -70,7 +70,7 @@
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          戰狼號是由英格蘭國王長腿愛德華所下令建造，據說是英格蘭工藝史上規模最大的攻城器械。廣泛運用於對蘇格蘭的征服戰爭中。這一點在西方霸主新增的戰役長腿愛德華的最後一關「蘇格蘭之錘」中，研發該科技是該戰役必要的一個過程。
+          戰狼號是由英格蘭國王長腿愛德華所下令建造，據說是英格蘭工藝史上規模最大的攻城器械。廣泛運用於對蘇格蘭的征服戰爭中。這一點在<nuxt-link to="/games/de">西方霸主</nuxt-link>新增的戰役<nuxt-link to="/batt/Edward_Longshanks">長腿愛德華</nuxt-link>的最後一關「<nuxt-link to="/batt/Hammer_of_the_Scots">蘇格蘭之錘</nuxt-link>」中，研發該科技是該戰役必要的一個過程。
         </div>
       </div>
       <div class="col-md-4">
