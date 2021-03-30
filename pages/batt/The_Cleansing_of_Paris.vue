@@ -208,7 +208,7 @@
               >且有一支守軍，順勢擊敗後派一支部隊到城堡西北方會有一小支軍隊加入我們，城門的正南方也有一支<nuxt-link
                 to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
-              >，解放後可以拿一些<nuxt-link to="/units/Siege_Weapons"
+              >。此時城內的軍隊很快會找到第一個公會領袖。第一個公會領袖會要我們解放伐木場，解放後可以拿一些<nuxt-link to="/units/Siege_Weapons"
                 >攻城器</nuxt-link
               >。記得把<nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >設為不還擊免得誤傷我軍，且將隊伍用隊伍分類以便隨時使用適當的軍隊迎擊。
