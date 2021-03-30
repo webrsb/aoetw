@@ -242,7 +242,7 @@
                 >馬廄</nuxt-link
               >後單位全部變成<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
-              >不會<nuxt-link to="/Regeneration">回血</nuxt-link
+              >，然後就是逃到中央的城市（注意到達前英雄不會<nuxt-link to="/Regeneration">回血</nuxt-link
               >）。逃出後得到一筆資源，並有15分鐘可以發展。發展經濟的同時建立兵種，先訓練騎士約15隻並升級<nuxt-link
                 to="/techs"
                 >科技</nuxt-link
