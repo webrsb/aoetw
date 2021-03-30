@@ -224,7 +224,7 @@
               至於幫鱈魚派搶村莊，一開始就先把除了<nuxt-link
                 to="/armor/Armor_Class_Spearman"
                 >長槍兵</nuxt-link
-              >輔以少量<nuxt-link to="/armor/Armor_Class_Cavalry"
+              >以外的兵力派出去，目標先搶兩個，搶了藍色會開始生兵協同作戰。然後看情勢待生兵後再繼續搶，亦或是先回防，防禦方面則由重裝長槍兵輔以少量<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >配合城堡防守。
             </li>
