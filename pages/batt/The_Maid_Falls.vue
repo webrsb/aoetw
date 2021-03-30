@@ -226,7 +226,7 @@
                 >騎兵</nuxt-link
               >。接管後，將<nuxt-link to="/armor/Armor_Class_Spearman"
                 >長槍兵</nuxt-link
-              >區，高難度下有一支騎兵隊，將之解決後往東方走，可以找到一個灰色半毀的城鎮，他會要求我們幫他蓋一座<nuxt-link
+              >隊開到右側石礦區，高難度下有一支騎兵隊，將之解決後往東方走，可以找到一個灰色半毀的城鎮，他會要求我們幫他蓋一座<nuxt-link
                 to="/building/Market"
                 >市集</nuxt-link
               >。
