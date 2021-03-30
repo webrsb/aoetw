@@ -219,7 +219,7 @@
             <li>
               不製造<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
-              >代替裝甲衝撞車即可。
+              >破關可以獲得成就「無輪」，用炸藥桶代替裝甲衝撞車即可。
             </li>
           </ul>
         </div>
