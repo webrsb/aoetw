@@ -14,11 +14,11 @@
               >戰役</nuxt-link
             >。玩家必須在阿卡城建立<nuxt-link to="/building/Wonder"
               >世界奇觀</nuxt-link
-            >並抵擋十字軍的攻擊。實際上阿卡城並不存在。
+            >並抵擋十字軍的攻擊。實際上阿卡城並不存在(更正阿卡城位於以色列北部加利利西部，又譯阿克里)
           </p>
         </div>
         <h2>玩家</h2>
-        <div class="hrn1"></div>
+        <div class="hrn1"></div>b
         <div class="n1">
           <h3>基本資訊</h3>
           <table class="table-bordered" width="100%">
