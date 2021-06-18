@@ -15,7 +15,7 @@
             >研發。研發後<nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link
             >系、<nuxt-link to="/units/Knight">騎士</nuxt-link
             >系和騎馬<nuxt-link to="/units/Konnik">保加利亞騎兵</nuxt-link
-            >的速+33%。
+            >的攻速+33%。
           </p>
         </div>
         <h3>戰術要點</h3>
