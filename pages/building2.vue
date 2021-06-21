@@ -1,26 +1,23 @@
 <template>
   <BuildingInfo
-    :id="234"
-    :image="image"
-    :preId="79"
-    :nextId="235"
-    :upTechId="63"
-    :age="102"
+    :id="Unit.OUTPOST"
+    :age="Age.DarkAge"
     :type="Type.Building"
   ></BuildingInfo>
 </template>
 <script>
-import { Type } from '../constant/enums.js'
+import { Type, Unit, Age, Tech } from '../constant/enums.js'
 import BuildingInfo from '@/components/InfoCard.vue'
-import image from '@/assets/guard_tower.png'
 export default {
   components: {
     BuildingInfo
   },
   data () {
     return {
-      image,
-      Type
+      Type,
+      Unit,
+      Tech,
+      Age
     }
   }
 }

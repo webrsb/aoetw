@@ -1,8 +1,7 @@
 <template>
   <UnitInfo
-    :id="Unit.LIGHT_CAVALRY"
-    :preId="Unit.SCOUT_CAVALRY"
-    :nextId="Unit.HUSSAR"
+    :id="Unit.BALLISTA_ELEPHANT"
+    :nextId="Unit.LIGHT_CAVALRY"
     :upTechId="Tech.HUSSAR"
     :age="Age.CastleAge"
     :type="Type.Unit"
@@ -11,14 +10,12 @@
 <script>
 import { Type, Unit, Age, Tech } from '../constant/enums.js'
 import UnitInfo from '@/components/InfoCard.vue'
-import image from '@/assets/LightCavalryIcon.png'
 export default {
   components: {
     UnitInfo
   },
   data () {
     return {
-      image,
       Type,
       Unit,
       Tech,
