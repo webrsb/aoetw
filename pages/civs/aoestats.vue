@@ -38,7 +38,7 @@
                 :href="
                   `https://aoestats.io/civ/${
                     data.item.civilization
-                  }?elo=${currentElo}`
+                  }/${currentElo}`
                 "
                 target="_blank"
                 ><img class="gg" :src="getCivImg(data.item.civilization)"
