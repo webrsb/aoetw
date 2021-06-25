@@ -255,7 +255,7 @@
               ><nuxt-link to="/elements/Hit_points">生命值</nuxt-link
               >和弓箭類的科技，兵力以<nuxt-link to="/units/Archer"
                 >弓兵</nuxt-link
-              >不夠就補<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >（黃金不夠就補<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >）和<nuxt-link to="/units/Mangonel">投石車</nuxt-link>為主。
             </li>
 
