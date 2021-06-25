@@ -679,7 +679,7 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/resource/Gold">黃金</nuxt-link>代
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </td>
             <td class="unit4">45</td>
           </tr>
