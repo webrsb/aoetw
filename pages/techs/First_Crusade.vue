@@ -15,7 +15,7 @@
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後所有<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
-            >(最多5座)一次性生產10個<nuxt-link to="/units/Serjeant"
+            >(最多5座)一次性生產7個<nuxt-link to="/units/Serjeant"
               >薩金特衛兵</nuxt-link
             >。
           </p>
@@ -31,7 +31,7 @@
                 >城鎮中心</nuxt-link
               >，其效果就越好，例如在<nuxt-link to="/maps/Arena"
                 >競技場</nuxt-link
-              >上建造4/5個城鎮中心，然後一次性獲得40/50個<nuxt-link
+              >上建造4/5個城鎮中心，然後一次性獲得28/35個<nuxt-link
                 to="/units/Serjeant"
                 >薩金特衛兵</nuxt-link
               >，但這需要花費大量時間和資源。如果與西西里另一個特殊科技<nuxt-link
@@ -57,6 +57,17 @@
                 >聚居堡壘</nuxt-link
               >能夠加速第一次十字軍東征的研究時間(快25%)。
             </li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/delw">西方霸主</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>一開始獨特科技「第一次十字軍東征」研發完後可在每個城鎮中心（最多五個）出現10名薩金特衛兵。</li>
+            <li>45185更新：研發完「第一次十字軍東征」後，出現的薩金特衛兵數量減為7個。</li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -144,7 +155,7 @@
             <td class="unit3">影響</td>
             <td class="unit4">
               所有<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-              >(最多5座)一次性生產10個<nuxt-link to="/units/Serjeant"
+              >(最多5座)一次性生產7個<nuxt-link to="/units/Serjeant"
                 >薩金特衛兵</nuxt-link
               >
             </td>
