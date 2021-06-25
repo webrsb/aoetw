@@ -221,7 +221,7 @@
               進攻時，將一開始的部隊整隊運過去並研發<nuxt-link
                 to="/units/Archer"
                 >弓兵</nuxt-link
-              >再補充一些<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
+              >攻擊力和鐵鎧甲的科技再補充一些<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
               >，用戰狼後破壞<nuxt-link to="/building">建築</nuxt-link
               >後軍隊會衝來，迎擊時小心控兵。注意在華勒斯附近的<nuxt-link
                 to="/units/Mangonel"
