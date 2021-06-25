@@ -213,7 +213,7 @@
           <ul>
             <li>
               本關類似<nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link
-              >，破壞重要<nuxt-link to="/building">建築</nuxt-link
+              >的第三關「君士坦丁堡的城牆」，目標是收集10000的黃金，破壞重要<nuxt-link to="/building">建築</nuxt-link
               >以及毀滅勢力都能得到<nuxt-link to="/resource/Gold"
                 >黃金</nuxt-link
               >。
@@ -235,7 +235,7 @@
               >來幫忙抵禦敵人的駱駝部隊），如果可能的話就塞幾隻<nuxt-link
                 to="/units/Archer"
                 >弓兵</nuxt-link
-              >和一個礦點以及<nuxt-link to="/Relic">遺跡</nuxt-link
+              >進去。在穩住基地的同時，可以派軍隊四處掠奪。地圖的最下方還可以找到4位村民和一個礦點以及<nuxt-link to="/Relic">遺跡</nuxt-link
               >，可利用這些村民為我們採礦，但是要派兵保護他們。
             </li>
             <li>
@@ -251,7 +251,7 @@
           </ul>
           <p>以下是設施被破壞後可以獲得的黃金數：</p>
           <ul>
-            <li>擊殺部隊至一定的數量：200黃金</li>
+            <li>每擊殺部隊至一定的數量（可重覆觸發）：200黃金</li>
             <li>
               破壞任一市場、<nuxt-link to="/building/Dock">碼頭</nuxt-link
               >、<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
