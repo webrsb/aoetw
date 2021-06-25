@@ -263,7 +263,7 @@
             <li>
               兵種上採取全<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
-              >和羅馬兵構成，用<nuxt-link to="/units/Infantry_Units"
+              >戰法，初期戰術就兩個字：打跑。敵人的兵種由拜占庭聖騎兵和羅馬兵構成，用<nuxt-link to="/units/Infantry_Units"
                 >步兵</nuxt-link
               >討不到便宜。由於敵人會隨時來救被打的地方，初期沒有互爆的本錢，所以打爆軍事建築減少回復力後就跑，逃進運輸船內敵人就不會追擊。可以搭配聲東擊西之計，先派誘餌隊騷擾把敵軍引來，然後主力部隊去打爆軍事建築降低敵人的回復力。等到敵人回復力降低了就可以先打一波看能打掉幾個敵人就先打，打不完就等兵力補充完畢後再出擊。此外有個小限制就是城堡內無法<nuxt-link
                 to="/elements/Garrison"
