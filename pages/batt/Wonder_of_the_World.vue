@@ -114,7 +114,7 @@
               </td>
               <td class="tc6">
                 <nuxt-link to="/civs/Italians">義大利</nuxt-link
-                >###城市（紅色）<nuxt-link to="/civs/Italians"
+                >城市（紅色）<nuxt-link to="/civs/Italians"
                   >義大利人</nuxt-link
                 >
               </td>
@@ -126,7 +126,7 @@
               </td>
               <td class="tc6">
                 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-                >###海盜（綠色）<nuxt-link to="/civs/Saracens"
+                >海盜（綠色）<nuxt-link to="/civs/Saracens"
                   >薩拉森人</nuxt-link
                 >
               </td>
