@@ -141,7 +141,7 @@
                 src="~assets/unique_tech_imperial.png"
                 alt=""
               /><nuxt-link to="/techs/Zealotry">狂熱</nuxt-link
-              >：駱駝單位血量+30。
+              >：駱駝單位血量+20。
             </li>
           </ul>
         </div>
@@ -156,12 +156,7 @@
             <li>市集木材成本-100(原為175)</li>
             <li>運輸船兩倍血量和運載量+5</li>
             <li><nuxt-link to="/units/Galley">戰船</nuxt-link>攻擊速度+25%</li>
-            <li>
-              遠程單位(除<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-              >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-              >，但包括<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
-              >)在封建/城堡/帝王時代對標準建築+1/+2/+3攻擊力。馬弓騎兵(包括標槍騎兵)對標準建築額外+1攻擊力
-            </li>
+            <li>駱駝單位生命值 +10</li>
             <li>
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
@@ -214,6 +209,24 @@
               （精銳）阿拉伯奴隸兵的<nuxt-link to="/elements/Frame_delay"
                 >開火間隔</nuxt-link
               >減少了。
+            </li>
+          </ul>
+          <h3>
+           <em><nuxt-link to="/games/aok">決定版: 西方霸主</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              弓兵不再對建築物有額外攻擊加成。
+            </li>
+            <li>
+              作為文明加成，駱駝單位生命值+10
+            </li>
+            <li>
+              團隊加分: 徒步弓兵對建築物攻擊加成從+1增為+2
+            </li>
+            <li>
+            	狂熱的價格降低為500食物, 450黃金(原為750食物, 700黃金);
+        			科技效果從+30減至+20
             </li>
           </ul>
         </div>
