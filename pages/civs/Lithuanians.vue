@@ -68,7 +68,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            立陶宛擁有完整的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            立陶宛擁有除了鼓風爐以外的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >單位升級和科技，其<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             ><nuxt-link to="/units/Leitis">烈堤司</nuxt-link
@@ -76,13 +76,13 @@
             >。<nuxt-link to="/units/Knight">騎士</nuxt-link
             >系和烈堤司每駐守一件<nuxt-link to="/elements/Relic">遺跡</nuxt-link
             >，<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
-            >+1（最多+4），使立陶宛騎兵十分强大，甚至超越<nuxt-link
+            >+1（最多+4），但由於失去鼓風爐，故必須更積極的拾取遺跡，才能使立陶宛騎兵和<nuxt-link
               to="/civs/Berbers"
               >柏柏</nuxt-link
             >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>或<nuxt-link
               to="/civs/Magyars"
               >馬扎爾</nuxt-link
-            >等騎兵文明。此外，立陶宛也擁有完整的<nuxt-link to="/units/Monk"
+            >等騎兵文明分庭抗禮。此外，立陶宛也擁有完整的<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
             >科技，加上<nuxt-link to="/building/Monastery">修道院</nuxt-link
             >工作效率+20%的團隊加分。因此戰術上最好由這兩者互相搭配，並且盡可能地尋找遺跡來提升整體騎兵的額外戰鬥力。
@@ -91,7 +91,7 @@
           <p>
             然而，<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             >和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >並不突出。步兵單位缺乏<nuxt-link to="/techs/Plate_Mail_Armor"
+            >並不突出。步兵單位缺乏鼓風爐和<nuxt-link to="/techs/Plate_Mail_Armor"
               >步兵板甲</nuxt-link
             >，而<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link
             >缺乏<nuxt-link to="/units/Arbalester">強弩兵</nuxt-link
@@ -218,6 +218,9 @@
             <li>
               (42848更新) 烈堤司和精銳烈堤司的遠程防禦從2減成1。
             </li>
+                        <li>
+              (51737更新) 失去鼓風爐。烈堤司的攻擊力由12/14上修到13/16。由翼騎兵取代匈牙利輕騎兵。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -228,7 +231,7 @@
               保加利亞的文明徽標來自於繪有格迪米纳斯之柱的塔盾，而格迪米納斯王朝從14世紀到16世紀統治着立陶宛。
             </li>
             <li>
-              立陶宛是唯一無法在單一戰役中可供遊玩的文明。
+              在最新的資料片上架之前，立陶宛是唯一無法在單一戰役中可供遊玩的文明。
             </li>
           </ul>
         </div>
