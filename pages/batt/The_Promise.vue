@@ -67,14 +67,14 @@
                 玩家2
               </td>
               <td class="tc6">
-                波蘭人（藍色）<nuxt-link to="/civs/Slavs/">斯拉夫</nuxt-link>
+                波蘭人（藍色）波蘭
               </td>
               <td class="tc6">
                 <div class="p3"></div>
                 玩家3
               </td>
               <td class="tc6">
-                波希米亞人（綠色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+                波希米亞人（綠色）波希米亞
               </td>
             </tr>
             <tr>
@@ -164,6 +164,9 @@
           <ul>
             <li>
               人口上限由75改為125，波蘭種族改為斯拉夫人，大地之母的單位由哥德衛隊改為精銳烈提司且科技全滿。
+            </li>
+                        <li>
+              51737：隨著DLC公爵的崛起實裝，波蘭和波希米亞的種族皆改為對應的文明。
             </li>
           </ul>
         </div>
