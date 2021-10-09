@@ -123,13 +123,6 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Iron_Casting">鑄造技術</nuxt-link>(+1)
-              <br />
-              <img
-                class="gg"
-                src="~assets/blast_furnace.png"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -696,7 +689,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">12/14(精銳)(近戰)</td>
+            <td class="unit4">13/16(精銳)(近戰)</td>
           </tr>
           <tr>
             <td class="unit3">
