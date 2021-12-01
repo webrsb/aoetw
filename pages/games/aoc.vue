@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>《世紀帝國II：征服者入侵》</b>是微軟即時戰略遊戲《<nuxt-link
+            <b>《世紀帝國II：征服者入侵》（大陸地區譯為《帝國時代II：征服者》）</b>是微軟即時戰略遊戲《<nuxt-link
               to="/games/aok"
               >世紀帝國II：帝王世紀</nuxt-link
             >》的官方擴充資料片，曾榮獲2000年E3最佳戰略性遊戲資料片。
