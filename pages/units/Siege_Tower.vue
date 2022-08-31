@@ -30,7 +30,7 @@
             >，可以向附近的敵人射箭來防禦，然而用它來防禦仍然不夠，甚至比<nuxt-link
               to="/building/Watch_Tower"
               >箭塔</nuxt-link
-            >還遭，倒是比較像是可以運兵的<nuxt-link to="/units/Battering_Ram"
+            >還糟，倒是比較像是可以運兵的<nuxt-link to="/units/Battering_Ram"
               >衝撞車</nuxt-link
             >。
           </p>
