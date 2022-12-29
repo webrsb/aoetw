@@ -180,6 +180,18 @@
                   >西方霸主</nuxt-link
                 >
               </li>
+              <li>
+                <img class="gg" src="~assets/deicon.png" alt="" /><nuxt-link
+                  to="/games/dedd"
+                  >公爵的崛起</nuxt-link
+                >
+              </li>
+              <li>
+                <img class="gg" src="~assets/deicon.png" alt="" /><nuxt-link
+                  to="/games/dedi"
+                  >印度王朝</nuxt-link
+                >
+              </li>
             </ul>
           </div>
         </div>
