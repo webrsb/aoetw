@@ -22,18 +22,18 @@
               />
               <input type="hidden" name="css" value="body { padding: 1rem; }" />
               <input type="hidden" name="js_wrap" value="l" />
-              <!-- <b-btn size="sm" type="submit" :disabled="!isOk">導出至 JSFiddle</b-btn> -->
-              <b-btn
+              <!-- <b-button size="sm" type="submit" :disabled="!isOk">導出至 JSFiddle</b-button> -->
+              <b-button
                 size="sm"
                 variant="danger"
                 :disabled="isDefault"
                 @click="reset"
               >
                 還原預設
-              </b-btn>
-              <b-btn size="sm" @click="jspanelClickEvent">{{
+              </b-button>
+              <b-button size="sm" @click="jspanelClickEvent">{{
                 jspanel.text
-              }}</b-btn>
+              }}</b-button>
             </form>
             <div
               class="d-inline-flex bd-highlight"
@@ -54,7 +54,7 @@
                 <div class="card mt-2">
                   <div class="card-header card-outline-info">
                     <span>貼上程式</span>
-                    <b-btn
+                    <b-button
                       style="margin-left: 10px"
                       size="sm"
                       variant="outline-info"
@@ -62,15 +62,15 @@
                       @click="toggleFull"
                     >
                       <span>{{ full ? '半寬' : '全寬' }}</span>
-                    </b-btn>
-                    <b-btn
+                    </b-button>
+                    <b-button
                       size="sm"
                       variant="outline-info"
                       class="float-right d-none d-md-inline-block"
                       @click="_run"
                     >
                       <span>檢查</span>
-                    </b-btn>
+                    </b-button>
                   </div>
                   <codemirror
                     v-model="html"
@@ -87,14 +87,14 @@
                 <div class="card mt-2">
                   <div class="card-header card-outline-warning">
                     <span>JS</span>
-                    <b-btn
+                    <b-button
                       size="sm"
                       variant="outline-info"
                       class="float-right d-none d-md-inline-block"
                       @click="toggleFull"
                     >
                       <span>{{ full ? '半寬' : '全寬' }}</span>
-                    </b-btn>
+                    </b-button>
                   </div>
                   <codemirror v-model="js" mode="javascript" />
                 </div>
@@ -107,7 +107,7 @@
             <div class="card mt-2">
               <div class="card-header card-outline-secondary">
                 <span>錯誤顯示區</span>
-                <b-btn
+                <b-button
                   v-if="messages.length"
                   size="sm"
                   variant="outline-danger"
@@ -115,7 +115,7 @@
                   @click="clear"
                 >
                   <span>清空</span>
-                </b-btn>
+                </b-button>
               </div>
               <transition-group
                 tag="ul"
