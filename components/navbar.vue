@@ -1,5 +1,5 @@
 <template>
-  <b-navbar ref="navbar" toggleable="md" type="dark" variant="dark" sticky>
+  <b-navbar ref="navbar" toggleable="md" :dark="true" variant="dark" sticky="top">
     <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
     <b-navbar-brand to="/">Aoetw</b-navbar-brand>
     <b-navbar-nav right>
