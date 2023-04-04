@@ -221,7 +221,7 @@
   </div>
 </template>
 <script>
-definePageMeta({ layout: 'allwide' })
+definePageMeta({ layout: 'default' })
 
 export default {
   components: {}
