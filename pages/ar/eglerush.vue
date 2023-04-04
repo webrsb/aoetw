@@ -215,8 +215,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allar' })
+
 export default {
-  layout: 'allar',
   components: {}
 }
 </script>

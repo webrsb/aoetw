@@ -183,8 +183,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'footn' })
+
 export default {
-  layout: 'footn',
   components: {}
 }
 </script>

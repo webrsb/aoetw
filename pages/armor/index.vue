@@ -1384,13 +1384,14 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allen' })
+
 export default {
   head() {
     return {
       title: '護甲 - Aoetw'
     }
   },
-  layout: 'allen',
   components: {}
 }
 </script>

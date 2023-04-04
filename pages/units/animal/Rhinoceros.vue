@@ -134,8 +134,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allanimal' })
+
 export default {
-  layout: 'allanimal',
   components: {}
 }
 </script>

@@ -123,7 +123,6 @@ export default {
       title: '地圖 - Aoetw'
     }
   },
-  layout: '',
   components: {}
 }
 </script>

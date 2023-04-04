@@ -948,8 +948,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allen' })
+
 export default {
-  layout: 'allen',
   computed: {
     STATIC_PATH() {
       let base = this.$router.options.base

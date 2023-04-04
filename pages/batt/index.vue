@@ -2320,7 +2320,6 @@ export default {
       }
     }
   },
-  layout: '',
   components: {}
 }
 </script>

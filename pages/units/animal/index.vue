@@ -108,7 +108,6 @@ export default {
       title: '動物 - Aoetw'
     }
   },
-  layout: '',
   components: {}
 }
 </script>

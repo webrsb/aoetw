@@ -451,8 +451,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'foot' })
+
 export default {
-  layout: 'foot',
   components: {}
 }
 </script>

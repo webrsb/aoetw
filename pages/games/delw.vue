@@ -271,7 +271,6 @@
 </template>
 <script>
 export default {
-  layout: '',
   components: {}
 }
 </script>

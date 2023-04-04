@@ -54,8 +54,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allen' })
+
 export default {
-  layout: 'allen',
   components: {}
 }
 </script>

@@ -5,8 +5,9 @@
 <script>
 import play from '~/components/play'
 
+definePageMeta({ layout: 'nochat' })
+
 export default {
-  layout: 'nochat',
   components: {
     play
   },

@@ -2238,13 +2238,14 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'footn' })
+
 export default {
   head() {
     return {
       title: '英雄 - Aoetw'
     }
   },
-  layout: 'foot',
   components: {}
 }
 </script>

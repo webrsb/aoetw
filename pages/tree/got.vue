@@ -1417,8 +1417,9 @@
 </template>
 <script>
 import tree from '~/components/alltree'
+definePageMeta({ layout: 'tree' })
+
 export default {
-  layout: 'tree',
   components: { tree }
 }
 </script>

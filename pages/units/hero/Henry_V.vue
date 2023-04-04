@@ -137,8 +137,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allhero' })
+
 export default {
-  layout: 'allhero',
   components: {}
 }
 </script>

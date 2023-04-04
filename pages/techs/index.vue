@@ -1145,7 +1145,6 @@ export default {
       title: '科技 - Aoetw'
     }
   },
-  layout: '',
   components: {}
 }
 </script>

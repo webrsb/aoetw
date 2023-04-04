@@ -360,7 +360,6 @@ export default {
       title: '建築 - Aoetw'
     }
   },
-  layout: '',
   components: {}
 }
 </script>

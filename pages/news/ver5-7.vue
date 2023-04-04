@@ -315,8 +315,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allwide' })
+
 export default {
-  layout: 'allwide',
   components: {}
 }
 </script>

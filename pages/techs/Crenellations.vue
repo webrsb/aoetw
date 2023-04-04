@@ -194,8 +194,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'alltech' })
+
 export default {
-  layout: 'alltech',
   components: {}
 }
 </script>
