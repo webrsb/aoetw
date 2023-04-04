@@ -25,7 +25,6 @@ export default defineNuxtConfig({
   ],
 
   plugins: [
-    '~plugins/register.js',
-    { src: '~plugins/ga.js', ssr: false }
+    { src: '@/plugins/ga.js', ssr: false }
   ]
 })
