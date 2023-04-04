@@ -53,7 +53,7 @@
                   /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/tracking.png" alt="" /><nuxt-link
+                  <img class="gg" src="~assets/TrackingDE.png" alt="" /><nuxt-link
                     to="/techs/Tracking"
                     >追蹤技術</nuxt-link
                   >(於封建時代自動擁有)

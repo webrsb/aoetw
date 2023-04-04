@@ -327,7 +327,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/tracking.png" class="img-fluid" alt="" />
+                <img src="~assets/TrackingDE.png" class="img-fluid" alt="" />
               </div>
             </td>
           </tr>

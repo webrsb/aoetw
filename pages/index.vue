@@ -275,7 +275,7 @@ export default { components: {} }
 </script>
 <style>
 .tit {
-  background: url(~assets/title3.jpg);
+  background: url('~/assets/title3.jpg');
   width: 100%;
   height: 284px;
   text-align: center;

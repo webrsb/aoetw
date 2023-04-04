@@ -167,7 +167,7 @@
             </td>
             <td class="tta4">
               <p>
-                <img src="~assets/tracking.png" width="30" alt="" /><nuxt-link
+                <img src="~assets/TrackingDE.png" width="30" alt="" /><nuxt-link
                   to="/techs/Tracking"
                   >追蹤技術</nuxt-link
                 >(+2)
