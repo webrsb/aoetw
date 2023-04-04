@@ -196,7 +196,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/330px-Jal-ixco.jpg" width="100%" alt="" />
+                <img src="~assets/330px-Jal-ixco.jpg" class="imgn" alt="" />
                 <p>
                   <em
                     ><nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link

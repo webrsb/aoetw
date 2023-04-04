@@ -292,7 +292,6 @@
                   class="imgn hg"
                   src="~assets/The_Old_World-01.png"
                   alt=""
-                  width="100%"
               /></gallery>
               <p>
                 <em>
@@ -307,7 +306,6 @@
                   class="imgn hg"
                   src="~assets/The_Old_World-02.png"
                   alt=""
-                  width="100%"
               /></gallery>
               <p><em>阿爾巴公爵會在地圖巡邏的黃色單位之中。</em></p>
             </div>
@@ -317,7 +315,6 @@
                   class="imgn hg"
                   src="~assets/The_Old_World-03.png"
                   alt=""
-                  width="100%"
               /></gallery>
               <p>
                 <em>
@@ -331,7 +328,6 @@
                   class="imgn hg"
                   src="~assets/The_Old_World-04.png"
                   alt=""
-                  width="100%"
               /></gallery>
               <p><em>通往胡安勢力的橋尚未修復。</em></p>
             </div>
@@ -341,7 +337,6 @@
                   class="imgn hg"
                   src="~assets/The_Old_World-05.png"
                   alt=""
-                  width="100%"
               /></gallery>
               <p><em>灰色轉為敵對後，橋會修復，我方即可進城。</em></p>
             </div>

@@ -210,7 +210,7 @@
             bgcolor="#FFFFFF"
           >
             <div class="unititle">
-              <img src="~assets/Garrison_test01.png" width="100%" />
+              <img src="~assets/Garrison_test01.png" class="imgn" />
             </div>
             <div class="col-sm-12 text-center">駐軍&nbsp;-&nbsp;熱鍵G</div>
           </div>
@@ -220,7 +220,7 @@
             bgcolor="#FFFFFF"
           >
             <div class="unititle">
-              <img src="~assets/Garrison_test02.png" width="100%" />
+              <img src="~assets/Garrison_test02.png" class="imgn" />
             </div>
             <div class="col-sm-12 text-center">設置聚集點在該建築物</div>
           </div>
@@ -230,7 +230,7 @@
             bgcolor="#FFFFFF"
           >
             <div class="unititle">
-              <img src="~assets/Garrison_test03.png" width="100%" />
+              <img src="~assets/Garrison_test03.png" class="imgn" />
             </div>
             <div class="col-sm-12 text-center">已駐軍建築物</div>
           </div>
@@ -240,7 +240,7 @@
             bgcolor="#FFFFFF"
           >
             <div class="unititle">
-              <img src="~assets/Garrison_test04.png" width="100%" />
+              <img src="~assets/Garrison_test04.png" class="imgn" />
             </div>
             <div class="col-sm-12 text-center">撤軍&nbsp;-&nbsp;熱鍵Z</div>
           </div>

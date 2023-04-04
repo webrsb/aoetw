@@ -616,7 +616,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="100%" src="~assets/001-105.jpg" alt="" />
+                <img class="imgn" src="~assets/001-105.jpg" alt="" />
               </div>
             </td>
           </tr>

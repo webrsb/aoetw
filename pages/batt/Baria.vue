@@ -65,7 +65,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/Bari.jpg" width="100%" alt="" />
+              <img src="~assets/Bari.jpg" class="imgn" alt="" />
               <p>巴里戰役地圖</p>
             </div>
           </div>

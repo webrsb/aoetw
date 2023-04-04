@@ -175,7 +175,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="100%" src="~assets/9RkmbS.jpg" alt="" />
+                <img class="imgn" src="~assets/9RkmbS.jpg" alt="" />
               </div>
             </td>
           </tr>

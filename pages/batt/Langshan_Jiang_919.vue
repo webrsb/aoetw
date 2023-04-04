@@ -399,7 +399,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/LA3.jpg" width="100%" alt="" />
+                <img src="~assets/LA3.jpg" class="imgn" alt="" />
               </div>
             </td>
           </tr>

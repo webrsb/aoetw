@@ -93,7 +93,7 @@
             >
               <div class="unititle">
                 <gallery>
-                  <img src="~assets/Berserk.png" width="100%" class="imgn" />
+                  <img src="~assets/Berserk.png" class="imgn" />
                 </gallery>
               </div>
             </td>
@@ -104,7 +104,7 @@
             >
               <div class="unititle">
                 <gallery>
-                  <img src="~assets/Camel.png" width="100%" class="imgn" />
+                  <img src="~assets/Camel.png" class="imgn" />
                 </gallery>
               </div>
             </td>
@@ -117,7 +117,6 @@
                 <gallery>
                   <img
                     src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
-                    width="100%"
                     class="imgn"
                   />
                 </gallery>

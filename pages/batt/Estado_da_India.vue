@@ -275,7 +275,6 @@
                   class="imgn hg"
                   src="~assets/Estado_da_India-01.png"
                   alt=""
-                  width="100%"
                 />
               </gallery>
               <p>地圖中的Hp1籬笆可獲取大量資源。</p>
@@ -286,7 +285,6 @@
                   class="imgn hg"
                   src="~assets/Estado_da_India-02.png"
                   alt=""
-                  width="100%"
                 />
               </gallery>
               <p>功用不明的紀念碑，無法摧毀，只要某勢力單位經過即從屬。</p>
@@ -325,7 +323,6 @@
                   class="imgn hg"
                   src="~assets/Estado_da_India-03.png"
                   alt=""
-                  width="100%"
                 />
               </gallery>
               <p>

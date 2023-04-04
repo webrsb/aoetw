@@ -191,7 +191,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  width="100px"
+                  class="imgn"
                   src="~assets/Age-of-empires-ii_de_keyart.jpg"
                   alt=""
                 />
