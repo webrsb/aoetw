@@ -3,6 +3,12 @@ $link-hover-decoration: underline;
 
 @import 'bootstrap/scss/bootstrap.scss';
 
+.nav-item.dropdown {
+  .btn-content {
+    display: inline;
+  }
+}
+
 .dropdown-menu {
   min-width: 200px;
 }
