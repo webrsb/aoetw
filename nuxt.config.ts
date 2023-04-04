@@ -19,10 +19,9 @@ export default defineNuxtConfig({
   },
 
   css: [
-    '@/static/style.css',
+    '@/static/style.scss',
     'codemirror/lib/codemirror.css',
-    '@fortawesome/fontawesome-free/css/all.css',
-    'bootstrap/dist/css/bootstrap.css'
+    '@fortawesome/fontawesome-free/css/all.css'
   ],
 
   modules: ['bootstrap-vue-next/nuxt'],
