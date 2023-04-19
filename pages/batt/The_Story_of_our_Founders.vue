@@ -224,7 +224,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Gajah Mada 1.jpg" alt="" />
+                <img src="~assets/Gajah_Mada_1.jpg" alt="" />
               </div>
             </td>
           </tr>

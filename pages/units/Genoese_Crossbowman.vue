@@ -581,7 +581,7 @@
               <gallery
                 ><img
                   class="imgn hg"
-                  src="~assets/Genoese_&_Condottiero (1).jpg"
+                  src="~assets/Genoese_&_Condottiero_(1).jpg"
                   alt=""
               /></gallery>
               <p>

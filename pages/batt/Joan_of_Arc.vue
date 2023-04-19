@@ -85,7 +85,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/2. Jeanne la Pucelle.jpg" width="300" alt="" />
+              <img src="~assets/2._Jeanne_la_Pucelle.jpg" width="300" alt="" />
               <p>聖女貞德戰役地圖</p>
             </div>
           </div>

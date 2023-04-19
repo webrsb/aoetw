@@ -102,7 +102,7 @@
               </div>
               <div class="col-md-6">
                 <img
-                  src="~assets/9. Battles of the Conquerors.jpg"
+                  src="~assets/9._Battles_of_the_Conquerors.jpg"
                   width="300"
                   alt=""
                 />
@@ -160,7 +160,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/BOC 1571.jpg" width="300" alt="" />
+                <img src="~assets/BOC_1571.jpg" width="300" alt="" />
                 <p>
                   <em
                     >《勒班陀戰役》，H·萊特，倫敦格林尼治國家航海博物館，此畫作描繪神聖同盟的基督教海軍於勒班陀戰役擊敗<nuxt-link

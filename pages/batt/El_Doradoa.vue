@@ -64,7 +64,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/14. El Dorado.jpg" width="300" alt="" />
+              <img src="~assets/14._El_Dorado.jpg" width="300" alt="" />
               <p>黃金國戰役地圖</p>
             </div>
           </div>
@@ -98,7 +98,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/Francisco de Orellana.jpg"
+                  src="~assets/Francisco_de_Orellana.jpg"
                   width="300"
                   alt=""
                 />

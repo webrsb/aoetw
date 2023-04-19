@@ -36,7 +36,7 @@
           <div class="row">
             <div class="col-md-4">
               <gallery>
-                <img src="~assets/Royal Janissary.png" alt="" />
+                <img src="~assets/Royal_Janissary.png" alt="" />
               </gallery>
               <em
                 ><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link

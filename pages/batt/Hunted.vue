@@ -241,7 +241,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/SUN 1.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/SUN_1.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>

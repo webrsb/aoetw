@@ -78,7 +78,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/21.Gajah Mada.jpg" width="300" alt="" />
+              <img src="~assets/21.Gajah_Mada.jpg" width="300" alt="" />
               <p>加查·馬達戰役地圖</p>
             </div>
           </div>
@@ -109,7 +109,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Gajah Mada.jpg" width="300" alt="" />
+                <img src="~assets/Gajah_Mada.jpg" width="300" alt="" />
                 <p><em>本系列主角 加查·馬達像</em></p>
               </div>
             </td>

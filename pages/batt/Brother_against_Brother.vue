@@ -266,7 +266,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/EIC 1.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/EIC_1.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
