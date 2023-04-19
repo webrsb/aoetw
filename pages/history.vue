@@ -7,7 +7,7 @@
           <em
             ><img
               src="~assets/tola.jpg"
-              width="50px;"
+              width="50"
               alt=""
               style="margin-right:20px;"
             />持續更新頁面：此頁面持續更新，歡迎到<nuxt-link to="/talk"
@@ -47,21 +47,21 @@
               2000年
               <strong>世界電競大賽 挑戰賽</strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/kr.png"
                   class="flg"
                   alt=""
                 />Myung-Jin Jung
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/tw.png"
                   class="flg"
                   alt=""
                 />IamJordan
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/kr.png"
                   class="flg"
                   alt=""
@@ -85,14 +85,14 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/kr.png"
                   class="flg"
                   alt=""
                 />Grunt
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/tw.png"
                   class="flg"
                   alt=""
@@ -115,28 +115,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/tw.png"
                   class="flg"
                   alt=""
                 />IamKmkm (曾政承)
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/kr.png"
                   class="flg"
                   alt=""
                 />Grunt
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/hk.png"
                   class="flg"
                   alt=""
                 />Yanzi (白日夢)
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
@@ -158,28 +158,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/jp.png"
                   class="flg"
                   alt=""
                 />Halen
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/tw.png"
                   class="flg"
                   alt=""
                 />IamKen
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/nl.png"
                   class="flg"
                   alt=""
                 />DREAMS
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/my.png"
                   class="flg"
                   alt=""
@@ -197,21 +197,21 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/tw.png"
                   class="flg"
                   alt=""
                 />aluba007
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/ar.png"
                   class="flg"
                   alt=""
                 />Capoch
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/my.png"
                   class="flg"
                   alt=""
@@ -248,19 +248,19 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Koven</td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Halen</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Grunt</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />Bender</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Grunt</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Capoch</td>
@@ -291,13 +291,13 @@
                   <td>第三屆</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Koven</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Apple</td>
                   <td>
                     <img src="~assets/uke.png" class="flg" alt="" />Tamock
@@ -328,12 +328,12 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Capoch</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Capoch</td>
                   <td><img src="~assets/my.png" class="flg" alt="" />Sutra</td>
                 </tr>
@@ -363,13 +363,13 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Halen</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Windy</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Halen</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
@@ -387,14 +387,14 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/hk.png"
                   class="flg"
                   alt=""
                 />Yanzi
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
@@ -413,12 +413,12 @@
                   <td>第二屆</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/pl.png" class="flg" alt="" />PeEl</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/il.png" class="flg" alt="" />Rami</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                 </tr>
@@ -435,14 +435,14 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
@@ -460,21 +460,21 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
                 />DreaIVIS
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/ar.png"
                   class="flg"
                   alt=""
@@ -486,14 +486,14 @@
               2004年
               <strong>拉克斯堤盃 (Rakeshty AoC)</strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
@@ -512,14 +512,14 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
@@ -537,17 +537,17 @@
                   <td>第二屆</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/pl.png" class="flg" alt="" />PeEl</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td><img src="~assets/bg.png" class="flg" alt="" />Buddha</td>
                   <td><img src="~assets/bg.png" class="flg" alt="" />Buddha</td>
                 </tr>
@@ -558,21 +558,21 @@
               2005年
               <strong>冠軍歸來 (Return of Champion)</strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
                 />DreaIVIS
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
@@ -590,21 +590,21 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
                 />Chris
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
                 />RuKie
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
@@ -642,19 +642,19 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Grunt</td>
                   <td><img src="~assets/uk.png" class="flg" alt="" />Tea</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td style="text-align:center">?</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Canary</td>
@@ -672,21 +672,21 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
                 />Chris
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
@@ -705,21 +705,21 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
                 />Chris
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/hk.png"
                   class="flg"
                   alt=""
                 />Ding
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
@@ -737,28 +737,28 @@
                 >
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
                 />Chris
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />feeling
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
@@ -796,25 +796,25 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />Ruso</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/hk.png" class="flg" alt="" />Ding</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td><img src="~assets/hk.png" class="flg" alt="" />Ding</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" />殿軍</td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i>殿軍</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />WraTh</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />Cain</td>
@@ -837,28 +837,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />RiuT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/uk.png"
                   class="flg"
                   alt=""
                 />BlinG
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
@@ -880,28 +880,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />Tim
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/de.png"
                   class="flg"
                   alt=""
                 />JorDan
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
@@ -922,28 +922,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />dogao
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />miguel
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/ar.png"
                   class="flg"
                   alt=""
@@ -994,22 +994,22 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
                   <td><img src="~assets/hk.png" class="flg" alt="" />Ding</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" />殿軍</td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i>殿軍</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />F1Re</td>
                 </tr>
@@ -1098,28 +1098,28 @@
                 /></a>
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />RiuT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/de.png"
                   class="flg"
                   alt=""
                 />JorDan
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
@@ -1162,22 +1162,22 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />miguel</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Fedex</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Tokiwa</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />BruH</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" />殿軍</td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i>殿軍</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Monoz</td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Tokiwa</td>
                 </tr>
@@ -1204,28 +1204,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/cz.png"
                   class="flg"
                   alt=""
                 />Lojza
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
                 />BacT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />St4rk
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/tr.png"
                   class="flg"
                   alt=""
@@ -1246,28 +1246,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
                 />BacT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
                 />Ra
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/my.png"
                   class="flg"
                   alt=""
@@ -1295,28 +1295,28 @@
               </strong>
               (WCG 後最大單挑賽)
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />Yo
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />RiuT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
@@ -1344,28 +1344,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />RiuT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />Yo
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/lv.png"
                   class="flg"
                   alt=""
@@ -1388,21 +1388,21 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
                 />TaToH
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
                 />BacT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
@@ -1431,21 +1431,21 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
                 />BacT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/it.png"
                   class="flg"
                   alt=""
                 />Vodka
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
@@ -1473,28 +1473,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />Yo
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/ru.png"
                   class="flg"
                   alt=""
                 />Vinch
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />RiuT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
@@ -1540,22 +1540,22 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/fr.png" class="flg" alt="" />Edie</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/cz.png" class="flg" alt="" />Lojza</td>
                   <td><img src="~assets/cz.png" class="flg" alt="" />Janik</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />St4rk</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" />殿軍</td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i>殿軍</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />F1Re</td>
                   <td><img src="~assets/ie.png" class="flg" alt="" />Melkor</td>
                 </tr>
@@ -1580,28 +1580,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />F1Re
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
                 />TaToH
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
                 />Pike
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
@@ -1627,14 +1627,14 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
                 />TaToH
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
@@ -1655,21 +1655,21 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>
                     <img src="~assets/kr.png" class="flg" alt="" />Grunt
                   </td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Koven</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>
                     <img src="~assets/jp.png" class="flg" alt="" />Halen
                   </td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />zyatou</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
+                    <i class="fas fa-trophy" style="color:#b79355"></i>
                     <img src="~assets/ca.png" class="flg" alt="" />Magi
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
@@ -1686,14 +1686,14 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>
                     <img src="~assets/tw.png" class="flg" alt="" />IamKmkm
                   </td>
                   <td><img src="~assets/tw.png" class="flg" alt="" />IamKen</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>
                     <img src="~assets/hk.png" class="flg" alt="" />Yanzi
                   </td>
                   <td>
@@ -1702,14 +1702,14 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
+                    <i class="fas fa-trophy" style="color:#b79355"></i>
                     <img src="~assets/de.png" class="flg" alt="" />FIRE
                   </td>
                   <td><img src="~assets/de.png" class="flg" alt="" />MuSe</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />
+                    <i class="fas fa-trophy" style="color:#343a40"></i>
                     <img src="~assets/nl.png" class="flg" alt="" />DREAMS
                   </td>
                   <td><img src="~assets/nl.png" class="flg" alt="" />Kraken</td>
@@ -1733,7 +1733,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> BsK:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> BsK:
                   </td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Halen</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Grunt</td>
@@ -1742,7 +1742,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> L_Clan:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> L_Clan:
                   </td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Capoch</td>
@@ -1751,7 +1751,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> StorM:
+                    <i class="fas fa-trophy" style="color:#b79355"></i> StorM:
                   </td>
                   <td><img src="~assets/il.png" class="flg" alt="" />Rami</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Fletch</td>
@@ -1776,7 +1776,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> BsK:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> BsK:
                   </td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Halen</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Grunt</td>
@@ -1785,7 +1785,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> L_Clan:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> L_Clan:
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />Bender</td>
@@ -1794,7 +1794,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> ThuG:
+                    <i class="fas fa-trophy" style="color:#b79355"></i> ThuG:
                   </td>
                   <td><img src="~assets/es.png" class="flg" alt="" />Ruso</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />Rukie</td>
@@ -1816,7 +1816,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> L_Clan:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> L_Clan:
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/my.png" class="flg" alt="" />Sutra</td>
@@ -1828,7 +1828,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> MyST:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> MyST:
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />BT4</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />IORI</td>
@@ -1839,7 +1839,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> ThuG:
+                    <i class="fas fa-trophy" style="color:#b79355"></i> ThuG:
                   </td>
                   <td><img src="~assets/es.png" class="flg" alt="" />Ruso</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />Rukie</td>
@@ -1861,7 +1861,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> BsK:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> BsK:
                   </td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Halen</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Grunt</td>
@@ -1871,7 +1871,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> L_Clan:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> L_Clan:
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />Bender</td>
@@ -1901,7 +1901,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> CsI:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> CsI:
                   </td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/il.png" class="flg" alt="" />Rami</td>
@@ -1909,7 +1909,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> ThuG:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> ThuG:
                   </td>
                   <td><img src="~assets/es.png" class="flg" alt="" />Ruso</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />ralber</td>
@@ -1917,7 +1917,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> L_Clan:
+                    <i class="fas fa-trophy" style="color:#b79355"></i> L_Clan:
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />Hammet</td>
@@ -1938,7 +1938,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> L_Clan:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> L_Clan:
                   </td>
                   <td><img src="~assets/es.png" class="flg" alt="" />Ruso</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />Alive</td>
@@ -1950,7 +1950,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> poZ:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> poZ:
                   </td>
                   <td><img src="~assets/hk.png" class="flg" alt="" />Ding</td>
                   <td><img src="~assets/jp.png" class="flg" alt="" />Halen</td>
@@ -1976,7 +1976,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> TyRanT:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> TyRanT:
                   </td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />kkab</td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />Grunt</td>
@@ -1985,7 +1985,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> RVK:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> RVK:
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />dogao</td>
@@ -1994,7 +1994,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> CSC:
+                    <i class="fas fa-trophy" style="color:#b79355"></i> CSC:
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />X2</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
@@ -2005,7 +2005,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" /> poZ:
+                    <i class="fas fa-trophy" style="color:#343a40"></i> poZ:
                   </td>
                   <td><img src="~assets/hk.png" class="flg" alt="" />kyo</td>
                   <td><img src="~assets/hk.png" class="flg" alt="" />Ding</td>
@@ -2034,7 +2034,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> TyRanT:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> TyRanT:
                   </td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />kkab</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
@@ -2045,7 +2045,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> NFQ:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> NFQ:
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />封心</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />櫻花</td>
@@ -2056,7 +2056,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> RVK:
+                    <i class="fas fa-trophy" style="color:#b79355"></i> RVK:
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />dogao</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />FeAge</td>
@@ -2066,7 +2066,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" /> VNS:
+                    <i class="fas fa-trophy" style="color:#343a40"></i> VNS:
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />CooL</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />ACCM</td>
@@ -2099,7 +2099,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" /> TyRanT:
+                    <i class="fas fa-trophy" style="color:#ffca00"></i> TyRanT:
                   </td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />kkab</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
@@ -2108,7 +2108,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> RVK:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> RVK:
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />St4rk</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />dogao</td>
@@ -2118,7 +2118,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> CKF:
+                    <i class="fas fa-trophy" style="color:#b79355"></i> CKF:
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />封心</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />雞窩</td>
@@ -2127,7 +2127,7 @@
                   <td><img src="~assets/cn.png" class="flg" alt="" />IamOK</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" /> SY:</td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i> SY:</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />NO23</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Duck</td>
@@ -2156,21 +2156,21 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>
                     <img src="~assets/vn.png" class="flg" alt="" />BacT
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
+                    <i class="fas fa-trophy" style="color:#b79355"></i>
                     <img src="~assets/br.png" class="flg" alt="" />F1Re
                   </td>
                   <td>
@@ -2180,7 +2180,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />
+                    <i class="fas fa-trophy" style="color:#343a40"></i>
                     <img src="~assets/rs.png" class="flg" alt="" />DauT
                   </td>
                   <td>
@@ -2212,7 +2212,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
@@ -2220,7 +2220,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>
                     <img src="~assets/br.png" class="flg" alt="" />F1Re
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
@@ -2228,14 +2228,14 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
+                    <i class="fas fa-trophy" style="color:#b79355"></i>
                     <img src="~assets/br.png" class="flg" alt="" />GoKu
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />St4rk</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />
+                    <i class="fas fa-trophy" style="color:#343a40"></i>
                     <img src="~assets/ca.png" class="flg" alt="" />Ra
                   </td>
                   <td><img src="~assets/ba.png" class="flg" alt="" />Hasan</td>
@@ -2276,39 +2276,39 @@
               </strong>
               <table>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i></td>
                   <td colspan="6">
                     <img src="~assets/TyRanT.jpg" alt="" /> TyRanT Legends
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /></td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i></td>
                   <td colspan="6">
                     <img src="~assets/TyRanT.jpg" alt="" /> TyRanT Warlords
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i></td>
                   <td colspan="6">
                     <img src="~assets/LClan.jpg" alt="" /> The Legion Clan
                     (L_Clan)
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" /></td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i></td>
                   <td colspan="6">
                     <img src="~assets/SY.jpg" alt="" /> Sexy boY (SY)
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i></td>
                   <td><img src="~assets/kr.png" class="flg" alt="" />kkab</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /></td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i></td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />F1Re</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
@@ -2316,7 +2316,7 @@
                   <td><img src="~assets/gr.png" class="flg" alt="" />Jidba</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i></td>
                   <td><img src="~assets/br.png" class="flg" alt="" />dogao</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />FeAge</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />WraTh</td>
@@ -2325,7 +2325,7 @@
                   <td><img src="~assets/uk.png" class="flg" alt="" />RaGE</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" /></td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i></td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />封心</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />櫻花</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
@@ -2355,7 +2355,7 @@
               </strong>
               <table>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" /> SY:</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i> SY:</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />封心</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />櫻花</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
@@ -2364,7 +2364,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" /> TyRanT:
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i> TyRanT:
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
@@ -2374,7 +2374,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" /> VNS:
+                    <i class="fas fa-trophy" style="color:#b79355"></i> VNS:
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />CooL</td>
@@ -2382,7 +2382,7 @@
                   <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" /> CR:</td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i> CR:</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />CL</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
@@ -2416,7 +2416,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>
                     <img src="~assets/ar.png" class="flg" alt="" />Nicov
                   </td>
                   <td>
@@ -2425,21 +2425,21 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>
                     <img src="~assets/cn.png" class="flg" alt="" />封心
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />lang</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
+                    <i class="fas fa-trophy" style="color:#b79355"></i>
                     <img src="~assets/ca.png" class="flg" alt="" />slam
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />Chris</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />
+                    <i class="fas fa-trophy" style="color:#343a40"></i>
                     <img src="~assets/fi.png" class="flg" alt="" />Zuppi
                   </td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Pike</td>
@@ -2467,28 +2467,28 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>
                     <img src="~assets/ar.png" class="flg" alt="" />Nicov
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />miguel</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
+                    <i class="fas fa-trophy" style="color:#b79355"></i>
                     <img src="~assets/fi.png" class="flg" alt="" />Zuppi
                   </td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />
+                    <i class="fas fa-trophy" style="color:#343a40"></i>
                     <img src="~assets/br.png" class="flg" alt="" />F1Re
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />dogao</td>
@@ -2516,28 +2516,28 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>
                     <img src="~assets/fr.png" class="flg" alt="" />Edie
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />miguel</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>
                     <img src="~assets/pe.png" class="flg" alt="" />Heart
                   </td>
                   <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
+                    <i class="fas fa-trophy" style="color:#b79355"></i>
                     <img src="~assets/ca.png" class="flg" alt="" />slam
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />
+                    <i class="fas fa-trophy" style="color:#343a40"></i>
                     <img src="~assets/vn.png" class="flg" alt="" />ACCM
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />CooL</td>
@@ -2558,14 +2558,14 @@
                 ></strong
               >
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                <i class="fas fa-trophy" style="color:#ffca00"></i><img
                   src="~assets/my.png"
                   class="flg"
                   alt=""
                 />Panther, Swinger, Dante
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i><img
                   src="~assets/it.png"
                   class="flg"
                   alt=""
@@ -2587,21 +2587,21 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                <i class="fas fa-trophy" style="color:#ffca00"></i><img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />IORI, windy, Cloudy, 8250
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i><img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
                 />Chris, B1ade, EmineM, Force
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" /><img
+                <i class="fas fa-trophy" style="color:#b79355"></i><img
                   src="~assets/jp.png"
                   class="flg"
                   alt=""
@@ -2623,21 +2623,21 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                <i class="fas fa-trophy" style="color:#ffca00"></i><img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />dogao, RiuT, Leozim, Rain
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i><img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
                 />Chris, slam, Blade, Ra
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" /><img
+                <i class="fas fa-trophy" style="color:#b79355"></i><img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
@@ -2664,28 +2664,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                <i class="fas fa-trophy" style="color:#ffca00"></i><img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />封心, 櫻花, Yo, james, Abu, NO23
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i><img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />RiuT, F1Re, St4rk, GoKu
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" /><img
+                <i class="fas fa-trophy" style="color:#b79355"></i><img
                   src="~assets/ar.png"
                   class="flg"
                   alt=""
                 />Nicov, Juan, Gary, PaTiN
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" /><img
+                <i class="fas fa-trophy" style="color:#343a40"></i><img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
@@ -2712,28 +2712,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                <i class="fas fa-trophy" style="color:#ffca00"></i><img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />封心, 櫻花, 小熊, Yo, NO23
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i><img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
                 />Hera, Chris, slam, mentalist, Ra
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" /><img
+                <i class="fas fa-trophy" style="color:#b79355"></i><img
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
                 />Zuppi, Pike, Ruben, Max
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" /><img
+                <i class="fas fa-trophy" style="color:#343a40"></i><img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
@@ -2760,28 +2760,28 @@
                 /></a>
               </strong>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                <i class="fas fa-trophy" style="color:#ffca00"></i><img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />dogao, miguel, St4rk, FeAge
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i><img
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
                 />Zuppi, Max, Villese, Pike, Ruben
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" /><img
+                <i class="fas fa-trophy" style="color:#b79355"></i><img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />Tim, CL, Vivi, Whoop, 雞窩
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" /><img
+                <i class="fas fa-trophy" style="color:#343a40"></i><img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
@@ -2952,25 +2952,25 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" />殿軍</td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i>殿軍</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                   <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
@@ -3010,28 +3010,28 @@
                 ><img src="~assets/YouTubeh.jpg" alt="YT"
               /></a>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />Tim
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/ar.png"
                   class="flg"
                   alt=""
                 />Nicov
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
@@ -3059,28 +3059,28 @@
                 ><img src="~assets/YouTubeh.jpg" alt="YT"
               /></a>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
                 />TaToH
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
@@ -3129,22 +3129,22 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>四強</td>
                   <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>四強</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
                 </tr>
@@ -3191,24 +3191,24 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>四強</td>
                   <td>
                     <img src="~assets/fi.png" class="flg" alt="" />Villese
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>四強</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Tim</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
                 </tr>
@@ -3237,28 +3237,28 @@
                 ><img src="~assets/YouTubeh.jpg" alt="YT"
               /></a>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
                 />TaToH
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>四強<img
                   src="~assets/at.png"
                   class="flg"
                   alt=""
                 />Lierey
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>四強<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
@@ -3284,28 +3284,28 @@
                 ><img src="~assets/YouTubeh.jpg" alt="YT"
               /></a>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
                 />Viper
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/fi.png"
                   class="flg"
                   alt=""
                 />Max
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>四強<img
                   src="~assets/at.png"
                   class="flg"
                   alt=""
                 />Lierey
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>四強<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
@@ -3359,22 +3359,22 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>四強</td>
                   <td><img src="~assets/pe.png" class="flg" alt="" />Heart</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>四強</td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
                 </tr>
@@ -3401,7 +3401,7 @@
                 ><img src="~assets/YouTubeh.jpg" alt="YT"
               /></a>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/no.png"
                   class="flg"
                   alt=""
@@ -3413,21 +3413,21 @@
                 /></a>
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
                 />TaToH
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/br.png"
                   class="flg"
                   alt=""
                 />St4rk
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
@@ -3453,28 +3453,28 @@
                 ><img src="~assets/YouTubeh.jpg" alt="YT"
               /></a>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/vn.png"
                   class="flg"
                   alt=""
                 />BacT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />Vivi
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>季軍<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
+                <i class="fas fa-trophy" style="color:#343a40"></i>殿軍<img
                   src="~assets/ie.png"
                   class="flg"
                   alt=""
@@ -3501,28 +3501,28 @@
                 ><img src="~assets/YouTubeh.jpg" alt="YT"
               /></a>
               <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍<img
                   src="~assets/cn.png"
                   class="flg"
                   alt=""
                 />Yo
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍<img
                   src="~assets/es.png"
                   class="flg"
                   alt=""
                 />TaToH
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>四強<img
                   src="~assets/rs.png"
                   class="flg"
                   alt=""
                 />DauT
               </li>
               <li>
-                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                <i class="fas fa-trophy" style="color:#b79355"></i>四強<img
                   src="~assets/ca.png"
                   class="flg"
                   alt=""
@@ -3562,28 +3562,28 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍
                     <img src="~assets/ar.png" class="flg" alt="" />Nicov
                   </td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />季軍
+                    <i class="fas fa-trophy" style="color:#b79355"></i>季軍
                     <img src="~assets/ca.png" class="flg" alt="" />slam
                   </td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />殿軍
+                    <i class="fas fa-trophy" style="color:#343a40"></i>殿軍
                     <img src="~assets/vn.png" class="flg" alt="" />BacT
                   </td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />ACCM</td>
@@ -3618,7 +3618,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍
                     <img src="~assets/rs.png" class="flg" alt="" />DauT
                   </td>
                   <td>
@@ -3628,21 +3628,21 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍
                     <img src="~assets/my.png" class="flg" alt="" />Metal
                   </td>
                   <td><img src="~assets/de.png" class="flg" alt="" />stefan</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />四強
+                    <i class="fas fa-trophy" style="color:#b79355"></i>四強
                     <img src="~assets/vn.png" class="flg" alt="" />BacT
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />四強
+                    <i class="fas fa-trophy" style="color:#b79355"></i>四強
                     <img src="~assets/ie.png" class="flg" alt="" />Timo
                   </td>
                   <td><img src="~assets/ie.png" class="flg" alt="" />Melkor</td>
@@ -3675,7 +3675,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍
                     <img src="~assets/fi.png" class="flg" alt="" />Max
                   </td>
                   <td>
@@ -3684,7 +3684,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍
                     <img src="~assets/es.png" class="flg" alt="" />TaToH
                   </td>
                   <td>
@@ -3694,14 +3694,14 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />季軍
+                    <i class="fas fa-trophy" style="color:#b79355"></i>季軍
                     <img src="~assets/ar.png" class="flg" alt="" />Nicov
                   </td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />殿軍
+                    <i class="fas fa-trophy" style="color:#343a40"></i>殿軍
                     <img src="~assets/cn.png" class="flg" alt="" />Yo
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
@@ -3737,14 +3737,14 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍
                     <img src="~assets/cn.png" class="flg" alt="" />Yo
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍
                     <img src="~assets/cn.png" class="flg" alt="" />Tim
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />CL</td>
@@ -3766,7 +3766,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍
                     <img src="~assets/fi.png" class="flg" alt="" />Max
                   </td>
                   <td>
@@ -3775,7 +3775,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
@@ -3797,14 +3797,14 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍
                     <img src="~assets/at.png" class="flg" alt="" />Lierey
                   </td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
@@ -3839,21 +3839,21 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍
                     <img src="~assets/fi.png" class="flg" alt="" />Max
                   </td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍
                     <img src="~assets/cn.png" class="flg" alt="" />Yo
                   </td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />季軍
+                    <i class="fas fa-trophy" style="color:#b79355"></i>季軍
                     <img src="~assets/vn.png" class="flg" alt="" />BacT
                   </td>
                   <td>
@@ -3863,7 +3863,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />殿軍
+                    <i class="fas fa-trophy" style="color:#343a40"></i>殿軍
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
@@ -3895,7 +3895,7 @@
               /></a>
               <table>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i>冠軍</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                   <td>
@@ -3907,18 +3907,18 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍</td>
                   <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/pe.png" class="flg" alt="" />Heart</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />季軍</td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i>季軍</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />ACCM</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" />殿軍</td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i>殿軍</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
@@ -3963,7 +3963,7 @@
               <table>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <i class="fas fa-trophy" style="color:#ffca00"></i>冠軍
                     <img src="~assets/ar.png" class="flg" alt="" />Nicov
                   </td>
                   <td>
@@ -3973,21 +3973,21 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <i class="fas fa-trophy" style="color:#9ca1a5"></i>亞軍
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />四強
+                    <i class="fas fa-trophy" style="color:#b79355"></i>四強
                     <img src="~assets/rs.png" class="flg" alt="" />DauT
                   </td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />四強
+                    <i class="fas fa-trophy" style="color:#b79355"></i>四強
                     <img src="~assets/br.png" class="flg" alt="" />dogao
                   </td>
                   <td><img src="~assets/br.png" class="flg" alt="" />miguel</td>
@@ -4027,7 +4027,7 @@
                     <i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img
+                    ></i>冠軍&nbsp;<img
                       src="~assets/TyRanT.jpg"
                       alt=""
                     />&nbsp;TyRanT
@@ -4038,7 +4038,7 @@
                     <i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                    ></i>亞軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
                   </td>
                 </tr>
                 <tr>
@@ -4046,7 +4046,7 @@
                     <i
                       class="fas fa-trophy"
                       style="color:#b79355"
-                    />四強&nbsp;<img
+                    ></i>四強&nbsp;<img
                       src="~assets/Suomi.jpg"
                       alt=""
                     />&nbsp;Suomi
@@ -4057,25 +4057,25 @@
                     <i
                       class="fas fa-trophy"
                       style="color:#b79355"
-                    />四強&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
+                    ></i>四強&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i></td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /></td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i></td>
                   <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/pe.png" class="flg" alt="" />Heart</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
                   <td></td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i></td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Zuppi</td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                   <td>
@@ -4084,7 +4084,7 @@
                   <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i></td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Vivi</td>
@@ -4111,7 +4111,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img
+                    ></i>冠軍&nbsp;<img
                       src="~assets/secret.jpg"
                       alt=""
                     />&nbsp;Secret
@@ -4136,7 +4136,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
+                    ></i>亞軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
                   </td>
                 </tr>
                 <tr>
@@ -4145,7 +4145,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img
+                    ></i>冠軍&nbsp;<img
                       src="~assets/secret.jpg"
                       alt=""
                     />&nbsp;Secret
@@ -4170,7 +4170,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img
+                    ></i>亞軍&nbsp;<img
                       src="~assets/Frantic.jpg"
                       alt=""
                     />&nbsp;Frantic
@@ -4182,7 +4182,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                    ></i>冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
                   </td>
                 </tr>
                 <tr>
@@ -4204,7 +4204,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
+                    ></i>亞軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
                   </td>
                 </tr>
                 <tr>
@@ -4213,7 +4213,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img
+                    ></i>冠軍&nbsp;<img
                       src="~assets/Suomi.jpg"
                       alt=""
                     />&nbsp;Suomi
@@ -4238,7 +4238,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img
+                    ></i>亞軍&nbsp;<img
                       src="~assets/secret.jpg"
                       alt=""
                     />&nbsp;Secret
@@ -4250,7 +4250,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                    ></i>冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
                   </td>
                 </tr>
                 <tr>
@@ -4272,7 +4272,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img
+                    ></i>亞軍&nbsp;<img
                       src="~assets/secret.jpg"
                       alt=""
                     />&nbsp;Secret
@@ -4284,7 +4284,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                    ></i>冠軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
                   </td>
                 </tr>
                 <tr>
@@ -4306,7 +4306,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img
+                    ></i>亞軍&nbsp;<img
                       src="~assets/Suomi.jpg"
                       alt=""
                     />&nbsp;Suomi
@@ -4318,7 +4318,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img
+                    ></i>冠軍&nbsp;<img
                       src="~assets/secret.jpg"
                       alt=""
                     />&nbsp;Secret
@@ -4343,7 +4343,7 @@
                     &nbsp;<i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img
+                    ></i>亞軍&nbsp;<img
                       src="~assets/Suomi.jpg"
                       alt=""
                     />&nbsp;Suomi
@@ -4373,7 +4373,7 @@
                     <i
                       class="fas fa-trophy"
                       style="color:#ffca00"
-                    />冠軍&nbsp;<img
+                    ></i>冠軍&nbsp;<img
                       src="~assets/secret.jpg"
                       alt=""
                     />&nbsp;Secret
@@ -4384,7 +4384,7 @@
                     <i
                       class="fas fa-trophy"
                       style="color:#9ca1a5"
-                    />亞軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
+                    ></i>亞軍&nbsp;<img src="~assets/aM.jpg" alt="" />&nbsp;aM
                   </td>
                 </tr>
                 <tr>
@@ -4392,7 +4392,7 @@
                     <i
                       class="fas fa-trophy"
                       style="color:#b79355"
-                    />季軍&nbsp;<img
+                    ></i>季軍&nbsp;<img
                       src="~assets/Suomi.jpg"
                       alt=""
                     />&nbsp;Suomi
@@ -4403,11 +4403,11 @@
                     <i
                       class="fas fa-trophy"
                       style="color:#343a40"
-                    />殿軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
+                    ></i>殿軍&nbsp;<img src="~assets/SY.jpg" alt="" />&nbsp;SY
                   </td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00"></i></td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
@@ -4415,7 +4415,7 @@
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /></td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5"></i></td>
                   <td><img src="~assets/at.png" class="flg" alt="" />Lierey</td>
                   <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
@@ -4423,7 +4423,7 @@
                   <td><img src="~assets/ca.png" class="flg" alt="" />Hera</td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
+                  <td><i class="fas fa-trophy" style="color:#b79355"></i></td>
                   <td><img src="~assets/fi.png" class="flg" alt="" />Max</td>
                   <td>
                     <img src="~assets/fi.png" class="flg" alt="" />Villese
@@ -4433,7 +4433,7 @@
                   <td></td>
                 </tr>
                 <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" /></td>
+                  <td><i class="fas fa-trophy" style="color:#343a40"></i></td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />櫻花</td>
