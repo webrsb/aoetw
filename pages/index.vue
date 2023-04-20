@@ -27,7 +27,7 @@
         >
           <h3><nuxt-link to="/civs">文明</nuxt-link></h3>
           <nuxt-link to="/civs"
-            ><img width="100" src="~assets/u1.jpg" alt="文明" class="img-circle"
+            ><img width="100" src="~assets/u1.png" alt="文明" class="img-circle"
           /></nuxt-link>
         </div>
         <div
@@ -36,7 +36,7 @@
         >
           <h3><nuxt-link to="/units">單位</nuxt-link></h3>
           <nuxt-link to="/units"
-            ><img width="100" src="~assets/u2.jpg" alt="單位" class="img-circle"
+            ><img width="100" src="~assets/u2.png" alt="單位" class="img-circle"
           /></nuxt-link>
         </div>
         <div
@@ -45,7 +45,7 @@
         >
           <h3><nuxt-link to="/techs">科技</nuxt-link></h3>
           <nuxt-link to="/techs"
-            ><img width="100" src="~assets/u3.jpg" alt="科技" class="img-circle"
+            ><img width="100" src="~assets/u3.png" alt="科技" class="img-circle"
           /></nuxt-link>
         </div>
         <div
@@ -54,7 +54,7 @@
         >
           <h3><nuxt-link to="/building">建築</nuxt-link></h3>
           <nuxt-link to="/building"
-            ><img width="100" src="~assets/u4.jpg" alt="建築" class="img-circle"
+            ><img width="100" src="~assets/u4.png" alt="建築" class="img-circle"
           /></nuxt-link>
         </div>
         <div
@@ -63,7 +63,7 @@
         >
           <h3><nuxt-link to="/batt">戰役</nuxt-link></h3>
           <nuxt-link to="/batt"
-            ><img width="100" src="~assets/u5.jpg" alt="戰役" class="img-circle"
+            ><img width="100" src="~assets/u5.png" alt="戰役" class="img-circle"
           /></nuxt-link>
         </div>
         <div
@@ -74,7 +74,7 @@
           <nuxt-link to="/ar"
             ><img
               width="100"
-              src="~assets/u6.jpg"
+              src="~assets/u6.png"
               alt="戰術技巧"
               class="img-circle"
           /></nuxt-link>
@@ -87,7 +87,7 @@
           <nuxt-link to="/talk"
             ><img
               width="100"
-              src="~assets/u7.jpg"
+              src="~assets/u7.png"
               alt="討論區"
               class="img-circle"
           /></nuxt-link>
@@ -100,7 +100,7 @@
           <nuxt-link to="/hkbb"
             ><img
               width="100"
-              src="~assets/u8.jpg"
+              src="~assets/u8.png"
               alt="工作人員"
               class="img-circle"
           /></nuxt-link>
@@ -175,7 +175,7 @@
                 >
               </li>
               <li>
-                <img class="gg" src="~assets/deicon.png" alt="" /><nuxt-link
+                <img class="gg" src="~assets/Lordsicon.png" alt="" /><nuxt-link
                   to="/games/delw"
                   >西方霸主</nuxt-link
                 >
