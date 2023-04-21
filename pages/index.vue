@@ -25,86 +25,137 @@
           class="col-sm-4 col-md-3 col-xs-6 ititle"
           style="text-align: center;"
         >
-          <h3><nuxt-link to="/civs">文明</nuxt-link></h3>
           <nuxt-link to="/civs"
-            ><img width="100" src="~assets/u1.jpg" alt="文明" class="img-circle"
+            ><img width="100" src="~assets/u1.png" alt="文明" class="img-circle"
           /></nuxt-link>
+          <h3><nuxt-link to="/civs">文明</nuxt-link></h3>
         </div>
         <div
           class="col-sm-4 col-md-3 col-xs-6 ititle"
           style="text-align: center;"
         >
-          <h3><nuxt-link to="/units">單位</nuxt-link></h3>
           <nuxt-link to="/units"
-            ><img width="100" src="~assets/u2.jpg" alt="單位" class="img-circle"
+            ><img width="100" src="~assets/u2.png" alt="單位" class="img-circle"
           /></nuxt-link>
+          <h3><nuxt-link to="/units">單位</nuxt-link></h3>
         </div>
-        <div
+         <div
           class="col-sm-4 col-md-3 col-xs-6 ititle"
           style="text-align: center;"
         >
-          <h3><nuxt-link to="/techs">科技</nuxt-link></h3>
-          <nuxt-link to="/techs"
-            ><img width="100" src="~assets/u3.jpg" alt="科技" class="img-circle"
-          /></nuxt-link>
-        </div>
-        <div
-          class="col-sm-4 col-md-3 col-xs-6 ititle"
-          style="text-align: center;"
-        >
-          <h3><nuxt-link to="/building">建築</nuxt-link></h3>
           <nuxt-link to="/building"
-            ><img width="100" src="~assets/u4.jpg" alt="建築" class="img-circle"
+            ><img width="100" src="~assets/u4.png" alt="建築" class="img-circle"
           /></nuxt-link>
+          <h3><nuxt-link to="/building">建築</nuxt-link></h3>
         </div>
         <div
           class="col-sm-4 col-md-3 col-xs-6 ititle"
           style="text-align: center;"
         >
-          <h3><nuxt-link to="/batt">戰役</nuxt-link></h3>
+          <nuxt-link to="/techs"
+            ><img width="100" src="~assets/u3.png" alt="科技" class="img-circle"
+          /></nuxt-link>
+          <h3><nuxt-link to="/techs">科技</nuxt-link></h3>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
           <nuxt-link to="/batt"
-            ><img width="100" src="~assets/u5.jpg" alt="戰役" class="img-circle"
+            ><img width="100" src="~assets/u5.png" alt="戰役" class="img-circle"
           /></nuxt-link>
+          <h3><nuxt-link to="/batt">戰役</nuxt-link></h3>
         </div>
         <div
           class="col-sm-4 col-md-3 col-xs-6 ititle"
           style="text-align: center;"
         >
-          <h3><nuxt-link to="/ar">戰術技巧</nuxt-link></h3>
+          <nuxt-link to="/maps"
+            ><img
+              width="100"
+              src="~assets/u10.png"
+              alt="地圖"
+              class="img-circle"
+          /></nuxt-link>
+          <h3><nuxt-link to="/maps">地圖</nuxt-link></h3>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
           <nuxt-link to="/ar"
             ><img
               width="100"
-              src="~assets/u6.jpg"
+              src="~assets/u6.png"
               alt="戰術技巧"
               class="img-circle"
           /></nuxt-link>
+          <h3><nuxt-link to="/ar">戰術技巧</nuxt-link></h3>
         </div>
+         <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <nuxt-link to="https://aoe2techtree.net/?lng=tw"
+            ><img
+              width="100"
+              src="~assets/u11.png"
+              alt="科技樹查詢"
+              class="img-circle"
+          /></nuxt-link>
+          <h3><nuxt-link to="https://aoe2techtree.net/?lng=tw">科技樹查詢</nuxt-link></h3>
+      </div>
         <div
           class="col-sm-4 col-md-3 col-xs-6 ititle"
           style="text-align: center;"
         >
-          <h3><nuxt-link to="/talk">討論區</nuxt-link></h3>
-          <nuxt-link to="/talk"
+           <nuxt-link to="/talk"
             ><img
               width="100"
-              src="~assets/u7.jpg"
+              src="~assets/u7.png"
               alt="討論區"
               class="img-circle"
           /></nuxt-link>
+          <h3><nuxt-link to="/talk">討論區</nuxt-link></h3>
         </div>
         <div
           class="col-sm-4 col-md-3 col-xs-6 ititle"
           style="text-align: center;"
         >
-          <h3><nuxt-link to="/hkbb">工作人員</nuxt-link></h3>
           <nuxt-link to="/hkbb"
             ><img
               width="100"
-              src="~assets/u8.jpg"
+              src="~assets/u8.png"
               alt="工作人員"
               class="img-circle"
           /></nuxt-link>
+          <h3><nuxt-link to="/hkbb">工作人員</nuxt-link></h3>
         </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <nuxt-link to="/elements/Taunts"
+            ><img
+              width="100"
+              src="~assets/u9.png"
+              alt="嘲諷語音"
+              class="img-circle"
+          /></nuxt-link>
+          <h3><nuxt-link to="/elements/Taunts">嘲諷語音</nuxt-link></h3>
+        </div>
+         <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <nuxt-link to="https://www.ageofempires.com/games/aoeiide/"
+            ><img
+              width="100"
+              src="~assets/u12.png"
+              alt="官方網站"
+              class="img-circle"
+          /></nuxt-link>
+          <h3><nuxt-link to="https://www.ageofempires.com/games/aoeiide/">官方網站</nuxt-link></h3>
       </div>
       <hr style="margin-top: 20px" />
       <div class="row nw">
@@ -175,7 +226,7 @@
                 >
               </li>
               <li>
-                <img class="gg" src="~assets/deicon.png" alt="" /><nuxt-link
+                <img class="gg" src="~assets/Lordsicon.png" alt="" /><nuxt-link
                   to="/games/delw"
                   >西方霸主</nuxt-link
                 >
@@ -245,7 +296,7 @@
                 <img
                   src="~assets/MansaMusa.jpg"
                   style="float: right;"
-                  width="200"
+                  width="250"
                   alt=""
                 />
               </div>
