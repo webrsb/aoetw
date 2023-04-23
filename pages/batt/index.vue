@@ -2306,7 +2306,7 @@ export default {
     this.setShadow()
     this.$refs.shadow.addEventListener('scroll', this.setShadow)
   },
-  beforeDestroy() {
+  beforeUnmount() {
     this.$refs.shadow.removeEventListener('scroll', this.setShadow)
   },
   methods: {

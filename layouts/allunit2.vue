@@ -1,9 +1,9 @@
 <template>
   <div>
     <navbar />
-      <container>
-        <slot />
-      </container>
+    <container>
+      <slot />
+    </container>
     <allunit2 />
     <credit />
   </div>

@@ -33,7 +33,6 @@
         <b-nav-item-dropdown text="資訊">
           <b-dropdown-item to="/top">世界知名玩家</b-dropdown-item>
           <b-dropdown-item to="/fotw">台港知名玩家</b-dropdown-item>
-          <b-dropdown-item to="/history">歷屆大賽結果</b-dropdown-item>
           <b-dropdown-item to="/news/ver5-7">5.7改版內容</b-dropdown-item>
           <b-dropdown-item to="/news/ver5-8">5.8改版內容</b-dropdown-item>
         </b-nav-item-dropdown>

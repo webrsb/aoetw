@@ -1,5 +1,5 @@
 <template>
-  <b-tabs class="play" @input="tabChangeEvent">
+  <b-tabs class="play" @activate-tab="tabChangeEvent">
     <b-tab title="程式碼" active>
       <div class="editer">
         <div>
@@ -75,7 +75,7 @@
                   <codemirror
                     v-model="html"
                     id="code-editor"
-                    mode="htmlmixed"
+                    mode="vue"
                   />
                 </div>
               </div>
@@ -215,8 +215,7 @@
 </template>
 
 <script>
-import Vue from 'vue'
-import debounce from 'lodash/debounce'
+import { createApp } from 'vue/dist/vue.esm-bundler.js'
 import needsTranspiler from '../utils/needs-transpiler'
 import axios from 'axios'
 import Clipboard from 'clipboard'
@@ -383,7 +382,7 @@ export default {
       }
     })
   },
-  beforeDestroy() {
+  beforeUnmount() {
     if (this.contentUnWatch) {
       this.contentUnWatch()
     }
@@ -411,17 +410,16 @@ export default {
         let parent
         try {
           parent = vm.$parent
-          vm.$destroy()
-          removeNode(vm.$el)
-          vm.$el.innerHTML = ''
+          vm.unmount()
+          // removeNode(vm.$el)
+          // vm.$el.innerHTML = ''
         } catch (err) {}
         try {
-          parent.$destroy()
+          parent.unmount()
         } catch (err) {}
       }
       this.playVM = vm = null
       this.$refs.result.innerHTML = ''
-      Vue.config.silent = true
     },
     createVM() {
       const playground = this
@@ -522,15 +520,11 @@ export default {
       try {
         let holder = document.createElement('div')
         this.$refs.result.appendChild(holder)
-        Vue.config.silent = false
-        this.playVM = new Vue(
-          Object.assign({}, options, {
-            // set the app mountpoint
-            el: holder,
+        this.playVM = createApp(Object.assign({}, options, {
             // Router needed for tooltips/popovers so they hide when docs route changes
             router: this.$router,
             // We set a fake parent so we can capture most runtime and render errors (error boundary)
-            parent: new Vue({
+            parent: createApp({
               template: '<span />',
               errorCaptured(err, vm, info) {
                 // pass error to playground error handler
@@ -558,6 +552,11 @@ export default {
               }
             }
           })
+        )
+
+        this.playVM.mount(
+          // set the app mountpoint
+          holder
         )
       } catch (err) {
         this.destroyVM()

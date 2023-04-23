@@ -1,9 +1,9 @@
 <template>
   <div>
     <navbar />
-      <container>
-        <slot />
-      </container>
+    <container>
+      <slot />
+    </container>
     <allanimal />
     <credit />
   </div>
