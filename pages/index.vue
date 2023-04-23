@@ -175,7 +175,7 @@
                 >
               </li>
               <li>
-                <img class="gg" src="~assets/deicon.png" alt="" /><nuxt-link
+                <img class="gg" src="~assets/Lordsicon.png" alt="" /><nuxt-link
                   to="/games/delw"
                   >西方霸主</nuxt-link
                 >
