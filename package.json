@@ -23,6 +23,6 @@
   },
   "devDependencies": {
     "cross-env": "^5.2.1",
-    "nuxt": "^3.4.2"
+    "nuxt": "~3.3.2"
   }
 }
