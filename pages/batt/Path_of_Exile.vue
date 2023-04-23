@@ -273,7 +273,7 @@
                   position="centered"
                   class="imgn hg"
                   width="500"
-                  src="~assets/yodit-town center.jpg"
+                  src="~assets/yodit-town_center.jpg"
                   alt=""
               /></gallery>
               <p><em>接管村莊，然後就逃吧！</em></p>
@@ -315,8 +315,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

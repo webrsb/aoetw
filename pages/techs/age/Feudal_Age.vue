@@ -343,7 +343,7 @@
               <li>
                 <img
                   class="gg"
-                  src="~assets/tracking.png"
+                  src="~assets/TrackingDE.png"
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
@@ -665,8 +665,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allage' })
+
 export default {
-  layout: 'allage',
   components: {}
 }
 </script>

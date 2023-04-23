@@ -204,8 +204,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'alllarmor' })
+
 export default {
-  layout: 'alllarmor',
   components: {}
 }
 </script>

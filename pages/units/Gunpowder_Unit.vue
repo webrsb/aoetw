@@ -433,8 +433,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allunit2' })
+
 export default {
-  layout: 'allunit2',
   components: {}
 }
 </script>

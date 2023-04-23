@@ -1203,6 +1203,7 @@
               <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>+2射程、可啟用
               <nuxt-link to="/units/Flaming_Camel">火焰駱駝</nuxt-link>。
             </td>
+          </tr>
           <tr>
             <td class="tunitc6">
               <img
@@ -1243,8 +1244,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'alltech' })
+
 export default {
-  layout: 'alltech',
   components: {}
 }
 </script>

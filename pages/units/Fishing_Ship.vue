@@ -785,8 +785,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allunit' })
+
 export default {
-  layout: 'allunit',
   components: {}
 }
 </script>

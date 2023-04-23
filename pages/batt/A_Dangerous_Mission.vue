@@ -202,7 +202,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Suryavarman I-3.jpg" alt="" />
+                <img src="~assets/Suryavarman_I-3.jpg" alt="" />
               </div>
             </td>
           </tr>
@@ -260,8 +260,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

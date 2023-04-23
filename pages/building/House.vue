@@ -514,8 +514,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbuilding' })
+
 export default {
-  layout: 'allbuilding',
   components: {}
 }
 </script>

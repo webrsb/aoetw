@@ -92,7 +92,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/7. El Cid.jpg" width="300" alt="" />
+              <img src="~assets/7._El_Cid.jpg" width="300" alt="" />
               <p>熙德戰役地圖</p>
             </div>
           </div>
@@ -173,8 +173,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

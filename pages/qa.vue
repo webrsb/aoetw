@@ -23,11 +23,11 @@
         <span class="small">
           由於2019 《世紀帝國II：決定版》發布，2013 發行的《世紀帝國II：HD》在
           Steam 商店的遊戲名稱由
-          <span class="badge badge-secondary text-wrap" style="width: 6rem;"
+          <span class="badge bg-secondary text-wrap" style="width: 6rem;"
             >Age of Empires II: HD</span
           >
           改為
-          <span class="badge badge-secondary text-wrap" style="width: 7rem;"
+          <span class="badge bg-secondary text-wrap" style="width: 7rem;"
             >Age of Empires II (2013)</span
           >
           以下統稱為《世紀帝國II (2013)》
@@ -36,10 +36,7 @@
       <h3>1.系統相關-購買前</h3>
       <div class="row">
         <div class="col-md-12">
-          <b-btn v-b-toggle.a-1 class="m-1" variant="primary"
-            >1-1.世紀帝國II目前到底有幾個資料片？</b-btn
-          >
-          <b-collapse id="a-1">
+          <collapse-button variant="primary" text="1-1.世紀帝國II目前到底有幾個資料片？">
             <div class="well">
               <table class="table-bordered table">
                 <tbody>
@@ -207,15 +204,12 @@
                 </tbody>
               </table>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.a-2 class="m-1" variant="primary"
-            >1-2.世紀帝國II要如何購買？</b-btn
-          >
-          <b-collapse id="a-2">
+          <collapse-button variant="primary" text="1-2.世紀帝國II要如何購買？">
             <div class="well">
               <p>
                 目前有《世紀帝國II：決定版》和《世紀帝國II (2013)》兩種，都是在
@@ -229,7 +223,7 @@
                 Q1:
                 是否已擁有《世紀帝國一代：決定版》或想一起購買《世紀帝國一代：決定版》?<br />
 
-                <span class="badge badge-success">是</span>:
+                <span class="badge bg-success">是</span>:
                 <a
                   href=" https://store.steampowered.com/bundle/11831/"
                   target="_blank"
@@ -237,13 +231,13 @@
                   若已擁有其中一項會自動扣除)</a
                 ><br />
 
-                <span class="badge badge-warning">否</span>:接Q2
+                <span class="badge bg-warning">否</span>:接Q2
               </p>
               <p>
                 Q2: 是否已擁有《世紀帝國II (2013)》或想一起購買《世紀帝國II
                 (2013)》?<br />
 
-                <span class="badge badge-success">是</span>:
+                <span class="badge bg-success">是</span>:
                 <a
                   href="https://store.steampowered.com/bundle/11830/"
                   target="_blank"
@@ -251,11 +245,11 @@
                   《世紀帝國II：決定版》(若已擁有其中一項會自動扣除)</a
                 >
                 <br />
-                <span class="badge badge-warning">否</span>:接Q3
+                <span class="badge bg-warning">否</span>:接Q3
               </p>
               <p>
                 Q3: 我只想購買決定版就好<br />
-                <span class="badge badge-success">是</span>:
+                <span class="badge bg-success">是</span>:
                 <a
                   href="https://store.steampowered.com/app/813780"
                   target="_blank"
@@ -281,28 +275,22 @@
                 >
               </p>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.a-3 class="m-1" variant="primary"
-            >1-3.沒有信用卡怎麼購買？怎麼用超商付款</b-btn
-          >
-          <b-collapse id="a-3">
+          <collapse-button variant="primary" text="1-3.沒有信用卡怎麼購買？怎麼用超商付款">
             <div class="well">
               可以使用Steam點數卡購買，使用超商繳費，連結如下
               <p><a href="https://cdkey.com.tw" target="_blank">閃電發卡</a></p>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.a-4 class="m-1" variant="primary"
-            >1-4.要買哪個版本？要把所有資料片一起買下，版本才不會有問題?</b-btn
-          >
-          <b-collapse id="a-4">
+          <collapse-button variant="primary" text="1-4.要買哪個版本？要把所有資料片一起買下，版本才不會有問題?">
             <div class="well">
               新玩家建議直接購買 《世紀帝國II：決定版》，包含了《世紀帝國II
               (2013)》所有的資料片，因此不需另外購買DLC會比較便宜。
@@ -316,15 +304,12 @@
               </div>
               除非你的電腦不是windows10，不然建議直接購買決定版就好。若一定要買2013版，可以只買主程式，且2013版主程式與資料片全部都可互連。但如果只買主程式，則沒辦法用新文明，沒差多少錢，建議全買
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.a-5 class="m-1" variant="primary"
-            >1-5.現在要到哪裡連線對戰？</b-btn
-          >
-          <b-collapse id="a-5">
+          <collapse-button variant="primary" text="1-5.現在要到哪裡連線對戰？">
             <div class="well">
               <div class="rounded d-block bg-info text-white">
                 《世紀帝國II：決定版》
@@ -340,15 +325,12 @@
                 >請點此</a
               >。
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.a-6 class="m-1" variant="primary"
-            >1-6.電腦配備要求很高嗎?</b-btn
-          >
-          <b-collapse id="a-6">
+          <collapse-button variant="primary" text="1-6.電腦配備要求很高嗎?">
             <div class="well">
               <div class="rounded d-block bg-info text-white">
                 《世紀帝國II：決定版》
@@ -381,16 +363,13 @@
                 硬碟空間：2 GB 可用硬碟空間
               </p>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <h3>2.系統相關-購買後</h3>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.b-1 class="m-1" variant="primary"
-            >2-1.遊戲有沒有中文？如何繁中化?</b-btn
-          >
-          <b-collapse id="b-1">
+          <collapse-button variant="primary" text="2-1.遊戲有沒有中文？如何繁中化?">
             <div class="well">
               <div class="rounded d-block bg-info text-white">
                 《世紀帝國II：決定版》
@@ -421,15 +400,12 @@
                 >
               </p>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.b-2 class="m-1" variant="primary"
-            >2-2.怎麼更改遊戲解析度?(2013版)</b-btn
-          >
-          <b-collapse id="b-2">
+          <collapse-button variant="primary" text="2-2.怎麼更改遊戲解析度?(2013版)">
             <div class="well">
               桌面解析度=遊戲解析度，你是筆電的話只能說gg
               <p>
@@ -440,15 +416,12 @@
                 >
               </p>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.b-3 class="m-1" variant="primary"
-            >2-3.連線出現握手狀態圖示，無法開始遊戲(2013版)</b-btn
-          >
-          <b-collapse id="b-3">
+          <collapse-button variant="primary" text="2-3.連線出現握手狀態圖示，無法開始遊戲(2013版)">
             <div class="well">
               重進房應該會改善，若經常性發生，可能是虛擬IP問題 設定port
               forwarding或是DMZ可能改善
@@ -460,29 +433,23 @@
                 >
               </p>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.b-4 class="m-1" variant="primary"
-            >2-4.我的版本不會自動更新</b-btn
-          >
-          <b-collapse id="b-4">
+          <collapse-button variant="primary" text="2-4.我的版本不會自動更新">
             <div class="well">
               參考下圖設定，若下方選項選這個，開著steam且遊戲不開就會自動更新了
               <img src="https://i.imgur.com/KbnO3Tll.jpg" alt="" />
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <h3>3.遊戲相關</h3>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.c-1 class="m-1" variant="success"
-            >3-1.遊戲的村民閒置驚嘆號、小樹、格子、巨羊怎麼用？</b-btn
-          >
-          <b-collapse id="c-1">
+          <collapse-button variant="success" text="3-1.遊戲的村民閒置驚嘆號、小樹、格子、巨羊怎麼用？">
             <div class="well">
               <div class="rounded d-block bg-info text-white">
                 《世紀帝國II：決定版》
@@ -566,15 +533,12 @@
                 </li>
               </ul>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.c-2 class="m-1" variant="success"
-            >3-2.有推薦的強AI嗎?(2013版)</b-btn
-          >
-          <b-collapse id="c-2">
+          <collapse-button variant="success" text="3-2.有推薦的強AI嗎?(2013版)">
             <div class="well">
               <p>難度依序由簡單至難:</p>
               <ul>
@@ -636,29 +600,23 @@
                 </li>
               </ul>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.c-3 class="m-1" variant="success"
-            >3-3.語音指令沒聲音(2013版)</b-btn
-          >
-          <b-collapse id="c-3">
+          <collapse-button variant="success" text="3-3.語音指令沒聲音(2013版)">
             <div class="well">
               <p>Patch 5.7 語音指令預設關閉 請自行啟動</p>
               <img src="~assets/blfNLeZl.jpg" alt="" />
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <h3>4.遊戲戰術相關</h3>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.d-1 class="m-1" variant="warning"
-            >4-1.為什麼看你們打都不撿遺跡?</b-btn
-          >
-          <b-collapse id="d-1">
+          <collapse-button variant="warning" text="4-1.為什麼看你們打都不撿遺跡?">
             <div class="well">
               <p>
                 今天要跟大家講一個生香油錢的故事，說到世紀帝國II的遺跡，就一個長得很像獎杯，遊戲開始時散落在地圖各地，只有僧侶可以搬運，而當他被放置到修道院時，他就會以每2秒1黃金的速度生產黃金所以說呢，你遺跡越多黃金就越多啦，那到底為什麼實戰中大家都不撿遺跡呢？
@@ -684,43 +642,34 @@
                 allowfullscreen
               ></iframe>
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.d-2 class="m-1" variant="warning"
-            >4-2.被偷豬影響有多大?</b-btn
-          >
-          <b-collapse id="d-2">
+          <collapse-button variant="warning" text="4-2.被偷豬影響有多大?">
             <div class="well">
               表面上被偷豬不計耗損，損失340食物，而對方賺340食物，但實際上靠趕鹿早點種田等方式，其實損失沒有帳面上如此大，高手即使被偷豬升級也不會被影響。但偷豬還有隱形的損失，且隱形的損失遠大於帳面上，譬如說偷豬的那一方多吃一隻豬，等於斥候趕了2隻半的鹿，代表他不用提早種田，有多餘的木頭可以做更多的事情，被偷豬的那一方斥候得在家趕鹿，所以沒有辦法探情報，對方如果打裝甲塔還是前置等兇猛的打法，沒辦法提早做準備，這是最虧的。
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.d-3 class="m-1" variant="warning"
-            >4-3.為什麼斥候探路都不用Shift自動探路?</b-btn
-          >
-          <b-collapse id="d-3">
+          <collapse-button variant="warning" text="4-3.為什麼斥候探路都不用Shift自動探路?">
             <div class="well">
               因為用shift設路徑自動探路，大腦沒辦法記憶地圖，會變成你只是為了開地圖，而其實探路真正的目的是知道地圖長什麼樣子，哪邊有狼、有缺口、有資源等等，如果不是手動探，你最後還是要花時間去看，多此一舉。且自動探路很危險，遇到敵人的馬會被捕第一刀，你回過神後大概被砍兩刀了，這對初期戰局很不利，最重要的是手動探圖，斥候都有可能誤入敵人城鎮而被射死，不要說自動探圖了。自動探圖頂多用在綿羊探家裡附近。
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.d-4 class="m-1" variant="warning"
-            >4-4.為什麼都不用磨坊的排隊田?</b-btn
-          >
-          <b-collapse id="d-4">
+          <collapse-button variant="warning"  text="4-4.為什麼都不用磨坊的排隊田?">
             <div class="well">
               因為初期的資源都很緊，都控制在各項資源1~200內，60木材放到磨坊內排隊就等於浪費60木材，沒辦法利用。等於你在最需要錢的時候，把錢存在銀行，而且還沒有利息。
             </div>
-          </b-collapse>
+          </collapse-button>
         </div>
       </div>
       <hr />
@@ -737,8 +686,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'default' })
+
 export default {
-  layout: 'foot',
   components: {}
 }
 </script>

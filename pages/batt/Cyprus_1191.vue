@@ -203,7 +203,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Cyprus_map.png" width="100%" alt="" />
+                <img src="~assets/Cyprus_map.png" class="imgn" alt="" />
               </div>
             </td>
           </tr>
@@ -263,8 +263,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

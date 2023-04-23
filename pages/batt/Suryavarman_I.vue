@@ -65,7 +65,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/22.Suryavarman I.jpg" width="300" alt="" />
+              <img src="~assets/22.Suryavarman_I.jpg" width="300" alt="" />
               <p>蘇利耶跋摩一世戰役地圖</p>
             </div>
           </div>
@@ -101,7 +101,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Suryavarman I.jpg" width="300" alt="" />
+                <img src="~assets/Suryavarman_I.jpg" width="300" alt="" />
                 <p><em>本系列主角 蘇利耶跋摩一世像</em></p>
               </div>
             </td>
@@ -159,8 +159,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

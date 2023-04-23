@@ -1,5 +1,5 @@
 <template>
-  <b-tabs class="play" @input="tabChangeEvent">
+  <b-tabs class="play" @activate-tab="tabChangeEvent">
     <b-tab title="程式碼" active>
       <div class="editer">
         <div>
@@ -22,18 +22,18 @@
               />
               <input type="hidden" name="css" value="body { padding: 1rem; }" />
               <input type="hidden" name="js_wrap" value="l" />
-              <!-- <b-btn size="sm" type="submit" :disabled="!isOk">導出至 JSFiddle</b-btn> -->
-              <b-btn
+              <!-- <b-button size="sm" type="submit" :disabled="!isOk">導出至 JSFiddle</b-button> -->
+              <b-button
                 size="sm"
                 variant="danger"
                 :disabled="isDefault"
                 @click="reset"
               >
                 還原預設
-              </b-btn>
-              <b-btn size="sm" @click="jspanelClickEvent">{{
+              </b-button>
+              <b-button size="sm" @click="jspanelClickEvent">{{
                 jspanel.text
-              }}</b-btn>
+              }}</b-button>
             </form>
             <div
               class="d-inline-flex bd-highlight"
@@ -54,7 +54,7 @@
                 <div class="card mt-2">
                   <div class="card-header card-outline-info">
                     <span>貼上程式</span>
-                    <b-btn
+                    <b-button
                       style="margin-left: 10px"
                       size="sm"
                       variant="outline-info"
@@ -62,20 +62,20 @@
                       @click="toggleFull"
                     >
                       <span>{{ full ? '半寬' : '全寬' }}</span>
-                    </b-btn>
-                    <b-btn
+                    </b-button>
+                    <b-button
                       size="sm"
                       variant="outline-info"
                       class="float-right d-none d-md-inline-block"
                       @click="_run"
                     >
                       <span>檢查</span>
-                    </b-btn>
+                    </b-button>
                   </div>
                   <codemirror
                     v-model="html"
                     id="code-editor"
-                    mode="htmlmixed"
+                    mode="vue"
                   />
                 </div>
               </div>
@@ -87,14 +87,14 @@
                 <div class="card mt-2">
                   <div class="card-header card-outline-warning">
                     <span>JS</span>
-                    <b-btn
+                    <b-button
                       size="sm"
                       variant="outline-info"
                       class="float-right d-none d-md-inline-block"
                       @click="toggleFull"
                     >
                       <span>{{ full ? '半寬' : '全寬' }}</span>
-                    </b-btn>
+                    </b-button>
                   </div>
                   <codemirror v-model="js" mode="javascript" />
                 </div>
@@ -107,7 +107,7 @@
             <div class="card mt-2">
               <div class="card-header card-outline-secondary">
                 <span>錯誤顯示區</span>
-                <b-btn
+                <b-button
                   v-if="messages.length"
                   size="sm"
                   variant="outline-danger"
@@ -115,7 +115,7 @@
                   @click="clear"
                 >
                   <span>清空</span>
-                </b-btn>
+                </b-button>
               </div>
               <transition-group
                 tag="ul"
@@ -215,8 +215,7 @@
 </template>
 
 <script>
-import Vue from 'vue'
-import debounce from 'lodash/debounce'
+import { createApp } from 'vue/dist/vue.esm-bundler.js'
 import needsTranspiler from '../utils/needs-transpiler'
 import axios from 'axios'
 import Clipboard from 'clipboard'
@@ -383,7 +382,7 @@ export default {
       }
     })
   },
-  beforeDestroy() {
+  beforeUnmount() {
     if (this.contentUnWatch) {
       this.contentUnWatch()
     }
@@ -411,17 +410,16 @@ export default {
         let parent
         try {
           parent = vm.$parent
-          vm.$destroy()
-          removeNode(vm.$el)
-          vm.$el.innerHTML = ''
+          vm.unmount()
+          // removeNode(vm.$el)
+          // vm.$el.innerHTML = ''
         } catch (err) {}
         try {
-          parent.$destroy()
+          parent.unmount()
         } catch (err) {}
       }
       this.playVM = vm = null
       this.$refs.result.innerHTML = ''
-      Vue.config.silent = true
     },
     createVM() {
       const playground = this
@@ -522,15 +520,11 @@ export default {
       try {
         let holder = document.createElement('div')
         this.$refs.result.appendChild(holder)
-        Vue.config.silent = false
-        this.playVM = new Vue(
-          Object.assign({}, options, {
-            // set the app mountpoint
-            el: holder,
+        this.playVM = createApp(Object.assign({}, options, {
             // Router needed for tooltips/popovers so they hide when docs route changes
             router: this.$router,
             // We set a fake parent so we can capture most runtime and render errors (error boundary)
-            parent: new Vue({
+            parent: createApp({
               template: '<span />',
               errorCaptured(err, vm, info) {
                 // pass error to playground error handler
@@ -558,6 +552,11 @@ export default {
               }
             }
           })
+        )
+
+        this.playVM.mount(
+          // set the app mountpoint
+          holder
         )
       } catch (err) {
         this.destroyVM()

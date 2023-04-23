@@ -928,8 +928,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allage' })
+
 export default {
-  layout: 'allage',
   components: {}
 }
 </script>

@@ -206,7 +206,6 @@ export default {
       title: '戰術技巧 - Aoetw'
     }
   },
-  layout: '',
   components: {}
 }
 </script>

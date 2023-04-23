@@ -114,8 +114,9 @@ const civ_wrap = {
   Cumans: { name: '庫曼', img: require('@/assets/cumans.png') }
 }
 
+definePageMeta({ layout: 'allciv' })
+
 export default {
-  layout: 'allciv',
   head() {
     return {
       meta: [{ name: 'viewport', content: '' }]

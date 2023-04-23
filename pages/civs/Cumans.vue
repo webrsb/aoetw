@@ -448,8 +448,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allciv' })
+
 export default {
-  layout: 'allciv',
   components: {}
 }
 </script>

@@ -1322,7 +1322,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/tracking.png" alt="" /><nuxt-link
+                <img class="gg" src="~assets/TrackingDE.png" alt="" /><nuxt-link
                   to="/techs/Tracking"
                   >追蹤技術</nuxt-link
                 >
@@ -1333,7 +1333,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/tracking.png" alt="" /><nuxt-link
+                <img class="gg" src="~assets/TrackingDE.png" alt="" /><nuxt-link
                   to="/techs/Tracking"
                   >供給</nuxt-link
                 >
@@ -1785,8 +1785,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allunit2' })
+
 export default {
-  layout: 'allunit2',
   components: {}
 }
 </script>

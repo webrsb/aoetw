@@ -438,7 +438,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/A_Sons_Blood.png" width="100%" alt="" />
+                <img src="~assets/A_Sons_Blood.png" class="imgn" alt="" />
               </div>
             </td>
           </tr>
@@ -514,8 +514,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

@@ -645,7 +645,7 @@
                 @click="clickSplitEvent"
                 @show="showSplitEvent"
               >
-                <template slot="button-content">
+                <template v-slot:button-content>
                   <img
                     class="gg"
                     style="margin-left: -7px;"
@@ -1238,8 +1238,8 @@ export default {
       this.$router.push({ path: '/units/Unique_Unit' })
     },
     showSplitEvent(bvEvt) {
-      bvEvt.preventDefault()
       this.showCollapse = !this.showCollapse
+      bvEvt.preventDefault()
     }
   },
   components: {}

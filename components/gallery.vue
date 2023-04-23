@@ -4,7 +4,7 @@
       <slot></slot>
     </div>
     <b-modal
-      ref="myModalRef"
+      v-model="modalShow"
       size="lg"
       class="bigModel"
       hide-footer
@@ -19,14 +19,16 @@
 <script>
 export default {
   data() {
-    return {}
+    return {
+      modalShow: false
+    }
   },
   methods: {
     showModal() {
-      this.$refs.myModalRef.show()
+      this.modalShow = true
     },
     hideModal() {
-      this.$refs.myModalRef.hide()
+      this.modalShow = false
     }
   }
 }

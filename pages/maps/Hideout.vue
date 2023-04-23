@@ -59,8 +59,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allmap' })
+
 export default {
-  layout: 'allmap',
   components: {}
 }
 </script>

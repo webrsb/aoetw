@@ -80,7 +80,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/6. AOC Attila.jpg" width="300" alt="" />
+              <img src="~assets/6._AOC_Attila.jpg" width="300" alt="" />
               <p>阿提拉戰役地圖</p>
             </div>
           </div>
@@ -165,8 +165,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

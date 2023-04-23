@@ -228,7 +228,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/(map)Le_Loi - 2.The_Mountain_Siege.jpg"
+                  src="~assets/(map)Le_Loi_-_2.The_Mountain_Siege.jpg"
                   alt=""
                 />
               </div>
@@ -288,8 +288,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

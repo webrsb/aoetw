@@ -710,7 +710,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  width="100%"
+                  class="imgn"
                   src="~assets/Age-of-empires-ii_de_keyart.jpg"
                   alt=""
                 />
@@ -789,7 +789,6 @@
 </template>
 <script>
 export default {
-  layout: '',
   components: {}
 }
 </script>

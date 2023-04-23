@@ -221,7 +221,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/EIC 3.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/EIC_3.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -282,8 +282,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

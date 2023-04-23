@@ -50,8 +50,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allre' })
+
 export default {
-  layout: 'allre',
   components: {}
 }
 </script>

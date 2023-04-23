@@ -65,7 +65,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/Bayinnaung Campaign.jpg" width="300" alt="" />
+              <img src="~assets/Bayinnaung_Campaign.jpg" width="300" alt="" />
               <p>勃印曩戰役地圖</p>
             </div>
           </div>
@@ -154,8 +154,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'allbatt' })
+
 export default {
-  layout: 'allbatt',
   components: {}
 }
 </script>

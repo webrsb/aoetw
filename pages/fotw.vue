@@ -1330,8 +1330,9 @@
   </div>
 </template>
 <script>
+definePageMeta({ layout: 'default' })
+
 export default {
-  layout: 'foot',
   components: {}
 }
 </script>
