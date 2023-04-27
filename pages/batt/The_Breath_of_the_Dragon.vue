@@ -62,7 +62,7 @@
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">
-              同盟變敵對再變同盟在變敵對
+              同盟變敵對再變同盟再變敵對
             </td>
           </tr>
           <tr>
