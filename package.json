@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "cross-env": "^5.2.1",
+    "ftp-deploy": "^2.4.3",
     "nuxt": "~3.3.2"
   }
 }
