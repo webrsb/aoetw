@@ -7,13 +7,8 @@ jobs:
   build:
     docker:
       # specify the version you desire here
-      - image: circleci/node:lts
-      
-      # Specify service dependencies here if necessary
-      # CircleCI maintains a library of pre-built images
-      # documented at https://circleci.com/docs/2.0/circleci-images/
-      # - image: circleci/mongo:3.4.4
-
+      - image: cimg/node:16.20.0
+    resource_class: medium+
     working_directory: ~/repo
     branches:
       only:
@@ -38,23 +33,20 @@ jobs:
           command: |
             git submodule init
             git submodule update --remote
-      - run: mv $(pwd)/dist_cache old_dist_cache || mkdir old_dist_cache
-      - run: yarn install
+      - run: pnpm install
       - save_cache:
           paths:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run:
           command: |
-            set NODE_OPTIONS=--max_old_space_size=4096
-            yarn run generate
+            NODE_OPTIONS="--max-old-space-size=4096" pnpm generate
           no_output_timeout: 20m
-      - run: mv $(pwd)/dist dist_cache
       - save_cache:
           paths:
-            - dist_cache
+            - .nuxt
+            - .output
           key: v1-last_dist-{{ .BuildNum }}
       - deploy:
           command: |
-            rsync -rvcm --compare-dest=../old_dist_cache/ dist_cache/ dist/
             node .circleci/deploy.js
