@@ -46,8 +46,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
       - run:
           command: |
-            NODE_OPTIONS=--max-old-space-size=4096
-            pnpm generate
+            NODE_OPTIONS="--max-old-space-size=4096" pnpm generate
           no_output_timeout: 20m
       - run: mv $(pwd)/.output/public dist_cache
       - save_cache:
