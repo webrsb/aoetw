@@ -8,12 +8,7 @@ jobs:
     docker:
       # specify the version you desire here
       - image: cimg/node:16.20.0
-      
-      # Specify service dependencies here if necessary
-      # CircleCI maintains a library of pre-built images
-      # documented at https://circleci.com/docs/2.0/circleci-images/
-      # - image: circleci/mongo:3.4.4
-
+    resource_class: medium+
     working_directory: ~/repo
     branches:
       only:
@@ -46,7 +41,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
       - run:
           command: |
-            NODE_OPTIONS="--max-old-space-size=4000" pnpm generate
+            NODE_OPTIONS="--max-old-space-size=4096" pnpm generate
           no_output_timeout: 20m
       - run: mv $(pwd)/.output/public dist_cache
       - save_cache:
