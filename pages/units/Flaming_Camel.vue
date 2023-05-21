@@ -851,7 +851,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Flaming_camel_icon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

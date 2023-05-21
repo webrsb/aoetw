@@ -140,7 +140,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/blast_furnace.png" class="img-fluid" alt="" />
+                <img src="~assets/blast_furnace.png" alt="" />
               </div>
             </td>
           </tr>

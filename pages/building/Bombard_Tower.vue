@@ -644,14 +644,12 @@
                   <b-tab title="建築">
                     <img
                       src="~assets/bombard_tower.png"
-                      class="img-fluid"
                       alt=""
                     />
                   </b-tab>
                   <b-tab title="科技">
                     <img
                       src="~assets/bombard_tower_tech.png"
-                      class="img-fluid"
                       alt=""
                     />
                   </b-tab>

@@ -91,7 +91,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/bodkin_arrow.png" class="img-fluid" alt="" />
+                <img src="~assets/bodkin_arrow.png" alt="" />
               </div>
             </td>
           </tr>

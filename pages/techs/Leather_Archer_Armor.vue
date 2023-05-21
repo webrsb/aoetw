@@ -134,7 +134,6 @@
               <div class="unititle">
                 <img
                   src="~assets/leather_archer_armor.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

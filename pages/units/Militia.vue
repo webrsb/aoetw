@@ -684,7 +684,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/MilitiaIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/MilitiaIcon.png" alt="" />
               </div>
             </td>
           </tr>

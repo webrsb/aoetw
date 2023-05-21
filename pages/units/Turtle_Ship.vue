@@ -648,7 +648,6 @@
               <div class="unititle">
                 <img
                   src="~assets/TurtleShipIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

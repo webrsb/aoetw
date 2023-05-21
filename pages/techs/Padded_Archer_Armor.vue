@@ -72,7 +72,6 @@
               <div class="unititle">
                 <img
                   src="~assets/padded_archer_armor.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

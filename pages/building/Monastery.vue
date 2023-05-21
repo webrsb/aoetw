@@ -454,7 +454,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/monastery.png" class="img-fluid" alt="" />
+                <img src="~assets/monastery.png" alt="" />
               </div>
             </td>
           </tr>

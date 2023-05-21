@@ -802,7 +802,6 @@
               <div class="unititle">
                 <img
                   src="~assets/CondottieroIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

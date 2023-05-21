@@ -529,7 +529,6 @@
               <div class="unititle">
                 <img
                   src="~assets/JaguarWarriorIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

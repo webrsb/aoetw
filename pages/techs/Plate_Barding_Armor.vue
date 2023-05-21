@@ -150,7 +150,6 @@
               <div class="unititle">
                 <img
                   src="~assets/scale_barding_armor.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

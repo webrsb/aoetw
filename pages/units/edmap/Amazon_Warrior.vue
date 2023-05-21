@@ -50,7 +50,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Amazonwarrioricon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

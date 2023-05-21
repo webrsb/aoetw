@@ -755,7 +755,6 @@
               <div class="unititle">
                 <img
                   src="~assets/FastFireShipIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

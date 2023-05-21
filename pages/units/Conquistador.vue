@@ -719,7 +719,6 @@
               <div class="unititle">
                 <img
                   src="~assets/ConquistadorIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

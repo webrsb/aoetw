@@ -299,7 +299,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/fish_trap.png" class="img-fluid" alt="" />
+                <img src="~assets/fish_trap.png" alt="" />
               </div>
             </td>
           </tr>

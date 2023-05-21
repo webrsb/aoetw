@@ -694,7 +694,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Siegetowericon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

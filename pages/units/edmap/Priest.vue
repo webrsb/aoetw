@@ -70,7 +70,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/MonkIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/MonkIcon.png" alt="" />
               </div>
             </td>
           </tr>

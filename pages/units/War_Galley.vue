@@ -796,7 +796,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/WarGalley.png" class="img-fluid" alt="" />
+                <img src="~assets/WarGalley.png" alt="" />
               </div>
             </td>
           </tr>

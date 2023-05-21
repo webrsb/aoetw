@@ -174,7 +174,6 @@
               <div class="unititle">
                 <img
                   src="~assets/block_printing.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

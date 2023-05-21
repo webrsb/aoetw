@@ -79,7 +79,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/conscription.png" class="img-fluid" alt="" />
+                <img src="~assets/conscription.png" alt="" />
               </div>
             </td>
           </tr>

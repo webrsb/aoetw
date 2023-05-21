@@ -318,7 +318,6 @@
               <div class="unititle">
                 <img
                   src="~assets/RattanarcherIcon2.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

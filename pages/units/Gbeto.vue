@@ -506,7 +506,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/GbetoIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/GbetoIcon.png" alt="" />
               </div>
             </td>
           </tr>

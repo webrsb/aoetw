@@ -141,7 +141,6 @@
               <div class="unititle">
                 <img
                   src="~assets/plate_mail_armor.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

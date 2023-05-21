@@ -217,7 +217,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Flamethrowerimage.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

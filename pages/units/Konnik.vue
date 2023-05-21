@@ -982,14 +982,12 @@
                   <b-tab title="騎兵狀態">
                     <img
                       src="~assets/Konnikicon.png"
-                      class="img-fluid"
                       alt=""
                     />
                   </b-tab>
                   <b-tab title="步兵狀態">
                     <img
                       src="~assets/Konnikdismountedicon.png"
-                      class="img-fluid"
                       alt=""
                     />
                   </b-tab>

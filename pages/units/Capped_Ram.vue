@@ -620,7 +620,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/CappedRamIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/CappedRamIcon.png" alt="" />
               </div>
             </td>
           </tr>

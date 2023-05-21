@@ -492,7 +492,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Karambitwarrioricon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

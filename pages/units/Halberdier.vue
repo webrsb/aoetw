@@ -1015,7 +1015,6 @@
               <div class="unititle">
                 <img
                   src="~assets/HalberdierIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -139,7 +139,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/crop_rotation.png" class="img-fluid" alt="" />
+                <img src="~assets/crop_rotation.png" alt="" />
               </div>
             </td>
           </tr>

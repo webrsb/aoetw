@@ -972,7 +972,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/PikemanIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/PikemanIcon.png" alt="" />
               </div>
             </td>
           </tr>

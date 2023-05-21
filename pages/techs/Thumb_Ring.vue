@@ -339,7 +339,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Thumb_Ring.png" class="img-fluid" alt="" />
+                <img src="~assets/Thumb_Ring.png" alt="" />
               </div>
             </td>
           </tr>

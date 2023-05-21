@@ -695,7 +695,6 @@
               <div class="unititle">
                 <img
                   src="~assets/SkirmisherIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

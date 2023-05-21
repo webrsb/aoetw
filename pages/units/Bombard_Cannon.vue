@@ -647,7 +647,6 @@
               <div class="unititle">
                 <img
                   src="~assets/BombardCannonIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

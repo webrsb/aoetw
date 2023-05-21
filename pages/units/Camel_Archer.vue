@@ -929,7 +929,6 @@
               <div class="unititle">
                 <img
                   src="~assets/CamelArcherIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

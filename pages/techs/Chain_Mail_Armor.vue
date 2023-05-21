@@ -140,7 +140,6 @@
               <div class="unititle">
                 <img
                   src="~assets/chain_mail_armor.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

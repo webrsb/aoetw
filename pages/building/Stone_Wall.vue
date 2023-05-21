@@ -245,7 +245,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/stone_wall.png" class="img-fluid" alt="" />
+                <img src="~assets/stone_wall.png" alt="" />
               </div>
             </td>
           </tr>

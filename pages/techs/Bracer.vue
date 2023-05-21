@@ -202,7 +202,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bracer.png" class="img-fluid" alt="" />
+                <img src="~assets/Bracer.png" alt="" />
               </div>
             </td>
           </tr>

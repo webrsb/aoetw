@@ -608,7 +608,6 @@
                 <img
                   src="~assets/Imperialskirmishericon.png"
                   alt=""
-                  class="img-fluid"
                 />
               </div>
             </td>

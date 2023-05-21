@@ -200,7 +200,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/husbandry.png" class="img-fluid" alt="" />
+                <img src="~assets/husbandry.png" alt="" />
               </div>
             </td>
           </tr>

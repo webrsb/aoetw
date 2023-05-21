@@ -163,7 +163,6 @@
               <div class="unititle">
                 <img
                   src="~assets/siege_engineers.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

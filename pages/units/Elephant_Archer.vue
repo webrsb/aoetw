@@ -899,7 +899,6 @@
               <div class="unititle">
                 <img
                   src="~assets/ElephantArcherIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

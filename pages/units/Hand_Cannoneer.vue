@@ -613,7 +613,6 @@
               <div class="unititle">
                 <img
                   src="~assets/HandCannoneerIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

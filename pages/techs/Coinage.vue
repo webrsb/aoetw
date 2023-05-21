@@ -68,7 +68,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/coinage.png" class="img-fluid" alt="" />
+                <img src="~assets/coinage.png" alt="" />
               </div>
             </td>
           </tr>

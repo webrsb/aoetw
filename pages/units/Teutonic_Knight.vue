@@ -540,7 +540,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Crusade_avatar.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

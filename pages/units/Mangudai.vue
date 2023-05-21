@@ -945,7 +945,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/MangudaiIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/MangudaiIcon.png" alt="" />
               </div>
             </td>
           </tr>

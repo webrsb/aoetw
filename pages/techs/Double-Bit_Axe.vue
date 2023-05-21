@@ -72,7 +72,6 @@
               <div class="unititle">
                 <img
                   src="~assets/double-bit_axe.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -692,7 +692,6 @@
               <div class="unititle">
                 <img
                   src="~assets/CataphractIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

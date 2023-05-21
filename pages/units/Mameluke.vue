@@ -812,7 +812,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Saracenmamluk_icon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -711,7 +711,6 @@
               <div class="unititle">
                 <img
                   src="~assets/HeavyScorpionIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

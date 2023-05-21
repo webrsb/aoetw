@@ -137,7 +137,6 @@
               <div class="unititle">
                 <img
                   src="~assets/chain_barding_armor.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

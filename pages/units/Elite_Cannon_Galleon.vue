@@ -810,7 +810,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Elite_cannon_galleonicon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

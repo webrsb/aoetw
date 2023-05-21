@@ -378,7 +378,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Acheryrangeicon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

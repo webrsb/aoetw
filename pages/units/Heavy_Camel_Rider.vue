@@ -722,7 +722,6 @@
               <div class="unititle">
                 <img
                   src="~assets/HeavyCamelIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

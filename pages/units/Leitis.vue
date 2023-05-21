@@ -611,7 +611,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Leitisicon.png" class="img-fluid" alt="" />
+                <img src="~assets/Leitisicon.png" alt="" />
               </div>
             </td>
           </tr>

@@ -625,7 +625,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Magyar_Huszar_icon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

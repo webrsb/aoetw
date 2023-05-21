@@ -179,7 +179,6 @@
               <div class="unititle">
                 <img
                   src="~assets/gold_shaft_mining.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

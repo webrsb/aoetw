@@ -784,7 +784,6 @@
               <div class="unititle">
                 <img
                   src="~assets/CrossbowmanIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

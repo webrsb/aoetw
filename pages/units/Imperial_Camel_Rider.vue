@@ -627,7 +627,6 @@
               <div class="unititle">
                 <img
                   src="~assets/ImperialCamelIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

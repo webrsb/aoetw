@@ -730,7 +730,6 @@
               <div class="unititle">
                 <img
                   src="~assets/LongswordsManIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -822,7 +822,6 @@
               <div class="unititle">
                 <img
                   src="~assets/LightCavalryIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

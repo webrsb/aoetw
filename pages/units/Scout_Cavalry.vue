@@ -774,7 +774,6 @@
               <div class="unititle">
                 <img
                   src="~assets/ScoutCavalryIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

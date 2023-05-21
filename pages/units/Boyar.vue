@@ -607,7 +607,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/New_Boyar.png" class="img-fluid" alt="" />
+                <img src="~assets/New_Boyar.png" alt="" />
               </div>
             </td>
           </tr>

@@ -474,7 +474,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Aoe2-icon-serjeant.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

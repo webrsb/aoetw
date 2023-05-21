@@ -193,7 +193,6 @@
               <div class="unititle">
                 <img
                   src="~assets/ring_archer_armor.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

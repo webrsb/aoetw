@@ -1004,7 +1004,6 @@
               <div class="unititle">
                 <img
                   src="~assets/CavalryArcherIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -88,7 +88,6 @@
               <div class="unititle">
                 <img
                   src="~assets/unique_tech_imperial.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>
