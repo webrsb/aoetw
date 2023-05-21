@@ -883,7 +883,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Ballistaelephanticon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

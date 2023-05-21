@@ -681,7 +681,6 @@
               <div class="unititle">
                 <img
                   src="~assets/EagleWarriorIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -29,7 +29,6 @@
             <li>
               <img
                 class="gg"
-                width="25px"
                 src="~assets/palisade.png"
                 alt=""
               /><nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>
@@ -37,7 +36,6 @@
             <li>
               <img
                 class="gg"
-                width="25px"
                 src="~assets/stone_wall.png"
                 alt=""
               /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>
@@ -45,7 +43,6 @@
             <li>
               <img
                 class="gg"
-                width="25px"
                 src="~assets/stone_wall.png"
                 alt=""
               /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
@@ -53,7 +50,6 @@
             <li>
               <img
                 class="gg"
-                width="25px"
                 src="~assets/gate.png"
                 alt=""
               /><nuxt-link to="/building/Gate">城門</nuxt-link>

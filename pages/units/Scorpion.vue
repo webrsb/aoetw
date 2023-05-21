@@ -633,7 +633,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ScorpionIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/ScorpionIcon.png" alt="" />
               </div>
             </td>
           </tr>
@@ -660,7 +660,6 @@
             <td class="unit4">
               <img
                 class="gg"
-                width="25px"
                 src="~assets/siege_workshop.png"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop"

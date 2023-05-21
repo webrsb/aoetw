@@ -669,7 +669,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Elitesteppelancericon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

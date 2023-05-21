@@ -20,7 +20,7 @@
             <li>
               <img
                 src="~assets/EagleScoutIcon.png"
-                width="30px"
+                class="gg"
                 alt=""
               /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
               >：速度快，不怕<nuxt-link to="/units/Spearman">槍兵</nuxt-link

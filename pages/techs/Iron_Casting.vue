@@ -81,7 +81,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/iron_casting.png" class="img-fluid" alt="" />
+                <img src="~assets/iron_casting.png" alt="" />
               </div>
             </td>
           </tr>

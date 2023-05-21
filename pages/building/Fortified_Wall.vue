@@ -301,7 +301,6 @@
               <div class="unititle">
                 <img
                   src="~assets/fortified_wall.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

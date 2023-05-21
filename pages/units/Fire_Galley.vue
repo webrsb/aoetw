@@ -677,7 +677,6 @@
               <div class="unititle">
                 <img
                   src="~assets/FireGalleyIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

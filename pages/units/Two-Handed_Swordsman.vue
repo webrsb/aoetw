@@ -731,7 +731,6 @@
               <div class="unititle">
                 <img
                   src="~assets/2HandedswordsmanIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

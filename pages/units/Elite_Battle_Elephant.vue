@@ -745,7 +745,6 @@
                 <img
                   src="~assets/EliteBattleElephantIcon.png"
                   alt=""
-                  class="img-fluid"
                 />
               </div>
             </td>

@@ -612,7 +612,6 @@
                 <img
                   src="~assets/New_Genoese_Crossbowman.png"
                   alt=""
-                  class="img-fluid"
                 />
               </div>
             </td>

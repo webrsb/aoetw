@@ -729,7 +729,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Battleelephanticon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -808,7 +808,6 @@
               <div class="unititle">
                 <img
                   src="~assets/CannonGalleonIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -497,7 +497,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/blacksmith.png" class="img-fluid" alt="" />
+                <img src="~assets/blacksmith.png" alt="" />
               </div>
             </td>
           </tr>

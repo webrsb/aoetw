@@ -708,7 +708,6 @@
               <div class="unititle">
                 <img
                   src="~assets/TransportShipIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

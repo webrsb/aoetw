@@ -602,7 +602,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/OnagerIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/OnagerIcon.png" alt="" />
               </div>
             </td>
           </tr>

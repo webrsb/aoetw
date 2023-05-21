@@ -648,7 +648,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Steppelancericon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

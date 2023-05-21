@@ -156,7 +156,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Herbalmedicine.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -644,7 +644,6 @@
               <div class="unititle">
                 <img
                   src="~assets/TrebuchetPackedIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

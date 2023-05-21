@@ -766,7 +766,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ArcherIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/ArcherIcon.png" alt="" />
               </div>
             </td>
           </tr>
@@ -801,7 +801,6 @@
             <td class="unit4">
               <img
                 class="gg"
-                width="25px"
                 src="~assets/archery_range.png"
                 alt=""
               /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>

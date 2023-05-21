@@ -30,20 +30,20 @@
         <div class="n1">
           <ul>
             <li>
-              <img width="25px" src="~assets/castle.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/castle.png" alt="" /><nuxt-link
                 to="/building/Castle"
                 >城堡</nuxt-link
               >
             </li>
             <li>
-              <img width="25px" src="~assets/castle.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/castle.png" alt="" /><nuxt-link
                 to="/building/Fortress"
                 >要塞</nuxt-link
               >
             </li>
             <li>
               <img
-                width="25px"
+                class="gg"
                 src="~assets/Kreposticon.png"
                 alt=""
               /><nuxt-link to="/building/Krepost">營壘</nuxt-link>

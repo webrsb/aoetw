@@ -573,7 +573,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Keshikicon.png" class="img-fluid" alt="" />
+                <img src="~assets/Keshikicon.png" alt="" />
               </div>
             </td>
           </tr>

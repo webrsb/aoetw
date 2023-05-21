@@ -686,7 +686,6 @@
               <div class="unititle">
                 <img
                   src="~assets/WarElephantIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

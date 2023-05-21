@@ -536,7 +536,6 @@
               <div class="unititle">
                 <img
                   src="~assets/LongbowmanIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

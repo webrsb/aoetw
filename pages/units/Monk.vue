@@ -567,10 +567,10 @@
               <div class="unititle">
                 <b-tabs no-fade>
                   <b-tab title="一般國家">
-                    <img src="~assets/MonkIcon.png" class="img-fluid" alt="" />
+                    <img src="~assets/MonkIcon.png" alt="" />
                   </b-tab>
                   <b-tab title="美洲">
-                    <img src="~assets/MonkIcon2.png" class="img-fluid" alt="" />
+                    <img src="~assets/MonkIcon2.png" alt="" />
                   </b-tab>
                 </b-tabs>
               </div>

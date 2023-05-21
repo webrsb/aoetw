@@ -605,7 +605,6 @@
               <div class="unititle">
                 <img
                   src="~assets/MissionaryIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

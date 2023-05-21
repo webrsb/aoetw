@@ -73,7 +73,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/banking.png" class="img-fluid" alt="" />
+                <img src="~assets/banking.png" alt="" />
               </div>
             </td>
           </tr>

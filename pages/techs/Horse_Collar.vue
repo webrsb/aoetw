@@ -77,7 +77,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/horse_collar.png" class="img-fluid" alt="" />
+                <img src="~assets/horse_collar.png" alt="" />
               </div>
             </td>
           </tr>

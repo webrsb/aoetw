@@ -87,7 +87,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/fletching.png" class="img-fluid" alt="" />
+                <img src="~assets/fletching.png" alt="" />
               </div>
             </td>
           </tr>

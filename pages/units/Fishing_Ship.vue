@@ -690,7 +690,6 @@
               <div class="unititle">
                 <img
                   src="~assets/FishingShipIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -72,7 +72,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/gold_mining.png" class="img-fluid" alt="" />
+                <img src="~assets/gold_mining.png" alt="" />
               </div>
             </td>
           </tr>

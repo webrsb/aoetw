@@ -66,7 +66,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Royal_JanissaryIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

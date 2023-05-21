@@ -728,7 +728,6 @@
               <div class="unititle">
                 <img
                   src="~assets/HeavyDemoShipIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -83,7 +83,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/tower_watch.png" class="img-fluid" alt="" />
+                <img src="~assets/tower_watch.png" alt="" />
               </div>
             </td>
           </tr>

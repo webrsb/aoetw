@@ -129,7 +129,7 @@
         <p><nuxt-link to="/building">建築</nuxt-link></p>
         <ul>
           <li>
-            <img width="25px" src="~assets/feitoria.png" alt="" /><nuxt-link
+            <img class="gg" src="~assets/feitoria.png" alt="" /><nuxt-link
               to="/building/Feitoriaicon_Feitoria"
               >港灣大商站</nuxt-link
             >:<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link

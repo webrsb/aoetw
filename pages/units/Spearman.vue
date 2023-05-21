@@ -948,7 +948,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/SpearmanIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/SpearmanIcon.png" alt="" />
               </div>
             </td>
           </tr>

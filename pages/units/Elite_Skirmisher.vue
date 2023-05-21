@@ -706,7 +706,6 @@
               <div class="unititle">
                 <img
                   src="~assets/EliteSkirmisherIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

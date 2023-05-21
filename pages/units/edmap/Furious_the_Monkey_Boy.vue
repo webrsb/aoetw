@@ -65,7 +65,6 @@
                 <img
                   src="~assets/Furiousthemonkeyboyicon.png"
                   alt=""
-                  class="img-fluid"
                 />
               </div>
             </td>

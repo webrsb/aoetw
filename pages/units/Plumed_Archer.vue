@@ -535,7 +535,6 @@
               <div class="unititle">
                 <img
                   src="~assets/PlumedArcherIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

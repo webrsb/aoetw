@@ -48,7 +48,6 @@
               <div class="unititle">
                 <img
                   src="~assets/Amazonarchericon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

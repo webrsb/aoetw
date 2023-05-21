@@ -559,7 +559,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Xolotlicon.png" class="img-fluid" alt="" />
+                <img src="~assets/Xolotlicon.png" alt="" />
               </div>
             </td>
           </tr>

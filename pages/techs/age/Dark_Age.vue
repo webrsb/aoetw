@@ -281,7 +281,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/dark_age.png" class="img-fluid" alt="" />
+                <img src="~assets/dark_age.png" alt="" />
               </div>
             </td>
           </tr>

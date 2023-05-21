@@ -1053,7 +1053,6 @@
               <div class="unititle">
                 <img
                   src="~assets/HeavyCavArcherIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

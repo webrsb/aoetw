@@ -181,7 +181,6 @@
               <div class="unititle">
                 <img
                   src="~assets/treadmill_crane.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

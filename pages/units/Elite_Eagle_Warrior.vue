@@ -619,7 +619,6 @@
                 <img
                   src="~assets/EliteEagleWarriorIcon.png"
                   alt=""
-                  class="img-fluid"
                 />
               </div>
             </td>

@@ -467,7 +467,6 @@
               <div class="unititle">
                 <img
                   src="~assets/siege_workshop.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

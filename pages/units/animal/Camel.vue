@@ -59,7 +59,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Camelgaiaicon.png" class="img-fluid" alt="" />
+                <img src="~assets/Camelgaiaicon.png" alt="" />
               </div>
             </td>
           </tr>

@@ -660,7 +660,6 @@
               <div class="unititle">
                 <img
                   src="~assets/SiegeOnagerIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -106,7 +106,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/unique_tech.png" class="img-fluid" alt="" />
+                <img src="~assets/unique_tech.png" alt="" />
               </div>
             </td>
           </tr>

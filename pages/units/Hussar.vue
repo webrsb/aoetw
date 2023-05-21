@@ -747,7 +747,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/HussarIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/HussarIcon.png" alt="" />
               </div>
             </td>
           </tr>
@@ -782,7 +782,6 @@
             <td class="unit4">
               <img
                 class="gg"
-                width="25px"
                 src="~assets/stable.png"
                 alt=""
               /><nuxt-link to="/building/Stable">馬廄</nuxt-link>

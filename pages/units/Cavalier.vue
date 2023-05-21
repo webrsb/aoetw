@@ -848,7 +848,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/CavalierIcon.png" class="img-fluid" alt="" />
+                <img src="~assets/CavalierIcon.png" alt="" />
               </div>
             </td>
           </tr>

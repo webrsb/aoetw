@@ -266,7 +266,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/vikingrking.jpg" width="300px" alt="" />
+                <img src="~assets/vikingrking.jpg" width="300" alt="" />
                 <p><em>著名的丹麥國王&nbsp;-&nbsp;克努特</em></p>
               </div>
             </td>

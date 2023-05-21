@@ -73,7 +73,6 @@
               <div class="unititle">
                 <img
                   src="~assets/scale_mail_armor.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

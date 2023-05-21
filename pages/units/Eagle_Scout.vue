@@ -590,7 +590,6 @@
               <div class="unititle">
                 <img
                   src="~assets/EagleScoutIcon.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

@@ -603,7 +603,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/VBRSK.png" class="img-fluid" alt="" />
+                <img src="~assets/VBRSK.png" alt="" />
               </div>
             </td>
           </tr>

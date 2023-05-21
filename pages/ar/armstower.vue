@@ -32,7 +32,7 @@
               >，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。
             </li>
             <li>
-              <img width="25px" src="~assets/tower.png" alt="" /><nuxt-link
+              <img class="gg" src="~assets/tower.png" alt="" /><nuxt-link
                 to="/building/Watch_Tower"
                 >暸望台</nuxt-link
               >:遊戲說明<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
@@ -279,8 +279,8 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="120px" src="~assets/ManAtArmsIcon.png" alt="" />
-                <img width="120px" src="~assets/tower.png" alt="" />
+                <img width="120" src="~assets/ManAtArmsIcon.png" alt="" />
+                <img width="120" src="~assets/tower.png" alt="" />
               </div>
             </td>
           </tr>

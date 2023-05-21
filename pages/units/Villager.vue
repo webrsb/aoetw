@@ -1133,14 +1133,12 @@
                   <b-tab title="男村民">
                     <img
                       src="~assets/VillagerMaleIcon.png"
-                      class="img-fluid"
                       alt=""
                     />
                   </b-tab>
                   <b-tab title="女村民">
                     <img
                       src="~assets/VillagerFemaleIcon.png"
-                      class="img-fluid"
                       alt=""
                     />
                   </b-tab>

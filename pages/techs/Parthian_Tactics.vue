@@ -235,7 +235,6 @@
               <div class="unititle">
                 <img
                   src="~assets/parthian_tactics.png"
-                  class="img-fluid"
                   alt=""
                 />
               </div>

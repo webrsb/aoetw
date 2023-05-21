@@ -291,7 +291,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/mining_camp.png" class="img-fluid" alt="" />
+                <img src="~assets/mining_camp.png" alt="" />
               </div>
             </td>
           </tr>

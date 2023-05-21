@@ -94,7 +94,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/wheelbarrow.png" class="img-fluid" alt="" />
+                <img src="~assets/wheelbarrow.png" alt="" />
               </div>
             </td>
           </tr>
