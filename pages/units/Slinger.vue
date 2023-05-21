@@ -609,7 +609,6 @@
             <td class="unit4">
               <img
                 class="gg"
-                width="25px"
                 src="~assets/archery_range.png"
                 alt=""
               /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>

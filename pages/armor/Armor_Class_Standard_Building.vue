@@ -38,7 +38,7 @@
                   <li>
                     <nuxt-link to="/building/House"
                       ><img
-                        width="25px"
+                        class="gg"
                         src="~assets/house.png"
                         alt=""
                       />房屋</nuxt-link
@@ -46,61 +46,61 @@
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/town_center.png"
                       alt=""
                     /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
                   </li>
                   <li>
-                    <img width="25px" src="~assets/mill.png" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/mill.png" alt="" /><nuxt-link
                       to="/building/Mill"
                       >磨坊</nuxt-link
                     >
                   </li>
                   <li>
-                    <img width="25px" src="~assets/farm.png" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/farm.png" alt="" /><nuxt-link
                       to="/building/Farm"
                       >農田</nuxt-link
                     >
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/lumber_camp.png"
                       alt=""
                     /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/mining_camp.png"
                       alt=""
                     /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/market.png"
                       alt=""
                     /><nuxt-link to="/building/Market">市集</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/blacksmith.png"
                       alt=""
                     /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/monastery.png"
                       alt=""
                     /><nuxt-link to="/building/Monastery">修道院</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/university.png"
                       alt=""
                     /><nuxt-link to="/building/University">學院</nuxt-link>
@@ -110,35 +110,35 @@
               <div class="col-md-4">
                 <ul>
                   <li>
-                    <img width="25px" src="~assets/dock.png" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/dock.png" alt="" /><nuxt-link
                       to="/building/Dock"
                       >碼頭</nuxt-link
                     >
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/barracks.png"
                       alt=""
                     /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/archery_range.png"
                       alt=""
                     /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/stable.png"
                       alt=""
                     /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/siege_workshop.png"
                       alt=""
                     /><nuxt-link to="/building/Siege_Workshop"
@@ -147,35 +147,35 @@
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/castle.png"
                       alt=""
                     /><nuxt-link to="/building/Castle">城堡</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/palisade.png"
                       alt=""
                     /><nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/palisade_gate.png"
                       alt=""
                     /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/stone_wall.png"
                       alt=""
                     /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/stone_wall.png"
                       alt=""
                     /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
@@ -185,49 +185,49 @@
               <div class="col-md-4">
                 <ul>
                   <li>
-                    <img width="25px" src="~assets/gate.png" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/gate.png" alt="" /><nuxt-link
                       to="/building/Gate"
                       >城門</nuxt-link
                     >
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/outpost.png"
                       alt=""
                     /><nuxt-link to="/building/Outpost">哨站</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Watch_Tower">暸望台</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/tower.png"
                       alt=""
                     /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/bombard_tower.png"
                       alt=""
                     /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/feitoria.png"
                       alt=""
                     /><nuxt-link to="/building/Feitoriaicon_Feitoria"
@@ -236,7 +236,7 @@
                   </li>
                   <li>
                     <img
-                      width="25px"
+                      class="gg"
                       src="~assets/HarborIcon.png"
                       alt=""
                     /><nuxt-link to="/building/Harbor">海港</nuxt-link

@@ -811,7 +811,6 @@
             <td class="unit4">
               <img
                 class="gg"
-                width="25px"
                 src="~assets/stable.png"
                 alt=""
               /><nuxt-link to="/building/Stable">馬廄</nuxt-link>

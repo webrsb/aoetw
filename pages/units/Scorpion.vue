@@ -660,7 +660,6 @@
             <td class="unit4">
               <img
                 class="gg"
-                width="25px"
                 src="~assets/siege_workshop.png"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop"

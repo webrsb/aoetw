@@ -207,7 +207,6 @@
             </li>
             <li>
               <img
-                width="22px"
                 src="~assets/farm.png"
                 alt=""
                 class="gg"

@@ -132,7 +132,7 @@
         <p>建築</p>
         <ul>
           <li>
-            <img width="25px" src="~assets/HarborIcon.png" alt="" /><nuxt-link
+            <img class="gg" src="~assets/HarborIcon.png" alt="" /><nuxt-link
               to="/building/Harbor"
               >海港</nuxt-link
             >:<nuxt-link to="/civs/Malay">馬來人</nuxt-link
