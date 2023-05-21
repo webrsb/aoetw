@@ -174,7 +174,7 @@
               <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>(匈人)
             </li>
             <li>
-              <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>(西班牙/<nuxt-link
+              <nuxt-link to="/batt/El_Cida">席德</nuxt-link>(西班牙/<nuxt-link
                 to="/civs/Saracens"
                 >薩拉森</nuxt-link
               >)

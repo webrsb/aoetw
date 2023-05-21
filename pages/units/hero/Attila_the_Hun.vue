@@ -21,7 +21,7 @@
           ><nuxt-link to="/units/hero">英雄</nuxt-link>，他以<nuxt-link
             to="/units/Cataphract"
             >拜占庭聖騎兵</nuxt-link
-          >的外型出現在<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link
+          >的外型出現在<nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link
           >和<nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link
           >這兩關<nuxt-link to="/batt">戰役</nuxt-link
           >中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與<nuxt-link

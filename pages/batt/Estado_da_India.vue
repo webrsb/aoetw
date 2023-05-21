@@ -347,7 +347,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Estado_da_India.png" alt="" />
+                <img src="~assets/Francisco_de_Almeida/Estado_da_India_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -396,7 +396,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Sons_Blood">兒子的血仇</nuxt-link>
+              <nuxt-link to="/batt/A_Sons_Blood">喪子之痛</nuxt-link>
             </td>
           </tr>
         </table>

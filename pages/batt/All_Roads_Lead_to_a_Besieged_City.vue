@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>條條大路通圍城</h1>
+        <h1>冷河戰役</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>條條大路通圍城</b>為<nuxt-link to="/batt/Alaric"
+            <b>冷河戰役</b>為<nuxt-link to="/batt/Alaric"
               >阿拉里克戰役</nuxt-link
             >的第一關劇情關卡，在這關故事中，哥德國王<nuxt-link
               to="/batt/Alaric"
@@ -267,14 +267,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                條條大路通圍城
+                冷河戰役
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Alaric_1.jpg" alt="" />
+                <img src="~assets/Alaric/The_Battle_of_the_Frigidus_map.png" alt="" />
               </div>
             </td>
           </tr>

@@ -246,7 +246,7 @@
                       駭黎朋猜王國 -
                       7世紀由孟族人建立的古王國，位於今天泰國北部。在13世紀遭到緬甸東吁王朝兼併（詳見<nuxt-link
                         to="/batt/Bayinnaunga"
-                        >勃印曩戰役</nuxt-link
+                        >莽應龍戰役</nuxt-link
                       >）。
                     </li>
                     <li>
@@ -280,7 +280,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Suryavarman_I-5.jpg" alt="" />
+                <img src="~assets/Suryavarman_I/Nirvanapada_map.png" alt="" />
               </div>
             </td>
           </tr>

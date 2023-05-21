@@ -243,7 +243,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Attila.6.jpg" alt="" />
+                <img src="~assets/Attila_the_Hun/Fall_of_Rome_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -287,7 +287,7 @@
             <td class="unit3">上一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/Catalaunian_Fields"
-                >卡塔隆尼亞平原</nuxt-link
+                >沙隆戰役</nuxt-link
               >
             </td>
           </tr>

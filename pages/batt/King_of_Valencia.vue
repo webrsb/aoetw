@@ -2,14 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>瓦倫西亞之主</h1>
+        <h1>瓦倫西亞之王</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>瓦倫西亞之主</b>是<nuxt-link to="/batt/El_Cida"
-              >熙德戰役</nuxt-link
+            <b>瓦倫西亞之王</b>是<nuxt-link to="/batt/El_Cida"
+              >席德戰役</nuxt-link
             >的第五個關卡。
           </p>
         </div>
@@ -96,7 +96,7 @@
             <dd>
               <nuxt-link to="/units/hero">英雄</nuxt-link>:<nuxt-link
                 to="/units/hero/El_Cid"
-                >熙德</nuxt-link
+                >席德</nuxt-link
               >。
             </dd>
             <dt>大地之母單位：</dt>
@@ -114,10 +114,10 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>熙德必須活著。</li>
-              <li>熙德必須再次尋找一個可以居住的新城市。</li>
+              <li>席德必須活著。</li>
+              <li>席德必須再次尋找一個可以居住的新城市。</li>
               <li>協助蒂里亞抵抗貝倫格爾伯爵。</li>
-              <li>熙德必須要流亡並建立一個新基地。</li>
+              <li>席德必須要流亡並建立一個新基地。</li>
               <li>
                 防禦瓦倫西亞，以抗抵貝倫格爾，直到<nuxt-link
                   to="/building/Wonder"
@@ -131,7 +131,7 @@
           <div class="n1">
             <ul>
               <li>
-                熙德不再為薩拉森服從，你的<nuxt-link to="/tree/vie"
+                席德不再為薩拉森服從，你的<nuxt-link to="/tree/vie"
                   >科技樹</nuxt-link
                 >又再次是西班牙的模式。
               </li>
@@ -152,12 +152,12 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>熙德（紅色）獨自一人且蒙達米特無法幫忙。</li>
+              <li>席德（紅色）獨自一人且蒙達米特無法幫忙。</li>
               <li>
                 南面的幾個西班牙小鎮可能提供同盟，蒂里亞（綠色）、雷利達（橙色）、瓦倫西亞（黃色），但沒有一個城鎮可以提供強大軍隊。
               </li>
               <li>
-                熙德的敵人還是貝倫格爾伯爵（紫色）。貝倫格爾在北邊有一個防禦堅固的城市，很難攻破。因此，使用其他的方法比較有可能獲得勝利。貝倫格爾擁有陣容堅強的弓兵、步兵和騎士以及數量龐大的<nuxt-link
+                席德的敵人還是貝倫格爾伯爵（紫色）。貝倫格爾在北邊有一個防禦堅固的城市，很難攻破。因此，使用其他的方法比較有可能獲得勝利。貝倫格爾擁有陣容堅強的弓兵、步兵和騎士以及數量龐大的<nuxt-link
                   to="/units/Siege_Weapons"
                   >攻城武器</nuxt-link
                 >。你應該好好地加強防禦工事。
@@ -232,13 +232,13 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                瓦倫西亞之主
+                瓦倫西亞之王
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/EIC_5.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/El_Cid/King_of_Valencia_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -255,7 +255,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>
+              <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -286,7 +286,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Reconquista">勘查</nuxt-link>
+              <nuxt-link to="/batt/Reconquista">再次征服</nuxt-link>
             </td>
           </tr>
         </table>

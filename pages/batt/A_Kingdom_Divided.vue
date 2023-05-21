@@ -10,7 +10,7 @@
           <p>
             <b>王國分裂</b>是<nuxt-link to="/games/delw">西方霸主</nuxt-link
             >DLC新增的<nuxt-link to="/batt">戰役</nuxt-link>中，<nuxt-link
-              to="/batt/Tamerlane"
+              to="/batt/The_Grand_Dukes_of_the_West"
               >大公爵</nuxt-link
             >的第一關。
           </p>
@@ -250,7 +250,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Tamerlane">大公爵</nuxt-link>
+              <nuxt-link to="/batt/The_Grand_Dukes_of_the_West">大公爵</nuxt-link>
             </td>
           </tr>
           <tr>

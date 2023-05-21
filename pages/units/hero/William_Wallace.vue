@@ -18,7 +18,7 @@
           <p>
             威廉華勒斯是一名在威廉華勒斯（<nuxt-link to="/batt">戰役</nuxt-link
             >）最終關：<nuxt-link to="/batt/The_Battle_of_Falkirk"
-              >福爾克之役</nuxt-link
+              >福爾柯克之役</nuxt-link
             >登場的英雄單位。他的原型是在在十三、十四世紀的同名人物。威廉華勒斯帶領蘇格蘭軍隊反抗英格蘭的統治，企圖使蘇格蘭成為一個自由獨立的國家。
           </p>
           <p>

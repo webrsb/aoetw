@@ -146,7 +146,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Wallacelc6map.png" alt="" />
+                <img src="~assets/William_Wallace/Forge_an_Alliance_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -195,7 +195,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Battle_of_Falkirk">福爾克之役</nuxt-link>
+              <nuxt-link to="/batt/The_Battle_of_Falkirk">福爾柯克之役</nuxt-link>
             </td>
           </tr>
         </table>

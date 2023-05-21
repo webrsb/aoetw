@@ -212,14 +212,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                逐鹿迪格維傑之地
+                九合諸侯
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center><img src="~assets/Prithviraj_2.jpg" alt="" /></center>
+                <center><img src="~assets/Prithviraj/The_Digvijaya_map.png" alt="" /></center>
               </div>
             </td>
           </tr>

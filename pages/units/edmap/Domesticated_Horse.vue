@@ -19,7 +19,7 @@
               to="/batt/The_Boiling_Lake"
               >沸騰之湖</nuxt-link
             >，以及<nuxt-link to="/units/hero/Attila_the_Hun">阿提拉</nuxt-link
-            >的<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>。
+            >的<nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link>。
           </p>
           <p>
             在<nuxt-link to="/batt/Quetzalcoatl">羽蛇神</nuxt-link
@@ -29,7 +29,7 @@
               >城堡</nuxt-link
             >前的祭壇，系統會自動將他們轉換成<nuxt-link to="/units/Tarkan"
               >精銳答剌罕騎兵</nuxt-link
-            >。<br />上帝之鞭戰役中西徐亞人為了感謝<nuxt-link
+            >。<br />上帝之怒戰役中西徐亞人為了感謝<nuxt-link
               to="/batt/Attila_the_Huna"
               >阿提拉</nuxt-link
             >從西羅馬帝國的囚禁下救了他們的公主，蒐集10匹馬並帶到指定地點會給玩家10隻<nuxt-link

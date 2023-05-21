@@ -11,7 +11,7 @@
             <b>極大汗</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
             >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
-            >》資料片中的"流亡之路"和"毀壞的石碑"戰役以玩家敵對出現，在地圖編輯器中也能找到他的身影。極大汗是以同名的<nuxt-link
+            >》資料片中的"亡命天涯"和"斷壁殘垣"戰役以玩家敵對出現，在地圖編輯器中也能找到他的身影。極大汗是以同名的<nuxt-link
               to="/civs/Ethiopians"
               >衣索比亞</nuxt-link
             >帝王所命名。他會受到所有<nuxt-link to="/units/Infantry_Units"

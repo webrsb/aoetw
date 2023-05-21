@@ -236,7 +236,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙提祖馬一.png" alt="" />
+                <img src="~assets/Montezuma/Reign_of_Blood_map.png" alt="" />
               </div>
             </td>
           </tr>

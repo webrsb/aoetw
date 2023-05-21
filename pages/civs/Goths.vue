@@ -471,7 +471,7 @@
             <tr>
               <td class="tta1">
                 <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link
-                >2-<nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
+                >2-<nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link>
               </td>
               <td class="tta2">
                 <span class="fas fa-times" style="color: #d9534f;"></span>
@@ -498,7 +498,7 @@
             <tr>
               <td class="tta1">
                 阿提拉5-<nuxt-link to="/batt/Catalaunian_Fields"
-                  >卡塔隆尼亞平原</nuxt-link
+                  >沙隆戰役</nuxt-link
                 >(895)
               </td>
               <td class="tta2">
@@ -517,7 +517,7 @@
                 <nuxt-link to="/batt/Battles_of_the_Conquerors"
                   >征服者的戰役</nuxt-link
                 >-<nuxt-link to="/batt/Hastings_1066"
-                  >哈斯汀斯（1066）</nuxt-link
+                  >哈斯汀斯戰役(1066)</nuxt-link
                 >
               </td>
               <td class="tta2">
@@ -538,7 +538,7 @@
               <td class="tta1">
                 <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>1-<nuxt-link
                   to="/batt/All_Roads_Lead_to_a_Besieged_City"
-                  >條條大路通圍城</nuxt-link
+                  >冷河戰役</nuxt-link
                 >
               </td>
               <td class="tta2">

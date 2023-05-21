@@ -154,7 +154,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">擲斧兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Tours_732">都爾（732）</nuxt-link>
+              <nuxt-link to="/batt/Tours_732">都爾戰役(732)</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -190,7 +190,7 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/Elcidicon.png" alt="" /><nuxt-link
                 to="/units/hero/El_Cid"
-                >熙德</nuxt-link
+                >席德</nuxt-link
               >
             </td>
             <td class="tunitc4">步兵</td>
@@ -198,9 +198,9 @@
               <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
             </td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link
+              <nuxt-link to="/batt/Brother_against_Brother">手足相殘</nuxt-link
               ><br /><nuxt-link to="/batt/The_Exile_of_the_Cid"
-                >熙德的流亡歲月</nuxt-link
+                >席德的流放</nuxt-link
               >
             </td>
           </tr>
@@ -237,7 +237,7 @@
             </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Vindlandsaga_1000"
-                >芬特蘭撒格(1000)</nuxt-link
+                >北地傳奇(1000)</nuxt-link
               >
             </td>
           </tr>
@@ -377,9 +377,9 @@
               <br /><nuxt-link to="/batt/Pax_Mongolia"></nuxt-link>
               <nuxt-link to="/batt/The_Horde_Rides_West">策馬西征</nuxt-link>
               <br /><nuxt-link to="/batt/Pax_Mongolia">蒙古太平</nuxt-link>
-              <br /><nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
+              <br /><nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link
               ><br /><nuxt-link to="/batt/Honfoglalas_895"
-                >征服家園（895）</nuxt-link
+                >征服家園(895)</nuxt-link
               >
             </td>
           </tr>
@@ -564,7 +564,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">日本武士</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Kurikara_1183">礪波山（1183）</nuxt-link>
+              <nuxt-link to="/batt/Kurikara_1183">俱利伽羅之戰(1183)</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -591,7 +591,7 @@
               <nuxt-link to="/batt/Crucible">統一各部</nuxt-link
               ><br /><nuxt-link to="/batt/La_Noche_Triste">悲痛之夜</nuxt-link
               ><br /><nuxt-link to="/batt/Vindlandsaga_1000"
-                >芬特蘭撒格(1000)</nuxt-link
+                >北地傳奇(1000)</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Burmese_Tigers"
                 >餓虎撲食</nuxt-link
@@ -831,7 +831,7 @@
             </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
-                >條條大路通圍城</nuxt-link
+                >冷河戰役</nuxt-link
               >
               <br /><nuxt-link to="/batt/Legionaries_on_the_Horizon"
                 >羅馬軍團隨時殺到</nuxt-link
@@ -848,7 +848,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">劍兵勇士</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/The_Battle_of_Falkirk">福爾克之役</nuxt-link>
+              <nuxt-link to="/batt/The_Battle_of_Falkirk">福爾柯克之役</nuxt-link>
             </td>
           </tr>
         </table>
@@ -882,7 +882,7 @@
                 </td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Noryang_Point_1598"
-                    >洛陽點（1598）</nuxt-link
+                    >露梁海戰(1598) </nuxt-link
                   >
                 </td>
               </tr>
@@ -913,7 +913,7 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">拜占庭聖騎兵</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link
+                  <nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link
                   ><br /><nuxt-link to="/batt/Fall_of_Rome"
                     >羅馬的衰落</nuxt-link
                   >
@@ -932,7 +932,7 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">蒙古突騎</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
+                  <nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -942,13 +942,13 @@
                     src="~assets/Elcidicon.png"
                     alt=""
                   /><nuxt-link to="/units/hero/El_Cid"
-                    >羅德里高·迪亞茲·熙德</nuxt-link
+                    >羅德里高·迪亞茲·席德</nuxt-link
                   >
                 </td>
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">蒙古突騎</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
+                  <nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -965,16 +965,16 @@
                 <td class="tunitc6">特殊</td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Brother_against_Brother"
-                    >兄弟鬩牆</nuxt-link
+                    >手足相殘</nuxt-link
                   >
                   <br /><nuxt-link to="/batt/The_Enemy_of_my_Enemy"
                     >我敵人的敵人</nuxt-link
                   >
                   <br /><nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link
                   ><br /><nuxt-link to="/batt/King_of_Valencia"
-                    >瓦倫西亞之主</nuxt-link
+                    >瓦倫西亞之王</nuxt-link
                   >
-                  <br /><nuxt-link to="/batt/Reconquista">勘查</nuxt-link>
+                  <br /><nuxt-link to="/batt/Reconquista">再次征服</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -991,7 +991,7 @@
                 <td class="tunitc6">狂戰士</td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Hastings_1066"
-                    >哈斯汀斯（1066）</nuxt-link
+                    >哈斯汀斯戰役(1066)</nuxt-link
                   >
                 </td>
               </tr>
@@ -1007,7 +1007,7 @@
                 <td class="tunitc6">遊俠</td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Agincourt_1415"
-                    >亞琴哥特（1415）</nuxt-link
+                    >阿金庫爾戰役(1415)</nuxt-link
                   >
                 </td>
               </tr>
@@ -1040,7 +1040,7 @@
                 <td class="tunitc6">國王</td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Brother_against_Brother"
-                    >兄弟鬩牆</nuxt-link
+                    >手足相殘</nuxt-link
                   >
                   <br /><nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link>
                 </td>
@@ -1057,7 +1057,7 @@
                 <td class="tunitc6">國王</td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Brother_against_Brother"
-                    >兄弟鬩牆</nuxt-link
+                    >手足相殘</nuxt-link
                   >
                 </td>
               </tr>
@@ -1072,7 +1072,7 @@
                 <td class="tunitc4">步兵</td>
                 <td class="tunitc6">日本武士</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
+                  <nuxt-link to="/batt/Kyoto_1582">京都之戰(1582)</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -1106,9 +1106,9 @@
                   <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
                 </td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Bukhara_557">布哈拉（557）</nuxt-link
+                  <nuxt-link to="/batt/Bukhara_557">布哈拉反擊戰(557)</nuxt-link
                   ><br /><nuxt-link to="/batt/Djeriba_Gold"
-                    >傑爾巴島的黃金</nuxt-link
+                    >虎口奪食</nuxt-link
                   >
                 </td>
               </tr>
@@ -1125,7 +1125,7 @@
                 <td class="tunitc4">步兵</td>
                 <td class="tunitc6">特殊</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
+                  <nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link
                   ><br /><nuxt-link to="/batt/The_White_Elephant"
                     >白象化身</nuxt-link
                   >
@@ -1145,7 +1145,7 @@
                 <td class="tunitc6">特殊</td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Hastings_1066"
-                    >哈斯汀斯（1066）</nuxt-link
+                    >哈斯汀斯戰役(1066)</nuxt-link
                   >
                 </td>
               </tr>
@@ -1303,9 +1303,9 @@
                       <nuxt-link to="/units/Tarkan">答剌罕騎兵</nuxt-link>
                     </td>
                     <td class="tunitc6">
-                      <nuxt-link to="/batt/York_865">約克（865）</nuxt-link
+                      <nuxt-link to="/batt/York_865">約克城(865)</nuxt-link
                       ><br /><nuxt-link to="/batt/Honfoglalas_895"
-                        >征服家園（895）</nuxt-link
+                        >征服家園(895)</nuxt-link
                       >
                     </td>
                   </tr>
@@ -1325,7 +1325,7 @@
                     </td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/Bapheus_1302"
-                        >巴菲烏斯(1302)</nuxt-link
+                        >兵臨巴菲烏斯(1302)</nuxt-link
                       >
                     </td>
                   </tr>
@@ -1341,7 +1341,7 @@
                     <td class="tunitc6">重裝馬弓騎兵</td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/Bapheus_1302"
-                        >巴菲烏斯(1302)</nuxt-link
+                        >兵臨巴菲烏斯(1302)</nuxt-link
                       >
                     </td>
                   </tr>
@@ -1441,7 +1441,7 @@
                     <td class="tunitc6">拜占庭聖騎兵</td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/Bukhara_557"
-                        >布哈拉（557）</nuxt-link
+                        >布哈拉反擊戰(557)</nuxt-link
                       >
                     </td>
                   </tr>
@@ -1536,7 +1536,7 @@
                         <td class="tunitc6">特殊</td>
                         <td class="tunitc6">
                           <nuxt-link to="/batt/A_Fallen_Crown"
-                            >摔落的皇冠</nuxt-link
+                            >皇冠落地</nuxt-link
                           >
                         </td>
                       </tr>
@@ -1751,14 +1751,14 @@
                             src="~assets/Yoditicon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Princess_Yodit"
-                            >優娣忒公主</nuxt-link
+                            >游娣特公主</nuxt-link
                           >
                         </td>
                         <td class="tunitc4">村民</td>
                         <td class="tunitc6">特殊</td>
                         <td class="tunitc6">
                           <nuxt-link to="/batt/Path_of_Exile"
-                            >流亡之路</nuxt-link
+                            >亡命天涯</nuxt-link
                           >
                         </td>
                       </tr>
@@ -1823,7 +1823,7 @@
                         <td class="tunitc4">騎兵</td>
                         <td class="tunitc6">輕騎兵</td>
                         <td class="tunitc6">
-                          <nuxt-link to="/batt/Hunted">擒獲</nuxt-link>
+                          <nuxt-link to="/batt/Hunted">亡命之徒</nuxt-link>
                         </td>
                       </tr>
                       <tr>
@@ -1888,7 +1888,7 @@
                             class="gg"
                             src="~assets/Yoditicon.png"
                             alt=""
-                          /><nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link>
+                          /><nuxt-link to="/units/hero/Yodit">游娣特</nuxt-link>
                         </td>
                         <td class="tunitc4">步兵</td>
                         <td class="tunitc6">飛鏢女獵手</td>
@@ -1932,7 +1932,7 @@
                                 src="~assets/Bayinnaungicon.png"
                                 alt=""
                               /><nuxt-link to="/units/hero/Bayinnaung"
-                                >勃印曩</nuxt-link
+                                >莽應龍</nuxt-link
                               >
                             </td>
                             <td class="tunitc4">騎兵</td>

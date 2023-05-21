@@ -148,8 +148,8 @@
             <li>
               在原版劇情中，這關是唯二有玩家從超過兩萬分起始的關卡，也就是猛獅亨利與波蘭。另外一個是<nuxt-link
                 to="/batt/Battles_of_the_Forgotten"
-                >失落的帝國戰役</nuxt-link
-              >中約克城<nuxt-link to="/batt">戰役</nuxt-link>。
+                >失落的帝國戰役中</nuxt-link
+              >約克城<nuxt-link to="/batt">戰役</nuxt-link>。
             </li>
             <li>
               唯一可以在不被亨利背叛的情況下獲勝的方式，大概只有使用密技 I r
@@ -169,7 +169,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/BRA_2.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/Barbaross/Henry_the_Lion_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>

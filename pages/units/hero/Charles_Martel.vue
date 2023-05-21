@@ -11,8 +11,7 @@
             <strong>鐵鎚查理</strong>是《<nuxt-link to="/games/aoc"
               >世紀帝國II：征服者入侵</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
-            >，可以在<nuxt-link to="/batt">戰役</nuxt-link
-            >"都爾（732）"和戰役編輯器中找到。鐵鎚查理的外觀是<nuxt-link
+            >，可以在<nuxt-link to="/batt/Tours_732">都爾戰役(732)</nuxt-link>和戰役編輯器中找到。鐵鎚查理的外觀是<nuxt-link
               to="/units/Throwing_Axeman"
               >擲斧兵</nuxt-link
             >，但有更好的戰鬥能力(距離更遠)，他會受<nuxt-link

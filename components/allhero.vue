@@ -34,7 +34,7 @@
                 >康斯塔伯理察蒙</nuxt-link
               >•
               <nuxt-link to="/units/hero/Duke_D_Alencon">阿朗松公爵</nuxt-link>•
-              <nuxt-link to="/units/hero/El_Cid">熙德</nuxt-link>•
+              <nuxt-link to="/units/hero/El_Cid">席德</nuxt-link>•
               <nuxt-link to="/units/hero/Emperor_in_a_Barrel"
                 >裝在桶裡的皇帝</nuxt-link
               >•
@@ -117,7 +117,7 @@
               >•
               <nuxt-link to="/units/hero/Attila_the_Hun">匈奴王阿提拉</nuxt-link
               >•
-              <nuxt-link to="/units/hero/El_Cid">羅德里高·迪亞茲·熙德</nuxt-link
+              <nuxt-link to="/units/hero/El_Cid">羅德里高·迪亞茲·席德</nuxt-link
               >• <nuxt-link to="/units/Longbowman">德彬瑞蒂</nuxt-link>•
               <nuxt-link to="/units/hero/Harald_Hardraade"
                 >哈囉德哈左德</nuxt-link
@@ -208,7 +208,7 @@
               <nuxt-link to="/units/hero/Mustafa_Pasha">穆斯塔法帕夏</nuxt-link
               >• <nuxt-link to="/units/hero/Pacal_II">巴加爾二世</nuxt-link>•
               <nuxt-link to="/units/hero/Pachacuti">帕查庫特克</nuxt-link>•
-              <nuxt-link to="/units/hero/Princess_Yodit">優娣忒公主</nuxt-link>•
+              <nuxt-link to="/units/hero/Princess_Yodit">游娣特公主</nuxt-link>•
               <nuxt-link to="/units/hero/Richard_de_Clare"
                 >克雷爾的理查伯爵</nuxt-link
               >• <nuxt-link to="/units/hero/Su_Dingfang">蘇定方</nuxt-link>•
@@ -219,7 +219,7 @@
               >• <nuxt-link to="/units/hero/Tristan">崔斯坦</nuxt-link>•
               <nuxt-link to="/units/hero/Yekuno_Amlak"
                 >亞庫諾·阿姆拉克</nuxt-link
-              >• <nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link>•
+              >• <nuxt-link to="/units/hero/Yodit">游娣特</nuxt-link>•
               <nuxt-link to="/units/hero/Zawisza_the_Black"
                 >茲瓦斯艾黑騎士</nuxt-link
               >
@@ -238,7 +238,7 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <nuxt-link to="/units/hero/Bayinnaung">勃印曩</nuxt-link>•
+              <nuxt-link to="/units/hero/Bayinnaung">莽應龍</nuxt-link>•
               <nuxt-link to="/units/hero/Bui_Bi">裴備</nuxt-link>•
               <nuxt-link to="/units/hero/Dinh_Le">丁禮</nuxt-link>•
               <nuxt-link to="/units/hero/Gajah_Mada">加查·馬達</nuxt-link>•

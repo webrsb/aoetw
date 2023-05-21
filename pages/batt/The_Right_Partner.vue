@@ -2,18 +2,18 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>最佳搭檔</h1>
+        <h1>真命天子</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>最佳搭檔</b>是《<nuxt-link to="/games/ak"
+            <b>真命天子</b>是《<nuxt-link to="/games/ak"
               >世紀帝國II：非洲王國</nuxt-link
-            >》<nuxt-link to="/batt/Yodita">優娣忒戰役</nuxt-link
+            >》<nuxt-link to="/batt/Yodita">游娣特戰役</nuxt-link
             >的第二個場景。<nuxt-link to="/batt">戰役</nuxt-link>中<nuxt-link
               to="/units/hero/Yodit"
-              >優娣忒</nuxt-link
+              >游娣特</nuxt-link
             >必須給敘利亞王子Zanobis留下深刻的印象，以便與他結婚並鞏固她的地位。
           </p>
         </div>
@@ -86,7 +86,7 @@
         <div class="n1">
           <ul>
             <li>
-              尋訪周圍的城市並聽取他們的訴求。滿足他們的要求，這樣能讓優娣忒聲名遠播
+              尋訪周圍的城市並聽取他們的訴求。滿足他們的要求，這樣能讓游娣特聲名遠播
             </li>
             <li>
               選擇性任務
@@ -119,7 +119,7 @@
           <ul>
             <li>
               你的<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-              >回報：公主優娣忒(綠色)起步於<nuxt-link to="/techs/age/Feudal_Age"
+              >回報：公主游娣特(綠色)起步於<nuxt-link to="/techs/age/Feudal_Age"
                 >封建時代</nuxt-link
               >，有兩個營地:一個位於南邊平原，另一個則在紅海邊上。這兩個營地的位置都易攻難守，你要提防敵人早期的襲擊。
             </li>
@@ -156,14 +156,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                最佳搭檔
+                真命天子
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Yodit_2.png" alt="" />
+                <img src="~assets/Yodit/The_Right_Partner_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -181,7 +181,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
+              <nuxt-link to="/batt/Yodita">游娣特</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -213,13 +213,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Path_of_Exile">流亡之路</nuxt-link>
+              <nuxt-link to="/batt/Path_of_Exile">亡命天涯</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>
+              <nuxt-link to="/batt/A_Fallen_Crown">皇冠落地</nuxt-link>
             </td>
           </tr>
         </table>

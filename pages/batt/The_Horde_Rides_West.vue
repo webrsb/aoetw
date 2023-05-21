@@ -185,7 +185,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/The_horde_rides_west.png" alt="" />
+                <img src="~assets/Genghis_Khana/The_Horde_Rides_West_map.png" alt="" />
               </div>
             </td>
           </tr>

@@ -211,7 +211,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/BRA_6.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/Barbaross/The_Emperor_Sleeping_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>

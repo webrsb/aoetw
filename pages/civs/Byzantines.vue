@@ -320,10 +320,10 @@
       <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
       <ul>
         <li>
-          <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>:西羅馬帝國
+          <nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link>:西羅馬帝國
         </li>
         <li>
-          <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
+          <nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link
           >:東羅馬帝國、亞得里亞堡、底斯索隆尼卡
         </li>
         <li>
@@ -336,7 +336,7 @@
           >:西羅馬帝國
         </li>
         <li>
-          <nuxt-link to="/batt/Catalaunian_Fields">卡塔隆尼亞平原</nuxt-link
+          <nuxt-link to="/batt/Catalaunian_Fields">沙隆戰役</nuxt-link
           >:西羅馬帝國
         </li>
         <li>
@@ -346,18 +346,18 @@
       <nuxt-link to="/batt/Battles_of_the_Conquerors">征服者戰役</nuxt-link>
       <ul>
         <li>
-          <nuxt-link to="/batt/Manzikert_1071">曼奇克托（1071）</nuxt-link
+          <nuxt-link to="/batt/Manzikert_1071">曼奇克托戰役(1071)</nuxt-link
           >卡帕多細亞、西迪亞、格雷西亞、拜占庭軍隊
         </li>
         <li>
-          <nuxt-link to="/batt/Lepanto_1571">勒班陀（1571）</nuxt-link>:希臘村莊
+          <nuxt-link to="/batt/Lepanto_1571">勒班陀戰役(1571)</nuxt-link>:希臘村莊
         </li>
       </ul>
       <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>
       <ul>
         <li>
           <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
-            >條條大路通圍城</nuxt-link
+            >冷河戰役</nuxt-link
           >羅馬軍團、西羅馬帝國
         </li>
         <li>

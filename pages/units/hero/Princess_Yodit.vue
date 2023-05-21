@@ -2,18 +2,18 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>優娣忒公主</h1>
+        <h1>游娣特公主</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>優娣忒公主</b>是個<nuxt-link to="/units/hero">英雄</nuxt-link
+            <b>游娣特公主</b>是個<nuxt-link to="/units/hero">英雄</nuxt-link
             >，在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
             >》資料片中出現，也能在地圖編輯器中找到她。
           </p>
           <p>
-            優娣忒公主在所有她的<nuxt-link to="/batt">戰役</nuxt-link
+            游娣特公主在所有她的<nuxt-link to="/batt">戰役</nuxt-link
             >中都必須活著，否則遊戲就宣告失敗，她不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
@@ -28,7 +28,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                優娣忒公主
+                游娣特公主
               </div>
             </td>
           </tr>

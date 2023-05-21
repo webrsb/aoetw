@@ -2,18 +2,18 @@
   <div class="container">
     <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
-        <h1>摔落的皇冠</h1>
+        <h1>皇冠落地</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>摔落的皇冠</strong>是《<nuxt-link to="/games/ak"
+            <strong>皇冠落地</strong>是《<nuxt-link to="/games/ak"
               >世紀帝國II：非洲王國</nuxt-link
-            >》<nuxt-link to="/batt/Yodita">優娣忒戰役</nuxt-link
+            >》<nuxt-link to="/batt/Yodita">游娣特戰役</nuxt-link
             >的第三個場景。<nuxt-link to="/batt">戰役</nuxt-link>中<nuxt-link
               to="/units/hero/Yodit"
-              >優娣忒</nuxt-link
+              >游娣特</nuxt-link
             >必須面對阿克蘇姆國王<nuxt-link to="/units/hero/Dagnajan"
               >達納罕</nuxt-link
             >及他的盟友貝根德爾王國，同時還要處理該地區的內戰，最後要阻止達納罕到達西方的路口。
@@ -149,13 +149,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">摔落的皇冠</div>
+              <div class="unititle2">皇冠落地</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Yodit_3.png" alt="" />
+                <img src="~assets/Yodit/A_Fallen_Crown_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -173,7 +173,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
+              <nuxt-link to="/batt/Yodita">游娣特</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -203,13 +203,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>
+              <nuxt-link to="/batt/The_Right_Partner">真命天子</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>
+              <nuxt-link to="/batt/Broken_Stelae">斷壁殘垣</nuxt-link>
             </td>
           </tr>
         </table>

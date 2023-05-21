@@ -12,7 +12,7 @@
               >有些名字會在歷史中流傳下來；男人和女人都在一起朔造這個世界。有些是代表混亂、破壞和暴虐的惡勢力。有些是忠誠的人為了正義而戰。有些是為了保衛家園，而跟那些以武力奪取別人土地的入侵者而戰。在世界歷史裡，有些<nuxt-link
                 to="/batt"
                 >戰役</nuxt-link
-              >包括亞琴哥特、曼奇克托和哈斯丁斯，都是一直為人熟知的轉捩點，而包括<nuxt-link
+              >包括阿金庫爾、曼奇克托和哈斯丁斯，都是一直為人熟知的轉捩點，而包括<nuxt-link
                 to="/units/hero/Henry_V"
                 >亨利五世</nuxt-link
               >、<nuxt-link to="/units/hero/Admiral_Yi_Sun-Shin"
@@ -46,7 +46,7 @@
               <div class="col-md-6">
                 <ol>
                   <li>
-                    <nuxt-link to="/batt/Tours_732">都爾（732）</nuxt-link>
+                    <nuxt-link to="/batt/Tours_732">都爾戰役(732)</nuxt-link>
                     <p>
                       <nuxt-link to="/civs">文明</nuxt-link>：<nuxt-link
                         to="/civs/Franks"
@@ -56,25 +56,25 @@
                   </li>
                   <li>
                     <nuxt-link to="/batt/Vindlandsaga_1000"
-                      >芬特蘭撒格（1000）</nuxt-link
+                      >北地傳奇(1000)</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Vikings">維京</nuxt-link></p>
                   </li>
                   <li>
                     <nuxt-link to="/batt/Hastings_1066"
-                      >哈斯汀斯（1066）</nuxt-link
+                      >哈斯汀斯戰役(1066)</nuxt-link
                     >
                     <p>文明：法蘭克</p>
                   </li>
                   <li>
                     <nuxt-link to="/batt/Manzikert_1071"
-                      >曼奇克托（1071）</nuxt-link
+                      >曼奇克托戰役(1071)</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Turks">土耳其</nuxt-link></p>
                   </li>
                   <li>
                     <nuxt-link to="/batt/Agincourt_1415"
-                      >亞琴哥特（1415）</nuxt-link
+                      >阿金庫爾戰役(1415)</nuxt-link
                     >
                     <p>
                       文明：<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
@@ -82,19 +82,19 @@
                   </li>
                   <li>
                     <nuxt-link to="/batt/Lepanto_1571"
-                      >勒班陀（1571）</nuxt-link
+                      >勒班陀戰役(1571)</nuxt-link
                     >
                     <p>
                       文明：<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
                     </p>
                   </li>
                   <li>
-                    <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
+                    <nuxt-link to="/batt/Kyoto_1582">京都之戰(1582)</nuxt-link>
                     <p>文明：<nuxt-link to="/civs/Japanese">日本</nuxt-link></p>
                   </li>
                   <li>
                     <nuxt-link to="/batt/Noryang_Point_1598"
-                      >洛陽點（1598）</nuxt-link
+                      >露梁海戰(1598) </nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link></p>
                   </li>
@@ -124,15 +124,9 @@
                 </li>
                 <ul>
                   <li>
-                    如：芬特蘭撒格／大地的傳奇、曼奇克托／曼齊刻爾特、亞琴哥特／阿金庫爾...等。
+                    如：北地傳奇／大地的傳奇、曼奇克托／曼齊刻爾特、阿金庫爾／阿金庫爾...等。
                   </li>
                 </ul>
-                <li>
-                  <nuxt-link to="/civs/Koreans">朝鮮</nuxt-link>戰役-<nuxt-link
-                    to="/batt/Kyoto_1582"
-                    >(洛陽點)</nuxt-link
-                  >，英語原文Noryang Point，為翻譯錯誤，正確為露梁海戰。
-                </li>
                 <li>
                   在世紀帝國II：<nuxt-link to="/civs/Japanese">日本</nuxt-link
                   >、朝鮮（沒有獨立篇章），<nuxt-link to="/civs/Chinese"

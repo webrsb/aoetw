@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>卡塔隆尼亞平原</h1>
+        <h1>沙隆戰役</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>卡塔隆尼亞平原</b>為<nuxt-link to="/batt/Attila_the_Huna"
+            <b>沙隆戰役</b>為<nuxt-link to="/batt/Attila_the_Huna"
               >阿提拉戰役</nuxt-link
             >的第五關劇情關卡，此關原型為公元451年6月20日，發生在當今法國的香檳沙隆地區（Châlons-en-Champagne），羅馬將軍埃提烏斯和西哥特國王狄奧多里克一世的聯軍與由<nuxt-link
               to="/units/hero/Attila_the_Hun"
@@ -248,14 +248,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                卡塔隆尼亞平原
+                沙隆戰役
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Attila.5.jpg" alt="" />
+                <img src="~assets/Attila_the_Hun/Catalaunian_Fields_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -316,14 +316,14 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的卡塔隆尼亞平原戰役
+            維基百科上的沙隆戰役戰役
             <div style="margin-left: 10px;">
               <i
                 ><strong
                   ><a
                     target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E6%B2%99%E9%9A%86%E6%88%98%E5%BD%B9"
-                    >卡塔隆尼亞平原戰役</a
+                    >沙隆戰役戰役</a
                   ></strong
                 ></i
               >

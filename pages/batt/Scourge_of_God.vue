@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>上帝之鞭</h1>
+        <h1>上帝之怒</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>上帝之鞭</b>為<nuxt-link to="/batt/Attila_the_Huna"
+            <b>上帝之怒</b>為<nuxt-link to="/batt/Attila_the_Huna"
               >阿提拉戰役</nuxt-link
             >的第一關劇情關卡，為<nuxt-link to="/units/hero/Attila_the_Hun"
               >阿提拉</nuxt-link
@@ -304,14 +304,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                上帝之鞭
+                上帝之怒
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Attila.1.jpg" alt="" />
+                <img src="~assets/Attila_the_Hun/Scourge_of_God_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -358,7 +358,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
+              <nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link>
             </td>
           </tr>
         </table>

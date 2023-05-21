@@ -611,7 +611,7 @@
               登場戰役：阿提拉6-羅馬的衰落、<nuxt-link
                 to="/batt/Battles_of_the_Forgotten"
                 >失落的帝國戰役</nuxt-link
-              >-<nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
+              >-<nuxt-link to="/batt/York_865">約克城(865)</nuxt-link>
             </p>
           </div>
           <div class="col-md-4">
@@ -665,7 +665,7 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Battles_of_the_Conquerors"
                 >征服者的戰役</nuxt-link
-              >-<nuxt-link to="/batt/Agincourt_1415">亞琴哥特（1415）</nuxt-link
+              >-<nuxt-link to="/batt/Agincourt_1415">阿金庫爾戰役(1415)</nuxt-link
               >、阿提拉6-羅馬的衰落
             </p>
           </div>
@@ -718,7 +718,7 @@
             </p>
             <p>
               登場戰役：失落的帝國戰役-<nuxt-link to="/batt/Kurikara_1183"
-                >礪波山（1183）</nuxt-link
+                >俱利伽羅之戰(1183)</nuxt-link
               >
             </p>
           </div>
@@ -766,7 +766,7 @@
             <p>
               登場戰役：成吉思汗4-<nuxt-link to="/batt/The_Horde_Rides_West"
                 >策馬西征</nuxt-link
-              >、法蘭西斯科·德·阿爾梅達5-兒子的血仇
+              >、法蘭西斯科·德·阿爾梅達5-喪子之痛
             </p>
           </div>
           <div class="col-md-4">
@@ -851,7 +851,7 @@
             <p>
               登場戰役：薩拉丁1-<nuxt-link to="/batt/An_Arabian_Knight"
                 >阿拉伯騎士</nuxt-link
-              >、<nuxt-link to="/batt/El_Cida">熙德</nuxt-link>4-<nuxt-link
+              >、<nuxt-link to="/batt/El_Cida">席德</nuxt-link>4-<nuxt-link
                 to="/batt/Black_Guards"
                 >黑衛隊</nuxt-link
               >、<nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link
@@ -884,7 +884,7 @@
               位於現今<nuxt-link to="/civs/Vikings">挪威</nuxt-link
               >萊達爾博爾貢，建於1180年到1250年間，為挪威28座木教堂裡保存最好的一座，現在不再是教堂，而是博物館。
             </p>
-            <p>登場戰役：失落的帝國戰役-約克（865）</p>
+            <p>登場戰役：失落的帝國戰役-約克城(865)</p>
           </div>
           <div class="col-md-4">
             <h3>
@@ -964,8 +964,8 @@
             </p>
             <p>
               登場戰役：征服者的戰役-<nuxt-link to="/batt/Noryang_Point_1598"
-                >洛陽點（1598）</nuxt-link
-              >、失落的帝國戰役-礪波山（1183）
+                >露梁海戰(1598) </nuxt-link
+              >、失落的帝國戰役-俱利伽羅之戰(1183)
             </p>
           </div>
           <div class="col-md-4">
@@ -1011,11 +1011,11 @@
               位於現今西班牙賽維亞，修建於13世紀的穆瓦希德王朝，作用是以鐵鍊控制水路進出口，1755年大地震摧毀了河岸另一端的塔，於是僅僅剩下一座，現為博物館。
             </p>
             <p>
-              登場戰役：熙德5-<nuxt-link to="/batt/King_of_Valencia"
-                >瓦倫西亞之主</nuxt-link
+              登場戰役：席德5-<nuxt-link to="/batt/King_of_Valencia"
+                >瓦倫西亞之王</nuxt-link
               >、蒙提祖馬4-<nuxt-link to="/batt/La_Noche_Triste"
                 >悲痛之夜</nuxt-link
-              >、征服者的戰役-勒班陀（1571）、塔里克·伊本·齊亞德2-攻城拔寨
+              >、征服者的戰役-勒班陀戰役(1571)、塔里克·伊本·齊亞德2-攻城拔寨
             </p>
             <br />
             <br />
@@ -1101,7 +1101,7 @@
             <p>
               位於現今印度泰米爾納德邦，建立於1000年左右，印度最高的神廟，供奉濕婆神，主殿內供奉有印度現存最大的石雕林伽(各位男性，就是你胯下那根)。
             </p>
-            <p>登場戰役：勃印曩1-餓虎撲食、法蘭西斯科·德·阿爾梅達4-葡屬印度</p>
+            <p>登場戰役：莽應龍1-餓虎撲食、法蘭西斯科·德·阿爾梅達4-葡屬印度</p>
           </div>
           <div class="col-md-4">
             <h3>
@@ -1126,7 +1126,7 @@
             <p>
               登場戰役：<nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link
               >4-<nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link
-              >、失落的帝國戰役-塞普勒斯島之戰(1191)、塔里克·伊本·齊亞德2-攻城拔寨
+              >、失落的帝國戰役-賽普勒斯島之戰(1191)、塔里克·伊本·齊亞德2-攻城拔寨
             </p>
           </div>
           <div class="col-md-4">
@@ -1223,8 +1223,8 @@
               位於現今衣索比亞拉利貝拉，是阿克蘇姆帝國時期的建築物，阿克蘇姆帝國從330年開始就成為基督教國家，建築物本身一直是個基督教堂，整座教堂是一塊岩石鑿出來的。
             </p>
             <p>
-              登場戰役：優娣忒3-摔落的皇冠、<nuxt-link to="/batt/Yodita"
-                >優娣忒</nuxt-link
+              登場戰役：游娣特3-皇冠落地、<nuxt-link to="/batt/Yodita"
+                >游娣特</nuxt-link
               >5-<nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </p>
           </div>
@@ -1281,8 +1281,8 @@
                 to="/batt/Estado_da_India"
                 >葡屬印度</nuxt-link
               >、法蘭西斯科·德·阿爾梅達5-<nuxt-link to="/batt/A_Sons_Blood"
-                >兒子的血仇</nuxt-link
-              >、<nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link
+                >喪子之痛</nuxt-link
+              >、<nuxt-link to="/batt/Bayinnaunga">莽應龍</nuxt-link
               >5-<nuxt-link to="/batt/The_Old_Tiger">鳳凰涅槃</nuxt-link>
             </p>
           </div>
@@ -1307,11 +1307,11 @@
               位於現今緬甸蒲甘娘烏，建立於1059年，蒲甘內最古老的寺廟，建立者阿奴律陀王把佛陀舍利放在白大象上，讓大象走啊走的，停留的地方就蓋了這座佛塔。
             </p>
             <p>
-              登場戰役：勃印曩2-<nuxt-link to="/batt/The_Mandalay_Cobra"
+              登場戰役：莽應龍2-<nuxt-link to="/batt/The_Mandalay_Cobra"
                 >猛蛇出洞</nuxt-link
-              >、勃印曩3-<nuxt-link to="/batt/The_Royal_Peacock"
+              >、莽應龍3-<nuxt-link to="/batt/The_Royal_Peacock"
                 >百鳥朝鳳</nuxt-link
-              >、勃印曩5-鳳凰涅槃、布里斯比羅吉5-布里陀毗羅闍傳說
+              >、莽應龍5-鳳凰涅槃、布里斯比羅吉5-布里陀毗羅闍傳說
             </p>
           </div>
           <div class="col-md-4">
@@ -1340,9 +1340,9 @@
               登場戰役：<nuxt-link to="/batt/Suryavarman_I"
                 >蘇利耶跋摩一世</nuxt-link
               >5-<nuxt-link to="/batt/Nirvanapada">千古偉業</nuxt-link
-              >、勃印曩1-<nuxt-link to="/batt/The_Burmese_Tigers"
+              >、莽應龍1-<nuxt-link to="/batt/The_Burmese_Tigers"
                 >餓虎撲食</nuxt-link
-              >、勃印曩4-白象化身
+              >、莽應龍4-白象化身
             </p>
           </div>
           <div class="col-md-4">
@@ -1367,7 +1367,7 @@
               登場戰役：<nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link
               >5-<nuxt-link to="/batt/The_Pasunda_Bubat_Tragedy"
                 >風雲變色</nuxt-link
-              >、勃印曩5-鳳凰涅槃、布里斯比羅吉2-九合諸侯
+              >、莽應龍5-鳳凰涅槃、布里斯比羅吉2-九合諸侯
             </p>
           </div>
           <div class="col-md-4">

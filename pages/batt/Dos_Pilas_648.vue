@@ -422,7 +422,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Dos_Pilas.jpg" class="imgn" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Dos_Pilas_map.png" class="imgn" alt="" />
               </div>
             </td>
           </tr>
@@ -467,12 +467,12 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>
+              <nuxt-link to="/batt/Bukhara_557">布哈拉反擊戰(557)</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <nuxt-link to="/batt/York_865">約克(865)</nuxt-link>
+            <nuxt-link to="/batt/York_865">約克城(865)</nuxt-link>
           </tr>
         </table>
 

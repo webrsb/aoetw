@@ -12,7 +12,7 @@
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
-            >編輯器中找到，在"沉睡的皇帝"、"獅子與惡魔"、"塞普勒斯島之戰(1191)"等戰役中也有它的身影。現實中的狮心王理查德是<nuxt-link
+            >編輯器中找到，在"沉睡的皇帝"、"獅子與惡魔"、"賽普勒斯島之戰(1191)"等戰役中也有它的身影。現實中的狮心王理查德是<nuxt-link
               to="/civs/Britons"
               >英國</nuxt-link
             >的理查一世，他與菲利普·奧古斯都和弗雷德里克·<nuxt-link

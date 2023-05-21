@@ -241,7 +241,7 @@
                     圖爾戰役又稱普瓦捷戰役，《<nuxt-link to="/games/aoc"
                       >世紀帝國II：征服者入侵</nuxt-link
                     >》戰役的<nuxt-link to="/batt/Tours_732"
-                      >都爾（732）</nuxt-link
+                      >都爾戰役(732)</nuxt-link
                     >。
                   </li>
                 </ul>
@@ -262,7 +262,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Crossing_the_Pyrenees1.jpg" alt="" />
+                <img src="~assets/Tariq_ibn_Ziyada/Crossing_the_Pyrenees_map.png" alt="" />
               </div>
             </td>
           </tr>

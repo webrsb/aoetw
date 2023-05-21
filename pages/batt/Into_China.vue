@@ -217,7 +217,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Into_china.png" alt="" />
+                <img src="~assets/Genghis_Khana/Into_China_map.png" alt="" />
               </div>
             </td>
           </tr>

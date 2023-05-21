@@ -354,9 +354,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center>
-                  <img src="~assets/Ruins_of_Empires.png" alt="" />
-                </center>
+                <img src="~assets/Francisco_de_Almeida/Ruins_of_Empires_map.png" alt="" />
               </div>
             </td>
           </tr>

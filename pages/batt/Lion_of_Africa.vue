@@ -362,7 +362,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center><img src="~assets/Lion_of_Africa.png" alt="" /></center>
+                <img src="~assets/Francisco_de_Almeida/Lion_of_Africa_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -407,7 +407,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>
+              <nuxt-link to="/batt/The_Old_World">前朝舊夢</nuxt-link>
             </td>
           </tr>
           <tr>

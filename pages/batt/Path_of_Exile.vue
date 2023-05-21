@@ -2,18 +2,18 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>流亡之路</h1>
+        <h1>亡命天涯</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>流亡之路</b>是《<nuxt-link to="/games/ak"
+            <b>亡命天涯</b>是《<nuxt-link to="/games/ak"
               >世紀帝國II：非洲王國</nuxt-link
-            >》<nuxt-link to="/batt/Yodita">優娣忒戰役</nuxt-link
+            >》<nuxt-link to="/batt/Yodita">游娣特戰役</nuxt-link
             >的第一個場景。<nuxt-link to="/batt">戰役</nuxt-link>中<nuxt-link
               to="/units/hero/Yodit"
-              >優娣忒</nuxt-link
+              >游娣特</nuxt-link
             >在她忠誠的保鑣薩謬爾的保護下，從誣陷她竊盜的她的姪子<nuxt-link
               to="/units/hero/Gidajan"
               >極大汗</nuxt-link
@@ -81,7 +81,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>優娣忒必須存活。</li>
+            <li>游娣特必須存活。</li>
             <li>從極大汗的手中逃出去。</li>
             <li>
               選擇性任務
@@ -109,13 +109,13 @@
           <ul>
             <li>
               你的<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-              >回報：優娣忒和薩繆爾（綠色）剛剛從阿克蘇姆主城逃離出來，他們還得找到一條可以離開阿克蘇姆帝國國境的路。
+              >回報：游娣特和薩繆爾（綠色）剛剛從阿克蘇姆主城逃離出來，他們還得找到一條可以離開阿克蘇姆帝國國境的路。
             </li>
             <li>
-              阿克蘇姆（黃色）是你唯一的盟軍，他們有一些城鎮和士兵還忠於優娣忒。
+              阿克蘇姆（黃色）是你唯一的盟軍，他們有一些城鎮和士兵還忠於游娣特。
             </li>
             <li>
-              極大汗（紅色）是你最危險的敵人。他們會傾盡所有的封建軍力來追捕優娣忒。
+              極大汗（紅色）是你最危險的敵人。他們會傾盡所有的封建軍力來追捕游娣特。
             </li>
             <li>
               山中的要塞（青色）是阻擋向北的山路的堡壘。他們將會訓練一支由<nuxt-link
@@ -146,14 +146,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                流亡之路
+                亡命天涯
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Yodit_1.png" alt="" />
+                <img src="~assets/Yodit/Path_of_Exile_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -171,7 +171,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
+              <nuxt-link to="/batt/Yodita">游娣特</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -205,7 +205,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>
+              <nuxt-link to="/batt/The_Right_Partner">真命天子</nuxt-link>
             </td>
           </tr>
         </table>
@@ -217,19 +217,19 @@
         <div class="hrn1"></div>
         <ul>
           <li>
-            一開始優娣忒和保鑣薩繆爾在阿克蘇姆皇室的秘密通道外面。向南移動在過橋處會遇到一名<nuxt-link
+            一開始游娣特和保鑣薩繆爾在阿克蘇姆皇室的秘密通道外面。向南移動在過橋處會遇到一名<nuxt-link
               to="/units/Shotel_Warrior"
               >彎刀勇士</nuxt-link
-            >和兩名長槍兵，薩繆爾可以輕易解決他們。向西走一些會得到兩名彎刀勇士。當解決敵人後薩繆爾提議移動到附近一個還是擁護優娣忒的小村莊先藏身再做打算。
+            >和兩名長槍兵，薩繆爾可以輕易解決他們。向西走一些會得到兩名彎刀勇士。當解決敵人後薩繆爾提議移動到附近一個還是擁護游娣特的小村莊先藏身再做打算。
           </li>
           <li>
-            只要玩家一到達村莊，極大汗就會開始生產單位攻擊玩家，所以建議是先好好探完地圖找到所有的彎刀勇士（共10名）及敵方陣地。優娣忒雖然不能戰鬥，但她有良好的<nuxt-link
+            只要玩家一到達村莊，極大汗就會開始生產單位攻擊玩家，所以建議是先好好探完地圖找到所有的彎刀勇士（共10名）及敵方陣地。游娣特雖然不能戰鬥，但她有良好的<nuxt-link
               to="/elements/Line_of_Sight"
               >視野</nuxt-link
-            >範圍和移動速度，是很好的探測單位。抵達村莊後遊戲的目標會變成讓優娣忒從地圖上三個標記被敵人防守的地點脫逃。
+            >範圍和移動速度，是很好的探測單位。抵達村莊後遊戲的目標會變成讓游娣特從地圖上三個標記被敵人防守的地點脫逃。
           </li>
           <li>
-            最簡單的獲勝方法如下:讓優娣忒找到所有10名彎刀勇士，他們多分布在河邊。同時派薩繆爾攻擊極大汗東邊的營地，不要去碰地圖中央的營地（有<nuxt-link
+            最簡單的獲勝方法如下:讓游娣特找到所有10名彎刀勇士，他們多分布在河邊。同時派薩繆爾攻擊極大汗東邊的營地，不要去碰地圖中央的營地（有<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
             >），玩家會遭受嚴重的損失。東邊的營地有許多<nuxt-link
@@ -259,12 +259,12 @@
             </div>
           </div>
           <li>
-            接管村莊後就別管城鎮了，速速讓優娣忒前往東邊或東北邊的旗幟處，地圖東邊會有8隻<nuxt-link
+            接管村莊後就別管城鎮了，速速讓游娣特前往東邊或東北邊的旗幟處，地圖東邊會有8隻<nuxt-link
               to="/units/animal/Lion"
               >獅子</nuxt-link
             >，東北邊則有6隻<nuxt-link to="/units/animal/Crocodile"
               >鱷魚</nuxt-link
-            >，不過優娣忒不會被獅子跟鱷魚攻擊，用薩繆爾跟彎刀勇士解決東邊營地生產出的任何單位，並目送優娣忒逃出這場景。
+            >，不過游娣特不會被獅子跟鱷魚攻擊，用薩繆爾跟彎刀勇士解決東邊營地生產出的任何單位，並目送游娣特逃出這場景。
           </li>
           <div class="row">
             <div class="col-md-6">
@@ -291,7 +291,7 @@
             </div>
           </div>
           <li>
-            不用去管任何的守衛，只要不攻擊他們都不會有事。南邊的運輸船雖然讓到達地圖東南方的旗幟看起來很容易，但河流守衛的嚴密防守讓這個任務根本不可能實現，而且500黃金可以拿來做更多其他事。除非玩家在對付極大汗之餘有餘力剷平河流守衛，不然就是上岸時讓軍隊先上，然後優娣忒偷偷溜過河流守衛的視線到達旗幟處，或是對自己的閃躲技術有信心的可以試著用運輸船閃過箭塔跟<nuxt-link
+            不用去管任何的守衛，只要不攻擊他們都不會有事。南邊的運輸船雖然讓到達地圖東南方的旗幟看起來很容易，但河流守衛的嚴密防守讓這個任務根本不可能實現，而且500黃金可以拿來做更多其他事。除非玩家在對付極大汗之餘有餘力剷平河流守衛，不然就是上岸時讓軍隊先上，然後游娣特偷偷溜過河流守衛的視線到達旗幟處，或是對自己的閃躲技術有信心的可以試著用運輸船閃過箭塔跟<nuxt-link
               to="/units/Archer"
               >弓兵</nuxt-link
             >攻擊在距離極大汗東邊營地的河對岸下船。

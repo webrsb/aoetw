@@ -228,7 +228,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Gajah_Mada_2.jpg" alt="" />
+                <img src="~assets/Gajah_Mada/Unconditional_Loyalty_map.png" alt="" />
               </div>
             </td>
           </tr>

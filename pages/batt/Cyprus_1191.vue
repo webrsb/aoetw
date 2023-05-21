@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>塞普勒斯島之戰(1191)</h1>
+        <h1>賽普勒斯島之戰(1191)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -197,13 +197,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">塞普勒斯島之戰(1191)</div>
+              <div class="unititle2">賽普勒斯島之戰(1191)</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Cyprus_map.png" class="imgn" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Cyprus_map.png" class="imgn" alt="" />
               </div>
             </td>
           </tr>
@@ -246,13 +246,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>
+              <nuxt-link to="/batt/Kurikara_1183">俱利伽羅之戰(1183)</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bapheus_1302">巴菲烏斯(1302)</nuxt-link>
+              <nuxt-link to="/batt/Bapheus_1302">兵臨巴菲烏斯(1302)</nuxt-link>
             </td>
           </tr>
         </table>

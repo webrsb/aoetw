@@ -33,7 +33,7 @@
               <div class="col-md-6">
                 <ol>
                   <li>
-                    <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>
+                    <nuxt-link to="/batt/Bukhara_557">布哈拉反擊戰(557)</nuxt-link>
                     <p>
                       <nuxt-link to="/civs">文明</nuxt-link>：<nuxt-link
                         to="/civs/Persians"
@@ -53,12 +53,12 @@
                     </p>
                   </li>
                   <li>
-                    <nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
+                    <nuxt-link to="/batt/York_865">約克城(865)</nuxt-link>
                     <p>文明：<nuxt-link to="/civs/Vikings">維京</nuxt-link></p>
                   </li>
                   <li>
                     <nuxt-link to="/batt/Honfoglalas_895"
-                      >征服家園（895）</nuxt-link
+                      >征服家園(895)</nuxt-link
                     >
                     <p>
                       文明：<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>
@@ -72,13 +72,13 @@
                   </li>
                   <li>
                     <nuxt-link to="/batt/Kurikara_1183"
-                      >礪波山（1183）</nuxt-link
+                      >俱利伽羅之戰(1183)</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Japanese">日本</nuxt-link></p>
                   </li>
                   <li>
                     <nuxt-link to="/batt/Cyprus_1191"
-                      >塞普勒斯島之戰（1191）</nuxt-link
+                      >賽普勒斯島之戰(1191)</nuxt-link
                     >
                     <p>
                       文明：<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
@@ -86,7 +86,7 @@
                   </li>
                   <li>
                     <nuxt-link to="/batt/Bapheus_1302"
-                      >巴菲烏斯（1302）</nuxt-link
+                      >兵臨巴菲烏斯(1302)</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Turks">土耳其</nuxt-link></p>
                   </li>

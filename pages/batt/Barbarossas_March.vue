@@ -116,7 +116,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/BRA_5.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/Barbaross/Barbarossa_s_March_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>

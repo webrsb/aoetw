@@ -18,14 +18,14 @@
           <p>
             織田信長是一位<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
-            >，在<nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link
+            >，在<nuxt-link to="/batt/Kyoto_1582">京都之戰(1582)</nuxt-link
             >中登場，形象為一名<nuxt-link to="/units/Samurai"
               >日本武士</nuxt-link
             >，他最大的特色是他超快的攻速，一秒鐘可以攻擊兩次，做為比對，正常士兵基本上是兩秒一刀。
           </p>
           <ul>
             <li>
-              在京都（1582）<nuxt-link to="/batt">戰役</nuxt-link
+              在京都之戰(1582)<nuxt-link to="/batt">戰役</nuxt-link
               >中，他必須死亡，否則遊戲無法進行。
             </li>
             <li>
@@ -63,7 +63,7 @@
               <td>所屬陣營與顏色</td>
             </tr>
             <tr>
-              <td class="tta1">京都（1582）</td>
+              <td class="tta1">京都之戰(1582)</td>
               <td class="tta2">
                 <span
                   style="color: red;"
@@ -314,7 +314,7 @@
             <li>
               信長的頭像跟<nuxt-link to="/units/hero/Minamoto">源氏</nuxt-link
               >重複了，而且跟<nuxt-link to="/batt/Kurikara_1183"
-                >礪波山（1183）</nuxt-link
+                >俱利伽羅之戰(1183)</nuxt-link
               >裡面的英雄武士都一樣。
             </li>
             <li>

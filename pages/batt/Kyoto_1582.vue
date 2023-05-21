@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>京都（1582）</h1>
+        <h1>京都之戰(1582)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>京都（1582）</b>是<nuxt-link to="/batt/Battles_of_the_Conquerors"
+            <b>京都之戰(1582)</b>是<nuxt-link to="/batt/Battles_of_the_Conquerors"
               >征服者的戰役</nuxt-link
             >之一，描述1582年<nuxt-link to="/civs/Japanese">日本</nuxt-link
             >的本能寺之變與其後的<nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -318,7 +318,7 @@
             <li>
               豐臣秀吉後來進攻朝朝鮮，也就是遊戲內的<nuxt-link
                 to="/batt/Noryang_Point_1598"
-                >洛陽點（1598）</nuxt-link
+                >露梁海戰(1598) </nuxt-link
               >戰役。
             </li>
           </ul>
@@ -329,13 +329,15 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                京都（1582）
+                京都之戰(1582)
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/Kyoto.jpg" alt="" /></div>
+              <div class="unititle">
+                <img src="~assets/Battles_of_the_Conquerors/Kyoto_map.png" alt="" />
+              </div>
             </td>
           </tr>
           <tr>
@@ -379,14 +381,14 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Lepanto_1571">勒班陀（1571）</nuxt-link>
+              <nuxt-link to="/batt/Lepanto_1571">勒班陀戰役(1571)</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/Noryang_Point_1598"
-                >洛陽點（1598）</nuxt-link
+                >露梁海戰(1598) </nuxt-link
               >
             </td>
           </tr>

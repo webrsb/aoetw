@@ -159,7 +159,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/An_arabian_knight.png" alt="" />
+                <img src="~assets/Saladin/An_Arabian_Knight_map.png" alt="" />
               </div>
             </td>
           </tr>

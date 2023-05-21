@@ -314,7 +314,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bari_1.jpg" alt="" />
+                <img src="~assets/Bari/Arrival_at_Bari_map.png" alt="" />
               </div>
             </td>
           </tr>

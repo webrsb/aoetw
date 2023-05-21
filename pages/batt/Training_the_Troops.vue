@@ -102,7 +102,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Wallacelc3map.png" alt="" />
+                <img src="~assets/William_Wallace/Training_the_Troops_map.png" alt="" />
               </div>
             </td>
           </tr>

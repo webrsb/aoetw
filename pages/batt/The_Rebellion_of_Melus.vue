@@ -317,7 +317,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bari.2.jpg" alt="" />
+                <img src="~assets/Bari/The_Rebellion_of_Melus_map.png" alt="" />
               </div>
             </td>
           </tr>

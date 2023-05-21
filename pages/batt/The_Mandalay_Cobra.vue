@@ -9,9 +9,9 @@
         <div class="n1">
           <p>
             <b>猛蛇出洞</b>為<nuxt-link to="/batt/Bayinnaunga"
-              >勃印曩戰役</nuxt-link
+              >莽應龍戰役</nuxt-link
             >的第二關劇情關卡，此關描述<nuxt-link to="/units/hero/Bayinnaung"
-              >勃印曩</nuxt-link
+              >莽應龍</nuxt-link
             >為了協助主君<nuxt-link to="/units/hero/Tabinshwehti"
               >德彬瑞蒂</nuxt-link
             >登基並確保對上<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
@@ -99,7 +99,7 @@
           <h3>開場</h3>
           <p>
             。<nuxt-link to="/units/hero">英雄</nuxt-link> -
-            勃印曩x1、卑謬總督x1
+            莽應龍x1、卑謬總督x1
           </p>
           <p>
             。<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link> -
@@ -240,7 +240,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/(map)Bayinnaung_2.The_Mandalay_Cobra.jpg"
+                  src="~assets/Bayinnaunga/The_Mandalay_Cobra_map.png"
                   alt=""
                 />
               </div>
@@ -260,7 +260,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
+              <nuxt-link to="/batt/Bayinnaunga">莽應龍</nuxt-link>
             </td>
           </tr>
           <tr>

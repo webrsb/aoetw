@@ -216,7 +216,9 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">決定版地圖待補</div>
+              <div class="unititle">
+                <img src="~assets/Dracula/The_Moon_Rises_map.png" alt="" />
+              </div>
             </td>
           </tr>
           <tr>

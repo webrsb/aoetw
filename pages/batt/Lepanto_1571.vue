@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>勒班陀（1571）</h1>
+        <h1>勒班陀戰役(1571)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -230,14 +230,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                勒班陀（1571）
+                勒班陀戰役(1571)
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Lepanto.jpg" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Lepanto_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -282,13 +282,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Agincourt_1415">亞琴哥特（1415）</nuxt-link>
+              <nuxt-link to="/batt/Agincourt_1415">阿金庫爾戰役(1415)</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
+              <nuxt-link to="/batt/Kyoto_1582">京都之戰(1582)</nuxt-link>
             </td>
           </tr>
         </table>

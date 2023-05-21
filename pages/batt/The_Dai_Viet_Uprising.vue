@@ -247,7 +247,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/The_Dai_Viet_Uprising.jpg" alt="" />
+                <img src="~assets/Le_Loi/The_Dai_Viet_Uprising_map.png" alt="" />
               </div>
             </td>
           </tr>

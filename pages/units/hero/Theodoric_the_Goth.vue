@@ -14,7 +14,7 @@
             ><nuxt-link to="/units/hero">英雄</nuxt-link
             >，只能在地圖編輯器中使用。實際上他在<nuxt-link
               to="/batt/All_Roads_Lead_to_a_Besieged_City"
-              >條條大路通圍城</nuxt-link
+              >冷河戰役</nuxt-link
             >和<nuxt-link to="/batt/Legionaries_on_the_Horizon"
               >羅馬軍團隨時殺到</nuxt-link
             >這兩關中出現，不過名稱被改為<nuxt-link to="/batt/Alaric"

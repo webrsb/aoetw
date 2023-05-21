@@ -210,14 +210,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                私奔
+                美人芳心
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center><img src="~assets/Prithviraj_3.jpg" alt="" /></center>
+                <center><img src="~assets/Prithviraj/Hand_of_a_Princess_map.png" alt="" /></center>
               </div>
             </td>
           </tr>

@@ -174,7 +174,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/(map)Le_Loi_-_6.The_Final_Fortress.jpg"
+                  src="~assets/Le_Loi/The_Final_Fortress_map.png"
                   alt=""
                 />
               </div>

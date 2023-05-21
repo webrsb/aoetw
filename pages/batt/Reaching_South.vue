@@ -230,7 +230,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/(map)Le_Loi_-_4.Reaching_South.jpg" alt="" />
+                <img src="~assets/Le_Loi/Reaching_South_map.png" alt="" />
               </div>
             </td>
           </tr>

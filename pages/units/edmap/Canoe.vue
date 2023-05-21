@@ -45,7 +45,7 @@
             <li>
               <nuxt-link to="/games/aor">王者崛起</nuxt-link>:<nuxt-link
                 to="/units/hero/Bayinnaung"
-                >勃印曩</nuxt-link
+                >莽應龍</nuxt-link
               ><nuxt-link to="/batt/The_Mandalay_Cobra">猛蛇出洞</nuxt-link
               >戰役中獨木舟位於將蒲甘城一分為二的河的東側，靠近東吁勇士和<nuxt-link
                 to="/units/hero/Dragon_Ship"

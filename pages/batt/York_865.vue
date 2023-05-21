@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>約克(865)</h1>
+        <h1>約克城(865)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>約克</b>為<nuxt-link to="/batt/Battles_of_the_Forgotten"
+            <b>約克城(865)</b>為<nuxt-link to="/batt/Battles_of_the_Forgotten"
               >失落帝國的戰役</nuxt-link
             >中編號第3的關卡，玩家扮演朗納爾·洛德布羅克的兒子，865年朗納爾因遇海難而漂流到諾桑比亞王國領地的沿岸，遭艾勒國王俘虜，扔進蛇坑處決，死前吟詠了《渡鴉之詩》，希望兒子們在獲知自己死訊後前來復仇。
           </p>
@@ -429,13 +429,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">約克(865)</div>
+              <div class="unititle2">約克城(865)</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/YORK.jpg" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/York_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -484,7 +484,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Honfoglalas_895">征服家園（895）</nuxt-link>
+              <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>
             </td>
           </tr>
         </table>

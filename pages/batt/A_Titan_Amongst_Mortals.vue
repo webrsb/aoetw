@@ -326,7 +326,9 @@
           </tr>
           <tr>
             <td colspan="2">
-              （地圖待補）
+              <div class="unititle">
+                <img src="~assets/Tamerlane/A_Titan_Amongst_Mortals_map.png" alt="" />
+              </div>
             </td>
           </tr>
           <tr>

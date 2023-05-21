@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
-        <h1>兒子的血仇</h1>
+        <h1>喪子之痛</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>兒子的血仇</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
+            <b>喪子之痛</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeidaa"
               >法蘭西斯科·德·阿爾梅達</nuxt-link
             >》劇情<nuxt-link to="/batt">戰役</nuxt-link
@@ -431,14 +431,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/batt/A_Sons_Blood">兒子的血仇</nuxt-link>
+                <nuxt-link to="/batt/A_Sons_Blood">喪子之痛</nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/A_Sons_Blood.png" class="imgn" alt="" />
+                <img src="~assets/Francisco_de_Almeida/A_Son_s_Blood_map.png" class="imgn" alt="" />
               </div>
             </td>
           </tr>

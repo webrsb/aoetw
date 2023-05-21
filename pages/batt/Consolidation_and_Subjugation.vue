@@ -313,7 +313,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Consolidation_and_Subjugation1.jpg" alt="" />
+                <img src="~assets/Tariq_ibn_Ziyada/Consolidation_and_Subjugation_map.png" alt="" />
               </div>
             </td>
           </tr>

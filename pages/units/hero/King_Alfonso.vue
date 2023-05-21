@@ -29,16 +29,16 @@
           <ul>
             <li>
               阿方索國王第一次出現是在<nuxt-link to="/batt/El_Cida"
-                >熙德戰役</nuxt-link
-              >的"兄弟鬩牆"作為<nuxt-link to="/units/hero/El_Cid"
-                >熙德</nuxt-link
+                >席德戰役</nuxt-link
+              >的"手足相殘"作為<nuxt-link to="/units/hero/El_Cid"
+                >席德</nuxt-link
               >的對手和萊昂的國王。在戰役中阿方索最後殺死了自己的兄弟<nuxt-link
                 to="/units/hero/King_Sancho"
                 >桑喬國王</nuxt-link
               >並成為萊昂和卡斯蒂利亞的國王。
             </li>
             <li>
-              在戰役"黑衛隊"熙德必須求助於阿方索國王的幫助避免他死於<nuxt-link
+              在戰役"黑衛隊"席德必須求助於阿方索國王的幫助避免他死於<nuxt-link
                 to="/civs/Berbers"
                 >柏柏人</nuxt-link
               >的刀下。

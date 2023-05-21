@@ -247,7 +247,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Attila.3.jpg" alt="" />
+                <img src="~assets/Attila_the_Hun/Walls_of_Constantinople_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -288,7 +288,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
+              <nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link>
             </td>
           </tr>
           <tr>

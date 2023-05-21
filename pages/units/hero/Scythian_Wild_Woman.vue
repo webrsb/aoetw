@@ -13,7 +13,7 @@
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link>，她在<nuxt-link
               to="/batt/The_Great_Ride"
-              >偉大的騎士</nuxt-link
+              >天下第一騎</nuxt-link
             >和<nuxt-link to="/batt/The_White_Elephant">白象化身</nuxt-link
             >(不過被改名為鬼靈女巫)兩關中登場，也可在地圖編輯器中使用。
           </p>

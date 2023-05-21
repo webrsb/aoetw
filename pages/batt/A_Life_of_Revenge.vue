@@ -159,7 +159,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/A_life_of_revenge.png" alt="" />
+                <img src="~assets/Genghis_Khana/A_Life_of_Revenge_map.png" alt="" />
               </div>
             </td>
           </tr>

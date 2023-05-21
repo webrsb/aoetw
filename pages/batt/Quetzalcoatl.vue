@@ -240,7 +240,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙提祖馬三.png" alt="" />
+                <img src="~assets/Montezuma/Quetzalcoatl_map.png" alt="" />
               </div>
             </td>
           </tr>
