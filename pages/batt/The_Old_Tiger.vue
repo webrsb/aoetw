@@ -9,10 +9,10 @@
         <div class="n1">
           <p>
             <b>鳳凰涅槃</b>為<nuxt-link to="/batt/Bayinnaunga"
-              >勃印曩戰役</nuxt-link
+              >莽應龍戰役</nuxt-link
             >的第五關劇情關卡，同時也是最後一關。此關描述<nuxt-link
               to="/units/hero/Bayinnaung"
-              >勃印曩</nuxt-link
+              >莽應龍</nuxt-link
             >潛心修佛的意願、以及其子對繼承父業繼續擴張的經過
           </p>
         </div>
@@ -59,7 +59,7 @@
                 玩家7
               </td>
               <td class="tc6">
-                勃印曩（綠色）<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
+                莽應龍（綠色）<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
               </td>
               <td class="tc6">
                 <div class="p2"></div>
@@ -107,7 +107,7 @@
           <h3>開場</h3>
           <p>
             。<nuxt-link to="/units/hero">英雄</nuxt-link> -
-            勃印曩x1、莽應禮x1、辛格．達塔x1。 軍事單位 -<nuxt-link
+            莽應龍x1、莽應禮x1、辛格．達塔x1。 軍事單位 -<nuxt-link
               to="/units/Two-Handed_Swordsman"
               >雙手劍兵</nuxt-link
             >x44、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
@@ -134,8 +134,8 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>將勃印曩帶到四個佛殿裡。</li>
-              <li>勃印曩與莽應禮不能在戰鬥中犧牲。</li>
+              <li>將莽應龍帶到四個佛殿裡。</li>
+              <li>莽應龍與莽應禮不能在戰鬥中犧牲。</li>
             </ol>
           </div>
         </div>
@@ -148,7 +148,7 @@
               由於缺乏糧草，你必須以戰養戰，以攻為守。如果你只想慢慢發展，只能苟延殘喘最後遭到慢慢消磨而被擊敗。
             </li>
             <li>
-              盡快讓勃印曩完成禪修，這樣敵人在和你決戰前就沒有那麼多時間備戰了。
+              盡快讓莽應龍完成禪修，這樣敵人在和你決戰前就沒有那麼多時間備戰了。
             </li>
             <li>
               如果你能派遣一群研究了『神權』的高僧來協助你，會讓獲勝的機會大增。
@@ -159,7 +159,7 @@
           <div class="n1">
             <ul>
               <li>
-                勃印曩之子莽應禮與辛格達塔從陸地與水路夾擊若開邦首都妙烏城。因為緬甸人萬里遠征而來，糧草十分有限。
+                莽應龍之子莽應禮與辛格達塔從陸地與水路夾擊若開邦首都妙烏城。因為緬甸人萬里遠征而來，糧草十分有限。
               </li>
               <li>
                 若開邦（黃色）駐守於此，兵精糧足。因為他們以逸待勞，這場攻堅戰持續越久就越不利。
@@ -177,7 +177,7 @@
             <div class="n1">
               <ul>
                 <li>
-                  勃印曩在本關的形象為東亞僧侶，而不再是前面幾章的<nuxt-link
+                  莽應龍在本關的形象為東亞僧侶，而不再是前面幾章的<nuxt-link
                     to="/units/Elite_Battle_Elephant"
                     >精銳矛象伕</nuxt-link
                   >。
@@ -195,7 +195,7 @@
                   妙烏城，一作「謬烏」，若開本土政權的首府。在15世紀建立。
                 </li>
                 <li>
-                  根據英文wikia的描述：本關的老勃印曩其實是越南<nuxt-link
+                  根據英文wikia的描述：本關的老莽應龍其實是越南<nuxt-link
                     to="/batt"
                     >戰役</nuxt-link
                   >中<nuxt-link to="/units/hero/Le_Loi">黎利</nuxt-link
@@ -204,7 +204,7 @@
                 </li>
                 <li>
                   本關卡原文名稱為"The Old
-                  Tiger"。字面上應為：猛虎遲暮。但由於劇情涉及勃印曩的宗教信仰，是以翻譯組將其譯為鳳凰涅槃。
+                  Tiger"。字面上應為：猛虎遲暮。但由於劇情涉及莽應龍的宗教信仰，是以翻譯組將其譯為鳳凰涅槃。
                 </li>
               </ul>
             </div>
@@ -223,7 +223,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/(map)Bayinnaung_5.The_Old_Tiger.jpg" alt="" />
+                <img src="~assets/Bayinnaunga/The_Old_Tiger_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -241,7 +241,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
+              <nuxt-link to="/batt/Bayinnaunga">莽應龍</nuxt-link>
             </td>
           </tr>
           <tr>

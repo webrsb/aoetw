@@ -439,7 +439,7 @@
             <tr>
               <td class="tta1">
                 <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link
-                >1-<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
+                >1-<nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link>
               </td>
               <td class="tta2">
                 <span
@@ -454,9 +454,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>5-<nuxt-link
+                <nuxt-link to="/batt/El_Cida">席德</nuxt-link>5-<nuxt-link
                   to="/batt/King_of_Valencia"
-                  >瓦倫西亞之主</nuxt-link
+                  >瓦倫西亞之王</nuxt-link
                 >
               </td>
               <td class="tta2">
@@ -475,7 +475,7 @@
                 <nuxt-link to="/batt/Battles_of_the_Forgotten"
                   >失落的帝國戰役</nuxt-link
                 >-<nuxt-link to="/batt/Honfoglalas_895"
-                  >征服家園（895）</nuxt-link
+                  >征服家園(895)</nuxt-link
                 >
               </td>
               <td class="tta2">
@@ -492,7 +492,7 @@
             <tr>
               <td class="tta1">
                 失落的帝國戰役-<nuxt-link to="/batt/Bukhara_557"
-                  >布哈拉（557）</nuxt-link
+                  >布哈拉反擊戰(557)</nuxt-link
                 >
               </td>
               <td class="tta2">

@@ -2,14 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>曼奇克托（1071）</h1>
+        <h1>曼奇克托戰役(1071)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>曼奇克托</b
-            ><nuxt-link to="/batt">戰役</nuxt-link
+            <b>曼奇克托戰役</b
+            ><nuxt-link to="/batt"></nuxt-link
             >為公元1071年8月26日在<nuxt-link to="/civs/Byzantines"
               >拜占庭</nuxt-link
             >帝國與塞爾柱帝國之間發生的一場戰爭，是歷史上最具影響力的戰役之一。其中拜占庭決定性戰敗和其皇帝羅曼努斯四世被俘，導致拜占庭帝國失去了安那托利亞和亞美尼亞的統治權。
@@ -264,14 +264,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                曼奇克托（1071）
+                曼奇克托戰役(1071)
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Manzikert.jpg" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Manzikert_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -316,13 +316,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Hastings_1066">哈斯汀斯（1066）</nuxt-link>
+              <nuxt-link to="/batt/Hastings_1066">哈斯汀斯戰役(1066)</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Agincourt_1415">亞琴哥特（1415）</nuxt-link>
+              <nuxt-link to="/batt/Agincourt_1415">阿金庫爾戰役(1415)</nuxt-link>
             </td>
           </tr>
         </table>

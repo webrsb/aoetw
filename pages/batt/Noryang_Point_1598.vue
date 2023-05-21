@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>洛陽點（1598）（露梁海戰）</h1>
+        <h1>露梁海戰(1598) </h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -252,7 +252,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                洛陽點（1598）（露梁海戰）
+                露梁海戰(1598) （露梁海戰）
               </div>
             </td>
           </tr>
@@ -306,7 +306,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
+              <nuxt-link to="/batt/Kyoto_1582">京都之戰(1582)</nuxt-link>
             </td>
           </tr>
           <tr>

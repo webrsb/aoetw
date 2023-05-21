@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><nuxt-link to="/batt/Kurikara_1183">礪波山（1183）</nuxt-link></h1>
+        <h1><nuxt-link to="/batt/Kurikara_1183">俱利伽羅之戰(1183)</nuxt-link></h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>礪波山（1183）</b>是<nuxt-link
+            <b>俱利伽羅之戰(1183)</b>是<nuxt-link
               to="/batt/Battles_of_the_Forgotten"
               >失落的帝國戰役</nuxt-link
             >之一，描述1183年<nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -121,7 +121,7 @@
           <div class="n1">
             <ol>
               <li>源將軍必須活著。</li>
-              <li>守衛木曾義仲在礪波山的宮殿。</li>
+              <li>守衛木曾義仲在俱利伽羅的宮殿。</li>
               <li>讓至少一位士兵把糧草車帶到木曾義仲的宮殿（插藍旗處）。</li>
               <li>擊敗平家軍（橙色），砍下五位平家將的人頭。</li>
               <li>
@@ -136,7 +136,7 @@
           <div class="n1">
             <ol>
               <li>
-                把鎌倉主城運送過來的糧草車安全送往礪波山城內的宮殿，每輛糧草車的貨物可換1,000黃金。
+                把鎌倉主城運送過來的糧草車安全送往俱利伽羅城內的宮殿，每輛糧草車的貨物可換1,000黃金。
               </li>
               <li>
                 殺死平清房還有他的護衛並奪取燈塔（紀念碑），這樣你的船可以毫髮無傷地通過岩岸。
@@ -153,7 +153,7 @@
           <div class="n1">
             <ul>
               <li>
-                通往礪波山地區的關隘大道上已布滿了平家軍，你最好直奔城池而去。
+                通往俱利伽羅地區的關隘大道上已布滿了平家軍，你最好直奔城池而去。
               </li>
               <li>
                 平氏軍隊並不知道糧草已經被送往城邦了，但是他們很快會發起瘋狂的進攻。
@@ -173,16 +173,16 @@
           <div class="n1">
             <ul>
               <li>
-                源賴朝已經往礪波山（紫色）派遣了一支援軍（藍色），以協防這片兵家必爭之地，礪波山城高牆聳立，是源賴朝的領地，目前由他的堂弟木曾義仲駐守。
+                源賴朝已經往俱利伽羅（紫色）派遣了一支援軍（藍色），以協防這片兵家必爭之地，俱利伽羅城高牆聳立，是源賴朝的領地，目前由他的堂弟木曾義仲駐守。
               </li>
               <li>
-                北条氏（黃色）在東邊有一座城池，由他們的首領北条時政所掌管。北条時政痛恨平家，只希望在破解礪波山之圍之後加入<nuxt-link
+                北条氏（黃色）在東邊有一座城池，由他們的首領北条時政所掌管。北条時政痛恨平家，只希望在破解俱利伽羅之圍之後加入<nuxt-link
                   to="/units/hero/Minamoto"
                   >源氏</nuxt-link
                 >勢力。
               </li>
               <li>
-                平家軍（橘色）是你早期的主要對手。想要給礪波山解圍的話，你必須把他們前置的<nuxt-link
+                平家軍（橘色）是你早期的主要對手。想要給俱利伽羅解圍的話，你必須把他們前置的<nuxt-link
                   to="/building/Siege_Workshop"
                   >攻城器製造所</nuxt-link
                 >摧毀，注意還有三座軍營在守衛河道。
@@ -354,14 +354,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                礪波山（1183）
+                俱利伽羅之戰(1183)
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Kurikara.jpg" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Kurikara_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -413,7 +413,7 @@
             <td class="unit3">下一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/Cyprus_1191"
-                >塞普勒斯島之戰（1191）</nuxt-link
+                >賽普勒斯島之戰(1191)</nuxt-link
               >
             </td>
           </tr>
@@ -426,7 +426,7 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的礪波山之戰
+            維基百科上的俱利伽羅之戰
             <div style="margin-left: 10px;">
               <em
                 ><strong

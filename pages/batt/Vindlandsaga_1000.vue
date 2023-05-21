@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>芬特蘭撒格(1000)</h1>
+        <h1>北地傳奇(1000)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>芬特蘭撒格</b>(1000)是<nuxt-link
+            <b>北地傳奇</b>(1000)是<nuxt-link
               to="/batt/Battles_of_the_Conquerors"
               >征服者的戰役</nuxt-link
             >之一，描述<nuxt-link to="/civs/Vikings">維京人</nuxt-link
@@ -329,14 +329,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                芬特蘭撒格(1000)
+                北地傳奇(1000)
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Vindlandsaga.jpg" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Vinlandsaga_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -381,13 +381,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Tours_732">都爾（732）</nuxt-link>
+              <nuxt-link to="/batt/Tours_732">都爾戰役(732)</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Hastings_1066">哈斯汀斯（1066）</nuxt-link>
+              <nuxt-link to="/batt/Hastings_1066">哈斯汀斯戰役(1066)</nuxt-link>
             </td>
           </tr>
         </table>

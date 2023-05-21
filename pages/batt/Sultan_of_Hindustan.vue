@@ -271,7 +271,9 @@
           </tr>
           <tr>
             <td colspan="2">
-              （地圖待補）
+              <div class="unititle">
+                <img src="~assets/Tamerlane/Sultan_of_Hindustan_map.png" alt="" />
+              </div>
             </td>
           </tr>
           <tr>

@@ -282,7 +282,9 @@
           </tr>
           <tr>
             <td colspan="2">
-              （地圖待補）
+              <div class="unititle">
+                <img src="~assets/Tamerlane/Amir_of_Transoxiana_map.png" alt="" />
+              </div>
             </td>
           </tr>
           <tr>

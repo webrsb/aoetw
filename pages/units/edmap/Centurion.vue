@@ -15,7 +15,7 @@
             >，只在地圖編輯器 跟<nuxt-link to="/batt/Alarica"
               >阿拉里克</nuxt-link
             >"<nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
-              >條條大路通圍城</nuxt-link
+              >冷河戰役</nuxt-link
             >"以及<nuxt-link to="/batt/Baria">巴里</nuxt-link>"<nuxt-link
               to="/batt/The_Rebellion_of_Melus"
               >邁勒斯叛變</nuxt-link

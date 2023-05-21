@@ -127,7 +127,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Wallacelc5map.png" alt="" />
+                <img src="~assets/William_Wallace/The_Battle_of_Stirling_map.png" alt="" />
               </div>
             </td>
           </tr>

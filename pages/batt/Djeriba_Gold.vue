@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>傑爾巴島的黃金</h1>
+        <h1>虎口奪食</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>傑爾巴島的黃金</b>為<nuxt-link to="/batt/Sundjataa"
+            <b>虎口奪食</b>為<nuxt-link to="/batt/Sundjataa"
               >松迪亞塔戰役</nuxt-link
             >的第三關劇情關卡，此關描述<nuxt-link to="/units/hero/Sundjata"
               >松迪亞塔</nuxt-link
@@ -280,13 +280,13 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                傑爾巴島的黃金
+                虎口奪食
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/SUN_3.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/Sundjata/Djeriba_Gold_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -329,7 +329,7 @@
             <td class="unit3">上一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Sting_of_the_Scorpion"
-                >馬利戰役（蠍螫）</nuxt-link
+                >黨同伐異</nuxt-link
               >
             </td>
           </tr>

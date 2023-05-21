@@ -256,7 +256,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/(map)Le_Loi_5.A_Three_Pronged_Attack.jpg"
+                  src="~assets/Le_Loi/A_Three-Pronged_Attack_map.png"
                   alt=""
                 />
               </div>

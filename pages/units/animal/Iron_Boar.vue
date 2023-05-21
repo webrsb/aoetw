@@ -26,10 +26,10 @@
             牠出現在<nuxt-link to="/batt">戰役</nuxt-link>《<nuxt-link
               to="/batt/Attila_the_Huna"
               >阿提拉</nuxt-link
-            >：<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link
+            >：<nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link
             >》及《<nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link
             >：<nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link
-            >》中。在上帝之鞭的戰役中，他被他的兄弟貝里達邀請去獵殺鐵野豬。在英雄出少年的戰役中，如果玩家選擇去打獵，將會在獵場附近的一條河流中遇到他。
+            >》中。在上帝之怒的戰役中，他被他的兄弟貝里達邀請去獵殺鐵野豬。在英雄出少年的戰役中，如果玩家選擇去打獵，將會在獵場附近的一條河流中遇到他。
           </p>
         </div>
         <h3>登場戰役</h3>
@@ -37,7 +37,7 @@
         <div class="n1">
           《<nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>：<nuxt-link
             to="/batt/Scourge_of_God"
-            >上帝之鞭</nuxt-link
+            >上帝之怒</nuxt-link
           >》
           <ul>
             <p>

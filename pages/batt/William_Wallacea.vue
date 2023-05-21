@@ -36,7 +36,7 @@
             >的<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >。他可以在地圖編輯器中找到，並且在“學習關卡任務”第7關<nuxt-link
               to="/batt/The_Battle_of_Falkirk"
-              >福爾克之役</nuxt-link
+              >福爾柯克之役</nuxt-link
             >中出現。為<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，並不會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >，並能夠自動回復HP（自<nuxt-link to="/games/aoc">征服者</nuxt-link
@@ -84,7 +84,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/batt/The_Battle_of_Falkirk"
-                    >福爾克之役</nuxt-link
+                    >福爾柯克之役</nuxt-link
                   >
                 </li>
               </ol>

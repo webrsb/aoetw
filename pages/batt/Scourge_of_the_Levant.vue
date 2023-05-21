@@ -279,7 +279,9 @@
           </tr>
           <tr>
             <td colspan="2">
-              （地圖待補）
+              <div class="unititle">
+                <img src="~assets/Tamerlane/Scourge_of_the_Levant_map.png" alt="" />
+              </div>
             </td>
           </tr>
           <tr>

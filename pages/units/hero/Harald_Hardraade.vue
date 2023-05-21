@@ -42,7 +42,7 @@
         <div class="n1">
           <ul>
             <li>
-              哈羅德哈左德首次出現在戰役"哈斯汀斯（1066）"。一開始他的軍隊攻擊<nuxt-link
+              哈羅德哈左德首次出現在戰役"哈斯汀斯戰役(1066)"。一開始他的軍隊攻擊<nuxt-link
                 to="/civs/Britons"
                 >英國</nuxt-link
               >但失敗了，後來他與<nuxt-link

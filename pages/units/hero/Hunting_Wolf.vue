@@ -43,7 +43,7 @@
               >和獵狼來支援。
             </li>
             <li>
-              在“<nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
+              在“<nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link
               >”中，玩家在中間找到了<nuxt-link
                 to="/units/hero/Scythian_Wild_Woman"
                 >斯基泰的野女人</nuxt-link

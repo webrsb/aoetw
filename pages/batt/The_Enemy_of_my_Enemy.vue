@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>我敵人的敵人</b>是<nuxt-link to="/batt/El_Cida"
-              >熙德戰役</nuxt-link
+              >席德戰役</nuxt-link
             >的第二個場景。
           </p>
         </div>
@@ -106,7 +106,7 @@
               >x4、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >x3、<nuxt-link to="/units/hero">英雄</nuxt-link>：<nuxt-link
                 to="/units/hero/El_Cid"
-                >熙德</nuxt-link
+                >席德</nuxt-link
               >。
             </dd>
             <dt>大地之母單位：</dt>
@@ -116,10 +116,10 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>熙德必須活著。</li>
+              <li>席德必須活著。</li>
               <li>找到停止托爾多叛亂的方法。</li>
               <li>
-                熙德必須與回教長老伊滿會面，因為他知道如何結束在托雷多的動亂。
+                席德必須與回教長老伊滿會面，因為他知道如何結束在托雷多的動亂。
               </li>
               <li>
                 從叛亂的領袖們手裡，找回這4件聖器，並把衪們送回到回教長老伊滿手上。
@@ -146,7 +146,7 @@
                 >。
               </li>
               <li>
-                熙德不能進入<nuxt-link to="/techs/age/Imperial_Age"
+                席德不能進入<nuxt-link to="/techs/age/Imperial_Age"
                   >帝王時代</nuxt-link
                 >。
               </li>
@@ -157,10 +157,10 @@
           <div class="n1">
             <ul>
               <li>
-                熙德（紅色）一開始有一隻小規模部隊，你可以用它來建造你的基地。
+                席德（紅色）一開始有一隻小規模部隊，你可以用它來建造你的基地。
               </li>
               <li>
-                你應該要很快就建立出一個陣地，然後立刻去搜索資源。熙德要在托雷多
+                你應該要很快就建立出一個陣地，然後立刻去搜索資源。席德要在托雷多
                 (黃色)
                 這個無助的城市裡，對抗西班牙的叛亂軍（橘色）和摩爾人的叛軍（綠色）。
               </li>
@@ -204,7 +204,7 @@
               >比農場消耗的資源更少。
             </li>
             <li>
-              利用運輸船載送熙德去找伊滿在最北端的島嶼此時他會告訴你只要你帶來4個遺跡，他將有辦法結束這場叛亂。
+              利用運輸船載送席德去找伊滿在最北端的島嶼此時他會告訴你只要你帶來4個遺跡，他將有辦法結束這場叛亂。
             </li>
             <li>
               4個遺跡分別在 兩個<nuxt-link to="/building/Monastery"
@@ -221,10 +221,10 @@
               >具（無法使用巨型投石機）和騎士摧毀防禦性<nuxt-link to="/building"
                 >建築</nuxt-link
               >和軍事建築，再用少部分騎士作為掩護讓僧侶可以拿到城內的三個遺跡（城堡後方除外），拿完三個後可以派遣4名僧侶
-              + 熙德去到城堡附近，其中3名僧侶幫熙德補血，另一隻進去裡面拿。
+              + 席德去到城堡附近，其中3名僧侶幫席德補血，另一隻進去裡面拿。
             </li>
             <li>
-              拿到後 將所有的僧侶還有熙德到河道邊搭船到伊滿那即可完成任務破關。
+              拿到後 將所有的僧侶還有席德到河道邊搭船到伊滿那即可完成任務破關。
             </li>
           </ul>
           <h3>遊戲內細節</h3>
@@ -245,10 +245,10 @@
               >附近）等待，以方便接應拿完城堡後的僧侶。
             </li>
             <li>
-              如果使用3名僧侶補熙德坦城堡傷害，須注意熙德<nuxt-link
+              如果使用3名僧侶補席德坦城堡傷害，須注意席德<nuxt-link
                 to="/elements/Hit_points"
                 >血量</nuxt-link
-              >，可以利用巡邏讓熙德可以損血狀況緩和。
+              >，可以利用巡邏讓席德可以損血狀況緩和。
             </li>
             <li>
               因為資源有限，大部分黃金掌握在敵軍手上，所以建議有策略性地拿取遺跡，不建議派大軍前往（大軍隊形成會有點慢）。
@@ -286,7 +286,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/EIC_2.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/El_Cid/The_Enemy_of_my_Enemy_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -305,7 +305,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>
+              <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -330,14 +330,14 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link>
+              <nuxt-link to="/batt/Brother_against_Brother">手足相殘</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Exile_of_the_Cid"
-                >熙德的流亡歲月</nuxt-link
+                >席德的流放</nuxt-link
               >
             </td>
           </tr>

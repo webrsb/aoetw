@@ -203,7 +203,7 @@
                       to="/games/aoc"
                       >世紀帝國II：征服者入侵</nuxt-link
                     >》戰役的<nuxt-link to="/batt/Tours_732"
-                      >都爾（732）</nuxt-link
+                      >都爾戰役(732)</nuxt-link
                     >，卻戰死了。
                   </li>
                 </ul>
@@ -224,7 +224,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Razzia1.jpg" alt="" />
+                <img src="~assets/Tariq_ibn_Ziyada/Razzia_map.png" alt="" />
               </div>
             </td>
           </tr>

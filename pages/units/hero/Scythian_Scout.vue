@@ -15,14 +15,14 @@
               to="/batt"
               >戰役</nuxt-link
             >中都有登場，最先登場的關卡是<nuxt-link to="/batt/Scourge_of_God"
-              >上帝之鞭</nuxt-link
+              >上帝之怒</nuxt-link
             >，是有1000滴血的羅馬囚犯；在<nuxt-link to="/batt/Bukhara_557"
               >布哈拉</nuxt-link
             >戰役中則是玩家一開始就能指揮的單位。在地圖編輯器中也可以使用他。
           </p>
           <p>
             在<nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link
-            >戰役的<nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link
+            >戰役的<nuxt-link to="/batt/Djeriba_Gold">虎口奪食</nuxt-link
             >這關中，玩家進入地圖南方的營地內時也可以取得八支斯基泰斥候(被改名為<nuxt-link
               to="/civs/Malians"
               >馬利</nuxt-link
@@ -44,7 +44,7 @@
           <p>
             雖然在遊戲中有同名的英雄單位可用，但在<nuxt-link
               to="/batt/Scourge_of_God"
-              >上帝之鞭</nuxt-link
+              >上帝之怒</nuxt-link
             >這關中登場的斯基泰斥候卻是以有1000滴血的一般<nuxt-link
               to="/units/Scout_Cavalry"
               >斥候</nuxt-link

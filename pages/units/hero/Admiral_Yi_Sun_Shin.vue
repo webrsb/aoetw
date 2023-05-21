@@ -15,7 +15,7 @@
             >，尤其出名的閒山島大捷，<nuxt-link
               to="/batt/Battles_of_the_Conquerors"
               >征服者戰役</nuxt-link
-            >中的露梁海戰<nuxt-link to="/batt/Kyoto_1582"> (洛陽點)</nuxt-link
+            >中的<nuxt-link to="/batt/Kyoto_1582">露梁海戰(1598)</nuxt-link
             >，為李舜臣戰死的戰爭。
           </p>
         </div>
@@ -60,7 +60,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                露梁海戰<nuxt-link to="/batt/Kyoto_1582">(洛陽點)</nuxt-link>
+                <nuxt-link to="/batt/Kyoto_1582">露梁海戰(1598)</nuxt-link>
               </td>
               <td class="tta2">探索前否,探索後可控制</td>
               <td class="tta3">

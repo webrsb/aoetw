@@ -242,7 +242,7 @@
                 >法蘭西斯科·德·阿爾梅達</nuxt-link
               >
             </li>
-            <li><nuxt-link to="/batt/Yodita">優娣忒</nuxt-link></li>
+            <li><nuxt-link to="/batt/Yodita">游娣特</nuxt-link></li>
           </ul>
         </div>
         <h3>平衡更動</h3>

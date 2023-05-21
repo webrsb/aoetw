@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>福爾克之役</h1>
+        <h1>福爾柯克之役</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>福爾克之役</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
+            <b>福爾柯克之役</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
             >的第七個劇情關卡，也是該系列的最後一關，它比其他的之前戰役更開放，可以用來回顧前六個關卡，也可以教會玩家關於<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
@@ -135,7 +135,7 @@
               >。這樣做是因為把所有的單位援軍給玩家之後避免導致華勒斯被擊敗。
             </li>
             <li>
-              歷史上，蘇格蘭人在福爾克之役被擊敗。威廉•華勒斯不久之後免去了蘇格蘭爵士的稱號。
+              歷史上，蘇格蘭人在福爾柯克之役被擊敗。威廉•華勒斯不久之後免去了蘇格蘭爵士的稱號。
             </li>
             <li>在整個遊戲中，速度不能改變。</li>
             <li>
@@ -151,14 +151,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                福爾克之役
+                福爾柯克之役
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Wallacelc7map.png" alt="" />
+                <img src="~assets/William_Wallace/The_Battle_of_Falkirk_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -217,7 +217,7 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的福爾克之役
+            維基百科上的福爾柯克之役
             <div style="margin-left: 10px;">
               <em
                 ><strong

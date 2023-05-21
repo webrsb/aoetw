@@ -257,7 +257,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙提祖馬二.png" alt="" />
+                <img src="~assets/Montezuma/The_Triple_Alliance_map.png" alt="" />
               </div>
             </td>
           </tr>

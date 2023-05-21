@@ -12,7 +12,7 @@
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
             >，可以在<nuxt-link to="/batt">戰役</nuxt-link
-            >"芬特蘭撒格(1000)"和戰役編輯器中找到。紅衣艾立克的外觀是<nuxt-link
+            >"北地傳奇(1000)"和戰役編輯器中找到。紅衣艾立克的外觀是<nuxt-link
               to="/units/Berserk"
               >狂戰士</nuxt-link
             >，但有更多的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link

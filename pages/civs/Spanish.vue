@@ -294,7 +294,7 @@
                 <p>
                   <em
                     >西班牙民族<nuxt-link to="/units/hero">英雄</nuxt-link
-                    >-<nuxt-link to="/units/hero/El_Cid">熙德</nuxt-link></em
+                    >-<nuxt-link to="/units/hero/El_Cid">席德</nuxt-link></em
                   >
                 </p>
               </div>

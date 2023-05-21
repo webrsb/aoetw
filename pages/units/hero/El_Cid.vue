@@ -2,18 +2,18 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>熙德</h1>
+        <h1>席德</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>熙德</strong>是《<nuxt-link to="/games/aok"
+            <strong>席德</strong>是《<nuxt-link to="/games/aok"
               >世紀帝國II：帝王世紀</nuxt-link
             >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
-            >，可以在<nuxt-link to="/batt/El_Cida">熙德戰役</nuxt-link
+            >，可以在<nuxt-link to="/batt/El_Cida">席德戰役</nuxt-link
             >系列和<nuxt-link to="/batt">戰役</nuxt-link
-            >編輯器中找到。現實中的熙德曾是<nuxt-link to="/civs/Spanish"
+            >編輯器中找到。現實中的席德曾是<nuxt-link to="/civs/Spanish"
               >西班牙</nuxt-link
             >貴族和軍事領袖。他在卡斯蒂利亞的<nuxt-link
               to="/units/hero/King_Sancho"
@@ -21,13 +21,13 @@
             >下的軍隊服役，之後被放逐到摩爾人的土地，以及他最終的死亡的故事，都在《<nuxt-link
               to="/games/aoc"
               >世紀帝國II:征服者入侵</nuxt-link
-            >》的熙德戰役有所描述。由於他屬於<nuxt-link to="/units/hero"
+            >》的席德戰役有所描述。由於他屬於<nuxt-link to="/units/hero"
               >英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >(在<nuxt-link to="/games/aoc">征服者</nuxt-link
-            >資料片後)。熙德在戰役的後段會更名為羅德里高·迪亞茲·熙德並騎者馬，當然他們在戰役中都一定要生存下來。
+            >資料片後)。席德在戰役的後段會更名為羅德里高·迪亞茲·席德並騎者馬，當然他們在戰役中都一定要生存下來。
           </p>
         </div>
         <h3>圖庫</h3>
@@ -38,7 +38,7 @@
               <gallery
                 ><img class="imgn hg" width="200" src="~assets/Elcid.png" alt=""
               /></gallery>
-              <p><em>戰役編輯器中的熙德(左)和騎馬的熙德。</em></p>
+              <p><em>戰役編輯器中的席德(左)和騎馬的席德。</em></p>
             </div>
             <div class="col-md-5">
               <gallery
@@ -50,7 +50,7 @@
               /></gallery>
               <p>
                 <em
-                  >熙德在戰役"兄弟鬩牆"要在競技場上證明實力以獲得國王的信任。</em
+                  >席德在戰役"手足相殘"要在競技場上證明實力以獲得國王的信任。</em
                 >
               </p>
             </div>
@@ -62,7 +62,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                熙德
+                席德
               </div>
             </td>
           </tr>

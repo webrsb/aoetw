@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>都爾（732）圖爾戰役</h1>
+        <h1>都爾戰役(732)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -262,12 +262,12 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">都爾（732）圖爾戰役</div>
+              <div class="unititle2">都爾戰役(732)</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/Tours.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/Battles_of_the_Conquerors/Tours_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -314,7 +314,7 @@
             <td class="unit3">下一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/Vindlandsaga_1000"
-                >芬特蘭撒格(1000)</nuxt-link
+                >北地傳奇(1000)</nuxt-link
               >
             </td>
           </tr>

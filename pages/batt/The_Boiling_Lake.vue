@@ -268,7 +268,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙提祖馬五.png" alt="" />
+                <img src="~assets/Montezuma/The_Boiling_Lake_map.png" alt="" />
               </div>
             </td>
           </tr>

@@ -288,7 +288,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/SUN_4.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/Sundjata/Blood_on_the_River_Bank_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -330,7 +330,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>
+              <nuxt-link to="/batt/Djeriba_Gold">虎口奪食</nuxt-link>
             </td>
           </tr>
           <tr>

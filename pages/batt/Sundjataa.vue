@@ -55,14 +55,14 @@
             </div>
             <div class="col-md-6">
               <ol>
-                <li><nuxt-link to="/batt/Hunted">擒獲</nuxt-link></li>
+                <li><nuxt-link to="/batt/Hunted">亡命之徒</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/The_Sting_of_the_Scorpion"
-                    >蠍螫</nuxt-link
+                    >黨同伐異</nuxt-link
                   >
                 </li>
                 <li>
-                  <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>
+                  <nuxt-link to="/batt/Djeriba_Gold">虎口奪食</nuxt-link>
                 </li>
                 <li>
                   <nuxt-link to="/batt/Blood_on_the_River_Bank"

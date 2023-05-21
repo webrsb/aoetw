@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>餓虎撲食</b>為<nuxt-link to="/batt/Bayinnaunga"
-              >勃印曩戰役</nuxt-link
+              >莽應龍戰役</nuxt-link
             >的第一關劇情關卡，此關描述<nuxt-link to="/civs/Burmese"
               >緬甸</nuxt-link
             >東籲王朝君主<nuxt-link to="/units/hero/Tabinshwehti"
@@ -109,7 +109,7 @@
           <p>
             。<nuxt-link to="/units/hero">英雄</nuxt-link> -<nuxt-link
               to="/units/hero/Bayinnaung"
-              >勃印曩</nuxt-link
+              >莽應龍</nuxt-link
             >x1、<nuxt-link to="/units/hero/Tabinshwehti"
               >德彬瑞蒂國王</nuxt-link
             >x1、卑謬總督x1
@@ -195,7 +195,7 @@
                     >裡愛錢的劇情AI一樣，當你繳不出錢就不要對他們翻臉感到意外。
                   </li>
                   <li>
-                    勃印曩（1516-1581）作為德彬瑞蒂國王的手下大將。在本章節的形象是騎乘近戰單位，以<nuxt-link
+                    莽應龍（1516-1581）作為德彬瑞蒂國王的手下大將。在本章節的形象是騎乘近戰單位，以<nuxt-link
                       to="/units/Elite_Battle_Elephant"
                       >精銳矛象伕</nuxt-link
                     >的形象登場。
@@ -236,7 +236,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/(map)Bayinnaung_1.The_Burmese_Tigers.jpg"
+                  src="~assets/Bayinnaunga/The_Burmese_Tigers_map.png"
                   alt=""
                 />
               </div>
@@ -258,7 +258,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
+              <nuxt-link to="/batt/Bayinnaunga">莽應龍</nuxt-link>
             </td>
           </tr>
           <tr>

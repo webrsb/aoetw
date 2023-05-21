@@ -317,7 +317,7 @@
                 <nuxt-link to="/batt/Battles_of_the_Conquerors"
                   >征服者的戰役</nuxt-link
                 >-<nuxt-link to="/batt/Noryang_Point_1598"
-                  >洛陽點（1598）</nuxt-link
+                  >露梁海戰(1598) </nuxt-link
                 >
               </td>
               <td class="tta2">
@@ -334,7 +334,7 @@
             <tr>
               <td class="tta1">
                 征服者的戰役-<nuxt-link to="/batt/Kyoto_1582"
-                  >京都（1582）</nuxt-link
+                  >京都之戰(1582)</nuxt-link
                 >
               </td>
               <td class="tta2">
@@ -360,7 +360,7 @@
             <tr>
               <td class="tta1">
                 征服者的戰役-<nuxt-link to="/batt/Kurikara_1183"
-                  >礪波山（1183）</nuxt-link
+                  >俱利伽羅之戰(1183)</nuxt-link
                 >
               </td>
               <td class="tta2">

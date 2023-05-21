@@ -9,9 +9,9 @@
         <div class="n1">
           <p>
             <b>白象化身</b>為<nuxt-link to="/batt/Bayinnaunga"
-              >勃印曩戰役</nuxt-link
+              >莽應龍戰役</nuxt-link
             >的第四關劇情關卡，此關描述<nuxt-link to="/units/hero/Bayinnaung"
-              >勃印曩</nuxt-link
+              >莽應龍</nuxt-link
             >登基後，進軍泰北、寮國境內，並以上座部佛教進行文化統一的經過。
           </p>
         </div>
@@ -213,7 +213,7 @@
                     瀾滄王國在14世紀中建立，普遍被視為寮國最早的統一治權。
                   </li>
                   <li>
-                    由於勃印曩皈依上座部佛教後，在其任內對於<nuxt-link
+                    由於莽應龍皈依上座部佛教後，在其任內對於<nuxt-link
                       to="/civs/Indians"
                       >印度</nuxt-link
                     >原生宗教進行打壓。遊戲中將婆羅門的靈修者視為女巫。僅以<nuxt-link
@@ -241,7 +241,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/(map)Bayinnaung_4.The_White_Elephant.jpg"
+                  src="~assets/Bayinnaunga/The_White_Elephant_map.png"
                   alt=""
                 />
               </div>
@@ -261,7 +261,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
+              <nuxt-link to="/batt/Bayinnaunga">莽應龍</nuxt-link>
             </td>
           </tr>
           <tr>

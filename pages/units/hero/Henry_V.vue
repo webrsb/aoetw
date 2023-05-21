@@ -15,7 +15,7 @@
             ><nuxt-link to="/units/hero">英雄</nuxt-link
             >。他的原型是同名的英格蘭的國王亨利五世，最著名的事蹟是在<nuxt-link
               to="/batt/Agincourt_1415"
-              >亞琴哥特（1415）</nuxt-link
+              >阿金庫爾戰役(1415)</nuxt-link
             >之戰的勝利，使他幾乎成功征服<nuxt-link to="/civs/Franks"
               >法國</nuxt-link
             >。他在遊戲中以<nuxt-link to="/units/Paladin">遊俠</nuxt-link

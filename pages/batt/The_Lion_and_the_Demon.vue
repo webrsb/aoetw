@@ -243,7 +243,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/The_lion_&_the_demon.png" alt="" />
+                <img src="~assets/Saladin/The_Lion_and_the_Demon_map.png" alt="" />
               </div>
             </td>
           </tr>

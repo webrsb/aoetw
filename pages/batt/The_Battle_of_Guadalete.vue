@@ -278,7 +278,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/The_Battle_of_Guadalete1.jpg" alt="" />
+                <img src="~assets/Tariq_ibn_Ziyada/The_Battle_of_Guadalete_map.png" alt="" />
               </div>
             </td>
           </tr>

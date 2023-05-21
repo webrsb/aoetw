@@ -258,7 +258,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/SUN_5.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/Sundjata/The_Lion_s_Den_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>

@@ -334,7 +334,7 @@
             <tr>
               <td class="tta1">
                 <nuxt-link to="/batt/Noryang_Point_1598"
-                  >洛陽點（1598）</nuxt-link
+                  >露梁海戰(1598) </nuxt-link
                 >
               </td>
               <td class="tta2">
@@ -383,7 +383,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>1-<nuxt-link
+                <nuxt-link to="/batt/Bayinnaunga">莽應龍</nuxt-link>1-<nuxt-link
                   to="/batt/The_Burmese_Tigers"
                   >餓虎撲食</nuxt-link
                 >
@@ -402,7 +402,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                勃印曩2-<nuxt-link to="/batt/The_Mandalay_Cobra"
+                莽應龍2-<nuxt-link to="/batt/The_Mandalay_Cobra"
                   >猛蛇出洞</nuxt-link
                 >
               </td>

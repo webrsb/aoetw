@@ -68,7 +68,7 @@
             </div>
             <div class="col-md-6">
               <ol>
-                <li><nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link></li>
+                <li><nuxt-link to="/batt/The_Old_World">前朝舊夢</nuxt-link></li>
                 <li>
                   <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>
                 </li>
@@ -79,7 +79,7 @@
                   <nuxt-link to="/batt/Estado_da_India">葡屬印度</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/batt/A_Sons_Blood">兒子的血仇</nuxt-link>
+                  <nuxt-link to="/batt/A_Sons_Blood">喪子之痛</nuxt-link>
                 </li>
               </ol>
             </div>

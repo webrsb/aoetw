@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>偉大的騎士</h1>
+        <h1>天下第一騎</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>偉大的騎士</b>為<nuxt-link to="/batt/Attila_the_Huna"
+            <b>天下第一騎</b>為<nuxt-link to="/batt/Attila_the_Huna"
               >阿提拉戰役</nuxt-link
             >的第二關劇情關卡。
           </p>
@@ -237,14 +237,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                偉大的騎士
+                天下第一騎
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Attila.2.jpg" alt="" />
+                <img src="~assets/Attila_the_Hun/The_Great_Ride_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -287,7 +287,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
+              <nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link>
             </td>
           </tr>
           <tr>

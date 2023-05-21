@@ -212,7 +212,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Crucible.png" alt="" />
+                <img src="~assets/Genghis_Khana/Crucible_map.png" alt="" />
               </div>
             </td>
           </tr>

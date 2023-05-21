@@ -26,7 +26,7 @@
             </p>
           </div>
           <p>
-            阿提拉（拉丁語：Attila，406年9月2日－453年4月30日），一譯亞提拉，古代歐亞大陸匈人最為人熟知的領袖和皇帝，史學家稱之為「上帝之鞭」，曾多次率領大軍入侵東羅馬帝國及西羅馬帝國，並對兩國構成極大的威脅。他曾率領軍隊兩次入侵巴爾幹半島，包圍君士坦丁堡；亦曾遠征至高盧（今法國）的奧爾良地區，最後終於在沙隆<nuxt-link
+            阿提拉（拉丁語：Attila，406年9月2日－453年4月30日），一譯亞提拉，古代歐亞大陸匈人最為人熟知的領袖和皇帝，史學家稱之為「上帝之怒」，曾多次率領大軍入侵東羅馬帝國及西羅馬帝國，並對兩國構成極大的威脅。他曾率領軍隊兩次入侵巴爾幹半島，包圍君士坦丁堡；亦曾遠征至高盧（今法國）的奧爾良地區，最後終於在沙隆<nuxt-link
               to="/batt"
               >戰役</nuxt-link
             >被逼停止向西進軍。然而後來他卻攻向義大利，並於公元452年把當時西羅馬帝國首都拉文納攻陷，趕走了皇帝瓦倫丁尼安三世，使西羅馬帝國名存實亡。
@@ -54,10 +54,10 @@
             <div class="col-md-6">
               <ol>
                 <li>
-                  <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
+                  <nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
+                  <nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link>
                 </li>
                 <li>
                   <nuxt-link to="/batt/Walls_of_Constantinople"
@@ -71,7 +71,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/batt/Catalaunian_Fields"
-                    >卡塔隆尼亞平原</nuxt-link
+                    >沙隆戰役</nuxt-link
                   >
                 </li>
                 <li>

@@ -203,7 +203,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Gajah_Mada_4.jpg" alt="" />
+                <img src="~assets/Gajah_Mada/Serving_the_New_King_map.png" alt="" />
               </div>
             </td>
           </tr>

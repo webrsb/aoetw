@@ -9,9 +9,9 @@
         <div class="n1">
           <p>
             <b>百鳥朝鳳</b>為<nuxt-link to="/batt/Bayinnaunga"
-              >勃印曩戰役</nuxt-link
+              >莽應龍戰役</nuxt-link
             >的第三關劇情關卡，此關描述<nuxt-link to="/units/hero/Bayinnaung"
-              >勃印曩</nuxt-link
+              >莽應龍</nuxt-link
             >在<nuxt-link to="/units/hero/Tabinshwehti">德彬瑞蒂國王</nuxt-link
             >遇害後，擊敗反對力量、確立權威的經過。
           </p>
@@ -109,7 +109,7 @@
               >村民</nuxt-link
             >x1
           </p>
-          。 大地之母單位&nbsp;-&nbsp;勃印曩x1、<nuxt-link to="/units/Arambai"
+          。 大地之母單位&nbsp;-&nbsp;莽應龍x1、<nuxt-link to="/units/Arambai"
             >飛鏢騎兵</nuxt-link
           >x6、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
           >x4、手銃兵x3、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
@@ -120,7 +120,7 @@
             <ol>
               <li>
                 把<nuxt-link to="/units/hero/Tabinshwehti">德彬瑞蒂</nuxt-link
-                >大王遇害的消息報告給勃印曩。
+                >大王遇害的消息報告給莽應龍。
               </li>
             </ol>
             <h2>次要任務</h2>
@@ -140,7 +140,7 @@
             <ul>
               <li>你的人口上限為125。</li>
               <li>
-                斯彌蕭圖的部分手下對他們犯下的弒君大罪有所虧欠，他們會逃避部分僧侶的懲罰而歸順勃印曩。
+                斯彌蕭圖的部分手下對他們犯下的弒君大罪有所虧欠，他們會逃避部分僧侶的懲罰而歸順莽應龍。
               </li>
               <li>
                 有幾種方式能將政變的消息傳送出去、也有許多方式能夠解決斯彌蕭圖。
@@ -155,7 +155,7 @@
             <div class="n1">
               <ul>
                 <li>
-                  白古城內的先王舊部想要快點找到勃印曩。因為只有他才能出來主持大局。
+                  白古城內的先王舊部想要快點找到莽應龍。因為只有他才能出來主持大局。
                 </li>
                 <li>
                   斯彌蕭圖(紅色)叛變弒君，現在掌控了白古城與御林軍的<nuxt-link
@@ -180,7 +180,7 @@
               <div class="hrn1"></div>
               <div class="n1">
                 <ul>
-                  <li>只有找到勃印曩才會有下一階段的任務指示。</li>
+                  <li>只有找到莽應龍才會有下一階段的任務指示。</li>
                   <li>
                     取得最後勝利的方式有兩種：1.利用<nuxt-link
                       to="/building/Wonder"
@@ -199,17 +199,17 @@
                   </li>
                   <li>水路與陸路都可以傳遞政變的消息。</li>
                   <li>
-                    斯彌蕭圖(?-1550)孟族人，以白古(緬甸南部)為根據地。以狩獵白象為誘因，安排了一場弒君謀逆。後遭到勃印曩與斯彌陶兩面夾擊而落入後者手中，遭到斬首。
+                    斯彌蕭圖(?-1550)孟族人，以白古(緬甸南部)為根據地。以狩獵白象為誘因，安排了一場弒君謀逆。後遭到莽應龍與斯彌陶兩面夾擊而落入後者手中，遭到斬首。
                   </li>
                   <li>
-                    斯彌陶(?-1553)以錫當(今下緬甸地區錫當河流域)為根據地，在德彬瑞蒂國王遇害後，北上稱王並襲殺弒君的斯彌蕭圖。但隨後遭到勃印曩擊敗，也在與勃印曩的單挑中負傷。最終被俘虜後處決。
+                    斯彌陶(?-1553)以錫當(今下緬甸地區錫當河流域)為根據地，在德彬瑞蒂國王遇害後，北上稱王並襲殺弒君的斯彌蕭圖。但隨後遭到莽應龍擊敗，也在與莽應龍的單挑中負傷。最終被俘虜後處決。
                   </li>
                   <li>
-                    須伽帝(?-1553)孟族叛軍領袖，趁著德彬瑞蒂國王征伐暹羅失敗後的民怨崛起。隨後遭到勃印曩給擊敗。
+                    須伽帝(?-1553)孟族叛軍領袖，趁著德彬瑞蒂國王征伐暹羅失敗後的民怨崛起。隨後遭到莽應龍給擊敗。
                   </li>
                   <li>
                     本關卡原文名稱為"The Royal
-                    Peacock"。字面上應為：皇家孔雀。因為緬甸王室均以孔雀為尊。但由於劇情涉及勃印曩的稱王情節，是以翻譯組將其譯為百鳥朝鳳。
+                    Peacock"。字面上應為：皇家孔雀。因為緬甸王室均以孔雀為尊。但由於劇情涉及莽應龍的稱王情節，是以翻譯組將其譯為百鳥朝鳳。
                   </li>
                 </ul>
               </div>
@@ -230,7 +230,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets/(map)Bayinnaung_3.The_Royal_Peacock.jpg"
+                  src="~assets/Bayinnaunga/The_Royal_Peacock_map.png"
                   alt=""
                 />
               </div>
@@ -250,7 +250,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
+              <nuxt-link to="/batt/Bayinnaunga">莽應龍</nuxt-link>
             </td>
           </tr>
           <tr>

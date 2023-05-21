@@ -46,7 +46,7 @@
               <ol>
                 <li>
                   <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
-                    >條條大路通圍城</nuxt-link
+                    >冷河戰役</nuxt-link
                   >
                 </li>
                 <li>

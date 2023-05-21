@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
-        <h1>征服家園（895）</h1>
+        <h1>征服家園(895)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -291,7 +291,9 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                Honfoglalás DE 895.png
+                <div class="unititle">
+                <img src="~assets/Battles_of_the_Conquerors/Honfoglalas_map.png" alt="" />
+              </div>
               </div>
             </td>
           </tr>
@@ -332,7 +334,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
+              <nuxt-link to="/batt/York_865">約克城(865)</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -2,28 +2,28 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>優娣忒</h1>
+        <h1>游娣特</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>優娣忒</b>是個<nuxt-link to="/units/Infantry_Units"
+            <b>游娣特</b>是個<nuxt-link to="/units/Infantry_Units"
               >步兵英雄</nuxt-link
             >，只在《<nuxt-link to="/games/ak">世紀帝國II：非洲王國</nuxt-link
             >》資料片中的地圖編輯器出現，<nuxt-link to="/batt">戰役</nuxt-link
             >中則會以<nuxt-link to="/units/hero/Princess_Yodit"
-              >優娣忒公主</nuxt-link
-            >的身分出現在"流亡之路"。
+              >游娣特公主</nuxt-link
+            >的身分出現在"亡命天涯"。
           </p>
           <p>
-            在遊戲中優娣忒的外型是飛鏢女獵手，她不能被<nuxt-link
+            在遊戲中游娣特的外型是飛鏢女獵手，她不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
             >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
-            遊戲中優娣忒顯示的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            遊戲中游娣特顯示的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
             >是20而實際上是17才是。
           </p>
         </div>
@@ -35,7 +35,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                優娣忒
+                游娣特
               </div>
             </td>
           </tr>

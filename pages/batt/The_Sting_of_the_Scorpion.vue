@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>馬利戰役(蠍螫)</h1>
+        <h1>黨同伐異</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>馬利戰役（蠍螫）</b>為<nuxt-link to="/batt/Sundjataa"
+            <b>黨同伐異</b>為<nuxt-link to="/batt/Sundjataa"
               >松迪亞塔戰役</nuxt-link
             >的第二關劇情關卡，此關描述<nuxt-link to="/units/hero/Sundjata"
               >松迪亞塔</nuxt-link
@@ -257,13 +257,13 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                馬利戰役（蠍螫）
+                黨同伐異
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/SUN_2.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/Sundjata/The_Sting_of_the_Scorpion_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -305,13 +305,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Hunted">亡命之徒（擒獲）</nuxt-link>
+              <nuxt-link to="/batt/Hunted">亡命之徒</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>
+              <nuxt-link to="/batt/Djeriba_Gold">虎口奪食</nuxt-link>
             </td>
           </tr>
         </table>

@@ -274,7 +274,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/蒙提祖馬六.png" alt="" />
+                <img src="~assets/Montezuma/Broken_Spears_map.png" alt="" />
               </div>
             </td>
           </tr>

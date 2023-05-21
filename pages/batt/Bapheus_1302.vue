@@ -259,7 +259,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                (決定版地圖待補)
+                <img src="~assets/Battles_of_the_Conquerors/Bapheus_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -301,7 +301,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯島之戰(1191)</nuxt-link>
+              <nuxt-link to="/batt/Cyprus_1191">賽普勒斯島之戰(1191)</nuxt-link>
             </td>
           </tr>
           <tr>

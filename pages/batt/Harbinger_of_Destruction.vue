@@ -320,7 +320,9 @@
           </tr>
           <tr>
             <td colspan="2">
-              （地圖待補）
+              <div class="unititle">
+                <img src="~assets/Tamerlane/Harbinger_of_Destruction_map.png" alt="" />
+              </div>
             </td>
           </tr>
           <tr>

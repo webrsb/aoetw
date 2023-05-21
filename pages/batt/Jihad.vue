@@ -174,7 +174,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/Jihad.png" alt="" /></div>
+              <div class="unititle"><img src="~assets/Saladin/Jihad_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>

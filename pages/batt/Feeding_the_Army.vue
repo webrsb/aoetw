@@ -118,7 +118,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Wallacelc2map.png" alt="" />
+                <img src="~assets/William_Wallace/Feeding_the_Army_map.png" alt="" />
               </div>
             </td>
           </tr>

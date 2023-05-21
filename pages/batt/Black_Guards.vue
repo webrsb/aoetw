@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>黑衛隊</b>是<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-            >版本，<nuxt-link to="/batt/El_Cida">熙德戰役</nuxt-link
+            >版本，<nuxt-link to="/batt/El_Cida">席德戰役</nuxt-link
             >中的第四個場景。
           </p>
         </div>
@@ -95,7 +95,7 @@
           <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
-              <nuxt-link to="/units/hero/El_Cid">熙德</nuxt-link>（<nuxt-link
+              <nuxt-link to="/units/hero/El_Cid">席德</nuxt-link>（<nuxt-link
                 to="/units/hero"
                 >英雄</nuxt-link
               >）、<nuxt-link to="/units/Knight">騎士</nuxt-link>x6、<nuxt-link
@@ -115,7 +115,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>熙德必須活著。</li>
+              <li>席德必須活著。</li>
               <li>阿方索國王必須存活。</li>
               <li>跟著這個騎士，以解救阿方索國王。</li>
               <li>破壞6個黑衛隊的港口。</li>
@@ -126,7 +126,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>把熙德帶給清真寺的黑衛隊。</li>
+              <li>把席德帶給清真寺的黑衛隊。</li>
               <li>
                 把清真寺的黑衛隊<nuxt-link to="/elements/Conversion"
                   >招降</nuxt-link
@@ -158,7 +158,7 @@
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
-                <li>熙德的軍隊（紅色）會跟阿方索國王的軍隊（藍色）結盟。</li>
+                <li>席德的軍隊（紅色）會跟阿方索國王的軍隊（藍色）結盟。</li>
                 <li>
                   這裡有三個敵人，黑衛陸軍、黑衛海軍、和約瑟夫精銳衛隊。兩個陸軍都由<nuxt-link
                     to="/units/Camel_Rider"
@@ -261,7 +261,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/EIC_4.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/El_Cid/Black_Guards_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -278,7 +278,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>
+              <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -304,14 +304,14 @@
             <td class="unit3">上一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Exile_of_the_Cid"
-                >熙德的流亡歲月</nuxt-link
+                >席德的流放</nuxt-link
               >
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之主</nuxt-link>
+              <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之王</nuxt-link>
             </td>
           </tr>
         </table>

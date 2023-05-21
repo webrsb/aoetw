@@ -10,7 +10,7 @@
           <p>
             <b>重回故里</b>是《<nuxt-link to="/games/ak"
               >世紀帝國II：非洲王國</nuxt-link
-            >》<nuxt-link to="/batt/Yodita">優娣忒戰役</nuxt-link
+            >》<nuxt-link to="/batt/Yodita">游娣特戰役</nuxt-link
             >的第五個場景，也是本章的最後一關。<nuxt-link to="/batt"
               >戰役</nuxt-link
             >中阿克蘇姆市區城內繁亂，玩家須在完成創建35單位的軍隊後慢慢發展前進，藉由摧毀極大汗的主要軍事建築為此關後段重點。
@@ -159,7 +159,7 @@
             <ul>
               <li>
                 我們（綠色）的任務是為了女王<nuxt-link to="/units/hero/Yodit"
-                  >優娣忒</nuxt-link
+                  >游娣特</nuxt-link
                 >奪取城池。要想成功，我們就必須要速戰速決，我們等待得越久敵人就會變得越強大。
               </li>
               <li>
@@ -317,7 +317,7 @@
                     - 玩家可在摧毀極大汗市中心的城堡東邊的<nuxt-link
                       to="/building/University"
                       >學院</nuxt-link
-                    >內街道遇上他們，牧師的玩家顏色是灰色玩家阿克蘇姆（雖然外交是同盟實際上是“敵對”的BUG），如果玩家直接與他們會合，雖然劇情牧師會說:“我會替優娣忒戰鬥“玩家此時會得到狂猴但是牧師此時會開始<nuxt-link
+                    >內街道遇上他們，牧師的玩家顏色是灰色玩家阿克蘇姆（雖然外交是同盟實際上是“敵對”的BUG），如果玩家直接與他們會合，雖然劇情牧師會說:“我會替游娣特戰鬥“玩家此時會得到狂猴但是牧師此時會開始<nuxt-link
                       to="/elements/Conversion"
                       >招降</nuxt-link
                     >玩家單位，玩家此時大可不必更改外交與其他任何動作，劇情就會把牧師歸順給玩家，但有時還是會有玩家得到狂猴但是牧師卻沒有歸順我方部隊的情況發生，在<nuxt-link
@@ -342,7 +342,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Yodit_5.png" alt="" />
+                <img src="~assets/Yodit/Welcome_Home_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -360,7 +360,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
+              <nuxt-link to="/batt/Yodita">游娣特</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -392,7 +392,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>
+              <nuxt-link to="/batt/Broken_Stelae">斷壁殘垣</nuxt-link>
             </td>
           </tr>
           <tr>

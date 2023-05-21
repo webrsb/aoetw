@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>亞琴哥特</h1>
+        <h1>阿金庫爾戰役</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>亞琴哥特戰役</b>（英語：Battle of
+            <b>阿金庫爾戰役</b>（英語：Battle of
             Agincourt，又譯亞金科特戰役、阿金庫爾戰役；法語：bataille
             d'Azincourt）發生於1415年10月25日，是英法百年戰爭中著名的以少勝多的戰役。由於天候潮濕痢疾盛行，<nuxt-link
               to="/units/hero/Henry_V"
@@ -215,7 +215,7 @@
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <ul>
-            <li>亞琴哥特（1415）又譯亞金科特戰役，阿金庫爾戰役</li>
+            <li>阿金庫爾戰役(1415)又譯亞金科特戰役，阿金庫爾戰役</li>
           </ul>
           <h3>英雄:亨利五世（1386年8月9日－1422年8月31日）</h3>
           <div class="hrn1"></div>
@@ -231,14 +231,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                亞琴哥特（1415）阿金庫爾戰役
+                阿金庫爾戰役
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Agincour.jpg" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Agincourt_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -283,13 +283,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td>
-              <nuxt-link to="/batt/Manzikert_1071">曼奇克托（1071）</nuxt-link>
+              <nuxt-link to="/batt/Manzikert_1071">曼奇克托戰役(1071)</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td>
-              <nuxt-link to="/batt/Lepanto_1571">勒班陀（1571）</nuxt-link>
+              <nuxt-link to="/batt/Lepanto_1571">勒班陀戰役(1571)</nuxt-link>
             </td>
           </tr>
         </table>
@@ -307,7 +307,7 @@
                     ><a
                       href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%91%E5%BA%93%E5%B0%94%E6%88%98%E5%BD%B9"
                       target="_blank"
-                      >亞琴哥特戰役</a
+                      >阿金庫爾戰役</a
                     ></b
                   ></i
                 >與<i

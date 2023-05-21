@@ -379,8 +379,8 @@
                   >成吉思汗(戰役)</nuxt-link
                 >的<nuxt-link to="/batt/Into_China">入主中原</nuxt-link
                 >關卡，<nuxt-link to="/civs/Koreans">朝鮮</nuxt-link
-                >戰役<nuxt-link to="/batt/Noryang_Point_1598">洛陽點</nuxt-link
-                >(露梁海戰)的鄧子龍將軍，<nuxt-link to="/civs/Vietnamese"
+                >戰役<nuxt-link to="/batt/Noryang_Point_1598">露梁海戰(1598) </nuxt-link
+                >的鄧子龍將軍，<nuxt-link to="/civs/Vietnamese"
                   >越南</nuxt-link
                 ><nuxt-link to="/batt/Le_Loi">黎利戰役</nuxt-link>的大明勢力。
               </li>
@@ -399,7 +399,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/LA3.jpg" class="imgn" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Noryang_Point_map.png" class="imgn" alt="" />
               </div>
             </td>
           </tr>

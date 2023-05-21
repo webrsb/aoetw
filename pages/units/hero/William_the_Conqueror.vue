@@ -22,7 +22,7 @@
             征服者威廉是一位<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
             >，只有在地圖編輯器和<nuxt-link to="/batt/Hastings_1066"
-              >哈斯汀斯（1066）</nuxt-link
+              >哈斯汀斯戰役(1066)</nuxt-link
             >中登場，外型是拿著長矛的<nuxt-link to="/units/Cavalier"
               >重裝騎士</nuxt-link
             >，他是一個<nuxt-link to="/units/hero">英雄</nuxt-link

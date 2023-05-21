@@ -2,18 +2,18 @@
   <div class="container">
     <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
-        <h1>毀壞的石碑</h1>
+        <h1>斷壁殘垣</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>毀壞的石碑</b>是《<nuxt-link to="/games/ak"
+            <b>斷壁殘垣</b>是《<nuxt-link to="/games/ak"
               >世紀帝國II：非洲王國</nuxt-link
-            >》<nuxt-link to="/batt/Yodita">優娣忒戰役</nuxt-link
+            >》<nuxt-link to="/batt/Yodita">游娣特戰役</nuxt-link
             >的第四個場景。<nuxt-link to="/batt">戰役</nuxt-link>中<nuxt-link
               to="/units/hero/Yodit"
-              >優娣忒</nuxt-link
+              >游娣特</nuxt-link
             >贏得當地部落的信任成為盟友，並一起從<nuxt-link
               to="/units/hero/Gidajan"
               >極大汗</nuxt-link
@@ -116,13 +116,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">毀壞的石碑</div>
+              <div class="unititle2">斷壁殘垣</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Yodit_4.png" alt="" />
+                <img src="~assets/Yodit/Broken_Stelae_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -140,7 +140,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
+              <nuxt-link to="/batt/Yodita">游娣特</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -170,7 +170,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>
+              <nuxt-link to="/batt/A_Fallen_Crown">皇冠落地</nuxt-link>
             </td>
           </tr>
           <tr>

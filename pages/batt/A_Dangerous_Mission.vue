@@ -202,7 +202,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Suryavarman_I-3.jpg" alt="" />
+                <img src="~assets/Suryavarman_I/A_Dangerous_Mission_map.png" alt="" />
               </div>
             </td>
           </tr>

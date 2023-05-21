@@ -184,7 +184,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img
-                  src="~assets//(map)Le_Loi_-_3.The_Battle_at_Hanoi.jpg"
+                  src="~assets/Le_Loi/The_Battle_at_Hanoi_map.png"
                   alt=""
                 />
               </div>

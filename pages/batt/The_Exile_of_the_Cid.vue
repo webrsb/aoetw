@@ -2,15 +2,15 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>熙德的流亡歲月</h1>
+        <h1>席德的流放</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>熙德的流亡歲月</b>是<nuxt-link to="/batt/El_Cida"
-              >熙德戰役</nuxt-link
-            >的第三個場景，<nuxt-link to="/units/hero/El_Cid">熙德</nuxt-link
+            <b>席德的流放</b>是<nuxt-link to="/batt/El_Cida"
+              >席德戰役</nuxt-link
+            >的第三個場景，<nuxt-link to="/units/hero/El_Cid">席德</nuxt-link
             >被<nuxt-link to="/units/hero/King_Alfonso">阿方索國王</nuxt-link
             >流放後尋找一位新君主的故事。
           </p>
@@ -83,7 +83,7 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場：</dt>
-            <dd><nuxt-link to="/units/hero">英雄</nuxt-link>：熙德。</dd>
+            <dd><nuxt-link to="/units/hero">英雄</nuxt-link>：席德。</dd>
             <dt>大地之母單位：</dt>
             <dd>
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
@@ -96,8 +96,8 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>熙德必須活著。</li>
-              <li>熙德必續找一個城市生存，找一個新君主。</li>
+              <li>席德必須活著。</li>
+              <li>席德必續找一個城市生存，找一個新君主。</li>
               <li>
                 加入摩爾人的蒙達米特陣營，他的<nuxt-link to="/building/Castle"
                   >城堡</nuxt-link
@@ -118,7 +118,7 @@
           <div class="n1">
             <ul>
               <li>
-                熙德不能領導西班牙軍隊，<nuxt-link to="/techs">科技</nuxt-link
+                席德不能領導西班牙軍隊，<nuxt-link to="/techs">科技</nuxt-link
                 >是薩拉森。
               </li>
               <li>
@@ -127,7 +127,7 @@
                   >城牆</nuxt-link
                 >，因為你別無選擇。
               </li>
-              <li>熙德不能去摧毀阿方索的任何東西，除非是被迫的。</li>
+              <li>席德不能去摧毀阿方索的任何東西，除非是被迫的。</li>
             </ul>
           </div>
           <h3>斥候</h3>
@@ -135,7 +135,7 @@
           <div class="n1">
             <ul>
               <li>
-                熙德（紅色）一開始被隻身流放，不用怕你很快就會招募支持者。
+                席德（紅色）一開始被隻身流放，不用怕你很快就會招募支持者。
               </li>
               <li>
                 阿方索國王是你的敵人，但他只會恐嚇威脅較低，真正敵人是巴塞隆那的貝倫格爾伯爵，他們會派出劍兵、騎士、弩砲和<nuxt-link
@@ -152,7 +152,7 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              熙德拿到巨型投石車（在右下角）可以直接破壞阿方索國王軍隊擋在河口的城堡。
+              席德拿到巨型投石車（在右下角）可以直接破壞阿方索國王軍隊擋在河口的城堡。
             </li>
             <li>
               到達薩拉城後可以派軍隊直接破壞伯爵在外的<nuxt-link
@@ -166,7 +166,7 @@
               >建造自己的基地，開始組件自己的軍隊。
             </li>
             <li>
-              熙德可以升級到<nuxt-link to="/techs/age/Imperial_Age"
+              席德可以升級到<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link
               >，可生產巨型投石車針對城堡。
             </li>
@@ -215,13 +215,13 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                熙德的流亡歲月
+                席德的流放
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/EIC_3.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/El_Cid/The_Exile_of_the_Cid_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -238,7 +238,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="//batt/El_Cida">熙德</nuxt-link>
+              <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
             </td>
           </tr>
           <tr>

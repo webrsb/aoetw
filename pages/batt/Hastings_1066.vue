@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>哈斯汀斯（1066）</h1>
+        <h1>哈斯汀斯戰役(1066)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -243,14 +243,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                哈斯汀斯（1066）
+                哈斯汀斯戰役(1066)
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Hasting.jpg" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Hastings_map.png" alt="" />
               </div>
             </td>
           </tr>
@@ -296,14 +296,14 @@
             <td class="unit3">上一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/Vindlandsaga_1000"
-                >芬特蘭撒格（1000）</nuxt-link
+                >北地傳奇(1000)</nuxt-link
               >
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Manzikert_1071">曼奇克托（1071）</nuxt-link>
+              <nuxt-link to="/batt/Manzikert_1071">曼奇克托戰役(1071)</nuxt-link>
             </td>
           </tr>
         </table>

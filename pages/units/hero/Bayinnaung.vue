@@ -2,22 +2,22 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>勃印曩</h1>
+        <h1>莽應龍</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>勃印曩</b>是個<nuxt-link to="/units/Cavalry_Units"
+            <b>莽應龍</b>是個<nuxt-link to="/units/Cavalry_Units"
               >騎兵英雄</nuxt-link
             >，在《<nuxt-link to="/games/aor">世紀帝國II：王者崛起</nuxt-link
-            >》資料片的勃印曩相關<nuxt-link to="/batt">戰役</nuxt-link
+            >》資料片的莽應龍相關<nuxt-link to="/batt">戰役</nuxt-link
             >和地圖編輯器裡出現。
           </p>
           <p>
             在遊戲中的外貌是<nuxt-link to="/units/Elite_Battle_Elephant"
               >精銳矛象伕</nuxt-link
-            >，不過有更高的HP和攻擊。勃印曩不能被<nuxt-link
+            >，不過有更高的HP和攻擊。莽應龍不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
             >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
@@ -26,12 +26,12 @@
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <p>
-          勃印曩1517年－1581年），《明史》稱之為莽應龍，<nuxt-link
+          莽應龍1517年－1581年），《明史》稱之為莽應龍，<nuxt-link
             to="/civs/Burmese"
             >緬甸</nuxt-link
           >東籲王朝的統治者之一，<nuxt-link to="/units/hero/Tabinshwehti"
             >德彬瑞蒂</nuxt-link
-          >的繼承者。1551年至1581年在位。1551年勃印曩打敗自己的弟弟東吁王明康，即位於東吁，兩年後滅亡了孟族政權，建都於漢達瓦底。勃印曩在緬甸廣泛受到崇敬，被冠以「大帝」的尊稱。在位期間，將撣邦、寮國與蘭納併入緬甸領土。曾編制律書法典，統一度量衡，發展冶鐵、煉銅等手工業，對當時經濟文化有發展，但因征戰頻繁，人民遭受深重災難。1581年，他去世於下緬甸地區的漢達瓦底，當時緬甸的首都。
+          >的繼承者。1551年至1581年在位。1551年莽應龍打敗自己的弟弟東吁王明康，即位於東吁，兩年後滅亡了孟族政權，建都於漢達瓦底。莽應龍在緬甸廣泛受到崇敬，被冠以「大帝」的尊稱。在位期間，將撣邦、寮國與蘭納併入緬甸領土。曾編制律書法典，統一度量衡，發展冶鐵、煉銅等手工業，對當時經濟文化有發展，但因征戰頻繁，人民遭受深重災難。1581年，他去世於下緬甸地區的漢達瓦底，當時緬甸的首都。
         </p>
         <div></div>
         <div></div>
@@ -41,7 +41,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                勃印曩
+                莽應龍
               </div>
             </td>
           </tr>

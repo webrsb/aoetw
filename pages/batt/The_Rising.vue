@@ -77,7 +77,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Joan4map.png" alt="" />
+                <img src="~assets/Joan_of_Arc/The_Rising_map.png" alt="" />
               </div>
             </td>
           </tr>

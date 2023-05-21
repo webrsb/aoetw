@@ -2,16 +2,16 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>勘查（再次征服）</h1>
+        <h1>再次征服</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>勘查（再次征服）</b>是<nuxt-link to="/games/aoc"
+            <b>再次征服</b>是<nuxt-link to="/games/aoc"
               >征服者入侵</nuxt-link
             ><nuxt-link to="/batt">戰役</nuxt-link
-            ><nuxt-link to="/units/hero/El_Cid">熙德</nuxt-link>的第六個關卡。
+            ><nuxt-link to="/units/hero/El_Cid">席德</nuxt-link>的第六個關卡。
           </p>
         </div>
         <h2>玩家</h2>
@@ -60,7 +60,7 @@
                 <div class="p2"></div>
                 玩家2
               </td>
-              <td class="tc6" width="38%">熙德遺體（紅色）西班牙</td>
+              <td class="tc6" width="38%">席德遺體（紅色）西班牙</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
@@ -121,7 +121,7 @@
             <ol>
               <li>打敗約瑟夫的三支部隊，瓦倫西亞就可以維持自由。</li>
               <li>
-                熙德的遺體（在<nuxt-link to="/building/Castle">城堡</nuxt-link
+                席德的遺體（在<nuxt-link to="/building/Castle">城堡</nuxt-link
                 >附近）不能受到損毀，好讓瓦倫西亞的人民可以知道，他們已經失去他的領袖。
               </li>
             </ol>
@@ -143,7 +143,7 @@
           <div class="n1">
             <ul>
               <li>
-                熙德（紅色）在瓦倫西亞有他所需要的全部建築物，讓他可以很快就生產軍隊。
+                席德（紅色）在瓦倫西亞有他所需要的全部建築物，讓他可以很快就生產軍隊。
               </li>
               <li>
                 黑衛陸軍就在瓦倫西亞的北部是最近的威脅，是由<nuxt-link
@@ -170,7 +170,7 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              一開始你會有一隻小部隊可以進行防守，要注意熙德屍體不能受到損毀。
+              一開始你會有一隻小部隊可以進行防守，要注意席德屍體不能受到損毀。
             </li>
             <li>
               一開始黑衛陸軍，對你會比較大的威脅，他們會有<nuxt-link
@@ -184,7 +184,7 @@
                 >漁網</nuxt-link
               >供玩家直接捕魚，可以多生幾艘漁船，不過記得小心黑衛海軍的騷擾。
             </li>
-            <li>這戰役主要是武力取勝 ，並且保護熙德屍體。</li>
+            <li>這戰役主要是武力取勝 ，並且保護席德屍體。</li>
             <li>
               建議先將黑衛陸軍殲滅後，再向海外擴張，陸地上的黃金足夠讓你生產高質量的軍隊或海軍。
             </li>
@@ -261,13 +261,13 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                勘查（再次征服）
+                再次征服
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle"><img src="~assets/EIC_6.jpg" alt="" /></div>
+              <div class="unititle"><img src="~assets/El_Cid/Reconquista_map.png" alt="" /></div>
             </td>
           </tr>
           <tr>
@@ -284,7 +284,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>
+              <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -309,7 +309,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之主</nuxt-link>
+              <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之王</nuxt-link>
             </td>
           </tr>
           <tr>

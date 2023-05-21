@@ -185,7 +185,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Joan3map.png" alt="" />
+                <img src="~assets/Joan_of_Arc/The_Cleansing_of_the_Loire_map.png" alt="" />
               </div>
             </td>
           </tr>

@@ -12,7 +12,7 @@
             >或是霍斯勞一世，是西元531~579年薩珊帝國的“國王之王”（Shahanshah），是《<nuxt-link
               to="/games/aof"
               >世紀帝國II：失落的帝國</nuxt-link
-            >》<nuxt-link to="/batt/Bukhara_557">布哈拉戰役</nuxt-link
+            >》<nuxt-link to="/batt/Bukhara_557">布哈拉反擊戰(557)</nuxt-link
             >中的主要腳色，他領導著薩珊王朝的<nuxt-link to="/civs/Persians"
               >波斯人</nuxt-link
             >

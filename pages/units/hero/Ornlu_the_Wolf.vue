@@ -42,7 +42,7 @@
             <li>
               在<nuxt-link to="/batt/Battles_of_the_Conquerors"
                 >征服者戰役</nuxt-link
-              >的"芬特蘭撒格(1000)"戰役中，一旦玩家建造了<nuxt-link
+              >的"北地傳奇(1000)"戰役中，一旦玩家建造了<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >，灰狼歐魯就會攻擊玩家的<nuxt-link to="/building/Outpost"

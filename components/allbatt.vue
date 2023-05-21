@@ -35,7 +35,7 @@
               >•
               <nuxt-link to="/batt/The_Battle_of_Stirling">斯特林之役</nuxt-link
               >• <nuxt-link to="/batt/Forge_an_Alliance">締結同盟</nuxt-link>•
-              <nuxt-link to="/batt/The_Battle_of_Falkirk">福爾克之役</nuxt-link>
+              <nuxt-link to="/batt/The_Battle_of_Falkirk">福爾柯克之役</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -115,14 +115,14 @@
               <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>•
-              <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>•
+              <nuxt-link to="/batt/Scourge_of_God">上帝之怒</nuxt-link>•
+              <nuxt-link to="/batt/The_Great_Ride">天下第一騎</nuxt-link>•
               <nuxt-link to="/batt/Walls_of_Constantinople"
                 >君士坦丁堡的城牆</nuxt-link
               >•
               <nuxt-link to="/batt/A_Barbarian_Betrothal">野蠻人的宴會</nuxt-link
               >•
-              <nuxt-link to="/batt/Catalaunian_Fields">卡塔隆尼亞平原</nuxt-link
+              <nuxt-link to="/batt/Catalaunian_Fields">沙隆戰役</nuxt-link
               >•
               <nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link>
             </td>
@@ -132,7 +132,7 @@
               <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link
+              <nuxt-link to="/batt/Brother_against_Brother">手足相殘</nuxt-link
               >•
               <nuxt-link to="/batt/The_Enemy_of_my_Enemy"
                 >我敵人的敵人</nuxt-link
@@ -140,8 +140,8 @@
               <nuxt-link to="/batt/The_Exile_of_the_Cid"
                 >席德的流亡歲月</nuxt-link
               >• <nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link>•
-              <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之主</nuxt-link>•
-              <nuxt-link to="/batt/Reconquista">勘查</nuxt-link>
+              <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之王</nuxt-link>•
+              <nuxt-link to="/batt/Reconquista">再次征服</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -164,15 +164,15 @@
               >
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Tours_732">都爾(732)</nuxt-link>•
+              <nuxt-link to="/batt/Tours_732">都爾戰役(732)</nuxt-link>•
               <nuxt-link to="/batt/Vindlandsaga_1000"
-                >芬特蘭撒格(1000)</nuxt-link
-              >• <nuxt-link to="/batt/Hastings_1066">哈斯汀斯(1066)</nuxt-link>•
-              <nuxt-link to="/batt/Manzikert_1071">曼奇克托(1071)</nuxt-link>•
-              <nuxt-link to="/batt/Agincourt_1415">亞琴哥特(1415)</nuxt-link>•
+                >北地傳奇(1000)</nuxt-link
+              >• <nuxt-link to="/batt/Hastings_1066">哈斯汀斯戰役(1066)</nuxt-link>•
+              <nuxt-link to="/batt/Manzikert_1071">曼奇克托戰役(1071)</nuxt-link>•
+              <nuxt-link to="/batt/Agincourt_1415">阿金庫爾戰役(1415)</nuxt-link>•
               <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>•
-              <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>•
-              <nuxt-link to="/batt/Noryang_Point_1598">洛陽點(1598)</nuxt-link>
+              <nuxt-link to="/batt/Kyoto_1582">京都之戰(1582)</nuxt-link>•
+              <nuxt-link to="/batt/Noryang_Point_1598">露梁海戰(1598) </nuxt-link>
             </td>
           </tr>
           <tr>
@@ -193,7 +193,7 @@
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
-                >條條大路通圍城</nuxt-link
+                >冷河戰役</nuxt-link
               >•
               <nuxt-link to="/batt/Legionaries_on_the_Horizon"
                 >羅馬軍團隨時殺到</nuxt-link
@@ -218,7 +218,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/Baria.php">巴里</nuxt-link>
+              <nuxt-link to="/Baria">巴里</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Arrival_at_Bari">抵達巴里</nuxt-link>•
@@ -270,15 +270,15 @@
               >
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>•
+              <nuxt-link to="/batt/Bukhara_557">布哈拉反擊戰(557)</nuxt-link>•
               <nuxt-link to="/batt/Dos_Pilas_648">雙池城記(648)</nuxt-link>•
-              <nuxt-link to="/batt/York_865">約克(865)</nuxt-link>•
+              <nuxt-link to="/batt/York_865">約克城(865)</nuxt-link>•
               <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>•
               <nuxt-link to="/batt/Langshan_Jiang_919">狼山江(919)</nuxt-link>•
               <nuxt-link to="/batt/Kaesong_936">開城(936)</nuxt-link>•
-              <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>•
-              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯島之戰(1191)</nuxt-link>•
-              <nuxt-link to="/batt/Bapheus_1302">巴菲烏斯(1302)</nuxt-link>
+              <nuxt-link to="/batt/Kurikara_1183">俱利伽羅之戰(1183)</nuxt-link>•
+              <nuxt-link to="/batt/Cyprus_1191">賽普勒斯島之戰(1191)</nuxt-link>•
+              <nuxt-link to="/batt/Bapheus_1302">兵臨巴菲烏斯(1302)</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -317,9 +317,9 @@
               <nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Hunted">擒獲</nuxt-link>•
-              <nuxt-link to="/batt/The_Sting_of_the_Scorpion">蠍螫</nuxt-link>•
-              <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>•
+              <nuxt-link to="/batt/Hunted">亡命之徒</nuxt-link>•
+              <nuxt-link to="/batt/The_Sting_of_the_Scorpion">黨同伐異</nuxt-link>•
+              <nuxt-link to="/batt/Djeriba_Gold">虎口奪食</nuxt-link>•
               <nuxt-link to="/batt/Blood_on_the_River_Bank">血濺河灘</nuxt-link
               >•
               <nuxt-link to="/batt/The_Lions_Den">深入虎穴</nuxt-link>
@@ -332,22 +332,22 @@
               >
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>•
+              <nuxt-link to="/batt/The_Old_World">前朝舊夢</nuxt-link>•
               <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>•
               <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>•
               <nuxt-link to="/batt/Estado_da_India">葡屬印度</nuxt-link>•
-              <nuxt-link to="/batt/A_Sons_Blood">兒子的血仇</nuxt-link>
+              <nuxt-link to="/batt/A_Sons_Blood">喪子之痛</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
+              <nuxt-link to="/batt/Yodita">游娣特</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Path_of_Exile">流亡之路</nuxt-link>•
-              <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>•
-              <nuxt-link to="/batt/A_Fallen_Crown">摔落的皇冠</nuxt-link>•
-              <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>•
+              <nuxt-link to="/batt/Path_of_Exile">亡命天涯</nuxt-link>•
+              <nuxt-link to="/batt/The_Right_Partner">真命天子</nuxt-link>•
+              <nuxt-link to="/batt/A_Fallen_Crown">皇冠落地</nuxt-link>•
+              <nuxt-link to="/batt/Broken_Stelae">斷壁殘垣</nuxt-link>•
               <nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </td>
           </tr>
@@ -397,7 +397,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
+              <nuxt-link to="/batt/Bayinnaunga">莽應龍</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Burmese_Tigers">餓虎撲食</nuxt-link>•
@@ -494,7 +494,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Tamerlane">大公爵</nuxt-link>
+              <nuxt-link to="/batt/The_Grand_Dukes_of_the_West">大公爵</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/A_Kingdom_Divided">王國分裂</nuxt-link>•

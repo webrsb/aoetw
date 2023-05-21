@@ -240,7 +240,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Divide_and_Conquer1.jpg" alt="" />
+                <img src="~assets/Tariq_ibn_Ziyada/Divide_and_Conquer_map.png" alt="" />
               </div>
             </td>
           </tr>

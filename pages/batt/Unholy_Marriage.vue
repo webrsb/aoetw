@@ -10,7 +10,7 @@
           <p>
             <b>罪惡的婚姻</b>是<nuxt-link to="/games/delw">西方霸主</nuxt-link
             >DLC新增的<nuxt-link to="/batt">戰役</nuxt-link>中，<nuxt-link
-              to="/batt/Tamerlane"
+              to="/batt/The_Grand_Dukes_of_the_West"
               >大公爵</nuxt-link
             >的第四關。本關之後的主角換成約翰的兒子：好人菲利普。
           </p>
@@ -251,7 +251,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Tamerlane">大公爵</nuxt-link>
+              <nuxt-link to="/batt/The_Grand_Dukes_of_the_West">大公爵</nuxt-link>
             </td>
           </tr>
           <tr>

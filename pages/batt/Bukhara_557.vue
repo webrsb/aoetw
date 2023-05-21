@@ -2,18 +2,18 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>布哈拉（557）</h1>
+        <h1>布哈拉反擊戰（557）</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b><nuxt-link to="/batt/Bukhara_557">布哈拉</nuxt-link>之戰</b
+            <b><nuxt-link to="/batt/Bukhara_557">布哈拉反擊戰</nuxt-link></b
             >是《<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
             >》中<nuxt-link to="/batt/Battles_of_the_Forgotten"
               >失落的帝國的戰役</nuxt-link
             >的其中一個戰役。該<nuxt-link to="/batt">戰役</nuxt-link
-            >是根據現實事件布哈拉之戰改編而成。
+            >是根據現實事件布哈拉反擊戰改編而成。
           </p>
         </div>
         <h2>玩家</h2>
@@ -305,13 +305,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">布哈拉(557)</div>
+              <div class="unititle2">布哈拉反擊戰(557)</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bukhara_map.png" alt="" />
+                <img src="~assets/Battles_of_the_Conquerors/Bukhara_map.png" alt="" />
               </div>
             </td>
           </tr>

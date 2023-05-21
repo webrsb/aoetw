@@ -25,7 +25,7 @@
         <div class="n1">
           <p>
             巽他皇家侍衛會出現在<nuxt-link to="/batt/Bayinnaunga"
-              >勃印曩</nuxt-link
+              >莽應龍</nuxt-link
             >和<nuxt-link to="/batt/Gajah_Mada">加查·馬達</nuxt-link
             >的<nuxt-link to="/batt">戰役</nuxt-link>中。
           </p>
@@ -35,7 +35,7 @@
               >風雲變色</nuxt-link
             >"作為Sunda王子的護衛要保護王子不受加查·馬達，這個試著奪取政權的人的迫害。
           </p>
-          <strong><li>勃印曩</li></strong>
+          <strong><li>莽應龍</li></strong>
           <p>
             巽他皇家侍衛在戰役"<nuxt-link to="/batt/The_Burmese_Tigers"
               >餓虎撲食</nuxt-link

@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
-        <h1>舊世界</h1>
+        <h1>前朝舊夢</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>舊世界</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
+            <b>前朝舊夢</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
             >中《<nuxt-link to="/batt/Francisco_de_Almeida"
               >法蘭西斯科·德·阿爾梅達</nuxt-link
             >》劇情<nuxt-link to="/batt">戰役</nuxt-link
@@ -348,16 +348,14 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                舊世界
+                前朝舊夢
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center>
-                  <img src="~assets/The_Old_World.png" alt="" />
-                </center>
+                <img src="~assets/Francisco_de_Almeida/The_Old_World_map.png" alt="" />
               </div>
             </td>
           </tr>
